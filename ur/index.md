@@ -2,7 +2,7 @@
 layout: default
 title: خبروں کا خلاصہ
 lang: ur
-dir: rtl
+rtl: true
 ---
 
 پاکستان کی تازہ خبروں کا خلاصہ — 04-Apr-2026 21:04HRS:
