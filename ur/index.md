@@ -1,62 +1,71 @@
----layout: defaulttitle: خبروں کا خلاصہlang: urdir: rtl---پاکستان کی تازہ خبروں کا خلاصہ — 04-Apr-2026 19:25HRS:
-پڑھنے کا وقت: 4 mins
+---
+layout: default
+title: خبروں کا خلاصہ
+lang: ur
+dir: rtl
+---
+
+پاکستان کی تازہ خبروں کا خلاصہ — 04-Apr-2026 21:04HRS:
+پڑھنے کا وقت: 5 mins
 
 ## معیشت
 
-*   پاکستان کا کرنٹ اکاؤنٹ خسارے کے بجائے 2.1 ارب ڈالر کی سرپلس ظاہر ہوا، جو کہ گزشتہ 14 برسوں میں پہلی بار ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40373319/pakistans-current-account-posts-21bn-surplus-in-fy25)*
-*   فدرل بورڈ آف ریونیو (ایف بی آر) نے مقامی اور درآمد شدہ گاڑیوں پر نیو انرجی وہیکل (این ای وی) اڈاپشن لیوی کی شرح کا نوٹیفکیشن جاری کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40373315/fbr-notifies-nev-adoption-levy-on-local-imported-vehicles)*
-*   پاکستان کا حقیقی موثر تبادلہ نرخ (REER) ستمبر 2023 کے بعد سب سے کم سطح پر پہنچ گیا۔ *[Pro Pakistani](https://propakistani.pk/2025/07/18/pakistans-real-effective-exchange-rate-drops-to-lowest-level-since-september-2023/)*
-*   پام آئل کی قیمتوں میں اضافہ ہوا اور 14 ہفتوں میں سب سے زیادہ بند ہونے کی راہ پر گامزن ہے۔ *[Business Recorder](https://www.brecorder.com/news/40373323/palm-oil-makes-more-than-3-weekly-gain-for-highest-close-in-14-weeks)*
-*   یورپی حصص میں اضافہ ہوا کیونکہ سرمایہ کار آمدنی پر توجہ مرکوز کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40373318/european-shares-rise-as-investors-focus-on-earnings)*
+- متحدہ عرب امارات سے پاکستان کو موصول ہونے والی مالی ڈپازٹس کے بارے میں گمراہ کن اور بے بنیاد تبصروں کو خارج کرتے ہوئے، وزارت خارجہ نے اس معاملے کو ایک روٹین کی لین دین قرار دیا۔ *[Dawn](https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae)*
+- منصوبہ بندی کے وزیر احسن اقبال نے تیل کی درآمدی بل کو قابو کرنے کے لیے مارکیٹ کے اوقاتِ کار نظر ثانی کرنے کی تجویز دی تاکہ بجلی کی بچت ہو سکے۔ *[Dawn](https://www.dawn.com/news/1988554/planning-minister-advocates-for-revising-market-timings-to-rein-in-oil-import-bill)*
+- وزیراعظم شہباز شریف نے پیٹرولیم لیوی میں 80 روپے فی لیٹر کی کمی کا اعلان کیا، جس سے پیٹرول کی قیمت 378 روپے فی لیٹر ہوگئی۔ *[Dawn](https://www.dawn.com/news/1988380/petrol-price-drops-to-rs378-as-pm-cuts-levy-amid-backlash)*
+- پاکستان 3.5 ارب ڈالر کا متحدہ عرب امارات کا قرض ماہ کے آخر تک واپس کرنے کا فیصلہ کر چکا ہے، جبکہ ابوظبی نے رقم کی فوری واپسی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1988321/pakistan-to-return-35bn-uae-debt-before-month-end-official)*
+- پنجاب کے وزیر اعلیٰ مریم نواز شریف نے عوام پر مالی بوجھ کم کرنے کے لیے ایک ریلیف پیکج کا اعلان کیا، جس میں موٹر بائیک مالکان کے لیے 20 لیٹر پیٹرول ماہانہ 100 روپے فی لیٹر کی سبسڈی شامل ہے۔ *[ARY News](https://arynews.tv/how-to-get-rs100-per-liter-petrol-full-procedure/)*
+- پانچ یورپی یونین ممالک نے بڑھتی ہوئی ایندھن کی قیمتوں کے ردعمل میں توانائی کمپنیوں کے منافع پر ونڈ فال ٹیکس لگانے کا مطالبہ کیا ہے۔ *[ARY News](https://arynews.tv/five-eu-countries-call-for-windfall-tax-on-energy-companies/)*
+- پاکستان اپنے فوڈ سپلائی چین کو محفوظ رکھنے کے لیے اپنی تجارت اور آب و ہوا کی حکمت عملیوں کو ہم آہنگ کرنے کی کوشش کر رہا ہے۔ *[ARY News](https://arynews.tv/climate-strategies-for-food-supply-security-in-pakistan/)*
+- پاکستان اسٹاک ایکسچینج (PSX) عالمی سطح پر بدترین کارکردگی کا مظاہرہ کرنے والے تیسرے اسٹاک مارکیٹ کے طور پر سامنے آیا، جس نے مارچ 2026 کی سہ ماہی میں روپے کی اصطلاح میں 14.5% اور ڈالر کی اصطلاح میں 14.6% کی منفی واپسی ریکارڈ کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/psx-sentiment-to-hinge-on-middle-east-conflict-developments-report/)*
+- پاکستان کو کیئریک منصوبے کے لیے 360 ملین ڈالر کا ADB قرض خطرے میں ہے، کیونکہ منظوری اب وزیراعظم شہباز شریف کے منتظر ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/pakistan-risks-losing-360-million-adb-loan-as-carec-project-awaits-pm-approval/)*
+- بجلی کے نرخوں میں اضافے کا امکان، وزیرِ بجلی نے ایندھن کی قیمتوں میں اضافے کے بعد اشارہ دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/power-minister-signals-electricity-tariff-hike-after-fuel-price-surge/)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   نیٹ فلیکس نے کہا کہ اس نے ارجنٹائن کے ٹی وی سیریز میں GenAI کا استعمال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40373314/netflix-says-it-used-genai-in-argentine-tv-series)*
+- سائنسدانوں نے نظریاتی طور پر بہت بڑے ستارے کے دھماکوں کے ثبوت دریافت کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1988354/scientists-find-evidence-for-theorised-gargantuan-star-explosions)*
+- آرٹیمس 2 کے ماہرِ فضائیات جیرمی ہینسن نے کہا کہ وہ خلائی جہاز کے پیچیدہ پرواز کے راستے کے بعد "آسمان سے گر رہے تھے" جیسا محسوس کر رہے تھے۔ *[Dawn](https://www.dawn.com/news/1988549/like-falling-out-of-the-sky-canadian-astronaut-describes-phenomenal-artemis-journey)*
+- آرٹیمس کے چار فضانورد زمین سے نصف راستے پر ہیں، جو چاند کی طرف پرواز کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1988493/artemis-astronauts-pass-half-way-point-on-way-to-moon)*
 
 ## موسم
 
-*   کراچی میں آج رات سے اتوار تک گرج چمک کے ساتھ بارش کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40373320/thundershower-likely-to-batter-karachi-from-tonight)*
-*   بھارت کے بہار میں بادلوں کے باعث 33 افراد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1924970/lightning-strikes-kill-33-people-in-indias-bihar)*
+- محکمہ موسمیات نے 5 سے 9 اپریل تک ملک گیر تیز بارشوں کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/1988560/pmd-forecasts-countrywide-spell-of-heavy-rains-from-april-5-9)*
+- کراچی اور سندھ کے دیگر شہروں نے اپریل کے لیے نئی موسمیاتی ریکارڈ قائم کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1988421/karachi-other-sindh-cities-set-new-weather-records-for-april)*
 
 ## سیاست
 
-*   چیف آف آرمی اسٹاف (سی او اے ایس) فیلڈ مارشل عاصم منیر اور لیبیا کی مسلح افواج کے سربراہ نے دفاعی صنعتی تعاون پر اتفاق کیا۔ *[Dawn](https://www.dawn.com/news/1925004/coas-munir-libyan-armed-forces-chief-agree-on-defence-industrial-collaboration-ispr)*
-*   ایران نے یورپی ممالک کو سنکشنز کو دوبارہ فعال کرنے کی کوئی بنیاد نہیں دی۔ *[Dawn](https://www.dawn.com/news/1924997/iran-says-europeans-have-no-grounds-to-trigger-sanctions-snapback)*
-*   سینیٹ نے خواتین کے خلاف سنگین جرائم کے لیے سزائے موت ختم کرنے کا بل منظور کیا۔ *[Pro Pakistani](https://propakistani.pk/2025/07/18/bill-passed-to-end-death-penalty-for-major-crimes-against-women/)*
-*   پی ٹی آئی کے اندر سینیٹ ٹکٹ کے تنازع پر اندرونی بغاوت۔ *[ARY](https://arynews.tv/pti-office-bearers-want-irfan-saleems-senate-ticket/)*
+- ایران کے وزیر خارجہ عباس عراقی نے کہا کہ تہران نے کبھی بھی پاکستان میں ممکنہ امن مذاکرات کے لیے جانے سے انکار نہیں کیا۔ *[Dawn](https://www.dawn.com/news/1988544/never-refused-to-go-to-islamabad-iran-says-us-media-misrepresenting-its-position-on-peace-talks)*
+- وزیر دفاع خواجہ آصف نے بھارت کو "جھوٹے پرچم کے آپریشن" کرنے کے خلاف خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/1988527/khawaja-asif-warns-india-against-conducting-false-flag-operation)*
+- پیپلز پارٹی نے گلگت بلتستان اسمبلی کے لیے الیکشن شیڈول کے فوری اعلان کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1988514/ppp-demands-election-schedule-for-gilgit-baltistan-assembly-amid-months-long-delay-in-polls)*
+- صدر آصف علی زرداری اور وزیراعظم شہباز شریف نے سابق وزیراعظم ذوالفقار علی بھٹو کی 47ویں برسی پر خراج تحسین پیش کیا۔ *[Dawn](https://www.dawn.com/news/1988517/president-pm-pay-tribute-to-zulfikar-ali-bhutto-on-47th-death-anniversary)*
+- سابق وزیراعظم شاہد خاقان عباسی نے ایندھن کی قیمتوں کو غیر منظم کرنے اور الیکٹرک گاڑیوں کو فروغ دینے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1988532/shahid-khaqan-urges-govt-to-deregulate-fuel-prices-promote-electric-vehicles)*
+- ترکی کے صدر ایردوان نے کہا کہ مشرق وسطیٰ کی جنگ نے ایک "جیوسٹریٹجک تعطل" پیدا کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40414786/erdogan-says-mideast-war-has-caused-geostrategic-impasse)*
+- یوکرین کے صدر زیلنسکی نے سکیورٹی مذاکرات کے لیے استنبول میں ترکی کے صدر ایردوان سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40414778/zelensky-in-istanbul-for-security-talks-with-erdogan)*
 
 ## قومی
 
-*   پنجاب کے کالا باغ میں مون سون کی بارشوں کے باعث دریائے سندھ میں درمیانے درجے کا سیلاب آیا۔ *[Dawn](https://www.dawn.com/news/1924989/medium-level-flood-on-indus-river-at-punjabs-kalabagh-due-to-monsoon-rains)*
-*   سیکیورٹی فورسز نے پاک-افغان سرحد پر دہشت گردوں کی گھسपैٹھ کی کوشش کو ناکام بنایا اور 5 مبینہ خودکش بمباروں کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1925009/security-forces-foil-infiltration-bid-by-terrorists-on-pak-afghan-border-state-media)*
-*   بلوچستان میں مستونگ میں بلوچستان کانسٹیبلری کے قافلے پر حملہ، ایک اہلکار شہید، تین زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1925001/1-martyred-3-injured-as-gunmen-attack-balochistan-constabulary-convoy-in-mastung)*
-*   کوئٹہ اے ٹی سی نے مہرنگ بلوچ اور دیگر کو 15 روزہ جسمانی ریمانڈ پر دوبارہ بھیج دیا۔ *[Dawn](https://www.dawn.com/news/1925000/quetta-atc-sends-mahrang-baloch-others-on-15-day-physical-remand-again)*
-*   وزیراعظم شہباز نے الیکٹرک گاڑیوں کو سب کے لیے قابل رسائی بنانے کے لیے جامع منصوبہ تیار کرنے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40373317/pm-shehbaz-emphasises-comprehensive-plan-to-make-evs-accessible-for-all)*
-*   یوٹیلیٹی سٹورز کو مستقل طور پر بند کرنے کے لیے حکومت کو ملازمین کو 29 ارب روپے سے زیادہ کی ادائیگی کرنا ہوگی۔ *[Pro Pakistani](https://propakistani.pk/2025/07/18/govt-needs-to-pay-over-rs-29-billion-to-staff-to-close-utility-stores-permanently/)*
+- نور مقدم کیس: سپریم کورٹ نے 8 اپریل کو زاہد جaffer کے ریویو پٹیشن کی سماعت مقرر کی۔ *[Dawn](https://www.dawn.com/news/1988520/noor-mukadam-case-sc-fixes-hearing-of-zahir-jaffers-review-plea-for-april-8)*
+- پاکستان نیوی نے اپنی فلوٹ میں دوسرا ملگیم کلاس کورویٹ شامل کیا۔ *[Dawn](https://www.dawn.com/news/1988533/pakistan-navy-inducts-second-milgem-class-corvette-into-fleet)*
 
 ## بین الاقوامی
 
-*   سری لنکا میں تین ہاتھی ہلاک، تحفظ کے اقدامات کو دھچکا۔ *[Dawn](https://www.dawn.com/news/1925007/three-sri-lankan-elephants-killed-in-blow-to-conservation-efforts)*
-*   جرمنی نے جرائم میں ملوث 81 افغانوں کو ڈیپورٹ کیا۔ *[Dawn](https://www.dawn.com/news/1924988/germany-deports-81-afghans-convicted-of-crimes)*
-*   غزہ سول ڈیفنس ایجنسی کا کہنا ہے کہ اسرائیلی حملوں میں 14 افراد ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40373313/gaza-civil-defence-agency-says-israeli-strikes-kill-14)*
-*   ولodymyr Zelenskyy نے روس پر نئے یورپی یونین کے تعزیرات کو "ضروری اور وقت پر" قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40373312/volodymyr-zelenskyy-hails-new-eu-sanctions-on-russia-as-essential-and-timely)*
+- ورجینیا جیوفری کا خاندان کنگ چارلس سے اپیل کر رہا ہے کہ وہ امریکہ کے دورے کے دوران اپسٹین کے متاثرین سے ملیں۔ *[Dawn](https://www.dawn.com/news/1988577/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit)*
+- ایران اور امریکہ دونوں طیاروں کے گرنے کے بعد ایک امریکی پائلٹ کی تلاش کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1988487/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet)*
+- اقوام متحدہ کی سلامتی کونسل خلیج عرب کی جانب سے ہرمز کی بحر کو دوبارہ کھولنے کی کوششوں پر تقسیم ہے۔ *[Dawn](https://www.dawn.com/news/1988384/unsc-divided-as-gulf-pushes-to-reopen-hormuz)*
+- ایران کے گارڈز نے کہا کہ انہوں نے خلیج میں اسرائیل سے منسلک ایک جہاز کو نشانہ بنایا۔ *[Business Recorder](https://www.brecorder.com/news/40414782/iran-guards-say-targeted-israel-linked-ship-in-gulf)*
+- بھارت نے امریکہ-اسرائیل جنگ کے درمیان ایران سے تیل کی پہلی خریداری کی ہے۔ *[ARY News](https://arynews.tv/india-makes-first-iranian-oil-buy-in-seven-years-with-no-payment-problems/)*
+- روس کے تیل کے ٹرمینلز پر حملوں کے باعث دوسری ہفتے سے جہاز رانی معطل ہے۔ *[ARY News](https://arynews.tv/russian-oil-terminals-under-attack-unable-to-accept-shipments-for-second-week-sources-say/)*
+- سابق صدر ٹرمپ نے ایران کو 48 گھنٹے کا الٹی میٹم دیا ہے۔ *[ARY News](https://arynews.tv/trump-issues-stern-warning-to-iran-over-strait-of-hormuz/)*
 
 ## کھیل
 
-*   پاکستان کے محمد آصف آج بحرین میں آئی بی ایس ایف ورلڈ ماسٹرز سنوکر چیمپئن شپ کے فائنل میں بھارتی کھلاڑی سے مقابلہ کریں گے۔ *[Dawn](https://www.dawn.com/news/1924987/pakistans-muhammad-asif-to-face-indian-cueist-in-ibsf-world-masters-final-today)*
+- ایرلنگ ہالینڈ کے ہیٹ ٹرک کی مدد سے مانچسٹر سٹی نے لیورپول کو 4-0 سے شکست دی۔ *[ARY News](https://arynews.tv/erling-haaland-hat-trick-helps-man-city-beat-liverpool-4-0/)*
 
 ## صحت
 
-*   ایک ارب افریقی لوگ کھانا پکانے کے آلودگی سے متاثر ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1925002/one-billion-africans-being-harmed-by-cooking-pollution)*
+- (اس زمرے میں کوئی خبر نہیں)
 
 ## دیگر
 
-*   جسٹن ٹمبرلیک اور جیسکا بیل طلاق کی جانب بڑھ رہے ہیں۔ *[ARY](https://arynews.tv/justin-timberlake-jessica-biel-headed-for-a-divorce/)*
-*   ہیلی بیبر روڈ کی فروخت سے جسٹن کے اسکوٹر براؤن کے معاہدے کا معاوضہ ادا کریں گی؟ *[ARY](https://arynews.tv/hailey-bieber-to-pay-off-justin-scooter-braun-deal-with-rhode-sale/)*
-*   ٹرمپ نے وال اسٹریٹ جرنل پر 2003 کے مبینہ خط پر مقدمہ کرنے کی دھمکی دی۔ *[Dawn](https://www.dawn.com/news/1924961/trump-threatens-to-sue-wsj-over-story-on-alleged-2003-letter-to-epstein)*
-*   گھوڑا گاڑی سروس: بحری امور کے وزیر جوناٸد انور چودھری نے تجاویز کا جائزہ لیا۔ *[ARY](https://arynews.tv/gwadar-gulf-ferry-service-july-18-2025-update/)*
-*   OICCI نے پاکستان میں موسمیاتی تبدیلی کے اثرات پر تشویش کا اظہار کیا۔ *[Pro Pakistani](https://propakistani.pk/2025/07/18/oicci-shows-concern-over-climate-change-impacts-in-pakistan/)*
-*   کراچی میں سعود آباد میں ڈمپر ٹرک سے موٹر سائیکل سوار ہلاک ہوا۔ *[Dawn](https://www.dawn.com/news/1924967/dumper-truck-kills-motorcyclist-in-karachis-saudabad-police)*
-*   امریکہ نے پاہلگام حملے کے پیچھے تنظیم کو "دہشت گرد تنظیم" قرار دیا۔ *[Dawn](https://www.dawn.com/news/1924884/us-declares-outfit-behind-pahalgam-attack-terror-group)*
-*   ہوم اکنامکس یونیورسٹی نے چھ نئے ڈگری پروگرامز کا اعلان کیا۔ *[Pro Pakistani](https://propakistani.pk/2025/07/18/home-economics-university-announce-six-new-degree-programs/)*
+- (اس زمرے میں کوئی خبر نہیں)
 
