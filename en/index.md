@@ -1,4 +1,5 @@
-Here’s your Pakistan news briefing for 02-Apr-2026 13:07HRS:
+---layout: defaulttitle: Pakistani News Briefinglang: en---Published at: 04-Apr-2026 19:27HRS:
+
 Time to read: 4 mins
 
 ### Economy
@@ -51,4 +52,3 @@ Time to read: 4 mins
 - Donald Trump threatened to sue The Wall Street Journal over a story about a letter allegedly written to Jeffrey Epstein. *[Dawn](https://www.dawn.com/news/1924961/trump-threatens-to-sue-wsj-over-story-on-alleged-2003-letter-to-epstein)*
 - The US declared the outfit behind the Pahalgam attack a foreign terrorist organization. *[Dawn](https://www.dawn.com/news/1924884/us-declares-outfit-behind-pahalgam-attack-terror-group)*
 
-- Sent by Zaki Auto
