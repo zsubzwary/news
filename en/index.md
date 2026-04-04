@@ -1,4 +1,10 @@
----layout: defaulttitle: Pakistani News Briefinglang: en---Published at: 04-Apr-2026 19:27HRS:
+---
+layout: default
+title: Pakistan News Briefing
+lang: en
+---
+
+Published at: 04-Apr-2026 19:32HRS:
 
 Time to read: 4 mins
 
