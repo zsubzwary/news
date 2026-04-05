@@ -4,78 +4,81 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Apr-2026 21:02HRS:
+Published at: 05-Apr-2026 09:02PKT:
 
 Time to read: 6 mins
 
 ### Economy
-- Pakistan is set to return $3.5 billion in debt to the UAE before the month's end, despite impacting foreign exchange reserves. *[Dawn](https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae)*
-- Planning Minister Ahsan Iqbal advocates for revising market timings to reduce oil usage and combat rising import costs. *[Dawn](https://www.dawn.com/news/1988554/planning-minister-advocates-for-revising-market-timings-to-rein-in-oil-import-bill)*
-- Shahid Khaqan Abbasi urges the government to deregulate fuel prices and promote electric vehicles to mitigate the economic impact of rising oil prices. *[Dawn](https://www.dawn.com/news/1988532/shahid-khaqan-urges-govt-to-deregulate-fuel-prices-promote-electric-vehicles)*
-- Petrol prices have been reduced to Rs378 per litre after the PM cut the petroleum levy by Rs80, following public backlash. *[Dawn](https://www.dawn.com/news/1988380/petrol-price-drops-to-rs378-as-pm-cuts-levy-amid-backlash)*
-- Pakistan risks losing a $360 million ADB loan for a highway project due to delays in PM approval. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/pakistan-risks-losing-360-million-adb-loan-as-carec-project-awaits-pm-approval/)*
-- Businesses warn of factory closures, rising costs, and job losses due to the recent fuel price hike. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/businesses-warn-of-factory-closures-rising-costs-job-losses-as-fuel-hike-strains-industry-smes-agriculture/)*
-- The PSX is ranked as the third worst-performing equity market globally, with negative returns of 14.5%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/psx-sentiment-to-hinge-on-middle-east-conflict-developments-report/)*
-- Global commodity price fluctuations and geopolitical developments pose economic risks to Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/global-commodity-price-fluctuations-geopolitical-developments-pose-economic-risks-govt-tells-na/)*
-- Five EU countries are calling for a windfall tax on energy companies’ profits due to rising fuel prices. *[ARY](https://arynews.tv/five-eu-countries-call-for-windfall-tax-on-energy-companies/)*
-- Pakistan is aligning its trade and climate policies to strengthen its food supply chain. *[ARY](https://arynews.tv/climate-strategies-for-food-supply-security-in-pakistan/)*
-
-### Politics
-- Khawaja Asif warned India against conducting a “false-flag operation” to blame Pakistan, threatening a strong reaction. *[Dawn](https://www.dawn.com/news/1988527/khawaja-asif-warns-india-against-conducting-false-flag-operation)*
-- President Zardari and PM Sharif paid tribute to Zulfikar Ali Bhutto on his 47th death anniversary. *[Dawn](https://www.dawn.com/news/1988517/president-pm-pay-tribute-to-zulfikar-ali-bhutto-on-47th-death-anniversary)*
-- The PPP demands an election schedule for the Gilgit-Baltistan Assembly, citing months-long delays. *[Dawn](https://www.dawn.com/news/1988514/ppp-demands-election-schedule-for-gilgit-baltistan-assembly-amid-months-long-delay-in-polls)*
-- Trump is considering a broader cabinet shake-up amid pressure from the Iran war. *[ARY](https://arynews.tv/trump-weighs-broader-cabinet-shake-up-as-iran-war-pressure-grows)* & *[Business Recorder](https://www.brecorder.com/news/40414775/trump-weighs-broader-cabinet-shake-up-as-iran-war-pressure-grows)*
-
-### International
-- Iran stated it never refused to go to Islamabad for peace talks regarding the US-Israeli war. *[Dawn](https://www.dawn.com/news/1988544/never-refused-to-go-to-islamabad-iran-says-us-media-misrepresenting-its-position-on-peace-talks)*
-- The UN Security Council is divided over a Gulf Arab initiative to reopen the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40414785/unsc-divided-as-gulf-pushes-to-reopen-hormuz)*
-- Italy’s PM arrived in Qatar after a visit to Saudi Arabia amid Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40414780/italian-pm-arrives-in-qatar-after-saudi-arabia-visit)*
-- Zelensky is in Istanbul for security talks with Erdogan. *[Business Recorder](https://www.brecorder.com/news/40414778/zelensky-in-istanbul-for-security-talks-with-erdogan)*
-- India has made its first Iranian oil buy in seven years. *[ARY](https://arynews.tv/india-makes-first-iranian-oil-buy-in-seven-years-with-no-payment-problems/)* & *[Business Recorder](https://www.brecorder.com/news/40414769/india-makes-first-iranian-oil-buy-in-seven-years-with-no-payment-problems)*
-- Trump issued a 48-hour ultimatum to Iran regarding the Strait of Hormuz. *[ARY](https://arynews.tv/trump-issues-stern-warning-to-iran-over-strait-of-hormuz/)* & *[Business Recorder](https://www.brecorder.com/news/40414785/trump-gives-iran-48-hours-to-make-deal-or-face-hell)*
-- Iran’s Revolutionary Guards targeted an Israel-linked ship in the Gulf. *[Business Recorder](https://www.brecorder.com/news/40414782/iran-guards-say-targeted-israel-linked-ship-in-gulf)*
+- The Gulf War has led to a 90% withdrawal of foreign investment in domestic bonds, while local investment in treasury bills is increasing. *[Dawn](https://www.dawn.com/news/1988678/gulf-war-erodes-90pc-investment-in-t-bills)*
+- Pakistan is facing economic challenges due to the US-Israeli war on Iran, with rising import costs and a potential need for austerity measures. *[Dawn](https://www.dawn.com/news/1988666/me-war-compounds-asia-humanitarian-crises)*
+- The UAE is seeking the immediate return of a $3.5 billion debt from Pakistan. *[Dawn](https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae)*
+- The government is considering revising market timings to reduce oil usage and save electricity. *[Dawn](https://www.dawn.com/news/1988554/planning-minister-advocates-for-revising-market-timings-to-rein-in-oil-import-bill)*
+- Inter-city transport fares have increased by up to 30% following the recent fuel price hike. *[ARY News](https://arynews.tv/inter-city-transport-fares-jump-up-to-30-after-fuel-price-hike/)*
+- Businesses warn of potential factory closures, rising costs, and job losses due to the fuel price surge. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/businesses-warn-of-factory-closures-rising-costs-job-losses-as-fuel-hike-strains-industry-smes-agriculture/)*
+- Pakistan risks losing a $360 million ADB loan for a highway project due to delays in Prime Minister approval. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/pakistan-risks-losing-360-million-adb-loan-as-carec-project-awaits-pm-approval/)*
+- The PSX is ranked as the third worst-performing equity market globally. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/psx-sentiment-to-hinge-on-middle-east-conflict-developments-report/)*
+- Pakistan is exploring aligning trade and climate policies to strengthen its food supply chain. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/pakistan-moves-to-align-trade-climate-policies-to-strengthen-food-supply-chain/)*
 
 ### Science & Technology
-- Scientists have found evidence for theorized gargantuan star explosions. *[Dawn](https://www.dawn.com/news/1988354/scientists-find-evidence-for-theorised-gargantuan-star-explosions)*
-- Canadian astronaut Jeremy Hansen described his Artemis journey as “phenomenal.” *[Dawn](https://www.dawn.com/news/1988549/like-falling-out-of-the-sky-canadian-astronaut-describes-phenomenal-artemis-journey)*
-- Artemis astronauts have passed the halfway point on their way to the Moon. *[Dawn](https://www.dawn.com/news/1988493/artemis-astronauts-pass-half-way-point-on-way-to-moon)*
+- Cemento Ready Mix Concrete is emerging as a new standard in Lahore, focusing on consistency and process-driven production. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/cemento-a-new-standard-for-ready-mix-concrete-emerges-in-lahore/)*
+- The SECP has approved the first Islamic risk-sharing product to boost microfinance. *[Business Recorder](https://www.brecorder.com/news/40414833/secp-approves-first-islamic-risk-sharing-product-to-boost-microfinance)*
 
 ### Weather
-- Pakistan is expected to experience heavy rains from April 5-9. *[Dawn](https://www.dawn.com/news/1988560/pmd-forecasts-countrywide-spell-of-heavy-rains-from-april-5-9)* & *[Business Recorder](https://www.brecorder.com/news/40414781/pmd-forecasts-fresh-spell-of-rain-thunderstorm-for-karachi-lahore-other-cities)*
-- Karachi and other Sindh cities have set new weather records for April, including a 41-year record for rainfall. *[Dawn](https://www.dawn.com/news/1988421/karachi-other-sindh-cities-set-new-weather-records-for-april)*
-- Rain and hailstorms have threatened wheat and mango crops in South Punjab. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/rains-hailstorms-threaten-wheat-mango-crops-in-south-punjab/)*
-- Heavy rain and storms have killed at least 121 people in Afghanistan and Pakistan over the past two weeks. *[Business Recorder](https://www.brecorder.com/news/40414783/rain-storms-kill-121-in-afghanistan-pakistan-in-two-weeks)*
+- Rain and windstorms killed at least six people in Punjab and Khyber Pakhtunkhwa, with a new spell of rain forecast across the country. *[Dawn](https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast)*
+- The PMD forecasts a countrywide spell of heavy rains from April 5-9. *[Dawn](https://www.dawn.com/news/1988560/pmd-forecasts-countrywide-spell-of-heavy-rains-from-april-5-9)*
+- Recent rains and hailstorms have threatened wheat and mango crops in South Punjab. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/rains-hailstorms-threaten-wheat-mango-crops-in-south-punjab/)*
+
+### Politics
+- US President Trump is considering a broader cabinet shake-up due to frustration with the fallout from the war with Iran. *[Dawn](https://www.dawn.com/news/1988668/us-president-weighs-broader-cabinet-shake-up)*
+- Bilawal Bhutto-Zardari stressed the need for political unity amid the economic crisis triggered by the US-Israeli war on Iran. *[Dawn](https://www.dawn.com/news/1988572/bilawal-stresses-political-unity-amid-economic-crisis-triggered-by-us-israeli-war-on-iran)*
+- Khawaja Asif warned India against conducting a “false-flag operation”. *[Dawn](https://www.dawn.com/news/1988527/khawaja-asif-warns-india-against-conducting-false-flag-operation)*
+- The Foreign Office rejected “misleading and unfounded commentary” regarding financial deposits from the UAE. *[Dawn](https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae)*
 
 ### National
-- The Pakistan Navy inducted its second Milgem-class corvette, PNS Khaibar, into its fleet. *[Dawn](https://www.dawn.com/news/1988533/pakistan-navy-inducts-second-milgem-class-corvette-into-fleet)* & *[Business Recorder](https://www.brecorder.com/news/40414779/pakistan-navy-adds-advanced-pns-khaibar-to-its-naval-fleet)*
-- The Supreme Court has fixed a hearing for Zahir Jaffer’s review plea in the Noor Mukadam case for April 8. *[Dawn](https://www.dawn.com/news/1988520/noor-mukadam-case-sc-fixes-hearing-of-zahir-jaffers-review-plea-for-april-8)*
+- Six people were killed in Punjab and KP due to recent rain and windstorms. *[Dawn](https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast)*
+- A suicide bombing in Bannu killed five civilians. *[Dawn](https://www.dawn.com/news/1988735/bannu-bombing)*
+- The Pakistan Navy inducted its second Milgem-class corvette, PNS Khaibar. *[Dawn](https://www.dawn.com/news/1988533/pakistan-navy-inducts-second-milgem-class-corvette-into-fleet)* & *[Business Recorder](https://www.brecorder.com/news/40414824/navy-inducts-advanced-corvette)*
+- PM Shehbaz Sharif announced the disbursement of relief funds to public transport and freight operators through digital wallets. *[Dawn](https://www.dawn.com/news/1988594/pm-says-disbursement-of-funds-for-public-transport-freight-operators-has-begun-through-digital-wallets)*
+- NADRA announced a new schedule for mobile registration units across Pakistan. *[ARY News](https://arynews.tv/nadra-announces-new-schedule-for-mobile-registration-units-across-pakistan/)*
+- The PFA seized fake beverages and discarded 1,300kg of dead chicken meat. *[Business Recorder](https://www.brecorder.com/news/40414828/pfa-seizes-fake-beverages-discards-1300kg-of-dead-chicken-meat)*
+- Farmers are set to receive Rs1500 per acre in relief. *[Business Recorder](https://www.brecorder.com/news/40414829/farmers-to-get-rs1500-per-acre-relief)*
 
-### Health
-- The family of Virginia Giuffre urged King Charles to meet Epstein survivors during his US visit. *[Dawn](https://www.dawn.com/news/1988577/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit)* & *[ARY](https://arynews.tv/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors/)*
+### International
+- Trump warned Iran to “make a deal or open up” the Hormuz Strait, amid escalating tensions. *[Dawn](https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back)*
+- Iranian missiles landed near military headquarters in Tel Aviv, and a drone set an Israeli tanker on fire. *[Dawn](https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back)*
+- The US and Israel bombed petrochemical facilities and the Bushehr nuclear plant in Iran. *[Dawn](https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back)*
+- Israeli strikes hit a hospital and homes in South Lebanon. *[Dawn](https://www.dawn.com/news/1988669/israeli-strikes-hit-hospital-homes-in-south-lebanon)*
+- Indonesia received the bodies of three peacekeepers slain by Israel. *[Dawn](https://www.dawn.com/news/1988669/israeli-strikes-hit-hospital-homes-in-south-lebanon)*
+- The US arrested relatives of a top Iranian commander assassinated in 2020. *[Dawn](https://www.dawn.com/news/1988582/us-arrests-relatives-of-top-iranian-commander-assassinated-in-2020-strike-on-baghdad)*
+- The UAE condemned vandalism at its embassy in Damascus. *[Dawn](https://www.dawn.com/news/1988595/uae-condemns-acts-of-vandalism-at-its-embassy-in-damascus)*
+- The Middle East war is compounding humanitarian crises across Asia. *[Dawn](https://www.dawn.com/news/1988666/me-war-compounds-asia-humanitarian-crises)*
+- US intelligence suggests Iran is unlikely to ease its chokehold on the Strait of Hormuz soon. *[ARY News](https://arynews.tv/strait-of-hormuz-us-policy-and-regional-tensions/)*
+- Slovakia suggests the EU drop sanctions on Russian oil and gas. *[ARY News](https://arynews.tv/slovak-pm-says-eu-should-drop-sanctions-on-russian-oil-and-gas-to-boost-energy-security/)*
 
 ### Sports
-- Erling Haaland scored a hat-trick as Manchester City beat Liverpool 4-0 in the FA Cup. *[ARY](https://arynews.tv/erling-haaland-hat-trick-helps-man-city-beat-liverpool-4-0/)*
+- No relevant news in provided articles.
+
+### Health
+- The WHO reports over 4.3 million displaced and 116 attacks on healthcare facilities due to the conflict in Iran. *[Dawn](https://www.dawn.com/news/1988682/trump-warns-of-hell-as-iran-fights-back)*
 
 ### Other
-- Iran and the US are racing to find the crew member of a crashed American fighter jet. *[Dawn](https://www.dawn.com/news/1988487/iran-us-race-to-find-crew-member-of-crashed-american-fighter-jet)*
-- A projectile hit near Iran’s Bushehr nuclear plant, killing one person. *[Business Recorder](https://www.brecorder.com/news/40414773/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one)*
-- A 6.0 magnitude earthquake struck off the north coast of Indonesia. *[Business Recorder](https://www.brecorder.com/news/40414777/magnitude-60-earthquake-strikes-off-north-indonesia-usgs)*
-- Russia is pulling more staff from Iran’s nuclear plant after a reported strike. *[Business Recorder](https://www.brecorder.com/news/40414773/iaea-says-projectile-hits-near-irans-bushehr-nuclear-plant-killing-one)*
-- Russian oil terminals remain unable to accept shipments after attacks. *[ARY](https://arynews.tv/russian-oil-terminals-under-attack-unable-to-accept-shipments-for-second-week-sources-say/)*
-- Cemento Ready Mix Concrete is emerging as a new standard in Lahore’s construction industry. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/cemento-a-new-standard-for-ready-mix-concrete-emerges-in-lahore/)*
-- Inter-city transport fares have increased by up to 30% following the fuel price hike. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/inter-city-transport-fares-jump-up-to-30-after-fuel-price-hike/)*
-- Pakistan is seeking to import cheaper Iranian oil despite sanctions. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/pakistan-cant-import-cheaper-iranian-oil-because-of-sanctions-is-there-a-case-to-be-made-to-do-it-anyways/)*
-- The SECP has approved the first Islamic risk-sharing product. *[Business Recorder](https://www.brecorder.com/news/40414774/secp-approves-first-islamic-risk-sharing-product)*
-- The Trump administration filed an emergency motion to resume ballroom work at the White House. *[ARY](https://arynews.tv/trump-administration-files-emergency-motion-to-resume-ballroom-work-citing-security-issues/)* & *[Business Recorder](https://www.brecorder.com/news/40414775/trump-weighs-broader-cabinet-shake-up-as-iran-war-pressure-grows)*
-- Erdogan stated the Middle East war has caused a “geostrategic impasse”. *[Business Recorder](https://www.brecorder.com/news/40414786/erdogan-says-mideast-war-has-caused-geostrategic-impasse)*
-- The IMF urges the BOJ to continue raising rates despite the Iran war risks. *[Business Recorder](https://www.brecorder.com/news/40414770/imf-urges-boj-to-keep-raising-rates-even-as-iran-war-poses-new-risks)*
-- No war-related surcharges are being imposed on shipments. *[Business Recorder](https://www.brecorder.com/news/40414771/no-war-related-surcharges-on-in-transit-or-alternate-route-shipments-agents-confirm)*
-- Power minister signals an electricity tariff hike after the fuel price surge. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/power-minister-signals-electricity-tariff-hike-after-fuel-price-surge/)*
-- The FO rejected commentary regarding financial deposits from the UAE, calling it a routine transaction. *[Dawn](https://www.dawn.com/news/1988580/fo-rejects-misleading-unfounded-commentary-regarding-financial-deposits-from-uae)*
-- The Iranian FM clarified that Tehran never refused to visit Islamabad for talks. *[Business Recorder](https://www.brecorder.com/news/40414784/iranian-fm-clarifies-we-have-never-refused-to-visit-islamabad-for-talks)*
-- The government is activating a high-level monitoring mechanism to track global commodity markets. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/global-commodity-price-fluctuations-geopolitical-developments-pose-economic-risks-govt-tells-na/)*
-- A new procedure has been announced for obtaining petrol at Rs100 per liter. *[ARY](https://arynews.tv/how-to-get-rs100-per-liter-petrol-full-procedure/)*
-- The government is offering a fuel subsidy for motorbike owners. *[ARY](https://arynews.tv/how-to-get-rs100-per-liter-petrol-full-procedure/)*
-- The PM has declared that all cabinet members will forgo their salaries for six months. *[Dawn](https://www.dawn.com/news/1988380/petrol-price-drops-to-rs378-as-pm-cuts-levy-amid-backlash)*
-- The government is activating austerity measures. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/04/global-commodity-price-fluctuations-geopolitical-developments-pose-economic-risks-govt-tells-na/)*
+- Mahnoor Mirza accused Ali Raza of ghosting her during affairs. *[ARY News](https://arynews.tv/mahnoor-mirza-accuses-ali-raza-of-ghosting-her-during-affairs/)*
+- Virginia Giuffre’s family urged King Charles to meet Epstein survivors. *[ARY News](https://arynews.tv/virginia-giuffres-family-urges-king-charles-to-meet-epstein-survivors-during-us-visit/)*
+- US envoys Witkoff and Kushner could visit Ukraine. *[ARY News](https://arynews.tv/us-envoys-witkoff-and-kushner-could-visit-ukraine-kyiv-says/)*
+- Baisakhi festival to be celebrated from April 10th. *[Business Recorder](https://www.brecorder.com/news/40414826/baisakhi-festival-to-be-celebrated-from-10th)*
+- Candice King and Steven Krueger tied the knot. *[ARY News](https://arynews.tv/candice-king-steven-krueger-tie-the-knot-in-small-ceremony/)*
+- Concerns voiced over flaws in rules for Sindh Women Agri Workers’ Act 2019. *[Business Recorder](https://www.brecorder.com/news/40414822/rules-for-sindh-women-agri-workers-act-2019-concerns-voiced-over-flaws)*
+- Collaboration sought for girls’ education in Sindh. *[Business Recorder](https://www.brecorder.com/news/40414820/collaboration-sought-for-girls-education)*
+- SAU alumnus highlights livestock sector at SCO Youth Conference. *[Business Recorder](https://www.brecorder.com/news/40414821/sau-alumnus-highlights-livestock-sector-at-sco-youth-conference)*
+- Governor underscores need for boosting business activities. *[Business Recorder](https://www.brecorder.com/news/40414835/governor-underscores-need-for-boosting-business-activities)*
+- PPP leaders highlight the importance of Bhutto’s legacy. *[Business Recorder](https://www.brecorder.com/news/40414838/ppp-leaders-fondly-highlight-importance-of-bhuttos-legacy)*
+- Tourism Malaysia returns to Pakistan Travel Mart. *[Business Recorder](https://www.brecorder.com/news/40414808/tourism-malaysia-returns-to-pakistan-travel-mart)*
+- SSWMB has failed to deliver, says JI. *[Business Recorder](https://www.brecorder.com/news/40414807/sswmb-has-failed-to-deliver-says-ji)*
+- Experts suggest effective control over tax evasion in tobacco sector. *[Business Recorder](https://www.brecorder.com/news/40414831/experts-suggest-effective-control-over-tax-evasion-in-tobacco-sector)*
+- PRGMEA leader seeks platforms such as ‘Moscow Fashion Week’. *[Business Recorder](https://www.brecorder.com/news/40414830/prgmea-leader-seeks-platforms-such-as-moscow-fashion-week)*
+- At least 30 dead, 85 injured in various districts of KP since March 25. *[Business Recorder](https://www.brecorder.com/news/40414836/at-least-30-dead-85-injured-in-various-districts-of-kp-since-march-25-pdma)*
+- Pakistan slams vandalism targeting UAE embassy in Damascus. *[Business Recorder](https://www.brecorder.com/news/40414827/pakistans-role-in-ongoing-regional-conflict-mofa-labels-media-reports-claims-as-baseless-insinuations)*
+- Pakistan’s role in ongoing regional conflict: MOFA labels media reports claims as ‘baseless insinuations’. *[Business Recorder](https://www.brecorder.com/news/40414827/pakistans-role-in-ongoing-regional-conflict-mofa-labels-media-reports-claims-as-baseless-insinuations)*
+- Ehsaas Fuel Support Program provides Rs2000 petrol subsidy. *[ARY News](https://arynews.tv/how-to-get-rs2000-subsidy-on-petrol-ehsaas-fuel-support-prog/)*
+- Flopped war could lead to chaos. *[Dawn](https://www.dawn.com/news/1988731/flopped-war-could-lead-to-chaos)*
 
