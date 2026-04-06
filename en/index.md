@@ -4,68 +4,78 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 05-Apr-2026 21:02PKT:
+Published at: 06-Apr-2026 09:03PKT:
 
 Time to read: 5 mins
 
 ### Economy
-- Foreign funds are fleeing Pakistan's bond market, with nearly 90% of holdings withdrawn due to the Gulf war, raising concerns about foreign exchange reserves. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/foreign-funds-flee-pakistan-as-gulf-war-pressures-bond-market/)*
-- The cotton cess hike, approved 14 years ago, remains unimplemented, threatening the revival of Pakistan’s cotton sector. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/cotton-cess-hike-stalled-for-14-years-cotton-sector-revival-at-risk/)*
-- Electric bike prices have increased by Rs5,000 due to surging demand and rising costs linked to petrol shortages. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/electric-bike-prices-hike-rs5000-as-demand-surges-amid-petrol-shortage-fears/)*
-- The FPCCI has urged the government to provide an urgent safety net for export sectors due to rising diesel costs impacting competitiveness. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/fpcci-urges-urgent-export-safety-net-as-diesel-costs-threaten-competitiveness/)*
-- The Gulf War has eroded 90% of foreign investment in domestic bonds. *[Dawn](https://www.dawn.com/news/1988678/gulf-war-erodes-90pc-investment-in-t-bills)*
-- Punjab has announced a Rs1,500 per acre support for wheat farmers to mitigate the impact of increased diesel prices. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/punjab-announces-rs1500-per-acre-support-for-wheat-farmers-amid-diesel-price-surge/)*
-- Fuel price shocks are expected to push inflation past 15% and may lead to renewed interest rate hikes. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/fuel-shock-to-push-inflation-past-15-as-rate-hike-risks-resurface/)*
+- The IMF has asked Pakistan to remove fuel price distortions despite a recent subsidy cap amid global price surges *[Dawn](https://www.dawn.com/news/1988914/imf-asks-pakistan-to-remove-fuel-price-distortions-amid-subsidy-pressures)*.
+- Oil prices rose on Monday due to fears of supply losses from the US-Israel war with Iran *[Business Recorder](https://www.brecorder.com/news/40414967/oil-prices-rise-as-us-israel-war-with-iran-continues-to-disrupt-supply)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/oil-rises-over-110-as-us-israel-war-with-iran-continues-to-disrupt-supply)*.
+- The Indian rupee is expected to rise due to RBI curbs, but oil prices and outflows may temper sentiment *[Business Recorder](https://www.brecorder.com/news/40414971/indian-rupee-set-to-rise-on-spillover-of-rbi-curbs-oil-outflows-temper-sentiment)*.
+- Gold prices fell as the US jobs data dampened hopes for Fed rate cuts *[Business Recorder](https://www.brecorder.com/news/40414974/gold-falls-as-iran-war-robust-us-jobs-data-dim-fed-rate-cut-hopes)*.
+- Pakistan is considering importing cheaper Iranian oil despite sanctions *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/pakistan-cant-import-cheaper-iranian-oil-because-of-sanctions-is-there-a-case-to-be-made-to-do-it-anyways-2/)*.
+- The government has begun disbursing transport subsidies to offset the impact of rising fuel prices *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/govt-begins-transport-subsidy-disbursement-to-offset-fuel-price-impact)*.
+- Mitchell’s Fruit Farms Limited saw a significant increase in sales in 2025 *[Business Recorder](https://www.brecorder.com/news/40414929/mitchells-fruit-farms-limited)*.
+- Big Bird Foods is experiencing a comeback, with sales increasing by 57.6% in 2025 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/big-bird-foods-is-writing-the-script-of-a-comeback-story-how-did-they-do-it-at-a-time-everyone-expected-them-to-falter/)*.
 
 ### Science & Technology
-- NADRA has introduced new features in its Pak ID app, including passport capture/upload and swift biometric verification. *[ARY](https://arynews.tv/pak-id-nadra-app-announces-new-modern-features/)*
-- The FIA is developing an AI-powered system to track down most wanted criminals by visualizing their appearance in real-time. *[Dawn](https://www.dawn.com/news/1988813/fia-to-use-ai-powered-system-to-track-down-most-wanted-criminals)*
+- The BSEK is transitioning from a manual to a digital system, causing a postponement of matric exams *[Dawn](https://www.dawn.com/news/1988882/karachi-board-postpones-matric-exams-to-april-10)*.
 
 ### Weather
-- Rain and windstorms have killed at least six people across Punjab and Khyber Pakhtunkhwa, with a new spell forecast across the country. *[Dawn](https://www.dawn.com/news/1988684/rains-in-kp-punjab-kill-six-amid-new-spell-forecast)*
-- Karachi is expected to experience rain late Sunday night and on Monday. *[Business Recorder](https://www.brecorder.com/news/40414887/rain-to-batter-karachi-tonight-tomorrow-met-office)*
+- Widespread rain and thunderstorms are forecast for parts of Balochistan, KP, and Punjab on Monday *[Dawn](https://www.dawn.com/news/1988866/met-office-forecasts-widespread-rain-thunderstorms-in-parts-of-balochistan-kp-punjab-on-monday)*.
+- Pakistan is already breaching temperature thresholds set for 2030, despite minimal contribution to greenhouse gas emissions *[Dawn](https://www.dawn.com/news/1988919/pakistan-breaching-temperature-thresholds-set-for-2030)*.
 
 ### Politics
-- Taiwan’s opposition leader will visit China, marking the first such trip in a decade, aiming to build “peace” across the strait. *[Dawn](https://www.dawn.com/news/1988787/taiwan-opposition-leader-to-make-peace-visit-to-china-first-in-10-years)*
-- President Zardari and PM Shehbaz hailed the Christian community’s contributions on Easter. *[Dawn](https://www.dawn.com/news/1988803/on-easter-president-zardari-and-pm-shehbaz-hail-christian-communitys-admirable-services)*
-- Zelensky and Turkiye’s top diplomat held talks with the Syrian president in Damascus. *[Business Recorder](https://www.brecorder.com/news/40414890/zelensky-turkiyes-top-diplomat-in-damascus-for-talks-with-syrian-president)*
+- The IMF has asked Pakistan to remove fuel price distortions *[Dawn](https://www.dawn.com/news/1988914/imf-asks-pakistan-to-remove-fuel-price-distortions-amid-subsidy-pressures)*.
+- Sindh CM secured a fare freeze after talks with transporters amid fuel price hike *[Dawn](https://www.dawn.com/news/1988836/sindh-cm-secures-fare-freeze-after-talks-with-transporters-amid-fuel-price-hike)*.
+- Pakistan and Turkiye are set to sign an MoU on judicial cooperation *[Dawn](https://www.dawn.com/news/1988841/pakistan-turkiye-to-sign-mou-on-judicial-cooperation)*.
 
 ### National
-- Security forces foiled an attack on a border post in Khyber Pakhtunkhwa, killing 37 militants during Operation Ghazab lil-Haq. *[Dawn](https://www.dawn.com/news/1988846/operation-ghazab-lil-haq-security-forces-foil-attack-on-border-post-in-kp-kill-37-militants)*
-- Sindh CM secured a province-wide fare freeze for public transport after talks with transporters amid rising fuel prices. *[Dawn](https://www.dawn.com/news/1988836/sindh-cm-secures-fare-freeze-after-talks-with-transporters-amid-fuel-price-hike)*
-- PM Shehbaz urged provinces to release funds for fuel subsidies to support motorcyclists and the transport sector. *[Dawn](https://www.dawn.com/news/1988840/pm-shehbaz-urges-provinces-to-release-funds-for-fuel-subsidies)*
-- Police detained several PTI supporters during a protest near Karachi Press Club against rising fuel prices. *[Dawn](https://www.dawn.com/news/1988819/several-pti-supporters-detained-as-police-scuttle-protest-near-karachi-press-club)*
-- Balochistan and Khyber Pakhtunkhwa have set closure timings for markets, eateries, and wedding halls to conserve energy. *[Dawn](https://www.dawn.com/news/1988856/balochistan-kp-set-closure-timings-for-markets-eateries-wedding-halls-to-conserve-energy)*
-- Balochistan has fixed the price of Iranian petrol at Rs280 per litre to address overcharging. *[Dawn](https://www.dawn.com/news/1988659/balochistan-fixes-price-of-iranian-petrol-at-rs280)*
-- Pera teams in Lahore are accused of enforcing 10pm curbs on sectors exempt from the restrictions. *[Dawn](https://www.dawn.com/news/1988697/pera-teams-in-lahore-accused-of-enforcing-10pm-curbs-on-exempt-sectors)*
-- The FIA arrested a Nadra official allegedly involved in issuing fake CNICs to Afghan nationals in Karachi. *[Dawn](https://www.dawn.com/news/1988804/fia-arrests-nadra-official-involved-in-issuing-fake-cnics-to-afghan-nationals-in-karachi)*
-- Pakistan and Turkiye will sign an MoU on judicial cooperation. *[Dawn](https://www.dawn.com/news/1988841/pakistan-turkiye-to-sign-mou-on-judicial-cooperation)*
+- Delays in Tarbela Dam infrastructure works pose a threat to the Kharif crop season in Sindh *[Dawn](https://www.dawn.com/news/1988905/sindh-flags-tarbela-delays-warns-of-kharif-water-crisis)*.
+- Land-affected people by the Diamer-Bhasha Dam have blocked the Karakoram Highway *[Dawn](https://www.dawn.com/news/1988915/diamer-bhasha-dam-land-affected-people-block-karakoram-highway)*.
+- The Supreme Court will resume hearing Imran Khan’s review plea in the Rs10bn libel case *[Dawn](https://www.dawn.com/news/1988910/supreme-court-to-resume-imrans-review-plea-hearing-in-rs10bn-libel-case-tomorrow)*.
+- 23 PTI leaders and workers were arrested during a protest near Karachi Press Club *[Dawn](https://www.dawn.com/news/1988819/23-pti-leaders-workers-arrested-as-police-scuttle-protest-near-karachi-press-club)*.
+- A three-year-old girl was raped and murdered in KP’s Lakki Marwat *[Dawn](https://www.dawn.com/news/1988877/3-year-old-girl-raped-murdered-in-kps-lakki-marwat-fir)*.
+- Security forces foiled an attack on a border post in KP, killing 37 militants *[Dawn](https://www.dawn.com/news/1988846/operation-ghazab-lil-haq-security-forces-foil-attack-on-border-post-in-kp-kill-37-militants)*.
+- Illegal dumping: SSWMB granted authority to act against violators *[Business Recorder](https://www.brecorder.com/news/40414935/illegal-dumping-sswmb-granted-authority-to-act-against-violators)*.
+- Rail infrastructure from Karachi to Dhabeji inspected *[Business Recorder](https://www.brecorder.com/news/40414936/rail-infrastructure-from-karachi-to-dhabeji-inspected)*.
 
 ### International
-- US forces rescued two airmen downed in Iran, with President Trump calling it a daring operation. *[Dawn](https://www.dawn.com/news/1988789/us-forces-rescue-2-airmen-downed-in-iran-trump-says-crew-member-injured-but-safe)*
-- Iran’s military claims the US airman rescue operation was “completely foiled”. *[Business Recorder](https://www.brecorder.com/news/40414879/iran-military-says-us-airman-rescue-operation-completely-foiled)*
-- Israel’s defence minister vowed to kill Iran’s leaders if missile attacks continue. *[Business Recorder](https://www.brecorder.com/news/40414881/israels-defence-minister-vows-to-kill-iran-leaders)*
-- Israeli fire killed four Palestinians in Gaza. *[Dawn](https://www.dawn.com/news/1988843/bangladesh-says-suspected-measles-outbreak-kills-about-100-children)* & *[Business Recorder](https://www.brecorder.com/news/40414889/israeli-fire-kills-four-palestinians-in-gaza-medics-say)*
-- Oman and Iran held talks on the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40414883/oman-iran-hold-talks-on-strait-of-hormuz-omani-state-news-agency)*
-- Trump threatened to hit Iran’s power plants and bridges if the Strait of Hormuz isn’t reopened. *[Business Recorder](https://www.brecorder.com/news/40414885/trump-says-iran-power-plants-bridges-to-be-hit-if-hormuz-strait-not-re-opened)*
-- Trump told Fox News there’s a “good chance” of a deal with Iran on Monday. *[Business Recorder](https://www.brecorder.com/news/40414892/trump-tells-fox-news-good-chance-of-deal-with-iran-on-monday)*
+- The US-Israel war with Iran continues, with no signs of a ceasefire, and the Strait of Hormuz remains a sticking point *[Dawn](https://www.dawn.com/news/1988918/strait-of-hormuz-stays-sticking-point-as-ceasefire-remains-elusive)*.
+- US forces rescued two airmen downed in Iran *[Dawn](https://www.dawn.com/news/1988789/us-forces-rescue-2-airmen-downed-in-iran-trump-says-crew-member-injured-but-safe)* & *[Business Recorder](https://www.brecorder.com/news/40414932/us-commandos-went-deep-into-iran-to-rescue-downed-airman)*.
+- China and Russia are calling for a ceasefire and urging the US to abandon “language of ultimatums” *[Dawn](https://www.dawn.com/news/1988918/strait-of-hormuz-stays-sticking-point-as-ceasefire-remains-elusive)* & *[Business Recorder](https://www.brecorder.com/news/40414931/wall-street-week-ahead-inflation-in-focus-for-markets-jostled-by-middle-east-war-signals)* & *[Business Recorder](https://www.brecorder.com/news/40414933/us-iran-and-mediators-make-push-for-45-day-ceasefire-axios-reports)*.
+- Iran launched missiles and drones at Israel and Kuwait *[Dawn](https://www.dawn.com/news/1988789/us-forces-rescue-2-airmen-downed-in-iran-trump-says-crew-member-injured-but-safe)*.
+- Israel struck a target in Gaza, killing four people *[Business Recorder](https://www.brecorder.com/news/40414937/israeli-strike-kills-4-in-gaza)*.
+- Pope Leo XIV urged a choice for peace amid the Middle East war *[Business Recorder](https://www.brecorder.com/news/40414934/choose-peace-pope-marks-first-easter-under-cloud-of-mideast-war)*.
+- China is ready to cooperate with Russia to ease Middle East tension *[ARY](https://arynews.tv/china-ready-to-cooperate-with-russia-to-ease-middle-east-tension-foreign-minister-says/)* & *[Business Recorder](https://www.brecorder.com/news/40414920/war-and-a-fractured-global-economy)*.
 
 ### Sports
-- PSV Eindhoven won the Dutch Eredivisie title after Feyenoord failed to win. *[ARY](https://arynews.tv/psv-eindhoven-take-title-in-netherlands-as-feyenoord-fail-to-win/)*
-- Brazilian Oscar retired at 34 due to cardiac issues. *[ARY](https://arynews.tv/brazilian-oscar-retires-at-34-with-cardiac-issues/)*
+- No sports news in provided articles.
 
 ### Health
-- A suspected measles outbreak in Bangladesh has killed about 100 children, prompting increased vaccination efforts. *[Dawn](https://www.dawn.com/news/1988843/bangladesh-says-suspected-measles-outbreak-kills-about-100-children)* & *[Business Recorder](https://www.brecorder.com/news/40414888/bangladesh-says-suspected-measles-outbreak-kills-about-100-children)*
+- A doctor was found dead in his car at a Lahore hospital *[ARY](https://arynews.tv/doctor-found-dead-from-hospital-parking-area-in-lahore/)*.
 
 ### Other
-- Artemis astronauts glimpsed the Moon’s “Grand Canyon” during their lunar flyby. *[Dawn](https://www.dawn.com/news/1988818/artemis-astronauts-glimpse-moons-grand-canyon-ahead-of-historic-lunar-flyby)*
-- Iran is experiencing the longest nationwide internet shutdown on record, lasting over 37 days. *[Business Recorder](https://www.brecorder.com/news/40414893/iran-internet-blackout-is-longest-nationwide-shutdown-on-record-netblocks)*
-- Kristen Stewart plans to direct a film, potentially revisiting the *Twilight* saga. *[ARY](https://arynews.tv/kristen-stewart-plans-bold-move-into-directing/)*
-- Taylor Swift may attend Coachella and potentially reunite with Sabrina Carpenter and Sombr. *[ARY](https://arynews.tv/taylor-swift-may-reunite-with-sabrina-carpente-sombr-at-coachella/)*
-- Middle East war is impacting Britain’s fish and chip shops due to rising energy costs. *[Dawn](https://www.dawn.com/news/1988824/middle-east-war-hits-britains-fish-and-chip-shops)*
-- Afghanistan aims to boost trade with Central Asia to $10 billion. *[Business Recorder](https://www.brecorder.com/news/40414882/afghanistan-seeks-to-boost-trade-with-central-asia-to-10bn)*
-- Foxconn’s first-quarter revenue jumped, but the company cautioned about geopolitical volatility. *[Business Recorder](https://www.brecorder.com/news/40414876/foxconn-first-quarter-revenue-jumps-company-cautions-on-geopolitics)*
-- Seven newborn deaths in Khairpur were not directly caused by Mpox, according to the health ministry. *[Business Recorder](https://www.brecorder.com/news/40414873/seven-newborn-deaths-in-khairpur-not-directly-caused-by-mpox-health-ministry)*
-- Karachi customs seized contraband worth Rs1.8 billion in March. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/karachi-customs-seize-rs1-8-billion-in-contraband-in-march/)*
-- The PFA seized fake drinks and dumped 1,300kg of dead chicken in Lahore. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/05/pfa-seizes-fake-drinks-dumps-1300kg-dead-chicken-in-lahore-crackdown/)*
+- British MPs are under fire for promoting a Dubai project owned by Malik Riaz *[Dawn](https://www.dawn.com/news/1988904/british-mps-under-fire-for-promoting-malik-riazs-dubai-project-report)*.
+- The British royal family attended Easter service without Prince Andrew *[Dawn](https://www.dawn.com/news/1988903/british-royals-attend-easter-service-without-andrew)*.
+- Gigi Hadid addressed her name appearing in the Epstein files *[ARY](https://arynews.tv/gigi-hadid-breaks-silence-on-being-named-in-epstein-files/)* & *[ARY](https://arynews.tv/gigi-hadid-reacts-to-epstein-files/)*.
+- Kris Jenner is going viral as a success icon in China *[ARY](https://arynews.tv/kris-jenner-goes-viral-as-success-icon-in-china/)*.
+- LeAnn Rimes went viral after an emotional wellness session *[ARY](https://arynews.tv/leann-rimes-viral-deep-jaw-release-video/)*.
+- Justin Bieber is fueling speculation about a documentary ahead of Coachella *[ARY](https://arynews.tv/justin-bieber-fuels-doc-buzz-as-coachella-nears/)*.
+- Erik Per Sullivan will not reprise his role in the Malcolm in the Middle revival *[ARY](https://arynews.tv/erik-per-sullivan-reason-for-skipping-malcolm-in-the-middle-revival/)*.
+- The Strait of Hormuz will never return to its previous status, according to the IRGC *[ARY](https://arynews.tv/strait-of-hormuz-will-never-return-to-previous-status-irgc/)*.
+- Pakistan Travel Mart 2026 showcased tourism potential of Malaysia and Ethiopia *[Business Recorder](https://www.brecorder.com/news/40414919/pakistan-travel-mart-2026-malaysia-ethiopia-showcase-tourism-potential)*.
+- Editorial: The war and a fractured global economy *[Business Recorder](https://www.brecorder.com/news/40414920/war-and-a-fractured-global-economy)*.
+- Editorial: Is Pakistan nearing a financial emergency? *[Business Recorder](https://www.brecorder.com/news/40414921/country-nearing-a-financial-emergency)*.
+- Editorial: Unsustainable rise in population *[Dawn](https://www.dawn.com/news/1988934/unsustainable-rise)*.
+- Editorial: No easy way out of the US-Iran conflict *[Dawn](https://www.dawn.com/news/1988931/no-easy-way-out)*.
+- Trump’s trade war with China is in focus ahead of the May summit *[Business Recorder](https://www.brecorder.com/news/40414973/trumps-trade-war-with-china-in-focus-ahead-of-may-summit)*.
+- Most Gulf stocks were subdued amid escalating conflict *[Business Recorder](https://www.brecorder.com/news/40414930/most-gulf-stocks-subdued-amid-escalating-conflict)*.
+- Wall Street is focused on inflation amid the Middle East war *[Business Recorder](https://www.brecorder.com/news/40414931/wall-street-week-ahead-inflation-in-focus-for-markets-jostled-by-middle-east-war-signals)*.
+- Russia says the US should abandon “language of ultimatums” on Iran *[ARY](https://arynews.tv/russia-says-us-should-abandon-language-of-ultimatums-on-iran/)* & *[Business Recorder](https://www.brecorder.com/news/40414927/russia-says-us-should-abandon-language-of-ultimatums-on-iran)*.
+- China is ready to cooperate with Russia to ease Middle East tension *[ARY](https://arynews.tv/china-ready-to-cooperate-with-russia-to-ease-middle-east-tension-foreign-minister-says/)* & *[Business Recorder](https://www.brecorder.com/news/40414926/china-ready-to-cooperate-with-russia-to-ease-middle-east-tension-foreign-minister-says)*.
+- Profit E-Magazine Issue 396 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/profit-e-magazine-issue-396/)*.
+- Policy paralysis on petrol will only increase the trust deficit *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/policy-paralysis-on-petrol-will-only-increase-the-trust-deficit/)*.
+- Tabba’s expanding empire *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/tabbas-expanding-empire/)*.
+- Profit E-Magazine Issue 396 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/profit-e-magazine-issue-396/)*.
 
