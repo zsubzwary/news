@@ -24,7 +24,20 @@
       <div class="header-content">
         <h1>{{ page.title | default: site.title }}</h1>
       </div>
-      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🔄</button>
+      <div class="header-controls">
+        <div class="lang-switcher">
+          <button id="lang-toggle" class="lang-toggle" aria-label="Switch language" aria-expanded="false">
+            <span class="lang-icon">🌐</span>
+            <span class="lang-current">{% if page.lang == 'ur' %}اردو{% else %}English{% endif %}</span>
+            <span class="lang-arrow">▾</span>
+          </button>
+          <div class="lang-dropdown" id="lang-dropdown">
+            <a href="{{ site.baseurl }}/en/" class="lang-option{% if page.lang == 'en' %} active{% endif %}" data-lang="en">English</a>
+            <a href="{{ site.baseurl }}/ur/" class="lang-option{% if page.lang == 'ur' %} active{% endif %}" data-lang="ur">اردو</a>
+          </div>
+        </div>
+        <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">🔄</button>
+      </div>
     </header>
 
     <main>

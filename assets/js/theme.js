@@ -66,3 +66,70 @@
     init();
   }
 })();
+
+(function() {
+  const langSwitcher = document.querySelector('.lang-switcher');
+  const langToggle = document.getElementById('lang-toggle');
+  const langDropdown = document.getElementById('lang-dropdown');
+  const LANG_STORAGE_KEY = 'news-briefing-lang';
+  
+  function toggleDropdown() {
+    if (!langSwitcher) return;
+    const isOpen = langSwitcher.classList.toggle('open');
+    if (langToggle) {
+      langToggle.setAttribute('aria-expanded', isOpen);
+    }
+  }
+  
+  function closeDropdown() {
+    if (!langSwitcher) return;
+    langSwitcher.classList.remove('open');
+    if (langToggle) {
+      langToggle.setAttribute('aria-expanded', 'false');
+    }
+  }
+  
+  function handleLangClick(e) {
+    const target = e.target.closest('.lang-option');
+    if (!target) return;
+    
+    const lang = target.getAttribute('data-lang');
+    if (lang) {
+      localStorage.setItem(LANG_STORAGE_KEY, lang);
+    }
+  }
+  
+  function handleClickOutside(e) {
+    if (langSwitcher && !langSwitcher.contains(e.target)) {
+      closeDropdown();
+    }
+  }
+  
+  function handleKeydown(e) {
+    if (e.key === 'Escape') {
+      closeDropdown();
+    }
+  }
+  
+  function init() {
+    if (!langSwitcher || !langToggle) return;
+    
+    langToggle.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleDropdown();
+    });
+    
+    if (langDropdown) {
+      langDropdown.addEventListener('click', handleLangClick);
+    }
+    
+    document.addEventListener('click', handleClickOutside);
+    document.addEventListener('keydown', handleKeydown);
+  }
+  
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
