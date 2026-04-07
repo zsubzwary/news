@@ -7,62 +7,78 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- 07-Apr-2026 09:06PKT 
+ 07-Apr-2026 21:07PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-- پاکستان کی مرکزی بینک نے آئی ٹی کمپنیوں اور فری لانسرز کے لیے برآمدی رپورٹنگ کے قوانین کو آسان بنایا ہے، جس سے آئی ٹی شعبے کی ترقی کو فروغ ملے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/sbp-eases-export-reporting-rules-to-boost-it-sector-growth/)*
-- سندھ بینک نے دسمبر 2025 کے اختتام پر 6.37 ارب روپے کا ریکارڈ قبل از ٹیکس منافع حاصل کیا، جو گزشتہ سال کے مقابلے میں 155 فیصد اضافہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415084/sindh-bank-posts-record-pre-tax-profit-of-rs637bn)*
-- حکومت نے توانائی کے تحفظ کے لیے ملک بھر میں بازاروں اور شاپنگ مالز کو رات 8 بجے بند کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415085/traders-demand-withdrawal-of-fuel-hikes-endorse-smart-lockdown)*
-- متحدہ عرب امارات کو 3.5 ارب ڈالر کی ادائیگیوں کے باعث پاکستان کے فاریکس ریزرو پر دباؤ بڑھ گیا ہے، جس کے نتیجے میں حکومت چین اور سعودی عرب سے تازہ مالی اعانت حاصل کرنے کی کوشش کر رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistan-eyes-fresh-financing-from-china-saudi-arabia-as-uae-repayments-strain-forex-reserves/)*
-- آئی ایم ایف نے پاکستان پر نیشنل احتساب بیورو (نیب) کے چیئرمین کی تقرری کے عمل کو تبدیل کرنے کا دباؤ ڈال رہا ہے، جس میں اپوزیشن کی شمولیت ضروری ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/imf-pushes-pakistan-to-overhaul-nab-chief-appointment-process-with-opposition-role/)*
+* پاکستان نے 1.43 بلین ڈالر کا قرض چکایا، جس میں 8 اپریل کو واجب الادا 1.3 بلین ڈالر کا یورو بانڈ بھی شامل ہے *[Dawn](https://www.dawn.com/news/1989505/pakistan-has-repaid-143-billion-in-debt-including-eurobond-due-april-8-adviser-says)*
+* وزیرِ خزانہ نے کہا کہ مشرقِ وسطیٰ کے تنازعے کا ابھی تک پاکستان کو ملنے والے رقوم پر کوئی اثر نہیں پڑا *[Dawn](https://www.dawn.com/news/1989429/no-impact-of-middle-east-conflict-on-remittances-from-gulf-countries-so-far-finance-minister)*
+* پیٹرول پمپ مالکان اور ڈیلروں نے حالیہ قیمتوں میں اضافے کے تناسب سے کمیشن میں اضافہ کرنے کا مطالبہ کیا ہے *[Dawn](https://www.dawn.com/news/1989487/petrol-pump-owners-dealers-demand-increase-in-commission-proportionate-to-recent-price-hikes)*
+* ایشین ڈویلپمنٹ بینک (اے ڈی بی) پاکستان کے شمسی توانائی کے تبادلوں اور بجلی کے شعبے میں اصلاحات کی حمایت کرے گا *[Dawn](https://www.dawn.com/news/1989454/asian-development-bank-to-support-pakistans-solar-transition-power-sector-reforms)*
+* بھارت کی آر بی آئی (RBI) نے متبادل تجارتی مواقع سے فائدہ اٹھاتے ہوئے روپے کی قدر میں استحکام برقرار رکھا *[Business Recorder](https://www.brecorder.com/news/40415188/indian-companies-37bn-ndf-hoard-shows-firms-seized-rupee-arbitrage-window)*
+* پاکستان کا پیسہ سپلائی ڈپازٹس اور کیش سرکولیشن میں اضافے کے باعث 21.3 فیصد بڑھ گیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistans-money-supply-rises-21-3-as-deposits-cash-circulation-increase/)*
+* اٹانز ٹیکنالوجیز نے 2.1 ملین ڈالر کے نئے بین الاقوامی معاہدے حاصل کیے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/itanz-secures-2-1-million-in-new-international-contracts/)*
 
 ## سائنس اور ٹیکنالوجی
 
-- ناسا کے آرٹیمس II مشن کے چار فضانورد پیر کو زمین سے اب تک کی سب سے دور کی جگہ پر پہنچ گئے، جو جلد ہی چاند کے پرچھائے ہوئے دور کے اوپر سے گزرے گا۔ *[ARY News](https://arynews.tv/nasa-astronauts-explore-the-lunar-far-side-today/)*
-- وزیراعظم نے اسلام آباد ٹریفک پولیس کے لیے الیکٹرک گاڑیوں (ای وی) کے استعمال کا آغاز کیا تاکہ ایندھن کے اخراجات کو کم کیا جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/06/shehbaz-sharif-launches-ev-drive-for-islamabad-traffic-police-to-cut-fuel-costs/)*
-- پاکستان نے 2050 تک نیٹ زیرو کے راستے کی منصوبہ بندی کے لیے ایک جامع توانائی منصوبہ بندی کا ماڈل تیار کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistan-develops-integrated-energy-model-to-map-path-to-net-zero-by-2050/)*
+* آرٹیمس II مشن کے عملے نے انسانی تاریخ میں سب سے دور تک سفر کیا *[Dawn](https://www.dawn.com/news/1989403/artemis-ii-moon-crew-flies-farther-than-humans-have-ever-gone-before)*
 
 ## موسم
 
-- بلوچستان میں بارشوں کے باعث اموات کی تعداد 11 ہوگئی ہے، جبکہ ملک کے بیشتر حصوں میں بارش کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1989292/death-toll-rises-to-11-in-balochistan-as-rain-lashes-much-of-country)*
+* پشاور کے کچھ حصوں میں بارشوں کے باعث سیلاب آیا، کئی افراد کو نکالا گیا *[Dawn](https://www.dawn.com/news/1989513/several-people-evacuated-as-rain-causes-flooding-in-parts-of-peshawar)*
 
 ## سیاست
 
-- وزیراعظم شہباز شریف نے ایندھن کی قیمتوں میں اضافے پر اپوزیشن کی تنقید کا جواب دیتے ہوئے کہا کہ یہ بین الاقوامی تیل کی منڈی میں اتار چڑھاؤ کے باعث ضروری تھا۔ *[Dawn](https://www.dawn.com/news/1989320/opposition-chides-govt-defends-increase-in-oil-prices)*
-- جلاوطن پی ٹی آئی رہنماؤں نے مشرق وسطیٰ کے تنازعے سے نمٹنے کے لیے ایک کثیر الجماع کانفرنس منعقد کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1989300/jailed-pti-leaders-urge-multiparty-moot-on-middle-east-war)*
-- ایران نے پاکستان کو امریکی تجویز کو مسترد کرنے کی اطلاع دی ہے، جس میں جنگ کے خاتمے کے لیے 10 شقوں پر مبنی ایک پروٹوکول شامل ہے۔ *[Dawn](https://www.dawn.com/news/1989217/iran-conveys-to-pakistan-its-rejection-of-us-ceasefire-proposal-report)*
-- وزیراعظم نے متحدہ عرب امارات میں ہونے والے میزائل حملے میں پاکستانیوں کے زخمی ہونے پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415106/missile-strike-pm-voices-concern-over-injuries-to-pakistanis-in-uae)*
+* فوج کے اعلیٰ حکام نے سعودی عرب پر حملوں کی مذمت کرتے ہوئے اسے "غیر ضروری escalation" قرار دیا *[Dawn](https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr)*
+* پاکستان نے ایرانی حملوں کی مذمت کی، اور کہا کہ یہ علاقائی امن اور استحکام کے لیے خطرہ ہے *[Dawn](https://www.dawn.com/news/1989473/dangerous-escalation-pakistan-condemns-iranian-strikes-on-saudi-arabias-energy-facilities)*
+* وزیراعظم شہباز شریف نے سعودی ولی عہد کو فون کیا اور سعودی عرب کے لیے پاکستان کی حمایت کا اظہار کیا *[ARY](https://arynews.tv/pakistan-reaffirms-support-for-saudi-arabia/)*
+* وزیراعظم نے کہا کہ پاک ترک تعلقات تیزی سے اقتصادی شراکت میں تبدیل ہو رہے ہیں *[Business Recorder](https://www.brecorder.com/news/40415182/pak-turkiye-relations-rapidly-moving-towards-economic-partnership-pm-shehbaz)*
+* آئی ایچ سی (IHC) چیف جسٹس نے عمران خان کو ان کے وکیل سے ملنے کی سہولت فراہم کرنے کی ہدایت کی *[Dawn](https://www.dawn.com/news/1989435/190m-graft-case-ihc-chief-justice-directs-authorities-to-facilitate-imrans-meeting-with-lawyer)*
+* لاہور ہائی کورٹ نے سائبر کرائم کیس میں کینیڈین اسکالر کو ضمانت پر رہا کر دیا *[Dawn](https://www.dawn.com/news/1989439/lhc-grants-post-arrest-bail-to-canadian-scholar-in-cybercrime-case)*
+* ٹرمپ نے ایران کو "ساری تہذیب کو ختم" کرنے کی دھمکی دی، جس پر سیاستدانوں نے شدید ردعمل ظاہر کیا *[Dawn](https://www.dawn.com/news/1989519/pre-admission-of-genocide-politicos-blast-trump-over-threat-to-destroy-a-whole-civilisation-in-iran)*
 
 ## قومی
 
-- آزاد جموں و کشمیر (اے جے کے) الیکشن کمیشن نے مقبوضہ جموں و کشمیر سے آئے پناہ گزینوں سمیت 33 حلقوں کے لیے ووٹر رجسٹریشن کی آخری تاریخ بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/1989294/ajk-voter-registration-deadline-extended)*
-- پی ٹی سی ایل کراچی میں لینڈ لائن کے صارفین کو انٹرنیٹ پیکیج خریدنے کے لیے مجبور کر رہی ہے، ورنہ لینڈ لائن سروس بند کر دی جائے گی۔ *[Dawn](https://www.dawn.com/news/1989382/ptcl-forces-subscribers-to-buy-internet-package-or-lose-landline-in-karachi)*
-- سینیٹ کی کمیٹی نے ایف بی آر کے گوداموں سے سگریٹ کے کارٹنوں کی چوری کی تحقیقات کو وسعت دینے اور ذمہ داروں کو ٹھہرانے کے لیے ایف آئی اے کو ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/1989275/senate-body-asks-fia-to-expand-probe-into-cigarette-cartons-theft-from-fbr)*
-- گودار بندرگاہ پر ملائیشیائی جہاز کی آمد کے ساتھ تجارتی سرگرمیاں بحال ہو گئی ہیں۔ *[Dawn](https://www.dawn.com/news/1989291/gwadar-port-activity-revives-as-malaysian-ship-docks)*
-- دیامر-باشا ڈیم منصوبے سے متاثرہ افراد کے احتجاج کے باعث کراکورم ہائی وے بند ہے، جس سے سینکڑوں مسافر پھنس گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1989289/dam-protest-paralyses-karakoram-highway)*
+* پی ایم ڈی سی (PMDC) میڈیکل کے طلباء کے لیے 16 مئی کو امتحان منعقد کرے گی جو پاکستانی اداروں میں منتقل ہونا چاہتے ہیں *[Dawn](https://www.dawn.com/news/1989510/pmdc-to-hold-exam-for-medical-students-seeking-transfer-to-pakistani-institutions-on-may-16)*
+* راولپنڈی میں PTI کے احتجاج اور 9 اپریل کی ریلی کے پیش نظر سیکشن 144 نافذ کر دیا گیا *[Dawn](https://www.dawn.com/news/1989409/section-144-imposed-in-rawalpindi-ahead-of-ptis-protest-outside-adiala-april-9-rally)*
+* لکی مروات میں پولیس گشتی پر آئی ای ڈی (IED) حملے میں پانچ پولیس اہلکار زخمی ہوئے *[Dawn](https://www.dawn.com/news/1989401/five-policemen-injured-in-ied-attack-targeting-police-patrol-in-lakki-marwat)*
+* سندھ ہائی کورٹ نے ورلڈ بینک کے فنڈنگ سے چلنے والے کے پی (KP) منصوبے میں 106 ملین روپے کی مبینہ کرپشن کی تحقیقات کے لیے نیپرا ٹریبونل کو کیس بھیج دیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/inquiry-finds-rs106-million-embezzlement-in-world-bank-funded-kp-project-action-initiated/)*
 
 ## بین الاقوامی
 
-- اقوام متحدہ کی سلامتی کونسل (یو این ایس سی) امریکی صدر ڈونلڈ ٹرمپ کی مقرر کردہ ڈیڈ لائن سے قبل ہرمز کی تنگ آبنائے پر بحرین کے مسودے پر ووٹنگ کرنے والی ہے۔ *[Dawn](https://www.dawn.com/news/1989392/unsc-to-vote-on-hormuz-resolution-ahead-of-trump-deadline)*
-- اسرائیل نے ایران کی پیٹرو کیمیکل سہولیات پر حملے کیے ہیں، جبکہ ایران نے اسرائیل، کویت اور متحدہ عرب امارات پر ڈرون اور میزائل حملے کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1989321/israeli-strikes-target-irans-petrochemical-facilities)*
-- اسرائیل نے لبنان میں حملے کیے ہیں، جس کے نتیجے میں کم از کم 15 افراد ہلاک ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1989319/israeli-strikes-leave-15-more-dead-in-lebanon)*
-- امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ ایران کو ایک رات میں ختم کیا جا سکتا ہے، اور یہ رات کل کی بھی ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/1989227/trump-says-vance-witkoff-kushner-talking-with-intermediaries-in-pakistan-iran-could-be-taken-out-on-tuesday)*
-- انڈونیشیا نے فضائی ایندھن کے سرچارج میں اضافے کی اجازت دی ہے، جبکہ کچھ ائیر لائن ٹیکسوں میں چھوٹ دی جائے گی۔ *[ARY News](https://arynews.tv/airlines-adjust-ticket-prices-amid-new-policies/)*
-- امریکی سپریم کورٹ نے اسٹیو بینن کے خلاف مقدمے کی برائے نام معطلی کی راہ ہموار کر دی۔ *[ARY News](https://arynews.tv/bannon-case-dismissal-clears-legal-path-ahead/)*
-- بھارت کی ریلائنس نے وینزویلا سے براہ راست پی ڈی وی ایس اے سے تیل خریدا ہے۔ *[ARY News](https://arynews.tv/reliance-begins-loading-venezuelan-heavy-crude/)*
+* پاکستان امریکہ اور ایران کے درمیان بات چیت کو آسان بنانے کی کوششوں میں مصروف ہے *[Dawn](https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say)*
+* اقوام متحدہ کی سلامتی کونسل ہرمز کی صورتحال پر ایک قرارداد پر ووٹنگ کرے گی *[Dawn](https://www.dawn.com/news/1989392/unsc-to-vote-on-hormuz-resolution-ahead-of-trump-deadline)*
+* امریکہ نے ایران کے کھارگ جزیرے پر فوجی اہداف پر حملہ کیا *[Business Recorder](https://www.brecorder.com/news/40415185/us-strikes-military-targets-on-irans-kharg-island-us-official-says)*
+* روس نے یوکرین کے جنوب مشرق پر حملوں میں سات افراد ہلاک ہو گئے *[Business Recorder](https://www.brecorder.com/news/40415189/russian-attacks-on-ukraines-southeast-kill-seven-hit-city-bus)*
+* بھارت نے جوہری ایندھن کی خود انحصاری کی جانب پیش قدمی کی *[Dawn](https://www.dawn.com/news/1989405/india-moves-closer-to-nuclear-fuel-self-reliance)*
+* کویت نے علاقائی کشیدگی کے درمیان اندرونی سکیورٹی کو مضبوط کیا *[ARY](https://arynews.tv/kuwait-strengthens-security-operations-nationwide/)*
+* اسرائیل نے استنبول میں اپنے قونصل خانے کے باہر گولی باری کی واقعے میں ایک حملہ آور ہلاک اور دو زخمی ہوئے *[Dawn](https://www.dawn.com/news/1989466/gunman-killed-2-wounded-in-shootout-outside-israels-istanbul-consulate)*
 
 ## کھیل
 
-- (کوئی خبر نہیں)
+* کراچی کنگز کے کپتان ڈیوڈ وارنر پر سڈنی میں نشے میں گاڑی چلانے کا الزام عائد کیا گیا *[Dawn](https://www.dawn.com/news/1989479/karachi-kings-captain-david-warner-charged-with-drink-driving-in-sydney-reports)*
 
 ## صحت
 
-- (کوئی خبر نہیں)
+* (اس زمرے میں کوئی خبر نہیں)
 
 ## دیگر
 
-- (کوئی خبر نہیں)
+* کویت ائرویز 15 اپریل سے کولمبو کے لیے پروازیں بحال کرے گی *[ARY](https://arynews.tv/kuwait-airways-resumes-flights-to-colombo/)*
+* چارلی کے فرشتہ (Charlie’s Angels) کے ستارے 50 سالوں کے بعد دوبارہ اکٹھے ہوئے *[ARY](https://arynews.tv/charlies-angels-stars-mark-50-years-with-reunion/)*
+* چاندی کی قیمت آج پاکستان میں 7 اپریل 2026 *[ARY](https://arynews.tv/silver-rate-today-in-pakistan-april-7-2026/)*
+* متحدہ عرب امارات (یو اے ای) درہم کی پاکستانی روپے کے مقابلے میں شرح 7 اپریل 2026 *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-7-2026/)*
+* تاجروں نے جلد بازار بند کرنے کی پالیسی مسترد کر دی *[ARY](https://arynews.tv/pakistan-traders-oppose-early-market-closures/)*
+* ایران جنگ 2026: ایران نے امریکہ کے ساتھ جنگ بندی کی بات چیت معطل کر دی *[ARY](https://arynews.tv/israel-launches-attack-on-iran/)*
+* این اے ڈی آر اے (NADRA) کی جانب سے سی این آئی سی (CNIC) اور نکاپ (NICOP) فیسز کا 7 اپریل 2026 کا تازہ ترین معلومات *[ARY](https://arynews.tv/cnic-and-nicop-fees-by-nadra-april-7-2026-update/)*
+* تیل کی قیمتوں میں اضافہ ایشیا میں فاریکس (FX) مداخلت کے خطرے کو بڑھا رہا ہے *[Business Recorder](https://www.brecorder.com/news/40415207/oil-shock-turbocharges-asia-fx-intervention-risk-mcgeever)*
+* بھارت میں چینی اور خوردنی تیل کی طلب تجارتی گیس کی قلت کے باعث کم ہو گئی ہے *[Business Recorder](https://www.brecorder.com/news/40415184/indias-sugar-edible-oil-demand-drops-as-commercial-gas-shortages-hit-restaurants)*
+* بھارت کے مالیاتی رپورٹنگ کے اصول، کیپٹل مارکیٹ میں تعمیل کی بنیاد ہیں *[Business Recorder](https://www.brecorder.com/news/40415208/financial-reporting-backbone-of-capital-market-compliance)*
+* روس کا کہنا ہے کہ مشرق وسطیٰ کی جنگ کی وجہ سے نئے تجارتی مواقع پیدا ہوئے ہیں *[Business Recorder](https://www.brecorder.com/news/40415193/russia-says-middle-east-war-disruption-opens-up-new-trade-opportunities)*
+* پاکستان کو سعودی عرب سے 3.5 ارب ڈالر کا قرض واپس کرنا پڑا، جس سے معیشت پر دباؤ بڑھ گیا *[Business Recorder](https://www.brecorder.com/news/40415181/unexpected-repayment-of-35-billion-uae-loan-puts-pressure-on-pakistani-economy)*
+* پاکستان میں موبائل انٹرنیٹ کے صنف (gender) کے درمیان فرق ڈیجیٹل اقدامات کے تحت 25 فیصد تک کم ہو گیا ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistans-mobile-internet-gender-gap-narrows-to-25-under-digital-push/)*
+* توانائی کے بحران کے اثرات کئی ماہ تک برقرار رہ سکتے ہیں، وزیر خزانہ کا بیان *[Business Recorder](https://www.brecorder.com/news/40415179/energy-crisis-may-linger-for-months-even-after-truce-aurangzeb)*
+* پاکستان کی خلیج (Gulf) ممالک کو برآمدات میں اضافہ، زرعی مصنوعات کی طلب بڑھ گئی *[Business Recorder](https://www.brecorder.com/news/40415177/pakistan-exports-to-gulf-hold-strong-as-agri-demand-rises)*
 
