@@ -4,77 +4,71 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 07-Apr-2026 21:03PKT:
+Published at: 08-Apr-2026 09:03PKT:
 
 Time to read: 5 mins
 
 ### Economy
-- Pakistan repaid $1.43 billion in debt, including a $1.3 billion Eurobond, on schedule. *[Dawn](https://www.dawn.com/news/1989505/pakistan-has-repaid-143-billion-in-debt-including-eurobond-due-april-8-adviser-says)*
-- Finance Minister Aurangzeb stated that remittances from the Middle East have not yet been impacted by the ongoing conflict. *[Dawn](https://www.dawn.com/news/1989429/no-impact-of-middle-east-conflict-on-remittances-from-gulf-countries-so-far-finance-minister)*
-- Petrol pump owners and dealers are demanding an increase in their commission due to recent price hikes, threatening nationwide shutdowns. *[Dawn](https://www.dawn.com/news/1989487/petrol-pump-owners-dealers-demand-increase-in-commission-proportionate-to-recent-price-hikes)*
-- Unexpected repayment of a $3.5 billion UAE loan is putting pressure on Pakistan’s economy and potentially jeopardizing IMF program targets. *[Business Recorder](https://www.brecorder.com/news/40415179/unexpected-repayment-of-35-billion-uae-loan-puts-pressure-on-pakistani-economy)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/unexpected-repayment-of-3-5-billion-uae-loan-puts-pressure-on-pakistani-economy/)*
-- Sazgar Engineering Works reported increased production and sales of four-wheelers in March. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/sazgars-march-output-rises-as-four-wheeler-production-and-sales-increase/)*
-- Itanz Technologies secured $2.1 million in new international contracts. *[Business Recorder](https://www.brecorder.com/news/40415170/itanz-technologies-secures-21mn-contracts)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/itanz-secures-2-1-million-in-new-international-contracts/)*
-- Pakistan’s money supply rose by 21.3% due to increased bank deposits and currency circulation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistans-money-supply-rises-21-3-as-deposits-cash-circulation-increase/)*
-
-### Science & Technology
-- Artemis II moon crew flew deeper into space than any humans before, observing meteors impacting the far side of the moon. *[Dawn](https://www.dawn.com/news/1989403/artemis-ii-moon-crew-flies-farther-than-humans-have-ever-gone-before)*
-
-### Weather
-- Rain caused flooding and evacuations in parts of Peshawar, Mohmand, and Lahore, with previous rains claiming lives in KP and Balochistan. *[Dawn](https://www.dawn.com/news/1989513/several-people-evacuated-as-rain-causes-flooding-in-parts-of-peshawar)*
+- Pakistan has repaid $1.43 billion in debt, including a $1.3 billion Eurobond, on schedule. *[Dawn](https://www.dawn.com/news/1989505/pakistan-has-repaid-143-billion-in-debt-including-eurobond-due-april-8-adviser-says)*
+- Rs1.2 billion has been disbursed to over 32,000 beneficiaries under the PM Fuel Package 2026. *[Dawn](https://www.dawn.com/news/1989678/rs12-billion-disbursed-among-32000-beneficiaries-under-pm-fuel-package)*
+- Oil prices fell below $100 per barrel following the announcement of a two-week ceasefire. *[ARY News](https://arynews.tv/oil-slides-below-100-after-trump-announces-ceasefire-with-iran/)*
+- Gold prices rose to a near three-week high as markets reacted positively to the ceasefire announcement. *[ARY News](https://arynews.tv/gold-rises-to-near-three-week-high-as-trump-pauses-iran-war/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/gold-rises-to-near-three-week-high-as-trump-pauses-attacks-on-iran/)*
+- Fuel prices may remain high for months even if the Strait of Hormuz reopens, according to the US EIA. *[ARY News](https://arynews.tv/fuel-prices-could-keep-rising-for-months-even-if-hormuz-reopens-us-eia-says/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/fuel-prices-could-keep-rising-for-months-even-if-hormuz-reopens-us-eia-says/)*
+- Pakistan is seeking currency swap deals with the EU, Russia, and Iran to reduce reliance on the US dollar. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/pakistan-moves-to-sign-currency-swap-deals-with-eu-russia-iran-to-cut-dollar-reliance/)*
+- OMCs in Pakistan are facing a liquidity crunch due to Rs107 billion in unpaid fuel claims. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/omcs-face-liquidity-crunch-as-rs107-billion-fuel-claims-remain-unpaid/)*
+- A levy of Rs1,406/mmbtu has been set on off-grid captive power plants. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/imf-linked-levy-on-captive-power-plants-set-at-rs1406-mmbtu/)*
+- PRA is considering bringing additional service sectors into the tax net to broaden the tax base. *[Business Recorder](https://www.brecorder.com/news/40415287/pra-mulling-bringing-additional-service-sectors-into-tax-net)*
 
 ### Politics
-- The Islamabad High Court directed authorities to facilitate a meeting between jailed PTI founder Imran Khan and his lawyer regarding a corruption case. *[Dawn](https://www.dawn.com/news/1989435/190m-graft-case-ihc-chief-justice-directs-authorities-to-facilitate-imrans-meeting-with-lawyer)*
-- Section 144 was imposed in Rawalpindi ahead of PTI’s planned protest outside Adiala jail and a separate rally. *[Dawn](https://www.dawn.com/news/1989409/section-144-imposed-in-rawalpindi-ahead-of-ptis-protest-outside-adiala-april-9-rally)*
-- Several politicians condemned US President Trump’s threat to destroy “a whole civilization” in Iran as a “pre-admission of genocide”. *[Dawn](https://www.dawn.com/news/1989519/pre-admission-of-genocide-politicos-blast-trump-over-threat-to-destroy-a-whole-civilisation-in-iran)*
-
-### National
-- The army’s top brass condemned attacks on Saudi Arabia as an “unnecessary escalation” amid the US-Israeli war on Iran. *[Dawn](https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr)*
-- PMDC will hold an exam on May 16 for medical students seeking transfer to Pakistani institutions due to the ongoing conflict. *[Dawn](https://www.dawn.com/news/1989510/pmdc-to-hold-exam-for-medical-students-seeking-transfer-to-pakistani-institutions-on-may-16)*
-- Five policemen were injured in an IED attack in Lakki Marwat. *[Dawn](https://www.dawn.com/news/1989401/five-policemen-injured-in-ied-attack-targeting-police-patrol-in-lakki-marwat)*
-- A Canadian scholar was granted post-arrest bail in a cybercrime case by the Lahore High Court. *[Dawn](https://www.dawn.com/news/1989439/lhc-grants-post-arrest-bail-to-canadian-scholar-in-cybercrime-case)*
-- An inquiry found Rs106 million embezzlement in a World Bank-funded KP project, and action has been initiated. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/inquiry-finds-rs106-million-embezzlement-in-world-bank-funded-kp-project-action-initiated/)*
+- Trump agreed to a two-week ceasefire with Iran following conversations with PM Shehbaz Sharif and Field Marshal Asim Munir. *[Dawn](https://www.dawn.com/news/1989584/trump-stops-bombing-iran-after-conversations-with-pm-shehbaz-sharif-field-marshal-asim-munir-iran-us-agree-to-two-week-ceasefire)* & *[ARY News](https://arynews.tv/iran-war-us-agrees-to-two-week-ceasefire-with-iran/)*
+- Democrats are urging Republicans to prioritize national duty and halt what they call Trump’s “madness” regarding Iran. *[Dawn](https://www.dawn.com/news/1989572/democrats-call-on-republicans-to-prioritise-patriotic-duty-over-party-loyalty-and-stop-trumps-madness)*
+- Deputy Prime Minister Ishaq Dar expressed regret over the Israeli attack on Iran, stating it damaged the peace process. *[Dawn](https://www.dawn.com/news/1989566/dar-says-israeli-attack-on-iran-set-off-dangerous-developments-that-severely-damaged-peace-process)*
+- The army’s top brass condemned attacks on Saudi Arabia as an unnecessary escalation. *[Dawn](https://www.dawn.com/news/1989497/armys-top-brass-condemns-attacks-on-saudi-arabia-as-unnecessary-escalation-ispr)*
+- Imran Khan’s sisters were arrested while attempting to protest outside Adiala jail. *[Dawn](https://www.dawn.com/news/1989409/imrans-sisters-uzma-noreen-arrested-as-pti-braves-rainy-weather-section-144-to-protest-outside-adiala-jail)*
+- Sindh Governor and Balochistan Governor discussed economic growth and inter-provincial coordination. *[Business Recorder](https://www.brecorder.com/news/40415298/sindh-governor-balochistan-governor-discuss-economic-growth)*
+- Achakzai underscored the need for forming a ‘national govt’ to address mounting crises. *[Business Recorder](https://www.brecorder.com/news/40415294/achakzai-underscores-need-for-forming-national-govt)*
 
 ### International
-- Efforts to facilitate talks between the US and Iran are ongoing, but Iranian strikes on Saudi Arabia threaten to derail them. *[Dawn](https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say)*
-- Pakistan condemned Iranian strikes on Saudi Arabia’s energy facilities, calling it a “dangerous escalation”. *[Dawn](https://www.dawn.com/news/1989473/dangerous-escalation-pakistan-condemns-iranian-strikes-on-saudi-arabias-energy-facilities)*
-- A gunman was killed and two wounded in a shootout outside the Israeli consulate in Istanbul. *[Dawn](https://www.dawn.com/news/1989466/gunman-killed-2-wounded-in-shootout-outside-israels-istanbul-consulate)*
-- The UN Security Council is set to vote on a resolution regarding the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1989392/unsc-to-vote-on-hormuz-resolution-ahead-of-trump-deadline)* & *[Business Recorder](https://www.brecorder.com/news/40415181/un-security-council-vote-expected-on-hormuz-resolution)*
-- Russia says the Middle East war disruption opens up new trade opportunities. *[Business Recorder](https://www.brecorder.com/news/40415193/russia-says-middle-east-war-disruption-opens-up-new-trade-opportunities)*
-- Russia launched attacks on Ukraine’s southeast, killing seven people and injuring dozens. *[Business Recorder](https://www.brecorder.com/news/40415189/russian-attacks-on-ukraines-southeast-kill-seven-hit-city-bus)*
+- Iran has agreed to reopen the Strait of Hormuz for two weeks following the ceasefire agreement. *[ARY News](https://arynews.tv/iran-war-tehran-applauds-sharif-asim-munir-for-ceasefire-efforts/)*
+- China and Russia vetoed a UN resolution to reopen the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1989533/china-russia-veto-un-resolution-to-reopen-strait-of-hormuz)*
+- Internet services were shut down in Manipur, India, following unrest that resulted in four deaths. *[Dawn](https://www.dawn.com/news/1989679/internet-down-in-manipur-after-unrest-kills-four)*
+- India’s Gautam Adani will seek to dismiss a fraud case in the US. *[Dawn](https://www.dawn.com/news/1989557/indian-billionaire-gautam-adani-will-seek-to-dismiss-fraud-case-in-us)*
 
-### Sports
-- Karachi Kings captain David Warner has been charged with drink-driving in Sydney. *[Dawn](https://www.dawn.com/news/1989479/karachi-kings-captain-david-warner-charged-with-drink-driving-in-sydney-reports)*
-- Charlie’s Angels stars held a reunion to mark the show’s 50th anniversary. *[ARY](https://arynews.tv/charlies-angels-stars-mark-50-years-with-reunion/)*
+### National
+- PM Shehbaz Sharif stated that Pakistan’s exports and power supply have not been disrupted despite the Gulf war. *[Dawn](https://www.dawn.com/news/1989683/no-power-crisis-exports-intact-amid-gulf-war-disruptions-pm)*
+- PM Shehbaz Sharif called on the nation to contribute to fuel conservation and austerity measures. *[Dawn](https://www.dawn.com/news/1989540/pm-shehbaz-calls-on-nation-to-contribute-to-fuel-conservation-austerity-drive)*
+- Efforts to facilitate talks between the US and Iran are ongoing, with Pakistani sources involved. *[Dawn](https://www.dawn.com/news/1989511/efforts-to-facilitate-talks-between-us-and-iran-ongoing-pakistani-sources-say)*
+- Pakistan has issued over 2,800 visas to Sikh pilgrims for the Baisakhi festival. *[Business Recorder](https://www.brecorder.com/news/40415288/baisakhi-celebrations-pakistan-issues-over-2800-visas-to-sikh-pilgrims)*
+- A new semiconductor training program has been launched to strengthen Pakistan’s tech sector. *[ARY News](https://arynews.tv/pakistan-launches-new-training-initiative-for-talent/)*
+
+### Science & Technology
+- Ancient glass beads dating back to the 2nd century BC were unearthed at Taxila’s Bhir Mound. *[Dawn](https://www.dawn.com/news/1989671/ancient-glass-beads-unearthed-at-taxilas-bhir-mound)*
+- An AI singer, Eddie Dalton, has topped the iTunes charts. *[ARY News](https://arynews.tv/eddie-dalton-ai-singer-tops-singing-itunes-charts/)*
 
 ### Health
-- No relevant news in provided articles.
+- Premature babies in Pakistan are losing sight at a higher rate due to retinopathy of prematurity (ROP). *[Business Recorder](https://www.brecorder.com/news/40415293/premature-babies-lose-sight-at-higher-rate-due-to-rop-al-shifa-trust)*
+- Hameed Latif Hospital will provide medical services to Chinese personnel and their families. *[Business Recorder](https://www.brecorder.com/news/40415283/chinese-personnel-families-hameed-latif-hospital-to-provide-services)*
+
+### Weather
+- Rain caused flooding in parts of Peshawar, requiring evacuations. *[Dawn](https://www.dawn.com/news/1989513/several-people-evacuated-as-rain-causes-flooding-in-parts-of-peshawar)*
+
+### Sports
+- No sports related news in the provided articles.
 
 ### Other
-- Kuwait Airways will resume flights to Colombo on April 15. *[ARY](https://arynews.tv/kuwait-airways-resumes-flights-to-colombo/)*
-- Kuwait has increased internal security operations amid regional tensions. *[ARY](https://arynews.tv/kuwait-strengthens-security-operations-nationwide/)*
-- PM Shehbaz reaffirmed Pakistan’s support for Saudi Arabia. *[ARY](https://arynews.tv/pakistan-reaffirms-support-for-saudi-arabia/)*
-- India is moving closer to nuclear fuel self-reliance. *[Dawn](https://www.dawn.com/news/1989405/india-moves-closer-to-nuclear-fuel-self-reliance)*
-- Oil prices hit record highs near $150 a barrel due to the Hormuz crisis. *[ARY](https://arynews.tv/physical-oil-prices-hit-record-highs-near-150-a-barrel-as-hormuz-crisis-worsens/)*
-- Pakistan’s mobile internet gender gap has narrowed to 25%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistans-mobile-internet-gender-gap-narrows-to-25-under-digital-push/)*
-- Silver prices in Pakistan are at Rs. 7,622 per tola. *[ARY](https://arynews.tv/silver-rate-today-in-pakistan-april-7-2026/)*
-- UAE Dirham exchange rate against Pakistani Rupee is at 76.06. *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-7-2026/)*
-- Traders reject the government’s early market closure policy. *[ARY](https://arynews.tv/pakistan-traders-oppose-early-market-closures/)*
-- India’s sugar and edible oil demand is dropping due to commercial gas shortages. *[Business Recorder](https://www.brecorder.com/news/40415184/indias-sugar-edible-oil-demand-drops-as-commercial-gas-shortages-hit-restaurants)*
-- India is considering austerity measures. *[Business Recorder](https://www.brecorder.com/news/40415183/india-weighs-austerity-steps-sees-no-immediate-risk-to-fy27-deficit-goal-sources-say)*
-- Pakistan eyes greater use of indigenous fuels with ADB support for energy reforms. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistan-eyes-greater-use-of-indigenous-fuels-adb-backs-energy-reforms/)*
-- Pakistan exports to Gulf countries remain strong despite regional tensions. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/pakistan-exports-to-gulf-hold-strong-as-agri-demand-rises/)*
-- Financial reporting is crucial for capital market compliance. *[Business Recorder](https://www.brecorder.com/news/40415208/financial-reporting-backbone-of-capital-market-compliance)*
-- Indian companies hoarded $3.7 billion in NDFs to capitalize on rupee arbitrage. *[Business Recorder](https://www.brecorder.com/news/40415188/indian-companies-37bn-ndf-hoard-shows-firms-seized-rupee-arbitrage-window)*
-- India’s RBI is likely to avoid draining liquidity despite muted overnight rates. *[Business Recorder](https://www.brecorder.com/news/40415187/indias-rbi-seen-looking-past-muted-overnight-rates-avoid-liquidity-drain-bankers-say)*
-- Asia faces increased FX intervention risk due to the oil shock. *[Business Recorder](https://www.brecorder.com/news/40415207/oil-shock-turbocharges-asia-fx-intervention-risk-mcgeever)*
-- The Iran war has intensified, with reports of key Iranian leaders being killed. *[ARY](https://arynews.tv/israel-launches-attack-on-iran/)*
-- CNIC and NICOP fees have been updated by NADRA. *[ARY](https://arynews.tv/cnic-and-nicop-fees-by-nadra-april-7-2026-update/)*
-- Binace and Islamabad United launched a fan campaign. *[ARY](https://arynews.tv/binance-and-islamabad-united-launch-season-long-fan-campaign-featuring-binance-pay-and-exclusive-player-access/)*
-- Sindh High Court referred K-Electric petitions to NEPRA tribunal. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/07/sindh-high-court-refers-k-electric-petitions-to-nepra-tribunal-keeps-relief-in-place/)*
-- US strikes military targets on Iran’s Kharg Island. *[Business Recorder](https://www.brecorder.com/news/40415185/us-strikes-military-targets-on-irans-kharg-island-us-official-says)*
-- Pak-Turkiye relations are strengthening towards an economic partnership. *[Business Recorder](https://www.brecorder.com/news/40415182/pak-turkiye-relations-rapidly-moving-towards-economic-partnership-pm-shehbaz)*
-- Energy crisis may linger even after a truce. *[Business Recorder](https://www.brecorder.com/news/40415179/energy-crisis-may-linger-for-months-even-after-truce-aurangzeb)*
-- Trump threatens destruction of “a whole civilization” in Iran. *[Business Recorder](https://www.brecorder.com/news/40415190/a-whole-civilisation-will-die-says-trump-as-iran-defies-looming-deadline)*
-- Rupee gains ground against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40415180/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Twenty Pakistani nationals are among the missing after a boat capsized off the coast of Italy. *[Dawn](https://www.dawn.com/news/1989680/20-pakistanis-among-missing-after-boat-capsizes-off-italy)*
+- A Senate panel has ordered a probe into alleged misconduct by PIA cabin crew. *[Dawn](https://www.dawn.com/news/1989672/senate-panel-orders-probe-into-pia-crew-misconduct)* & *[Business Recorder](https://www.brecorder.com/news/40415290/third-party-inquiry-by-ministry-into-conduct-of-pia-cabin-crew-ordered)*
+- Six suspected terrorists were killed in a Mastung operation. *[Dawn](https://www.dawn.com/news/1989684/six-terrorists-killed-in-mastung-operation)*
+- Gwadar Port has commenced commercial operations. *[Business Recorder](https://www.brecorder.com/news/40415271/gwadar-port-businessmen-hail-commercial-operations)*
+- KICT has completed biometric registration of over 15,000 truck drivers. *[Business Recorder](https://www.brecorder.com/news/40415276/kict-completes-biometric-registration-of-over-15000-truck-drivers)*
+- Travel Mart was flagged as a landmark event for Pakistan’s tourism industry. *[Business Recorder](https://www.brecorder.com/news/40415277/travel-mart-flagged-as-landmark-event)*
+- SU body proposes ‘hybrid’ classes to reduce fuel costs. *[Business Recorder](https://www.brecorder.com/news/40415278/su-body-reviews-fuel-costs-proposes-hybrid-classes)*
+- Chinese companies will begin solar panel manufacturing in Lahore. *[Business Recorder](https://www.brecorder.com/news/40415280/solar-panel-manufacturing-chinese-cos-officials-meet-cm-ink-agreements)*
+- CM Punjab directs PERA to regulate LPG prices. *[Business Recorder](https://www.brecorder.com/news/40415281/cm-punjab-directs-pera-to-regulate-lpg-prices)*
+- An illegal cigarette factory was busted in Chunian, with two arrests. *[Business Recorder](https://www.brecorder.com/news/40415285/illegal-cigarette-factory-busted-in-chunian-two-arrested)*
+- PAFDA chief visits GCUF to explore scientific collaboration. *[Business Recorder](https://www.brecorder.com/news/40415286/scientific-research-collaboration-pafda-chief-visits-gcuf-to-explore-new-avenues)*
+- President Zardari received credentials from envoys of six countries. *[Business Recorder](https://www.brecorder.com/news/40415291/president-receives-credentials-from-envoys-of-six-countries)*
+- A Rs10 billion defamation case has seen the counsel for Imran Khan seek 75 adjournments. *[Business Recorder](https://www.brecorder.com/news/40415292/rs10bn-defamation-case-counsel-for-ik-sought-75-adjournments-pms-lawyer-tells-sc)*
+- Sabrina Carpenter teases an epic Coachella comeback. *[ARY News](https://arynews.tv/sabrina-carpenter-teases-epic-coachella-comeback/)*
+- Chris Pratt discusses being typecast as a “jerk boyfriend” early in his career. *[ARY News](https://arynews.tv/chris-pratt-spills-on-being-typecast-as-jerk-boyfriend-in-his-early-career/)*
 
