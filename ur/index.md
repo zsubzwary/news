@@ -7,87 +7,110 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 08-Apr-2026 21:07PKT 
+ &lrm; 09-Apr-2026 09:07PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 9 منٹ 
 
 ## معیشت
 
-* پاک بھارت تجارت کو فروغ دینے کے لیے امریکہ اور ایران کے وفود جمعہ کو پاکستان آئیں گے، وزیراعظم شہباز شریف نے اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1989847/pm-shehbaz-says-us-iranian-delegations-will-be-coming-to-pakistan-on-friday-for-talks)*
-* پاک چین مذاکرات میں افغانستان اور پاکستان نے کشیدگی سے بچنے پر اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/1989918/afghanistan-pakistan-agree-to-avoid-escalation-during-china-hosted-talks-beijing)*
-* قومی اسمبلی میں اپوزیشن لیڈر نے مشرق وسطیٰ میں امن کے لیے حکومت کو غیر مشروط تعاون کی پیشکش کی ہے۔ *[Dawn](https://www.dawn.com/news/1989907/na-opposition-leader-extends-unconditional-support-to-govt-for-middle-east-peace-efforts)*
-* پی ایس ایکس (پاکستان اسٹاک ایکسچینج) میں امریکی-ایرانی جنگ بندی کی خبر پر 14,000 پوائنٹس کا اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/1989786/psx-gains-14000-points-amid-investor-glee-over-us-iran-ceasefire)*
-* وزیراعظم شہباز شریف نے کہا کہ بجلی کے بحران اور برآمدات میں کوئی خلل نہیں آیا۔ *[Dawn](https://www.dawn.com/news/1989683/no-power-crisis-exports-intact-amid-gulf-war-disruptions-pm)*
-* ایندھن سبسڈی کے لیے آن لائن پورٹل ہیکنگ کی کوششوں کے باعث کراچی میں بند کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/1989766/online-fuel-subsidy-portal-shuts-down-due-to-hacking-attempts-in-karachi)*
-* حکومت نے اوگرا کے قائم مقام چیئرمین کو ہٹا دیا، تیل کی فراہمی اور قیمتوں کے تنازعات کا پس منظر ہے۔ *[Dawn](https://www.dawn.com/news/1989835/govt-removes-acting-ogra-chairman-amid-oil-supply-challenges-pricing-controversies)*
-* وزیراعظم فیول پیکج کے تحت 32,000 مستفیدین میں 1.2 ارب روپے تقسیم کیے گئے۔ *[Dawn](https://www.dawn.com/news/1989678/rs12-billion-disbursed-among-32000-beneficiaries-under-pm-fuel-package)*
-* پاکستان میں مارچ 2026 میں 3.8 ارب ڈالر کی رقوم موصول ہوئیں۔ *[Business Recorder](https://www.brecorder.com/news/40415417/pakistan-records-38bn-in-remittances-for-march-2026)*
-* KSE-100 کمپنیوں نے دوسری سہ ماہی میں 456 ارب روپے کا منافع کمایا، ڈیویڈنڈ میں 12 فیصد اضافہ ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/kse-100-companies-post-rs456-billion-profit-in-2qfy26-dividends-rise-12/)*
+*   مارچ میں مشرق وسطیٰ کی جنگ کے باوجود ریمیٹنس میں 17 فیصد اضافہ ریکارڈ کیا گیا، مجموعی آمدنی 3.8 بلین ڈالر رہی، جو اس مالی سال کی سب سے زیادہ ہے، تاہم گزشتہ سال کے مقابلے میں 5 فیصد کم ہے۔ *[Dawn](https://www.dawn.com/news/1990055/war-in-middle-east-fails-to-dent-remittances-in-march)*
+*    بجلی کے صارفین پر 10.6 بلین روپے کا اضافی بوجھ عائد کیا جائے گا، اینیپرا نے ایندھن کی قیمت ایڈجسٹمنٹ (FCA) میں 1.42 روپے فی یونٹ کا اضافہ منظور کیا ہے۔ *[Dawn](https://www.dawn.com/news/1990054/power-consumers-to-bear-rs106bn-extra-burden)*
+*   ورلڈ بینک نے مشرق وسطیٰ کی معاشی نمو کے تخمینہ کو کم کر دیا ہے، جنگ کی وجہ سے توانائی کے شعبے میں بحران کی وجہ سے یہ فیصلہ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1990040/world-bank-cuts-middle-east-growth-forecast-after-energy-sector-turmoil)*
+*   ڈزنی 1,000 ملازمتیں کم کرنے کا منصوبہ بنا رہی ہے، زیادہ تر کٹوتی مارکیٹنگ کے شعبے میں کی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40415545/disney-plans-to-cut-1000-jobs-wsj-reports)*
+*   بھارت میں حصص کی منڈی میں تیزی کے باوجود، مشرق وسطیٰ کے تناؤ کی وجہ سے احتیاط کا رجحان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415543/indian-shares-set-to-pause-after-rally-as-mideast-tensions-cloud-ceasefire-optimism)*
+*   پاکستان میں پیٹرولیم لیوی بڑھانے کا امکان ہے، فروری تا مارچ کے دوران ایف بی آر میں 610 ارب روپے کی کمی ریکارڈ کی گئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/pakistan-may-raise-petroleum-levy-as-rs610-billion-fbr-shortfall-persists-despite-global-oil-price-drop)*
+*   غیر ملکی سرمایہ کاروں نے مارچ میں ابھرتی ہوئی مارکیٹوں سے 70 ارب ڈالر نکال لیے، جو کہ کورونا وبا کے بعد سب سے زیادہ ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/foreign-investors-pull-over-70-billion-from-emerging-markets-in-march-highest-since-pandemic)*
 
 ## سائنس اور ٹیکنالوجی
 
-* امریکی FDA نے واٹرز کے گھر پر سرویکل کینسر کی سکریننگ کٹ کو منظور کیا۔ *[ARY](https://arynews.tv/waters-launches-cervical-cancer-screening-kit/)*
-* چینی الیکٹرک ٹرک بنانے والا وینڈروز نے امریکہ میں پہلی ترسیل کی۔ *[ARY](https://arynews.tv/chinese-electric-truck-maker-windrose-makes-first-us-delivery/)*
+*   کسٹمز ویلیویشن ڈائریکٹوریٹ جنرل کراچی نے لتیم آئن بیٹریوں کی نئی کسٹمز ویلیو مقرر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415512/customs-values-for-lithium-ion-batteries-revised)*
 
 ## موسم
 
-* پنجاب اور خیبر پختونخوا میں بارشوں کے باعث 5 افراد ہلاک اور 22 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1989813/5-killed-22-injured-in-rain-related-incidents-in-punjab-kp)*
+*   (کوئی خبر نہیں)
 
 ## سیاست
 
-* وزیراعظم شہباز شریف نے کہا کہ امریکہ اور ایران کے وفود جمعہ کو پاکستان آئیں گے۔ *[Dawn](https://www.dawn.com/news/1989847/pm-shehbaz-says-us-iranian-delegations-will-be-coming-to-pakistan-on-friday-for-talks)*
-* وزیراعظم شہباز شریف نے امریکی صدر ٹرمپ سے بات کی اور جنگ بندی پر اتفاق کیا۔ *[Dawn](https://www.dawn.com/news/1989584/trump-halts-iran-attacks-after-talks-with-pm-shehbaz-cdf-munir-us-iran-reach-ceasefire-agreement)*
-* وزیراعظم نے سابق وزیراعظم نواز شریف، صدر زرداری اور عمران خان کو مل کر کام کرنے کی تجویز دی۔ *[Dawn](https://www.dawn.com/news/1989907/na-opposition-leader-extends-unconditional-support-to-govt-for-middle-east-peace-efforts)*
-* سابق وزیراعظم عمران خان سے اڈیالہ جیل میں بیرسٹر سلمان صفدر کی ملاقات ہوئی۔ *[Dawn](https://www.dawn.com/news/1989902/barrister-salman-safdar-meets-imran-at-adiala-jail-following-ihcs-directives)*
-* وزیراعظم نے کہا کہ ایران کے ساتھ جنگ سے معیشت کو کوئی نقصان نہیں پہنچا۔ *[Dawn](https://www.dawn.com/news/1989683/no-power-crisis-exports-intact-amid-gulf-war-disruptions-pm)*
-* بھارت میں بنگلہ دیش کے وزیر خارجہ کی آمد، 2024 کے بغاوت کے بعد سب سے اہم دورہ۔ *[Dawn](https://www.dawn.com/news/1989882/bangladesh-fm-in-india-most-senior-visit-since-2024-uprising)*
+*   پاکستان میں امریکہ اور ایران کے درمیان مذاکرات کی میزبانی کا اعلان، وزیراعظم شہباز شریف نے اس کو تاریخی لمحہ قرار دیا۔ *[Dawn](https://www.dawn.com/news/1990069/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks)*
+*   صدر ٹرمپ نے ایران کے یورینیم کی افزودگی کو ختم کرنے کا اعلان کیا اور کہا کہ امریکہ اور ایران مل کر زیر زمین جوہری مواد کو نکالیں گے۔ *[Dawn](https://www.dawn.com/news/1990041/trump-declares-end-to-irans-uranium-enrichment)*
+*   وزیراعظم نے امید ظاہر کی ہے کہ امریکہ اور ایران کے درمیان عارضی جنگ بندی مستقل امن میں تبدیل ہو جائے گی۔ *[Dawn](https://www.dawn.com/news/1990032/pm-hopes-us-iran-ceasefire-will-become-permanent)*
+*   سینیٹ کی قائم کمیٹی نے تین اہم حکومت کے بل منظور کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40415508/inter-provincial-coordination-senate-body-approves-three-key-government-bills)*
+*   سینیٹرز نے امریکہ اور ایران کے درمیان دو ہفتوں کی جنگ بندی کو سراہا، اور پاکستان کی سفارتکاری کو خراج تحسین پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415509/senators-hail-two-week-us-iran-ceasefire)*
+*   جماعت اسلامی نے امریکہ اور ایران کے درمیان جنگ بندی کا خیرمقدم کیا اور علاقائی اتحاد پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40415505/us-israel-iran-ceasefire-ji-welcomes-agreement-urges-regional-unity)*
 
 ## قومی
 
-* اسلام آباد میں 9 اور 10 اپریل کو مقامی تعطیل کا اعلان کیا گیا۔ *[Dawn](https://www.dawn.com/news/1989885/local-holiday-announced-in-islamabad-for-april-9-and-10-essential-services-to-remain-operational)*
-* اسلام آباد ہائی کورٹ نے اتاترک ایونیو پر درختوں کی کٹائی روک دی۔ *[Dawn](https://www.dawn.com/news/1989820/ihc-restrains-cda-over-tree-cutting-on-ataturk-avenue-seeks-response)*
-* خیبر پختونخوا نے ڈیجیٹل ادائیگی ایکٹ 2026 کے ذریعے نقدی سے پاک معیشت کی جانب قدم بڑھایا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/khyber-pakhtunkhwa-moves-to-cashless-economy-with-digital-payment-act-2026/)*
-* آزاد جموں و کشمیر نے اہم شعبوں میں 34.85 ارب روپے کی ترقیاتی منصوبوں کو منظور کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/ajk-approves-rs34-85-billion-development-projects-across-key-sectors/)*
+*   اٹلی کے ساحل پر کشتی حادثے میں گمشدہ پاکستانیوں میں سے زیادہ تر عمرہ زائرین کے روپ میں ملک چھوڑ گئے تھے۔ *[Dawn](https://www.dawn.com/news/1990009/boat-capsize-incident-off-italy-most-of-missing-pakistanis-were-in-umrah-pilgrims-guise)*
+*   لاہور ہائی کورٹ نے فیصلہ دیا کہ غیر متعلقہ افراد کسی فرد کی بریت کو چیلنج نہیں کر سکتے۔ *[Dawn](https://www.dawn.com/news/1990034/lahore-high-court-rules-unrelated-individuals-cant-challenge-acquittals)*
+*   ادھیالا جیل میں سابق وزیراعظم عمران خان سے بیرسٹر سلمان صفدر کی ملاقات ہوئی۔ *[Dawn](https://www.dawn.com/news/1989902/barrister-salman-safdar-meets-imran-at-adiala-jail-says-pti-founders-eye-complication-continues)*
+*   اسلام آباد اور راولپنڈی میں 9 اور 10 اپریل کو مقامی تعطیل کا اعلان کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1989885/local-holiday-announced-in-islamabad-rawalpindi-for-april-9-and-10-essential-services-to-remain-operational)*
+*   افغانستان اور پاکستان نے چین کی میزبانی میں ہونے والی بات چیت کے دوران کشیدگی سے بچنے پر اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/1989918/afghanistan-pakistan-agree-to-avoid-escalation-during-china-hosted-talks-beijing)*
+*   پی ایم ڈی سی نے میڈیکل اور ڈینٹل کالجوں میں خالی نشستوں کو بھرنے کے لیے ایم ڈی سی اے ٹی کے پاسنگ مارکس میں 3 فیصد تک کمی کی اجازت دی ہے۔ *[Dawn](https://www.dawn.com/news/1989922/universities-may-allow-one-time-reduction-of-up-to-3pc-in-mdcat-passing-marks-to-fill-vacant-seats-pmdc)*
 
 ## بین الاقوامی
 
-* امریکہ اور ایران نے دو ہفتوں کی جنگ بندی پر اتفاق کیا، وزیراعظم شہباز شریف کی ثالثی۔ *[Dawn](https://www.dawn.com/news/1989584/trump-halts-iran-attacks-after-talks-with-pm-shehbaz-cdf-munir-us-iran-reach-ceasefire-agreement)*
-* شمالی کوریا نے دو راؤنڈ بیلسٹک میزائل فائر کیے۔ *[Dawn](https://www.dawn.com/news/1989832/north-korea-fires-two-rounds-of-ballistic-missiles-seoul-military)*
-* ایران نے خبردار کیا ہے کہ امریکہ پر اعتماد نہیں ہے اور جنگ بندی کے باوجود انگلی ٹرگر پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415389/iran-guards-say-have-no-trust-in-us-finger-on-trigger)*
-* تیل کی قیمتیں جنگ بندی کی خبر پر گر گئیں، حصص میں اضافہ ہوا۔ *[Dawn](https://www.dawn.com/news/1989806/oil-dives-below-100-stocks-jump-after-two-week-ceasefire-agreed)*
-* متحدہ عرب امارات کا درہم پاکستانی روپے کے مقابلے میں کمزور ہوا۔ *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-8-2026/)*
-* آئرلینڈ میں ایندھن کی قیمتوں کے خلاف احتجاج، نقل و حمل معطل۔ *[ARY](https://arynews.tv/petrol-price-protests-clog-dublin-other-irish-cities/)*
-* بھارت میں دھورندھر فلم نے بالی ووڈ کے ریکارڈ توڑ دیئے۔ *[Business Recorder](https://www.brecorder.com/news/40415392/indian-hit-movie-dhurandhar-breaks-bollywood-records)*
+*   امریکہ نے 2028 میں اقوام متحدہ کی آب و ہوا کانفرنس کی میزبانی سے دستبرداری کر دی ہے۔ *[Dawn](https://www.dawn.com/news/1990043/india-says-it-wont-host-un-climate-talks-in-2028)*
+*   یوکرین نے امریکہ سے روس کے ساتھ جنگ ختم کرنے کے لیے دباؤ ڈالنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1990039/us-urged-to-end-ukraine-war-after-iran-truce)*
+*   فرانس 15 ممالک کے ساتھ مل کر ہرمز کی آبنائے میں ٹریفک بحال کرنے کے لیے ایک مشن کی قیادت کرے گا۔ *[Dawn](https://www.dawn.com/news/1990038/15-nations-plan-to-help-restore-traffic-through-hormuz-macron)*
+*   اسرائیل نے لبنان پر شدید فضائی حملے کیے، جبکہ حزب اللہ نے شمالی اسرائیل پر حملے معطل کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/1989949/israel-pounds-lebanon-with-heaviest-airstrikes-of-war-as-hezbollah-pauses-attacks)*
+*   اسرائیل نے کہا کہ وہ ایران کے ساتھ کسی بھی لمحے جنگ کے لیے تیار ہے۔ *[ARY](https://arynews.tv/israel-remains-prepared-to-confront-iran/)*
+*   اقوام متحدہ کے حقوق کمیشن نے لبنان میں ہلاکتوں کے پیمانے کو "حیران کن" قرار دیا۔ *[ARY](https://arynews.tv/lebanon-faces-horrific-violence-and-carnage/)*
+*   امریکہ اور ایران کے درمیان جنگ بندی کے بعد، ایران مضبوط اور بااثر بن کر سامنے آیا ہے۔ *[ARY](https://arynews.tv/as-trump-claims-victory-iran-emerges-bruised-but-powerful-with-leverage-over-hormuz/)*
 
 ## کھیل
 
-* کرکٹ NSW کا کہنا ہے کہ ڈیوڈ وارنر کو ڈرائنگ چارجز کی سنگینی کا علم ہے۔ *[Dawn](https://www.dawn.com/news/1989893/cricket-nsw-says-david-warner-aware-of-seriousness-of-drink-driving-charges)*
+*   کرکٹ NSW نے ڈیوڈ وارنر کے ڈرنک ڈرائیونگ کے الزامات کے بارے میں کہا کہ وہ "شدت" سے آگاہ ہیں۔ *[Dawn](https://www.dawn.com/news/1989893/cricket-nsw-says-david-warner-aware-of-seriousness-of-drink-driving-charges)*
+*   اٹلی کے فٹ بال فیڈریشن نے ورلڈ کپ سے محرومی کے بعد کمی کو روکنے کے لیے بیٹنگ کے پیسے اور نوجوانوں کے لیے مراعات مانگی ہیں۔ *[ARY](https://arynews.tv/italy-federation-seeks-betting-cash-youth-incentives-to-halt-decline-following-world-cup-miss/)*
 
 ## صحت
 
-* کوئی نئی خبر نہیں
+*   (کوئی خبر نہیں)
 
 ## دیگر
 
-* کیٹی پیری نے جسٹن ٹروڈو کے ساتھ اپنی زندگی کی جھلکیاں شیئر کیں۔ *[ARY](https://arynews.tv/katy-perry-justin-trudeau-relationship-update/)*
-* جافار جیکسن مائیکل جیکسن کے طور پر اپنے کردار کے بارے میں کھل کر بات کر رہے ہیں۔ *[ARY](https://arynews.tv/jaafar-jackson-opens-up-about-portraying-michael-jackson/)*
-* وزیراعظم شہباز شریف نے کہا کہ جنگ کے باوجود پاکستانی مصنوعات کی مانگ خلیج میں بڑھ رہی ہے۔ *[Dawn](https://www.dawn.com/news/1989683/no-power-crisis-exports-intact-amid-gulf-war-disruptions-pm)*
-* بین الاقوامی میڈیا نے پاکستان کے امریکہ-ایران جنگ بندی میں اہم کردار کو کیسے کوریج کیا؟ *[Dawn](https://www.dawn.com/news/1989861/how-international-media-covered-pakistans-defining-role-in-the-us-iran-ceasefire)*
-* پاکستان کی سفارتکاری کی اندرونی کہانی جو امریکہ-ایران جنگ بندی کی طرف لے گئی۔ *[Dawn](https://www.dawn.com/news/1989824/how-we-got-here-inside-pakistans-backchannel-diplomacy-that-led-to-the-us-iran-ceasefire)*
-* جنگوں سے ممالک پر گہری اور طویل معاشی لاگت پڑتی ہے، آئی ایم ایف کے تحقیق میں انکشاف۔ *[Business Recorder](https://www.brecorder.com/news/40415406/wars-impose-deep-and-prolonged-economic-costs-on-countries-imf-research-finds)*
-* سعودی عرب کی ہرمز کے بائی پاس پائپ لائن پر ایرانی حملہ، ذرائع کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40415402/saudi-arabias-oil-pipeline-bypassing-hormuz-damaged-in-iranian-attack-source-says)*
-* ایران نے کویت اور متحدہ عرب امارات پر حملہ کیا، سرکاری ٹی وی کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40415388/iran-attacked-kuwait-uae-after-strikes-on-its-oil-facilities-state-tv)*
-* بھارت میں ایرانی تیل کی پہلی کھیپ سات سال میں پہنچنے والی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/india-set-to-get-first-iranian-oil-cargo-in-7-years-tracking-data-shows/)*
-* ورلڈ بینک نے مشرق وسطیٰ میں جنگ اور توانائی کے اخراجات کے باعث 2026 کی نمو کا تخمینہ کم کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40415405/world-bank-says-south-asia-growth-to-slow-to-63-in-2026-amid-middle-east-conflict)*
-* ورلڈ بینک کا کہنا ہے کہ جنوبی ایشیا کی نمو مشرق وسطیٰ کے تنازع کے باعث 6.3 فیصد تک سست ہو جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40415405/world-bank-says-south-asia-growth-to-slow-to-63-in-2026-amid-middle-east-conflict)*
-* بھارت نے 2028 میں سالانہ اقوام متحدہ کی آب و ہوا کانفرنس کی میزبانی کی پیشکش واپس لے لی۔ *[Business Recorder](https://www.brecorder.com/news/40415408/india-withdraws-bid-to-host-annual-un-climate-talks-in-2028)*
-* ورلڈ بینک نے کہا کہ جنگ کے باعث یورپ اور وسطی ایشیا میں ترقی سست ہو جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40415407/developing-countries-in-europe-central-asia-face-slowdown-world-bank-says)*
-* متحدہ عرب امارات میں سرمایہ کاری کے فراڈ کے خلاف مہم شروع ہوئی۔ *[ARY](https://arynews.tv/oman-launches-campaign-against-financial-fraud/)*
-* پاکستان میں پھلوں کی برآمدات میں 6.25 فیصد اضافہ، سبزیوں کی برآمدات میں شدید کمی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/pakistan-fruit-exports-rise-6-25-to-251-9-million-in-jul-feb-vegetable-exports-drop-sharply/)*
-* کیوں پاکستان میں کپاس کی قیمتیں بڑھ رہی ہیں؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/why-are-cotton-prices-going-up-in-pakistan/)*
-* نیپرا نے اوگرا پر ریگولیٹری خلاف ورزیوں کے لیے 50 ملین روپے کے جرمانے کو برقرار رکھا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/nepra-upholds-rs50-million-fine-on-cppa-g-for-regulatory-violations/)*
-* خلیج کے حصص میں امریکی-ایرانی جنگ بندی معاہدے پر اضافہ ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/gulf-markets-jump-on-us-iran-ceasefire-agreement/)*
-* کنٹریکٹ پر مبنی ود ہولڈنگ ٹیکس مالی سال 2025 میں 37 فیصد بڑھ کر 728 ارب روپے ہو گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/08/contract-based-withholding-tax-rises-37-to-rs728-billion-in-fy2025/)*
-* امریکہ کا کہنا ہے کہ ایران کو ہتھیار فراہم کرنے والے ممالک پر 50 فیصد امریکی ٹیرف عائد کیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40415393/trump-says-countries-that-supply-weapons-to-iran-to-face-50-us-tariffs)*
-* ونس کا کہنا ہے کہ یوکرین تنازع کو حل کرنا مشکل ترین تھا۔ *[Business Recorder](https://www.brecorder.com/news/40415390/vance-says-ukraine-conflict-has-been-hardest-to-solve)*
+*   امریکہ کے ایک سابق فوجی پر خفیہ معلومات صحافی کو دینے کا الزام عائد کیا گیا ہے۔ *[ARY](https://arynews.tv/us-army-veteran-charged-with-leaking-classified-information/)*
+*   "یوفوریا" کے پریمیئر پر زینڈیا اور سڈنی سینی کے درمیان کشیدگی کی خبریں ہیں۔ *[ARY](https://arynews.tv/euphoria-premiere-turns-icy-as-zendaya-sydney-sweeney-avoid-each-other/)*
+*   ایران کے صدر نے کہا کہ لبنان میں جنگ بندی جنگ ختم کرنے کے لیے ان کے 10 نکاتی منصوبے کی ایک اہم شرط ہے۔ *[ARY](https://arynews.tv/iran-president-says-lebanon-truce-a-key-condition-for-ending-war/)*
+*   گھانا کے صدر کے ساتھ الیزے پیلس میں فرانسیسی صدر ایمانوئل میکرون کی تصویر۔ *[Dawn](https://www.dawn.com/news/1990038/15-nations-plan-to-help-restore-traffic-through-hormuz-macron)*
+*   چیرے ماسٹر پاکستان 10 اپریل کو مقامی طور پر اسمبل شدہ ٹِگو 7 PHEV لانچ کرے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/chery-master-to-launch-locally-assembled-tiggo-7-phev-in-pakistan-on-april-10/)*
+*   آئی ایم ایف کا مشن اگلے ماہ مالی سال 2027 کے بجٹ کو حتمی شکل دینے کے لیے پاکستان کے دورے پر آئے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/imf-mission-to-visit-pakistan-next-month-to-finalise-fy2027-budget/)*
+*   پاکستان نے کویت کے قونصل خانے پر حملے کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1989933/pakistan-expresses-concern-at-storming-of-kuwaits-consulate-in-basra)*
+*   آئی ایس آئی ایس نے خبردار کیا ہے کہ جنگ بندی کے بعد بھی ایران کے جوہری پروگرام کا خطرہ موجود ہے۔ *[ARY](https://arynews.tv/trump-will-continue-to-discuss-lebanon-with-israeli-pm-white-house/)*
+*   گھانا کے صدر کے ساتھ فرانسیسی صدر ایمانوئل میکرون کی تصویر۔ *[Dawn](https://www.dawn.com/news/1990038/15-nations-plan-to-help-restore-traffic-through-hormuz-macron)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415502/business-greets-us-iran-ceasefire-lauds-role-of-pm-cdf)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415505/us-israel-iran-ceasefire-ji-welcomes-agreement-urges-regional-unity)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415506/ppp-leader-for-nobel-peace-prize-to-president-pm-cdf)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415504/us-iran-ceasefire-hcstsi-president-greets-role-of-pak-leadership)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415503/cm-grieved-over-mpas-demise)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415501/bilawal-commends-global-leadership-for-choosing-dialogue-over-war)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415500/abad-pays-tribute-to-pm-field-marshal)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415511/ubg-leader-lauds-pm-cdf-for-role-in-securing-ceasefire)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415510/truce-between-us-and-iran-welcomed)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415507/inter-provincial-coordination-senate-body-approves-three-key-government-bills)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415509/senators-hail-two-week-us-iran-ceasefire)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415508/inter-provincial-coordination-senate-body-approves-three-key-government-bills)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415513/customs-values-for-lithium-ion-batteries-revised)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415512/new-customs-values-for-imported-infant-milk-fixed)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415539/oil-rises-as-investors-remain-wary-us-iran-ceasefire-will-open-supply-flow)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415540/asia-stocks-turn-cautious-as-reality-intrudes-in-gulf)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415541/dollar-steadies-as-fragile-us-iran-ceasefire-weighs-on-markets)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415542/indian-shares-set-to-pause-after-rally-as-mideast-tensions-cloud-ceasefire-optimism)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415544/us-senate-to-vote-on-resolution-to-curb-trumps-iran-war-powers)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415538/indian-rupee-contends-with-doubts-over-iran-truce-oil-ticks-up-risk-rally-peters)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415537/foreign-investors-pull-over-70-billion-from-emerging-markets-in-march-highest-since-pandemic)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415536/disney-plans-to-cut-1000-jobs-wsj-reports)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415535/world-bank-cuts-middle-east-growth-forecast-after-energy-sector-turmoil)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415534/trump-halts-iran-attacks-after-talks-with-pm-shehbaz-cdf-munir-us-iran-reach-ceasefire-agreement)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415533/trump-declares-end-to-irans-uranium-enrichment)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415532/india-says-it-wont-host-un-climate-talks-in-2028)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415531/us-urged-to-end-ukraine-war-after-iran-truce)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415530/15-nations-plan-to-help-restore-traffic-through-hormuz-macron)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415529/afghanistan-pakistan-agree-to-avoid-escalation-during-china-hosted-talks-beijing)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415528/lahore-high-court-rules-unrelated-individuals-cant-challenge-acquittals)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415527/boat-capsize-incident-off-italy-most-of-missing-pakistanis-were-in-umrah-pilgrims-guise)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415526/power-consumers-to-bear-rs106bn-extra-burden)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415525/war-in-middle-east-fails-to-dent-remittances-in-march)*
+*   پاکستان نے ایران اور امریکہ کے درمیان جنگ بندی کا خیرمقدم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40415524/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks)*
+
+مجھے امید ہے کہ یہ خلاصہ آپ کی ضروریات کے مطابق ہے۔
 
