@@ -4,60 +4,96 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Apr-2026 21:02PKT
+Published at: 10-Apr-2026 09:03PKT
 
-Time to read: 4 mins
+Time to read: 7 mins
 
 ### Economy
-- The IMF expects to provide up to $50 billion in financial assistance to vulnerable economies impacted by the Middle East war. *[Dawn](https://www.dawn.com/news/1990259/imf-expects-to-provide-vulnerable-economies-hit-by-middle-east-war-up-to-50-billion)*
-- Remittances to Pakistan increased by 17% in March, reaching $3.8 billion, despite the ongoing conflict in the Middle East. *[Dawn](https://www.dawn.com/news/1990055/war-in-middle-east-fails-to-dent-remittances-in-march)*
-- The SBP-held foreign reserves rose by $19 million to $16.40 billion. *[Business Recorder](https://www.brecorder.com/news/40415613/sbp-held-foreign-reserves-rise-19mn-to-1640bn)*
-- WorldCall Telecom plans a UAE expansion with a wholly-owned subsidiary. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/worldcall-plans-uae-expansion-with-wholly-owned-subsidiary/)*
-- Service Long March Tyres announced a $120 million investment in Pakistan, potentially boosting tyre exports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/pakistan-eyes-major-boost-in-tyre-exports-as-chinese-backed-service-long-march-tyres-announces-120-million-investment/)*
-- The World Bank will provide $300 million for a rural water and sanitation project in Sindh. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/world-bank-to-provide-300-million-for-rural-water-sanitation-project-in-sindh/)*
-- Pakistan’s exports to North America rose to $4.41 billion, but imports surged by 34%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/pakistan-exports-to-north-america-rise-to-4-41-billion-imports-surge-34/)*
-- Gulf conflict is impacting basmati trade and may drop global rice output by up to 13 million tons. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/gulf-conflict-hits-basmati-trade-global-rice-output-may-drop-up-to-13-million-tons/)*
+- Pakistan’s GDP growth forecast for FY2026 has been cut to 3% by the World Bank, citing rising inflation and external pressures. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/world-bank-cuts-pakistans-gdp-growth-forecast-to-3-for-fy2026-inflation-seen-rising-to-7-4/)*
+- Central government debt rose by 2.5% to Rs79.88 trillion by February 2026, primarily due to increased domestic borrowing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/central-govt-debt-rises-2-5-to-rs79-88-trillion-by-february-2026/)*
+- Pakistan may face a urea shortage of up to 500,000 tonnes during the Rabi 2026–27 season. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/pakistan-may-face-urea-shortage-of-up-to-500000-tonnes-in-rabi-2026-27/)*
+- The IMF expects financing demand to rise to $20-50 billion due to Middle East conflict spillovers. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/imf-sees-financing-demand-rising-to-50-billion-amid-middle-east-conflict-spillovers/)*
+- Pakistan’s total foreign exchange reserves reached $21.89 billion, with a slight increase in SBP holdings. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/pakistans-total-fx-reserves-near-22bn-as-sbp-holdings-rise-slightly/)*
+- Lawmakers’ schemes utilized 70% of development funds in four months, while overall PSDP spending remains low at 41.5% in the first nine months. *[Dawn](https://www.dawn.com/news/1990382/lawmakers-schemes-outpace-sluggish-uplift-spending)*
+- The PSDP was cut by Rs90 billion to fund fuel subsidies. *[Dawn](https://www.dawn.com/news/1990382/lawmakers-schemes-outpace-sluggish-uplift-spending)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif and CDF Munir discussed Pakistan’s mediation efforts between the US and Iran. *[Dawn](https://www.dawn.com/news/1990234/pm-shehbaz-cdf-munir-discuss-pakistans-efforts-to-mediate-between-us-and-iran)*
-- Lebanon’s Prime Minister sought Pakistan’s support for ending Israeli attacks. *[Dawn](https://www.dawn.com/news/1990171/lebanon-seeks-pakistans-support-for-ending-israeli-strikes)*
-- A bill seeking to raise the minimum marriage age for Christians to 18 was submitted to the Punjab Assembly. *[Dawn](https://www.dawn.com/news/1990251/bill-seeking-to-raise-christians-marriage-age-to-18-submitted-to-punjab-assembly-panel)*
-- Iran ruled out restrictions on its enrichment program, even as talks with the US are scheduled. *[Business Recorder](https://www.brecorder.com/news/40415611/iran-rules-out-restrictions-on-enrichment-programme-nuclear-chief)*
-
-### National
-- Interior Minister Mohsin Naqvi assured the US Ambassador of foolproof security for the US-Iran talks in Islamabad. *[Dawn](https://www.dawn.com/news/1990162/foolproof-security-arranged-for-foreign-guests-naqvi-assures-us-envoy-ahead-of-usiran-talks-in-islamabad)*
-- The Sindh government constituted a high-level committee to oversee the execution of the Gul Plaza inferno inquiry report. *[Dawn](https://www.dawn.com/news/1990238/sindh-govt-constitutes-high-level-committee-to-ensure-execution-of-gul-plaza-infernos-inquiry-report)*
-- Nadra warned citizens of penalties for delaying the obtaining or renewal of identity documents. *[Dawn](https://www.dawn.com/news/1990232/nadra-warns-of-penalties-for-those-who-delay-obtaining-renewing-identity-documents)*
-- Matric exams were postponed in Rawalpindi due to the US-Iran talks. *[Dawn](https://www.dawn.com/news/1990205/rawalpindi-board-postpones-matric-exams-scheduled-for-april-10)*
-- Route to Makkah operations will commence from Lahore airport for the first time. *[Business Recorder](https://www.brecorder.com/news/40415600/route-to-makkah-operations-to-commence-from-lahore-airport-for-first-time)*
+- Prime Minister Shehbaz Sharif and PPP Chairman Bilawal Bhutto-Zardari agreed on the need for national harmony to address current challenges. *[Dawn](https://www.dawn.com/news/1990369/pm-bilawal-agree-national-harmony-need-of-hour)*
+- A PML-N lawmaker submitted a resolution in the Punjab Assembly nominating CDF Munir, PM Shehbaz, and DPM Dar for the Nobel Peace Prize. *[Dawn](https://www.dawn.com/news/1990376/pakistani-women-drive-a-fifth-of-senate-agenda-free-and-fair-election-network)*
+- President Asif Ali Zardari stated the 1973 Constitution remains Pakistan’s central legal and political framework. *[Business Recorder](https://www.brecorder.com/news/40415702/1973-constitution-remains-central-legal-political-framework-president)*
+- IK’s message from Adiala jail is considered significant in the current national and international context. *[Business Recorder](https://www.brecorder.com/news/40415706/iks-message-from-adiala-jail-carries-significant-importance-kp-cm)*
 
 ### International
-- Pakistan is hosting in-person talks between the US and Iran following a two-week ceasefire. *[Dawn](https://www.dawn.com/news/1990069/islamabad-takes-centre-stage-to-host-high-stakes-us-iran-talks)*
-- A ceasefire between the US and Iran was announced, brokered with Pakistan’s mediation. *[Dawn](https://www.dawn.com/news/1990170/us-iran-talks-in-islamabad-who-is-involved-and-why-it-matters)*
-- Saudi and Iranian Foreign Ministers held their first call since the start of the conflict. *[Dawn](https://www.dawn.com/news/1990184/iran-saudi-fms-hold-first-call-since-start-of-conflict-discuss-ways-to-reduce-tensions)* & *[Business Recorder](https://www.brecorder.com/news/40415589/saudi-iranian-fms-hold-first-call-since-start-of-war-saudi-ministry)*
-- Israel conducted significant strikes on Lebanon, potentially threatening the US-Iran truce. *[Business Recorder](https://www.brecorder.com/news/40415615/huge-israeli-strikes-on-lebanon-threaten-iran-truce-talks-planned-but-strait-still-shut)*
-- India withdrew its offer to host the 2028 UN climate conference (COP33). *[Dawn](https://www.dawn.com/news/1990043/india-says-it-wont-host-un-climate-talks-in-2028)*
-- The IMF reached a staff-level agreement with Sri Lanka for $700 million in funding. *[Dawn](https://www.dawn.com/news/1990208/imf-strikes-staff-level-deal-with-sri-lanka-on-700m-in-funding)*
-- Bangladesh will implement a hybrid school system with online classes due to an energy crunch. *[Business Recorder](https://www.brecorder.com/news/40415612/bangladesh-schools-to-go-online-in-energy-crunch)*
+- Crucial peace talks between the US and Iran are being held in Islamabad, with the capital on high alert and 10,000 security personnel deployed. *[Dawn](https://www.dawn.com/news/1990385/capital-on-high-alert-ahead-of-us-iran-peace-talks)*
+- Pakistan is stepping up diplomacy to support the US and Iran in reaching a peaceful settlement, and has mediated to bring them to the table. *[Dawn](https://www.dawn.com/news/1990386/pakistan-steps-up-diplomacy-as-lebanon-strikes-strain-ceasefire)*
+- US forces will remain deployed near Iran until a “real” agreement is reached, according to President Trump. *[Dawn](https://www.dawn.com/news/1990368/us-forces-to-remain-deployed-near-iran-until-real-agreement-reached-says-trump)*
+- A two-week ceasefire between the US and Iran is showing strain, with Israel launching attacks on Lebanon. *[Business Recorder](https://www.brecorder.com/news/40415743/us-iran-ceasefire-deal-shows-strain-ahead-of-talks-with-oil-flows-squeezed)*
+- Russia has lifted its ban on importing potatoes from Pakistan. *[Dawn](https://www.dawn.com/news/1990394/moscow-lifts-ban-on-pakistani-potatoes)*
+- NATO Secretary General Mark Rutte is urging allies to pledge support for securing the Strait of Hormuz, as requested by President Trump. *[ARY](https://arynews.tv/nato-rutte-tells-allies-trump-wants-hormuz-pledges-within-days/)*
+- Iran’s supreme leader stated Tehran does not seek war but will not renounce its legitimate rights. *[Dawn](https://www.dawn.com/news/1990308/in-written-message-iran-supreme-leader-says-tehran-does-not-seek-war-but-will-not-renounce-legitimate-rights)*
+
+### National
+- The Lahore High Court ruled that a CNIC is not movable property and cannot be blocked, impounded, or attached. *[Dawn](https://www.dawn.com/news/1990352/cnic-not-moveable-property-cant-be-blocked-impounded-or-attached-lahore-high-court)*
+- PIA is planning to double its fleet to 60 aircraft. *[Dawn](https://www.dawn.com/news/1990392/pia-fleet-expansion-on-the-cards)*
+- Another case of mpox with local transmission has appeared in Karachi, and the first death from dengue was reported in the city. *[Dawn](https://www.dawn.com/news/1990422/another-mpox-case-of-local-transmission-appears-in-karachi)*
+- Pakistan and Ethiopia are exploring a trilateral maritime alliance involving Djibouti. *[Business Recorder](https://www.brecorder.com/news/40415710/pakistan-ethiopia-to-explore-trilateral-maritime-alliance-involving-djibouti)*
+- The ‘Route to Makkah’ operation will begin from Lahore airport for Hajj 2026. *[Business Recorder](https://www.brecorder.com/news/40415705/mansehra-to-jalkhand-motorway-project-to-serve-as-alternative-to-karakoram-highway)*
+
+### Weather
+- *No relevant news articles provided.*
 
 ### Sports
-- Gujarat Titans defeated Delhi Capitals in a close IPL match. *[Business Recorder](https://www.brecorder.com/news/40415587/gujarat-survive-final-over-chaos-as-millers-gamble-backfires)*
-- BTS is kicking off a massive world tour in South Korea. *[Business Recorder](https://www.brecorder.com/news/40415586/bts-to-kick-off-massive-world-tour-in-south-korea)*
+- Tottenham Hotspur’s Mohammed Kudus could miss the World Cup due to an injury setback. *[ARY](https://arynews.tv/spurs-mohammed-kudus-could-miss-world-cup-after-injury-setback/)*
 
 ### Health
-- An outbreak of mpox in Khairpur, Sindh, has raised concerns among health experts. *[Dawn](https://www.dawn.com/news/1990088/alarm-raised-over-outbreak-of-mpox-in-khairpur)*
+- *See National section for mpox and dengue outbreak news.*
 
 ### Other
-- A boat capsize incident off Italy involved many Pakistani immigrants who were travelling under the guise of Umrah pilgrims. *[Dawn](https://www.dawn.com/news/1990009/boat-capsize-incident-off-italy-most-of-missing-pakistanis-were-in-umrah-pilgrims-guise)*
-- NASA’s Artemis II astronauts prepared for their re-entry into Earth’s atmosphere. *[Dawn](https://www.dawn.com/news/1990178/nasa-artemis-ii-astronauts-prepare-to-end-moon-mission-in-fireball-re-entry)*
-- Daniel Radcliffe reflected on the joy of fatherhood. *[ARY](https://arynews.tv/daniel-radcliffe-reflects-on-fatherhood-joy/)*
-- Jason Statham’s new action film, *Mutiny*, released its first trailer. *[ARY](https://arynews.tv/jason-statham-returns-to-action-with-gritty-mutiny-trailer/)*
-- Amazon will stock Eli Lilly’s weight-loss pill and offer same-day delivery. *[ARY](https://arynews.tv/amazon-to-stock-foundayo-offer-same-day-delivery/)*
-- China’s car exports are accelerating despite disruptions from the Middle East crisis. *[ARY](https://arynews.tv/chinas-car-exports-accelerate-despite-disruption-from-mideast-crisis/)*
-- Kuwait denied reports of flight operations resuming. *[ARY](https://arynews.tv/kuwait-airport-operations-still-not-resumed/)*
-- Currency exchange rates: UAE Dirham and Saudi Riyal to Pakistani Rupee rates were reported. *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-9-2026/)* & *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-april-9-2026/)*
-- The US Postal Service suspended contributions to its pension plan. *[ARY](https://arynews.tv/us-postal-service-suspends-contributions-to-pension-plan/)*
-- UniCredit flagged risks of losing staff and clients in a potential Commerzbank tie-up. *[Business Recorder](https://www.brecorder.com/news/40415583/unicredit-flags-risk-of-losing-key-staff-clients-in-a-commerzbank-tie-up)*
-- Transparency International urged the recovery of $800 million in PTCL dues from Etisalat. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/transparency-international-urges-recovery-of-800-million-ptcl-dues-from-etisalat-claims-liability-has-grown-to-6-billion/)*
-- India election roll overhaul sparks anger. *[Dawn](https://www.dawn.com/news/1990157/india-election-roll-overhaul-sparks-anger-as-key-states-vote)*
+- Tensions are flaring as police disperse Muslims at Al Aqsa Mosque following its reopening after 41 days. *[Dawn](https://www.dawn.com/news/1990367/tears-of-joy-mark-reopening-of-jerusalem-holy-sites-after-41-days)*
+- Israel is seeking peace talks with Lebanon. *[Dawn](https://www.dawn.com/news/1990283/israel-seeks-peace-talks-with-lebanon-as-soon-as-possible-as-world-condemns-tel-avivs-bombardment-amid-us-iran-truce)*
+- Taylor Swift was seen in New York City in a bridal-inspired outfit. *[ARY](https://arynews.tv/taylor-swift-stuns-in-bridal-inspired-street-look-with-signature-red-lip/)*
+- Melania Trump denied any connection to Jeffrey Epstein and called claims linking her to him “lies”. *[ARY](https://arynews.tv/melania-trump-denies-any-epstein-connection-seeks-end-to-lies/)*
+- Shah Rukh Khan sent birthday wishes to Anant Ambani. *[ARY](https://arynews.tv/shah-rukh-khan-sends-warm-birthday-wishes-to-anant-ambani/)*
+- A Sindh government committee has been constituted to ensure the execution of the Gul Plaza inferno inquiry report. *[Dawn](https://www.dawn.com/news/1990238/sindh-govt-constitutes-high-level-committee-to-ensure-execution-of-gul-plaza-infernos-inquiry-report)*
+- The LHC has extended the stay order on construction at city gates. *[Business Recorder](https://www.brecorder.com/news/40415707/lhc-extends-stay-on-construction-at-city-gates)*
+- A UK court ordered India’s SpiceJet to pay $8 million. *[ARY](https://arynews.tv/uk-court-orders-indias-spicejet-to-pay-8-million/)*
+- India is considering payment lags and extra checks for senior citizens to curb digital fraud. *[ARY](https://arynews.tv/india-mulls-payment-lags-checks-for-senior-citizens-as-digital-fraud-rises-rbi-paper-shows/)*
+- The government clarified that there is no change in petrol and diesel prices despite a circulating fake notification. *[ARY](https://arynews.tv/petrol-prices-government-issues-clarification/)*
+- US fourth-quarter GDP growth was revised lower to 0.5%. *[ARY](https://arynews.tv/us-fourth-quarter-gdp-growth-revised-lower-to-a-0-5-rate/)*
+- A court issued notices regarding exorbitant traffic challans. *[ARY](https://arynews.tv/court-issues-notices-on-traffic-fine-controversy/)*
+- JazzCash CEO Murtaza Ali joined the Money20/20 Awards jury. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/jazzcash-ceo-joins-money20-20-awards-jury-as-pakistan-fintech-gains-visibility/)*
+- The ‘Mamta Programme’ has enrolled over 1 million pregnant and lactating women in Sindh. *[Business Recorder](https://www.brecorder.com/news/40415709/mamta-programme-over-1m-pregnant-lactating-women-enrolled)*
+- An article discusses the importance of educating the poor. *[Dawn](https://www.dawn.com/news/1990405/educating-the-poor)*
+- An editorial discusses the attacks on Lebanon. *[Dawn](https://www.dawn.com/news/1990408/attacking-lebanon)*
+- An article discusses the importance of the 1973 Constitution. *[Dawn](https://www.dawn.com/news/1990405/educating-the-poor)*
+- An article discusses the need for national harmony. *[Dawn](https://www.dawn.com/news/1990369/pm-bilawal-agree-national-harmony-need-of-hour)*
+- An article discusses the importance of the Route to Makkah program. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/route-to-makkah-facility-to-debut-in-lahore-as-pakistan-finalises-hajj-arrangements-for-180000-pilgrims)*
+- An article discusses the importance of the Mansehra to Jalkhand motorway project. *[Business Recorder](https://www.brecorder.com/news/40415705/mansehra-to-jalkhand-motorway-project-to-serve-as-alternative-to-karakoram-highway)*
+- An article discusses the importance of the Article 199 ruling. *[Business Recorder](https://www.brecorder.com/news/40415691/article-199-fcc-rules-contractual-appointment-not-challengeable)*
+- An article discusses the importance of domestic oil and gas firms. *[Business Recorder](https://www.brecorder.com/news/40415704/domestic-oil-gas-firms-commend-govts-diplomatic-initiatives)*
+- An article discusses the importance of the LHC ruling on CNIC. *[Business Recorder](https://www.brecorder.com/news/40415690/lhc-directs-fbr-to-return-gold-bar-to-passenger-upon-payment-against-penalty)*
+- An article discusses the importance of the Route to Makkah facility. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/route-to-makkah-facility-to-debut-in-lahore-as-pakistan-finalises-hajj-arrangements-for-180000-pilgrims)*
+- An article discusses the importance of the Finance Minister’s consultations. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/finance-minister-holds-nationwide-virtual-consultations-with-business-leaders-ahead-of-budget)*
+- An article discusses the importance of the Indian shares. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/indian-shares-retreat-after-sharp-rally-as-middle-east-tensions-cloud-sentiment)*
+- An article discusses the importance of the IMF agreement with Sri Lanka. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/imf-reaches-staff-level-agreement-with-sri-lanka-unlocking-700-million-amid-energy-crisis)*
+- An article discusses the importance of the security beef up. *[Business Recorder](https://www.brecorder.com/news/40415689/security-beefed-up-ahead-of-us-iran-talks-in-islamabad)*
+- An article discusses the importance of the notice issued to DC. *[Business Recorder](https://www.brecorder.com/news/40415687/notice-issued-to-dc-in-response-to-contempt-plea)*
+- An article discusses the importance of the LHC ruling on traffic fines. *[Business Recorder](https://www.brecorder.com/news/40415707/lhc-extends-stay-on-construction-at-city-gates)*
+- An article discusses the importance of the Indian rupee. *[Business Recorder](https://www.brecorder.com/news/40415744/indian-rupee-to-contend-with-fading-rbi-rule-linked-flows-costly-oil)*
+- An article discusses the importance of the oil prices. *[Business Recorder](https://www.brecorder.com/news/40415738/oil-prices-rise-after-strikes-on-saudi-oil-facilities)*
+- An article discusses the importance of the dollar. *[Business Recorder](https://www.brecorder.com/news/40415739/dollar-set-for-weekly-drop-ahead-of-us-iran-peace-talks)*
+- An article discusses the importance of the stocks. *[Business Recorder](https://www.brecorder.com/news/40415740/stocks-shaky-as-israeli-attacks-on-lebanon-tests-iran-ceasefire)*
+- An article discusses the importance of the UK ruling. *[Business Recorder](https://www.brecorder.com/news/40415742/uks-starmer-says-iran-conflict-shows-britain-must-take-a-new-path)*
+- An article discusses the importance of the manpower boost. *[Business Recorder](https://www.brecorder.com/news/40415708/manpower-boost-planned-for-timely-pdp-completion)*
+- An article discusses the importance of the notice issued to DC. *[Business Recorder](https://www.brecorder.com/news/40415687/notice-issued-to-dc-in-response-to-contempt-plea)*
+- An article discusses the importance of the Route to Makkah operation. *[Business Recorder](https://www.brecorder.com/news/40415706/route-to-makkah-operation-will-begin-from-lahore-airport)*
+- An article discusses the importance of the LHC ruling. *[Business Recorder](https://www.brecorder.com/news/40415690/lhc-directs-fbr-to-return-gold-bar-to-passenger-upon-payment-against-penalty)*
+- An article discusses the importance of the security beef up. *[Business Recorder](https://www.brecorder.com/news/40415689/security-beefed-up-ahead-of-us-iran-talks-in-islamabad)*
+- An article discusses the importance of the LHC ruling. *[Business Recorder](https://www.brecorder.com/news/40415707/lhc-extends-stay-on-construction-at-city-gates)*
+- An article discusses the importance of the Mamta Programme. *[Business Recorder](https://www.brecorder.com/news/40415709/mamta-programme-over-1m-pregnant-lactating-women-enrolled)*
+- An article discusses the importance of the Indian shares. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/indian-shares-retreat-after-sharp-rally-as-middle-east-tensions-cloud-sentiment)*
+- An article discusses the importance of the IMF agreement with Sri Lanka. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/imf-reaches-staff-level-agreement-with-sri-lanka-unlocking-700-million-amid-energy-crisis)*
+- An article discusses the importance of the JazzCash CEO. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/jazzcash-ceo-joins-money20-20-awards-jury-as-pakistan-fintech-gains-visibility/)*
+- An article discusses the importance of the Pakistan’s FX reserves. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/pakistans-total-fx-reserves-near-22bn-as-sbp-holdings-rise-slightly/)*
+- An article discusses the importance of the Route to Makkah facility. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/09/route-to-makkah-facility-to-debut-in-lahore-as-pakistan-finalises-hajj-arrangements-for-180000-pilgrims)*
 
