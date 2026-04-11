@@ -17,7 +17,7 @@
     <link rel="stylesheet" href="{{ page.font_url }}">
     {% endif %}
 
-    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    {% include style.html %}
   </head>
   <body>
     <header>
@@ -51,6 +51,6 @@
     </footer>
 
 
-    <script src="{{ "/assets/js/theme.js" | relative_url }}"></script>
+    {% include theme.html %}
   </body>
 </html>
