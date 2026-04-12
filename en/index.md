@@ -4,79 +4,60 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 11-Apr-2026 21:02PKT
+Published at: 12-Apr-2026 21:02PKT
 
-Time to read: 6 mins
+Time to read: 4 mins
 
 ### Economy
-- Finance Minister Muhammad Aurangzeb departed for the US to participate in IMF-WB Spring Meetings, expecting over 50 high-level engagements. *[Dawn](https://www.dawn.com/news/1990747/aurangzeb-departs-for-us-to-participate-in-imf-wb-meetings)*
-- The World Bank President Ajay Banga stated the Middle East war will negatively impact global growth, potentially lowering it by 0.3-0.4% even with a ceasefire. *[Dawn](https://www.dawn.com/news/1990654/global-growth-to-suffer-due-to-middle-east-war-world-bank-chief)*
-- Diesel prices were cut by Rs135 per litre and petrol by Rs12 per litre, a decision announced by Prime Minister Shehbaz Sharif. *[Dawn](https://www.dawn.com/news/1990666/diesel-price-cut-by-rs135-petrol-sees-drop-of-rs12)*
-- Saudi Arabia and Qatar are expected to provide Pakistan with $5 billion in financial assistance. *[Business Recorder](https://www.brecorder.com/news/40415921/saudi-arabia-qatar-to-provide-5bn-financial-assistance-to-pakistan-report)*
-- Pakistan’s listed pharmaceutical sector saw a 78% increase in profits in 2025, reaching a record Rs42.2 billion. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/pakistan-pharma-sector-profits-jump-78-to-record-rs42-2bn-in-2025-report)*
-- ADB projects a gradual economic recovery for Pakistan, but flags significant downside risks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/adb-projects-gradual-economic-recovery-for-pakistan-flags-significant-downside-risks)*
-- Gold prices in Pakistan decreased by Rs700 per tola. *[Business Recorder](https://www.brecorder.com/news/40415897/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-
-### Science & Technology
-- The Iranian delegation to the Islamabad talks includes leaders in “economic, political, and legal tech”. *[Dawn](https://www.dawn.com/news/1990743/direct-talks-being-held-between-us-iran-delegations-in-islamabad)*
-- Punjab AI office and Bank of Punjab signed an MoU to build digital finance and data infrastructure. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/punjab-ai-office-bank-of-punjab-ink-mou-to-build-digital-finance-and-data-infrastructure)*
-- Supernet Technologies secured a multi-million dollar cybersecurity contract with a major Pakistani bank. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/supernet-wins-repeat-multi-million-dollar-cybersecurity-mandate-from-major-bank)*
-- Artemis II astronauts safely returned to Earth after a historic trip around the moon. *[Dawn](https://www.dawn.com/news/1990741/artemis-ii-astronauts-safely-back-on-earth-after-historic-trip-around-moon)*
-
-### Weather
-- General elections in Gilgit-Baltistan were postponed due to harsh weather conditions. *[Dawn](https://www.dawn.com/news/1990792/general-elections-in-gilgit-baltistan-to-be-held-on-june-7)*
-- Public holiday extended in Rawalpindi due to security arrangements related to the US-Iran talks. *[Dawn](https://www.dawn.com/news/1990590/public-holiday-extended-in-pindi-markets-fuel-stations-along-key-roads-closed)*
+- Pakistan is set to receive $5 billion in financial support from Saudi Arabia and Qatar to ease pressure on foreign exchange reserves. *[Dawn](https://www.dawn.com/news/1990932/riyadh-doha-to-provide-5bn-lifeline-to-islamabad)*
+- Finance Minister Aurangzeb is departing for the IMF-World Bank Spring Meetings amid regional tensions and economic pressures. *[Dawn](https://www.dawn.com/news/1990932/riyadh-doha-to-provide-5bn-lifeline-to-islamabad)*
+- Investment in government securities has surged, with non-bank holdings reaching a record Rs11 trillion. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/investment-floods-into-government-securities-as-non-bank-holdings-hit-rs11-trillion/)*
+- Pakistan’s first lithium-ion battery plant is expected to begin production in Karachi soon, coinciding with the nearing approval of a new industrial policy. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistans-first-lithium-ion-battery-plant-set-to-begin-production-as-new-industrial-policy-nears-approval/)*
+- Pakistan’s services exports rose by 18.38% in the first eight months of FY26, driven by the IT sector. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistans-services-exports-rise-18-38pc-in-fy26-on-strong-it-sector-growth/)*
+- Developing nations are launching a Borrowers’ Platform at the IMF-World Bank meetings to strengthen debt coordination. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/developing-nations-launch-borrowers-platform-to-strengthen-debt-coordination-at-imf-world-bank-meetings/)*
+- The economic shock of the Middle East war is expected to cast a shadow over the IMF and World Bank meetings. *[ARY](https://arynews.tv/economic-shock-of-middle-east-war-to-cast-shadow-over-imf-world-bank-meetings/)*
+- Australia and the US have committed $3.5 billion to support critical minerals projects. *[Business Recorder](https://www.brecorder.com/news/40416017/australia-us-boost-support-for-critical-minerals-with-35-billion)*
 
 ### Politics
-- Direct talks between US (led by VP JD Vance) and Iranian delegations (led by Parliament Speaker Mohammad Bagher Ghalibaf) are underway in Islamabad. *[Dawn](https://www.dawn.com/news/1990743/direct-talks-being-held-between-us-iran-delegations-in-islamabad)*
-- Bilawal Bhutto-Zardari called the Islamabad talks the “biggest achievement so far” in de-escalation efforts. *[Dawn](https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-de-escalation-efforts-between-us-iran)*
-- US President Donald Trump projected cautious optimism ahead of the Iran talks. *[Dawn](https://www.dawn.com/news/1990730/us-president-trump-projects-cautious-optimism-ahead-of-iran-talks)*
-- A source indicated the US agreed to unfreeze Iranian funds held in Qatar, though Washington denies this. *[Business Recorder](https://www.brecorder.com/news/40415909/iranian-source-says-us-has-agreed-to-unfreeze-iranian-funds-washington-denies-it)*
-- British PM Keir Starmer emphasized NATO’s importance to US interests. *[Dawn](https://www.dawn.com/news/1990663/starmer-says-nato-in-americas-interests-as-gulf-tour-ends)*
-- PPP and Jamaat-i-Islami members clashed physically during a Karachi City Council session. *[Dawn](https://www.dawn.com/news/1990698/ppp-jamaat-members-clash-with-blows-kicks-in-karachi-city-council)*
-
-### National
-- General elections in Gilgit-Baltistan are scheduled for June 7th after a four-month delay. *[Dawn](https://www.dawn.com/news/1990792/general-elections-in-gilgit-baltistan-to-be-held-on-june-7)*
-- Sindh Chief Minister approved a Rs9.98 billion Phase-II of the Karachi Safe City Project. *[Dawn](https://www.dawn.com/news/1990696/cm-sindh-okays-rs998bn-phase-ii-of-karachi-safe-city-project)*
-- Pakistan opened a new corridor for beef exports to Iran. *[ARY](https://arynews.tv/pakistan-opens-new-iran-corridor-for-beef-exports/)*
-- Pakistan sent fighter jets to Saudi Arabia under a defense pact. *[Business Recorder](https://www.brecorder.com/news/40415912/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact)*
-- Pakistan hopes the US and Iran will engage constructively in peace talks. *[Business Recorder](https://www.brecorder.com/news/40415900/pakistan-hopes-us-iran-will-engage-constructively-in-peace-talks)*
+- Donald Trump stated that Iranians “haven’t left the bargaining table” despite talks ending without an agreement, predicting they will return and concede to his demands. *[Dawn](https://www.dawn.com/news/1991096/trump-says-iranians-havent-left-the-bargaining-table)*
+- Trump threatened a 50% tariff on China if it provides military assistance to Iran. *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+- Trump ordered the US Navy to blockade the Strait of Hormuz and interdict vessels paying tolls to Iran. *[ARY](https://arynews.tv/trump-vows-to-blockade-strait-of-hormuz/)* & *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+- The UK halted its deal to cede sovereignty of the Chagos Islands to Mauritius following US opposition. *[Dawn](https://www.dawn.com/news/1990910/uk-halts-chagos-islands-handover-after-us-opposition)*
+- Hungary held elections that could oust Viktor Orban, potentially impacting Russia and right-wing movements. *[ARY](https://arynews.tv/hungarians-vote-in-record-numbers-in-election-that-could-oust-orban-rattle-russia/)*
 
 ### International
-- US authorities launched a new effort to uncover “birth tourism” schemes. *[Dawn](https://www.dawn.com/news/1990809/us-authorities-launch-new-effort-to-uncover-birth-tourism-schemes)*
-- An Israeli strike killed 13 security personnel in Lebanon amid ceasefire talks. *[Dawn](https://www.dawn.com/news/1990668/israeli-strike-kills-13-security-personnel-in-lebanon)*
-- A UK crime agency charged a Sudanese man after four migrants died in a Channel crossing. *[ARY](https://arynews.tv/uk-crime-agency-charges-sudanese-man-after-four-die-in-channel-boat-crossing/)*
-- US intelligence suggests China is preparing to ship air defense systems to Iran. *[Business Recorder](https://www.brecorder.com/news/40415899/us-intelligence-indicates-china-preparing-weapons-shipment-to-iran-reports)*
-- Iran’s new Supreme Leader, Mojtaba Khamenei, reportedly has severe injuries from a recent airstrike. *[Business Recorder](https://www.brecorder.com/news/40415902/irans-new-supreme-leader-has-severe-and-disfiguring-wounds-sources-say)*
+- US-Iran talks in Islamabad concluded without an agreement, despite 21 hours of negotiations. *[Dawn](https://www.dawn.com/news/1991060/this-likely-isnt-over-journalists-analysts-react-to-stalemate-in-us-iran-talks)*
+- Pakistan urged the US and Iran to uphold their commitment to the ceasefire following the unsuccessful talks. *[Dawn](https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal)*
+- Iran stated it is up to the US to decide if it can earn Tehran’s trust. *[Dawn](https://www.dawn.com/news/1991073/iran-says-time-for-us-to-decide-whether-it-can-earn-our-trust-after-talks)*
+- Israel killed 18 people in Lebanon, the West Bank, and Gaza. *[Dawn](https://www.dawn.com/news/1990936/israel-kills-18-in-lebanon-west-bank-and-gaza)*
+- An infant Lebanese girl was killed in an Israeli strike at her father’s funeral. *[Dawn](https://www.dawn.com/news/1991102/the-infant-lebanese-girl-who-was-killed-by-an-israeli-strike-at-her-fathers-funeral)*
+- China offered incentives to Taiwan following a visit by the island’s opposition leader. *[Dawn](https://www.dawn.com/news/1991085/china-offers-incentives-to-taiwan-following-opposition-leaders-visit)*
+- Indonesia’s president will meet Putin in Russia for oil talks. *[Business Recorder](https://www.brecorder.com/news/40416010/indonesian-president-to-meet-putin-in-russia-for-oil-talks)*
 
-### Sports
-- Britain advanced to the Billie Jean King Cup finals after defeating Australia. *[Business Recorder](https://www.brecorder.com/news/40415908/britain-storm-into-billie-jean-king-cup-finals-with-australia-thumping)*
-- Bangladesh retained its squad for the first two ODIs against New Zealand. *[Business Recorder](https://www.brecorder.com/news/40415907/bangladesh-retain-squad-for-first-new-zealand-odis)*
-- Nike is investigating a design issue with national team kits ahead of the World Cup. *[ARY](https://arynews.tv/nike-probes-kit-design-issue-ahead-of-world-cup/)*
+### National
+- Two members of Quetta’s Hazara community were killed in a firing incident. *[Dawn](https://www.dawn.com/news/1991077/at-least-two-members-of-quettas-hazara-community-killed-in-firing-incident)*
+- Pakistan sent a military force and fighter jets to Saudi Arabia under a joint defence cooperation agreement. *[Dawn](https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia)*
+- The Jinnah Convention Centre served as a media hub for the US-Iran talks. *[Dawn](https://www.dawn.com/news/1990894/jinnah-convention-centre-turns-into-media-hub-for-us-iran-talks)*
+- A nationwide anti-polio campaign will begin on April 13, with the First Lady urging public cooperation. *[Dawn](https://www.dawn.com/news/1991089/first-lady-urges-public-cooperation-as-nationwide-anti-polio-campaign-begins-april-13)*
+- The Gilgit-Baltistan cabinet approved the expansion of police and renaming of the CTD. *[Dawn](https://www.dawn.com/news/1990930/gb-cabinet-approves-expansion-of-police-renaming-of-ctd)*
+- A minor girl was recovered 48 hours after being kidnapped from a bus stop in Sahiwal. *[Dawn](https://www.dawn.com/news/1990883/minor-girl-recovered-48-hours-after-kidnap-from-bus-stop-in-sahiwal)*
+- Fines were imposed on marriage halls in Sargodha for breaching the one-dish policy. *[Dawn](https://www.dawn.com/news/1990884/fine-imposed-on-marriage-halls-for-one-dish-policy-breach-in-sargodha)*
 
 ### Health
-- A suspect was arrested after a Molotov cocktail attack at OpenAI CEO Sam Altman’s home. *[Dawn](https://www.dawn.com/news/1990779/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home)*
-- There's a surge in US service members seeking information on conscientious objection to the war. *[Dawn](https://www.dawn.com/news/1990665/conscientious-objections-to-war-rise-sharply-in-us)*
+- A study detected a high prevalence of the rabies virus in Karachi’s street dogs, highlighting a public health risk. *[Dawn](https://www.dawn.com/news/1991001/study-detects-high-prevalence-of-rabies-virus-in-karachis-street-dogs)*
+
+### Sports
+- Al-Nassr broke a club record with their 14th consecutive league victory. *[Business Recorder](https://www.brecorder.com/news/40416004/al-nassr-break-club-record-with-14th-consecutive-league-victory)*
+- Carlos Alcaraz defeated Valentin Vacherot to reach the Monte Carlo tennis final against Jannik Sinner. *[Business Recorder](https://www.brecorder.com/news/40416005/alcaraz-ends-vacherot-fairytale-to-set-up-monte-carlo-tennis-final-with-sinner)*
+- Mirra Andreeva reached the Linz semifinals. *[Business Recorder](https://www.brecorder.com/news/40416006/mirra-andreeva-tops-sorana-cirstea-to-reach-linz-semis)*
+- Marie-Louise Eta appointed as first female Bundesliga coach. *[ARY](https://arynews.tv/marie-louise-eta-union-berlin-appoints-first-female-bundesliga-coach/)*
 
 ### Other
-- An Iranian source claims the US agreed to unfreeze Iranian funds, but the US denies it. *[Business Recorder](https://www.brecorder.com/news/40415909/iranian-source-says-us-has-agreed-to-unfreeze-iranian-funds-washington-denies-it)*
-- A journalist describes the experience of covering the Islamabad talks, noting limited access to information. *[Dawn](https://www.dawn.com/news/1990827/buffets-baristas-but-no-briefings-a-journalists-account-of-covering-islamabad-talks)*
-- A man resembling Jeffrey Epstein went viral after a polygraph test. *[ARY](https://arynews.tv/jeffrey-epstein-lookalike-trends-over-polygraph-lie/)*
-- Chinese companies will provide modern firefighting equipment to Sindh. *[ARY](https://arynews.tv/sindh-strengthening-cooperation-with-china/)*
-- Feroze Khan’s wife’s slip of the tongue during a podcast went viral. *[ARY](https://arynews.tv/feroze-khans-wifes-slip-of-tongue-goes-viral/)*
-- Indian media was “schooled” by a former US diplomat over its coverage of Pakistan’s role in the ceasefire. *[ARY](https://arynews.tv/indian-media-gets-schooled-by-ex-us-diplomat-over-stupidity/)*
-- Trump claimed empty oil tankers are heading to the US to load up with oil and gas. *[ARY](https://arynews.tv/trump-claims-oil-tankers-are-heading-to-america/)*
-- Trump claimed US forces are “clearing” the Strait of Hormuz and sunk Iranian mine dropper boats. *[ARY](https://arynews.tv/trump-announces-military-action-in-hormuz-strait/)* and *[Business Recorder](https://www.brecorder.com/news/40415917/trump-says-us-forces-are-clearing-strait-of-hormuz)*
-- Tankers are exiting the Gulf via the Strait of Hormuz following the ceasefire. *[Business Recorder](https://www.brecorder.com/news/40415918/tankers-exit-gulf-via-strait-of-hormuz-as-us-iran-talks-begin)*
-- From allies to adversaries: A historical overview of US-Iran relations. *[Dawn](https://www.dawn.com/news/1990761/from-allies-to-adversaries-us-iran-relations-since-1979)*
-- A phone-a-thon by Pakistani leaders led to the US-Iran ceasefire. *[Dawn](https://www.dawn.com/news/1990573/phone-a-friend-mapping-pm-shehbaz-dpm-dars-call-a-thon-leading-up-to-the-us-iran-ceasefire)*
-- Sindh is enforcing new business hours as part of energy-saving measures. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/sindh-enforces-new-business-hours-as-energy-saving-measures-take-effect/)*
-- JazzCash appointed as disbursement partner for Khyber Pakhtunkhwa’s Ehsaas fuel support scheme. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/jazzcash-appointed-as-exclusive-disbursement-partner-for-khyber-pakhtunkhwas-ehsaas-fuel-support-scheme-2/)*
-- Chery Master Pakistan launched Tiggo 7 PHEV as a solution to Pakistan’s fuel crisis. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/chery-master-pakistan-launches-tiggo-7-phev-as-a-solution-to-pakistans-fuel-crisis/)*
-- Electric fan manufacturers are seeking an export model to address raw material issues. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/electric-fan-manufacturers-are-up-in-arms-over-copper-and-other-raw-material-exporters-can-they-be-shifted-to-an-export-model/)*
-- Punjab Food Authority stepped up enforcement, inspecting over 1.3 million food units. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/punjab-food-authority-steps-up-enforcement-inspects-1-36-million-food-units/)*
-- Pakistan’s rice exporters urge the government to roll out an economic amnesty. *[Business Recorder](https://www.brecorder.com/news/40415903/pakistans-rice-exporters-urge-govt-to-roll-out-economic-amnesty)*
-- What are the main talking points at the US-Iran negotiations in Pakistan? *[Business Recorder](https://www.brecorder.com/news/40415904/what-are-the-main-talking-points-at-the-us-iran-negotiations-in-pakistan)*
-- Aurangzeb bids farewell to Saudi finance minister after ‘productive visit’ to Pakistan. *[Business Recorder](https://www.brecorder.com/news/40415901/aurangzeb-bids-farewell-to-saudi-finance-minister-after-productive-visit-to-pakistan)*
-- In pictures: Iran, US delegations accorded warm welcome upon arrival in Pakistan. *[Dawn](https://www.dawn.com/news/1990753/in-pictures-iran-us-delegations-accorded-warm-welcome-upon-arrival-in-pakistan)*
+- A mob beat a spiritual leader to death in Bangladesh. *[Dawn](https://www.dawn.com/news/1990927/mob-beats-spiritual-leader-to-death-in-bangladesh)*
+- Iconic Indian singer Asha Bhosle died in Mumbai. *[Business Recorder](https://www.brecorder.com/news/40416014/iconic-indian-singer-asha-bhosle-dies-in-mumbai)*
+- Malcolm in the Middle cast reunited for a revival after 20 years. *[ARY](https://arynews.tv/malcolm-in-the-middle-returns-with-cast-after-20-years/)*
+- Pakistani stars paid tribute to Asha Bhosle. *[ARY](https://arynews.tv/asha-bhosle-receives-heartfelt-tributes-from-pakistani-stars/)*
+- Justin Bieber returned to the stage at Coachella. *[Business Recorder](https://www.brecorder.com/news/40416007/paddington-musical-hollywood-stars-to-vie-for-prizes-at-olivier-awards)*
+- Paddington musical and Hollywood stars will compete for prizes at the Olivier Awards. *[Business Recorder](https://www.brecorder.com/news/40416007/paddington-musical-hollywood-stars-to-vie-for-prizes-at-olivier-awards)*
+- EOBI published recent financial figures. *[ARY](https://arynews.tv/eobi-publishes-latest-performance-data/)*
 
