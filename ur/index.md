@@ -7,82 +7,149 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 11-Apr-2026 21:07PKT 
+ &lrm; 12-Apr-2026 21:08PKT 
 
-پڑھنے کا وقت : 7 منٹ 
+پڑھنے کا وقت : 13 منٹ 
 
 ## معیشت
 
-*   وزیرِ خزانہ محمد اورنگزیب امریکہ میں ورلڈ بینک اور آئی ایم ایف کے اجلاسوں میں شرکت کے لیے روانہ ہو گئے ہیں، جہاں وہ 50 سے زائد اعلیٰ سطحی مذاکرات میں حصہ لیں گے ۔ *[Dawn](https://www.dawn.com/news/1990747/aurangzeb-departs-for-us-to-participate-in-imf-wb-meetings)*
-*   ڈیزل کی قیمت میں 135 روپے اور پٹرول کی قیمت میں 12 روپے کمی کی گئی ہے، وزیراعظم شہباز شریف نے عالمی قیمتوں میں کمی کے اثرات عوام تک پہنچانے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1990666/diesel-price-cut-by-rs135-petrol-sees-drop-of-rs12)*
-*   سعودی عرب اور قطر پاکستان کو 5 ارب ڈالر کی مالی معاونت فراہم کریں گے، جس سے جون تک بیرونی ادائیگیوں کا دباؤ کم ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40415921/saudi-arabia-qatar-to-provide-5bn-financial-assistance-to-pakistan-report)*
-*   ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان کی معاشی بحالی کی پیش گوئی کی ہے، لیکن اصلاحات کی رفتار سست ہونے اور بیرونی دباؤ کے خطرات پر بھی خبردار کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/adb-projects-gradual-economic-recovery-for-pakistan-flags-significant-downside-risks)*
-*   پاکستان کے دوا ساز شعبے نے 2025 میں ریکارڈ 42.2 ارب روپے کا منافع کمایا، جو کہ گزشتہ سال کے مقابلے میں 78 فیصد زیادہ ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/pakistan-pharma-sector-profits-jump-78-to-record-rs42-2bn-in-2025-report)*
+* سعودی عرب اور قطر کی جانب سے پاکستان کو 5 ارب ڈالر کی مالی معاونت ملنے کی توقع ہے، جو ملک کی کمزور بیرونی پوزیشن کو بہتر بنانے میں مددگار ثابت ہوگی۔ *[Dawn](https://www.dawn.com/news/1990932/riyadh-doha-to-provide-5bn-lifeline-to-islamabad)*
+* پاکستان کی خدمات کی برآمدات مالی سال 26 میں 18.38 فیصد بڑھ گئیں، جو 6.46 ارب ڈالر تک پہنچ گئیں، جس میں آئی ٹی شعبے کا اہم کردار رہا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistans-services-exports-rise-18-38pc-in-fy26-on-strong-it-sector-growth/)*
+* غیر بینکوں کی جانب سے سرکاری سکیورٹیز میں سرمایہ کاری ریکارڈ 11 ٹریلین روپے تک پہنچ گئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/investment-floods-into-government-securities-as-non-bank-holdings-hit-record-rs11-trillion/)*
+* پاکستان میں پہلی لتیم-آئن بیٹری بنانے والی فیکٹری کی پیداوار جلد شروع ہونے کی امید ہے، ساتھ ہی نئی صنعتی پالیسی کی منظوری کا عمل بھی حتمی مراحل میں ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistans-first-lithium-ion-battery-plant-set-to-begin-production-as-new-industrial-policy-nears-approval/)*
+* سعودی وزیرِ خزانہ کا اسلام آباد کا دورہ خطے میں اقتصادی تعاون کو فروغ دینے کا اشارہ ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/saudi-finance-chiefs-islamabad-visit-highlights-economic-support-amid-gulf-realignments/)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   آرٹیمس II کے فضانورد 10 روزہ تاریخی چاند کے گرد سفر کے بعد بحفاظی زمین پر واپس آ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1990741/artemis-ii-astronauts-safely-back-on-earth-after-historic-trip-around-moon)*
-*   پنجاب حکومت اور بینک آف پنجاب نے ڈیجیٹل فنانس اور ڈیٹا انفراسٹرکچر کی تعمیر کے لیے ایک مفاہمت کی یادداشت پر دستخط کیے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/punjab-ai-office-bank-of-punjab-ink-mou-to-build-digital-finance-and-data-infrastructure)*
-*   سپرنیٹ ٹیکنالوجیز نے ایک بڑے بینک سے ملٹی ملین ڈالر کا سائبر سیکیورٹی معاہدہ حاصل کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/supernet-wins-repeat-multi-million-dollar-cybersecurity-mandate-from-major-bank)*
+* پاکستان میں پہلی لتیم-آئن بیٹری بنانے والی فیکٹری کی پیداوار جلد شروع ہونے کی امید ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistans-first-lithium-ion-battery-plant-set-to-begin-production-as-new-industrial-policy-nears-approval/)*
+* چینی کمپنی Chery یورپی مارکیٹ میں اپنی کاریں بنانے کے لیے دیگر کمپنیوں کے ساتھ شراکت داری کرنے پر غور کر رہی ہے۔ *[ARY](https://arynews.tv/chery-looking-to-expand-car-production/)*
 
 ## موسم
 
-*   (کوئی خبر نہیں)
+* (کوئی خبر نہیں)
 
 ## سیاست
 
-*   امریکہ اور ایران کے وفود نے اسلام آباد میں براہِ راست مذاکرات شروع کر دیے ہیں، وزیراعظم شہباز شریف کی ثالثی سے دو ہفتوں کی جنگ بندی کے بعد یہ مذاکرات ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1990743/direct-talks-being-held-between-us-iran-delegations-in-islamabad)*
-*   پی پی پی کے چیئرمین بلاول بھٹو زرداری نے اسلام آباد میں امریکہ اور ایران کے درمیان مذاکرات کو کشیدگی کم کرنے کے لیے اب تک کی سب سے بڑی کامیابی قرار دیا۔ *[Dawn](https://www.dawn.com/news/1990810/bilawal-terms-islamabad-talks-biggest-achievement-so-far-in-de-escalation-efforts-between-us-iran)*
-*   صدر ٹرمپ نے کہا ہے کہ امریکی افواج ہرمز کی آبنائے کو صاف کر رہی ہیں اور ایران کے تمام بارودی سرنگوں سے لیس جہاز ڈوب چکے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40415917/trump-says-us-forces-are-clearing-strait-of-hormuz)*
-*   برطانیہ کے وزیراعظم سٹارمر نے کہا کہ نیٹو امریکہ کے مفاد میں ہے، اور یہ اتحاد یورپ کو کئی دہائیوں سے محفوظ رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/1990663/starmer-says-nato-in-americas-interests-as-gulf-tour-ends)*
-*   سعودی عرب نے پاکستان کو دفاعی معاہدے کے تحت جنگی طیارے بھیجے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40415912/saudi-arabia-says-pakistan-sends-fighter-jets-to-kingdom-under-defence-pact)*
+* سابق صدر ٹرمپ نے کہا کہ ایرانیوں نے ابھی تک مذاکرات کی میز نہیں چھوڑی ہے۔ *[Dawn](https://www.dawn.com/news/1991096/trump-says-iranians-havent-left-the-bargaining-table)*
+* ٹرمپ نے دھمکی دی ہے کہ اگر چین نے ایران کی مدد کی تو وہ اس پر 50 فیصد ٹیرف عائد کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* برطانیہ نے امریکہ کی مخالفت کے بعد چاگوس جزائر کے حوالے کا معاہدہ معطل کر دیا۔ *[Dawn](https://www.dawn.com/news/1990910/uk-halts-chagos-islands-handover-after-us-opposition)*
+* ہنگری میں انتخابات ہوئے جہاں وزیراعظم اربن کے اقتدار کے خاتمے کا امکان ہے۔ *[ARY](https://arynews.tv/hungarians-vote-in-record-numbers-in-election-that-could-oust-orban-rattle-russia/)*
 
 ## قومی
 
-*   گلگت بلتستان میں عام انتخابات 7 جون کو ہوں گے، الیکشن کمیشن نے چار ماہ کی تاخیر کے بعد یہ تاریخ مقرر کی ہے۔ *[Dawn](https://www.dawn.com/news/1990792/general-elections-in-gilgit-baltistan-to-be-held-on-june-7)*
-*   کراچی سٹی کونسل میں پی پی پی اور جماعت اسلامی کے ارکان کے درمیان جھڑپ ہوئی۔ *[Dawn](https://www.dawn.com/news/1990698/ppp-jamaat-members-clash-with-blows-kicks-in-karachi-city-council)*
-*   سندھ حکومت نے توانائی بچانے کے اقدامات کے تحت نئے کاروباری اوقات نافذ کیے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/sindh-enforces-new-business-hours-as-energy-saving-measures-take-effect)*
-*   پنجاب فوڈ اتھارٹی نے 1.36 ملین فوڈ یونٹس کا معائنہ کیا اور ضوابط کی خلاف ورزی کرنے والے 4,390 اداروں کو بند کر دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/punjab-food-authority-steps-up-enforcement-inspects-1-36-million-food-units)*
-*   سندھ حکومت نے کراچی کے لیے 9.98 ارب روپے کی "سیف سٹی" منصوبے کے دوسرے مرحلے کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/1990696/cm-sindh-okays-rs998bn-phase-ii-of-karachi-safe-city-project)*
+* کوئٹہ میں ہزارہ برادری کے دو افراد فائرنگ کے واقعہ میں ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/1991077/at-least-two-members-of-quettas-hazara-community-killed-in-firing-incident)*
+* گلگت بلتستان کی کابینہ نے پولیس کی توسیع اور سی ٹی ڈی کا نام تبدیل کرنے کی منظوری دی۔ *[Dawn](https://www.dawn.com/news/1990930/gb-cabinet-approves-expansion-of-police-renaming-of-ctd)*
+* وزیراعظم کی اہلیہ عاصفہ بھٹو زرداری نے پولیو مہم کے لیے عوام سے تعاون کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1991089/first-lady-urges-public-cooperation-as-nationwide-anti-polio-campaign-begins-april-13)*
+* سندھ حکومت نے ٹرانسپورٹ سیکٹر اور کسانوں کے لیے سبسڈی پیکج منظور کیا۔ *[ARY](https://arynews.tv/sindh-takes-steps-to-protect-public-transport-fares/)*
+* ساہیوال میں بس اسٹاپ سے اغوا ہونے والی کم عمر لڑکی کو 48 گھنٹوں بعد بازیاب کرالیا گیا۔ *[Dawn](https://www.dawn.com/news/1990883/minor-girl-recovered-48-hours-after-kidnap-from-bus-stop-in-sahiwal)*
+* لیسکو نے لاہور میں بجلی چوری کے خلاف کارروائی تیز کردی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/lesco-intensifies-anti-theft-drive-uncovers-large-scale-illegal-power-use-in-lahore/)*
+* پاکستان 18 اپریل سے 101 پروازوں کے ساتھ حج آپریشن شروع کرنے والا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/12/pakistan-to-launch-101-flight-pre-hajj-operation-from-april-18/)*
 
 ## بین الاقوامی
 
-*   امریکہ کی حکام نے "برتھ ٹورزم" اسکیموں کو بے نقاب کرنے کے لیے ایک نیا آپریشن شروع کیا ہے۔ *[Dawn](https://www.dawn.com/news/1990809/us-authorities-launch-new-effort-to-uncover-birth-tourism-schemes)*
-*   لبنان میں اسرائیلی حملے میں 13 سکیورٹی اہلکار ہلاک ہوئے ہیں۔ *[Dawn](https://www.dawn.com/news/1990668/israeli-strike-kills-13-security-personnel-in-lebanon)*
-*   چین امریکہ کو ہتھیاروں کی کھیپ بھیجنے کی تیاری کر رہا ہے، امریکی انٹیلیجنس کے مطابق۔ *[Business Recorder](https://www.brecorder.com/news/40415899/us-intelligence-indicates-china-preparing-weapons-shipment-to-iran-reports)*
-*   برطانیہ میں چینل کے ذریعے غیر قانونی طور پر داخل ہونے کی کوشش کے دوران چار تارکینِ وطن ہلاک ہوئے۔ *[ARY](https://arynews.tv/uk-crime-agency-charges-sudanese-man-after-four-die-in-channel-boat-crossing/)*
+* امریکہ اور ایران کے درمیان مذاکرات بغیر کسی معاہدے کے ختم ہو گئے۔ *[Dawn](https://www.dawn.com/news/1990743/dar-urges-us-iran-to-uphold-commitment-to-ceasefire-as-talks-conclude-without-deal)*
+* ایران کا کہنا ہے کہ امریکہ کو فیصلہ کرنا ہوگا کہ کیا وہ ان کا اعتماد جیت سکتا ہے۔ *[Dawn](https://www.dawn.com/news/1991073/iran-says-time-for-us-to-decide-whether-it-can-earn-our-trust-after-talks)*
+* اسرائیل نے لبنان، مغربی کنارے اور غزہ میں 18 افراد کو شہید کر دیا۔ *[Dawn](https://www.dawn.com/news/1990936/israel-kills-18-in-lebanon-west-bank-and-gaza)*
+* بنگلہ دیش میں ایک متنازع مذہبی رہنما کو مجمع نے قتل کر دیا۔ *[Dawn](https://www.dawn.com/news/1990927/mob-beats-spiritual-leader-to-death-in-bangladesh)*
+* ایران کے رضا کار گارڈز نے خبردار کیا ہے کہ وہ دشمنوں کو ہرمز کی تنگ آبنائے میں پھنسالیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416020/iran-guards-threaten-to-trap-enemies-in-deadly-vortex-of-hormuz)*
+* انڈیا کی معروف گلوکارہ آشا بھوسلے کا انتقال ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40416014/iconic-indian-singer-asha-bhosle-dies-in-mumbai)*
 
 ## کھیل
 
-*   برطانیہ نے آسٹریلیا کو شکست دے کر Billie Jean King Cup کے فائنلز میں جگہ بنا لی۔ *[Business Recorder](https://www.brecorder.com/news/40415908/britain-storm-into-billie-jean-king-cup-finals-with-australia-thumping)*
-*   بنگلادیش نے نیوزی لینڈ کے خلاف پہلی دو ون ڈے میچوں کے لیے اپنی ٹیم برقرار رکھی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415907/bangladesh-retain-squad-for-first-new-zealand-odis)*
-*   نایکی نے ورلڈ کپ سے قبل اپنے کٹس میں ڈیزائن کی خرابی کا پتہ چلا ہے اور اس کی تحقیقات کر رہی ہے۔ *[ARY](https://arynews.tv/nike-probes-kit-design-issue-ahead-of-world-cup/)*
+* پاکستان نے سعودی عرب کو فوجی دستے اور جنگی طیارے بھیجے۔ *[Dawn](https://www.dawn.com/news/1990849/pakistan-sends-military-force-fighter-jets-to-saudi-arabia)*
+* ال نصر نے سعودی لیگ میں مسلسل 14ویں فتح حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40416004/al-nassr-break-club-record-with-14th-consecutive-league-victory)*
+* میرا آندریوا نے لنز ٹینس میں سوراانا سرسٹیا کو شکست دے کر سیمی فائنل میں جگہ بنا لی۔ *[Business Recorder](https://www.brecorder.com/news/40416006/mirra-andreeva-tops-sorana-cirstea-to-reach-linz-semis)*
+* کارلوس الکاراز نے مونٹی کارلو ٹینس میں ویلنٹن واچروٹ کو شکست دے کر جنک سنر کے ساتھ فائنل میں جگہ بنا لی۔ *[Business Recorder](https://www.brecorder.com/news/40416005/alcaraz-ends-vacherot-fairytale-to-set-up-monte-carlo-tennis-final-with-sinner)*
+* لیورپول نے فلہم کو 2-0 سے شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40416002/rio-ngumoha-makes-anfield-history-mohamed-salah-seals-liverpool-win-over-fulham)*
 
 ## صحت
 
-*   (کوئی خبر نہیں)
+* کراچی کے سٹریٹ ڈگز میں رابی وائرس کی بلند شرح کا پتہ چلا ہے۔ *[Dawn](https://www.dawn.com/news/1991001/study-detects-high-prevalence-of-rabies-virus-in-karachis-street-dogs)*
 
 ## دیگر
 
-*   اوپن اے آئی کے سی ای او سام آلٹمین کے گھر پر مولوتوف کاکٹیل سے حملہ کیا گیا، ملزم کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/1990779/suspect-arrested-after-molotov-cocktail-attack-at-openai-ceo-sam-altmans-home)*
-*   ایران اور امریکہ کے درمیان جنگ کے خلاف امریکہ میں ضمیر کی بنیاد پر معافی کے لیے درخواستوں میں تیزی سے اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/1990665/conscientious-objections-to-war-rise-sharply-in-us)*
-*   ایران کے نئے سپریم لیڈر شدید زخمی ہوئے ہیں، ذرائع کا کہنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40415902/irans-new-supreme-leader-has-severe-and-disfiguring-wounds-sources-say)*
-*   فروز خان کی اہلیہ کی زبانی غلطی سوشل میڈیا پر وائرل ہوگئی۔ *[ARY](https://arynews.tv/feroze-khans-wifes-slip-of-tongue-goes-viral/)*
-*   جفری ایپسٹین سے مشابہ شخص پولگراف ٹیسٹ میں جھوٹ بولنے پر ٹرینڈ کر رہا ہے۔ *[ARY](https://arynews.tv/jeffrey-epstein-lookalike-trends-over-polygraph-lie/)*
-*   بھارتی میڈیا کو ایک سابق امریکی سفارتکار نے "احمقانہ" رویے پر تنقید کا نشانہ بنایا۔ *[ARY](https://arynews.tv/indian-media-gets-schooled-by-ex-us-diplomat-over-stupidity/)*
-*   پاکستان نے ایران کے ساتھ بیف برآمدات کے لیے ایک نیا راہداری کھولا ہے۔ *[ARY](https://arynews.tv/pakistan-opens-new-iran-corridor-for-beef-exports/)*
-*   پاکستان اور ایران نے علاقائی استحکام اور اقتصادی تعاون کے لیے مذاکرات پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40415922/pakistan-iran-stress-stability-as-key-to-economic-cooperation)*
-*   ایران نے امریکہ کے ساتھ مذاکرات کے دوران ایران کے منجمد شدہ اثاثوں کو رہا کرنے پر اتفاق کیا، واشنگٹن نے اس کی تردید کی۔ *[Business Recorder](https://www.brecorder.com/news/40415909/iranian-source-says-us-has-agreed-to-unfreeze-iranian-funds-washington-denies-it)*
-*   صدر ٹرمپ نے دعویٰ کیا کہ امریکہ میں تیل اور گیس لے جانے والے خالی ٹینکر آرہے ہیں۔ *[ARY](https://arynews.tv/trump-claims-oil-tankers-are-heading-to-america/)*
-*   صدر ٹرمپ نے کہا کہ امریکی افواج ہرمز کی آبنائے کو صاف کر رہی ہیں۔ *[ARY](https://arynews.tv/trump-announces-military-action-in-hormuz-strait/)*
-*   اسلام آباد میں امریکہ اور ایران کے مذاکرات کے دوران صحافیوں کے لیے صرف بفیٹ اور کافی دستیاب تھی۔ *[Dawn](https://www.dawn.com/news/1990827/buffets-baristas-but-no-briefings-a-journalists-account-of-covering-islamabad-talks)*
-*   راولپنڈی میں امن و امان کی صورتحال کے پیش نظر کل کے لیے عام تعطیل کا اعلان کیا گیا۔ *[Dawn](https://www.dawn.com/news/1990590/public-holiday-extended-in-pindi-markets-fuel-stations-along-key-roads-closed)*
-*   ایران اور امریکہ کے درمیان تعلقات 1979 سے کیسے بدلے ہیں؟ *[Dawn](https://www.dawn.com/news/1990761/from-allies-to-adversaries-us-iran-relations-since-1979)*
-*   پاکستان کے وزیراعظم اور ڈپٹی وزیراعظم نے ایران کے ساتھ جنگ بندی کے لیے امریکہ کے ساتھ رابطے قائم کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1990573/phone-a-friend-mapping-pm-shehbaz-dpm-dars-call-a-thon-leading-up-to-the-us-iran-ceasefire)*
-*   گولڈ کی قیمت میں کمی، فی تولہ 700 روپے سستی ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40415903/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-*   پاکستان کے الیکٹرک فین مینوفیکچررز نے کاپر اور دیگر خام مال کے ایکسپورٹرز پر احتجاج کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/electric-fan-manufacturers-are-up-in-arms-over-copper-and-other-raw-material-exporters-can-they-be-shifted-to-an-export-model/)*
-*   جیزکیش کو خیبر پختونخوا کے احساس ایندھن سپورٹ اسکیم کے لیے خصوصی ادائیگی پارٹنر مقرر کیا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/jazzcash-appointed-as-exclusive-disbursement-partner-for-khyber-pakhtunkhwas-ehsaas-fuel-support-scheme-2/)*
-*   چیری ماسٹر پاکستان نے پاکستان کے ایندھن بحران کے حل کے طور پر ٹگگو 7 پی ایچ ای وی لانچ کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/10/chery-master-pakistan-launches-tiggo-7-phev-as-a-solution-to-pakistans-fuel-crisis/)*
-
-I have tried my best to provide a comprehensive and accurate summary in Urdu, adhering to all the specified formatting requirements. Please let me know if you need any further adjustments or refinements.
+* جنیوا کنونشن سینٹر اسلام آباد میں امریکہ اور ایران کے مذاکرات کے لیے میڈیا کا مرکز بن گیا۔ *[Dawn](https://www.dawn.com/news/1990894/jinnah-convention-centre-turns-into-media-hub-for-us-iran-talks)*
+* مالکم ان دی مڈل کی کاسٹ 20 سال بعد واپسی کر رہی ہے۔ *[ARY](https://arynews.tv/malcolm-in-the-middle-returns-with-cast-after-20-years/)*
+* انڈیا کے معروف گلوکارہ آشا بھوسلے کو پاکستانی فنکاروں کی جانب سے خراج تحسین پیش کیا گیا۔ *[ARY](https://arynews.tv/asha-bhosle-receives-heartfelt-tributes-from-pakistani-stars/)*
+* "پیڈنگٹن" میوزیکل اور ہالی ووڈ کے ستاروں کو اولیور ایوارڈز کے لیے نامزد کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416007/paddington-musical-hollywood-stars-to-vie-for-prizes-at-olivier-awards)*
+* ڈین رینالڈز اپنے بچپن کے ویڈیو گیم کے خواب کو حقیقت میں تبدیل کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416009/imagine-dragons-frontman-chases-childhood-video-game-dream)*
+* بی ٹی ایس نے اپنے "آری رانگ" ٹور کو اے ایم سی تھیٹرز میں پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416008/big-screens-bigger-fandom-bts-brings-arirang-tour-to-amc-theaters)*
+* ایرانی حکام کا کہنا ہے کہ امریکہ اور اسرائیل کے جنگ میں 3,375 افراد ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40416019/iran-authorities-say-3375-killed-in-us-israel-war-state-media)*
+* ایران کا کہنا ہے کہ ایک ہی اجلاس میں امریکہ کے ساتھ معاہدہ کرنے کی کوئی توقع نہیں تھی۔ *[Business Recorder](https://www.brecorder.com/news/40416011/tehran-says-no-one-had-expectation-of-reaching-agreement-with-us-in-one-session-state-tv)*
+* انڈونیشیا کے صدر تیل کی بات چیت کے لیے روس جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416010/indonesian-president-to-meet-putin-in-russia-for-oil-talks)*
+* امریکہ کی جانب سے ایران پر ہتھیاروں کی فراہمی کی صورت میں 50 فیصد ٹیرف عائد کرنے کی دھمکی۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ اور ایران کے درمیان مذاکرات کے تعطل کے بعد صدر ٹرمپ نے ایران کے توانائی کے بنیادی ڈھانچے کو تباہ کرنے کی دھمکی دوبارہ دی۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ اور ایران کے درمیان مذاکرات کے تعطل کے بعد صدر ٹرمپ نے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure-if-no-deal)*
+* امریکہ کی جانب سے ایران کے خلاف فوجی کارروائی کی صورت میں چین کو خبردار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416021/trump-threatens-china-with-50-tariff-if-it-helps-iran)*
+* امریکہ کی جانب سے ہرمز کی تنگ آبنائے کا محاصرہ کرنے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40416018/trump-again-threatens-to-destroy-iran-energy-infrastructure
 
