@@ -17,7 +17,7 @@
     await OneSignal.init({
       appId: "11361913-3ee9-4276-95b8-14ba697bfacb",
       // Doing this because the site is served from a subfolder, and the default service worker location won't work
-      serviceWorkerPath: 'news/OneSignalSDKWorker.js',
+      serviceWorkerPath: '/news/OneSignalSDKWorker.js',
       serviceWorkerParam: { scope: '/news/' },
     });
   });
