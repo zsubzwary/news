@@ -4,74 +4,64 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 13-Apr-2026 21:02PKT
+Published at: 14-Apr-2026 09:02PKT
 
-Time to read: 6 mins
+Time to read: 4 mins
 
 ### Economy
-- Fitch Ratings affirmed Pakistan’s credit rating at ‘B-’ with a “stable outlook”, citing progress on fiscal consolidation and macroeconomic stability. *[Dawn](https://www.dawn.com/news/1991344/fitch-affirms-pakistans-credit-rating-at-b)*
-- Finance Minister Muhammad Aurangzeb arrived in Washington to attend the World Bank Group and IMF Spring Meetings. *[Dawn](https://www.dawn.com/news/1991299/aurangzeb-arrives-in-washington-for-imf-world-bank-spring-meetings)*
-- The PSX shed 6,600 points in a turbulent session following the failure of US-Iran talks and the announcement of a US blockade of Iranian ports. *[Dawn](https://www.dawn.com/news/1991302/psx-sheds-6600-points-after-trump-announces-hormuz-blockade)*
-- Electric bikes are gaining traction in Pakistan due to rising fuel prices exacerbated by the Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40416195/electric-bikes-gain-traction-in-pakistan-amid-rising-fuel-prices)*
-- Gas supply to the power sector is expected to double amid LNG shortages, potentially leading to higher tariffs or increased loadshedding. *[Dawn](https://www.dawn.com/news/1991162/gas-supply-to-power-sector-may-double-amid-lng-shortfall)*
-- The SECP registered 2,993 new companies in March 2026, an 11% increase year-over-year. *[Business Recorder](https://www.brecorder.com/news/40416189/secp-registers-2993-new-companies-in-march-2026)*
-- PSO appointed Jawwad Ahmed Cheema as CEO for a three-year term. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/pso-appoints-jawwad-ahmed-cheema-as-ceo-for-three-year-term)*
-- Gold prices dropped as inflation worries lingered following the failed US-Iran talks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/gold-drops-as-inflation-worries-linger-on-failed-us-iran-talks)*
+- Fitch Ratings affirmed Pakistan’s credit rating at ‘B-’ with a stable outlook, citing progress on fiscal consolidation. *[Dawn](https://www.dawn.com/news/1991493/guterres-calls-islamabad-talks-positive-step-despite-no-deal)*
+- Finance Minister Aurangzeb is seeking enhanced technical support from the World Bank for debt management. *[Dawn](https://www.dawn.com/news/1991419/in-meeting-with-wb-vice-president-aurangzeb-calls-for-enhanced-technical-support-for-debt-management)*
+- Pakistan is considering Eurobonds, loans, and commercial debt to replace a $3.5 billion facility from the UAE. *[Business Recorder](https://www.brecorder.com/news/40416326/pakistan-says-all-options-on-table-for-funding-weighs-strategic-fuel-reserve)*
+- Gold and silver prices in Pakistan are fluctuating based on international market trends. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/silver-price-in-pakistan-for-today-april-14-2026/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/gold-price-in-pakistan-for-today-april-14-2026/)*
+- The IMF, World Bank, and IEA urged countries to avoid energy hoarding and export controls. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/imf-world-bank-iea-urge-countries-to-stop-hoarding-energy-supplies-imposing-export-controls/)*
 
-### Politics
-- Prime Minister Shehbaz Sharif stated that “full efforts” are ongoing to resolve the conflict following US-Iran talks in Islamabad. *[Dawn](https://www.dawn.com/news/1991371/after-us-iran-talks-in-islamabad-pm-shehbaz-says-full-efforts-ongoing-to-resolve-conflict)*
-- New York Mayor Zohran Mamdani is pursuing a “socialist” agenda after 100 days in office. *[Dawn](https://www.dawn.com/news/1991326/new-yorks-zohran-mamdani-touts-socialist-plans-after-100-days-in-office)*
-- The UK will not support a blockade of the Strait of Hormuz, according to Prime Minister Keir Starmer. *[ARY](https://arynews.tv/uk-will-not-back-blockade-of-strait-of-hormuz-pm-starmer-says/)*
-- Hungary celebrated the defeat of Viktor Orban’s government, marking the end of his 16-year rule. *[Dawn](https://www.dawn.com/news/1991350/liberated-hungarian-youths-celebrate-viktor-orbans-defeat)*
-
-### International
-- The US military is set to begin a blockade of Iranian ports after talks failed, with President Trump blaming Iran’s nuclear ambitions. *[Dawn](https://www.dawn.com/news/1991295/us-military-to-begin-blockade-of-iranian-ports-on-monday)*
-- Israel seeks to declare Turkiye a “new enemy” following remarks by Prime Minister Netanyahu regarding President Erdogan. *[Dawn](https://www.dawn.com/news/1991340/israel-seeks-to-declare-turkiye-new-enemy-says-fm-fidan-after-netanyahus-remarks-on-erdogan)*
-- Qatar’s Foreign Minister urged the US and Iran to engage positively with mediation efforts. *[ARY](https://arynews.tv/qatar-urges-positive-engagement-in-mediation-talks/)*
-- Russia offered to take in Iran’s enriched uranium as part of a potential peace deal. *[Business Recorder](https://www.brecorder.com/news/40416182/russia-offers-to-take-in-irans-enriched-uranium)*
-- ASEAN foreign ministers urged the US and Iran to pursue a permanent resolution to the conflict. *[Business Recorder](https://www.brecorder.com/news/40416184/asean-foreign-ministers-urge-us-and-iran-to-push-for-permanent-resolution)*
-- Australia appointed a woman, Lieutenant General Susan Coyle, to lead its army for the first time. *[Dawn](https://www.dawn.com/news/1991319/australia-appoints-woman-to-lead-its-army-for-the-first-time)*
-- Prince Harry and Meghan are set to arrive in Australia for a four-day visit. *[ARY](https://arynews.tv/prince-harry-meghan-to-arrive-in-australia/)*
-
-### National
-- Three police officers were martyred and five injured in an attack on a police vehicle in Gilgit-Baltistan’s Diamer district. *[Dawn](https://www.dawn.com/news/1991346/3-cops-martyred-5-injured-as-assailants-open-fire-on-police-vehicle-in-gbs-diamer)*
-- A police constable was martyred and four others injured in an attack on a police team providing security for a polio vaccination campaign in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/1991304/cop-martyred-4-injured-in-attack-on-hangu-police-team-en-route-to-provide-security-for-polio-drive)*
-- Concerns are growing regarding the health of incarcerated PTI leader Ejaz Chaudhry. *[Dawn](https://www.dawn.com/news/1991351/concerns-abound-regarding-health-of-incarcerated-pti-leader-ejaz-chaudhry)*
-- Residents of Punjab are facing hours-long loadshedding. *[Dawn](https://www.dawn.com/news/1991355/punjabs-residents-left-reeling-amid-hours-long-loadshedding)*
-- Pakistan is stepping up its push to end polio with a second nationwide vaccination campaign. *[Dawn](https://www.dawn.com/news/1991303/pakistan-steps-up-push-to-end-polio-with-second-nationwide-campaign)*
-- Passport application numbers have dropped sharply across Sindh amid the Iran-US situation. *[ARY](https://arynews.tv/pakistan-passport-applications-decline-by-50-percent-in-sindh/)*
-- Four officials were injured during a clash between Afghan residents and police in Islamabad. *[Dawn](https://www.dawn.com/news/1991159/four-officials-hurt-as-afghan-residents-clash-with-police-in-islamabad)*
+### Science & Technology
+- The government and Google launched ‘AI Seekho 2026’ to equip Pakistani youth with artificial intelligence skills. *[Dawn](https://www.dawn.com/news/1991491/govt-and-google-join-hands-to-arm-youth-with-artificial-intelligence-skills)*
+- Nissan plans to streamline its car lineup and boost the use of AI driving technology. *[Business Recorder](https://www.brecorder.com/news/40416325/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech)*
 
 ### Weather
-- The Pakistan Meteorological Department (PMD) predicts rainfall and thunderstorms in the upper parts of the country from April 16 to 19. *[Dawn](https://www.dawn.com/news/1991385/pmd-predicts-rainfall-in-upper-parts-of-country-from-april-16-to-19)*
+- The Pakistan Meteorological Department predicts rainfall in upper parts of the country from April 16-19. *[Dawn](https://www.dawn.com/news/1991385/pmd-predicts-rainfall-in-upper-parts-of-country-from-april-16-to-19)*
 
-### Health
-- Concerns are growing regarding the health of incarcerated PTI leader Ejaz Chaudhry. *[Dawn](https://www.dawn.com/news/1991351/concerns-abound-regarding-health-of-incarcerated-pti-leader-ejaz-chaudhry)*
+### Politics
+- Efforts are underway for a second round of US-Iran talks, with Islamabad favored as a venue. *[Dawn](https://www.dawn.com/news/1991497/efforts-afoot-for-second-round-of-us-iran-talks)*
+- PM Shehbaz Sharif stated that ceasefire extension is a priority, but holding under strain. *[Dawn](https://www.dawn.com/news/1991497/efforts-afoot-for-second-round-of-us-iran-talks)* & *[Dawn](https://www.dawn.com/news/1991371/after-us-iran-talks-in-islamabad-pm-shehbaz-says-full-efforts-ongoing-to-resolve-conflict)*
+- President Zardari was briefed on the progress of MoUs signed during his recent visits to China. *[Business Recorder](https://www.brecorder.com/news/40416297/pakistan-china-mous-zardari-briefed-about-progress)*
+- The Punjab Assembly panel approved a bill setting the minimum marriage age at 18 for both males and females. *[Dawn](https://www.dawn.com/news/1991404/punjab-assembly-panel-approves-bill-setting-minimum-marriage-age-at-18-for-both-males-and-females)*
+- The LHC set aside a ruling that struck down a policy regulating foreign funding of NGOs and NPOs. *[Dawn](https://www.dawn.com/news/1991403/lhc-sets-aside-ruling-that-struck-down-policy-for-regulating-foreign-funding-of-ngos-npos)*
+
+### National
+- The Election Commission issued a fresh schedule for assembly elections in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/1991480/election-commission-issues-fresh-schedule-for-assembly-elections-in-gb)*
+- Concerns were raised over the health of PTI’s jailed leaders, including Imran Khan. *[Dawn](https://www.dawn.com/news/1991482/alarm-raised-over-health-of-ptis-jailed-leaders)*
+- PTCL announced repair work on a submarine cable, potentially causing internet service degradation. *[Dawn](https://www.dawn.com/news/1991416/ptcl-says-repair-work-on-submarine-cable-to-begin-from-tuesday-internet-users-may-face-service-degradation-in-evening-hours)*
+- Two Customs officers were arrested for allegedly replacing seized silver with lead. *[Dawn](https://www.dawn.com/news/1991431/two-customs-officers-arrested-for-allegedly-replacing-400kg-of-seized-silver-with-lead)*
+- Power loadshedding has resumed nationwide due to a 2,500MW shortfall. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/power-shortfall-hits-2500mw-as-nationwide-loadshedding-resumes-on-lower-hydropower-rlng-supply/)*
+- A Senate panel flagged corruption in power projects and sought action from FIA and NAB. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/senate-panel-flags-corruption-in-power-projects-seeks-fia-nab-action/)*
+
+### International
+- The US imposed a blockade on Iranian ports, prompting concerns about escalation. *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+- Trump threatened to shoot at ships near the blockade and claimed talks failed due to the nuclear issue. *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+- NATO allies refused to join the US blockade of Iranian ports. *[ARY](https://arynews.tv/nato-allies-refuse-to-join-trumps-iranian-port-blockade/)*
+- China urged all parties to avoid escalation in the US-Iran conflict. *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+- Russia’s Lavrov urged Iran to avoid resuming hostilities and offered assistance. *[Business Recorder](https://www.brecorder.com/news/40416319/russias-lavrov-to-iranian-counterpart-fighting-must-not-resume-moscow-ready-to-help)*
+- A magnitude 5.7 earthquake struck Silver Springs, Nevada. *[Business Recorder](https://www.brecorder.com/news/40416324/magnitude-57-earthquake-strikes-silver-springs-nevada-usgs-says)*
+- North Korea tested cruise and anti-ship missiles. *[ARY](https://arynews.tv/north-korea-tests-cruise-and-anti-ship-missiles-from-naval-destroyer/)*
+- France’s Lafarge was found guilty of financing jihadists in Syria. *[Business Recorder](https://www.brecorder.com/news/40416270/french-cement-maker-lafarge-found-guilty-of-financing-jihadists-in-syria)*
+- Hungary’s PM Orban lost, potentially signaling a shift away from far-right populism in Europe. *[Business Recorder](https://www.brecorder.com/news/40416269/orban-loss-jolts-far-right-dims-trumpism-allure-in-europe)*
 
 ### Sports
-- Camila Cabello’s surprise performance at Coachella stunned fans. *[ARY](https://arynews.tv/camila-cabellos-surprise-coachella-rendition-stuns-fans/)*
+- Sombr announced his first North American arena tour. *[ARY](https://arynews.tv/sombr-announces-first-ever-north-american-arena-tour/)*
+
+### Health
+- The Pakistan Medical Association demanded a halt to the law allowing technicians to practice independently. *[Dawn](https://www.dawn.com/news/1991479/pakistan-medical-association-demands-halt-to-law-allowing-technicians-to-practise-independently)*
+- Rebecca Crews shared her life-changing Parkinson’s treatment using focused ultrasound. *[ARY](https://arynews.tv/rebecca-crews-shares-life-changing-parkinsons-treatment/)*
 
 ### Other
-- Pope Leo stated he is not afraid of Trump after the US president’s criticism. *[Dawn](https://www.dawn.com/news/1991310/pope-leo-says-he-is-not-afraid-of-trump-after-us-presidents-broadside)*
-- Rumors are swirling about Isla Fisher and Larry Cohen after a dinner date in London. *[ARY](https://arynews.tv/isla-fisher-and-larry-cohen-rumors-swirl-after-notting-hill-dinner-date/)*
-- Lufthansa pilots are striking over pay and pensions, causing major flight disruptions. *[ARY](https://arynews.tv/lufthansa-strike-causes-major-flight-disruptions/)*
-- Luxury brands are facing a profits squeeze as the Iran conflict shrinks sales in Dubai. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/luxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales/)*
-- Fashion brands in Lahore are accused of ignoring labor rights violations in the textile recycling sector. *[Dawn](https://www.dawn.com/news/1991248/fashion-brands-in-lahore-ignore-labour-rights-violations-in-textile-recycling-sector)*
-- Millions of people in Sudan are surviving on one meal a day due to the ongoing conflict. *[ARY](https://arynews.tv/millions-of-people-in-sudan-surviving-on-one-meal-a-day/)*
-- Two Pakistan Customs officials were arrested for allegedly swapping silver with lead. *[Business Recorder](https://www.brecorder.com/news/40416202/two-pakistan-customs-officials-held-for-swapping-silver-with-lead)*
-- India forecasts a sub-par monsoon after two years of above-average rains. *[Business Recorder](https://www.brecorder.com/news/40416199/india-forecasts-sub-par-monsoon-after-two-years-of-above-average-rains)*
-- Trump vowed a “quick and brutal” death for Iranian ships as the blockade began. *[ARY](https://arynews.tv/trump-vows-a-quick-and-brutal-death-for-iranian-ships-as-blockade-begins/)*
-- Iran threatened to retaliate against Gulf ports for the US blockade. *[Business Recorder](https://www.brecorder.com/news/40416191/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade)*
-- NATO allies refused to join Trump’s Strait of Hormuz blockade. *[Business Recorder](https://www.brecorder.com/news/40416190/nato-allies-refuse-to-join-trumps-strait-of-hormuz-blockade)*
-- Middle East producers are preparing for oil export resumption via Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/middle-east-producers-prepare-for-oil-export-resumption-via-hormuz-sources-say/)*
-- VW Group sales remain sluggish in key markets. *[ARY](https://arynews.tv/vw-group-faces-decline-in-global-sales-figures/)*
-- US stocks retreated as oil prices shot higher. *[Business Recorder](https://www.brecorder.com/news/40416197/us-stocks-retreat-as-oil-prices-shoot-higher)*
-- UN maritime chief says no country has the right to close Hormuz. *[Business Recorder](https://www.brecorder.com/news/40416196/un-maritime-chief-says-no-country-has-right-to-close-hormuz)*
-- Trump’s lawsuit against the Wall Street Journal was dismissed. *[Business Recorder](https://www.brecorder.com/news/40416194/trumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-for-now)*
-- Netanyahu supports Trump’s Iran naval blockade. *[Business Recorder](https://www.brecorder.com/news/40416185/netanyahu-says-israel-supports-trumps-iran-naval-blockade)*
-- India bonds trim losses as soft CPI spurs value buying. *[Business Recorder](https://www.brecorder.com/news/40416188/india-bonds-trim-losses-as-soft-cpi-spurs-value-buying)*
-- ICICI Prudential AMC quarterly profit jumps on strong domestic inflows. *[Business Recorder](https://www.brecorder.com/news/40416187/icici-prudential-amc-quarterly-profit-jumps-on-strong-domestic-inflows)*
-- Iran denies charging a toll for Indian tankers transiting the Hormuz strait. *[Business Recorder](https://www.brecorder.com/news/40416186/iran-denies-charging-toll-for-indian-tankers-transiting-hormuz-strait)*
-- Peace was within reach before the missiles, raising questions about the current situation. *[Dawn](https://www.dawn.com/news/1991353/peace-was-within-reach-then-came-the-missiles-will-it-be-different-this-time)*
-- Pakistan and China reaffirmed their commitment to peaceful diplomacy. *[Business Recorder](https://www.brecorder.com/news/40416201/pakistan-china-reaffirm-commitment-to-peaceful-diplomacy-in-recent-telephone-conversation)*
+- An Israeli air strike killed four Palestinians in Gaza amid truce talks. *[Dawn](https://www.dawn.com/news/1991495/israeli-air-strike-kills-four-in-gaza-amid-truce-talks-in-cairo)*
+- UN Secretary-General Guterres called the Islamabad talks a positive step but warned against a military solution. *[Dawn](https://www.dawn.com/news/1991493/guterres-calls-islamabad-talks-positive-step-despite-no-deal)*
+- Heathrow Airport traffic surged due to the war diverting global flights. *[Dawn](https://www.dawn.com/news/1991490/heathrow-airport-traffic-surges-as-war-diverts-global-flights)*
+- Trump mistakenly posted an AI image of himself as a Jesus-like figure. *[Dawn](https://www.dawn.com/news/1991418/i-thought-it-was-me-as-a-doctor-trump-on-ai-image-of-himself-as-jesus-like-figure)*
+- Four people, including two sisters and a child, died in road accidents in Karachi. *[ARY](https://arynews.tv/two-sisters-and-a-child-among-four-dead-in-karachi-road-mishaps/)*
+- WhatsApp issued guidance on recovering hacked accounts. *[ARY](https://arynews.tv/whatsapp-hacked-heres-how-you-can-get-your-account-back/)*
+- A US judge dismissed Trump’s defamation case against the Wall Street Journal. *[ARY](https://arynews.tv/trump-faces-legal-setback-against-media-companies/)*
+- Pahlavi claims to be talking to Iranian ‘opposition’. *[Business Recorder](https://www.brecorder.com/news/40416301/pahlavi-claims-talking-to-iranian-opposition)*
 
