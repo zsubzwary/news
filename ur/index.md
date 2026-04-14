@@ -7,73 +7,161 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Apr-2026 21:06PKT 
+ &lrm; 14-Apr-2026 09:07PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 11 منٹ 
 
 ## معیشت
 
-* فچ ریٹنگز نے پاکستان کی کریڈٹ ریٹنگ 'بی-' پر برقرار رکھی ہے، جس کا مطلب ہے کہ مالی استحکام کے اقدامات تسلسل کے ساتھ جاری ہیں *[Dawn](https://www.dawn.com/news/1991344/fitch-affirms-pakistans-credit-rating-at-b)*۔
-* پاکستان اسٹاک ایکسچینج (پی ایس ایکس) کے بینچ مارک انڈیکس کے ایس ای 100 میں امریکی بلاک کے اعلان کے بعد 6,600 پوائنٹس کی کمی ہوئی۔ *[Dawn](https://www.dawn.com/news/1991302/psx-sheds-6600-points-after-trump-announces-hormuz-blockade)*
-* گیس کی قلت کے باعث بجلی کے شعبے کو گیس کی فراہمی کو دوگنا کرنے پر غور کیا جا رہا ہے، جس سے بجلی کی قیمتوں میں اضافہ اور لوڈ شیڈنگ کا خطرہ پیدا ہو سکتا ہے۔ *[Dawn](https://www.dawn.com/news/1991162/gas-supply-to-power-sector-may-double-amid-lng-shortfall)*
-* الیکٹرک بائک کی طلب میں اضافہ ہو رہا ہے کیونکہ ایندھن کی قیمتیں بڑھ رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416195/electric-bikes-gain-traction-in-pakistan-amid-rising-fuel-prices)*
-* پی ایس او نے جواد احمد چیمہ کو تین سال کے لیے سی ای او مقرر کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/pso-appoints-jawwad-ahmed-cheema-as-ceo-for-three-year-term)*
-* سیکیورٹیز اینڈ ایکسچینج کمیشن آف پاکستان (ایس ای سی پی) نے مارچ 2026 میں 2,993 نئی کمپنیاں رجسٹر کیں۔ *[Business Recorder](https://www.brecorder.com/news/40416189/secp-registers-2993-new-companies-in-march-2026)*
+*   عالمی بینک کے ساتھ ملاقات میں وزیرِ خزانہ نے قرضوں کے انتظام کے لیے تکنیکی مدد بڑھانے کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416326/pakistan-says-all-options-on-table-for-funding-weighs-strategic-fuel-reserve)*
+*   فچ ریٹنگز نے پاکستان کی کریڈٹ ریٹنگ 'B-' پر برقرار رکھی۔ *[Dawn](https://www.dawn.com/news/1991344/fitch-affirms-pakistans-credit-rating-at-b)*, *[Business Recorder](https://www.brecorder.com/news/40416290/fitch-affirms-pakistans-credit-rating-at-b)*
+*   سونے اور چاندی کی قیمتوں میں تبدیلی، آج 14 اپریل 2026 کی تفصیلات۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/silver-price-in-pakistan-for-today-april-14-2026/)*, *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/gold-price-in-pakistan-for-today-april-14-2026/)*
+*   پاکستان یو ایس اے سے 3.5 ارب ڈالر کی فنانسنگ کے لیے یورو بانڈز، دیگر ممالک سے قرضے اور کمرشل ڈیبٹ پر غور کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416326/pakistan-says-all-options-on-table-for-funding-weighs-strategic-fuel-reserve)*
 
 ## سائنس اور ٹیکنالوجی
 
-* کوئی خبر نہیں
+*   حکومت اور گوگل نے پاکستانی نوجوانوں کو مصنوعی ذہانت کی مہارتوں سے آراستہ کرنے کے لیے 'اے آئی سیکھو 2026' کا مشترکہ آغاز کیا۔ *[Dawn](https://www.dawn.com/news/1991491/govt-and-google-join-hands-to-arm-youth-with-artificial-intelligence-skills)*
+*   نیسان عالمی سطح پر اپنی کاروں کی لائن اپ کو کم کرے گا اور اے آئی ڈرائیونگ ٹیکنالوجی کو فروغ دے گا۔ *[Business Recorder](https://www.brecorder.com/news/40416325/nissan-to-trim-global-car-lineup-boost-use-of-ai-driving-tech)*
+*   واٹس ایپ ہیک ہونے کی صورت میں اکاؤنٹ بحال کرنے کے طریقے، پی ٹی اے کی ہدایات۔ *[ARY](https://arynews.tv/whatsapp-steps-to-restore-hacked-accounts/)*, *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/whatsapp-steps-to-restore-hacked-accounts/)*
 
 ## موسم
 
-* پی ایم ڈی نے پیش گوئی کی ہے کہ اپریل 16 سے 19 تک ملک کے شمالی حصوں میں بارش اور گرج چمک کے ساتھ طوفانی حالات پیدا ہو سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/1991385/pmd-predicts-rainfall-in-upper-parts-of-country-from-april-16-to-19)*
+*   پی ایم ڈی کی پیش گوئی، ملک کے بالائی حصوں میں 16 سے 19 اپریل تک بارش کی توقع۔ *[Dawn](https://www.dawn.com/news/1991385/pmd-predicts-rainfall-in-upper-parts-of-country-from-april-16-to-19)*
 
 ## سیاست
 
-* وزیراعظم شہباز شریف نے کہا کہ امریکہ اور ایران کے درمیان اسلام آباد میں بات چیت جاری ہے اور تنازع کو حل کرنے کے لیے پوری کوشش کی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/1991371/after-us-iran-talks-in-islamabad-pm-shehbaz-says-full-efforts-ongoing-to-resolve-conflict)*
-* ترکی کے وزیر خارجہ نے کہا کہ اسرائیل ترکی کو اپنا نیا دشمن قرار دینے کی کوشش کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/1991340/israel-seeks-to-declare-turkiye-new-enemy-says-fm-fidan-after-netanyahus-remarks-on-erdogan)*
-* امریکہ کے صدر ٹرمپ نے ایران کے خلاف بحری بلاک لگانے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1991295/us-military-to-begin-blockade-of-iranian-ports-on-monday)*
-* برطانیہ کے وزیراعظم نے کہا کہ برطانیہ ایران کے خلاف امریکہ کے بلاک میں شامل نہیں ہوگا۔ *[ARY](https://arynews.tv/uk-will-not-back-blockade-of-strait-of-hormuz-pm-starmer-says/)*
-* ہنگری کے نوجوان وزیراعظم وِکٹر اوربان کی شکست پر خوشی منا رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1991350/liberated-hungarian-youths-celebrate-viktor-orbans-defeat)*
-* نیویارک کے میئر زہران مامدانی نے اپنے "سوشلسٹ" ایجنڈے کی کامیابی کا اعلان کیا۔ *[Dawn](https://www.dawn.com/news/1991326/new-yorks-zohran-mamdani-touts-socialist-plans-after-100-days-in-office)*
+*   صدر زرداری کو پاک چین مفاہمت ناموں پر بریفنگ دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40416296/pakistan-china-mous-zardari-briefed-about-progress)*
+*   پنجاب اسمبلی کی کمیٹی نے کم از کم شادی کی عمر 18 سال مقرر کرنے کے بل کو منظور کیا۔ *[Dawn](https://www.dawn.com/news/1991404/punjab-assembly-panel-approves-bill-setting-minimum-marriage-age-at-18-for-both-males-and-females)*
+*   الیکشن کمیشن نے جی بی اسمبلی کے انتخابات کا نیا شیڈول جاری کیا۔ *[Dawn](https://www.dawn.com/news/1991480/election-commission-issues-fresh-schedule-for-assembly-elections-in-gb)*
+*   ایران کے صدر نے کہا کہ وہ ٹرمپ سے نہیں ڈرتے۔ *[Business Recorder](https://www.brecorder.com/news/40416269/orban-loss-jolts-far-right-dims-trumpism-allure-in-europe)*
 
 ## قومی
 
-* گلگت بلتستان کے دیامر میں پولیس گاڑی پر حملہ ہوا جس میں تین پولیس اہلکار شہید اور پانچ زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1991346/3-cops-martyred-5-injured-as-assailants-open-fire-on-police-vehicle-in-gbs-diamer)*
-* خیبر پختونخوا کے ہنگو میں پولیو ٹیم کی سیکیورٹی پر مامور پولیس پارٹی پر حملہ ہوا جس میں ایک پولیس اہلکار شہید اور چار زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1991304/cop-martyred-4-injured-in-attack-on-hangu-police-team-en-route-to-provide-security-for-polio-drive)*
-* پنجاب میں بجلی کی طویل لوڈ شیڈنگ سے شہریوں کو مشکلات کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/1991355/punjabs-residents-left-reeling-amid-hours-long-loadshedding)*
-* پاکستان نے پولیو کے خاتمے کے لیے ملک گیر دوسرا مہم شروع کی۔ *[Dawn](https://www.dawn.com/news/1991303/pakistan-steps-up-push-to-end-polio-with-second-nationwide-campaign)*
-* اسلام آباد میں افغان باشندوں اور پولیس کے درمیان تصادم میں چار اہلکار زخمی ہوئے اور 23 افراد کو گرفتار کیا گیا۔ *[Dawn](https://www.dawn.com/news/1991159/four-officials-hurt-as-afghan-residents-clash-with-police-in-islamabad)*
-* سندھ میں ایران- امریکہ کی صورتحال کے باعث پاسپورٹ کی درخواستوں میں 50 فیصد کمی آئی ہے۔ *[ARY](https://arynews.tv/pakistan-passport-applications-decline-by-50-percent-in-sindh/)*
+*   جیل میں پی ٹی آئی کے رہنماؤں کی صحت پر تشویش ظاہر کی گئی۔ *[Dawn](https://www.dawn.com/news/1991482/alarm-raised-over-health-of-ptis-jailed-leaders)*
+*   ہیٹرو ائیرپورٹ پر ٹریفک میں 10 فیصد اضافہ، جنگ کی وجہ سے پروازیں متاثر۔ *[Dawn](https://www.dawn.com/news/1991490/heathrow-airport-traffic-surges-as-war-diverts-global-flights)*
+*   پاکستان میڈیکل ایسوسی ایشن نے تکنیکی ماہرین کو آزادانہ طور پر عمل کرنے کی اجازت دینے والے قانون کو معطل کرنے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1991479/pakistan-medical-association-demands-halt-to-law-allowing-technicians-to-practise-independently)*
+*   کراچی میں سڑک حادثات میں دو بہنوں اور ایک بچے سمیت چار افراد جاں بحق۔ *[ARY](https://arynews.tv/two-sisters-and-a-child-among-four-dead-in-karachi-road-mishaps/)*
+*   پاور کی قلت، ملک بھر میں لوڈ شیڈنگ بحال۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/power-shortfall-hits-2500mw-as-nationwide-loadshedding-resumes-on-lower-hydropower-rlng-supply/)*
+*   سینیٹ کمیٹی نے بجلی کے منصوبعات میں بدعنوانی کا پردہ فاش کیا، ایف آئی اے اور نیب کو کارروائی کرنے کی ہدایت کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/senate-panel-flags-corruption-in-power-projects-seeks-fia-nab-action/)*
 
 ## بین الاقوامی
 
-* ایران نے کہا کہ وہ امریکہ کے بلاک کے جواب میں خلیج کے ممالک کے بندرگاہوں پر حملہ کر سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416191/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade)*
-* قطر نے امریکہ اور ایران سے سفارتی کوششوں میں مثبت انداز میں شامل ہونے کا مطالبہ کیا۔ *[ARY](https://arynews.tv/qatar-urges-positive-engagement-in-mediation-talks/)*
-* روس نے ایران کے افزودہ یورینیئم کو قبول کرنے کی پیشکش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416182/russia-offers-to-take-in-irans-enriched-uranium)*
-* لفتھانسا کے پائلٹوں نے تنخواہ کے تنازع پر دوبارہ ہڑتال کر دی۔ *[ARY](https://arynews.tv/lufthansa-strike-causes-major-flight-disruptions/)*
-* ہندوستان نے مون سون کی کمزور پیش گوئی کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416199/india-forecasts-sub-par-monsoon-after-two-years-of-above-average-rains)*
-* آسٹرلیا نے پہلی بار ایک خاتون کو اپنی فوج کا سربراہ مقرر کیا۔ *[Dawn](https://www.dawn.com/news/1991319/australia-appoints-woman-to-lead-its-army-for-the-first-time)*
-* پوپ نے کہا کہ وہ امریکہ کے صدر ٹرمپ کے حملے سے نہیں ڈرتے۔ *[Dawn](https://www.dawn.com/news/1991310/pope-leo-says-he-is-not-afraid-of-trump-after-us-presidents-broadside)*
-* کمبوڈیا کے وزیراعظم نے کہا کہ امریکہ اور ایران کے درمیان جنگ سے دنیا کو خطرہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416190/nato-allies-refuse-to-join-trumps-strait-of-hormuz-blockade)*
+*   امریکہ اور ایران کے درمیان بات چیت کی کوششیں، جنگ بندی کی توسیع اولین ترجیح۔ *[Dawn](https://www.dawn.com/news/1991497/efforts-afoot-for-second-round-of-us-iran-talks)*
+*   امریکہ کا ہرمز کی بندرگاہ کا محاصرہ جنگ بندی کی آزمائش، ایران نے دھمکی دی۔ *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+*   گuterres نے اسلام آباد میں ہونے والی بات چیت کو مثبت قدم قرار دیا۔ *[Dawn](https://www.dawn.com/news/1991493/guterres-calls-islamabad-talks-positive-step-despite-no-deal)*
+*   گھزہ میں اسرائیلی فضائی حملے میں چار افراد ہلاک، جنگ بندی کی بات چیت جاری۔ *[Dawn](https://www.dawn.com/news/1991495/israeli-air-strike-kills-four-in-gaza-amid-truce-talks-in-cairo)*
+*   NATO اتحادیوں نے امریکہ کے ایرانی بندرگاہوں کے محاصرے میں شامل ہونے سے انکار کر دیا۔ *[ARY](https://arynews.tv/nato-allies-refuse-to-join-trumps-iranian-port-blockade/)*
+*   چین نے فریقوں سے کشیدگی سے بچنے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+*   روس کا کہنا ہے کہ ہرمز کی بندرگاہ کا محاصرہ عالمی مفادات کے خلاف ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416302/china-says-strait-of-hormuz-blockade-against-global-interests)*
+*   شمالی کوریا نے بحری تباہ کن سے کروز اور اینٹی شپ میزائلوں کی آزمائش کی۔ *[ARY](https://arynews.tv/north-korea-tests-cruise-and-anti-ship-missiles-from-naval-destroyer/)*
 
 ## کھیل
 
-* کیملا کیبیلو نے کوچیلا فیسٹیول میں حیران کن پرفارمنس دی۔ *[ARY](https://arynews.tv/camila-cabellos-surprise-coachella-rendition-stuns-fans/)*
-* پرنس ہری اور میگھن آسٹریلیا پہنچیں گے۔ *[ARY](https://arynews.tv/prince-harry-meghan-to-arrive-in-australia/)*
+*   سمبر نے اپنا پہلا شمالی امریکہ کا ایرینا ٹور شروع کیا۔ *[ARY](https://arynews.tv/sombr-announces-first-ever-north-american-arena-tour/)*
 
 ## صحت
 
-* پی ٹی آئی رہنما اعجاز چودھری کی صحت کو لے کر خدشات ظاہر کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1991351/concerns-abound-regarding-health-of-incarcerated-pti-leader-ejaz-chaudhry)*
+*   ری بیCCA کروز نے پارکنسنز کے علاج کے لیے ایک انقلابی طریقہ بتایا۔ *[ARY](https://arynews.tv/rebecca-crews-shares-life-changing-parkinsons-treatment/)*
 
 ## دیگر
 
-* سوڈان میں لاکھوں لوگ ایک وقت میں صرف ایک کھانے پر زندہ رہ رہے ہیں۔ *[ARY](https://arynews.tv/millions-of-people-in-sudan-surviving-on-one-meal-a-day/)*
-* فیشن برانڈز لاہور میں ٹیکسٹائل ری سائیکلنگ سیکٹر میں مزدوروں کے حقوق کی خلاف ورزیوں کو نظر انداز کر رہی ہیں۔ *[Dawn](https://www.dawn.com/news/1991248/fashion-brands-in-lahore-ignore-labour-rights-violations-in-textile-recycling-sector)*
-* دو کسٹم اہلکاروں کو چاندی کو لیڈ سے بدلنے کے الزام میں گرفتار کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416202/two-pakistan-customs-officials-held-for-swapping-silver-with-lead)*
-* امریکہ کے صدر ٹرمپ نے وال اسٹریٹ جرنل کے خلاف مقدمہ درج کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416184/trumps-lawsuit-against-wall-street-journal-over-epstein-story-dismissed-for-now)*
-* اسلا فشر اور لیری کوہن کے درمیان تعلقات کی قیاس آرائیاں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/isla-fisher-and-larry-cohen-rumors-swirl-after-notting-hill-dinner-date/)*
-* وی ڈبلیو گروپ کی فروخت میں کمی آئی ہے۔ *[ARY](https://arynews.tv/vw-group-faces-decline-in-global-sales-figures/)*
-* سونے کی قیمتیں امریکہ اور ایران کی بات چیت ناکام ہونے پر گر گئیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/gold-drops-as-inflation-worries-linger-on-failed-us-iran-talks/)*
-* مڈل ایسٹ کی جنگ کے باعث دبئی مال میں لکژری برانڈز کی فروخت کم ہوئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/13/luxury-brands-face-profits-squeeze-as-iran-conflict-shrinks-dubai-mall-sales/)*
+*   ترجمان وزیراعظم نے کہا کہ جنگ بندی برقرار ہے، امریکہ اور ایران کے درمیان بات چیت جاری ہے۔ *[Dawn](https://www.dawn.com/news/1991371/after-us-iran-talks-in-islamabad-pm-shehbaz-says-full-efforts-ongoing-to-resolve-conflict)*
+*   فرانسیسی سیمنٹ بنانے والی کمپنی لفارگے کو شام میں دہشت گردوں کی مالی مدد کرنے کا قصوروار قرار دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40416270/french-cement-maker-lafarge-found-guilty-of-financing-jihadists-in-syria)*
+*   ایل ایچ سی نے وہ پالیسی معطل کر دی جس نے این جی او اور این پی او کی غیر ملکی فنڈنگ کو ریگولیٹ کیا۔ *[Dawn](https://www.dawn.com/news/1991403/lhc-sets-aside-ruling-that-struck-down-policy-for-regulating-foreign-funding-of-ngos-npos)*
+*   ڈونلڈ ٹرمپ کے خلاف میڈیا کمپنیوں کے مقدمات میں قانونی پسپائی۔ *[ARY](https://arynews.tv/trump-faces-legal-setback-against-media-companies/)*
+*   آئی ای اے کے سربراہ نے خبردار کیا کہ ایران جنگ کی وجہ سے توانائی کے بازاروں کے لیے ماہ اپریل مشکل ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40416320/iea-chief-warns-of-tougher-month-for-energy-markets-due-to-iran-war)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40416319/pahlavi-claims-talking-to-iranian-opposition)*
+*   آرگین نے ایرانی اپوزیشن سے بات چیت کا دعویٰ۔ *[Business Recorder](https://www
 
