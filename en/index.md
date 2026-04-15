@@ -4,74 +4,70 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Apr-2026 21:02PKT
+Published at: 15-Apr-2026 09:02PKT
 
 Time to read: 5 mins
 
 ### Economy
-- The IMF cut its 2026 global growth forecast to 3.1% due to the Middle East war and potential disruptions to commodity markets. *[Dawn](https://www.dawn.com/news/1991696/imf-cuts-2026-global-growth-forecast-to-31pc-on-mideast-war-warns-world-economy-could-be-thrown-off-course)*
-- Pakistan is considering Eurobonds, loans from other countries, and commercial debt to replace a $3.5 billion facility from the UAE. *[Dawn](https://www.dawn.com/news/1991606/aurangzeb-says-all-options-on-table-to-replace-uaes-35bn-loan-weighs-strategic-fuel-reserve)*
-- The PSX rallied over 5,000 points, reversing some of the previous day’s losses, fueled by hopes of de-escalation in the US-Iran conflict. *[Dawn](https://www.dawn.com/news/1991610/bulls-take-charge-as-kse-100-rallies-5000-points)*
-- Pakistan is seeking World Bank support for debt management and capital market development. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/pakistan-seeks-world-banks-technical-support-for-debt-management-capital-market-development/)*
-- The government is considering tax rationalization to reduce auto prices. *[Dawn](https://www.dawn.com/news/1991486/tax-rationalisation-to-cut-auto-prices)*
-
-### Science & Technology
-- The SECP granted a Buy Now Pay Later (BNPL) license to Alibaba-owned Koko Tech Pakistan. *[Dawn](https://www.dawn.com/news/1991688/secp-grants-buy-now-pay-later-licence-to-alibaba-owned-koko-tech-pakistan)*
-- Kuwait has issued a warning about the risks posed by deepfake technology. *[ARY](https://arynews.tv/kuwait-warns-about-dangers-of-deepfake-technology/)*
-- Pakistan is engaging with Mastercard and Google on digital payments, AI, and fintech development. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/pakistan-engages-mastercard-google-on-digital-payments-ai-and-fintech-development/)*
-
-### Weather
-- The NDMA issued a high alert for nationwide rain, windstorms, and hailstorms, anticipating a powerful weather system on April 17-18. *[Business Recorder](https://www.brecorder.com/news/40416380/ndma-issues-alert-for-nationwide-rain-hailstorms)*
+- Saudi Arabia has pledged an additional $3 billion in deposits for Pakistan and extended its existing $5 billion facility through 2028. *[Dawn](https://www.dawn.com/news/1991877/saudi-arabia-pledges-3bn-fresh-deposit-extends-5bn-facility-through-2028)*
+- Pakistan is set to return a $3.5 billion loan to the UAE this month, potentially impacting IMF program targets. *[Dawn](https://www.dawn.com/news/1991877/saudi-arabia-pledges-3bn-fresh-deposit-extends-5bn-facility-through-2028)*
+- The government has trimmed the Public Sector Development Programme (PSDP) by Rs172.8 billion to Rs837.16 billion to meet IMF surplus targets. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/pakistan-trims-rs173-billion-from-development-budget-to-meet-imfs-surplus-target/)*
+- Pakistan estimates revenue losses between Rs200-343 billion annually due to illicit cigarette trade and is planning a crackdown. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/pakistan-to-launch-crackdown-on-illicit-cigarettes-as-revenue-losses-hit-up-to-rs343-billion/)*
+- The government will unveil a new auto policy on July 1st, focusing on localization to reduce vehicle prices. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/pakistan-to-unveil-new-auto-policy-on-july-1-focus-on-localisation-to-cut-vehicle-prices/)*
+- Pakistan is seeking a review of IMF surcharges during the G-24 meetings, citing global economic pressures. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/pakistan-calls-for-imf-surcharge-review-at-g-24-amid-global-economic-pressures/)*
+- The FBR estimates annual revenue losses of around Rs200 billion due to illicit cigarette trade. *[Business Recorder](https://www.brecorder.com/news/40416479/illicit-cigarette-trade-fbr-flags-rs200bn-annual-revenue-loss-kayani)*
+- Approximately 25% of IESCO consumers have been equipped with AMI meters, with a plan to rollout 10 million nationwide. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/leghari-says-25-iesco-consumers-shifted-to-ami-meters-10-million-rollout-planned-nationwide/)*
+- The Privatisation Commission has approved the framework for the privatization of FESCO, GEPCO, and IESCO. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/pakistan-moves-to-privatise-first-batch-of-discos-clears-framework-for-fesco-gepco-iesco-sale-plan/)*
 
 ### Politics
-- President Asif Ali Zardari was briefed by PM Shehbaz Sharif on US-Iran talks and upcoming visits to Saudi Arabia and Turkiye. *[Dawn](https://www.dawn.com/news/1991689/pm-takes-president-into-confidence-on-us-iran-talks-briefs-him-on-upcoming-visits-to-saudi-arabia-turkiye)*
-- Donald Trump stated US-Iran talks could resume in Pakistan within the next two days. *[Dawn](https://www.dawn.com/news/1991712/trump-says-us-iran-talks-could-resume-over-the-next-two-days-were-more-inclined-to-go-to-pakistan)*
-- Donald Trump publicly criticized Italian Prime Minister Giorgia Meloni, expressing shock at her stance. *[Business Recorder](https://www.brecorder.com/news/40416396/trump-turns-on-meloni-says-he-is-shocked-by-italian-leader)*
-- Trump and Modi discussed the importance of keeping the Strait of Hormuz open. *[Business Recorder](https://www.brecorder.com/news/40416394/trump-and-modi-stress-need-to-keep-strait-of-hormuz-open-in-call)*
-
-### National
-- The government announced more than 2 hours of daily loadshedding during peak hours due to fuel constraints. *[Dawn](https://www.dawn.com/news/1991664/govt-announces-more-than-2-hours-of-daily-loadshedding-amid-fuel-constraints)*
-- Interior Minister Mohsin Naqvi urged Pakistani businessmen to repatriate 20-30% of their wealth. *[Dawn](https://www.dawn.com/news/1991683/naqvi-calls-on-businessmen-to-bring-back-20-30pc-of-wealth-to-pakistan)*
-- Police were injured during protests against an anti-encroachment drive in Islamabad. *[Dawn](https://www.dawn.com/news/1991659/2-policemen-injured-as-residents-protest-against-anti-encroachment-drive-in-islamabad)*
-- The Naval Chief stated Pakistan is ready to deter any aggression and vowed a “befitting response”. *[Dawn](https://www.dawn.com/news/1991636/naval-chief-says-pakistan-stands-ready-to-deter-any-aggression-vows-befitting-response)*
-- Authorities foiled an attempt to smuggle billions of Iranian rials into Karachi, arresting nine suspects. *[ARY](https://arynews.tv/iranian-rial-smuggling-attempt-foiled-in-karachi/)*
+- Donald Trump has expressed disappointment with Italian PM Giorgia Meloni’s stance on the Iran war, criticizing her lack of “courage”. *[Dawn](https://www.dawn.com/news/1991715/trump-says-italian-pm-meloni-lacks-courage-on-iran-war-report)*
+- Prime Minister Shehbaz Sharif briefed President Zardari on US-Iran talks and upcoming visits to Saudi Arabia and Turkey. *[Dawn](https://www.dawn.com/news/1991689/pm-takes-president-into-confidence-on-us-iran-talks-briefs-him-on-upcoming-visits-to-saudi-arabia-turkiye)*
+- The Lahore High Court Bar Association and Lahore Bar Association condemned the solitary confinement of Imran Khan. *[Dawn](https://www.dawn.com/news/1991814/lahore-lawyers-demand-end-to-imrans-solitary-confinement)*
+- Jamaat-e-Islami rejects US pressure and urges trade with Iran, including completing the Pakistan-Iran gas pipeline. *[Business Recorder](https://www.brecorder.com/news/40416471/ji-rejects-us-pressure-urges-trade-with-iran)*
 
 ### International
-- US and Iranian teams could return to Islamabad this week for a second round of peace talks. *[Dawn](https://www.dawn.com/news/1991640/us-iranian-teams-could-return-to-islamabad-for-2nd-round-of-peace-talks-this-week-sources)*
-- A high school shooting in Turkey wounded 16 people; the attacker is dead. *[Dawn](https://www.dawn.com/news/1991649/high-school-shooting-in-turkiye-wounds-16-attacker-dead)*
-- Around 90 protesters were detained in New York City during demonstrations against US arms sales to Israel. *[Dawn](https://www.dawn.com/news/1991624/around-90-detained-in-new-york-city-protest-over-us-arms-sales-to-israel)*
-- The US has begun a blockade of Iranian ports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/us-begins-iran-port-blockade-oil-prices-ease-on-hopes-for-dialogue/)*
-- Nine people were killed and 15 injured in a blast at a Vedanta plant in India. *[Business Recorder](https://www.brecorder.com/news/40416392/nine-dead-15-injured-in-blast-at-vedanta-plant-in-indias-chhattisgarh-state)*
+- The US hosted direct talks between Lebanon and Israel, marking a significant step towards potential peace. *[Dawn](https://www.dawn.com/news/1991819/us-hosts-rare-direct-talks-between-lebanon-and-israel)*
+- The US and Iran are likely to resume talks in Islamabad this week. *[Business Recorder](https://www.brecorder.com/news/40416483/us-iran-likely-to-resume-talks-in-islamabad)*
+- China and Spain have called for closer ties to counter threats to multilateralism amid a “crumbling” world order. *[Dawn](https://www.dawn.com/news/1991797/china-spain-call-for-closer-ties-amid-crumbling-world-order)*
+- Six Palestinians, including two children, were killed in Gaza despite the ceasefire. *[Dawn](https://www.dawn.com/news/1991801/two-children-among-six-killed-in-gaza)*
+- Approximately 250 Rohingya refugees and Bangladeshi nationals are feared missing after a boat capsized in the Andaman Sea. *[Dawn](https://www.dawn.com/news/1991726/around-250-people-feared-missing-after-boat-capsizes-in-andaman-sea-un)*
+
+### National
+- An anti-encroachment operation in Islamabad triggered a violent backlash from villagers, resulting in injuries to police and residents. *[Dawn](https://www.dawn.com/news/1991876/anti-encroachment-operation-triggers-violent-backlash-from-villagers-in-islamabad)*
+- The KP government has approved a bill to register Kalash marriages, setting the marriage age at 18. *[Dawn](https://www.dawn.com/news/1991813/in-a-first-kp-govt-moves-to-register-kalash-marriages)*
+- Several turtles, including loggerhead, green, and olive ridley species, have been found dead along the Balochistan seashore. *[Dawn](https://www.dawn.com/news/1991782/several-turtles-found-dead-along-balochistan-seashore)*
+- The number of mpox cases in Sindh has risen to 25, with nine deaths reported this year. *[Dawn](https://www.dawn.com/news/1991781/mpox-cases-rise-to-25-as-two-more-test-positive-in-sindh)*
+- A boiler blast at an Indian power plant killed nine people. *[Business Recorder](https://www.brecorder.com/news/40416481/boiler-blast-at-indian-power-plant-kills-9)*
+
+### Science & Technology
+- Novo Nordisk is partnering with OpenAI to deploy artificial intelligence across its business, from drug discovery to manufacturing. *[ARY](https://arynews.tv/wegovy-maker-partners-with-openai-to-speed-drug-development/)*
+- The KP government has approved the establishment of an AI Education Authority. *[Business Recorder](https://www.brecorder.com/news/40416472/kp-govt-approves-establishment-of-ai-education-authority)*
 
 ### Sports
-- Zimbabwe pacer Blessing Muzarabani has been banned from the next two editions of the PSL. *[Dawn](https://www.dawn.com/news/1991650/zimbabwe-pacer-blessing-muzarabani-banned-for-2-psl-editions-over-failure-to-honour-commitments)*
-- *Wisden* criticized India’s “Orwellian” control of world cricket. *[Dawn](https://www.dawn.com/news/1991653/wisden-laments-indias-orwellian-control-of-world-cricket)*
+- BTS member RM revealed why Jungkook missed a potential Super Bowl performance due to mandatory military service. *[ARY](https://arynews.tv/bts-rm-reveals-why-jungkook-missed-super-bowl-chance-as-solo-artist/)*
 
 ### Health
-- Federal Minister for Health Syed Mustafa Kamal expressed concern over the limited impact of vaccine awareness campaigns despite significant funding. *[ARY](https://arynews.tv/kamal-raises-concerns-over-limited-impact-of-vaccine-awareness-campaigns-despite-significant-funding-of-millions-of-dollars/)*
+- A BBC report revealed continued malpractices at a hospital in Taunsa, Punjab, linked to a previous HIV outbreak. *[Dawn](https://www.dawn.com/news/1991739/bbc-reports-serious-malpractices-continued-at-taunsa-hospital-months-after-it-was-linked-to-hiv-outbreak)*
 
 ### Other
-- Imran Khan’s sisters were denied a meeting with him at Adiala jail despite reaching the facility. *[Dawn](https://www.dawn.com/news/1991677/imrans-sisters-manage-to-reach-adiala-jail-but-still-denied-meeting-with-ex-premier)*
-- Henry Cavill and Jake Gyllenhaal star in the upcoming heist film *In the Grey*. *[ARY](https://arynews.tv/henry-cavill-takes-on-gyllenhaal-in-heist-film-in-the-grey/)*
-- Adam Sandler’s daughter, Sadie Sandler, stole the spotlight at the *Roommates* premiere. *[ARY](https://arynews.tv/adam-sandlers-daughter-steals-spotlight-at-roommates-premiere/)*
-- Donald Trump’s son Eric will accompany him on his state visit to China. *[ARY](https://arynews.tv/trump-son-eric-accompanies-him-to-china/)*
-- The global jet fuel market is facing shortages due to the Iran war. *[ARY](https://arynews.tv/europe-faces-jet-fuel-shortages-soon/)* & *[ARY](https://arynews.tv/fuel-costs-impacting-global-airline-industry/)*
-- The war in Iran is straining US farmers due to surging fertiliser costs. *[Dawn](https://www.dawn.com/news/1991656/blindsided-us-farmers-strained-as-fertiliser-costs-surge-on-iran-war)*
-- Pakistan is engaging MIGA on a $500 million trade finance facility for critical imports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/aurangzeb-engages-miga-on-500-million-trade-finance-facility-for-critical-imports/)*
-- Pakistan and Saudi Fund discussed development cooperation and energy risks amid the Middle East conflict. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/pakistan-saudi-fund-discuss-development-cooperation-energy-risks-amid-middle-east-conflict/)*
-- Pakistan and the US discussed trade, investment, and economic cooperation at IMF meetings. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/pakistan-us-discuss-trade-investment-and-economic-cooperation-at-imf-meetings/)*
-- Aurangzeb met IMF’s Jihad Azour, discussing growth and inflation risks amid the Mideast crisis. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/aurangzeb-meets-imfs-jihad-azour-discusses-growth-and-inflation-risks-amid-mideast-crisis/)*
-- Delays in cottonseed import SOPs are limiting their impact on the current crop season. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/delay-in-cottonseed-import-sops-limits-impact-for-current-crop-season/)*
-- PC advances DISCOs’ privatisation, approves Roosevelt Hotel adviser. *[Business Recorder](https://www.brecorder.com/news/40416397/pc-advances-discos-privatisation-approves-roosevelt-hotel-adviser)*
-- India’s Uttar Pradesh state raised workers’ wages amid protests over pay. *[Business Recorder](https://www.brecorder.com/news/40416383/indias-uttar-pradesh-state-raises-workers-wages-amid-protests-over-pay)*
-- Iran war could hit India’s car production, auto body says. *[Business Recorder](https://www.brecorder.com/news/40416382/iran-war-could-hit-indias-car-production-auto-body-says)*
-- Peak oil price likely to come ‘in next few weeks,’ US Energy secretary says. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/14/peak-oil-price-likely-to-come-in-next-few-weeks-us-energy-secretary-says/)*
-- No loadshedding in Hyderabad and Karachi despite countrywide cuts. *[ARY](https://arynews.tv/no-loadshedding-relief-for-two-cities-in-pakistan/)* & *[Business Recorder](https://www.brecorder.com/news/40416381/govt-announces-225-hour-loadshedding-to-avert-electricity-price-hike)*
-- Copper hits six-week high on prospects for more US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40416385/copper-hits-six-week-high-on-prospects-for-more-us-iran-peace-talks)*
-- Palm oil falls to 5-week low on weakness in crude, rival edible oils. *[Business Recorder](https://www.brecorder.com/news/40416384/palm-falls-to-5-week-low-on-weakness-in-crude-rival-edible-oils)*
-- Wall St jumps on Mideast de-escalation hopes; earnings in focus. *[Business Recorder](https://www.brecorder.com/news/40416390/wall-st-jumps-on-mideast-de-escalation-hopes-earnings-in-focus)*
-- Most Gulf markets gain as traders gauge prospects for US-Iran deal. *[Business Recorder](https://www.brecorder.com/news/40416389/most-gulf-markets-gain-as-traders-gauge-prospects-for-us-iran-deal)*
-- Rupee gains ground against US dollar. *[Business Recorder](https://www.brecorder.com/news/40416371/intra-day-update-rupee-records-gain-against-us-dollar)*
-- France’s Macron calls for US, Iran ceasefire talks to resume. *[Business Recorder](https://www.brecorder.com/news/40416387/frances-macron-calls-for-us-iran-ceasefire-talks-to-resume)*
-- US blockade of Hormuz puts ceasefire to test. *[Dawn](https://www.dawn.com/news/1991499/us-blockade-of-hormuz-puts-ceasefire-to-test)*
+- The Peshawar Literary Festival is scheduled for April 20-21. *[ARY](https://arynews.tv/3rd-season-of-peshawar-literary-festival-scheduled-for-april-20-21/)*
+- Moya Brennan, a legendary Irish singer, has died at the age of 73. *[ARY](https://arynews.tv/moya-brennan-legendary-irish-singer-dies-at-73/)*
+- Vijay Varma addressed reports of his split with Tamannaah Bhatia. *[ARY](https://arynews.tv/vijay-varma-addresses-split-with-tamannaah-bhatia/)*
+- Kylie Jenner supports Kendall Jenner’s potential relationship with Jacob Elordi. *[ARY](https://arynews.tv/kylie-jenner-supports-kendalls-love-life/)*
+- An Iranian rial smuggling network has been exposed in Karachi, with arrests made and key revelations during interrogation. *[ARY](https://arynews.tv/iranian-rial-smuggling-network-exposed-in-karachi/)*
+- Oil prices fell for a second day on expectations of resumed US-Iran talks. *[ARY](https://arynews.tv/oil-prices-fall-for-2nd-day-on-expectations-us-iran-talks-resumption/)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/oil-prices-fall-for-a-second-day-on-expectations-us-iran-talks-may-resume/)*
+- The weather report for Karachi and Hyderabad. *[Business Recorder](https://www.brecorder.com/news/40416413/the-weather)*
+- A procedural flaw has been identified in a Rs880 million income tax case, leading to the recall of an ATIR order. *[Business Recorder](https://www.brecorder.com/news/40416415/procedural-flaw-in-rs880m-it-case-atir-recalls-order-despite-reference-pending-before-lhc)*
+- Naval Chief emphasized unwavering defense of sovereignty and security. *[Business Recorder](https://www.brecorder.com/news/40416475/naval-chief-for-unwavering-defence-of-sovereignty-security)*
+- UK Finance Minister slams Trump’s Iran war ‘folly’. *[Business Recorder](https://www.brecorder.com/news/40416478/uk-finance-minister-slams-trumps-iran-war-folly)*
+- Highnoon Laboratories Limited shareholding pattern. *[Business Recorder](https://www.brecorder.com/news/40416414/highnoon-laboratories-limited)*
+- Azma heaps praise on Punjab govt performance. *[Business Recorder](https://www.brecorder.com/news/40416469/azma-heaps-praise-on-punjab-govt-performance)*
+- Dar for implementing PM’s austerity measures. *[Business Recorder](https://www.brecorder.com/news/40416470/dar-for-implementing-pms-austerity-measures)*
+- Minister marks Karachi Port dredging milestone. *[Business Recorder](https://www.brecorder.com/news/40416474/minister-marks-karachi-port-dredging-milestone)*
+- Lahore intensifies price checks, seven arrested. *[Business Recorder](https://www.brecorder.com/news/40416473/lahore-intensifies-price-checks-seven-arrested)*
+- War is over for Wall Street, while oil drags down bonds and gold. *[ARY](https://arynews.tv/markets-react-to-middle-east-conflict-dynamics/)*
+- Asian shares scale six-week peak on hopes for US-Iran peace talks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/15/asian-shares-scale-six-week-peak-on-hopes-for-us-iran-peace-talks/)*
+- Businesspeople urged to bring wealth back to Pakistan. *[Business Recorder](https://www.brecorder.com/news/40416476/businesspeople-urged-to-bring-wealth-back-to-pakistan)*
+- Islamabad Talks: PM takes President into confidence. *[Business Recorder](https://www.brecorder.com/news/40416477/islamabad-talks-pm-takes-president-into-confidence)*
+- SECP grants Buy Now Pay Later licence to Alibaba-owned Koko Tech Pakistan. *[Dawn](https://www.dawn.com/news/1991688/secp-grants-buy-now-pay-later-licence-to-alibaba-owned-koko-tech-pakistan)* & *[Business Recorder](https://www.brecorder.com/news/40416500/ksa-commits-3bn-in-additional-deposits-for-pakistan)*
 
