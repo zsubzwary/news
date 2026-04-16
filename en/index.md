@@ -4,82 +4,73 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 16-Apr-2026 09:02PKT
+Published at: 16-Apr-2026 21:02PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- Pakistan is considering buying LNG on the spot market to offset supply disruptions caused by the Iran war, but prefers government-to-government deals. *[Dawn](https://www.dawn.com/news/1992125/prolonged-iran-war-to-have-serious-consequences-warns-aurangzeb)*
-- Finance Minister Aurangzeb warns a prolonged Iran war would have serious financial consequences for Pakistan and the global economy. *[Dawn](https://www.dawn.com/news/1992125/prolonged-iran-war-to-have-serious-consequences-warns-aurangzeb)*
-- The IMF advises Pakistan to phase out fuel subsidies and broaden its tax base for medium-term economic sustainability. *[Dawn](https://www.dawn.com/news/1992116/imf-advises-pakistan-to-phase-out-fuel-subsidies-broaden-tax-base-for-medium-term-sustainability)*
-- Federal tax revenues may fall short by Rs800-1,000 billion in the current fiscal year. *[Business Recorder](https://www.brecorder.com/news/40416666/federal-tax-revenues-may-fall-up-to-rs1000bn-sacm-kp)*
-- Saudi Arabia will provide $3 billion in additional financial support to Pakistan. *[Business Recorder](https://www.brecorder.com/news/40416681/ksa-bolsters-pakistans-finances)*
-- Pakistan is considering requesting a $2-2.5 billion increase to its existing $7 billion IMF program. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-- UBL reported a record pre-tax profit exceeding Rs 100 billion in a single quarter. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/ubl-shatters-records-as-the-first-bank-ever-to-post-a-pre-tax-profit-exceeding-rs-100-billion-in-a-single-quarter/)*
-- PSDP spending reached Rs414.96 billion during July–March 2025–26, 45.5% of the revised budget. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-spends-rs414-billion-under-psdp-45-5-of-revised-budget-in-july-march/)*
-
-### Science & Technology
-- No relevant news in provided articles.
-
-### Weather
-- No relevant news in provided articles.
+- Pakistan recorded a current account surplus of $1.07 billion in March. *[Dawn](https://www.dawn.com/news/1992290/current-account-posts-surplus-of-107bn-in-march)*
+- The SBP confirmed receipt of $2 billion from Saudi Arabia. *[Dawn](https://www.dawn.com/news/1992225/pakistan-receives-2bn-from-saudi-arabia-state-bank)*
+- SNGPL seeks a 21% gas price hike, while SSGCL proposes up to a 286% increase including past shortfalls. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/sngpl-seeks-21-gas-price-hike-ssgcl-proposes-up-to-286-increase-including-past-shortfalls)*
+- The government raised Rs1.437 trillion in MTBs, Rs116.4 billion in hybrid sukuk, and Rs43 billion in PIBs auction. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/govt-raises-rs1-437-trillion-in-mtbs-rs116-4-billion-in-hybrid-sukuk-rs43-billion-in-pibs-auction)*
+- Pakistan is increasing furnace oil use and delaying nuclear plant maintenance due to LNG shortages. *[Business Recorder](https://www.brecorder.com/news/40416776/pakistan-ramps-up-furnace-oil-use-delays-nuclear-maintenance-amid-lng-shortages)*
+- The SBP-held foreign exchange reserves dropped by $1.32 billion to $15.08 billion. *[Business Recorder](https://www.brecorder.com/news/40416775/sbp-held-foreign-exchange-reserves-drop-by-132bn-to-1508bn)*
+- Pakistan’s REER index rose to a 7.5-year high in March 2026. *[Business Recorder](https://www.brecorder.com/news/40416769/pakistans-reer-index-rises-to-75-year-high-in-march-2026)*
+- Retailers warn of Rs100 billion weekly losses due to reduced shop timings. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/retailers-warn-of-rs100-billion-weekly-losses-after-reduced-shop-timings)*
 
 ### Politics
-- PM Shehbaz Sharif met with Saudi Crown Prince Mohammed bin Salman in Jeddah to discuss regional issues. *[Dawn](https://www.dawn.com/news/1991908/pm-shehbaz-meets-saudi-crown-prince-in-jeddah-dar-says-avenues-to-further-enhance-cooperation-discussed)*
-- President Zardari directed all possible efforts to minimize loadshedding across the country. *[Dawn](https://www.dawn.com/news/1992020/president-zardari-directs-all-possible-efforts-be-made-to-minimise-loadshedding-across-country)*
-- PTI Secretary General Salman Akram Raja reiterated his offer to resign from his position. *[Dawn](https://www.dawn.com/news/1992120/pti-secretary-general-offers-his-resignation-again)*
-- Mayor Wahab of Karachi warned printing presses publishing banners critical of the city’s governance, threatening to shut them down. *[Dawn](https://www.dawn.com/news/1992067/irked-by-ji-banners-on-civic-woes-mayor-wahab-warns-printing-presses-of-shutdown)*
-- Donald Trump’s son, Eric, will accompany him on his upcoming visit to China. *[Dawn](https://www.dawn.com/news/1992126/trumps-son-to-accompany-him-on-visit-to-china)*
-- Keir Starmer stated he will not yield to pressure from Trump regarding the Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40416694/starmer-says-wont-yield-to-trumps-mideast-war-threats)*
-
-### National
-- Field Marshal Asim Munir visited Iran as part of ongoing mediation efforts between the US and Iran. *[Dawn](https://www.dawn.com/news/1991972/cdf-munir-visits-iran-alongside-delegation-as-part-of-mediation-efforts-holds-meeting-with-fm-araghchi)*
-- Three security personnel were killed in attacks on polio teams in Khyber Pakhtunkhwa and Balochistan. *[Dawn](https://www.dawn.com/news/1992119/attacks-on-security-men-escorting-polio-teams-slammed)*
-- Five coal miners were killed in separate accidents in Balochistan. *[Dawn](https://www.dawn.com/news/1992128/five-miners-killed-in-duki-coalfield-accidents)*
-- Three people were killed and others injured after mortar shells were fired from across the Afghan border into Bajaur. *[Dawn](https://www.dawn.com/news/1992026/3-killed-in-kps-bajaur-as-mortar-shells-fired-from-across-afghan-border-security-sources)*
-- The government apologized for excessive loadshedding, blaming it on reduced hydropower availability. *[Dawn](https://www.dawn.com/news/1991961/govt-apologises-for-excessive-loadshedding-blames-it-on-reduced-hydropower-availability)*
-- A man died from rabies in Karachi after being bitten by his own dog a month prior, highlighting gaps in dog bite management. *[Dawn](https://www.dawn.com/news/1992066/man-bitten-by-his-own-dog-month-ago-dies-from-rabies-in-karachi)*
+- PM Shehbaz Sharif met with Qatar’s Emir and stressed the importance of de-escalation and dialogue amid the regional situation. *[Dawn](https://www.dawn.com/news/1992240/pm-shehbaz-meets-qatar-emir-stresses-importance-of-de-escalation-dialogue-amid-regional-situation)*
+- The Punjab Assembly unanimously adopted a resolution recommending the Nobel Peace Prize for PM Shehbaz Sharif and CDF Munir. *[Dawn](https://www.dawn.com/news/1992303/punjab-assembly-unanimously-adopts-resolution-recommending-nobel-peace-prize-for-pm-cdf-munir)*
+- The ECP directed MQM-P to hold intra-party elections by October 15. *[Dawn](https://www.dawn.com/news/1992273/ecp-directs-mqm-p-to-hold-intra-party-elections-by-october-15)*
+- India’s government is seeking to expand parliament to increase women’s representation, facing opposition criticism. *[Dawn](https://www.dawn.com/news/1992286/india-plans-parliament-expansion-for-women-opposition-cries-foul)* & *[Business Recorder](https://www.brecorder.com/news/40416772/indias-modi-pushes-for-more-women-in-bigger-parliament-in-democratic-overhaul)*
 
 ### International
-- Eleven nations urged support for states facing fallout from the Middle East war. *[Dawn](https://www.dawn.com/news/1992134/11-nations-urge-support-for-states-facing-middle-east-war-fallout)*
-- The US is optimistic about reaching a deal in a second round of talks with Iran, potentially hosted in Pakistan. *[Dawn](https://www.dawn.com/news/1992135/pakistan-ramps-up-shuttle-diplomacy-with-pm-in-saudi-arabia-cdf-in-tehran)*
-- Israel killed three paramedics in Lebanon amid truce talks. *[Dawn](https://www.dawn.com/news/1992129/amid-lebanon-truce-talks-israel-kills-3-paramedics)*
-- A school shooting in Turkey killed nine and wounded thirteen, the second such incident in two days. *[Dawn](https://www.dawn.com/news/1991984/nine-killed-13-wounded-after-school-shooting-in-turkiyes-second-school-shooting-in-2-days)*
-- The US military says a strike in the Eastern Pacific killed three people. *[Business Recorder](https://www.brecorder.com/news/40416705/us-military-says-its-strike-in-eastern-pacific-killed-3)*
-- Sri Lanka repatriated 238 stranded Iranian sailors. *[Business Recorder](https://www.brecorder.com/news/40416675/sri-lanka-repatriates-238-stranded-iranian-sailors)*
+- No date has been set for the second round of US-Iran talks. *[Dawn](https://www.dawn.com/news/1992276/no-date-set-for-second-round-of-us-iran-talks-fo-says)*
+- Security arrangements in Islamabad are heightened amid speculation about potential US-Iran talks. *[Dawn](https://www.dawn.com/news/1992308/security-arrangements-in-islamabad-in-overdrive-amid-possible-2nd-round-of-us-iran-talks)*
+- Turkiye has launched an internet crackdown following school shootings. *[Dawn](https://www.dawn.com/news/1992280/turkiye-launches-internet-crackdown-ahead-of-funerals-for-shooting-victims)*
+- Outpouring of emotion as Turkiye buries school shooting victims. *[Dawn](https://www.dawn.com/news/1992324/outpouring-of-emotion-as-turkiye-buries-school-shooting-victims)*
+- Israel’s Netanyahu is expected to speak with Lebanon’s leader. *[Business Recorder](https://www.brecorder.com/news/40416759/israel-minister-says-netanyahu-to-talk-to-lebanon-leader-thursday)*
+- The IMF warns of Asia’s vulnerability to an energy shock induced by the war. *[Business Recorder](https://www.brecorder.com/news/40416762/imf-warns-of-asias-vulnerability-to-war-induced-energy-shock)*
 
-### Sports
-- Peshawar Zalmi defeated Quetta Gladiators in a PSL match, led by Babar Azam’s unbeaten fifty. *[ARY](https://arynews.tv/peshawar-zalmi-vs-quetta-gladiators-match/)*
-- Royal Challengers Bengaluru defeated Lucknow Super Giants in the IPL, with strong performances from Virat Kohli and Rasikh Dar. *[Business Recorder](https://www.brecorder.com/news/40416707/kohli-and-dar-shine-as-bengaluru-ease-past-lucknow-in-ipl)*
+### National
+- A man was rescued alive 16 days after a mine collapse in KP’s Mardan. *[Dawn](https://www.dawn.com/news/1992304/man-buried-under-rubble-rescued-alive-16-days-after-mine-collapse-in-kps-mardan)*
+- AJK police arrested a suspected RAW agent in Rawalakot. *[Dawn](https://www.dawn.com/news/1992279/ajk-police-arrest-suspected-raw-agent-in-rawalakot)* & *[ARY](https://arynews.tv/raw-operative-arrested-in-ajks-rawalakot)*
+- Islamabad administration revised business timings, extending restrictions to bakeries and sports facilities. *[Dawn](https://www.dawn.com/news/1992333/islamabad-administration-revises-business-timings-extends-restrictions-to-bakeries-and-sports-facilities)*
+- IHC expressed displeasure over tree cutting in Islamabad despite previous orders. *[Dawn](https://www.dawn.com/news/1992293/ihc-expresses-displeasure-over-cutting-of-trees-in-islamabad-in-violation-of-previous-orders)*
+- FCC directed CDA to formulate rules regularising Islamabad’s informal settlements. *[Dawn](https://www.dawn.com/news/1992289/fcc-directs-cda-to-formulate-rules-regularising-islamabads-informal-settlements)*
 
 ### Health
-- No significant health news beyond the rabies death mentioned in the National section.
+- An HIV outbreak among children in Taunsa remains unaddressed, with reports of unsafe practices in the local hospital. *[Dawn](https://www.dawn.com/news/1992138/in-unsafe-hands)*
+- Gaza’s war amputees are facing shortages of prostheses due to Israeli restrictions. *[Dawn](https://www.dawn.com/news/1992292/gazas-war-amputees-short-of-prostheses-under-israeli-restrictions)*
+
+### Sports
+- Pakistan Navy successfully test-fired a locally developed anti-ship ballistic missile. *[Dawn](https://www.dawn.com/news/1992261/pakistan-navy-successfully-test-fires-locally-developed-anti-ship-ballistic-missile-ispr)*
+- Hyderabad Kingsmen extended their winning streak with a five-wicket win over RawalPindiz. *[ARY](https://arynews.tv/hyderabad-kingsmen-vs-rawalpindiz-match-result)*
+- France to complete World Cup warm-ups against Northern Ireland on June 8. *[ARY](https://arynews.tv/france-to-complete-world-cup-warm-ups-against-northern-ireland-on-june-8)*
+- Joy Harmon, Cool Hand Luke star, dies at 87. *[ARY](https://arynews.tv/joy-harmon-cool-hand-luke-star-dies-at-87)*
+- Cristiano Ronaldo threw up after Al-Nassr match due to fatigue. *[ARY](https://arynews.tv/fatigued-ronaldo-threw-up-after-al-nassr-match-coach-says)*
+
+### Science & Technology
+- Spaceballs trailer drops packed with Star Wars and Avatar parodies. *[ARY](https://arynews.tv/spaceballs-trailer-unveils-rick-moranis-return)*
+- Spielberg teases new alien film as ‘more truth than fiction’. *[ARY](https://arynews.tv/disclosure-day-spielberg-teases-new-alien-film-as-more-truth-than-fiction)*
+- Street Fighter 2026 reveals high-octane trailer at CinemaCon debut. *[ARY](https://arynews.tv/street-fighter-2026)*
 
 ### Other
-- Indonesia will require food companies to apply colour-graded labels indicating sugar, fat, and salt content. *[ARY](https://arynews.tv/indonesia-orders-food-companies-to-apply-colour-graded-sugar-fat-content-stickers/)*
-- Tom Cruise and Nicole Kidman reportedly avoided each other at a recent star event. *[ARY](https://arynews.tv/tom-cruise-nicole-kidman-avoid-each-other-at-star-event/)*
-- Actress Khadija Saleem discussed her nervousness about appearing on screen in the new drama serial *Mahnoor*. *[ARY](https://arynews.tv/i-get-nervous-seeing-myself-on-screen-says-mahnoor-actress-khadija-saleem/)*
-- A bar association is calling a meeting to discuss the sentencing of lawyer Imaan Zainab Mazari-Hazir and her husband. *[Dawn](https://www.dawn.com/news/1991953/bar-association-calls-meeting-after-400-lawyers-demand-urgent-hearing-of-imaan-hadis-sentence-suspension-pleas)*
-- Iran offered a proposal allowing ships to exit the Oman side of the Strait of Hormuz without attack. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/iran-offers-proposal-allowing-ships-to-exit-oman-side-of-hormuz-free-of-attack-source-says/)*
-- Leaders are flocking to China amid the Middle East war. *[Business Recorder](https://www.brecorder.com/news/40416676/leaders-flock-to-china-over-me-war)*
-- The World Bank announced a water security plan for one billion people. *[Business Recorder](https://www.brecorder.com/news/40416695/world-bank-announces-water-security-plan-for-one-billion-people)*
-- Oil prices fell as hopes for a US-Iran deal outweighed supply disruption concerns. *[Business Recorder](https://www.brecorder.com/news/40416701/oil-prices-fall-as-hopes-for-us-iran-deal-outweigh-supply-disruption-concerns)*
-- Asia markets advanced on peace deal hopes and corporate earnings. *[Business Recorder](https://www.brecorder.com/news/40416700/asia-markets-advance-on-peace-deal-hopes-corporate-earnings)*
-- The dollar hangs near six-week lows as investors bet on a US-Iran peace deal. *[Business Recorder](https://www.brecorder.com/news/40416702/dollar-hangs-near-six-week-lows-as-investors-bet-on-iran-peace-deal)*
-- Indian shares are set to extend their rally on peace deal hopes and lower oil prices. *[Business Recorder](https://www.brecorder.com/news/40416703/indian-shares-set-to-extend-rally-on-us-iran-peace-deal-hopes-lower-oil)*
-- Iran can withstand a complete halt in oil exports for up to two months before cutting output. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/iran-can-go-up-to-two-months-without-oil-exports-before-cutting-output-analysts-say/)*
-- APTMA urges cut in import container scanning charges to support exports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/aptma-urges-cut-in-import-container-scanning-charges-to-support-exports/)*
-- Punjab plans cut in traffic fines to ease burden on citizens. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/punjab-plans-cut-in-traffic-fines-to-ease-burden-on-citizens/)*
-- Pakistan faces a 6,500MW power shortfall, with outages lasting up to 16 hours. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-faces-6500mw-power-shortfall-outages-hit-up-to-16-hours/)*
-- The FCC was informed that Section 7E of the Income Tax Ordinance is unconstitutional. *[Business Recorder](https://www.brecorder.com/news/40416672/sec-7e-of-income-tax-levy-of-tax-on-deemed-income-unconstitutional-fcc-told)*
-- Japan’s easing of arms export rules is attracting interest from several countries. *[ARY](https://arynews.tv/us-allies-eye-japans-biggest-arms-opening-since-ww2/)*
-- U.S. Senate Republicans blocked a bid to rein in Trump’s Iran war powers. *[ARY](https://arynews.tv/u-s-senate-republicans-block-latest-bid-to-rein-in-trump-iran-war-powers/)*
-- The BBC is set to cut up to 2,000 jobs due to financial pressures. *[Business Recorder](https://www.brecorder.com/news/40416673/bbc-to-cut-up-to-2000-jobs-under-financial-pressures)*
-- Islamabad will host the first EU–Pakistan Business Forum under the €400 billion Global Gateway push. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/islamabad-to-host-first-eu-pakistan-business-forum-under-e400-billion-global-gateway-push/)*
-- Pakistan weighs spot LNG purchases amid Iran war disruptions. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-weighs-spot-lng-as-iran-war-hits-supply-ramps-up-domestic-oil-and-gas/)*
-- OGDCL makes the largest-ever oil and gas discovery at a single well in Khyber Pakhtunkhwa. *[Business Recorder](https://www.brecorder.com/news/40416669/baragzai-x-01-slant-well-kp-ogdcl-makes-largest-ever-oil-gas-discovery-at-single-well)*
-- Israel prevents Lebanese from burying their dead in ancestral lands due to ongoing attacks. *[ARY](https://arynews.tv/israeli-attacks-prevent-lebanese-from-burying-their-dead-in-ancestral-lands/)*
-- The White House denies requesting a ceasefire in the Iran war. *[ARY](https://arynews.tv/white-house-denies-u-s-requested-ceasefire-says-new-talks-may-happen-in-pakistan/)*
-- KSA bolsters Pakistan’s finances. *[Business Recorder](https://www.brecorder.com/news/40416681/ksa-bolsters-pakistans-finances)*
-- PM Shehbaz Sharif arrives in Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40416678/pm-arrives-in-saudi-arabia)*
+- Fiza Ali apologises over a viral clip, then deletes the post. *[ARY](https://arynews.tv/fiza-ali-apologises-over-viral-clip-then-deletes-post)*
+- Packages Group and AkzoNobel are set to sign a deal after months of negotiations. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/after-months-of-brinkmanship-and-one-collapse-packages-group-and-akzonobel-set-to-sign-a-deal/)*
+- Customs issues directives to improve salt export packaging. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/customs-issues-directives-to-improve-salt-export-packaging-avoid-shipment-delays)*
+- Nation’s Bank welcomes Shahid Afridi as Sports Consultant. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/nations-bank-proudly-welcomes-shahid-afridi-as-sports-consultant/)*
+- Mitchells offers unsubscribed shares to CCL Holdings after right issue. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/mitchells-offers-567531-unsubscribed-shares-to-ccl-holdings-after-rs500-million-right-issue/)*
+- Supreme Court directs PIA to pay 24 years pension to retired employee. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/supreme-court-directs-pia-to-pay-24-years-pension-to-retired-employee/)*
+- India could limit sulphur exports as supplies tighten. *[Business Recorder](https://www.brecorder.com/news/40416754/india-could-limit-sulphur-exports-as-supplies-tighten-sources-say)*
+- EU spells out how Google must share data with rivals. *[Business Recorder](https://www.brecorder.com/news/40416765/eu-spells-out-how-google-must-share-data-with-rivals)*
+- Aluminium hits four-year high on Middle East supply worries. *[Business Recorder](https://www.brecorder.com/news/40416767/aluminium-hits-four-year-high-on-middle-east-supply-worries)*
+- India’s RBI asks state oil refiners to curb spot dollar buying. *[Business Recorder](https://www.brecorder.com/news/40416777/indias-rbi-asks-state-oil-refiners-to-curb-spot-dollar-buying-sources-say)*
+- Sri Lankan shares end higher on gains across sectors. *[Business Recorder](https://www.brecorder.com/news/40416760/sri-lankan-shares-end-higher-on-gains-across-sectors)*
+- Indian bonds decline as focus stays on US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40416758/indian-bonds-decline-as-focus-stays-on-us-iran-peace-talks-debt-sale)*
+- Asia rice: India export rates steady, Vietnamese prices tick up. *[Business Recorder](https://www.brecorder.com/news/40416757/asia-rice-india-export-rates-steady-vietnamese-prices-tick-up-post-harvest-season)*
+- Saudi Riyal to Pakistani Rupee Rate Today – April 16, 2026. *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-april-16-2026)*
+- US forces ready to restart combat if Iran doesn’t agree a deal. *[Business Recorder](https://www.brecorder.com/news/40416764/us-forces-ready-to-restart-combat-if-iran-doesnt-agree-a-deal-says-hegseth)*
+- Most Gulf bourses rise as investors eye possible Iran war deal. *[Business Recorder](https://www.brecorder.com/news/40416770/most-gulf-bourses-rise-as-investors-eye-possible-iran-war-deal)*
+- S&P 500, Nasdaq retreat as rally momentum begins to fade. *[Business Recorder](https://www.brecorder.com/news/40416778/sampp-500-nasdaq-retreat-as-rally-momentum-begins-to-fade)*
 
