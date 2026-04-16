@@ -7,131 +7,79 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 16-Apr-2026 09:08PKT 
+ &lrm; 16-Apr-2026 21:06PKT 
 
-پڑھنے کا وقت : 14 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-* پاکستان کی مالی صورتحال بگڑنے کا خدشہ، ایران جنگ طویل ہوئی تو معاشی نتائج سنگین ہوں گے ۔ *[Dawn](https://www.dawn.com/news/1992125/prolonged-iran-war-to-have-serious-consequences-warns-aurangzeb)*
-* آئی ایم ایف نے پاکستان کو ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے کی تجویز دی ہے۔ *[Dawn](https://www.dawn.com/news/1992116/imf-advises-pakistan-to-phase-out-fuel-subsidies-broaden-tax-base-for-medium-term-sustainability)*
-* سعودی عرب پاکستان کو مالی تعاون بڑھانے کے لیے تیار ہے، 3 ارب ڈالر کی اضافی رقم فراہم کرے گا۔ *[Dawn](https://www.dawn.com/news/1991908/pm-shehbaz-meets-saudi-crown-prince-in-jeddah-dar-says-avenues-to-further-enhance-cooperation-discussed)*
-* پاکستان ایل این جی کی سپلائی میں خلل کی صورت میں اسپاٹ مارکیٹ سے ایل این جی خریدنے پر غور کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/1992034/pakistan-considering-buying-lng-on-spot-market-to-offset-supply-disruptions-caused-by-iran-war-petroleum-minister)*
-* او جی ڈی سی ایل نے خیبر پختونخوا میں تیل اور گیس کی سب سے بڑی دریافت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416669/baragzai-x-01-slant-well-kp-ogdcl-makes-largest-ever-oil-gas-discovery-at-single-well)*
-* یو بی ایل نے ایک سہ ماہی میں 100 ارب روپے سے زیادہ کا قبل از ٹیکس منافع حاصل کر کے ریکارڈ قائم کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/ubl-shatters-records-as-the-first-bank-ever-to-post-a-pre-tax-profit-exceeding-rs-100-billion-in-a-single-quarter)*
+*   پاکستان نے مارچ میں 1.07 بلین ڈالر کی موجودہ اکاؤنٹ سرپلس ریکارڈ کی ہے۔ *[Dawn](https://www.dawn.com/news/1992290/current-account-posts-surplus-of-107bn-in-march)*
+*   سعودی عرب نے پاکستان کو 2 بلین ڈالر کی مالی معاونت فراہم کی ہے۔ *[Dawn](https://www.dawn.com/news/1992225/pakistan-receives-2bn-from-saudi-arabia-state-bank)*
+*   آئی ایم ایف نے پاکستان کی اقتصادی اصلاحات پر پیش رفت اور میکرو اکنامک استحکام کو سراہا۔ *[Dawn](https://www.dawn.com/news/1992252/imf-managing-director-meets-aurangzeb-hails-pakistans-reform-progress-macroeconomic-stability)*
+*   فرنس آئل کے استعمال میں اضافہ اور جوہری بجلی گھروں کے مرمت میں تاخیر، ایل این جی کی قلت کے باعث۔ *[Business Recorder](https://www.brecorder.com/news/40416776/pakistan-ramps-up-furnace-oil-use-delays-nuclear-maintenance-amid-lng-shortages)*
+*   ایس اینڈ پی 500 اور ناسداک میں کمی، ایران جنگ کے معاہدے کی امیدوں کے باوجود۔ *[Business Recorder](https://www.brecorder.com/news/40416778/sampp-500-nasdaq-retreat-as-rally-momentum-begins-to-fade)*
+*   پاکستان کے ریئل افعالاتی تبادلہ شرح (REER) میں مارچ 2026 میں 7.5 سال کی ریکارڈ بلندی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40416769/pakistans-reer-index-rises-to-75-year-high-in-march-2026)*
+*   حکومت نے چھوٹے کسانوں کے لیے توانائی کے بڑھتے ہوئے اخراجات کے خلاف سبسڈی کا آغاز کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/govt-launches-subsidy-for-small-farmers-amid-energy-cost-pressures/)*
+*   SNGPL نے گیس کی قیمتوں میں 21 فیصد اضافہ کی درخواست کی، SSGCL نے پچھلی کمیوں سمیت 286 فیصد تک اضافہ تجویز کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/sngpl-seeks-21-gas-price-hike-ssgcl-proposes-up-to-286-increase-including-past-shortfalls/)*
 
 ## سائنس اور ٹیکنالوجی
 
-* کوئی خبر دستیاب نہیں
+*   اسٹریٹ فائٹر 2026 کا ٹریلر سینماکان میں پیش کیا گیا۔ *[ARY](https://arynews.tv/street-fighter-2026)*
+*   Spaceballs کا ٹریلر جاری، جو Star Wars اور Avatar کے پیروڈی سے بھرا ہے۔ *[ARY](https://arynews.tv/spaceballs-trailer-unveils-rick-moranis-return)*
+*   اسپیلبرگ نے اپنی نئی فلم "Disclosure Day" کے بارے میں بتایا، جو کہ حقیقت سے زیادہ سچ ہے۔ *[ARY](https://arynews.tv/disclosure-day-spielberg-teases-new-alien-film-as-more-truth-than-fiction)*
+*   یوروپی کمیشن نے گوگل کو اپنے حریفوں کے ساتھ ڈیٹا شیئر کرنے کے طریقے بیان کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416765/eu-spells-out-how-google-must-share-data-with-rivals)*
 
 ## موسم
 
-* کوئی خبر دستیاب نہیں
+*(اس خبروں میں موسم کے بارے میں کوئی معلومات نہیں ہے)*
 
 ## سیاست
 
-* وزیراعظم شہباز شریف نے سعودی ولی عہد سے ملاقات کی اور علاقائی صورتحال پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1991908/pm-shehbaz-meets-saudi-crown-prince-in-jeddah-dar-says-avenues-to-further-enhance-cooperation-discussed)*
-* پی ٹی آئی کے سیکرٹری جنرل سلمان اکرم راجہ نے دوبارہ استعفیٰ پیش کردیا۔ *[Dawn](https://www.dawn.com/news/1992120/pti-secretary-general-offers-his-resignation-again)*
-* صدر زرداری نے ملک میں لوڈ شیڈنگ کم کرنے کے لیے تمام ممکنہ اقدامات کرنے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/1992020/president-zardari-directs-all-possible-efforts-be-made-to-minimise-loadshedding-across-country)*
-* میئر واہب نے جی آئی کے بینرز پر برہمی کا اظہار کرتے ہوئے پرنٹنگ پریسز کو بند کرنے کی دھمکی دی۔ *[Dawn](https://www.dawn.com/news/1992067/irked-by-ji-banners-on-civic-woes-mayor-wahab-warns-printing-presses-of-shutdown)*
-* امریکہ کے صدر ٹرمپ کے بیٹے اگلے ماہ چین کے دورے پر ان کے ساتھ ہوں گے۔ *[Dawn](https://www.dawn.com/news/1992126/trumps-son-to-accompany-him-on-visit-to-china)*
+*   وزیراعظم شہباز شریف نے قطر کے امیر سے ملاقات کی، علاقائی صورتحال کے درمیان کشیدگی کم کرنے اور مذاکرات کی اہمیت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1992240/pm-shehbaz-meets-qatar-emir-stresses-importance-of-de-escalation-dialogue-amid-regional-situation)*
+*   پنجاب اسمبلی نے وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز (CDF) جنرل منیر کو نوبل امن انعام دینے کی سفارش کرنے والا متفقہ قرارداد منظور کی۔ *[Dawn](https://www.dawn.com/news/1992303/punjab-assembly-unanimously-adopts-resolution-recommending-nobel-peace-prize-for-pm-cdf-munir)*
+*   ای سی پی نے ایم کیو ایم پی کو 15 اکتوبر تک پارٹی انتخابات منعقد کرنے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/1992273/ecp-directs-mqm-p-to-hold-intra-party-elections-by-october-15)*
+*   بھارت میں خواتین کے لیے پارلیمنٹ کے سائز میں توسیع کی تجویز، اپوزیشن نے احتجاج کیا۔ *[Dawn](https://www.dawn.com/news/1992286/india-plans-parliament-expansion-for-women-opposition-cries-foul)*
+*   بھارت کی آر بی آئی نے ریاستی تیل کمپنیوں کو ڈالر کی سپاٹ خریداری کو کم کرنے کو کہا۔ *[Business Recorder](https://www.brecorder.com/news/40416777/indias-rbi-asks-state-oil-refiners-to-curb-spot-dollar-buying-sources-say)*
+*   بھارت کی حکومت پارلیمنٹ میں خواتین کی نمائندگی بڑھانے کے لیے جمہوری اصلاحات کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416772/indias-modi-pushes-for-more-women-in-bigger-parliament-in-democratic-overhaul)*
 
 ## قومی
 
-* بلوچستان میں ماہنامہ مصنوعات پر ٹیکس چھوٹ کی تجویز پیش کی گئی۔ *[Dawn](https://www.dawn.com/news/1992114/tax-relief-on-menstrual-products-proposed-in-balochistan)*
-* کراچی میں کتے کے کاٹنے سے متاثرہ شخص رابییز سے انتقال کر گیا۔ *[Dawn](https://www.dawn.com/news/1992066/man-bitten-by-his-own-dog-month-ago-dies-from-rabies-in-karachi)*
-* پولیو ٹیمز کو سکیورٹی فراہم کرنے والے اہلکاروں پر حملوں کی مذمت کی گئی۔ *[Dawn](https://www.dawn.com/news/1992119/attacks-on-security-men-escorting-polio-teams-slammed)*
-* کوہاٹ میں کوئلے کی کان میں حادثہ، پانچ کان کن ہلاک ہوگئے۔ *[Dawn](https://www.dawn.com/news/1992128/five-miners-killed-in-duki-coalfield-accidents)*
-* باجوڑ میں افغان سرحد سے فائرنگ، تین افراد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1992026/3-killed-in-kps-bajaur-as-mortar-shells-fired-from-across-afghan-border-security-sources)*
-* لوڈ شیڈنگ کے باعث شہریوں پر بوجھ کم کرنے کے لیے پنجاب حکومت ٹریفک فائنز میں کمی کرنے پر غور کر رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/punjab-plans-cut-in-traffic-fines-to-ease-burden-on-citizens/)*
-* پاکستان میں بجلی کی کمی 6500 میگاواٹ تک پہنچ گئی، لوڈ شیڈنگ 16 گھنٹے تک جاری ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-faces-6500mw-power-shortfall-outages-hit-up-to-16-hours/)*
+*   خیبر پختونخوا کے مردان میں کان میں دبے شخص کو 16 روز بعد زندہ بچالیا گیا۔ *[Dawn](https://www.dawn.com/news/1992304/man-buried-under-rubble-rescued-alive-16-days-after-mine-collapse-in-kps-mardan)*
+*   اسلام آباد انتظامیہ نے کاروباری اوقات کو نظر ثانی کیا، بیکریوں اور کھیلوں کی سہولیات پر پابندیاں بڑھائیں۔ *[Dawn](https://www.dawn.com/news/1992333/islamabad-administration-revises-business-timings-extends-restrictions-to-bakeries-and-sports-facilities)*
+*   اسلام آباد میں امریکی-ایرانی مذاکرات کے ممکنہ دوسرے دور کے پیش نظر سکیورٹی انتظامات سخت کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/1992308/security-arrangements-in-islamabad-in-overdrive-amid-possible-2nd-round-of-us-iran-talks)*
+*   آزاد جموں و کشمیر (اے جے کے) پولیس نے راولا کوٹ میں مبینہ بھارتی RAW ایجنٹ کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1992279/ajk-police-arrest-suspected-raw-agent-in-rawalakot)*
+*   تھل میں بچوں میں ایچ آئی وی کے پھیلاؤ کے کیسز پر کوئی خاطر خواہ توجہ نہ دی گئی۔ *[Dawn](https://www.dawn.com/news/1992138/in-unsafe-hands)*
+*   اسلام آباد ہائی کورٹ نے سابقہ احکامات کی خلاف ورزی کے باوجود اسلام آباد میں درختوں کی کٹائی پر برہمی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1992293/ihc-expresses-displeasure-over-cutting-of-trees-in-islamabad-in-violation-of-previous-orders)*
+*   فیڈرل کانسٹیٹوشنل کورٹ (ایف سی سی) نے اسلام آباد کی غیر رسمی بستیوں کو باقاعدہ کرنے کے لیے سی ڈی اے کو قواعد و ضوابط تیار کرنے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/1992289/fcc-directs-cda-to-formulate-rules-regularising-islamabads-informal-settlements)*
+*   پاکستان نیوی نے مقامی طور پر تیار کردہ اینٹی شپ بیلسٹک میزائل کی کامیاب آزمائش کی۔ *[Dawn](https://www.dawn.com/news/1992261/pakistan-navy-successfully-test-fires-locally-developed-anti-ship-ballistic-missile-ispr)*
+*   سندھ میں بجلی کی لوڈ شیڈنگ کے باعث حکومت نے معذرت عذر پیش کی۔ *[Dawn](https://www.dawn.com/news/1992295/power-minister-reiterates-govts-apology-for-power-cuts-arising-from-out-of-control-situation)*
 
 ## بین الاقوامی
 
-* ایران جنگ کے اثرات کے پیش نظر 11 ممالک نے متاثرہ ممالک کی حمایت کرنے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1992134/11-nations-urge-support-for-states-facing-middle-east-war-fallout)*
-* اسرائیل نے لبنان میں امدادی کارکنوں کو شہید کر دیا۔ *[Dawn](https://www.dawn.com/news/1992129/amid-lebanon-truce-talks-israel-kills-3-paramedics)*
-* ترکی میں اسکول پر حملہ، نو افراد ہلاک، 13 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1991984/nine-killed-13-wounded-after-school-shooting-in-turkiyes-second-school-shooting-in-2-days)*
-* امریکہ نے مشرقی بحرالکاہم میں ایک حملے میں تین افراد کو ہلاک کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416705/us-military-says-its-strike-in-eastern-pacific-killed-3)*
-* سری لنکا نے ایرانی بحری جہاز کے عملے کے 238 افراد کو وطن واپس بھیج دیا۔ *[Business Recorder](https://www.brecorder.com/news/40416675/sri-lanka-repatriates-238-stranded-iranian-sailors)*
+*   امریکہ اور ایران کے درمیان مذاکرات کا دوسرا دور ابھی تک طے نہیں ہوا۔ *[Dawn](https://www.dawn.com/news/1992276/no-date-set-for-second-round-of-us-iran-talks-fo-says)*
+*   ترکی میں اسکول شوٹنگ کے متاثرین کی تدفین کے موقع پر غم و غصے کا اظہار۔ *[Dawn](https://www.dawn.com/news/1992324/outpouring-of-emotion-as-turkiye-buries-school-shooting-victims)*
+*   ترکی نے اسکول شوٹنگ کے بعد سوشل میڈیا پر سخت پابندیاں لگائیں۔ *[Dawn](https://www.dawn.com/news/1992280/turkiye-launches-internet-crackdown-ahead-of-funerals-for-shooting-victims)*
+*   غزہ کے جنگ سے معذور افراد کو اسرائیلی پابندیوں کے باعث مصنوعی اعضاء کی قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/1992292/gazas-war-amputees-short-of-prostheses-under-israeli-restrictions)*
+*   اسرائیل کے وزیراعظم نتن یاہو جمعرات کو لبنانی صدر سے بات کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416759/israel-minister-says-netanyahu-to-talk-to-lebanon-leader-thursday)*
+*   آئی ایم ایف نے مشرق وسطیٰ میں جنگ کے باعث توانائی کی قیمتوں میں اضافے کے خطرے کے بارے میں خبردار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416762/imf-warns-of-asias-vulnerability-to-war-induced-energy-shock)*
 
 ## کھیل
 
-* پی ایس ایل میں پشاور زلمی نے کوئٹہ گلیڈی ایٹرز کو شکست دے دی۔ *[ARY](https://arynews.tv/peshawar-zalmi-vs-quetta-gladiators-match/)*
-* آئی پی ایل میں بنگلور نے لکھنؤ کو شکست دی۔ *[Business Recorder](https://www.brecorder.com/news/40416707/kohli-and-dar-shine-as-bengaluru-ease-past-lucknow-in-ipl)*
+*   فرانس ورلڈ کپ کی تیاری کے لیے شمالی آئرلینڈ کے ساتھ میچ کھیلے گا۔ *[ARY](https://arynews.tv/france-to-complete-world-cup-warm-ups-against-northern-ireland-on-june-8)*
+*   ہائدرآباد کنگز مین نے راولپنڈی کو پانچ وکٹوں سے شکست دے کر اپنی جیت کا سلسلہ جاری رکھا۔ *[ARY](https://arynews.tv/hyderabad-kingsmen-vs-rawalpindiz-match-result)*
+*   جائے ہارمون، "کول ہینڈ لک" کی اداکارہ 87 سال کی عمر میں انتقال کرگئیں۔ *[ARY](https://arynews.tv/joy-harmon-cool-hand-luke-star-dies-at-87)*
+*   رونالڈو ال نصر میچ کے بعد تھکاوٹ کے باعث قے کر گئے۔ *[ARY](https://arynews.tv/fatigued-ronaldo-threw-up-after-al-nassr-match-coach-says)*
 
 ## صحت
 
-* کوئی خبر دستیاب نہیں
+*(اس خبروں میں صحت کے بارے میں کوئی معلومات نہیں ہے)*
 
 ## دیگر
 
-* وزیراعظم شہباز شریف ایران اور امریکہ کے درمیان مذاکرات کے لیے پاکستان میں دوسرے دور کی میزبانی کرنے پر غور کر رہے ہیں۔ *[ARY](https://arynews.tv/pakistan-likely-to-host-next-round-of-us-iran-talks-white-house/)*
-* امریکہ نے پاکستان کو ایران اور امریکہ کے درمیان مذاکرات میں "اعجوبہ سفیر" قرار دیا۔ *[Dawn](https://www.dawn.com/news/1992135/pakistan-ramps-up-shuttle-diplomacy-with-pm-in-saudi-arabia-cdf-in-tehran)*
-* چیف آف ڈیفنس فورسز (سی ڈی ایف) عاصم منیر نے ایران کے دورے کے دوران ایرانی وزیر خارجہ عباس ارغچی سے ملاقات کی۔ *[Dawn](https://www.dawn.com/news/1991972/cdf-munir-visits-iran-alongside-delegation-as-part-of-mediation-efforts-holds-meeting-with-fm-araghchi)*
-* اداکارہ خدیجہ سلیم نے اپنی نئی ڈرامہ سیریل "مہ نور" کے بارے میں اپنے جذبات کا اظہار کیا۔ *[ARY](https://arynews.tv/i-get-nervous-seeing-myself-on-screen-says-mahnoor-actress-khadija-saleem/)*
-* انڈونیشیا نے کھانے پینے کی اشیا پر چینی اور چکنائی کی مقدار کے لحاظ سے رنگین لیبل لگانے کا حکم دیا۔ *[ARY](https://arynews.tv/indonesia-orders-food-companies-to-apply-colour-graded-sugar-fat-content-stickers/)*
-* ورلڈ بینک نے ایک ارب لوگوں کے لیے پانی کی حفاظت کا منصوبہ شروع کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416695/world-bank-announces-water-security-plan-for-one-billion-people)*
-* امریکہ نے ایران کے خلاف جنگ بندی کی درخواست نہیں کی، وائٹ ہاؤس نے کہا۔ *[ARY](https://arynews.tv/white-house-denies-u-s-requested-ceasefire-says-new-talks-may-happen-in-pakistan/)*
-* ایران نے بحیرہ عمان میں جہازوں کو محفوظ گزرنے کی پیشکش کی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/iran-offers-proposal-allowing-ships-to-exit-oman-side-of-hormuz-free-of-attack-source-says/)*
-* ایران کی جنگ نے امریکہ کو دوسری جنگ عظیم کے بعد پہلی بار خالص کروڑ برآمد کنندہ بننے کے قریب پہنچا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40416704/iran-war-brings-us-close-to-net-crude-exporter-for-first-time-since-world-war-two)*
-* پاکستان نے ایران جنگ کے باعث ایل این جی کی سپلائی متاثر ہونے پر اسپاٹ مارکیٹ سے ایل این جی خریدنے پر غور شروع کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-weighs-spot-lng-as-iran-war-hits-supply-ramps-up-domestic-oil-and-gas/)*
-* پاکستان کی جانب سے آئی ایم ایف کے 7 ارب ڈالر کے پروگرام میں 2 سے 2.5 ارب ڈالر کے اضافے کا امکان ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* صوبائی حکومتیں زرعی آمدنی پر ٹیکس لگائیں گی، وفاقی حکومت نہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416672/sec-7e-of-income-tax-levy-of-tax-on-deemed-income-unconstitutional-fcc-told)*
-* پاکستان کی جانب سے پی ایس ڈی پی کے تحت 414 ارب روپے خرچ کیے گئے، جو کہ نظر ثانی شدہ بجٹ کا 45.5 فیصد ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-spends-rs414-billion-under-psdp-45-5-of-revised-budget-in-july-march/)*
-* سعودی عرب نے پاکستان کو مالی تعاون بڑھانے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416681/ksa-bolsters-pakistans-finances)*
-* وزیراعظم شہباز شریف سعودی عرب پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40416678/pm-arrives-in-saudi-arabia)*
-* امریکہ کے صدر ٹرمپ نے ایران کے خلاف جنگ بندی کی صورت میں برطانیہ کے ساتھ تجارتی معاہدے کو ختم کرنے کی دھمکی دی۔ *[Business Recorder](https://www.brecorder.com/news/40416694/starmer-says-wont-yield-to-trumps-mideast-war-threats)*
-* ایشیائی مارکیٹوں میں امن معاہدے کی امید اور کارپوریٹ کمائی کے باعث تیزی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40416700/asia-markets-advance-on-peace-deal-hopes-corporate-earnings)*
-* پاکستان میں آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/iran-can-go-up-to-two-months-without-oil-exports-before-cutting-output-analysts-say/)*
-* ایران کے تیل کی برآمدات بند ہونے کی صورت میں ایران دو ماہ تک برداشت کر سکتا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/iran-can-go-up-to-two-months-without-oil-exports-before-cutting-output-analysts-say/)*
-* پاکستان میں پہلی یورپی یونین - پاکستان بزنس فورم کا انعقاد کیا جائے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/islamabad-to-host-first-eu-pakistan-business-forum-under-e400-billion-global-gateway-push/)*
-* اے پی ٹی ایم اے نے برآمدات کی مدد کے لیے درآمدی کنٹینر اسکیننگ چارجز میں کمی کا مطالبہ کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/aptma-urges-cut-in-import-container-scanning-charges-to-support-exports/)*
-* پاکستان میں مالی سال 2025-26 کے دوران پی ایس ڈی پی کے تحت 414.96 ارب روپے خرچ کیے گئے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-spends-rs414-billion-under-psdp-45-5-of-revised-budget-in-july-march/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-weighs-spot-lng-as-iran-war-hits-supply-ramps-up-domestic-oil-and-gas/)*
-* پاکستان نے ایران جنگ کے باعث ایل این جی کی سپلائی متاثر ہونے پر اسپاٹ مارکیٹ سے ایل این جی خریدنے پر غور شروع کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-weighs-spot-lng-as-iran-war-hits-supply-ramps-up-domestic-oil-and-gas/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-billion-imf-programme-report/)*
-* پاکستان کی جانب سے آئی ایم ایف کے ساتھ مذاکرات کے دوران ایندھن سبسڈی ختم کرنے اور ٹیکس نیٹ ورک وسیع کرنے پر اتفاق رائے ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/pakistan-to-seek-2-2-5-billion-increase-in-7-
+*   نیشنز بینک نے شاہد آفریدی کو کھیلوں کے مشیر کے طور پر نامزد کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/nations-bank-proudly-welcomes-shahid-afridi-as-sports-consultant/)*
+*   پیکیجز گروپ اور اکزو نوبل کے درمیان معاہدہ طے پا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/after-months-of-brinkmanship-and-one-collapse-packages-group-and-akzonobel-set-to-sign-a-deal/)*
+*   کسٹمز نے نمک کے برآمدات کی پیکیجنگ کو بہتر بنانے کے لیے ہدایات جاری کیں تاکہ کھیپ میں تاخیر سے بچا جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/customs-issues-directives-to-improve-salt-export-packaging-avoid-shipment-delays/)*
+*   یوروپی یونین نے کہا کہ جی ایس پی + رسائی خودکار نہیں ہے، حقوق اور پی ای سی اے پر خدشات ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/eu-says-gsp-access-not-automatic-flags-concerns-on-rights-peca/)*
+*   سپریم کورٹ نے پی آئی اے کو ریٹائرڈ ملازم کو 24 سال کی پنشن ادا کرنے کی ہدایت کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/supreme-court-directs-pia-to-pay-24-years-pension-to-retired-employee/)*
+*   فزا علی نے وائرل کلپ پر معذرت خواہ، پھر پوسٹ ڈیلیٹ کر دی۔ *[ARY](https://arynews.tv/fiza-ali-apologises-over-viral-clip-then-deletes-post)*
 
