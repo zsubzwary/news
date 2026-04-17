@@ -7,79 +7,89 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 16-Apr-2026 21:06PKT 
+ &lrm; 17-Apr-2026 09:06PKT 
 
 پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-*   پاکستان نے مارچ میں 1.07 بلین ڈالر کی موجودہ اکاؤنٹ سرپلس ریکارڈ کی ہے۔ *[Dawn](https://www.dawn.com/news/1992290/current-account-posts-surplus-of-107bn-in-march)*
-*   سعودی عرب نے پاکستان کو 2 بلین ڈالر کی مالی معاونت فراہم کی ہے۔ *[Dawn](https://www.dawn.com/news/1992225/pakistan-receives-2bn-from-saudi-arabia-state-bank)*
-*   آئی ایم ایف نے پاکستان کی اقتصادی اصلاحات پر پیش رفت اور میکرو اکنامک استحکام کو سراہا۔ *[Dawn](https://www.dawn.com/news/1992252/imf-managing-director-meets-aurangzeb-hails-pakistans-reform-progress-macroeconomic-stability)*
-*   فرنس آئل کے استعمال میں اضافہ اور جوہری بجلی گھروں کے مرمت میں تاخیر، ایل این جی کی قلت کے باعث۔ *[Business Recorder](https://www.brecorder.com/news/40416776/pakistan-ramps-up-furnace-oil-use-delays-nuclear-maintenance-amid-lng-shortages)*
-*   ایس اینڈ پی 500 اور ناسداک میں کمی، ایران جنگ کے معاہدے کی امیدوں کے باوجود۔ *[Business Recorder](https://www.brecorder.com/news/40416778/sampp-500-nasdaq-retreat-as-rally-momentum-begins-to-fade)*
-*   پاکستان کے ریئل افعالاتی تبادلہ شرح (REER) میں مارچ 2026 میں 7.5 سال کی ریکارڈ بلندی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40416769/pakistans-reer-index-rises-to-75-year-high-in-march-2026)*
-*   حکومت نے چھوٹے کسانوں کے لیے توانائی کے بڑھتے ہوئے اخراجات کے خلاف سبسڈی کا آغاز کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/govt-launches-subsidy-for-small-farmers-amid-energy-cost-pressures/)*
-*   SNGPL نے گیس کی قیمتوں میں 21 فیصد اضافہ کی درخواست کی، SSGCL نے پچھلی کمیوں سمیت 286 فیصد تک اضافہ تجویز کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/sngpl-seeks-21-gas-price-hike-ssgcl-proposes-up-to-286-increase-including-past-shortfalls/)*
+- آٹو فنانسنگ میں مسلسل 16ویں مہینے میں اضافہ ہوا ہے، مارچ میں یہ 345.34 ارب روپے تک پہنچ گئی، جو کہ فروری میں 336 ارب روپے تھی۔ *[Dawn](https://www.dawn.com/news/1992446/auto-financing-rises-to-rs345bn)*
+- پاکستان کی معیشت کے لیے 4% کی نمو کا ہدف مقرر کیا گیا ہے، جبکہ مشرق وسطیٰ کے بحران کے باوجود عالمی سرمایا بازار میں واپسی کی منصوبہ بندی کی جا رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/finance-minister-targets-4-growth-plans-market-return-amid-middle-east-crisis)*
+- بینک اسلامی نے 5 ارب روپے مالیت کے شرعی طور پر مطابقت رکھنے والے سکوک (Sukuk) کے اجراء کی منظوری دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/bankislami-approves-rs5-billion-shariah-compliant-sukuk-issuance)*
+- فروری میں پاکستان کی فیکٹری آؤٹ پٹ میں سال بہ سال 6.45% کا اضافہ ہوا، جبکہ جولائی تا فروری کی مدت میں مجموعی طور پر 5.89% اضافہ ریکارڈ کیا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistans-factory-output-rises-6-45-yoy-in-february-2026-grows-5-89-in-8mfy26)*
+- پاکستان نے گلوبل میڈیم ٹرم نوٹ پروگرام شروع کیا ہے۔ *[ARY News](https://arynews.tv/finance-minister-confirms-launch-of-pakistans-global-medium-term-note-program)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   اسٹریٹ فائٹر 2026 کا ٹریلر سینماکان میں پیش کیا گیا۔ *[ARY](https://arynews.tv/street-fighter-2026)*
-*   Spaceballs کا ٹریلر جاری، جو Star Wars اور Avatar کے پیروڈی سے بھرا ہے۔ *[ARY](https://arynews.tv/spaceballs-trailer-unveils-rick-moranis-return)*
-*   اسپیلبرگ نے اپنی نئی فلم "Disclosure Day" کے بارے میں بتایا، جو کہ حقیقت سے زیادہ سچ ہے۔ *[ARY](https://arynews.tv/disclosure-day-spielberg-teases-new-alien-film-as-more-truth-than-fiction)*
-*   یوروپی کمیشن نے گوگل کو اپنے حریفوں کے ساتھ ڈیٹا شیئر کرنے کے طریقے بیان کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416765/eu-spells-out-how-google-must-share-data-with-rivals)*
+- کوئی خبر دستیاب نہیں۔
 
 ## موسم
 
-*(اس خبروں میں موسم کے بارے میں کوئی معلومات نہیں ہے)*
+- کوئی خبر دستیاب نہیں۔
 
 ## سیاست
 
-*   وزیراعظم شہباز شریف نے قطر کے امیر سے ملاقات کی، علاقائی صورتحال کے درمیان کشیدگی کم کرنے اور مذاکرات کی اہمیت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1992240/pm-shehbaz-meets-qatar-emir-stresses-importance-of-de-escalation-dialogue-amid-regional-situation)*
-*   پنجاب اسمبلی نے وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز (CDF) جنرل منیر کو نوبل امن انعام دینے کی سفارش کرنے والا متفقہ قرارداد منظور کی۔ *[Dawn](https://www.dawn.com/news/1992303/punjab-assembly-unanimously-adopts-resolution-recommending-nobel-peace-prize-for-pm-cdf-munir)*
-*   ای سی پی نے ایم کیو ایم پی کو 15 اکتوبر تک پارٹی انتخابات منعقد کرنے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/1992273/ecp-directs-mqm-p-to-hold-intra-party-elections-by-october-15)*
-*   بھارت میں خواتین کے لیے پارلیمنٹ کے سائز میں توسیع کی تجویز، اپوزیشن نے احتجاج کیا۔ *[Dawn](https://www.dawn.com/news/1992286/india-plans-parliament-expansion-for-women-opposition-cries-foul)*
-*   بھارت کی آر بی آئی نے ریاستی تیل کمپنیوں کو ڈالر کی سپاٹ خریداری کو کم کرنے کو کہا۔ *[Business Recorder](https://www.brecorder.com/news/40416777/indias-rbi-asks-state-oil-refiners-to-curb-spot-dollar-buying-sources-say)*
-*   بھارت کی حکومت پارلیمنٹ میں خواتین کی نمائندگی بڑھانے کے لیے جمہوری اصلاحات کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416772/indias-modi-pushes-for-more-women-in-bigger-parliament-in-democratic-overhaul)*
+- سابق صدر ٹرمپ نے ایران کے ساتھ معاہدہ حتمی ہونے کی صورت میں اسلام آباد کے دورے کا امکان ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/1992474/trump-hints-at-islamabad-trip-if-iran-deal-is-finalised)*
+- ڈیموکریٹس نے ایران جنگ کے معاملے پر پینٹاگون کے سربراہ پیٹ ہیگسیتھ کے خلاف استعفی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1992466/democrats-move-to-impeach-hegseth-over-iran-war)*
+- وزیراعظم شہباز شریف ترکی پہنچ گئے ہیں اور انہوں نے وزیر خارجہ فدان سے ملاقات کی ہے۔ *[Dawn](https://www.dawn.com/news/1992240/pm-shehbaz-arrives-in-turkiye-on-third-leg-of-tri-nation-tour-holds-meeting-with-fm-fidan)*
+- پنجاب اسمبلی نے وزیراعظم اور چیف آف ڈیفنس فورسز (سی ڈی ایف) عاصم منیر کو نوبل امن انعام دینے کی سفارش کرنے والا متفقہ قرارداد منظور کی ہے۔ *[Dawn](https://www.dawn.com/news/1992303/punjab-assembly-unanimously-adopts-resolution-recommending-nobel-peace-prize-for-pm-cdf-munir)*
 
 ## قومی
 
-*   خیبر پختونخوا کے مردان میں کان میں دبے شخص کو 16 روز بعد زندہ بچالیا گیا۔ *[Dawn](https://www.dawn.com/news/1992304/man-buried-under-rubble-rescued-alive-16-days-after-mine-collapse-in-kps-mardan)*
-*   اسلام آباد انتظامیہ نے کاروباری اوقات کو نظر ثانی کیا، بیکریوں اور کھیلوں کی سہولیات پر پابندیاں بڑھائیں۔ *[Dawn](https://www.dawn.com/news/1992333/islamabad-administration-revises-business-timings-extends-restrictions-to-bakeries-and-sports-facilities)*
-*   اسلام آباد میں امریکی-ایرانی مذاکرات کے ممکنہ دوسرے دور کے پیش نظر سکیورٹی انتظامات سخت کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/1992308/security-arrangements-in-islamabad-in-overdrive-amid-possible-2nd-round-of-us-iran-talks)*
-*   آزاد جموں و کشمیر (اے جے کے) پولیس نے راولا کوٹ میں مبینہ بھارتی RAW ایجنٹ کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1992279/ajk-police-arrest-suspected-raw-agent-in-rawalakot)*
-*   تھل میں بچوں میں ایچ آئی وی کے پھیلاؤ کے کیسز پر کوئی خاطر خواہ توجہ نہ دی گئی۔ *[Dawn](https://www.dawn.com/news/1992138/in-unsafe-hands)*
-*   اسلام آباد ہائی کورٹ نے سابقہ احکامات کی خلاف ورزی کے باوجود اسلام آباد میں درختوں کی کٹائی پر برہمی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1992293/ihc-expresses-displeasure-over-cutting-of-trees-in-islamabad-in-violation-of-previous-orders)*
-*   فیڈرل کانسٹیٹوشنل کورٹ (ایف سی سی) نے اسلام آباد کی غیر رسمی بستیوں کو باقاعدہ کرنے کے لیے سی ڈی اے کو قواعد و ضوابط تیار کرنے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/1992289/fcc-directs-cda-to-formulate-rules-regularising-islamabads-informal-settlements)*
-*   پاکستان نیوی نے مقامی طور پر تیار کردہ اینٹی شپ بیلسٹک میزائل کی کامیاب آزمائش کی۔ *[Dawn](https://www.dawn.com/news/1992261/pakistan-navy-successfully-test-fires-locally-developed-anti-ship-ballistic-missile-ispr)*
-*   سندھ میں بجلی کی لوڈ شیڈنگ کے باعث حکومت نے معذرت عذر پیش کی۔ *[Dawn](https://www.dawn.com/news/1992295/power-minister-reiterates-govts-apology-for-power-cuts-arising-from-out-of-control-situation)*
+- بجلی کی لوڈ شیڈنگ میں شدید اضافہ، وزیراعظم نے معذرت کی پیش کی، صورتحال قابو سے باہر ہونے کے باعث 6 سے 7 گھنٹے کی لوڈ شیڈنگ کا اعتراف۔ *[Dawn](https://www.dawn.com/news/1992471/govt-admits-up-to-seven-hours-of-power-outages)*
+- این اے کمیٹی نے موبائل فون پر زیادہ ٹیکسوں پر نظر ثانی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1992464/na-panel-seeks-review-of-high-taxes-on-mobile-phones)*
+- میڈیکل اور ڈینٹل کالجز ایڈمیشن ٹیسٹ (ایم ڈی سی اے ٹی) کے لیے نابالغ شناختی کارڈ کے نئے قانون پر والدین کا شدید احتجاج۔ *[Dawn](https://www.dawn.com/news/1992461/juvenile-id-rule-for-mdcat-leaves-parents-fuming)*
+- خیبر پختونخوا کے ہری پور میں گیس پائپ لائن میں آتشزدگی سے 8 افراد ہلاک اور 11 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1992380/8-killed-11-injured-as-gas-supply-line-catches-fire-in-kps-haripur)*
+- ماربل کی کان میں 16 روز بعد دبے ہوئے شخص کو زندہ بچالیا گیا۔ *[Dawn](https://www.dawn.com/news/1992304/man-buried-under-rubble-rescued-alive-16-days-after-mine-collapse-in-kps-mardan)*
+- اسلام آباد انتظامیہ نے کاروباری اوقات کو نظر ثانی کیا اور بیکریوں اور کھیلوں کی سہولیات پر بھی پابندیاں عائد کیں۔ *[Dawn](https://www.dawn.com/news/1992333/islamabad-administration-revises-business-timings-extends-restrictions-to-bakeries-and-sports-facilities)*
+- معروف قانون دان رضا کاظم 96 سال کی عمر میں انتقال کر گئے۔ *[Dawn](https://www.dawn.com/news/1992460/prominent-lawyer-raza-kazim-passes-away-at-96)*
 
 ## بین الاقوامی
 
-*   امریکہ اور ایران کے درمیان مذاکرات کا دوسرا دور ابھی تک طے نہیں ہوا۔ *[Dawn](https://www.dawn.com/news/1992276/no-date-set-for-second-round-of-us-iran-talks-fo-says)*
-*   ترکی میں اسکول شوٹنگ کے متاثرین کی تدفین کے موقع پر غم و غصے کا اظہار۔ *[Dawn](https://www.dawn.com/news/1992324/outpouring-of-emotion-as-turkiye-buries-school-shooting-victims)*
-*   ترکی نے اسکول شوٹنگ کے بعد سوشل میڈیا پر سخت پابندیاں لگائیں۔ *[Dawn](https://www.dawn.com/news/1992280/turkiye-launches-internet-crackdown-ahead-of-funerals-for-shooting-victims)*
-*   غزہ کے جنگ سے معذور افراد کو اسرائیلی پابندیوں کے باعث مصنوعی اعضاء کی قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/1992292/gazas-war-amputees-short-of-prostheses-under-israeli-restrictions)*
-*   اسرائیل کے وزیراعظم نتن یاہو جمعرات کو لبنانی صدر سے بات کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416759/israel-minister-says-netanyahu-to-talk-to-lebanon-leader-thursday)*
-*   آئی ایم ایف نے مشرق وسطیٰ میں جنگ کے باعث توانائی کی قیمتوں میں اضافے کے خطرے کے بارے میں خبردار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416762/imf-warns-of-asias-vulnerability-to-war-induced-energy-shock)*
+- لبنان اور اسرائیل کے درمیان 10 روزہ جنگ بندی نافذ العمل ہوگئی۔ *[Dawn](https://www.dawn.com/news/1992354/10-day-ceasefire-between-israel-lebanon-takes-effect)*
+- کیوبا نے امریکہ کی ممکنہ حملے کی صورت میں تیاری کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/1992366/cuba-ready-for-possible-us-attack-president)*
+- یوکرین کے وزیراعظم نے امریکہ کے تعاون کے بارے میں زیادہ اعتماد کا اظہار کیا۔ *[ARY News](https://arynews.tv/ukraine-pm-says-she-feels-more-confident-of-us-support)*
+- ترکی میں اسکول میں فائرنگ کے متاثرین کی تدفین کی گئی۔ *[Dawn](https://www.dawn.com/news/1992324/outpouring-of-emotion-as-turkiye-buries-school-shooting-victims)*
+- ایران جنگ کے باعث ایشیا کی ایندھن پر انحصار کی لاگت کا انکشاف ہوا۔ *[Dawn](https://www.dawn.com/news/1992467/iran-war-exposes-cost-of-asias-fossil-fuel-reliance)*
 
 ## کھیل
 
-*   فرانس ورلڈ کپ کی تیاری کے لیے شمالی آئرلینڈ کے ساتھ میچ کھیلے گا۔ *[ARY](https://arynews.tv/france-to-complete-world-cup-warm-ups-against-northern-ireland-on-june-8)*
-*   ہائدرآباد کنگز مین نے راولپنڈی کو پانچ وکٹوں سے شکست دے کر اپنی جیت کا سلسلہ جاری رکھا۔ *[ARY](https://arynews.tv/hyderabad-kingsmen-vs-rawalpindiz-match-result)*
-*   جائے ہارمون، "کول ہینڈ لک" کی اداکارہ 87 سال کی عمر میں انتقال کرگئیں۔ *[ARY](https://arynews.tv/joy-harmon-cool-hand-luke-star-dies-at-87)*
-*   رونالڈو ال نصر میچ کے بعد تھکاوٹ کے باعث قے کر گئے۔ *[ARY](https://arynews.tv/fatigued-ronaldo-threw-up-after-al-nassr-match-coach-says)*
+- کوئی خبر دستیاب نہیں۔
 
 ## صحت
 
-*(اس خبروں میں صحت کے بارے میں کوئی معلومات نہیں ہے)*
+- نوو کی وزن کم کرنے والی دوا للی کی دوا سے بہتر طریقے سے د lean باڈی ماس کو محفوظ رکھتی ہے، ایک مطالعہ میں انکشاف ہوا۔ *[ARY News](https://arynews.tv/tirzepatide-compared-to-semaglutide-for-weight-loss)*
 
 ## دیگر
 
-*   نیشنز بینک نے شاہد آفریدی کو کھیلوں کے مشیر کے طور پر نامزد کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/nations-bank-proudly-welcomes-shahid-afridi-as-sports-consultant/)*
-*   پیکیجز گروپ اور اکزو نوبل کے درمیان معاہدہ طے پا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/after-months-of-brinkmanship-and-one-collapse-packages-group-and-akzonobel-set-to-sign-a-deal/)*
-*   کسٹمز نے نمک کے برآمدات کی پیکیجنگ کو بہتر بنانے کے لیے ہدایات جاری کیں تاکہ کھیپ میں تاخیر سے بچا جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/customs-issues-directives-to-improve-salt-export-packaging-avoid-shipment-delays/)*
-*   یوروپی یونین نے کہا کہ جی ایس پی + رسائی خودکار نہیں ہے، حقوق اور پی ای سی اے پر خدشات ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/eu-says-gsp-access-not-automatic-flags-concerns-on-rights-peca/)*
-*   سپریم کورٹ نے پی آئی اے کو ریٹائرڈ ملازم کو 24 سال کی پنشن ادا کرنے کی ہدایت کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/16/supreme-court-directs-pia-to-pay-24-years-pension-to-retired-employee/)*
-*   فزا علی نے وائرل کلپ پر معذرت خواہ، پھر پوسٹ ڈیلیٹ کر دی۔ *[ARY](https://arynews.tv/fiza-ali-apologises-over-viral-clip-then-deletes-post)*
+- پاکستان اور اٹلی ثقافتی ورثے کی اسمگلنگ کے خلاف جنگ میں تعاون کریں گے۔ *[Dawn](https://www.dawn.com/news/1992468/pakistan-italy-to-combat-cultural-heritage-smuggling)*
+- پاکستان کی ایران اور امریکہ کے درمیان مذاکرات میں ثالثی کی کوششوں کو عالمی سطح پر پذیرائی مل رہی ہے۔ *[Dawn](https://www.dawn.com/news/1992477/hectic-diplomacy)*
+- این اے ڈی آر اے نے پنجاب میں اسلحہ لائسنس کی تصدیق کے لیے موبائل بائیو میٹرک تصدیق شروع کی۔ *[ARY News](https://arynews.tv/nadra-makes-arms-licence-verification-easier)*
+- لومس یونیورسٹی نے بین الجامعاتی سفر کے لیے الیکٹرک بسیں شروع کیں۔ *[ARY News](https://arynews.tv/electric-buses-enhance-student-experience-at-lumhs)*
+- میلان مارٹینز نے HADES ایرینا ٹور کے ٹکٹ کا اعلان کیا۔ *[ARY News](https://arynews.tv/melanie-martinez-announces-hades-arena-tour-tickets)*
+- سونے کی قیمت میں کمی، تیل کی قیمتوں میں بھی گراوٹ۔ *[Business Recorder](https://www.brecorder.com/news/40416887/stocks-set-for-weekly-gain-oil-below-100-on-peace-deal-hopes)*
+- چاندی کی قیمت میں اتار چڑھاؤ۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/silver-price-in-pakistan-for-today-april-17-2026)*
+- سونے کی قیمت آج 17 اپریل 2026 کے لیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/gold-price-in-pakistan-for-today-april-17-2026)*
+- جاب کے مواقع جرمنی میں - اپریل 2026۔ *[ARY News](https://arynews.tv/job-opportunities-in-germany-april-2026)*
+- فاؤنڈایو کی دوا دل کے دورے اور فالج کے خطرے کو کم کرتی ہے، ایلی للی۔ *[ARY News](https://arynews.tv/foundayo-pill-lowers-heart-attack-stroke-risk-eli-lilly)*
+- سونی کو جاپان سبسڈی سے 380 ملین ڈالر ملیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416893/sony-to-get-up-to-380-million-image-sensor-factory-japan-subsidy)*
+- بھارت کی روپے کی شرح میں اضافہ، آر بی آئی کے اقدامات۔ *[Business Recorder](https://www.brecorder.com/news/40416892/indian-rupee-to-rise-on-rbis-reported-plan-to-alleviate-oil-dollar-buying-pressure)*
+- سونے کی قیمت میں استحکام، امن معاہدے کی امیدوں پر نظریں ۔ *[Business Recorder](https://www.brecorder.com/news/40416891/gold-holds-steady-eyes-fourth-weekly-gain-on-us-iran-peace-deal-hopes)*
+- بھارت کے حصص میں معمولی اتار چڑھاؤ، وپرو کے کمزور پیش گوئی کا اثر۔ *[Business Recorder](https://www.brecorder.com/news/40416889/indian-shares-set-for-muted-start-as-wipros-weak-forecast-offsets-peace-talk-optimism)*
+- ممالک جنگ بندی کے بعد ہرمز مشن پر بحث کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40416888/countries-to-discuss-hormuz-mission-for-when-conflict-ends)*
+- سی ای سی پی نے میوچل فنڈ سرمایہ کاروں کے لیے سوئنگ پرائسنگ سسٹم تجویز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416859/mutual-fund-investors-secp-proposes-swing-pricing-system)*
+- اسلامی فنانسنگ: پہلی ہائبرڈ سکوک 109 ارب روپے سے زائد کی وصولی۔ *[Business Recorder](https://www.brecorder.com/news/40416860/islamic-financing-first-hybrid-sukuk-fetches-over-rs109bn)*
+- جولائی-مارچ میں ٹیکسٹائل برآمدات میں 0.5 فیصد کمی ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40416861/jul-mar-textile-exports-dip-05pc-to-usd13545bn-yoy)*
+- پاکستان میں غیر ملکی سرمایہ کاری میں مارچ میں 165 فیصد اضافہ، لیکن 9MFY26 میں 27 فیصد کمی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/foreign-investment-in-pakistan-jumps-165-to-167-million-in-march-but-falls-27-in-9mfy26)*
+- گورنر نے 5ویں DALFA کیٹل شو 2026 کا افتتاح کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416853/governor-opens-5th-dalfa-cattle-show-2026)*
+- حکومت سے معاشی بحالی پر توجہ مرکوز کرنے کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40416854/govt-urged-to-shift-its-focus-towards-economic-recovery)*
+- قازقستان اور پاکستان نے 1 ارب ڈالر کے تجارتی ہدف کو بڑھایا۔ *[Business Recorder](https://www.brecorder.com/news/40416856/kazakhstan-pakistan-elevate-usd1bn-trade-target-ambassador)*
+- پی ٹی آئی نے بجلی کی مانگ کو پورا کرنے میں حکومت کی "واضح ناکامی" پر تنقید کی۔ *[Business Recorder](https://www.brecorder.com/news/40416857/pti-slams-govt-for-blatant-failure-to-meet-electricity-demand)*
+- لولا نے کہا کہ ٹرمپ کو ممالک کو دھمکانے کا کوئی حق نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416865/lula-says-trump-has-no-right-to-threaten-countries)*
+- غیر رسمی بستیوں: سی ڈی اے کو ضوابط حتمی کرنے کی ہدایت۔ *[Business Recorder](https://www.brecorder.com/news/40416851/informal-settlements-fcc-directs-cda-to-finalise-regulations)*
+- برطانیہ نے ہالمور کے 80 ملین ڈالر کے ثالثی تنازعے کو پاکستان کے ساتھ میٹنگ میں اٹھایا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/uk-raises-80-million-halmore-arbitration-dispute-with-pakistan-in-meeting-with-power-minister)*
+- وزیر خزانہ نے آئی ایم ایف کو بتایا کہ اہم معاشی اشارے زیادہ تر ٹریک پر ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/key-economic-indicators-remain-broadly-on-track-finance-minister-tells-imf)*
+- این اے پینل نے ایس ای زیڈ کے قانون میں ترامیم کی منظوری دی، مفت زمین کی پٹہ دینے اور تنازعات کے لیے ٹریبونل قائم کرنے کی اجازت دی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/na-panel-approves-amendments-to-sezs-law-allowing-free-land-leases-sets-up-tribunal-for-disputes)*
+- سیکشن 11B کی تبدیلی: اے ٹی آئی آر نے قانون ساز غلطیوں کے نتائج پر جھنڈا اٹھایا۔ *[Business Recorder](https://www.brecorder.com/news/40416849/substitution-of-sec-11b-of-sales-tax-law-atir-flags-consequences-of-legislative-errors)*
+- سولر نیٹ میٹرنگ نے بجلی کی قلت کو پورا کیا، 8000 میگاواٹ کی صلاحیت نے بجلی کی قلت کو پورا کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/solar-net-metering-averts-daytime-outages-as-8000mw-capacity-offsets-power-shortfall)*
 
