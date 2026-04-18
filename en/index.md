@@ -4,66 +4,66 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 17-Apr-2026 21:02PKT
+Published at: 18-Apr-2026 09:02PKT
 
 Time to read: 5 mins
 
 ### Economy
-- Pakistan raised $500 million through a Eurobond after a four-year hiatus, signaling renewed investor confidence. *[Dawn](https://www.dawn.com/news/1992643/pakistan-raises-500m-through-eurobond-after-4-year-hiatus)*
-- Saudi Arabia has pledged an additional $3 billion in deposits for Pakistan and extended its existing $5 billion facility for three years. *[Dawn](https://www.dawn.com/news/1992553/pakistan-saudi-arabia-sign-agreement-to-extend-3bn-deposit)*
-- Pakistan’s power generation increased by 6.3% YoY to 8,939 GWh in March, with fuel costs declining. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-power-generation-rises-6-3-yoy-to-8939-gwh-in-march-fuel-cost-falls)*
-- Auto financing in Pakistan continues to grow, reaching Rs345.34 billion in March, but car sales declined 9% MoM. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/auto-loans-hit-rs345-billion-sales-rise-40-yoy-but-fall-9-mom-in-march)*
-- Pakistan’s textile exports fell 0.5% to $13.5 billion in the first nine months of FY2025-26. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistans-textile-exports-fall-0-5-to-13-5-billion-in-9mfy26-march-exports-down-7-06-yoy)*
-- The Lahore High Court upheld the government’s policy to abolish free electricity units for power sector employees. *[Dawn](https://www.dawn.com/news/1992600/lhc-upholds-govts-policy-abolishing-free-electricity-units-for-power-sector-employees)*
-- A parliamentary committee has called for a review of high taxes on mobile phones. *[Dawn](https://www.dawn.com/news/1992464/na-panel-seeks-review-of-high-taxes-on-mobile-phones)*
+- Pakistan successfully raised $500 million through a 3-year Eurobond at 6.975% interest, marking a return to international capital markets after a four-year hiatus. *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
+- Finance Minister Aurangzeb is focused on securing early approval for the next IMF tranche, with a team expected to visit Pakistan next month for review. *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
+- The government cut diesel prices by Rs32.12 per litre, while petrol prices remained unchanged, following easing global prices. *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
+- The Pakistani Rupee appreciated against the US dollar, slipping below Rs279 in the inter-bank market for the first time in three years. *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
+- Pakistan received $2 billion in assistance from Saudi Arabia prior to issuing the Eurobond. *[Dawn](https://www.dawn.com/news/1992643/pakistan-raises-500m-through-eurobond-after-4-year-hiatus)*
+- The government disbursed Rs38 billion in pending claims to oil marketing companies (OMCs) to maintain fuel price stability. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ogra-disburses-pkr-38-billion-in-pdcs-to-omcs/)*
+- UBL has officially become Pakistan’s largest bank by deposits, surpassing Habib Bank Limited. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ubl-officially-becomes-pakistans-largest-bank-by-deposits/)*
+- Consumers are expected to receive around Rs1.14 per unit relief in May electricity bills due to a fall in Fuel Charges Adjustment (FCA). *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/consumers-to-get-around-rs1-14-per-unit-relief-in-may-bills-as-fca-falls/)*
+- As commodities reshape geopolitics, currency pecking order gets a reset. *[Business Recorder](https://www.brecorder.com/news/40417081/as-commodities-reshape-geopolitics-currency-pecking-order-gets-a-reset)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif and Turkish President Recep Tayyip Erdogan emphasized utilizing the current window of opportunity for lasting regional peace. *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*
-- Pakistan escorted Iranian negotiators home from peace talks with the U.S. amid concerns of an Israeli attack. *[Dawn](https://www.dawn.com/news/1992620/pakistan-escorted-iranian-negotiators-home-from-peace-talks-amid-concerns-of-israeli-attack-sources-say)*
-- Donald Trump said the U.S. has banned Israel from bombing Lebanon and believes a deal with Iran is coming soon. *[Business Recorder](https://www.brecorder.com/news/40416953/trump-says-israel-banned-from-bombing-lebanon)*
-- Donald Trump thanked Pakistan, PM Shehbaz Sharif, and CDF Munir following Iran’s decision to open the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40416944/trump-thanks-pakistan-praises-pm-shehbaz-cdf-munir-as-iran-opens-strait-of-hormuz)*
-- Keir Starmer, the UK Prime Minister, faces calls to resign after revelations about a former ambassador’s security vetting. *[Dawn](https://www.dawn.com/news/1992577/uks-starmer-faces-calls-to-resign-as-mandelson-row-reignites)*
+- US President Trump praised Pakistan’s Prime Minister Shehbaz Sharif and CDF Field Marshal Munir for their role in easing tensions between the US and Iran. *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)* & *[Business Recorder](https://www.brecorder.com/news/40417065/trump-praises-pm-cdf-for-role-in-easing-tensions)*
+- Pakistan escorted Iranian negotiators home from peace talks, deploying jets and airborne surveillance due to concerns of a potential Israeli attack. *[Dawn](https://www.dawn.com/news/1992758/pakistan-escorted-iran-negotiators-home-amid-israel-concerns)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-escorted-iranian-negotiators-home-from-peace-talks-amid-concerns-of-israeli-attack-sources-say)*
+- Prime Minister Shehbaz Sharif and Turkish President Erdogan emphasized the importance of utilizing the current window of opportunity for lasting regional peace. *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*
+- The FCC upheld the government’s decision to ban book imports from certain countries based on national security grounds. *[Dawn](https://www.dawn.com/news/1992812/fcc-upholds-ban-on-book-imports-from-certain-countries)*
+- PTI rejected the government’s claims of economic recovery, citing a drop in FDI and a low investment-to-GDP ratio. *[Business Recorder](https://www.brecorder.com/news/40416976/pti-rejects-govt-claims-of-economic-recovery)*
 
 ### International
-- Iran announced the Strait of Hormuz is open for commercial vessels following a ceasefire accord in Lebanon, but passage requires coordination with the IRGC and unfreezing of assets. *[Dawn](https://www.dawn.com/news/1992627/iran-says-strait-of-hormuz-open-for-commercial-vessels-after-lebanon-deal)* & *[Business Recorder](https://www.brecorder.com/news/40416959/ships-crossing-hormuz-need-irgc-ok-unfreezing-of-assets-part-of-deal-iran-official-says)*
-- A 10-day ceasefire between Lebanon and Israel has gone into effect. *[ARY](https://arynews.tv/lebanon-israel-ceasefire-deal-explained)* & *[Business Recorder](https://www.brecorder.com/news/40416952/wall-street-indexes-rally-after-iran-says-strait-of-hormuz-completely-open)*
-- India withdrew its bid to host the 2028 UN climate talks. *[ARY](https://arynews.tv/india-withdraws-its-bid-to-host-un-climate-talks-in-2028)*
-- Sweden faces criticism over plans to require migrants to adhere to “honest living” criteria. *[Dawn](https://www.dawn.com/news/1992585/sweden-rights-groups-blast-honest-living-criteria-for-migrants)*
-- India’s refiner Reliance has rejected Iranian oil cargoes as a U.S. waiver deadline looms. *[Business Recorder](https://www.brecorder.com/news/40416948/indian-refiner-reliance-rejects-iran-oil-cargoes-as-waiver-deadline-looms)*
+- Iran reopened the Strait of Hormuz, but warned the US must end its naval blockade for it to remain open. *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/iran-reopens-strait-of-hormuz-but-says-u-s-must-end-naval-blockade)*
+- The US is considering releasing up to $20 billion in frozen Iranian assets in exchange for Iran relinquishing control of its enriched uranium stockpile. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/us-weighs-20bn-asset-release-as-iran-talks-focus-on-uranium-stockpile-deal)*
+- Venezuela has restored relations with the IMF and World Bank. *[Business Recorder](https://www.brecorder.com/news/40417070/venezuela-imf-worl-bank-restore-relations)*
+- India dropped a proposal to mandate national ID app on smartphones after pushback. *[Dawn](https://www.dawn.com/news/1992649/india-drops-proposal-to-mandate-national-id-app-on-smartphones-after-pushback)*
+- Myanmar cut ex-leader Aung San Suu Kyi’s sentence and freed former president. *[Dawn](https://www.dawn.com/news/1992670/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)* & *[ARY](https://arynews.tv/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)*
+- EU warns Meta WhatsApp AI fee breaches antitrust rules orders rollback. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
+- US cloud dominance risks European security. *[Dawn](https://www.dawn.com/news/1992759/us-cloud-dominance-risks-european-security-report)*
 
 ### National
-- Bushra Bibi, wife of Imran Khan, was shifted back to Adiala jail after undergoing eye surgery. *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)*
-- Islamabad administration denied claims regarding the closure of transport terminals. *[Dawn](https://www.dawn.com/news/1992605/islamabad-administration-denies-claims-regarding-closure-of-transport-terminals)*
-- Mohsin Naqvi, FIA chief, directed timely complaint redressal and transparent investigations during a visit to Karachi. *[Dawn](https://www.dawn.com/news/1992589/mohsin-naqvi-fia-chief-direct-timely-complaint-redressal-transparent-investigations-during-karachi-visit)*
-- Government admits to up to seven hours of power outages due to a hydro slump and LNG disruptions. *[Dawn](https://www.dawn.com/news/1992471/govt-admits-up-to-seven-hours-of-power-outages)* & *[Business Recorder](https://www.brecorder.com/news/40416945/pakistan-power-cuts-double-as-hydro-slump-upends-supply-plans)*
-- A new attendance monitoring system has been launched in schools. *[ARY](https://arynews.tv/school-attendance-monitoring-system-launched)*
-- E-Challan system launched in another city. *[ARY](https://arynews.tv/e-challan-system-launched-in-another-city)*
+- Approximately 13,000 people have crossed into Pakistan from Iran over the past six weeks due to the war. *[Dawn](https://www.dawn.com/news/1992806/iom-says-13000-crossed-into-pakistan-from-iran-during-war)*
+- Police intensified a combing operation against terrorists in Gilgit-Baltistan following an attack on a police team. *[Dawn](https://www.dawn.com/news/1992807/police-intensify-combing-operation-against-terrorists-after-chilas-attack-15-held)*
+- The FIA arrested a most-wanted human trafficker in a crackdown on smuggling networks. *[Dawn](https://www.dawn.com/news/1992808/most-wanted-trafficker-held-in-fia-crackdown)*
+- A campaign was launched to remove illegal security cabins outside houses in Islamabad. *[Dawn](https://www.dawn.com/news/1992707/campaign-launched-to-remove-illegal-guards-cabins-from-outside-houses-in-islamabad)*
+- 125 people were rescued from Mangla Dam after a sudden thunderstorm disrupted their journey. *[Dawn](https://www.dawn.com/news/1992814/tragedy-averted-as-125-ferried-to-safety-from-mangla-dam)*
+
+### Health
+- Karachi has recorded a dramatic increase in paediatric HIV cases, with 159 patients admitted to three city hospitals this year, largely due to unsafe healthcare practices. *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
+- Researchers are exploring a potential fix for Down syndrome using advanced gene editing techniques. *[ARY](https://arynews.tv/down-syndrome-and-the-crispr-gene-editing-tool)*
+- Zinc deficiency is a widespread but under-recognized public health issue in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40416985/zinc-deficiency-under-recognised-health-issue-in-pakistan-survey)*
+- A new obesity pill, Foundayo, has received 1,390 US prescriptions in its launch week. *[ARY](https://arynews.tv/foundayo-obesity-pill-draws-1390-us-prescriptions-in-launch-week)*
 
 ### Sports
-- The ICC is investigating Cricket Canada over allegations of match corruption related to a T20 World Cup game against New Zealand. *[Dawn](https://www.dawn.com/news/1992601/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim)*
-- Carlos Alcaraz has withdrawn from the Madrid Open due to a wrist injury. *[Business Recorder](https://www.brecorder.com/news/40416954/injured-alcaraz-pulls-out-of-madrid-open-for-second-straight-year)*
-- Novak Djokovic will miss the Madrid Open due to ongoing injury problems. *[Business Recorder](https://www.brecorder.com/news/40416940/injured-djokovic-to-miss-madrid-open)*
-- BTS held a concert in Tokyo, marking their first performance outside South Korea after a hiatus. *[Business Recorder](https://www.brecorder.com/news/40416955/japanese-fans-gather-to-welcome-bts-on-world-tour)*
+- NBP welcomed Shahid Afridi as a sports consultant. *[Business Recorder](https://www.brecorder.com/news/40416984/nbp-welcomes-shahid-afridi-as-sports-consultant)*
 
 ### Other
-- A new Pope Leo has adopted a more forceful speaking style, criticizing war and inequality. *[Dawn](https://www.dawn.com/news/1992612/a-new-forceful-pope-leo-steps-onto-the-world-stage)*
-- Troy Baker, a video game voice actor, believes only humans can create true art. *[Business Recorder](https://www.brecorder.com/news/40416956/video-game-voice-star-troy-baker-says-only-humans-can-make-art)*
-- Paramount Pictures has announced “Top Gun 3” is officially in development. *[Business Recorder](https://www.brecorder.com/news/40416957/cruise-control-top-gun-3-officially-in-the-works)*
-- An Australian soldier accused of war crimes in Afghanistan has been granted bail. *[Dawn](https://www.dawn.com/news/1992559/australian-soldier-accused-of-war-crimes-in-afghanistan-granted-bail)*
-- A new industrial estate is planned for Port Qasim, Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-to-develop-400-acre-industrial-estate-at-port-qasim)*
-- The EU warned Meta about its WhatsApp AI fee, ordering a rollback due to antitrust concerns. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
-- Petrol prices in Pakistan are likely to decrease following the decision regarding the Strait of Hormuz. *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*
-- Free electricity facility for power sector employees has ended. *[ARY](https://arynews.tv/electricity-and-the-end-of-free-units-for-employees)*
-- The auto policy 2026-31 is facing criticism for a lack of transparency. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/auto-policy-2026-31-faces-criticism-over-secrecy-industry-seeks-clarity)*
-- Nepra approved investment plans for three Discos, but cut the proposals by 39%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/nepra-approves-rs77-4-billion-investment-plans-for-three-discos-cuts-proposals-by-39)*
-- Imported phones are taxed at 54%, while locally assembled devices are taxed at 25%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/imported-phones-taxed-at-54-locally-assembled-devices-at-25-na-committee-told)*
-- Asia stocks are set for a weekly gain, with oil prices under $100 due to peace deal hopes. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/asia-stocks-set-for-weekly-gain-oil-under-100-on-peace-deal-hopes)*
-- HBL posted a profit before tax of Rs 33.7 billion in Q1’26. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/hbl-posts-q126-profit-before-tax-of-rs-33-7-billion-while-serving-clients-well-across-all-segments)*
-- PSX surged over 4,000 points on improved macroeconomic indicators and US-Iran talks optimism. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/psx-surges-over-3000-points-on-improved-macroeconomic-indicators-us-iran-talks-optimism)*
-- Trump expressed gratitude to Pakistan for its role in the Hormuz situation. *[Business Recorder](https://www.brecorder.com/news/40416944/trump-thanks-pakistan-praises-pm-shehbaz-cdf-munir-as-iran-opens-strait-of-hormuz)*
-- Trump says blockade on Iran remains in full force until a deal is reached. *[Business Recorder](https://www.brecorder.com/news/40416949/trump-says-blockade-on-iran-in-full-force-until-deal-is-reached)*
-- Lebanon residents are returning to “unliveable” areas as the ceasefire with Israel mostly holds. *[ARY](https://arynews.tv/lebanese-return-to-unliveable-areas-as-ceasefire-with-israel-mostly-holds)*
-- Gold prices are up and poised for a fourth straight weekly gain. *[Business Recorder](https://www.brecorder.com/news/40416946/gold-up-more-than-1-poised-for-fourth-straight-weekly-gain)*
-- Finance Minister Aurangzeb lauded Beijing’s support for Pakistan’s IMF program. *[Dawn](https://www.dawn.com/news/1992576/aurangzeb-lauds-beijings-support-for-pakistans-imf-programme-during-meeting-with-chinese-counterpart)*
-- A piece discussing "necropolitics" and the devaluation of life in modern conflict. *[Dawn](https://www.dawn.com/news/1989892/when-death-becomes-a-statistic-necropolitics-in-the-age-of-moral-silence)*
+- Hajj operation 2026 has started from Karachi airport. *[ARY](https://arynews.tv/hajj-2026-operation-starts-from-karachi-airport)*
+- Kuwait faces a shortage of warehouses. *[ARY](https://arynews.tv/kuwait-warehousing-sector-faces-serious-challenges)*
+- Oil prices settled down 9% after Iran declared the Strait of Hormuz open. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/oil-settles-down-9-after-iran-declares-strait-of-hormuz-open/)*
+- Hydel surge cuts outages as dam releases jump to 30,000 cusecs. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/hydel-surge-cuts-outages-as-dam-releases-jump-to-30000-cusecs/)*
+- Over 1,300 fresh graduates have joined the GET Placement Programme. *[Business Recorder](https://www.brecorder.com/news/40416998/over-1300-fresh-graduates-join-get-placement-programme)*
+- Easy loans and modern medical facilities will be introduced for small farmers in Sindh. *[Business Recorder](https://www.brecorder.com/news/40416997/easy-loans-modern-medical-facilities-sindh-govt-to-introduce-projects-for-small-farmers-soon-malkani)*
+- Key infrastructure projects are being inspected in Karachi. *[Business Recorder](https://www.brecorder.com/news/40416999/key-infrastructure-projects-mayor-karachi-holds-late-night-inspections-across-megacity)*
+- Bushra Bibi, wife of Imran Khan, was shifted back to prison after eye surgery. *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)* & *[Business Recorder](https://www.brecorder.com/news/40416975/pti-leader-concerned-at-bushras-health-conditions)*
+- The PBC condemned the attack on a former judge. *[Business Recorder](https://www.brecorder.com/news/40416977/pbc-condemns-attack-on-former-judge)*
+- The HEC awarded 3,946 need-based scholarships in 2024-25. *[Business Recorder](https://www.brecorder.com/news/40417002/hec-awards-3946-need-based-scholarships-in-2024-25)*
+- The government is working with businessmen to improve the economy. *[Business Recorder](https://www.brecorder.com/news/40417001/businessmen-working-with-govt-to-improve-economy-s-m-tanveer)*
+- Peace within reach. *[Business Recorder](https://www.brecorder.com/news/40416979/peace-within-reach)*
+- Economic strategy. *[Business Recorder](https://www.brecorder.com/news/40416980/economic-strategy)*
+- How 50 days of the Iran war led to the loss of $50 billion worth of oil. *[ARY](https://arynews.tv/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil)*
 
