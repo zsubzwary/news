@@ -4,66 +4,63 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 18-Apr-2026 09:02PKT
+Published at: 18-Apr-2026 21:02PKT
 
 Time to read: 5 mins
 
 ### Economy
-- Pakistan successfully raised $500 million through a 3-year Eurobond at 6.975% interest, marking a return to international capital markets after a four-year hiatus. *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
-- Finance Minister Aurangzeb is focused on securing early approval for the next IMF tranche, with a team expected to visit Pakistan next month for review. *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
-- The government cut diesel prices by Rs32.12 per litre, while petrol prices remained unchanged, following easing global prices. *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
-- The Pakistani Rupee appreciated against the US dollar, slipping below Rs279 in the inter-bank market for the first time in three years. *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
-- Pakistan received $2 billion in assistance from Saudi Arabia prior to issuing the Eurobond. *[Dawn](https://www.dawn.com/news/1992643/pakistan-raises-500m-through-eurobond-after-4-year-hiatus)*
-- The government disbursed Rs38 billion in pending claims to oil marketing companies (OMCs) to maintain fuel price stability. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ogra-disburses-pkr-38-billion-in-pdcs-to-omcs/)*
-- UBL has officially become Pakistan’s largest bank by deposits, surpassing Habib Bank Limited. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ubl-officially-becomes-pakistans-largest-bank-by-deposits/)*
-- Consumers are expected to receive around Rs1.14 per unit relief in May electricity bills due to a fall in Fuel Charges Adjustment (FCA). *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/consumers-to-get-around-rs1-14-per-unit-relief-in-may-bills-as-fca-falls/)*
-- As commodities reshape geopolitics, currency pecking order gets a reset. *[Business Recorder](https://www.brecorder.com/news/40417081/as-commodities-reshape-geopolitics-currency-pecking-order-gets-a-reset)*
+- Pakistan is seeking early approval for the next tranche of its IMF package, with a team from the global lender expected to visit next month for consultations. *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
+- The US has renewed a waiver allowing purchases of sanctioned Russian oil, citing pressure from countries dealing with price shocks related to the Iran war. *[Business Recorder](https://www.brecorder.com/news/40417099/us-extends-sanctions-waiver-on-purchases-of-russian-oil)*
+- Diesel prices in Pakistan have been reduced by Rs32.12 per litre, while petrol prices remain unchanged. *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
+- The US dollar has slipped below Rs279 in Pakistan’s inter-bank market for the first time in three years. *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
+- Gold prices in Pakistan increased by Rs4,500 per tola, aligning with gains in the international market. *[Business Recorder](https://www.brecorder.com/news/40417098/gold-price-per-tola-gains-rs4500-in-pakistan)*
+- India’s Yes Bank reported a 44.7% rise in fourth-quarter profit due to loan growth and stable asset quality. *[Business Recorder](https://www.brecorder.com/news/40417096/indias-yes-bank-post-higher-profit-on-loan-growth)*
+- HDFC Bank, another Indian lender, also reported higher profits driven by loan growth. *[Business Recorder](https://www.brecorder.com/news/40417096/indias-yes-bank-post-higher-profit-on-loan-growth)*
+
+### Science & Technology
+- Anthropic CEO Dario Amodei visited White House officials for a “productive” meeting, following recent disputes between the US government and the AI startup. *[Dawn](https://www.dawn.com/news/1992940/white-house-hosts-productive-visit-with-anthropic-ceo)*
+- The EU has warned Meta regarding a fee for WhatsApp AI usage, deeming it a breach of antitrust rules and ordering a rollback. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
+
+### Weather
+- A 3.4-magnitude earthquake struck Karachi on Saturday afternoon, according to the Pakistan Meteorological Department. *[Business Recorder](https://www.brecorder.com/news/40417098/34-magnitude-earthquake-jolts-karachi-pmd)*
 
 ### Politics
-- US President Trump praised Pakistan’s Prime Minister Shehbaz Sharif and CDF Field Marshal Munir for their role in easing tensions between the US and Iran. *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)* & *[Business Recorder](https://www.brecorder.com/news/40417065/trump-praises-pm-cdf-for-role-in-easing-tensions)*
-- Pakistan escorted Iranian negotiators home from peace talks, deploying jets and airborne surveillance due to concerns of a potential Israeli attack. *[Dawn](https://www.dawn.com/news/1992758/pakistan-escorted-iran-negotiators-home-amid-israel-concerns)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-escorted-iranian-negotiators-home-from-peace-talks-amid-concerns-of-israeli-attack-sources-say)*
-- Prime Minister Shehbaz Sharif and Turkish President Erdogan emphasized the importance of utilizing the current window of opportunity for lasting regional peace. *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*
-- The FCC upheld the government’s decision to ban book imports from certain countries based on national security grounds. *[Dawn](https://www.dawn.com/news/1992812/fcc-upholds-ban-on-book-imports-from-certain-countries)*
-- PTI rejected the government’s claims of economic recovery, citing a drop in FDI and a low investment-to-GDP ratio. *[Business Recorder](https://www.brecorder.com/news/40416976/pti-rejects-govt-claims-of-economic-recovery)*
-
-### International
-- Iran reopened the Strait of Hormuz, but warned the US must end its naval blockade for it to remain open. *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/iran-reopens-strait-of-hormuz-but-says-u-s-must-end-naval-blockade)*
-- The US is considering releasing up to $20 billion in frozen Iranian assets in exchange for Iran relinquishing control of its enriched uranium stockpile. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/us-weighs-20bn-asset-release-as-iran-talks-focus-on-uranium-stockpile-deal)*
-- Venezuela has restored relations with the IMF and World Bank. *[Business Recorder](https://www.brecorder.com/news/40417070/venezuela-imf-worl-bank-restore-relations)*
-- India dropped a proposal to mandate national ID app on smartphones after pushback. *[Dawn](https://www.dawn.com/news/1992649/india-drops-proposal-to-mandate-national-id-app-on-smartphones-after-pushback)*
-- Myanmar cut ex-leader Aung San Suu Kyi’s sentence and freed former president. *[Dawn](https://www.dawn.com/news/1992670/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)* & *[ARY](https://arynews.tv/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)*
-- EU warns Meta WhatsApp AI fee breaches antitrust rules orders rollback. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
-- US cloud dominance risks European security. *[Dawn](https://www.dawn.com/news/1992759/us-cloud-dominance-risks-european-security-report)*
+- Foreign ministers of Pakistan, Saudi Arabia, Turkiye, and Egypt discussed “evolving regional dynamics” at the Antalya Diplomacy Forum. *[Dawn](https://www.dawn.com/news/1992953/foreign-ministers-of-pakistan-saudi-arabia-turkiye-and-egypt-discuss-evolving-regional-dynamics)*
+- Prime Minister Shehbaz Sharif concluded a tri-nation tour of Saudi Arabia, Qatar, and Turkiye, discussing regional peace and strengthening bilateral relations. *[Dawn](https://www.dawn.com/news/1992851/pm-shehbaz-discusses-global-regional-issues-during-tri-nation-tour)*
+- India summoned the Iranian ambassador to express concern over attacks on Indian-flagged tankers near the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1992990/new-delhi-summons-iranian-envoy-after-indian-flagged-tankers-shot-at-near-strait-of-hormuz)*
+- Egypt is working with Pakistan on a framework for a lasting peace agreement between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40417097/egypt-working-with-pakistan-on-lasting-us-iran-peace-plan-minister-says)*
+- Pakistan successfully concluded a ‘Staff-Level Agreement’ with the IMF. *[ARY](https://arynews.tv/pakistan-secures-staff-level-agreement-with-imf)*
 
 ### National
-- Approximately 13,000 people have crossed into Pakistan from Iran over the past six weeks due to the war. *[Dawn](https://www.dawn.com/news/1992806/iom-says-13000-crossed-into-pakistan-from-iran-during-war)*
-- Police intensified a combing operation against terrorists in Gilgit-Baltistan following an attack on a police team. *[Dawn](https://www.dawn.com/news/1992807/police-intensify-combing-operation-against-terrorists-after-chilas-attack-15-held)*
-- The FIA arrested a most-wanted human trafficker in a crackdown on smuggling networks. *[Dawn](https://www.dawn.com/news/1992808/most-wanted-trafficker-held-in-fia-crackdown)*
-- A campaign was launched to remove illegal security cabins outside houses in Islamabad. *[Dawn](https://www.dawn.com/news/1992707/campaign-launched-to-remove-illegal-guards-cabins-from-outside-houses-in-islamabad)*
-- 125 people were rescued from Mangla Dam after a sudden thunderstorm disrupted their journey. *[Dawn](https://www.dawn.com/news/1992814/tragedy-averted-as-125-ferried-to-safety-from-mangla-dam)*
+- Bushra Bibi, the wife of former Prime Minister Imran Khan, has approached the Islamabad High Court seeking suspension of her sentence in a £190 million corruption case. *[Dawn](https://www.dawn.com/news/1992994/bushra-bibi-moves-ihc-seeking-to-suspend-sentence-in-ps190m-corruption-case-on-medical-grounds)*
+- A Karachi policeman was killed after being hit by a vehicle allegedly driven by smugglers during a routine check. *[Dawn](https://www.dawn.com/news/1992960/karachi-policeman-dies-after-being-hit-by-alleged-smugglers-vehicle-during-checking)*
+- Former SAPM on health, Dr. Zafar Mirza, raised alarm over a rising number of HIV cases in Pakistan, referencing a BBC exposé. *[Dawn](https://www.dawn.com/news/1992985/after-bbc-expose-ex-sapm-on-health-voices-alarm-at-uptick-in-hiv-cases-in-pakistan)*
+- PIA has begun pre-Haj operations, planning to transport over 55,000 pilgrims. *[Dawn](https://www.dawn.com/news/1992861/pia-begins-pre-haj-operations-to-transport-over-55000-pilgrims)*
+- Schools have been barred from selling books, uniforms, and stationary items. *[ARY](https://arynews.tv/schools-barred-from-selling-books-uniforms-and-stationary-items)*
+- Passing out ceremony of 153rd PMA Long Course held at Kakul. *[Business Recorder](https://www.brecorder.com/news/40417092/passing-out-ceremony-of-153rd-pma-long-course-held-at-kakul-ispr)*
 
-### Health
-- Karachi has recorded a dramatic increase in paediatric HIV cases, with 159 patients admitted to three city hospitals this year, largely due to unsafe healthcare practices. *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
-- Researchers are exploring a potential fix for Down syndrome using advanced gene editing techniques. *[ARY](https://arynews.tv/down-syndrome-and-the-crispr-gene-editing-tool)*
-- Zinc deficiency is a widespread but under-recognized public health issue in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40416985/zinc-deficiency-under-recognised-health-issue-in-pakistan-survey)*
-- A new obesity pill, Foundayo, has received 1,390 US prescriptions in its launch week. *[ARY](https://arynews.tv/foundayo-obesity-pill-draws-1390-us-prescriptions-in-launch-week)*
+### International
+- Iran has reimposed control over the Strait of Hormuz, with reports of gunfire near oil and gas tankers. *[Dawn](https://www.dawn.com/news/1992831/iran-reimposes-control-over-strait-of-hormuz-as-ships-report-gunfire)*
+- Venezuela’s opposition leader Maria Corina Machado stated she has no regrets about gifting her Nobel Peace Prize to US President Donald Trump. *[Dawn](https://www.dawn.com/news/1992972/venezuelas-machado-says-has-no-regrets-about-gifting-nobel-peace-prize-to-trump)*
+- US President Donald Trump warned Iran not to “blackmail” the US with the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40417112/trump-says-iran-cannot-blackmail-us-with-strait-of-hormuz)*
+- Israel has established a “Yellow Line” in Lebanon, similar to the one in Gaza. *[Business Recorder](https://www.brecorder.com/news/40417104/israel-army-says-established-yellow-line-in-lebanon-as-in-gaza)*
+- Australia and Japan signed contracts to begin a $7 billion warship deal. *[Business Recorder](https://www.brecorder.com/news/40417091/australia-japan-sign-contracts-to-start-7-billion-warship-deal)*
+- French film star Nathalie Baye has died at the age of 77. *[Business Recorder](https://www.brecorder.com/news/40417095/french-film-star-nathalie-baye-dead-at-77-family-to-afp)*
 
 ### Sports
-- NBP welcomed Shahid Afridi as a sports consultant. *[Business Recorder](https://www.brecorder.com/news/40416984/nbp-welcomes-shahid-afridi-as-sports-consultant)*
+- Sarfaraz Ahmed has been appointed as Pakistan’s Test coach for the upcoming series in Bangladesh. *[Dawn](https://www.dawn.com/news/1992849/sarfaraz-named-pakistans-test-coach-for-bangladesh-series-in-may)*
+
+### Health
+- Karachi has recorded a dramatic increase in paediatric HIV cases, raising concerns about unsafe healthcare practices. *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
+- Baby food jars have been recalled from supermarkets. *[ARY](https://arynews.tv/baby-food-jars-recalled-from-supermarkets)*
 
 ### Other
-- Hajj operation 2026 has started from Karachi airport. *[ARY](https://arynews.tv/hajj-2026-operation-starts-from-karachi-airport)*
-- Kuwait faces a shortage of warehouses. *[ARY](https://arynews.tv/kuwait-warehousing-sector-faces-serious-challenges)*
-- Oil prices settled down 9% after Iran declared the Strait of Hormuz open. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/oil-settles-down-9-after-iran-declares-strait-of-hormuz-open/)*
-- Hydel surge cuts outages as dam releases jump to 30,000 cusecs. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/hydel-surge-cuts-outages-as-dam-releases-jump-to-30000-cusecs/)*
-- Over 1,300 fresh graduates have joined the GET Placement Programme. *[Business Recorder](https://www.brecorder.com/news/40416998/over-1300-fresh-graduates-join-get-placement-programme)*
-- Easy loans and modern medical facilities will be introduced for small farmers in Sindh. *[Business Recorder](https://www.brecorder.com/news/40416997/easy-loans-modern-medical-facilities-sindh-govt-to-introduce-projects-for-small-farmers-soon-malkani)*
-- Key infrastructure projects are being inspected in Karachi. *[Business Recorder](https://www.brecorder.com/news/40416999/key-infrastructure-projects-mayor-karachi-holds-late-night-inspections-across-megacity)*
-- Bushra Bibi, wife of Imran Khan, was shifted back to prison after eye surgery. *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)* & *[Business Recorder](https://www.brecorder.com/news/40416975/pti-leader-concerned-at-bushras-health-conditions)*
-- The PBC condemned the attack on a former judge. *[Business Recorder](https://www.brecorder.com/news/40416977/pbc-condemns-attack-on-former-judge)*
-- The HEC awarded 3,946 need-based scholarships in 2024-25. *[Business Recorder](https://www.brecorder.com/news/40417002/hec-awards-3946-need-based-scholarships-in-2024-25)*
-- The government is working with businessmen to improve the economy. *[Business Recorder](https://www.brecorder.com/news/40417001/businessmen-working-with-govt-to-improve-economy-s-m-tanveer)*
-- Peace within reach. *[Business Recorder](https://www.brecorder.com/news/40416979/peace-within-reach)*
-- Economic strategy. *[Business Recorder](https://www.brecorder.com/news/40416980/economic-strategy)*
-- How 50 days of the Iran war led to the loss of $50 billion worth of oil. *[ARY](https://arynews.tv/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil)*
+- CDF Munir concluded a three-day visit to Iran, discussing regional peace and security. *[Dawn](https://www.dawn.com/news/1992844/cdf-munir-concludes-3-day-iran-visit-discusses-sustainable-regional-peace-ispr)*
+- Turkiye’s Foreign Minister accused Israel of using security as a pretext to acquire more land. *[Dawn](https://www.dawn.com/news/1992864/israel-using-security-as-a-pretext-to-acquire-more-land-turkiyes-fm-fidan)*
+- A new DC Comics miniseries, “Clayface: Celebrity Dirt,” has been announced. *[ARY](https://arynews.tv/clayface-celebrity-dirt-revealed-as-new-dc-comics-miniseries)*
+- A tragic collision in Melbourne left one person dead. *[ARY](https://arynews.tv/police-investigate-tragic-collision-in-melbourne)*
+- Russia acknowledges criticism from celebrity blogger Viktoria Bonya. *[ARY](https://arynews.tv/viktoria-bonya-russia-acknowledges-criticism-from-celebrity)*
+- Rahima Bibi, wife of a terror facilitator, revealed BLF’s ‘dirty tactics’. *[ARY](https://arynews.tv/rahima-bibi-wife-of-terror-facilitator-reveals-blfs-dirty-tactics)*
+- First Hajj Flight From Karachi Arrives in Madina. *[ARY](https://arynews.tv/first-hajj-flight-from-karachi-arrives-in-madina-pilgrims-accorded-warm-welcome)*
+- Choosing not to be a peace-broker. *[Dawn](https://www.dawn.com/news/1992781/choosing-not-to-be-a-peace-broker)*
 
