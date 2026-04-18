@@ -7,79 +7,70 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Apr-2026 09:06PKT 
+ &lrm; 18-Apr-2026 21:06PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ## معیشت
 
-- پاکستان جلد ہی آئی ایم ایف کی اگلی قسط کی منظوری حاصل کرنے کی کوشش کر رہا ہے، اور آئی ایم ایف کا وفد اگلے ماہ مشاورتی جائزہ کے لیے پاکستان آئے گا۔ *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
-- ڈیزل کی قیمت میں 32.12 روپے فی لیٹر کمی کی گئی ہے، جبکہ پٹرول کی قیمتوں میں کوئی تبدیلی نہیں کی گئی۔ *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
-- ڈالر کی قیمت گزشتہ تین سالوں میں پہلی بار 279 روپے سے نیچے آ گئی ہے۔ *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
-- پاکستان نے 4 سال کے وقفے کے بعد 500 ملین ڈالر کا یورو بانڈ جاری کیا، جس کی سود کی شرح 6.95 فیصد ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-raises-500m-eurobond-at-6-95-as-investor-demand-signals-market-re-entry)*
-- سعودی عرب سے 2 ارب ڈالر کی مدد ملنے کے بعد پاکستان نے بین الاقوامی سرمائے کے بازار میں واپسی کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-raises-500m-eurobond-at-6-95-as-investor-demand-signals-market-re-entry)*
-- اوگرا نے پی ڈی سی کے تحت او ایم سی کو 38 ارب روپے کی رقم جاری کردی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ogra-disburses-pkr-38-billion-in-pdcs-to-omcs)*
-- یو بی ایل ڈپازٹس کے لحاظ سے پاکستان کی سب سے بڑی بینک بن گئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ubl-officially-becomes-pakistans-largest-bank-by-deposits)*
+*   پاکستان کی کلیدی اقتصادی اشارے توقع سے زیادہ تیزی سے بہتر ہوئے ہیں، اسٹیٹ بینک کے گورنر کا بیان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417114/pakistans-key-macroeconomic-indicators-improved-faster-than-anticipated-says-sbp-governor)*
+*   فنانس منسٹر محمد اورنگزیب نے امریکی خزانے کے حکام کے ساتھ توانائی اور معدنیات کے شعبوں میں تعاون کے مواقع پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1992842/aurangzeb-holds-productive-meeting-with-us-treasury-officials-discusses-avenues-for-energy-mineral-cooperation)*
+*   ڈیزل کی قیمت میں 32.12 روپے فی لیٹر کمی کی گئی، پٹرول کی قیمتوں میں کوئی تبدیلی نہیں ہوئی۔ *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
+*   ڈالر کی قیمت تین سال بعد 279 روپے سے نیچے آ گئی۔ *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
+*   سونے کی قیمت فی تولہ 4500 روپے بڑھ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40417098/gold-price-per-tola-gains-rs4500-in-pakistan)*
 
 ## سائنس اور ٹیکنالوجی
 
-- یورپی ممالک امریکی کلاؤڈ کمپیوٹنگ سروسز پر بہت زیادہ انحصار کرتے ہیں، جو ان کی سکیورٹی کے لیے خطرہ بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/1992759/us-cloud-dominance-risks-european-security-report)*
-- بھارت نے اسمارٹ فونز میں آدھار ایپ کو لازمی کرنے کی تجویز واپس لے لی ہے۔ *[Dawn](https://www.dawn.com/news/1992649/india-drops-proposal-to-mandate-national-id-app-on-smartphones-after-pushback)*
-- محققین ایڈوانسڈ جین ایڈیٹنگ کے ذریعے ڈاؤن سنڈروم کا علاج تلاش کرنے کی کوشش کر رہے ہیں۔ *[ARY](https://arynews.tv/down-syndrome-and-the-crispr-gene-editing-tool)*
+*   وائٹ ہاؤس نے اینٿروپک کے سی ای او کے ساتھ "مثمر" دورہ کیا۔ *[Dawn](https://www.dawn.com/news/1992940/white-house-hosts-productive-visit-with-anthropic-ceo)*
+*   یورپی یونین نے میٹا کے واٹس ایپ اے آئی فیس کے خلاف اینٹی ٹرسٹ قوانین کی خلاف ورزی کے انتباہ کے ساتھ رول بیک کا حکم دیا۔ *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
 
 ## موسم
 
-- (کوئی خبر نہیں)
+*   کراچی میں 3.4 شدت کا زلزلہ آیا، پی ایم ڈی۔ *[Business Recorder](https://www.brecorder.com/news/40417108/34-magnitude-earthquake-jolts-karachi-pmd)*
 
 ## سیاست
 
-- امریکی صدر ٹرمپ نے وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز (سی ڈی ایف) فیلڈ مارشل سید عاصم منیر کی ستائش کی۔ *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)*
-- وزیراعظم شہباز شریف اور ترک صدر ایردوان نے خطے میں پائیدار امن کے لیے موجودہ موقع سے فائدہ اٹھانے پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*
-- وزیراعظم شہباز شریف نے ڈیزل کی قیمت میں کمی کا اعلان کیا۔ *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
-- پاکستان نے ایران کے مذاکرات کاروں کو اسرائیل کے حملے کے خدشے کے پیش نظر ایئر فورس کے ذریعے گھر پہنچایا۔ *[Dawn](https://www.dawn.com/news/1992758/pakistan-escorted-iran-negotiators-home-amid-israel-concerns)*
-- سابق وزیراعظم عمران خان کی اہلیہ بشریٰ بی بی کو آنکھوں کی سرجری کے بعد جیل واپس بھیج دیا گیا۔ *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)*
-- لاہور ہائی کورٹ نے بجلی کے ملازمین کے لیے مفت بجلی یونٹس ختم کرنے کی حکومت کی پالیسی کو برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/1992600/lhc-upholds-govts-policy-abolishing-free-electricity-units-for-power-sector-employees)*
+*   وزیراعظم شہباز شریف نے سعودی عرب، قطر اور ترکی کے دورے کے دوران علاقائی اور عالمی معاملات پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1992851/pm-shehbaz-discusses-global-regional-issues-during-tri-nation-tour)*
+*   وزیراعظم شہباز شریف لاہور پہنچ گئے، دورہ کامیاب رہا۔ *[Business Recorder](https://www.brecorder.com/news/40417111/pm-shehbaz-returns-to-lahore-after-successful-visits-to-saudi-arabia-qatar-turkiye)*
+*   ترکی کے وزیر خارجہ نے اسرائیل پر سلامتی کا بہانہ کرکے مزید زمین حاصل کرنے کا الزام عائد کیا۔ *[Dawn](https://www.dawn.com/news/1992864/israel-using-security-as-a-pretext-to-acquire-more-land-turkiyes-fm-fidan)*
+*   مصر پاکستان کے ساتھ امریکہ اور ایران کے درمیان دیرپا امن منصوبے پر کام کر رہا ہے، وزیر نے کہا۔ *[Business Recorder](https://www.brecorder.com/news/40417097/egypt-working-with-pakistan-on-lasting-us-iran-peace-plan-minister-says)*
+*   پاکستان، سعودی عرب، ترکی اور مصر کے وزرائے خارجہ نے "تبدل ہوتے علاقائی منظرنامے" پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1992953/foreign-ministers-of-pakistan-saudi-arabia-turkiye-and-egypt-discuss-evolving-regional-dynamics)*
+*   بھارت نے ایرانی سفیر کو طلب کیا، ہرمز کی آبنائے کے قریب بھارتی پرچم والے بحری جہازوں پر حملے پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1992990/new-delhi-summons-iranian-envoy-after-indian-flagged-tankers-shot-at-near-strait-of-hormuz)*
 
 ## قومی
 
-- کراچی میں بچوں میں HIV کے کیسز میں ڈرامائی طور پر اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
-- منگلا ڈیم سے 125 افراد کو محفوظ طریقے سے نکالا گیا۔ *[Dawn](https://www.dawn.com/news/1992814/tragedy-averted-as-125-ferried-to-safety-from-mangla-dam)*
-- ایف آئی اے نے انسانی اسمگلروں کے خلاف کریک ڈاؤن میں مطلوب مجرم کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1992808/most-wanted-trafficker-held-in-fia-crackdown)*
-- چلاس حملے کے بعد پولیس نے دہشت گردوں کے خلاف کومبنگ آپریشن کو تیز کر دیا اور 15 افراد کو حراست میں لے لیا۔ *[Dawn](https://www.dawn.com/news/1992807/police-intensify-combing-operation-against-terrorists-after-chilas-attack-15-held)*
-- وفاقی دستوری عدالت (ایف سی سی) نے بھارت اور اسرائیل سے کتابوں کی درآمد پر عائد پابندی کو برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/1992812/fcc-upholds-ban-on-book-imports-from-certain-countries)*
-- اسلام آباد میں گھروں کے باہر غیر قانونی گارڈ کیبیوں کو ہٹانے کا مہم شروع کر دی گئی۔ *[Dawn](https://www.dawn.com/news/1992707/campaign-launched-to-remove-illegal-guards-cabins-from-outside-houses-in-islamabad)*
-- این بی پی نے شاہد آفریدی کو کھیلوں کے مشیر کے طور پر نامزد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416984/nbp-welcomes-shahid-afridi-as-sports-consultant)*
+*   چیف آف ڈیفنس فورسز (سی ڈی ایف) اور چیف آف آرمی سٹاف (سی او اے ایس) فیلڈ مارشل عاصم منیر نے ایران کے تین روزہ سرکاری دورے کے بعد وطن واپسی کی۔ *[Dawn](https://www.dawn.com/news/1992844/cdf-munir-concludes-3-day-iran-visit-discusses-sustainable-regional-peace-ispr)*
+*   بشریٰ بی بی نے 190 ملین پاؤنڈ کے کرپشن کیس میں سزا معطلی کے لیے اسلام آباد ہائی کورٹ سے رجوع کیا۔ *[Dawn](https://www.dawn.com/news/1992994/bushra-bibi-moves-ihc-seeking-to-suspend-sentence-in-ps190m-corruption-case-on-medical-grounds)*
+*   کراچی میں مبینہ اسمگلروں کے گاڑی سے ٹکرانے سے پولیس اہلکار جاں بحق۔ *[Dawn](https://www.dawn.com/news/1992960/karachi-policeman-dies-after-being-hit-by-alleged-smugglers-vehicle-during-checking)*
+*   سابق وزیراعظم کے معاون خصوصی برائے صحت ڈاکٹر ظفر مرزا نے بی بی سی کے انکشاف کے بعد پاکستان میں ایچ آئی وی کیسز میں اضافے پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1992985/after-bbc-expose-ex-sapm-on-health-voices-alarm-at-uptick-in-hiv-cases-in-pakistan)*
+*   کراچی میں بچوں میں ایچ آئی وی کے کیسز میں ڈرامائی اضافہ، تین اسپتالوں میں 159 مریض داخل۔ *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
+*   پی آئی اے نے حج آپریشن شروع کر دیا، 55,000 سے زائد زائرین کو لے جائیگی۔ *[Dawn](https://www.dawn.com/news/1992861/pia-begins-pre-haj-operations-to-transport-over-55000-pilgrims)*
+*   سرفراز احمد کو بنگلہ دیش سیریز کے لیے پاکستان کا ٹیسٹ کوچ مقرر کیا گیا۔ *[Dawn](https://www.dawn.com/news/1992849/sarfaraz-named-pakistans-test-coach-for-bangladesh-series-in-may)*
+*   اسٹیٹ بینک نے آئی ایم ایف کے ساتھ سٹاف لیول معاہدہ کامیابی سے مکمل کیا۔ *[ARY](https://arynews.tv/pakistan-secures-staff-level-agreement-with-imf)*
 
 ## بین الاقوامی
 
-- امریکہ نے ایران کے خلاف بحری محاصرہ برقرار رکھا ہے، لیکن ہرمز کی آبنائے کو کھولنے کی اجازت دی ہے۔ *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)*
-- میانمار نے سابق رہنما آنگ سان سو کی کی سزا کم کردی اور سابق صدر کو رہا کردیا۔ *[Dawn](https://www.dawn.com/news/1992670/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)*
-- وینزویلا، آئی ایم ایف اور ورلڈ بینک نے تعلقات بحال کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40417070/venezuela-imf-worl-bank-restore-relations)*
-- یورپی یونین نے میٹا کے واٹس ایپ اے آئی فیس کی خلاف ورزی پر تنبیہ کی ہے۔ *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
+*   ایران نے ہرمز کی آبنائے پر دوبارہ کنٹرول عائد کر دیا، بحری جہازوں کی فائرنگ کی اطلاعات۔ *[Dawn](https://www.dawn.com/news/1992831/iran-reimposes-control-over-strait-of-hormuz-as-ships-report-gunfire)*
+*   وینزویلا کی اپوزیشن رہنما ماریا کورینا ماچادو نے کہا کہ وہ امریکی صدر ٹرمپ کو نوبل امن انعام دینے پر کوئی پشیمان نہیں ہیں۔ *[Dawn](https://www.dawn.com/news/1992972/venezuelas-machado-says-has-no-regrets-about-gifting-nobel-peace-prize-to-trump)*
+*   امریکہ نے یوکرین جنگ کے باوجود روسی تیل کے لیے چھوٹ کی تجدید کی ہے۔ *[Dawn](https://www.dawn.com/news/1992862/us-renews-russian-oil-waiver-after-pressure-from-countries-dealing-with-iran-war-price-shocks)*
+*   اسرائیل نے لبنان میں "یلو لائن" قائم کرنے کا اعلان کیا، جیسا کہ غزہ میں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417104/israel-army-says-established-yellow-line-in-lebanon-as-in-gaza)*
+*   آسٹریلیا اور جاپان نے 7 ارب ڈالر کے بحری جہاز سودے کے آغاز کے لیے معاہدوں پر دستخط کیے۔ *[Business Recorder](https://www.brecorder.com/news/40417091/australia-japan-sign-contracts-to-start-7-billion-warship-deal)*
+*   فرانسیسی اداکارہ ناتھالی بے 77 سال کی عمر میں انتقال کرگئیں۔ *[Business Recorder](https://www.brecorder.com/news/40417095/french-film-star-nathalie-baye-dead-at-77-family-to-afp)*
 
 ## کھیل
 
-- (کوئی خبر نہیں)
-
-## صحت
-
-- زنک کی کمی پاکستان میں ایک عام لیکن نظر انداز مسئلہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416985/zinc-deficiency-under-recognised-health-issue-in-pakistan-survey)*
-- فاؤنڈایو: موٹاپا کی دوا کے اجراء کے پہلے ہفتے میں 1,390 امریکی نسخے تجویز کیے گئے۔ *[ARY](https://arynews.tv/foundayo-obesity-pill-draws-1390-us-prescriptions-in-launch-week)*
+*   سرفراز احمد کو بنگلہ دیش سیریز کے لیے پاکستان کا ٹیسٹ کوچ مقرر کیا گیا۔ *[Dawn](https://www.dawn.com/news/1992849/sarfaraz-named-pakistans-test-coach-for-bangladesh-series-in-may)*
 
 ## دیگر
 
-- آئی او ایم کے مطابق ایران سے پاکستان میں جنگ کے دوران 13,000 افراد داخل ہوئے۔ *[Dawn](https://www.dawn.com/news/1992806/iom-says-13000-crossed-into-pakistan-from-iran-during-war)*
-- کویت کو ویئر ہاؤسز کی کمی کا سامنا ہے۔ *[ARY](https://arynews.tv/kuwait-warehousing-sector-faces-serious-challenges)*
-- ایران جنگ کے 50 دنوں میں 50 ارب ڈالر کی تیل کی تجارت کا نقصان ہوا۔ *[ARY](https://arynews.tv/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil)*
-- حج 2026 کا آپریشن کراچی ائیرپورٹ سے شروع ہوا۔ *[ARY](https://arynews.tv/hajj-2026-operation-starts-from-karachi-airport)*
-- پی بی سی نے سابق جج پر حملے کی مذمت کی۔ *[Business Recorder](https://www.brecorder.com/news/40416977/pbc-condemns-attack-on-former-judge)*
-- پی ٹی آئی نے حکومت کے معاشی بحالی کے دعووں کو مسترد کردیا۔ *[Business Recorder](https://www.brecorder.com/news/40416976/pti-rejects-govt-claims-of-economic-recovery)*
-- امن کی راہ پر *[Business Recorder](https://www.brecorder.com/news/40416979/peace-within-reach)*
-- معاشی حکمت عملی *[Business Recorder](https://www.brecorder.com/news/40416980/economic-strategy)*
-- پی بی ایف نے بجلی کی لوڈ شیڈنگ میں اضافے پر سوال اٹھایا۔ *[Business Recorder](https://www.brecorder.com/news/40417000/pbf-asks-why-power-load-shedding-on-the-rise-despite-capacity-expansion)*
-- تاجر حکومت کے ساتھ معیشت کو بہتر بنانے کے لیے کام کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416997/businessmen-working-with-govt-to-improve-economy-s-m-tanveer)*
-- ایچ ای سی نے 2024-25 میں 3,946 ضرورت پر مبنی اسکالر شپ جاری کیں۔ *[Business Recorder](https://www.brecorder.com/news/40417002/hec-awards-3946-need-based-scholarships-in-2024-25)*
-- کراچی کے میئر نے شہر میں اہم انفراسٹرکچر منصوبوں کا رات گئے معائنہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416999/key-infrastructure-projects-mayor-karachi-holds-late-night-inspections-across-megacity)*
-- سندھ حکومت جلد ہی چھوٹے کسانوں کے لیے آسان قرضوں اور جدید طبی سہولیات متعارف کرائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40416998/easy-loans-modern-medical-facilities-sindh-govt-to-introduce-projects-for-small-farmers-soon-malkani)*
-- 1,300 سے زائد نئے گریجویٹ GET پلیسمنٹ پروگرام میں شامل ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40416998/over-1300-fresh-graduates-join-get-placement-programme)*
+*   اسکولوں کو کتابیں، یونیفارم اور اسٹیشنری کی اشیاء بیچنے سے منع کیا گیا۔ *[ARY](https://arynews.tv/schools-barred-from-selling-books-uniforms-and-stationary-items)*
+*   کلے فیس: سیلیبریٹی ڈرٹ کو نئی ڈی سی کامکس منی سیریز کے طور پر ظاہر کیا گیا۔ *[ARY](https://arynews.tv/clayface-celebrity-dirt-revealed-as-new-dc-comics-miniseries)*
+*   پہلا حج پرواز کراچی سے مدینہ پہنچی، زائرین کا گرمجوشی سے استقبال۔ *[ARY](https://arynews.tv/first-hajj-flight-from-karachi-arrives-in-madina-pilgrims-accorded-warm-welcome)*
+*   روسی بلاگر وکٹوریہ بونیا پر تنقید پر ماسکو کا اعتراف۔ *[ARY](https://arynews.tv/viktoria-bonya-russia-acknowledges-criticism-from-celebrity)*
+*   میلبورن میں کار کے لوگوں کے گروپ سے ٹکرانے سے ایک ہلاک ہوا۔ *[ARY](https://arynews.tv/police-investigate-tragic-collision-in-melbourne)*
+*   بےبی فوڈ کے جار سپر مارکیٹوں سے واپس بلائے گئے۔ *[ARY](https://arynews.tv/baby-food-jars-recalled-from-supermarkets)*
+*   "اسٹریٹجک خاموشی" کا انتخاب۔ *[Dawn](https://www.dawn.com/news/1992781/choosing-not-to-be-a-peace-broker)*
+*   پاکستان آئی ایم ایف کے اگلے قسط کی جلد منظوری کا خواہاں ہے۔ *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
+*   ترجمان دفتر خارجہ نے کہا کہ ایران کے ساتھ جنگ کے اثرات کے باوجود، آئی ایم ایف کی پیکیج کی جلد منظوری پر توجہ مرکوز ہے۔ *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
+*   راہیمہ بی بی: دہشت گردوں کی سہولت کار کی اہلیہ نے بی ایل ایف کی "غلیظ حکمت عملیوں" کا انکشاف کیا۔ *[ARY](https://arynews.tv/rahima-bibi-wife-of-terror-facilitator-reveals-blfs-dirty-tactics)*
 
