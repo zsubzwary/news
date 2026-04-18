@@ -7,163 +7,79 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 17-Apr-2026 21:08PKT 
+ &lrm; 18-Apr-2026 09:06PKT 
 
-پڑھنے کا وقت : 15 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ## معیشت
 
-* پاکستان نے 4 سال کے وقفے کے بعد 500 ملین ڈالر کا یورو بانڈ جاری کر دیا ہے، *[Dawn](https://www.dawn.com/news/1992643/pakistan-raises-500m-through-eurobond-after-4-year-hiatus)*۔
-* سعودی عرب نے پاکستان کو 3 ارب ڈالر کی اضافی ڈپازٹ دینے کا وعدہ کیا ہے اور موجودہ 5 ارب ڈالر کی سہولت کو مزید تین سالوں کے لیے بڑھا دیا ہے، *[Dawn](https://www.dawn.com/news/1992553/pakistan-saudi-arabia-sign-agreement-to-extend-3bn-deposit)*۔
-* خزانہ وزیر محمد اورنگزیب نے آئی ایم ایف کے ساتھ پاکستان کے تعلقات کو آسان بنانے میں چین کے تعاون کو سراہا، *[Dawn](https://www.dawn.com/news/1992576/aurangzeb-lauds-beijings-support-for-pakistans-imf-programme-during-meeting-with-chinese-counterpart)*۔
-* پاکستان کی بجلی کی پیداوار میں مارچ میں 6.3 فیصد اضافہ ہوا، ایندھن کی لاگت میں کمی آئی، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-power-generation-rises-6-3-yoy-to-8939-gwh-in-march-fuel-cost-falls/)*۔
-* ٹیکسٹائل برآمدات میں 0.5 فیصد کمی ہوئی، جو 13.5 ارب ڈالر رہی، مارچ کی برآمدات میں 7.06 فیصد کمی، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistans-textile-exports-fall-0-5-to-13-5-billion-in-9mfy26-march-exports-down-7-06-yoy/)*۔
+- پاکستان جلد ہی آئی ایم ایف کی اگلی قسط کی منظوری حاصل کرنے کی کوشش کر رہا ہے، اور آئی ایم ایف کا وفد اگلے ماہ مشاورتی جائزہ کے لیے پاکستان آئے گا۔ *[Dawn](https://www.dawn.com/news/1992761/pakistan-seeks-early-approval-of-next-imf-tranche)*
+- ڈیزل کی قیمت میں 32.12 روپے فی لیٹر کمی کی گئی ہے، جبکہ پٹرول کی قیمتوں میں کوئی تبدیلی نہیں کی گئی۔ *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
+- ڈالر کی قیمت گزشتہ تین سالوں میں پہلی بار 279 روپے سے نیچے آ گئی ہے۔ *[Dawn](https://www.dawn.com/news/1992766/dollar-slips-below-rs279-after-3-years)*
+- پاکستان نے 4 سال کے وقفے کے بعد 500 ملین ڈالر کا یورو بانڈ جاری کیا، جس کی سود کی شرح 6.95 فیصد ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-raises-500m-eurobond-at-6-95-as-investor-demand-signals-market-re-entry)*
+- سعودی عرب سے 2 ارب ڈالر کی مدد ملنے کے بعد پاکستان نے بین الاقوامی سرمائے کے بازار میں واپسی کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-raises-500m-eurobond-at-6-95-as-investor-demand-signals-market-re-entry)*
+- اوگرا نے پی ڈی سی کے تحت او ایم سی کو 38 ارب روپے کی رقم جاری کردی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ogra-disburses-pkr-38-billion-in-pdcs-to-omcs)*
+- یو بی ایل ڈپازٹس کے لحاظ سے پاکستان کی سب سے بڑی بینک بن گئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/ubl-officially-becomes-pakistans-largest-bank-by-deposits)*
 
 ## سائنس اور ٹیکنالوجی
 
-* بھارت نے اسمارٹ فونز پر نیشنل آئی ڈی ایپ کو لازمی کرنے کی تجویز واپس لے لی ہے، *[Dawn](https://www.dawn.com/news/1992649/india-drops-proposal-to-mandate-national-id-app-on-smartphones-after-pushback)*۔
-* ویڈیو گیم وائس اداکار ٹروی بیکر کا کہنا ہے کہ صرف انسان ہی فن تخلیق کر سکتے ہیں، *[Business Recorder](https://www.brecorder.com/news/40416956/video-game-voice-star-troy-baker-says-only-humans-can-make-art)*۔
+- یورپی ممالک امریکی کلاؤڈ کمپیوٹنگ سروسز پر بہت زیادہ انحصار کرتے ہیں، جو ان کی سکیورٹی کے لیے خطرہ بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/1992759/us-cloud-dominance-risks-european-security-report)*
+- بھارت نے اسمارٹ فونز میں آدھار ایپ کو لازمی کرنے کی تجویز واپس لے لی ہے۔ *[Dawn](https://www.dawn.com/news/1992649/india-drops-proposal-to-mandate-national-id-app-on-smartphones-after-pushback)*
+- محققین ایڈوانسڈ جین ایڈیٹنگ کے ذریعے ڈاؤن سنڈروم کا علاج تلاش کرنے کی کوشش کر رہے ہیں۔ *[ARY](https://arynews.tv/down-syndrome-and-the-crispr-gene-editing-tool)*
 
 ## موسم
 
-*(کوئی خبر نہیں)*
+- (کوئی خبر نہیں)
 
 ## سیاست
 
-* وزیراعظم شہباز شریف اور ترکی کے صدر رجب طیب ایردوان نے خطے میں پائیدار امن کے لیے موجودہ موقع سے فائدہ اٹھانے کی اہمیت پر زور دیا، *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*۔
-* سابق وزیراعظم عمران خان کی اہلیہ بشریٰ بی بی آنکھوں کی سرجری کے بعد اڈیالہ جیل واپس منتقل کر دی گئیں، *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)*۔
-* لاہور ہائی کورٹ نے بجلی کے شعبے کے ملازمین کے لیے مفت بجلی یونٹس ختم کرنے کی حکومت کی پالیسی کو برقرار رکھا، *[Dawn](https://www.dawn.com/news/1992600/lhc-upholds-govts-policy-abolishing-free-electricity-units-for-power-sector-employees)*۔
-* وزیراعظم شہباز شریف اور امریکی صدر کے مشیر نے علاقائی صورتحال اور پاکستان کے امن کے لیے کوششوں پر تبادلہ خیال کیا، *[Business Recorder](https://www.brecorder.com/news/40416939/pm-shehbaz-trumps-advisor-discuss-regional-developments-pakistans-peace-efforts)*۔
-* سابق وزیراعظم عمران خان کے قریبی ساتھی جہانگیر خان ترین کی پارٹی پیپلز پارٹی میں شامل ہوگئی، *[Dawn](https://www.dawn.com/news/1992599/jk-tarin-announces-joining-ppp)*۔
+- امریکی صدر ٹرمپ نے وزیراعظم شہباز شریف اور چیف آف ڈیفنس فورسز (سی ڈی ایف) فیلڈ مارشل سید عاصم منیر کی ستائش کی۔ *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)*
+- وزیراعظم شہباز شریف اور ترک صدر ایردوان نے خطے میں پائیدار امن کے لیے موجودہ موقع سے فائدہ اٹھانے پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1992556/pm-erdogan-emphasise-importance-of-utilising-window-of-opportunity-for-lasting-regional-peace)*
+- وزیراعظم شہباز شریف نے ڈیزل کی قیمت میں کمی کا اعلان کیا۔ *[Dawn](https://www.dawn.com/news/1992815/diesel-price-cut-by-rs32-a-litre-petrol-unchanged)*
+- پاکستان نے ایران کے مذاکرات کاروں کو اسرائیل کے حملے کے خدشے کے پیش نظر ایئر فورس کے ذریعے گھر پہنچایا۔ *[Dawn](https://www.dawn.com/news/1992758/pakistan-escorted-iran-negotiators-home-amid-israel-concerns)*
+- سابق وزیراعظم عمران خان کی اہلیہ بشریٰ بی بی کو آنکھوں کی سرجری کے بعد جیل واپس بھیج دیا گیا۔ *[Dawn](https://www.dawn.com/news/1992563/bushra-bibi-shifted-back-to-prison-following-eye-surgery-adiala-jail-authorities)*
+- لاہور ہائی کورٹ نے بجلی کے ملازمین کے لیے مفت بجلی یونٹس ختم کرنے کی حکومت کی پالیسی کو برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/1992600/lhc-upholds-govts-policy-abolishing-free-electricity-units-for-power-sector-employees)*
 
 ## قومی
 
-* پاکستان نے ایرانی مندوبین کو اسرائیلی حملے کے خدشے کے درمیان گھر تک پہنچایا، *[Dawn](https://www.dawn.com/news/1992620/pakistan-escorted-iranian-negotiators-home-from-peace-talks-amid-concerns-of-israeli-attack-sources-say)*۔
-* اسلام آباد انتظامیہ نے ٹرانسپورٹ ٹرمینلز بند کرنے کی خبروں کی تردید کی ہے، *[Dawn](https://www.dawn.com/news/1992605/islamabad-administration-denies-claims-regarding-closure-of-transport-terminals)*۔
-* وفاقی وزیر داخلہ محسن نقوی اور ایف آئی اے ڈی جی ڈاکٹر عثمان انوار نے کراچی میں شکایتوں کے بروقت ازالے اور شفاف تحقیقات کا حکم دیا، *[Dawn](https://www.dawn.com/news/1992589/mohsin-naqvi-fia-chief-direct-timely-complaint-redressal-transparent-investigations-during-karachi-visit)*۔
-* بجلی کی لوڈ شیڈنگ چھ سے سات گھنٹے تک بڑھ گئی ہے، *[Dawn](https://www.dawn.com/news/1992471/govt-admits-up-to-seven-hours-of-power-outages)*۔
-* قومی اسمبلی کی کمیٹی نے موبائل فون پر زیادہ ٹیکسوں پر نظر ثانی کا مطالبہ کیا، *[Dawn](https://www.dawn.com/news/1992464/na-panel-seeks-review-of-high-taxes-on-mobile-phones)*۔
-* پاکستان نے 400 ایکڑ کا صنعتی اسٹیٹ پورٹ قاسم میں قائم کرنے کا فیصلہ کیا ہے، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/17/pakistan-to-develop-400-acre-industrial-estate-at-port-qasim/)*۔
+- کراچی میں بچوں میں HIV کے کیسز میں ڈرامائی طور پر اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/1992741/karachi-records-dramatic-increase-in-paediatric-hiv-cases)*
+- منگلا ڈیم سے 125 افراد کو محفوظ طریقے سے نکالا گیا۔ *[Dawn](https://www.dawn.com/news/1992814/tragedy-averted-as-125-ferried-to-safety-from-mangla-dam)*
+- ایف آئی اے نے انسانی اسمگلروں کے خلاف کریک ڈاؤن میں مطلوب مجرم کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1992808/most-wanted-trafficker-held-in-fia-crackdown)*
+- چلاس حملے کے بعد پولیس نے دہشت گردوں کے خلاف کومبنگ آپریشن کو تیز کر دیا اور 15 افراد کو حراست میں لے لیا۔ *[Dawn](https://www.dawn.com/news/1992807/police-intensify-combing-operation-against-terrorists-after-chilas-attack-15-held)*
+- وفاقی دستوری عدالت (ایف سی سی) نے بھارت اور اسرائیل سے کتابوں کی درآمد پر عائد پابندی کو برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/1992812/fcc-upholds-ban-on-book-imports-from-certain-countries)*
+- اسلام آباد میں گھروں کے باہر غیر قانونی گارڈ کیبیوں کو ہٹانے کا مہم شروع کر دی گئی۔ *[Dawn](https://www.dawn.com/news/1992707/campaign-launched-to-remove-illegal-guards-cabins-from-outside-houses-in-islamabad)*
+- این بی پی نے شاہد آفریدی کو کھیلوں کے مشیر کے طور پر نامزد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416984/nbp-welcomes-shahid-afridi-as-sports-consultant)*
 
 ## بین الاقوامی
 
-* ایران نے لبنانی معاہدے کے بعد تجارتی جہازوں کے لیے ہرمز کی تنگ گذرگاہ کو کھلا قرار دیا، *[Dawn](https://www.dawn.com/news/1992627/iran-says-strait-of-hormuz-open-for-commercial-vessels-after-lebanon-deal)*۔
-* امریکی صدر ٹرمپ نے کہا کہ اسرائیل کو لبنان پر بمباری کرنے سے روک دیا گیا ہے، *[Business Recorder](https://www.brecorder.com/news/40416953/trump-says-israel-banned-from-bombing-lebanon)*۔
-* انڈیا نے 2028 میں اقوام متحدہ کی آب و ہوا کی بات چیت کی میزبانی کے لیے اپنی تجویز واپس لے لی ہے، *[ARY](https://arynews.tv/india-withdraws-its-bid-to-host-un-climate-talks-in-2028)*۔
-* سویڈن کے حقوق گروپوں نے تارکین کو "صادق زندگی" کے معیار پر مجبور کرنے پر تنقید کی ہے، *[Dawn](https://www.dawn.com/news/1992585/sweden-rights-groups-blast-honest-living-criteria-for-migrants)*۔
-* یوکرین جنگ کے باعث یورپی یونین میں توانائی کی قیمتیں بڑھ گئیں، *[Business Recorder](https://www.brecorder.com/news/40416952/wall-street-indexes-rally-after-iran-says-strait-of-hormuz-completely-open)*۔
+- امریکہ نے ایران کے خلاف بحری محاصرہ برقرار رکھا ہے، لیکن ہرمز کی آبنائے کو کھولنے کی اجازت دی ہے۔ *[Dawn](https://www.dawn.com/news/1992816/hormuz-fully-open-but-us-keeps-iran-blockade-intact)*
+- میانمار نے سابق رہنما آنگ سان سو کی کی سزا کم کردی اور سابق صدر کو رہا کردیا۔ *[Dawn](https://www.dawn.com/news/1992670/myanmar-cuts-ex-leader-aung-san-suu-kyis-sentence-frees-former-president)*
+- وینزویلا، آئی ایم ایف اور ورلڈ بینک نے تعلقات بحال کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40417070/venezuela-imf-worl-bank-restore-relations)*
+- یورپی یونین نے میٹا کے واٹس ایپ اے آئی فیس کی خلاف ورزی پر تنبیہ کی ہے۔ *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
 
 ## کھیل
 
-* کینیڈا کی کرکٹ ٹیم کے ٹی 20 ورلڈ کپ میچ پر آئی سی سی کی نگرانی، مبینہ طور پر کرپشن کا الزام، *[Dawn](https://www.dawn.com/news/1992601/canada-t20-world-cup-game-under-icc-scrutiny-after-corruption-claim)*۔
-* کارلوس الکاراز چوٹ کے باعث میڈرڈ اوپن سے دستبردار ہو گئے، *[Business Recorder](https://www.brecorder.com/news/40416954/injured-alcaraz-pulls-out-of-madrid-open-for-second-straight-year)*۔
-* نوواک جوکووچ بھی میڈرڈ اوپن میں شرکت نہیں کریں گے، *[Business Recorder](https://www.brecorder.com/news/40416940/injured-djokovic-to-miss-madrid-open)*۔
-* جاپانی مداح بی ٹی ایس کو دنیا کے دورے پر خوش آمدید کہنے کے لیے جمع ہوئے، *[Business Recorder](https://www.brecorder.com/news/40416955/japanese-fans-gather-to-welcome-bts-on-world-tour)*۔
+- (کوئی خبر نہیں)
 
 ## صحت
 
-*(کوئی خبر نہیں)*
+- زنک کی کمی پاکستان میں ایک عام لیکن نظر انداز مسئلہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40416985/zinc-deficiency-under-recognised-health-issue-in-pakistan-survey)*
+- فاؤنڈایو: موٹاپا کی دوا کے اجراء کے پہلے ہفتے میں 1,390 امریکی نسخے تجویز کیے گئے۔ *[ARY](https://arynews.tv/foundayo-obesity-pill-draws-1390-us-prescriptions-in-launch-week)*
 
 ## دیگر
 
-* پوپ لیو نے دنیا کے舞台 پر ایک نئی طاقتور انداز میں قدم رکھا، *[Dawn](https://www.dawn.com/news/1992612/a-new-forceful-pope-leo-steps-onto-the-world-stage)*۔
-* آسٹریلوی فوجی پر افغانستان میں جنگی جرائم کا الزام، عدالت نے ضمانت منظور کر دی، *[Dawn](https://www.dawn.com/news/1992559/australian-soldier-accused-of-war-crimes-in-afghanistan-granted-bail)*۔
-* نئی اسکول حاضری نظام متعارف کرایا گیا، *[ARY](https://arynews.tv/school-attendance-monitoring-system-launched)*۔
-* ای-چالان سسٹم ایک اور شہر میں شروع کیا گیا، *[ARY](https://arynews.tv/e-challan-system-launched-in-another-city)*۔
-* لبنانی شہریوں نے جنگ بندی کے بعد "ناقابل رہائش" علاقوں میں واپسی کی، *[ARY](https://arynews.tv/lebanese-return-to-unliveable-areas-as-ceasefire-with-israel-mostly-holds)*۔
-* ٹرمپ نے پاکستان، وزیراعظم شہباز اور چیف آف ڈیفنس فورسز کی تعریف کی، *[ARY](https://arynews.tv/trump-calls-pm-shehbaz-sharif-field-marshal-asim-munir-great)*۔
-* پیٹرول کی قیمت میں کمی کا امکان، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-* ہرمز کی تنگ گذرگاہ کے فیصلے کے بعد پاکستان میں پیٹرول کی قیمت کم ہونے کا امکان ہے، *[ARY](https://arynews.tv/petrol-price-in-pakistan-likely-to-decrease-after-hormuz-decision-minister)*۔
-*
+- آئی او ایم کے مطابق ایران سے پاکستان میں جنگ کے دوران 13,000 افراد داخل ہوئے۔ *[Dawn](https://www.dawn.com/news/1992806/iom-says-13000-crossed-into-pakistan-from-iran-during-war)*
+- کویت کو ویئر ہاؤسز کی کمی کا سامنا ہے۔ *[ARY](https://arynews.tv/kuwait-warehousing-sector-faces-serious-challenges)*
+- ایران جنگ کے 50 دنوں میں 50 ارب ڈالر کی تیل کی تجارت کا نقصان ہوا۔ *[ARY](https://arynews.tv/how-50-days-of-the-iran-war-led-to-the-loss-of-50-billion-worth-of-oil)*
+- حج 2026 کا آپریشن کراچی ائیرپورٹ سے شروع ہوا۔ *[ARY](https://arynews.tv/hajj-2026-operation-starts-from-karachi-airport)*
+- پی بی سی نے سابق جج پر حملے کی مذمت کی۔ *[Business Recorder](https://www.brecorder.com/news/40416977/pbc-condemns-attack-on-former-judge)*
+- پی ٹی آئی نے حکومت کے معاشی بحالی کے دعووں کو مسترد کردیا۔ *[Business Recorder](https://www.brecorder.com/news/40416976/pti-rejects-govt-claims-of-economic-recovery)*
+- امن کی راہ پر *[Business Recorder](https://www.brecorder.com/news/40416979/peace-within-reach)*
+- معاشی حکمت عملی *[Business Recorder](https://www.brecorder.com/news/40416980/economic-strategy)*
+- پی بی ایف نے بجلی کی لوڈ شیڈنگ میں اضافے پر سوال اٹھایا۔ *[Business Recorder](https://www.brecorder.com/news/40417000/pbf-asks-why-power-load-shedding-on-the-rise-despite-capacity-expansion)*
+- تاجر حکومت کے ساتھ معیشت کو بہتر بنانے کے لیے کام کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40416997/businessmen-working-with-govt-to-improve-economy-s-m-tanveer)*
+- ایچ ای سی نے 2024-25 میں 3,946 ضرورت پر مبنی اسکالر شپ جاری کیں۔ *[Business Recorder](https://www.brecorder.com/news/40417002/hec-awards-3946-need-based-scholarships-in-2024-25)*
+- کراچی کے میئر نے شہر میں اہم انفراسٹرکچر منصوبوں کا رات گئے معائنہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40416999/key-infrastructure-projects-mayor-karachi-holds-late-night-inspections-across-megacity)*
+- سندھ حکومت جلد ہی چھوٹے کسانوں کے لیے آسان قرضوں اور جدید طبی سہولیات متعارف کرائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40416998/easy-loans-modern-medical-facilities-sindh-govt-to-introduce-projects-for-small-farmers-soon-malkani)*
+- 1,300 سے زائد نئے گریجویٹ GET پلیسمنٹ پروگرام میں شامل ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40416998/over-1300-fresh-graduates-join-get-placement-programme)*
 
