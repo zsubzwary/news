@@ -4,73 +4,65 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-Apr-2026 09:02PKT
+Published at: 19-Apr-2026 21:02PKT
 
 Time to read: 5 mins
 
 ### Economy
-- Pakistan anticipates a $1.2 billion inflow next month following potential IMF approval of a Staff-Level Agreement. *[Dawn](https://www.dawn.com/news/1993103/pakistan-eyes-12bn-inflow-next-month)*
-- SBP Governor Jameel Ahmad stated that macroeconomic indicators have improved faster than expected due to prudent monetary and fiscal policies. *[Dawn](https://www.dawn.com/news/1993102/economy-can-weather-iran-war-risks-sbp-chief)*
-- The government has repaid $2 billion to the UAE, with a remaining $1.5 billion due on April 23. *[Dawn](https://www.dawn.com/news/1993003/sbp-says-govt-has-paid-2bn-to-uae)*
-- The KSE-100 Index outlook is heavily influenced by the outcome of US-Iran talks and upcoming quarterly results. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/kse-100-index-outlook-hinges-on-us-iran-deal-report/)*
-- Weekly inflation decreased by 0.69%, with the annual rate at 12.16%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/weekly-inflation-falls-0-69-as-annual-rate-stands-at-12-16/)*
-- The Punjab Revenue Authority collected over Rs250 billion in the first nine months of FY26, a 38% YoY increase. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/punjab-revenue-authority-collects-over-rs250-billion-in-9mfy26-up-38-yoy/)*
-- OGDC’s oil production has surpassed 40,000 barrels per day for the first time in over six years. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/ogdc-oil-production-crosses-40000-barrels-per-day-after-over-six-years/)*
-- SECP approved JS Rental REIT offer for sale, opening a new investment avenue. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/secp-approves-js-rental-reit-offer-for-sale-opens-new-investment-avenue/)*
-- Russia approved 16 Pakistani seafood plants for export, potentially opening a $300 million market. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/russia-approves-16-pakistani-seafood-plants-opens-export-market-of-up-to-300-million/)*
-- The government collected over Rs180 billion in petroleum levy in the last six weeks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/govt-collects-over-rs180-billion-petroleum-levy-in-six-weeks-amid-regional-tensions/)*
-- ADB chief warns of yen pressure from Japan’s too-slow rate hikes. *[Business Recorder](https://www.brecorder.com/news/40417168/adb-chief-warns-of-yen-pressure-from-japans-too-slow-rate-hikes)*
-- India approved a USD 1.4bn maritime insurance pool and hiked inflation-linked allowances. *[Business Recorder](https://www.brecorder.com/news/40417169/india-approves-usd-14bn-maritime-insurance-pool-hikes-inflation-linked-allowances)*
-- NTC initiates anti-dumping investigations into import of PVC resin. *[Business Recorder](https://www.brecorder.com/news/40417172/ntc-initiates-anti-dumping-investigations-into-import-of-pvc-resin)*
+- Pakistan is expecting a $1.2 billion inflow from the IMF after reaching a Staff-Level Agreement, with Executive Board approval anticipated next month. *[Dawn](https://www.dawn.com/news/1993103/pakistan-eyes-12bn-inflow-next-month)*
+- The SBP Governor stated that macroeconomic indicators have improved faster than expected due to prudent monetary and fiscal policies. *[Dawn](https://www.dawn.com/news/1993102/economy-can-weather-iran-war-risks-sbp-chief)*
+- Pakistan has repaid $2 billion to the UAE, funded by new financing from Saudi Arabia, as part of a $3.5 billion repayment. *[Dawn](https://www.dawn.com/news/1993003/sbp-says-govt-has-paid-2bn-to-uae)*
+- Pakistan’s food trade deficit widened in the first nine months of FY26, with imports rising 15% to $7.09 billion and exports falling 34%. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/food-trade-gap-widens-as-imports-rise-15pc-to-7-09bn-exports-sink-34pc-in-9mfy26)*
+- The OICCI urged the government to expand the tax net rather than burden existing taxpayers. *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
+- Jet fuel prices have decreased by Rs23 per litre to Rs471.01, while diesel prices were slashed by over Rs32. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/jet-fuel-falls-rs23-to-rs471-per-litre-after-record-spike-diesel-also-slashed-by-over-rs32)*
+- Urea sales have fallen to a 24-quarter low after a period of discount-led demand. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-urea-sales-slide-to-24-quarter-low-after-discount-led-demand-shift)*
 
 ### Politics
-- Foreign Ministers of Pakistan, Saudi Arabia, Turkiye, and Egypt held a consultative meeting discussing regional dynamics. *[Dawn](https://www.dawn.com/news/1992953/foreign-ministers-of-pakistan-saudi-arabia-turkiye-and-egypt-discuss-evolving-regional-dynamics)* & *[Business Recorder](https://www.brecorder.com/news/40417176/pakistan-ksa-turkiye-amp-egypt-fms-hold-third-consultative-meeting-in-turkiye)*
+- President Trump announced that US representatives are heading to Islamabad for negotiations with Iran. *[Dawn](https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran)*
+- Trump stated that Vance will *not* lead the Iran talks, though the White House later signaled otherwise. *[Business Recorder](https://www.brecorder.com/news/40417204/trump-says-vance-wont-lead-iran-talks-white-house-signals-otherwise)*
 - Twelve countries, including Pakistan, condemned Israel’s move to appoint an envoy to Somaliland. *[Dawn](https://www.dawn.com/news/1993013/12-countries-including-pakistan-condemn-israels-move-to-appoint-envoy-to-somaliland)*
-- Iran has tightened control over the Strait of Hormuz, responding to a perceived US blockade. *[Dawn](https://www.dawn.com/news/1992831/iran-reimposes-control-over-strait-of-hormuz-as-ships-report-gunfire)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/iran-shuts-strait-of-hormuz-again-as-us-blockade-of-ports-continues-report/)* & *[Business Recorder](https://www.brecorder.com/news/40417175/new-delhi-protests-iran-fire-at-indian-flagged-ships-in-hormuz)*
-
-### International
-- France blames Hezbollah for the death of a French soldier in Lebanon, with Hezbollah denying the allegation. *[Dawn](https://www.dawn.com/news/1993066/france-blames-hezbollah-for-soldiers-death-in-lebanon)*
-- Ukraine: At least six people were killed in Kyiv after a gunman opened fire and took hostages. *[Dawn](https://www.dawn.com/news/1993009/at-least-6-killed-after-gunman-opens-fire-in-ukrainian-capital)*
-- North Korea fired multiple ballistic missiles towards the sea off its east coast. *[ARY](https://arynews.tv/north-korea-fires-multiple-ballistic-missiles)*
-- US renewed a waiver allowing countries to buy sanctioned Russian oil. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/us-renews-russian-oil-waiver-after-pressure-from-countries-dealing-with-iran-war-price-shocks/)*
-- Pope Leo downplayed his feud with US President Donald Trump. *[Dawn](https://www.dawn.com/news/1993000/pope-leo-downplays-feud-with-trump-says-not-in-my-interest-to-debate-him)*
-- EU warns Meta WhatsApp AI fee breaches antitrust rules orders rollback. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
-- Netherlands to activate first phase of energy crisis plan. *[ARY](https://arynews.tv/netherlands-to-activate-first-phase-of-energy-crisis-plan-anp-reports)*
+- Deputy Prime Minister and Foreign Minister Ishaq Dar reaffirmed Pakistan’s commitment to strengthening ties with Poland. *[Business Recorder](https://www.brecorder.com/news/40417198/pakistan-poland-reaffirm-commitment-to-strengthen-ties-in-high-level-phone-call)*
 
 ### National
-- Sikh pilgrims from India concluded their Baisakhi visit and are returning home via Wagah. *[Dawn](https://www.dawn.com/news/1993072/sikh-pilgrims-return-home-today-via-wagah)*
-- Security forces arrested the wife of an alleged facilitator in the Nokundi FC headquarters suicide blast case. *[Dawn](https://www.dawn.com/news/1993077/wife-of-facilitator-held-in-nokundi-fc-headquarters-suicide-blast-case)*
-- Rawalpindi police denied reports of indefinite market closures. *[Dawn](https://www.dawn.com/news/1993018/rawalpindi-police-deny-reports-of-markets-being-closed-indefinitely)*
-- CDA Munir concluded a three-day visit to Iran, discussing regional peace and security. *[Dawn](https://www.dawn.com/news/1992844/cdf-munir-concludes-3-day-iran-visit-discusses-sustainable-regional-peace-ispr)*
-- IHC orders enforcement of the 3% disability quota. *[Business Recorder](https://www.brecorder.com/news/40417173/ihc-dismisses-ztbls-petitions-against-adr-mechanism)*
-- PMA Kakul held a passing-out parade. *[Business Recorder](https://www.brecorder.com/news/40417174/pma-kakul-holds-passing-out-parade)*
+- Security has been beefed up in Islamabad ahead of the arrival of foreign delegations, with the Red Zone closed to traffic. *[Dawn](https://www.dawn.com/news/1993212/security-beefed-up-as-islamabad-braces-for-arrival-of-foreign-delegations)*
+- Religious cleric Engineer Muhammad Ali Mirza survived an attack in Jhelum; the attacker was killed. *[Dawn](https://www.dawn.com/news/1993211/religious-cleric-engineer-muhammad-ali-mirza-survives-attack-in-jhelum)*
+- The Rawalpindi Ring Road is set to open by the end of May, but without the Thalian interchange. *[Dawn](https://www.dawn.com/news/1993148/rawalpindis-ring-road-to-open-without-thalian-interchange)*
+- The wife of an alleged facilitator of the Nokundi FC headquarters suicide blast has been arrested. *[Dawn](https://www.dawn.com/news/1993077/wife-of-facilitator-held-in-nokundi-fc-headquarters-suicide-blast-case)*
+- Sikh pilgrims are returning home today via the Wagah Border after completing their Baisakhi visit. *[Dawn](https://www.dawn.com/news/1993072/sikh-pilgrims-return-home-today-via-wagah)*
+- Police arrested three women at Sialkot airport for alleged beggary in Saudi Arabia. *[Dawn](https://www.dawn.com/news/1993039/three-women-held-in-sialkot-for-beggary-in-ksa)*
+- A suspect in a scooty-riding robbery was injured in an “encounter” with police in Lahore. *[Dawn](https://www.dawn.com/news/1993044/scooty-riding-girl-robbery-suspect-injured-in-encounter)*
+- The Sindh High Court found no legal basis for blocking CNICs in civil cases under Sindh laws. *[Dawn](https://www.dawn.com/news/1993113/sindh-high-court-sees-no-clause-in-sindh-laws-for-blocking-cnic-in-civil-cases)*
+
+### International
+- North Korea fired ballistic missiles, accelerating its missile launches amid Iran war tensions. *[Dawn](https://www.dawn.com/news/1993180/north-korea-fires-ballistic-missiles-again-flexing-muscle-amid-iran-war)*
+- A fire at a firecracker factory in India killed 20 people. *[Business Recorder](https://www.brecorder.com/news/40417203/fire-at-india-firecracker-factory-kills-20-police)*
+- A rat poison was found in a jar of HiPP baby food in Austria, leading to a recall. *[Dawn](https://www.dawn.com/news/1993209/rat-poison-found-in-baby-food-jar-in-austria-police-say)*
+- Yemen’s Houthis threatened to close the Bab Al Mandeb Strait if US policies continue to hinder peace efforts. *[Business Recorder](https://www.brecorder.com/news/40417190/yemens-houthis-threaten-bab-al-mandeb-closure)*
+- A fire in Malaysia’s Sabah destroyed 200 homes, displacing hundreds. *[Business Recorder](https://www.brecorder.com/news/40417189/fire-in-malaysias-sabah-destroys-200-homes-hundreds-displaced)*
+
+### Science & Technology
+- Humanoid robots raced in a Beijing half-marathon, demonstrating rapid advancements in robotics. *[Dawn](https://www.dawn.com/news/1993221/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances)*
+- Blue Origin successfully landed a reused New Glenn rocket booster, intensifying its rivalry with SpaceX. *[ARY](https://arynews.tv/blue-origin-marks-first-landing-of-reused-new-glenn-rocket-booster-ratcheting-up-spacex-rivalry)* & *[Business Recorder](https://www.brecorder.com/news/40417196/blue-origin-marks-first-landing-of-reused-new-glenn-rocket-booster-ratcheting-up-spacex-rivalry)*
 
 ### Weather
-- The weather report for Karachi and Hyderabad for April 18th and 19th. *[Business Recorder](https://www.brecorder.com/news/40417119/the-weather)*
+- Traffic was restored on the Karakoram Highway after a landslide caused by heavy rainfall in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/1993208/traffic-restored-on-karakoram-highway-following-landslide-as-heavy-rainfall-lashes-gb)*
+- PMD experts predict a “Super El Niño” impact on Karachi by August, raising concerns about heatwaves. *[ARY](https://arynews.tv/karachi-heat-warning-pmd-experts-predict-super-el-nino-impact-by-august)*
+- A climate conference has been rescheduled due to regional conflict and peace promotion efforts. *[Dawn](https://www.dawn.com/news/1993083/climate-moot-rescheduled)*
+
+### Sports
+- Multan Sultans defeated Karachi Kings in a high-scoring PSL clash. *[ARY](https://arynews.tv/multan-sultans-vs-karachi-kings-psl-11-april-19-match)*
+- Elena Rybakina reached the finals of the Porsche Tennis Grand Prix. *[Business Recorder](https://www.brecorder.com/news/40417194/elena-rybakina-continues-sizzling-start-to-2026)*
+- KL Rahul and Tristan Stubbs steered Delhi Capitals to victory over Royal Challengers Bengaluru in the IPL. *[Business Recorder](https://www.brecorder.com/news/40417188/rahul-and-stubbs-steer-delhi-past-bengaluru-in-thrilling-ipl-contest)*
 
 ### Health
-- Former SAPM on health Dr. Zafar Mirza voiced alarm at the rising number of HIV cases in Pakistan. *[Dawn](https://www.dawn.com/news/1992985/after-bbc-expose-ex-sapm-on-health-voices-alarm-at-uptick-in-hiv-cases-in-pakistan)*
-- Bushra Bibi approached IHC seeking suspension of her sentence in £190m corruption case on medical grounds. *[Dawn](https://www.dawn.com/news/1992994/bushra-bibi-moves-ihc-seeking-to-suspend-sentence-in-ps190m-corruption-case-on-medical-grounds)*
+- No relevant news in provided articles.
 
 ### Other
-- A cultural night was hosted by the Punjab government for Sikh pilgrims. *[Dawn](https://www.dawn.com/news/1993072/sikh-pilgrims-return-home-today-via-wagah)*
-- Climate moot rescheduled to May 6-7 due to regional conflict and peace efforts. *[Dawn](https://www.dawn.com/news/1993083/climate-moot-rescheduled)*
-- Korangi Harbour gets Rs120m floating jetty. *[Dawn](https://www.dawn.com/news/1993101/korangi-harbour-gets-rs120m-floating-jetty)*
-- A mob torched a water tanker in Karachi after it killed a motorcyclist. *[Dawn](https://www.dawn.com/news/1992999/mob-torches-water-tanker-after-it-runs-over-kills-motorcyclist-in-karachis-gulistan-i-jauhar)*
-- War reparations discussed in relation to Iran-US conflict. *[Dawn](https://www.dawn.com/news/1993106/war-reparations)*
-- Swiss football club cancelled Kanye West concert. *[ARY](https://arynews.tv/swiss-football-club-cancel-kanye-west-concert)*
-- Jacob Elordi seen calling amid Kendall Jenner romance buzz. *[ARY](https://arynews.tv/jacob-elordi-seen-calling-amid-kendall-jenner-romance-buzz)*
-- Victoria Beckham’s birthday post goes viral amid Brooklyn feud. *[ARY](https://arynews.tv/victoria-beckham-shares-birthday-post-without-brooklyn)*
-- Iranian rial a good investment for Pakistanis amid Iran war? *[ARY](https://arynews.tv/iranian-rial-a-good-investment-for-pakistanis-amid-iran-war)*
-- German Visa Process 2026 for Pakistanis. *[ARY](https://arynews.tv/german-visa-process-2026-for-pakistanis)*
-- Thai CG hosts event to celebrate Songkran festival. *[Business Recorder](https://www.brecorder.com/news/40417126/thai-cg-hosts-event-to-celebrate-songkran-festival)*
-- Energy vehicles: PHEVs gaining ground as practical solution. *[Business Recorder](https://www.brecorder.com/news/40417127/energy-vehicles-phevs-gaining-ground-as-practical-solution)*
-- Second round of US-Iran peace talks unlikely to happen on Monday. *[Business Recorder](https://www.brecorder.com/news/40417170/second-round-iran-us-peace-talks-unlikely-tomorrow)*
-- Climate experts gather to discuss climate change issues facing Pakistan. *[Business Recorder](https://www.brecorder.com/news/40417124/climate-experts-gather-to-discuss-of-climate-change-issues-facing-pakistan)*
-- At least 30 criminal cases reported in Islamabad within week. *[Business Recorder](https://www.brecorder.com/news/40417123/at-least-30-criminal-cases-reported-in-islamabad-within-week)*
-- New Delhi protests Iran fire at Indian-flagged ships in Hormuz. *[Business Recorder](https://www.brecorder.com/news/40417175/new-delhi-protests-iran-fire-at-indian-flagged-ships-in-hormuz)*
-- Iran says tightening control of Strait. *[Business Recorder](https://www.brecorder.com/news/40417171/iran-says-tightening-control-of-strait)*
-- Traders place $760 million bet on falling oil ahead of Hormuz announcement. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/traders-place-760-million-bet-on-falling-oil-ahead-of-hormuz-announcement/)*
-- Iran shuts Strait of Hormuz again as US blockade of ports continues. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/iran-shuts-strait-of-hormuz-again-as-us-blockade-of-ports-continues-report/)*
-- Iran War 2026- Live Updates. *[ARY](https://arynews.tv/iran-launches-attack-on-israel)*
+- A traffic plan has been rolled out in Islamabad, with key roads closed due to foreign delegation visits. *[ARY](https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad)*
+- The government is providing the best possible facilities to Haj pilgrims as PIA launches its Haj operation. *[Dawn](https://www.dawn.com/news/1993193/minister-affirms-govt-providing-pilgrims-best-possible-facilities-as-pia-launches-haj-operation)*
+- EU warns Meta over WhatsApp AI fee, ordering a rollback due to antitrust concerns. *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
+- Various entertainment news items were reported, including updates on Victoria Beckham’s family, Akshay Kumar’s support for Wamiqa Gabbi, Charlize Theron’s traumatic experience, and Eddie Murphy receiving an AFI Life Achievement Award. *[ARY](https://arynews.tv/victoria-beckham-provides-update-on-brooklyn-estrangement)*, *[ARY](https://arynews.tv/akshay-kumar-backs-wamiqa-gabbi-shuts-down-aishwarya-rai-comparison)*, *[ARY](https://arynews.tv/charlize-theron-recalls-traumatic-night-her-mother-did-an-unimaginable-act)*, *[Business Recorder](https://www.brecorder.com/news/40417192/comedy-trailblazer-eddie-murphy-receives-afi-life-achievement-award)*
+- A film adaptation of the Indian epic “Ramayana” is aiming for a global audience. *[Business Recorder](https://www.brecorder.com/news/40417191/film-of-indian-epic-ramayana-aims-for-global-audience)*
+- A story about how a 32-year-old earns thousands with fewer than 8,000 followers was reported. *[ARY](https://arynews.tv/how-a-32-year-old-earns-thousands-with-fewer-than-8000-followers)*
+- UK’s Lammy signals support for PM Starmer over latest Mandelson row. *[ARY](https://arynews.tv/uks-lammy-signals-support-for-pm-starmer-over-latest-mandelson-row)*
 
