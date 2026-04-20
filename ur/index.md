@@ -7,96 +7,77 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 20-Apr-2026 09:07PKT 
+ &lrm; 20-Apr-2026 21:06PKT 
 
-پڑھنے کا وقت : 7 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-*   پاکستان اور قطر کے درمیان گیس کی فراہمی کے لیے بات چیت جاری ہے، تاکہ بجلی کی کمی کو دور کیا جا سکے *[Dawn](https://www.dawn.com/news/1993233/pakistan-in-discussion-with-qatar-for-supply-of-lng-cargoes-amid-electricity-shortfall)*
-*   بھارت میں HDFC بینک اور ICICI بینک کے مضبوط سہ ماہی نتائج کے بعد ہندوستانی حصص میں اضافے کی توقع ہے *[Business Recorder](https://www.brecorder.com/news/40417308/indian-shares-set-to-open-higher-after-strong-quarterly-results-from-hdfc-bank-icici)*
-*   تیل کی قیمتوں میں اضافہ، جبکہ مشرق وسطیٰ میں سیز فائر کے خطرات کے باعث حصص میں اتار چڑھاؤ *[Business Recorder](https://www.brecorder.com/news/40417303/oil-jumps-stocks-wobble-as-mideast-ceasefire-hangs-in-the-balance)*
-*   امریکی ڈالر کی مالیت میں اضافہ، مشرق وسطیٰ میں کشیدگی کے باعث سرمایہ کاروں نے محفوظ پناہ گاہوں کی طرف رجوع کیا *[Business Recorder](https://www.brecorder.com/news/40417306/dollar-hits-one-week-high-as-middle-east-tensions-reignite)*
-*   OICCI نے بجٹ 2026-27 کے لیے ٹیکس میں کمی اور سپر ٹیکس کے خاتمے کی تجویز دی ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/oicci-proposes-tax-cuts-super-tax-abolition-for-budget-2026-27/)*
-*   پاکستان میں فری لانسر انقلاب ٹیکس چوری پر مبنی جھوٹ ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/is-pakistans-freelancer-revolution-a-lie-built-on-tax-evasion/)*
+- پاکستان کی حکومت نے مشرق وسطیٰ جنگ کی وجہ سے موجودہ اور اگلے مالی سال میں اقتصادی سست روی کی پیشگوئی کی ہے، جس کی وجہ ترقیاتی بجٹ میں تقریباً 20 فیصد کٹوتی اور عالمی سپلائی چین میں خلل ہے۔ *[Dawn](https://www.dawn.com/news/1993522/govt-forsees-economic-slowdown-during-current-next-fiscal-years-due-to-middle-east-war)*
+- پاکستان نے بین الاقوامی سرمایاکاریوں کی بڑھتی ہوئی طلب کے نتیجے میں اپنے یورو بانڈ کو 500 ملین ڈالر سے بڑھا کر 750 ملین ڈالر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/1993495/pakistan-increases-eurobond-from-500m-to-750m)*
+- پاکستان کے بینک ڈپازٹس مارچ 2026 میں تاریخی سطح پر پہنچ گئے ہیں۔ *[ARY News](https://arynews.tv/pakistan-bank-deposits-reach-record-high-in-2026)*
+- اسٹیٹ بینک آف پاکستان (ایس بی پی) کے ملازمین کو کورٹ کے حکم پر ملازمتیں اور واجبات واپس ملیں گے۔ *[ARY News](https://arynews.tv/sbp-employees-to-get-their-jobs-dues-back-after-court-order)*
+- پاک بھارت تجارت کو 2030 تک 50 ارب ڈالر تک بڑھانے کے لیے بھارت اور جنوبی کوریا نے نئی ڈیلز کرنے کا منصوبہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/1993487/india-south-korea-plan-50bn-trade-push-with-new-deals)*
+- بھارت کی GIFT سٹی فنانس ہب نے ڈرون کے لیے ایک اجازت نامہ جاری کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417369/india-expands-russian-marine-insurance-options)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   EU نے میٹا کے واٹس ایپ AI فیس کی خلاف ورزی پر تنقید کرتے ہوئے اسے واپس لینے کا حکم دیا *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
-*   پاکستان نے کرپٹو کمپنیوں کو بینکنگ سروسز فراہم کرنے پر اسٹیٹ بینک کے سات سالہ پابندی کو ختم کر دیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/what-pakistan-just-got-right-about-innovation-and-regulation/)*
-*   روس نے پاکستان کے توانائی کے بنیادی ڈھانچے کو سائبر حملوں سے بچانے کے لیے سائبر سیکیورٹی تعاون کی پیشکش کی ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/russia-offers-cyber-security-cooperation-to-protect-pakistans-energy-infrastructure/)*
+- پاکستان نے ملک بھر کے بجلی تقسیم کرنے والے اداروں (ڈسکو) میں 10 ملین اسمارٹ میٹرز کی تنصیب کے لیے آئی ایف سی کو سرمایہ کاروں کے لیے مشیر کے طور پر شامل کیا ہے۔ *[Dawn](https://www.dawn.com/news/1993468/pakistan-engages-ifc-for-investors-in-installation-of-10m-smart-meters-across-all-discos)*
+- بھارت میں، 165 گیگا واٹ کی ریکارڈ ونڈ پاور کی صلاحیت 2025 میں شامل کی گئی، جس کی قیادت چین نے کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/record-165-gw-of-wind-power-capacity-added-in-2025-led-by-china-report-says)*
 
 ## موسم
 
-*(اس زمرے کے لیے کوئی خبر نہیں)*
+- جاپان میں 7.4 شدت کے زلزلے کے بعد 80 سینٹی میٹر کا سونامی ریکارڈ کیا گیا۔ *[Dawn](https://www.dawn.com/news/1993462/japan-records-80cm-tsunami-after-powerful-74-magnitude-quake-jma)*
 
 ## سیاست
 
-*   وزیراعظم شہباز شریف نے ایرانی صدر مسعود پہزیشیان سے ٹیلی فون پر بات کی، علاقائی امن و سلامتی کو فروغ دینے کے لیے پاکستان کی مکمل وابستگی کا اظہار کیا *[Dawn](https://www.dawn.com/news/1993250/in-45-minute-phone-call-with-pezeshkian-pm-shehbaz-reaffirms-pakistans-commitment-to-advancing-regional-peace)*
-*   کے پی کے وزیر اعلیٰ نے عمران خان کو بتایا کہ اگر انہوں نے منظوری دے دی تو ہم اگلے ہی دن اسلام آباد پہنچ جائیں گے *[Dawn](https://www.dawn.com/news/1993238/kp-cm-afridi-says-conveyed-to-imran-that-if-he-gives-go-ahead-we-will-be-in-islamabad-the-next-day)*
-*   برطانیہ کے وزیراعظم کو پیٹر میڈلسن اسکینڈل پر پارلیمنٹ میں جوابدہی کا سامنا کرنا پڑے گا *[Dawn](https://www.dawn.com/news/1993370/uk-pm-to-face-grilling-from-mps-today-over-mandelson-scandal)*
-*   سپین نے یورپی یونین سے اسرائیل کے ساتھ معاہدہ ختم کرنے کا مطالبہ کیا *[Business Recorder](https://www.brecorder.com/news/40417285/spain-urges-eu-to-end-association-agreement-with-israel)*
+- سابق صدر ٹرمپ نے کہا ہے کہ ایران کے ساتھ معاہدہ آج پاکستان میں طے پا جائے گا۔ *[ARY News](https://arynews.tv/iran-war-trump-claims-breakthrough-deal-expected-in-pakistan)*
+- ٹرمپ نے کہا کہ اسرائیل نے کبھی انہیں ایران کے ساتھ جنگ کرنے کے لیے نہیں کہا۔ *[Business Recorder](https://www.brecorder.com/news/40417389/trump-israel-never-talked-me-into-war-with-iran)*
+- وزیراعظم نے لبنانی جنگ بندی کی کوششوں اور علاقائی استحکام پر ایرانی ہم منصب سے تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40417387/fm-ishaq-dar-discusses-ceasefire-efforts-regional-stability-with-iranian-counterpart)*
+- اسرائیل اور لبنان جمعرات کو واشنگٹن میں دوسرے دور کی بات چیت کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40417386/israel-lebanon-to-hold-second-round-of-talks-in-washington-on-thursday-israeli-source-says)*
 
 ## قومی
 
-*   اسلام آباد ریڈ زون کو امریکی-ایرانی مذاکرات کے پیش نظر عوام کے لیے بند کر دیا گیا *[Dawn](https://www.dawn.com/news/1993271/red-zone-sealed-again-ahead-of-possible-islamabad-talks-20)*
-*   اسلام آباد کے ڈپٹی کمشنر نے 20 اپریل سے تمام دفاتر بند کرنے کی اطلاع نامے کو جعلی قرار دے دیا *[Dawn](https://www.dawn.com/news/1993252/islamabad-dc-dismisses-notification-falsely-announcing-closure-of-all-offices-in-twin-cities-from-april-20)*
-*   پشاور کے مضافات میں دہشت گردوں کے ٹھکانوں کو نشانہ بنایا گیا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
-*   بannو میں حملے میں دو FC اہلکار شہید *[Dawn](https://www.dawn.com/news/1993402/two-fc-men-martyred-in-bannu-attack)*
-*   پنجاب حکومت نے پہلی اسکائی گلاس برج منصوبے کی منظوری دی *[Business Recorder](https://www.brecorder.com/news/40417263/punjab-cm-approves-first-sky-glass-bridge-project)*
-*   حج اور عمرہ کے زائرین کے لیے علماء اور رہنماؤں نے ضابطہ اخلاق جاری کیا *[Business Recorder](https://www.brecorder.com/news/40417264/hajj-umrah-pilgrims-scholars-leaders-issue-code-of-conduct)*
-*   کے پی حکومت پشاور-نوشہرہ-جہانگیرہ ریلوے سیکشن کے لیے امکانات کا مطالعہ شروع کرے گی *[Business Recorder](https://www.brecorder.com/news/40417268/peshawar-nowshera-jahangira-railway-section-kp-govt-to-initiate-pre-feasibility-study)*
-*   PIA نے فیصل آباد سے حج پروازیں بحال کر دیں *[Business Recorder](https://www.brecorder.com/news/40417261/pia-resumes-hajj-flights-from-faisalabad)*
+- ایم کیو ایم - پی کی رکن قومی اسمبلی کی بیٹی کراچی میں گولی لگنے سے انتقال کر گئی۔ *[Dawn](https://www.dawn.com/news/1993518/mqm-p-mnas-daughter-dies-after-being-shot-by-stray-bullet-in-karachi)*
+- خیبر پختونخوا کے تیرہہ وادی میں چار تعمیراتی کارکنوں کو مسلح افراد نے اغوا کر لیا۔ *[Dawn](https://www.dawn.com/news/1993508/4-construction-workers-abducted-by-armed-men-in-kps-tirah-valley)*
+- بنوں میں انٹیلیجنس بیسڈ آپریشن (آئی بی او) کے دوران فروری کے خودکش حملے میں ملوث دہشت گرد سمیت دو دہشت گرد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1993438/terrorist-involved-in-february-suicide-attack-among-two-killed-in-bannu-ibo-ispr)*
+- لکی مروت میں دہشت گردوں اور پولیس کے درمیان فائرنگ کے تبادلے میں دو دہشت گرد ہلاک اور ایک پولیس اہلکار شہید ہوا۔ *[Dawn](https://www.dawn.com/news/1993427/two-terrorists-killed-police-constable-martyred-in-lakki-marwat)*
+- پاکستان اور مصر نے دو ہفتہ طویل انسداد دہشت گردی کی مشترکہ مشق مکمل کی۔ *[Dawn](https://www.dawn.com/news/1993474/pakistan-egypt-conclude-2-week-long-counter-terrorism-exercise-ispr)*
+- پولیو کے دوسرے قومی مہم کے دوران تقریباً 300,000 بچے محروم رہ گئے۔ *[Dawn](https://www.dawn.com/news/1993481/approximately-300000-children-missed-during-years-2nd-nationwide-polio-campaign)*
+- کے ایس ای -100 مشرق وسطیٰ کے تناؤ کے درمیان 1,700 سے زیادہ پوائنٹس گر گیا۔ *[Dawn](https://www.dawn.com/news/1993464/psx-plunges-over-1700-points-amid-middle-east-tensions)*
+- کسٹم افسران کو چاندی کے گھوٹالے کی تحقیقات میں معطل کر دیا گیا۔ *[ARY News](https://arynews.tv/silver-scandal-sees-custom-officers-suspended)*
 
 ## بین الاقوامی
 
-*   اسرائیل نے لبنان میں اپنی تعیناتی کی نئی لائن کا نقشہ جاری کیا، درجنوں گاؤں پر قبضہ کر لیا *[Dawn](https://www.dawn.com/news/1993257/israeli-military-publishes-map-of-new-deployment-line-in-lebanon-bringing-dozens-of-villages-under-its-control)*
-*   کویت نے جنگ کی کوریج پر کریک ڈاؤن کے درمیان صحافی کو حراست میں لے لیا *[Dawn](https://www.dawn.com/news/1993374/kuwait-detains-journalist-amid-crackdown-on-war-coverage)*
-*   شمالی کوریا کے رہنما کم نے کلسٹر وارہیڈز سے لیس میزائلوں کی آزمائش کی نگرانی کی *[ARY](https://arynews.tv/kim-jong-un-oversaw-test-of-missiles-with-cluster-warheads)*
-*   امریکی فوج نے کیریبین میں ایک اور بوٹ پر فائرنگ کر کے تین افراد کو ہلاک کر دیا *[Business Recorder](https://www.brecorder.com/news/40417311/us-military-says-it-killed-three-people-in-latest-caribbean-boat-strike)*
-*   ہانگ کانگ میں آتشزدگی کے متاثرین نے جلا ہوا گھروں میں یادگاریں تلاش کیں *[Business Recorder](https://www.brecorder.com/news/40417312/hong-kong-fire-victims-scour-scorched-homes-for-keepsakes)*
-*   برطانیہ کی پولیس نے ہائی اینڈ اسٹورز سے چوری کی منصوبہ بندی پر سات افراد کو گرفتار کیا *[Business Recorder](https://www.brecorder.com/news/40417284/uk-police-arrest-7-over-plan-to-shoplift-from-high-end-stores)*
-*   آسٹریا میں بچے کے کھانے کے برتن میں رٹ کے زہر کا پتہ چلا *[Business Recorder](https://www.brecorder.com/news/40417281/rat-poison-found-in-baby-food-jar-in-austria)*
+- ایران نے کہا کہ وہ امریکہ کے ساتھ بات چیت میں شرکت کا فیصلہ نہیں کیا۔ *[Dawn](https://www.dawn.com/news/1993458/uncertainty-prevails-over-talks-amid-mixed-signals-from-iran-trump-says-us-delegation-en-route-to-islamabad)*
+- اسرائیل نے لبنانی فوجی کی جانب سے عیسائی گاؤں میں ایک صلیب کو توڑنے کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1993480/israel-condemns-soldiers-desecration-of-crucifix-in-south-lebanon)*
+- انڈیا اور ساؤتھ کوریا نے 2030 تک تجارت کو 50 ارب ڈالر تک بڑھانے کے لیے نئی ڈیلز کرنے کا منصوبہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/1993487/india-south-korea-plan-50bn-trade-push-with-new-deals)*
+- انڈیا نے روسی بحری بیمہ کے اختیارات کو بڑھا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417379/india-expands-russian-marine-insurance-options)*
+- انڈیا نے مبینہ طور پر ارسنک سے قتل کے الزام میں برطانیہ کے فارماسسٹ کی حوالگی کی مخالفت کی۔ *[Business Recorder](https://www.brecorder.com/news/40417384/uk-pharmacist-fights-indian-extradition-for-allegedly-killing-his-ex-mother-in-law-with-arsenic)*
 
 ## کھیل
 
-*   اے زیڈ نے ڈچ کپ ایک طرفہ فتح کے ساتھ جیتا *[ARY](https://arynews.tv/dominant-az-win-dutch-cup-with-one-sided-victory)*
+- سری لنکا کے داسن شنکا کو آئی پی ایل میں جانے کے لیے پی ایس ایل سے ایک سال کے لیے معطل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/1993501/sri-lankas-dasun-shanaka-handed-one-year-psl-ban-for-ipl-switch)*
+- رومانیہ کے لیجنڈ ہگی کوچ کے طور پر واپسی پر ہر میچ جیتنے کا ارادہ رکھتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40417385/romania-legend-hagi-eyes-winning-every-game-on-return-as-coach)*
 
 ## صحت
 
-*   پاکستان میڈیکل ایسوسی ایشن نے ہیپاٹائٹس کے کیسز میں اضافے کے بارے میں خبردار کیا *[Dawn](https://www.dawn.com/news/1993388/pakistan-medical-association-warns-of-surge-in-hepatitis-cases-on-world-liver-day)*
-*   لویزیانا میں فائرنگ میں آٹھ بچے ہلاک *[ARY](https://arynews.tv/eight-children-killed-in-louisiana-mass-shooting-police-say)*
+- کوئی خبر نہیں
 
 ## دیگر
 
-*   ہنگلاج ماتا فیسٹیول میں بلوچستان میں تقریباً 300,000 ہندو یاتریوں نے شرکت کی *[Dawn](https://www.dawn.com/news/1993400/hinglaj-mata-festival-draws-nearly-300000-hindu-pilgrims-in-balochistan)*
-*   گوردوارہ پنجہ صاحب میں بائساخی پر رنگوں اور عقیدے کا سمندر *[Dawn](https://www.dawn.com/news/1993263/sea-of-colours-faith-marks-baisakhi-at-panja-sahib)*
-*   کراچی میں غیر قانونی تعمیرات کا سلسلہ جاری، SBCA بے اثر *[Dawn](https://www.dawn.com/news/1993343/illegal-construction-of-extra-floors-portions-springs-up-with-impunity-in-karachi)*
-*   اسلحتی افواج نے پشاور کے مضافات میں دہشت گردوں کے ٹھکانوں کو نشانہ بنایا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
-*   کے پی میں پانی کی قلت، اندوس معاہدے کے بارے میں خدشات *[Dawn](https://www.dawn.com/news/1993394/water-worries-grip-kp-farmers-amid-indus-treaty-concerns)*
-*   اسلحتی افواج نے حسن خیل آپریشن میں کامیابی کا دعویٰ کیا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
-*   اسٹراٹ آف ہرمز میں جہاز رانی متاثر نہیں ہوئی *[Dawn](https://www.dawn.com/news/1993401/shipping-channels-unaffected-by-hormuz-tensions)*
-*   لبنان نے اسرائیلی حملوں کے بعد اہم سڑک اور پل بحال کیے *[Dawn](https://www.dawn.com/news/1993375/lebanon-restores-lifelines-as-israel-extends-demolition)*
-*   اسلحتی افواج نے دہشت گردوں کے ٹھکانوں کو نشانہ بنایا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
-*   اسٹیون سپیلبرگ نے نئی فضائی فلم 'ڈسکلوزر ڈے' کی نقاب کشائی کی *[ARY](https://arynews.tv/steven-spielberg-teases-new-alien-film-disclosure-day)*
-*   اسلام آباد میں ہائیکنگ ٹریلز 20 اپریل سے بند *[ARY](https://arynews.tv/hiking-trails-in-federal-capital-closed-effective-april-20)*
-*   امریکی توانائی کے سربراہ کا کہنا ہے کہ گیس کی قیمتیں اگلے سال تک 3 ڈالر سے اوپر رہ سکتی ہیں *[ARY](https://arynews.tv/us-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year)*
-*   امریکی سینٹکام کا کہنا ہے کہ امریکی افواج نے بحیرہ عرب میں ایرانی بحری جہاز کو قبضہ میں لے لیا *[ARY](https://arynews.tv/us-centcom-says-forces-seized-iranian-ship-in-arabian-sea)*
-*   تیل کی قیمتیں بحال، اسٹاک میں اتار چڑھاؤ، مشرق وسطیٰ میں سیز فائر کا خطرہ *[Business Recorder](https://www.brecorder.com/news/40417303/oil-jumps-stocks-wobble-as-mideast-ceasefire-hangs-in-the-balance)*
-*   اسرائیل نے لبنان میں اپنی تعیناتی کی نئی لائن کا نقشہ جاری کیا *[Business Recorder](https://www.brecorder.com/news/40417283/israel-publishes-map-of-s-lebanon-territory-under-its-control)*
-*   فوری ڈی آئی: ایک بہتر مہینہ کمزور سال کو چھپا نہیں سکتا *[Business Recorder](https://www.brecorder.com/news/40417266/fdi-a-better-month-cannot-hide-weaker-year)*
-*   سرفلس آج، کل دباؤ *[Business Recorder](https://www.brecorder.com/news/40417265/surplus-today-pressure-tomorrow)*
-*   سونے کی قیمت میں کمی، مضبوط ڈالر کے باعث *[Business Recorder](https://www.brecorder.com/news/40417304/gold-falls-on-stronger-dollar-amid-renewed-us-iran-tensions)*
-*   امریکا-ایران جنگ کے خاتمے کی امیدوں پر تیل کی قیمتوں میں کمی سے بھارتی روپے اور بانڈز کو کچھ راحت ملے گی *[Business Recorder](https://www.brecorder.com/news/40417305/oil-price-plunge-on-us-iran-peace-hopes-to-give-indian-rupee-bonds-some-breather)*
-*   اسٹراٹ آف ہرمز کے دوبارہ بند ہونے کے ساتھ تیل کی قیمتوں میں اضافہ *[Business Recorder](https://www.brecorder.com/news/40417307/oil-claws-back-losses-as-strait-of-hormuz-is-closed-again)*
-*   SECP نے 16 ماہ میں تنخواہوں اور مراعات کے طور پر 1.19 ارب روپے تقسیم کیے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/secp-disburses-rs1-19-billion-in-salaries-benefits-with-retrospective-effect-over-16-months/)*
-*   پروفٹ ای-میگزین ایشو 398 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/profit-e-magazine-issue-398/)*
-*   سونے کی قیمت آج پاکستان میں، 20 اپریل 2026 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/gold-price-in-pakistan-for-today-april-20-2026/)*
-*   چاندی کی قیمت آج پاکستان میں، 20 اپریل 2026 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/silver-price-in-pakistan-for-today-april-20-2026/)*
-*   البا بابا کے "Buy Now, Pay Later" کے شعبے میں داخل ہونے اور QisstPay کی واپسی کے ساتھ کیا تبدیل ہوا ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/with-alibaba-entering-the-buy-now-pay-later-space-and-qisstpay-making-a-comeback-what-has-changed/)*
-*   بینکاری کی صنعت نے ایک مرتے ہوئے ٹیکسٹائل غول کو اپنے قرض کی بحالی کا پوسٹر چائلڈ بنانے کی کوشش کی۔ یہاں کیا ہوا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/the-banking-industry-tried-to-turn-a-dying-textile-giant-into-its-debt-restructuring-poster-child-heres-what-happened/)*
-*   کیا پاکستان کا "فری لانسر انقلاب" ٹیکس چوری پر مبنی جھوٹ ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/is-pakistans-freelancer-revolution-a-lie-built-on-tax-evasion/)*
-*   پاکستان نے جدت اور ضابطے کے بارے میں کیا درست کیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/what-pakistan-just-got-right-about-innovation-and-regulation/)*
-
-یہ خلاصہ فراہم کردہ تمام مضامین کی اہم معلومات کو زمروں میں تقسیم کرتا ہے۔ امید ہے کہ یہ آپ کی ضروریات کو پورا کرتا ہے۔
+- ایف بی آئی ڈائریکٹر کش پٹیل نے نشے اور غیر حاضری کے بارے میں غلط رپورٹنگ کے الزام میں دی اٹلانٹک پر مقدمہ دائر کیا۔ *[Dawn](https://www.dawn.com/news/1993516/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences)*
+- کیٹی پیری کی رومن تعطیلات کی وائرل حرکت مداحوں کو پریشان کر رہی ہے۔ *[ARY News](https://arynews.tv/katy-perrys-viral-roman-vacation-gesture-perplexes-fans)*
+- نکول کڈمین موت کی ڈولا بن گئیں: 'یہ میرے لیے بہت خوبصورت اور اہم ہے۔' *[ARY News](https://arynews.tv/nicole-kidman-becomes-death-doula-its-very-beautiful-and-important-to-me)*
+- بشریٰ بی بی کی طاقت کی حدود۔ *[Dawn](https://www.dawn.com/news/1975668/the-limits-of-bushra-bibis-power)*
+- اسلام آباد میں غیر یقینی صورتحال کے باوجود سکیورٹی کی اعلیٰ سطح پر ہے۔ *[Dawn](https://www.dawn.com/news/1993486/in-pictures-islamabad-on-high-security-even-as-uncertainty-looms-over-2nd-round-of-us-iran-talks)*
+- چاندی کی قیمت آج پاکستان میں - اپریل 20، 2026۔ *[ARY News](https://arynews.tv/silver-rate-in-pakistan-today-april-20-2026)*
+- چین کا صدر شی جن پنگ نے سعودی ولی عہد شہزادہ محمد بن سلمان سے بات چیت میں ہرمز کی تنگ آبنائے کو کھلا رکھنے کا مطالبہ کیا۔ *[ARY News](https://arynews.tv/chinas-xi-in-call-with-saudi-crown-prince-calls-for-strait-of-hormuz-to-remain-open)*
+- پاکستان نے سودان کو 1.5 ارب ڈالر کی ہتھیاروں کی فروخت کو سعودی اعتراض کے بعد روک دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417373/pakistan-places-15-billion-sudan-weapons-sale-on-hold-after-saudi-objection-sources-say)*
+- انڈیا نے مبینہ جعلی مونجارو قلم ضبط کیے، الزام عائد کیا کہ خام مال علی بابا سے آیا تھا۔ *[Business Recorder](https://www.brecorder.com/news/40417377/india-seizes-suspected-fake-mounjaro-pens-says-raw-materials-sourced-from-alibaba)*
+- جاز انٹرنیشنل نے ٹی پی ایل انشورنس میں 6.67 فیصد حصص کے لیے پبلک آفر شروع کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/jazz-international-launches-public-offer-for-6-67-stake-in-tpl-insurance-at-rs30-per-share)*
+- ایف بی آر نے چاندی کے گھوٹالے کی تحقیقات میں چھ کسٹم افسران کو معطل کر دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/fbr-suspends-six-customs-officers-in-silver-swap-probe)*
+- پاکستان کی شپنگ سرگرمی ہرمز کے تناؤ کے باوجود بلا تعطل جاری ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/pakistans-shipping-activity-remains-uninterrupted-despite-hormuz-tensions)*
+- شفافیت نے مبینہ طور پر ایس این جی پی ایل ٹینڈر میں غلط خریداری اور قواعد کی خلاف ورزیوں کا الزام عائد کرتے ہوئے منسوخی کا مطالبہ کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/transparency-seeks-cancellation-of-sngpl-tender-alleges-mis-procurement-and-rule-violations)*
+- دنیا امریکہ کے ذریعہ ایرانی کارگو جہاز کو قبضے میں لینے کے بعد مشرق وسطیٰ کی جنگ بندی کی قسمت پر غور کر رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/world-weighs-fate-of-mideast-ceasefire-after-us-seizes-iranian-cargo-ship)*
 
