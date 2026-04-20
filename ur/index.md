@@ -7,129 +7,96 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Apr-2026 21:08PKT 
+ &lrm; 20-Apr-2026 09:07PKT 
 
-پڑھنے کا وقت : 14 منٹ 
+پڑھنے کا وقت : 7 منٹ 
 
 ## معیشت
 
-*   پاکستان کی معیشت کے بنیادی اشارے مالی سال کے آغاز میں توقع سے زیادہ تیزی سے بہتر ہوئے ہیں، پرُ اعتماد مالیاتی اور بجٹ پالیسیوں نے افراط زر کو مستحکم کیا اور بیرونی پوزیشنز کو مضبوط کیا ہے۔ *[Dawn](https://www.dawn.com/news/1993102/economy-can-weather-iran-war-risks-sbp-chief)*
-*   پاکستان کو اگلے ماہ تقریباً 1.2 ارب ڈالر کی آمدن کی توقع ہے، آئی ایم ایف کے ایگزیکٹو بورڈ کی جانب سے سٹاف لیول معاہدے کی منظوری کے بعد یہ رقم ملنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1993103/pakistan-eyes-12bn-inflow-next-month)*
-*   اسٹیٹ بینک نے متحدہ عرب امارات کو 2 ارب ڈالر کی ادائیگی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/1993003/sbp-says-govt-has-paid-2bn-to-uae)*
-*   خوراک کی تجارت میں عدم توازن بڑھ گیا ہے، درآمدات میں 15 فیصد اضافہ ہوا اور برآمدات میں 34 فیصد کمی آئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/food-trade-gap-widens-as-imports-rise-15pc-to-7-09bn-exports-sink-34pc-in-9mfy26)*
-*   پاکستان سعودی عرب سے قرضوں کے ذریعے متحدہ عرب امارات کے قرض کو تبدیل کر رہا ہے، اس اقدام سے حکومت کو غیر ملکی زر مبادلہ کے ذخائر کو کم کیے بغیر ادائیگیوں کو پورا کرنے میں مدد ملے گی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-swaps-uae-debt-for-saudi-loans-as-3-5bn-repayment-shock-reshapes-financing-plan)*
+*   پاکستان اور قطر کے درمیان گیس کی فراہمی کے لیے بات چیت جاری ہے، تاکہ بجلی کی کمی کو دور کیا جا سکے *[Dawn](https://www.dawn.com/news/1993233/pakistan-in-discussion-with-qatar-for-supply-of-lng-cargoes-amid-electricity-shortfall)*
+*   بھارت میں HDFC بینک اور ICICI بینک کے مضبوط سہ ماہی نتائج کے بعد ہندوستانی حصص میں اضافے کی توقع ہے *[Business Recorder](https://www.brecorder.com/news/40417308/indian-shares-set-to-open-higher-after-strong-quarterly-results-from-hdfc-bank-icici)*
+*   تیل کی قیمتوں میں اضافہ، جبکہ مشرق وسطیٰ میں سیز فائر کے خطرات کے باعث حصص میں اتار چڑھاؤ *[Business Recorder](https://www.brecorder.com/news/40417303/oil-jumps-stocks-wobble-as-mideast-ceasefire-hangs-in-the-balance)*
+*   امریکی ڈالر کی مالیت میں اضافہ، مشرق وسطیٰ میں کشیدگی کے باعث سرمایہ کاروں نے محفوظ پناہ گاہوں کی طرف رجوع کیا *[Business Recorder](https://www.brecorder.com/news/40417306/dollar-hits-one-week-high-as-middle-east-tensions-reignite)*
+*   OICCI نے بجٹ 2026-27 کے لیے ٹیکس میں کمی اور سپر ٹیکس کے خاتمے کی تجویز دی ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/oicci-proposes-tax-cuts-super-tax-abolition-for-budget-2026-27/)*
+*   پاکستان میں فری لانسر انقلاب ٹیکس چوری پر مبنی جھوٹ ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/is-pakistans-freelancer-revolution-a-lie-built-on-tax-evasion/)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   بیجنگ ہاف میراتھن میں انسانی دوڑنے والوں کو پیچھے چھوڑ کر انسانی شکل کے روبوٹس نے تیزی سے پیشرفت کا مظاہرہ کیا۔ *[Dawn](https://www.dawn.com/news/1993221/humanoid-robots-race-past-humans-in-beijing-half-marathon-showing-rapid-advances)*
-*   بلیو اورجن نے دوبارہ استعمال شدہ نیو گلین راکٹ بوسٹر کی پہلی لینڈنگ کی، جو اسپیس ایکس کے ساتھ مقابلہ بڑھا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417206/blue-origin-marks-first-landing-of-reused-new-glenn-rocket-booster-ratcheting-up-spacex-rivalry)*
+*   EU نے میٹا کے واٹس ایپ AI فیس کی خلاف ورزی پر تنقید کرتے ہوئے اسے واپس لینے کا حکم دیا *[ARY](https://arynews.tv/eu-warns-meta-whatsapp-ai-fee-breaches-antitrust-rules-orders-rollback)*
+*   پاکستان نے کرپٹو کمپنیوں کو بینکنگ سروسز فراہم کرنے پر اسٹیٹ بینک کے سات سالہ پابندی کو ختم کر دیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/what-pakistan-just-got-right-about-innovation-and-regulation/)*
+*   روس نے پاکستان کے توانائی کے بنیادی ڈھانچے کو سائبر حملوں سے بچانے کے لیے سائبر سیکیورٹی تعاون کی پیشکش کی ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/russia-offers-cyber-security-cooperation-to-protect-pakistans-energy-infrastructure/)*
 
 ## موسم
 
-*   گلگت بلتستان میں شدید بارشوں کے باعث لینڈ سلائیڈنگ ہوئی، جس سے کراکورم ہائی وے بند ہوگئی، تاہم بعد میں ٹریفک بحال کر دی گئی۔ *[Dawn](https://www.dawn.com/news/1993208/traffic-restored-on-karakoram-highway-following-landslide-as-heavy-rainfall-lashes-gb)*
-*   کراچی میں گرمی کی شدت بڑھنے کی پیش گوئی، ماہرین کے مطابق اگست تک "سپر ایل نینو" کا اثر محسوس کیا جا سکتا ہے۔ *[ARY](https://arynews.tv/karachi-heat-warning-pmd-experts-predict-super-el-nino-impact-by-august)*
+*(اس زمرے کے لیے کوئی خبر نہیں)*
 
 ## سیاست
 
-*   صدر ٹرمپ نے کہا کہ امریکی نمائندے ایران کے ساتھ مذاکرات کے لیے اتوار کی شام تک اسلام آباد پہنچ جائیں گے۔ *[Dawn](https://www.dawn.com/news/1993224/trump-says-us-representatives-heading-to-islamabad-will-be-there-tomorrow-evening-for-negotiations-with-iran)*
-*   صدر ٹرمپ نے کہا کہ نائب صدر وانس ایران کے ساتھ مذاکرات کی قیادت نہیں کریں گے، تاہم وائٹ ہاؤس نے اس کی تردید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417204/trump-says-vance-wont-lead-iran-talks-white-house-signals-otherwise)*
-*   12 ممالک، جن میں پاکستان بھی شامل ہے، نے صومالی لینڈ میں اسرائیل کے سفیر کی تقرری کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1993013/12-countries-including-pakistan-condemn-israels-move-to-appoint-envoy-to-somaliland)*
-*   بیлоруش کے صدر نے کہا کہ "بڑا معاہدہ" تیار ہونے کے بعد وہ ٹرمپ سے ملاقات کے لیے تیار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40417196/lukashenko-says-meeting-with-trump-possible-once-big-deal-is-ready)*
-*   برطانیہ کے لیبر پارٹی رہنما اسٹارمر کو لارڈ مینڈلسن کے معاملے پر حمایت ملی۔ *[ARY](https://arynews.tv/uks-lammy-signals-support-for-pm-starmer-over-latest-mandelson-row)*
+*   وزیراعظم شہباز شریف نے ایرانی صدر مسعود پہزیشیان سے ٹیلی فون پر بات کی، علاقائی امن و سلامتی کو فروغ دینے کے لیے پاکستان کی مکمل وابستگی کا اظہار کیا *[Dawn](https://www.dawn.com/news/1993250/in-45-minute-phone-call-with-pezeshkian-pm-shehbaz-reaffirms-pakistans-commitment-to-advancing-regional-peace)*
+*   کے پی کے وزیر اعلیٰ نے عمران خان کو بتایا کہ اگر انہوں نے منظوری دے دی تو ہم اگلے ہی دن اسلام آباد پہنچ جائیں گے *[Dawn](https://www.dawn.com/news/1993238/kp-cm-afridi-says-conveyed-to-imran-that-if-he-gives-go-ahead-we-will-be-in-islamabad-the-next-day)*
+*   برطانیہ کے وزیراعظم کو پیٹر میڈلسن اسکینڈل پر پارلیمنٹ میں جوابدہی کا سامنا کرنا پڑے گا *[Dawn](https://www.dawn.com/news/1993370/uk-pm-to-face-grilling-from-mps-today-over-mandelson-scandal)*
+*   سپین نے یورپی یونین سے اسرائیل کے ساتھ معاہدہ ختم کرنے کا مطالبہ کیا *[Business Recorder](https://www.brecorder.com/news/40417285/spain-urges-eu-to-end-association-agreement-with-israel)*
 
 ## قومی
 
-*   اسلام آباد میں غیر ملکی وفود کی آمد کے پیش نظر سکیورٹی سخت کر دی گئی، ریڈ زون کی آمد و رفت معطل کر دی گئی۔ *[Dawn](https://www.dawn.com/news/1993212/security-beefed-up-as-islamabad-braces-for-arrival-of-foreign-delegations)*
-*   جیل میں مذہبی عالم انجینئر محمد علی مرزا پر حملہ ہوا، حملہ آور ہلاک ہوا۔ *[Dawn](https://www.dawn.com/news/1993211/religious-cleric-engineer-muhammad-ali-mirza-survives-attack-in-jhelum)*
-*   راولپنڈی رنگ روڈ تھالیان انٹرچینج کے بغیر کھولا جائے گا۔ *[Dawn](https://www.dawn.com/news/1993148/rawalpindis-ring-road-to-open-without-thalian-interchange)*
-*   سندھ ہائی کورٹ نے سول مقدمات میں شناختی کارڈ بلاک کرنے کے لیے سندھ کے قوانین میں کوئی شق نہیں پائی۔ *[Dawn](https://www.dawn.com/news/1993113/sindh-high-court-sees-no-clause-in-sindh-laws-for-blocking-cnic-in-civil-cases)*
-*   نکوڈی ایف سی ہیڈکوارٹر پر خودکش حملے کے سہولت کار کی اہلیہ کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/1993077/wife-of-facilitator-held-in-nokundi-fc-headquarters-suicide-blast-case)*
-*   سکھ یاتری واہگہ بارڈر کے ذریعے اپنے وطن واپس روانہ ہوئے۔ *[Dawn](https://www.dawn.com/news/1993072/sikh-pilgrims-return-home-today-via-wagah)*
-*   لاہور میں اسکوٹی پر سفر کرنے والی لڑکی سے موبائل چھیننے کے ملزمان کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/1993044/scooty-riding-girl-robbery-suspect-injured-in-encounter)*
+*   اسلام آباد ریڈ زون کو امریکی-ایرانی مذاکرات کے پیش نظر عوام کے لیے بند کر دیا گیا *[Dawn](https://www.dawn.com/news/1993271/red-zone-sealed-again-ahead-of-possible-islamabad-talks-20)*
+*   اسلام آباد کے ڈپٹی کمشنر نے 20 اپریل سے تمام دفاتر بند کرنے کی اطلاع نامے کو جعلی قرار دے دیا *[Dawn](https://www.dawn.com/news/1993252/islamabad-dc-dismisses-notification-falsely-announcing-closure-of-all-offices-in-twin-cities-from-april-20)*
+*   پشاور کے مضافات میں دہشت گردوں کے ٹھکانوں کو نشانہ بنایا گیا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
+*   بannو میں حملے میں دو FC اہلکار شہید *[Dawn](https://www.dawn.com/news/1993402/two-fc-men-martyred-in-bannu-attack)*
+*   پنجاب حکومت نے پہلی اسکائی گلاس برج منصوبے کی منظوری دی *[Business Recorder](https://www.brecorder.com/news/40417263/punjab-cm-approves-first-sky-glass-bridge-project)*
+*   حج اور عمرہ کے زائرین کے لیے علماء اور رہنماؤں نے ضابطہ اخلاق جاری کیا *[Business Recorder](https://www.brecorder.com/news/40417264/hajj-umrah-pilgrims-scholars-leaders-issue-code-of-conduct)*
+*   کے پی حکومت پشاور-نوشہرہ-جہانگیرہ ریلوے سیکشن کے لیے امکانات کا مطالعہ شروع کرے گی *[Business Recorder](https://www.brecorder.com/news/40417268/peshawar-nowshera-jahangira-railway-section-kp-govt-to-initiate-pre-feasibility-study)*
+*   PIA نے فیصل آباد سے حج پروازیں بحال کر دیں *[Business Recorder](https://www.brecorder.com/news/40417261/pia-resumes-hajj-flights-from-faisalabad)*
 
 ## بین الاقوامی
 
-*   شمالی کوریا نے ایران جنگ کے تناؤ کے درمیان بیلسٹک میزائل فائر کیے۔ *[Dawn](https://www.dawn.com/news/1993180/north-korea-fires-ballistic-missiles-again-flexing-muscle-amid-iran-war)*
-*   آسٹریا میں بیبی فوڈ کے جار میں رٹ پواسن ملنے کے بعد پولیس نے تحقیقات شروع کر دیں۔ *[Dawn](https://www.dawn.com/news/1993209/rat-poison-found-in-baby-food-jar-in-austria-police-say)*
-*   ییمن کے حوثیوں نے باب المندب کی بندش کی دھمکی دی۔ *[Business Recorder](https://www.brecorder.com/news/40417190/yemens-houthis-threaten-bab-al-mandeb-closure)*
-*   بھارت میں آتشزدگی سے 20 افراد ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40417203/fire-at-india-firecracker-factory-kills-20-police)*
-*   آئی ایم ایف اور ورلڈ بینک کی میٹنگز میں عالمی معیشت کے لیے حل تلاش کرنے کی محدودیت کا اعتراف کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40417197/imf-world-bank-meetings-show-limits-in-mitigating-shocks-reliance-on-us-for-solutions)*
+*   اسرائیل نے لبنان میں اپنی تعیناتی کی نئی لائن کا نقشہ جاری کیا، درجنوں گاؤں پر قبضہ کر لیا *[Dawn](https://www.dawn.com/news/1993257/israeli-military-publishes-map-of-new-deployment-line-in-lebanon-bringing-dozens-of-villages-under-its-control)*
+*   کویت نے جنگ کی کوریج پر کریک ڈاؤن کے درمیان صحافی کو حراست میں لے لیا *[Dawn](https://www.dawn.com/news/1993374/kuwait-detains-journalist-amid-crackdown-on-war-coverage)*
+*   شمالی کوریا کے رہنما کم نے کلسٹر وارہیڈز سے لیس میزائلوں کی آزمائش کی نگرانی کی *[ARY](https://arynews.tv/kim-jong-un-oversaw-test-of-missiles-with-cluster-warheads)*
+*   امریکی فوج نے کیریبین میں ایک اور بوٹ پر فائرنگ کر کے تین افراد کو ہلاک کر دیا *[Business Recorder](https://www.brecorder.com/news/40417311/us-military-says-it-killed-three-people-in-latest-caribbean-boat-strike)*
+*   ہانگ کانگ میں آتشزدگی کے متاثرین نے جلا ہوا گھروں میں یادگاریں تلاش کیں *[Business Recorder](https://www.brecorder.com/news/40417312/hong-kong-fire-victims-scour-scorched-homes-for-keepsakes)*
+*   برطانیہ کی پولیس نے ہائی اینڈ اسٹورز سے چوری کی منصوبہ بندی پر سات افراد کو گرفتار کیا *[Business Recorder](https://www.brecorder.com/news/40417284/uk-police-arrest-7-over-plan-to-shoplift-from-high-end-stores)*
+*   آسٹریا میں بچے کے کھانے کے برتن میں رٹ کے زہر کا پتہ چلا *[Business Recorder](https://www.brecorder.com/news/40417281/rat-poison-found-in-baby-food-jar-in-austria)*
 
 ## کھیل
 
-*   ملتان سلطانز نے کراچی کنگز کو ہائی اسکورنگ پی ایس ایل میچ میں شکست دی۔ *[ARY](https://arynews.tv/multan-sultans-vs-karachi-kings-psl-11-april-19-match)*
-*   ایلینا ریباکینا نے پورش ٹینس گرینڈ پریکس کے فائنل میں جگہ بنا لی۔ *[Business Recorder](https://www.brecorder.com/news/40417194/elena-rybakina-continues-sizzling-start-to-2026)*
-*   مانچسٹر یونائیٹڈ نے چیلسی کو 1-0 سے شکست دی۔ *[Business Recorder](https://www.brecorder.com/news/40417185/cunha-strike-earns-man-united-hard-fought-1-0-win-at-chelsea)*
+*   اے زیڈ نے ڈچ کپ ایک طرفہ فتح کے ساتھ جیتا *[ARY](https://arynews.tv/dominant-az-win-dutch-cup-with-one-sided-victory)*
 
 ## صحت
 
-*   (اس زمرے میں کوئی خبر نہیں)
+*   پاکستان میڈیکل ایسوسی ایشن نے ہیپاٹائٹس کے کیسز میں اضافے کے بارے میں خبردار کیا *[Dawn](https://www.dawn.com/news/1993388/pakistan-medical-association-warns-of-surge-in-hepatitis-cases-on-world-liver-day)*
+*   لویزیانا میں فائرنگ میں آٹھ بچے ہلاک *[ARY](https://arynews.tv/eight-children-killed-in-louisiana-mass-shooting-police-say)*
 
 ## دیگر
 
-*   وزیر مذہبی امور نے کہا کہ حکومت حج کے زائرین کو بہترین سہولیات فراہم کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/1993193/minister-affirms-govt-providing-pilgrims-best-possible-facilities-as-pia-launches-haj-operation)*
-*   اقبالی اداکار ایڈی مرفی کو اے ایف آئی لائف اچیومنٹ ایوارڈ سے نوازا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40417192/comedy-trailblazer-eddie-murphy-receives-afi-life-achievement-award)*
-*   بھارتی مہاکاوی "راماینا" کی فلم عالمی سطح پر ریلیز کرنے کا منصوبہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417191/film-of-indian-epic-ramayana-aims-for-global-audience)*
-*   ایک 32 سالہ شخص 8000 سے کم فالورز کے ساتھ ہزاروں روپے کما رہا ہے۔ *[ARY](https://arynews.tv/how-a-32-year-old-earns-thousands-with-fewer-than-8000-followers)*
-*   چارلیز تھیرون نے اپنی والدہ کے ایک ناقابل تصور فعل کی یاد تازہ کی۔ *[ARY](https://arynews.tv/charlize-theron-recalls-traumatic-night-her-mother-did-an-unimaginable-act)*
-*   اکشے کمار نے وامیقا گبی کی حمایت کی اور ایشوریہ رائے کے ساتھ ہونے والی تقابل کو ختم کر دیا۔ *[ARY](https://arynews.tv/akshay-kumar-backs-wamiqa-gabbi-shuts-down-aishwarya-rai-comparison)*
-*   وکٹوریہ بیکہم نے برکلن کے ساتھ تعلقات کے بارے میں تازہ ترین معلومات دیں۔ *[ARY](https://arynews.tv/victoria-beckham-provides-update-on-brooklyn-estrangement)*
-*   تجار نے ہرمز کی آمدنی کے اعلان سے قبل گرتی ہوئی تیل پر 760 ملین ڈالر کی شرط لگائی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/18/traders-place-760-million-bet-on-falling-oil-ahead-of-hormuz-announcement/)*
-*   آئی ایم ایف کے ساتھ معاہدہ حتمی، پاکستان اگلے قرض کی قسط کو غیر مقفل کرنے کے لیے بورڈ کی منظوری کا منتظر ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   جہاز کے ایندھن کی قیمت میں ریکارڈ اضافے کے بعد 23 روپے کم ہو کر 471 روپے فی لیٹر ہوگئی، ڈیزل کی قیمت بھی 32 روپے سے زیادہ کم ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/jet-fuel-falls-rs23-to-rs471-per-litre-after-record-spike-diesel-also-slashed-by-over-rs32/)*
-*   آر سی سی آئی کے یو ایس اوچ کے لیے کامرس وزیر کی حمایت، کاروباری وفد نے دوطرفہ تجارت کی بات چیت میں پیشرفت کے اشارے دیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/commerce-minister-backs-rccis-us-outreach-as-business-delegation-signals-momentum-in-bilateral-trade-talks/)*
-*   پاکستان کی یوریا کی فروخت میں ڈسکاؤنٹ کے باعث مانگ میں تبدیلی کے بعد 24 سہ ماہی کا سب سے کم ریکارڈ درج کیا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-urea-sales-slide-to-24-quarter-low-after-discount-led-demand-shift/)*
-*   قومی اسمبلی میں اپوزیشن لیڈر نے وزیراعظم اسٹارمر کی حمایت کا اظہار کیا۔ *[ARY](https://arynews.tv/uks-lammy-signals-support-for-pm-starmer-over-latest-mandelson-row)*
-*   اسلام آباد میں اہم سڑکیں بند، ٹریفک پلان جاری۔ *[ARY](https://arynews.tv/traffic-plan-rolled-out-key-roads-closed-in-islamabad)*
-*   سندھ ہائی کورٹ نے سول مقدمات میں شناختی کارڈ بلاک کرنے کے لیے سندھ کے قوانین میں کوئی شق نہیں پائی۔ *[Dawn](https://www.dawn.com/news/1993113/sindh-high-court-sees-no-clause-in-sindh-laws-for-blocking-cnic-in-civil-cases)*
-*   فیڈرل انویسٹیگیشن ایجنسی (ایف آئی اے) نے سعودی عرب میں بھیک ماننے کے جرم میں تین خواتین کو سিয়ালکوٹ ائیرپورٹ پر گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1993039/three-women-held-in-sialkot-for-beggary-in-ksa)*
-*   آئی ایم ایف اور ورلڈ بینک کی میٹنگز میں ایران کی جوہری پالیسیوں پر بحث ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40417193/iranian-president-insists-on-countrys-nuclear-rights-isna-reports)*
-*   مالیزیہ کے صباح میں آتشزدگی سے 200 گھر تباہ، سینکڑوں افراد بے گھر ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40417189/fire-in-malaysias-sabah-destroys-200-homes-hundreds-displaced)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal-capital-market-return-and-new-financing-strategy-at-washington-meetings/)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان بورڈ کی منظوری کا انتظار کر رہا ہے تاکہ اگلے قرض کی قسط جاری کی جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/imf-staff-deal-finalised-pakistan-eyes-board-approval-to-unlock-next-loan-tranche/)*
-*   آئی او سی سی آئی نے وزیرِ خزانہ کیانی سے ٹیکس نیٹ کو وسعت دینے اور بوجھ بڑھانے کے بجائے درخواست کی۔ *[Business Recorder](https://www.brecorder.com/news/40417202/oicci-urges-minister-kayani-to-expand-tax-net-not-burden)*
-*   آئی ایم ایف کے ساتھ معاہدہ طے پا گیا، پاکستان کیپٹل مارکیٹ میں واپسی اور نئی فنانسنگ حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/19/pakistan-advances-imf-deal
+*   ہنگلاج ماتا فیسٹیول میں بلوچستان میں تقریباً 300,000 ہندو یاتریوں نے شرکت کی *[Dawn](https://www.dawn.com/news/1993400/hinglaj-mata-festival-draws-nearly-300000-hindu-pilgrims-in-balochistan)*
+*   گوردوارہ پنجہ صاحب میں بائساخی پر رنگوں اور عقیدے کا سمندر *[Dawn](https://www.dawn.com/news/1993263/sea-of-colours-faith-marks-baisakhi-at-panja-sahib)*
+*   کراچی میں غیر قانونی تعمیرات کا سلسلہ جاری، SBCA بے اثر *[Dawn](https://www.dawn.com/news/1993343/illegal-construction-of-extra-floors-portions-springs-up-with-impunity-in-karachi)*
+*   اسلحتی افواج نے پشاور کے مضافات میں دہشت گردوں کے ٹھکانوں کو نشانہ بنایا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
+*   کے پی میں پانی کی قلت، اندوس معاہدے کے بارے میں خدشات *[Dawn](https://www.dawn.com/news/1993394/water-worries-grip-kp-farmers-amid-indus-treaty-concerns)*
+*   اسلحتی افواج نے حسن خیل آپریشن میں کامیابی کا دعویٰ کیا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
+*   اسٹراٹ آف ہرمز میں جہاز رانی متاثر نہیں ہوئی *[Dawn](https://www.dawn.com/news/1993401/shipping-channels-unaffected-by-hormuz-tensions)*
+*   لبنان نے اسرائیلی حملوں کے بعد اہم سڑک اور پل بحال کیے *[Dawn](https://www.dawn.com/news/1993375/lebanon-restores-lifelines-as-israel-extends-demolition)*
+*   اسلحتی افواج نے دہشت گردوں کے ٹھکانوں کو نشانہ بنایا *[Dawn](https://www.dawn.com/news/1993397/forces-target-terrorist-positions-on-peshawar-outskirts)*
+*   اسٹیون سپیلبرگ نے نئی فضائی فلم 'ڈسکلوزر ڈے' کی نقاب کشائی کی *[ARY](https://arynews.tv/steven-spielberg-teases-new-alien-film-disclosure-day)*
+*   اسلام آباد میں ہائیکنگ ٹریلز 20 اپریل سے بند *[ARY](https://arynews.tv/hiking-trails-in-federal-capital-closed-effective-april-20)*
+*   امریکی توانائی کے سربراہ کا کہنا ہے کہ گیس کی قیمتیں اگلے سال تک 3 ڈالر سے اوپر رہ سکتی ہیں *[ARY](https://arynews.tv/us-energy-chief-says-gas-prices-could-stay-above-3-per-gallon-until-next-year)*
+*   امریکی سینٹکام کا کہنا ہے کہ امریکی افواج نے بحیرہ عرب میں ایرانی بحری جہاز کو قبضہ میں لے لیا *[ARY](https://arynews.tv/us-centcom-says-forces-seized-iranian-ship-in-arabian-sea)*
+*   تیل کی قیمتیں بحال، اسٹاک میں اتار چڑھاؤ، مشرق وسطیٰ میں سیز فائر کا خطرہ *[Business Recorder](https://www.brecorder.com/news/40417303/oil-jumps-stocks-wobble-as-mideast-ceasefire-hangs-in-the-balance)*
+*   اسرائیل نے لبنان میں اپنی تعیناتی کی نئی لائن کا نقشہ جاری کیا *[Business Recorder](https://www.brecorder.com/news/40417283/israel-publishes-map-of-s-lebanon-territory-under-its-control)*
+*   فوری ڈی آئی: ایک بہتر مہینہ کمزور سال کو چھپا نہیں سکتا *[Business Recorder](https://www.brecorder.com/news/40417266/fdi-a-better-month-cannot-hide-weaker-year)*
+*   سرفلس آج، کل دباؤ *[Business Recorder](https://www.brecorder.com/news/40417265/surplus-today-pressure-tomorrow)*
+*   سونے کی قیمت میں کمی، مضبوط ڈالر کے باعث *[Business Recorder](https://www.brecorder.com/news/40417304/gold-falls-on-stronger-dollar-amid-renewed-us-iran-tensions)*
+*   امریکا-ایران جنگ کے خاتمے کی امیدوں پر تیل کی قیمتوں میں کمی سے بھارتی روپے اور بانڈز کو کچھ راحت ملے گی *[Business Recorder](https://www.brecorder.com/news/40417305/oil-price-plunge-on-us-iran-peace-hopes-to-give-indian-rupee-bonds-some-breather)*
+*   اسٹراٹ آف ہرمز کے دوبارہ بند ہونے کے ساتھ تیل کی قیمتوں میں اضافہ *[Business Recorder](https://www.brecorder.com/news/40417307/oil-claws-back-losses-as-strait-of-hormuz-is-closed-again)*
+*   SECP نے 16 ماہ میں تنخواہوں اور مراعات کے طور پر 1.19 ارب روپے تقسیم کیے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/secp-disburses-rs1-19-billion-in-salaries-benefits-with-retrospective-effect-over-16-months/)*
+*   پروفٹ ای-میگزین ایشو 398 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/profit-e-magazine-issue-398/)*
+*   سونے کی قیمت آج پاکستان میں، 20 اپریل 2026 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/gold-price-in-pakistan-for-today-april-20-2026/)*
+*   چاندی کی قیمت آج پاکستان میں، 20 اپریل 2026 *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/silver-price-in-pakistan-for-today-april-20-2026/)*
+*   البا بابا کے "Buy Now, Pay Later" کے شعبے میں داخل ہونے اور QisstPay کی واپسی کے ساتھ کیا تبدیل ہوا ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/with-alibaba-entering-the-buy-now-pay-later-space-and-qisstpay-making-a-comeback-what-has-changed/)*
+*   بینکاری کی صنعت نے ایک مرتے ہوئے ٹیکسٹائل غول کو اپنے قرض کی بحالی کا پوسٹر چائلڈ بنانے کی کوشش کی۔ یہاں کیا ہوا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/the-banking-industry-tried-to-turn-a-dying-textile-giant-into-its-debt-restructuring-poster-child-heres-what-happened/)*
+*   کیا پاکستان کا "فری لانسر انقلاب" ٹیکس چوری پر مبنی جھوٹ ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/is-pakistans-freelancer-revolution-a-lie-built-on-tax-evasion/)*
+*   پاکستان نے جدت اور ضابطے کے بارے میں کیا درست کیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/what-pakistan-just-got-right-about-innovation-and-regulation/)*
+
+یہ خلاصہ فراہم کردہ تمام مضامین کی اہم معلومات کو زمروں میں تقسیم کرتا ہے۔ امید ہے کہ یہ آپ کی ضروریات کو پورا کرتا ہے۔
 
