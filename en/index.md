@@ -4,62 +4,60 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Apr-2026 21:02PKT
+Published at: 21-Apr-2026 09:01PKT
 
-Time to read: 5 mins
+Time to read: 4 mins
 
 ### Economy
-- Pakistan increased its Eurobond offering to $750 million from $500m due to strong investor demand, driven by growing foreign exchange needs amid the Middle East conflict. *[Dawn](https://www.dawn.com/news/1993495/pakistan-increases-eurobond-from-500m-to-750m)*
-- The government anticipates an economic slowdown during the current and next fiscal years due to a 20% cut in the development budget and inflationary pressures from the Middle East war. *[Dawn](https://www.dawn.com/news/1993522/govt-forsees-economic-slowdown-during-current-next-fiscal-years-due-to-middle-east-war)*
-- Pakistan’s bank deposits reached a historic high in March 2026. *[ARY News](https://arynews.tv/pakistan-bank-deposits-reach-record-high-in-2026)*
-- The IFC will serve as a transaction advisor for the rollout of 10 million smart meters across all electricity distribution companies in Pakistan. *[Dawn](https://www.dawn.com/news/1993468/pakistan-engages-ifc-for-investors-in-installation-of-10m-smart-meters-across-all-discos)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/pakistan-signs-ifc-deal-for-nationwide-smart-meter-rollout/)*
-- The PSX plunged over 1,700 points on Monday amid uncertainty surrounding the Middle East conflict. *[Dawn](https://www.dawn.com/news/1993464/psx-plunges-over-1700-points-amid-middle-east-tensions)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/psx-plunges-over-4700-points-as-us-iran-tensions-shatter-ceasefire-optimism/)*
-- India and South Korea aim to double their trade to $50 billion by 2030, expanding cooperation in key sectors. *[Dawn](https://www.dawn.com/news/1993487/india-south-korea-plan-50bn-trade-push-with-new-deals)* & *[Business Recorder](https://www.brecorder.com/news/40417380/india-and-south-korea-plan-50-billion-trade-push-with-new-deals)*
-- Global wind power capacity saw a record increase in 2025, largely driven by China. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/record-165-gw-of-wind-power-capacity-added-in-2025-led-by-china-report-says)*
+- Pakistan’s economic growth is expected to slow during the current and next fiscal years due to the Middle East war and cuts in development budgets. *[Dawn](https://www.dawn.com/news/1993522/govt-forsees-economic-slowdown-during-current-next-fiscal-years-due-to-middle-east-war)*
+- Pakistan increased its Eurobond offering from $500 million to $750 million due to growing foreign exchange needs. *[Dawn](https://www.dawn.com/news/1993495/pakistan-increases-eurobond-from-500m-to-750m)*
+- PSO paid a record $35.6 per barrel premium on diesel imports due to supply disruptions in the Strait of Hormuz, potentially leading to higher domestic fuel prices. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/21/pso-pays-record-35-6-per-barrel-premium-on-diesel-imports-amid-strait-disruption)*
+- Freelancers in Pakistan earned $856 million in foreign exchange in the first nine months of FY26, a 50% increase year-over-year. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/21/pakistan-freelancers-earnings-rise-50-to-856-million-in-9mfy26)*
+- NEPRA issued tariffs, granted 2,202 licenses adding 332MW of capacity, and resolved 15,900 complaints in Q4. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/21/nepra-issues-tariffs-grants-2202-licences-adding-332mw-handles-5082-complaints-resolves-15900-in-q4)*
+- Punjab Assembly Speaker struck down a notification regarding agricultural tax, asserting the assembly’s authority over taxation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/21/agricultural-tax-punjab-pa-speaker-strikes-down-notification-asserts-assembly-authority)*
+
+### Science & Technology
+- Apple announced that Tim Cook will step down as CEO in September, with John Ternus taking over the role. *[Dawn](https://www.dawn.com/news/1993605/apple-says-chief-executive-tim-cook-stepping-down-in-september)*
+
+### Weather
+- No relevant news in provided articles.
 
 ### Politics
-- Interior Minister Mohsin Naqvi met with Iranian and US envoys to discuss preparations for a potential second round of talks between the US and Iran in Islamabad. *[Dawn](https://www.dawn.com/news/1993448/naqvi-meets-iran-us-envoys-to-discuss-preparations-for-2nd-round-of-islamabad-talks)* & *[ARY News](https://arynews.tv/iran-war-trump-claims-breakthrough-deal-expected-in-pakistan)*
-- Donald Trump stated a US delegation, including JD Vance, is en route to Islamabad for talks, and suggested a deal with Iran may be signed today. *[Dawn](https://www.dawn.com/news/1993458/uncertainty-prevails-over-talks-amid-mixed-signals-from-iran-trump-says-us-delegation-en-route-to-islamabad)* & *[ARY News](https://arynews.tv/iran-war-trump-claims-breakthrough-deal-expected-in-pakistan)*
-- Iran has yet to confirm its attendance at the next round of talks with the US, citing a lack of trust in Washington. *[Dawn](https://www.dawn.com/news/1993458/uncertainty-prevails-over-talks-amid-mixed-signals-from-iran-trump-says-us-delegation-en-route-to-islamabad)*
-- Trump denied that Israel influenced his stance on Iran, stating his views were formed long before recent events. *[Business Recorder](https://www.brecorder.com/news/40417389/trump-israel-never-talked-me-into-war-with-iran)*
-
-### International
-- Tensions escalated between the US and Iran after the US seized an Iranian cargo ship, prompting Iran to vow retaliation and cast doubt on the ceasefire. *[Business Recorder](https://www.brecorder.com/news/40417388/sampp-500-nasdaq-retreat-as-mounting-us-iran-tensions-dampen-sentiment)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/world-weighs-fate-of-mideast-ceasefire-after-us-seizes-iranian-cargo-ship)*
-- Israel condemned a soldier’s desecration of a crucifix in southern Lebanon. *[Dawn](https://www.dawn.com/news/1993480/israel-condemns-soldiers-desecration-of-crucifix-in-south-lebanon)* & *[Business Recorder](https://www.brecorder.com/news/40417365/israel-pm-vows-harsh-action-against-soldier-vandalising-jesus-statue-in-lebanon)*
-- Israel and Lebanon are scheduled to hold a second round of talks in Washington on Thursday. *[Business Recorder](https://www.brecorder.com/news/40417386/israel-lebanon-to-hold-second-round-of-talks-in-washington-on-thursday-israeli-source-says)*
-- China urged maintaining normal passage through the Strait of Hormuz amid rising tensions. *[Business Recorder](https://www.brecorder.com/news/40417372/chinas-xi-in-call-with-saudi-crown-prince-calls-for-strait-of-hormuz-to-remain-open)*
-- A 7.4-magnitude earthquake struck northern Japan, triggering an 80cm tsunami. *[Dawn](https://www.dawn.com/news/1993462/japan-records-80cm-tsunami-after-powerful-74-magnitude-quake-jma)*
+- The Federal Constitutional Court of Pakistan postponed hearings and staff worked from home due to security arrangements for anticipated US-Iran talks. *[Dawn](https://www.dawn.com/news/1993627/federal-constitutional-court-wont-hear-cases-today-staff-to-work-from-home)*
+- PTI criticized the government for allegedly crippling the agricultural sector. *[Dawn](https://www.dawn.com/news/1993631/pti-lambasts-govt-for-crippling-farm-sector)*
+- Amnesty International released a report highlighting the erosion of civil liberties in Pakistan, citing the misuse of cybercrime and anti-terror laws. *[Dawn](https://www.dawn.com/news/1993639/amnesty-highlights-erosion-of-civil-liberties-in-pakistan)*
 
 ### National
+- A 19-year-old medical student, the daughter of an MQM-P MNA, was killed by a stray bullet in Karachi. *[Dawn](https://www.dawn.com/news/1993518/stray-bullet-claims-life-of-mqm-p-mnas-daughter-in-karachi)*
+- The PMDC is investigating the suicides of medical students reportedly linked to harassment and a video scandal. *[Dawn](https://www.dawn.com/news/1993625/pmdc-advances-probe-into-medical-student-suicides-video-scandal)*
 - Four construction workers were abducted by armed men in Khyber Pakhtunkhwa’s Tirah valley. *[Dawn](https://www.dawn.com/news/1993508/4-construction-workers-abducted-by-armed-men-in-kps-tirah-valley)*
-- Two terrorists were killed and a police constable martyred in a gun battle in Lakki Marwat, KP. *[Dawn](https://www.dawn.com/news/1993427/two-terrorists-killed-police-constable-martyred-in-lakki-marwat)*
-- A terrorist involved in a February suicide attack was among two killed in an IBO in Bannu, KP. *[Dawn](https://www.dawn.com/news/1993438/terrorist-involved-in-february-suicide-attack-among-two-killed-in-bannu-ibo-ispr)*
-- Pakistan and Egypt concluded a two-week long counter-terrorism exercise. *[Dawn](https://www.dawn.com/news/1993474/pakistan-egypt-conclude-2-week-long-counter-terrorism-exercise-ispr)*
-- Approximately 300,000 children were missed during the second nationwide polio campaign. *[Dawn](https://www.dawn.com/news/1993481/approximately-300000-children-missed-during-years-2nd-nationwide-polio-campaign)*
+- Pakistan and Egypt conducted a joint military exercise, Thunder-II, focused on counterterrorism operations. *[Business Recorder](https://www.brecorder.com/news/40417470/pakistan-egypt-special-forces-conduct-thunder-ii-exercise)*
+- Islamabad and Rawalpindi are on high alert due to the anticipated US-Iran talks. *[Business Recorder](https://www.brecorder.com/news/40417413/us-iran-talks-naqvi-envoys-discuss-regional-situation-security-setups)*
+
+### International
+- Diplomatic efforts are intensifying as the deadline for a US-Iran truce nears, with a US team heading to Islamabad and Iran considering sending negotiators. *[Dawn](https://www.dawn.com/news/1993644/diplomatic-flurry-as-us-iran-truce-deadline-nears)*
+- Israel killed two Palestinians in Gaza, and Hamas confronted an Israeli-backed militia. *[Dawn](https://www.dawn.com/news/1993638/israeli-fire-kills-two-more-in-gaza-hamas-confronts-pro-israel-militia)*
+- China urged Saudi Arabia to ensure normal traffic through the Hormuz Strait. *[Dawn](https://www.dawn.com/news/1993644/diplomatic-flurry-as-us-iran-truce-deadline-nears)*
+- Twelve British universities reportedly paid a firm to “spy” on pro-Palestine students. *[Dawn](https://www.dawn.com/news/1993634/12-british-varsities-paid-firm-to-spy-on-pro-palestine-students-report)*
+- Israel condemned a soldier’s desecration of a crucifix in south Lebanon. *[Dawn](https://www.dawn.com/news/1993480/israel-condemns-soldiers-desecration-of-crucifix-in-south-lebanon)*
+- Israel is reportedly establishing a “Yellow Line” in south Lebanon, similar to one in Gaza. *[Dawn](https://www.dawn.com/news/1993632/is-israel-replicating-gazas-yellow-line-in-south-lebanon)*
+- Over $71 billion will be needed over the next decade to rebuild Gaza. *[Dawn](https://www.dawn.com/news/1993538/over-71bn-needed-over-next-decade-to-rebuild-gaza-un-eu)*
 
 ### Sports
-- Sri Lankan cricketer Dasun Shanaka was banned for one year from the PSL for switching to the IPL. *[Dawn](https://www.dawn.com/news/1993501/sri-lankas-dasun-shanaka-handed-one-year-psl-ban-for-ipl-switch)*
-- Romania legend Gheorghe Hagi has been appointed as the new national team coach, aiming to win every game. *[Business Recorder](https://www.brecorder.com/news/40417385/romania-legend-hagi-eyes-winning-every-game-on-return-as-coach)*
+- Sri Lanka’s Dasun Shanaka was banned from the PSL for one year after switching to the IPL. *[Dawn](https://www.dawn.com/news/1993501/sri-lankas-dasun-shanaka-handed-one-year-psl-ban-for-ipl-switch)*
+- Over 500 Stuttgart fans were taken into custody after a mass brawl in Munich. *[ARY](https://arynews.tv/more-than-500-stuttgart-fans-taken-into-custody-after-mass-brawl)*
 
 ### Health
-- FBI Director Kash Patel is suing *The Atlantic* for defamation, alleging false reporting about his drinking and absences. *[Dawn](https://www.dawn.com/news/1993516/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences)*
-- Nicole Kidman has trained as a death doula, providing support to those nearing the end of life. *[ARY News](https://arynews.tv/nicole-kidman-becomes-death-doula-its-very-beautiful-and-important-to-me)*
+- No relevant news in provided articles.
 
 ### Other
-- The daughter of an MQM-P MNA died after being shot by a stray bullet in Karachi. *[Dawn](https://www.dawn.com/news/1993518/mqm-p-mnas-daughter-dies-after-being-shot-by-stray-bullet-in-karachi)*
-- Six customs officers have been suspended in connection with a silver swap case. *[ARY News](https://arynews.tv/silver-scandal-sees-custom-officers-suspended)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/fbr-suspends-six-customs-officers-in-silver-swap-probe/)*
-- Jazz International has launched a public offer for a 6.67% stake in TPL Insurance. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/jazz-international-launches-public-offer-for-6-67-stake-in-tpl-insurance-at-rs30-per-share/)*
-- Katy Perry’s recent Roman vacation gesture has sparked confusion among fans. *[ARY News](https://arynews.tv/katy-perrys-viral-roman-vacation-gesture-perplexes-fans)*
-- Silver rates in Pakistan were reported on April 20, 2026. *[ARY News](https://arynews.tv/silver-rate-in-pakistan-today-april-20-2026)*
-- SBP employees are set to regain their jobs and dues following a court order. *[ARY News](https://arynews.tv/sbp-employees-to-get-their-jobs-dues-back-after-court-order)*
-- Transparency International Pakistan has called for the cancellation of an SNGPL tender, alleging mis-procurement and rule violations. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/transparency-seeks-cancellation-of-sngpl-tender-alleges-mis-procurement-and-rule-violations/)*
-- Ethiopia Airlines plans to launch direct flights to Lahore to boost trade and connectivity. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/ethiopian-airlines-plans-direct-lahore-flights-to-boost-trade-connectivity/)*
-- Pakistan’s shipping activity remains uninterrupted despite tensions in the Strait of Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/20/pakistans-shipping-activity-remains-uninterrupted-despite-hormuz-tensions/)*
-- India has arrested officials at its aviation regulator and Reliance in a drone bribery probe. *[Business Recorder](https://www.brecorder.com/news/40417376/india-arrests-officials-at-aviation-regulator-reliance-in-drone-bribery-probe)*
-- India has expanded its list of Russian insurers eligible to provide marine cover. *[Business Recorder](https://www.brecorder.com/news/40417379/india-expands-russian-marine-insurance-options)*
-- India seized suspected counterfeit Mounjaro pens, with raw materials sourced from Alibaba. *[Business Recorder](https://www.brecorder.com/news/40417377/india-seizes-suspected-fake-mounjaro-pens-says-raw-materials-sourced-from-alibaba)*
-- Pakistan has placed a $1.5 billion weapons sale to Sudan on hold following Saudi Arabia’s objection. *[Business Recorder](https://www.brecorder.com/news/40417373/pakistan-places-15-billion-sudan-weapons-sale-on-hold-after-saudi-objection-sources-say)*
-- A column discusses the limits of Bushra Bibi’s power. *[Dawn](https://www.dawn.com/news/1975668/the-limits-of-bushra-bibis-power)*
-- Photos show high security in Islamabad ahead of potential US-Iran talks. *[Dawn](https://www.dawn.com/news/1993486/in-pictures-islamabad-on-high-security-even-as-uncertainty-looms-over-2nd-round-of-us-iran-talks)*
-- The UN reports that economic growth momentum is weakening in Asia-Pacific developing countries. *[Dawn](https://www.dawn.com/news/1993436/un-survey-says-economic-growth-momentum-weakening-in-asia-pacific-developing-countries)*
+- An FBI Director is suing The Atlantic for defamation over reporting about his alleged drinking and absences. *[Dawn](https://www.dawn.com/news/1993516/fbi-director-kash-patel-sues-the-atlantic-claiming-false-reporting-about-drinking-absences)*
+- Scarlett Johansson’s film ‘Lucy’ is now available on Netflix. *[ARY](https://arynews.tv/scarlett-johanssons-lucy-blasts-off-on-netflix)*
+- A tragic incident in Louisiana resulted in the deaths of eight children due to domestic violence. *[ARY](https://arynews.tv/shamar-elkins-tragic-incident-in-shreveport)*
+- Psychedelic drug developers saw a rally after Trump ordered the FDA to expedite reviews. *[ARY](https://arynews.tv/psychedelic-research-boosted-by-executive-order)*
+- A doctor was shot dead in Karachi. *[ARY](https://arynews.tv/doctor-shot-dead-in-front-of-wife-near-karachis-metropole)*
+- Rumors of a breakup between Keira Knightley and her husband are circulating. *[ARY](https://arynews.tv/keira-knightleys-husband-ignites-breakup-buzz)*
+- Ramsha Khan’s old interview went viral after her marriage. *[ARY](https://arynews.tv/ramsha-khans-old-interview-goes-viral-after-marriage)*
+- An earthquake of magnitude 5.5 struck the Colombia-Ecuador border. *[Business Recorder](https://www.brecorder.com/news/40417496/earthquake-of-magnitude-55-strikes-colombia-ecuador-border-gfz-says)*
+- Pakistan is redirecting Central Asia trade through China and Iran to reduce reliance on Afghanistan routes. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/21/pakistan-redirects-central-asia-trade-via-china-iran-reduces-reliance-on-afghanistan-routes)*
 
