@@ -7,71 +7,136 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 23-Apr-2026 09:06PKT 
+ &lrm; 23-Apr-2026 21:08PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 14 منٹ 
 
 ## معیشت
 
-* ہندوستان میں یوریا کی ریکارڈ درآمد، قیمتوں میں دوگنا اضافہ *[Business Recorder](https://www.brecorder.com/news/40417875/indian-rupee-may-weaken-past-94-oil-surge-wipes-large-part-of-relief-rally)*
-* بھارت میں شیئر مارکیٹ میں مندی کی پیشگوئی، تیل کی قیمتوں میں اضافہ کا خطرہ *[Business Recorder](https://www.brecorder.com/news/40417870/asian-shares-track-wall-street-to-record-highs-but-higher-oil-prices-a-risk)*
-* کسٹم نے پالئیےسٹر فلامنٹ یارن کی درآمدی قیمتوں کا جائزہ لیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/customs-revises-polyester-filament-yarn-import-values-amid-global-price-surge/)*
-* پاکستان میں این ٹی بی (غیر تجارتی رکاوٹیں) کے خاتمے کے لیے 70 اقدامات، آئی ایم ایف جائزہ کے بعد بجٹ میں اعلان *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-to-remove-up-to-70-trade-barriers-in-fy27-budget-after-imf-review-of-2662-non-tariff-barriers/)*
-* ورلڈ بینک نے داسو ہائیڈرو پاور منصوبے میں تاخیر پر تشویش کا اظہار کیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/world-bank-flags-delays-in-dasu-hydropower-project-keeps-risk-rating-high/)*
+- کسٹمز نے 62 پرانے اور استعمال شدہ موبائل فون ماڈلز کی درآمدی قیمت میں اضافہ کر دیا ہے، تاکہ ڈیوٹی اور ٹیکس کے مقاصد کے لیے اندازہ کردہ اقدار کو موجودہ مارکیٹ ریٹ کے ساتھ ہم آہنگ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models)*
+- ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان کے لیے 3.67 بلین ڈالر کی نئی وابستگیوں کا اعلان کیا ہے، جو گزشتہ سال کے مقابلے میں 22 فیصد زیادہ ہے۔ یہ مالیاتی مدد مالی اصلاحات اور معدنی وسائل پر مرکوز ہے۔ *[Dawn](https://www.dawn.com/news/1994349/adb-deepens-pakistan-engagement-with-367bn-commitments-targets-fiscal-reform-and-minerals)*
+- 2035 تک معاشی ترقی کو برقرار رکھنے کے لیے کم از کم 62,000 میگاواٹ بجلی پیدا کرنے کی صلاحیت کی ضرورت ہے۔ *[Dawn](https://www.dawn.com/news/1994362/generation-capacity-of-at-least-62000mw-needed-by-2035-to-support-economic-growth)*
+- پاک LNG نے اپریل-مئی کی فراہمی کے لیے تین LNG کارگو کی تلاش میں ٹینڈر جاری کیے ہیں، کیونکہ ملک کو سپلائی کی قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023)*
+- بینک الفلاح کو اسٹیٹ بینک نے 20 ارب روپے تک کے ٹیر II کیپٹل جمع کرنے کی منظوری دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/bank-alfalah-gets-sbp-nod-to-raise-up-to-rs20-billion-tier-ii-capital/)*
+- پاکستان میں ڈالر کے ڈپازٹ میں اضافہ ہوا ہے، جو 87 ارب روپے تک پہنچ گئے ہیں، کیونکہ غیر ملکی کرنسی کی طلب مضبوط ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-sees-dollar-deposits-rise-to-rs87-billion-as-foreign-currency-demand-stays-firm/)*
+- کاروباری اعتماد کا سروے بتاتا ہے کہ پاکستان میں بڑھتے ہوئے اخراجات اور کمزور آؤٹ لک کے باعث کاروباری اعتماد میں کمی آئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey/)*
 
 ## سائنس اور ٹیکنالوجی
 
-* پاکستان نے چین کے خلائی پروگرام کے لیے دو فضائی ماہرین منتخب کیے، پہلی پرواز 2026 کے آخر میں متوقع *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-selects-two-astronauts-for-china-space-mission-first-flight-planned-by-end-2026/)*
-* پاکستان ایئرپورٹ کلیئرنس کے لیے ون ونڈو سسٹم، ای گیٹس اور اسمارٹ سکینرز متعارف کروا رہا ہے *[Dawn](https://www.dawn.com/news/1994106/pakistan-moves-towards-one-window-airport-clearance-with-e-gates-smart-scanners)*
+- AI اسٹارٹ اپ Cursor، جس کے بانی پاکستانی ہیں، نے SpaceX کے ساتھ 60 بلین ڈالر کے معاہدے پر اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/1994327/ai-startup-cursor-with-pakistani-co-founder-set-for-60bn-deal-with-spacex)*
+- وزیراعظم شہباز شریف نے چین کے زیر اہتمام خلائی مشن کے لیے منتخب ہونے والے پاکستانی امیدواروں کو مبارکباد دی اور امید ظاہر کی کہ یہ مشن پاکستان میں خلائی تحقیق کے ایک نئے دور کا آغاز کرے گا۔ *[Dawn](https://www.dawn.com/news/1994354/pm-meets-pakistanis-selected-for-chinas-space-mission-hopes-it-will-usher-in-era-of-space-research)*
+- Huawei نے اسمارٹ ڈرائیونگ ٹیکنالوجیز میں تحقیق و ترقی پر 2.6 بلین ڈالر کی سرمایہ کاری کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417941/huawei-to-invest-26-billion-on-rampd-in-smart-driving-technologies)*
 
 ## موسم
 
-*(کوئی خبر نہیں)*
+- نیشنل ڈیزاسٹر مینجمنٹ اتھارٹی (NDMA) نے 5 مئی تک ملک کے کئی حصوں میں شدید گرمی کی لہر کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5)*
+- وزیراعظم شہباز شریف نے گلگت بلتستان میں موسم کے خطرات سے بچاؤ کے لیے فعال انتباہی نظام کی عدم موجودگی پر برہمی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1994366/pm-shehbaz-expresses-displeasure-at-lack-of-functional-early-weather-warning-systems-in-gb)*
 
 ## سیاست
 
-* وزیراعظم شیباز شریف نے ایرانی سفیر سے ملاقات کی، مستقل امن معاہدے کی امید ظاہر کی *[Dawn](https://www.dawn.com/news/1994212/despite-snags-pakistan-works-to-keep-channels-open)*
-* وزیراعظم نے ایرانی سفیر سے ملاقات میں تنازع کے خاتمے کے لیے پاکستان کے کردار کو سراہا *[Dawn](https://www.dawn.com/news/1994127/iran-appreciates-pakistans-efforts-to-mediate-between-tehran-and-washington)*
-* کے پی اسمبلی نے روایتی طریقہ ترک کرتے ہوئے کھلی فضا میں اجلاس منعقد کیا *[Dawn](https://www.dawn.com/news/1994208/kp-assembly-breaks-tradition-with-open-air-sitting)*
-* عدالتی کمیشن آف پاکستان (جے سی پی) کے ذریعے آئی ایچ سی ججوں کے تبادلے کی تجویز *[Dawn](https://www.dawn.com/news/1994231/judicial-commission-of-pakistan-likely-to-recommend-transfer-of-five-ihc-judges)*
-* برطانیہ کے وزیراعظم نے سکینڈل کے باوجود استعفیٰ دینے سے انکار کردیا *[Dawn](https://www.dawn.com/news/1994206/uk-pm-wont-resign-over-mandelson-scandal)*
+- پاکستان نے ہندوستان کی جانب سے پاہلگام حملے کے حوالے سے پروپیگنڈے کو مسترد کر دیا اور "غلط بیانیوں کو ہتھیار بنانے" کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative)*
+- سابق وزیراعظم عمران خان سے جیل میں ملاقات کے لیے پی ٹی آئی رہنماؤں کی عدم موجودگی جاری ہے۔ *[Dawn](https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran)*
+- وزیر داخلہ محسن نقوی نے امریکی چارج ڈی افیئرز ناتالی بیکر سے ملاقات کی اور اسلام آباد میں امریکہ-ایران مذاکرات کے دوسرے دور کے انعقاد کے لیے جاری سفارتی کوششوں پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad)*
 
 ## قومی
 
-* پنجاب حکومت نے برٹ ریڈ لائن منصوبے کا معاہدہ منسوخ کردیا، ایمرجنسی بنیادوں پر دوبارہ ایوارڈ کیا جائے گا *[Dawn](https://www.dawn.com/news/1994042/sindh-govt-cancels-brt-red-line-construction-contract-to-re-award-it-on-emergency-basis-sharjeel-memon)*
-* پنجاب میں بجلی کی قلت اور قیمتوں میں اضافہ، حکومت کی جانب سے تحقیقات کا اعلان *[Business Recorder](https://www.brecorder.com/news/40417799/discos-found-purchasing-power-outside-national-grid-at-exorbitant-rates)*
-* پنجاب حکومت نے اسٹریٹجک پیٹرولیم ریزرو کے لیے کمیٹی تشکیل دی *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-forms-high-level-committee-to-develop-strategic-petroleum-reserves/)*
-* پنجاب اسمبلی نے کئی بل منظور کیے، ٹریفک کے جرمانے کم کیے *[Business Recorder](https://www.brecorder.com/news/40417800/punjab-pa-approves-several-bills-cuts-traffic-fines)*
-* لاہور ہائی کورٹ کے چیف جسٹس نے اغوا شدہ لڑکیوں کی بازیابی میں ناکامی پر پولیس کی کارکردگی پر عدم اطمینان کا اظہار کیا *[Business Recorder](https://www.brecorder.com/news/40417801/non-recovery-of-large-number-of-abducted-girls-lhc-cj-expresses-dissatisfaction-over-police-performance)*
-* پنجاب کے چیف منسٹر نے صوبے میں بڑھتی ہوئی جرائم کی شرح پر ناراضی کا اظہار کیا *[Business Recorder](https://www.brecorder.com/news/40417802/punjab-cm-says-unhappy-over-surge-in-crime-rate)*
-* پنجاب میں گندم کی خریداری مہم میں 63,313 کسانوں کی رجسٹریشن *[Business Recorder](https://www.brecorder.com/news/40417803/63313-farmers-registered-with-punjab-wheat-campaign)*
-* واسا پنجاب ای پورٹل کا آغاز *[Business Recorder](https://www.brecorder.com/news/40417806/wasa-punjab-e-portal-launched)*
+- بلوچستان کے چاغی میں کان کنی کی سائٹ پر مسلح حملہ ہوا جس میں 9 افراد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai)*
+- خیرپور میں مبینہ ڈرون حملے میں 4 افراد ہلاک ہوئے، جس کے بعد 3 ایس ایچ او کو معطل کر دیا گیا اور تحقیقات کا حکم دیا گیا۔ *[Dawn](https://www.dawn.com/news/1994357/3-shos-suspended-probe-ordered-after-4-killed-in-alleged-drone-strike-in-khairpur)*
+- وزیراعظم شہباز شریف نے ہدایت کی ہے کہ ملک میں نقل و حمل کو بتدریج الیکٹرک گاڑیوں میں تبدیل کیا جائے۔ *[Dawn](https://www.dawn.com/news/1994337/pm-shehbaz-directs-that-transport-nationwide-be-gradually-shifted-to-evs)*
+- پنجاب حکومت نے بجٹ سے پہلے ہزاروں خالی اسامیوں کو ختم کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget/)*
+- NEPRA نے تمام صارفین کے لیے 1,000 روپے/kW فیس عائد کرتے ہوئے مفت سولر سیٹ اپ کو ختم کر دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift/)*
 
 ## بین الاقوامی
 
-* امریکہ نے ایرانی تیل کے تین بحری جہازوں کو روک لیا *[ARY News](https://arynews.tv/us-intercepts-three-iranian-oil-tankers-in-asian-waters-sources-say)* اور *[Business Recorder](https://www.brecorder.com/news/40417873/us-intercepts-three-iranian-oil-tankers-in-asian-waters-sources-say)*
-* امریکہ اور ایران کے درمیان مذاکرات تعطل کا شکار، امریکہ نے ایران کے ساتھ جنگ بندی کی مدت کو بڑھا دیا *[Dawn](https://www.dawn.com/news/1994216/us-optimistic-about-iran-talks-this-week)*
-* لبنانی اور اسرائیلی نمائندے جنگ بندی کی توسیع پر بات چیت کے لیے واشنگٹن میں ملاقات کریں گے *[Dawn](https://www.dawn.com/news/1994209/lebanon-israel-to-meet-today-as-truce-hangs-by-a-thread)*
-* اسرائیل نے جنوبی لبنان میں فضائی حملے میں صحافی کو شہید کر دیا *[Dawn](https://www.dawn.com/news/1994261/israeli-airstrike-kills-journalist-in-south-lebanon-civil-defence)*
-* امریکہ افغان پناہ گزینوں کو جمہوری جمہوریہ کانگو بھیجنے کا منصوبہ بنا رہا ہے *[Dawn](https://www.dawn.com/news/1994205/us-plans-to-send-1100-stranded-afghans-to-unstable-democratic-republic-of-congo)*
-* ترکی روس اور یوکرین کے درمیان مذاکرات بحال کرنے کی کوشش کر رہا ہے *[ARY News](https://arynews.tv/turkey-trying-to-revive-russia-ukraine-negotiations-erdogan-tells-nato-chief)*
-* نیوزی لینڈ کے وزیر نے ہندوستان کے ساتھ فری ٹریڈ معاہدے کو "بٹر چکن سونامی" قرار دے کر ہنگامہ کھڑا کر دیا *[Dawn](https://www.dawn.com/news/1994082/new-zealand-minister-slammed-for-butter-chicken-tsunami-comments-about-planned-fta-with-india)*
+- امریکہ نے بعض ماریجوانا مصنوعات کو کم خطرناک منشیات کے طور پر دوبارہ درجہ بندی کی ہے۔ *[Dawn](https://www.dawn.com/news/1994409/us-reclassifies-certain-marijuana-products-as-a-less-dangerous-drug)*
+- ایران کی معیشت امریکی بحری محاصرے کا مقابلہ کرنے کے لیے تیار ہے۔ *[Dawn](https://www.dawn.com/news/1994376/irans-economy-looks-set-to-withstand-us-naval-blockade)*
+- اسرائیل کے فضائی حملوں میں غزہ میں چار فلسطینی ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40417943/israeli-strikes-kill-four-in-gaza-medics-say)*
+- ایران اور امریکہ کے درمیان تعطل کے باعث خلیج کے بیشتر حصوں میں مندی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40417948/most-gulf-markets-retreat-on-stalled-us-iran-peace-efforts)*
 
 ## کھیل
 
-* مانچسٹر سٹی نے برنلے کو شکست دے کر پریمیئر لیگ میں سرفہرست مقام حاصل کیا اور برنلے کی ریگیشن کی تصدیق کی *[Dawn](https://www.dawn.com/news/1994210/man-city-go-top-and-relegate-burnley-with-narrow-turf-moor-win)*
-* جرمن فٹبالر سرج گنابری انجری کی وجہ سے ورلڈ کپ سے باہر *[ARY News](https://arynews.tv/serge-gnabry-out-of-world-cup-after-adductor-muscle-tear)*
+- بنگلہ دیش نے نیوزی لینڈ کے خلاف تیسرے ون ڈے انٹرنیشنل میں 55 رنز سے فتح حاصل کی اور 2-1 سے سیریز جیت لی۔ *[Business Recorder](https://www.brecorder.com/news/40417949/shanto-rahman-fire-as-bangladesh-seal-2-1-odi-series-win-over-new-zealand)*
+- یامل ہیمسٹرنگ کی انجری کے باعث سیزن کے لیے باہر ہو گئے ہیں، لیکن ورلڈ کپ کے لیے دستیاب رہنے کی امید ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417940/yamal-out-for-season-with-hamstring-injury-but-expected-to-be-available-for-world-cup)*
 
 ## صحت
 
-*(کوئی خبر نہیں)*
+- بچوں میں ذیابیطس کے علاج کے لیے ایک نئی دوا کے کلینیکل ٹرائل کے نتائج حوصلہ افزا ہیں۔ *[ARY](https://arynews.tv/diabetes-pill-cuts-blood-sugar-in-key-trial-in-children)*
 
 ## دیگر
 
-* بلوچستان میں کان کنی کی سائٹ پر حملہ، سکیورٹی خطرات برقرار *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/attack-on-balochistan-mining-site-highlights-persistent-security-risks/)*
-* انٹرپول نے لیاری گینگسٹر واسع اللہ لاکھو کے خلاف ریڈ نوٹس جاری کیا *[Dawn](https://www.dawn.com/news/1994137/interpol-issues-red-notice-for-lyari-gangster-wasiullah-lakho)*
-* میگھن کی حالیہ ویڈیو پر تنازع، سابق ملازمین کے لیے ماضی کے صدمات تازہ *[ARY News](https://arynews.tv/meghans-recent-video-sparks-controversy-and-past-trauma-for-former-employees)*
-* ڈیوڈ وِلکاک، یو ایف او اور سازش کے نظریات کے ماہر، 52 سال کی عمر میں انتقال کر گئے *[ARY News](https://arynews.tv/david-wilcock-passes-away)*
-* غانا کے کوکو کسانوں نے ادائیگیوں میں تاخیر کے باعث ریکارڈ فصل کے خطرے کا اظہار کیا *[ARY News](https://arynews.tv/cocoa-farmers-face-payment-delays-in-ghana)*
-* ہندوستان کو ریکارڈ 2.5 ملین ٹن یوریا درآمد کرنا پڑے گا، تقریباً دو ماہ پہلے دی گئی قیمت سے دوگنی قیمت *[ARY News](https://arynews.tv/india-faces-rising-urea-prices-with-record-imports)*
+- بنگلہ دیش میں خسرے کی وباء کے باعث بچوں کی اموات کی تعداد 194 ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/1994372/bangladesh-measles-crisis-deepens-as-child-deaths-reach-194)*
+- مبینہ آڈیو لیک سے خالصتان کارکنوں کے لیے خطرات کے بارے میں نئی تشویشیں پیدا ہوگئی ہیں۔ *[ARY](https://arynews.tv/khalistan-activists-face-threat-in-alleged-audio-leak)*
+- پاکستان کراچی میں مچھلی اور آبی زراعت کے لیے ایک تحقیقی مرکز قائم کرنے کا ارادہ رکھتا ہے۔ *[ARY](https://arynews.tv/pakistan-unveils-fisheries-research-centre-initiative)*
+- یونیسکو کے مطابق، ہر 1 ڈگری سینٹی گریڈ کے عالمی درجہ حرارت سے بچنے سے عالمی ثقافتی ورثے کی سائٹس کی تعداد جو بڑے پیمانے پر خلل کا شکار ہوں گی، آدھی ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/1994350/every-1oc-of-global-warming-avoided-could-halve-number-of-world-heritage-sites-exposed-to-major-disruption-unesco)*
+- ایمبر ہیرڈ نے اپنی جڑواں بیٹیوں کے ساتھ اسپین میں اپنا جنم دن منایا۔ *[ARY](https://arynews.tv/amber-heard-celebrates-birthday-in-spain-with-twins-agnes-and-ocean)*
+- "Euphoria" کے تازہ ترین منظر نے تنازع پیدا کر دیا ہے، مداحوں نے اسے بے حس اور حقیقت سے دور قرار دیا ہے۔ *[ARY](https://arynews.tv/euphorias-latest-scene-has-sparked-controversy-with-fans-calling-it-tone-deaf-and-out-of-touch)*
+- سعودی ریال سے پاکستانی روپے کی شرح آج (23 اپریل 2026)۔ *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-april-23-2026)*
+- متحدہ عرب امارات کے درہم سے پاکستانی روپے کی شرح آج (23 اپریل 2026)۔ *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-23-2026)*
+- کراچی میں ایک خوفناک حادثے کی سی سی ٹی وی فوٹیج سامنے آئی۔ *[ARY](https://arynews.tv/karachi-cctv-footage-of-dawood-chowrangi-incident)*
+- بھارت میں فوڈ ڈیلیوری کمپنی Zomato نے قیمتوں سے متعلق ایک شرط کو واپس لے لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417946/indian-food-delivery-giant-zomato-drops-pricing-clause-after-pushback-source-says)*
+- بھارت میں تیل کی قیمتوں میں اضافے کے باعث 10 سالہ بانڈز میں گراوٹ آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417944/oil-pain-drags-india-10-year-bond-to-over-2-week-low)*
+- بھارت اور امریکہ کے درمیان تجارتی مذاکرات تعمیری رہے، بھارت کا کہنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417944/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
+- Netflix نے فوارڈ بروس بزنس کی ناکامی کے بعد 25 بلین ڈالر کے شیئر بائ بیک پلان کو بڑھا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417943/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
+- پاکستان نے ہندوستان کے پروپیگنڈے کو مسترد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417932/pakistan-rejects-indias-propaganda-calls-for-responsible-conduct)*
+- بھارت میں سپلائی چین میں خلل کے باعث افراط زر کا خطرہ بڑھ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417945/indias-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
+- پرنس ہری نے کیف کا دورہ کیا اور پوٹن کو "یہ جنگ بند کرنے" کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40417930/prince-harry-on-visit-to-kyiv-tells-putin-to-stop-this-war)*
+- وزیراعظم شہباز شریف نے آنے والے مون سون کے لیے تیاری کو یقینی بنانے کے لیے حکام کو ہدایات جاری کیں۔ *[Business Recorder](https://www.brecorder.com/news/40417929/pm-shehbaz-directs-authorities-to-ensure-preparedness-for-upcoming-monsoon)*
+- بھارت کی انفوسس نے مالی سال 2027 کے لیے 1.5%-3.5% کی آمدنی میں نمو کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417942/indias-infosys-pegs-fiscal-year-2027-revenue-growth-at-15-35)*
+- ٹیسلا کے 25 بلین ڈالر کے اخراجات کے منصوبے سے سرمایہ کاروں کے اعتماد کی آزمائش ہو رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417941/teslas-25-billion-spending-plan-tests-investor-faith-in-unproven-ai-bets)*
+- پاکستان ایک ون ونڈو ائیرپورٹ کلیئرنس سسٹم قائم کرنے کا منصوبہ بنا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-plans-one-window-airport-clearance-with-e-gates-fia-linked-security-system/)*
+- اسٹیٹ بینک نے کہا ہے کہ کوسٹ ایکولائزیشن ایڈجسٹمنٹ کیس کا مالیاتی اثر نہیں ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/sbp-held-foreign-exchange-reserves-rise-18mn-to-1510bn)*
+- خلیج میں بڑھتے ہوئے تناؤ نے آئی ٹی کے کاروباری بہاؤ کو تبدیل کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities/)*
+- اسٹیٹ بینک کے زیرِاحتیاط غیر ملکی زرمبادلہ کے ذخائر میں 18 ملین ڈالر کا اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40417936/sbp-held-foreign-exchange-reserves-rise-18mn-to-1510bn)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417931/indias-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
+- بھارت میں تجارتی مذاکرات تعمیری رہے۔ *[Business Recorder](https://www.brecorder.com/news/40417934/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
+- بھارت کی انفوسس نے مالی سال 2027 کے لیے 1.5%-3.5% کی آمدنی میں نمو کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417933/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
+- بھارت میں تیل کی قیمتوں میں اضافے کے باعث 10 سالہ بانڈز میں گراوٹ آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417935/oil-pain-drags-india-10-year-bond-to-over-2-week-low)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417938/indias-central-bank-net-bought-741-billion-in-february-bulletin-shows)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417939/copper-slips-from-multi-week-high-on-middle-east-uncertainty)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417947/asia-rice-weaker-indian-rupee-helps-india-rates-keep-steady-thai-rates-drop-on-muted-demand)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417928/copper-slips-from-multi-week-high-on-middle-east-uncertainty)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417927/most-gulf-markets-retreat-on-stalled-us-iran-peace-efforts)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417926/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417925/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417924/prince-harry-on-visit-to-kyiv-tells-putin-to-stop-this-war)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417923/israeli-strikes-kill-four-in-gaza-medics-say)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417922/india-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417921/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417920/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417919/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417918/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417917/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417916/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417915/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417914/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417913/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417912/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417911/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417910/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417909/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417908/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417907/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417906/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417905/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417904/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417903/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417902/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417901/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417900/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417899/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417898/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417897/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417896/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417895/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417894/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417893/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417892/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417891/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417890/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417889/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417888/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417887/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417886/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417885/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
+- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے
 
