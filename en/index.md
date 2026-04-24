@@ -4,75 +4,82 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 23-Apr-2026 21:02PKT
+Published at: 24-Apr-2026 09:02PKT
 
 Time to read: 6 mins
 
 ### Economy
-- The ADB committed $3.67 billion to Pakistan in 2025, a 22% increase, focusing on fiscal reform and the mineral sector. *[Dawn](https://www.dawn.com/news/1994349/adb-deepens-pakistan-engagement-with-367bn-commitments-targets-fiscal-reform-and-minerals)*
-- Pakistan is seeking three spot LNG cargoes for April-May delivery due to a power shortfall of over 4,500MW. *[Dawn](https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023)*
-- The KSE-100 index plunged below 170,000 points due to tensions in the Strait of Hormuz and bearish market sentiment. *[Dawn](https://www.dawn.com/news/1994338/kse-100-plunges-below-170000-mark-as-bears-maintain-control-of-psx)*
-- Bank Alfalah received approval from the SBP to raise up to Rs20 billion through Tier-II capital instruments. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/bank-alfalah-gets-sbp-nod-to-raise-up-to-rs20-billion-tier-ii-capital/)*
-- Business confidence in Pakistan has declined due to rising costs and a weakening outlook, according to a recent survey. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey/)*
-- SNGPL clarified that a recent LHC ruling on the Cost Equalisation Adjustment case has no financial impact. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling/)*
-- Pakistan’s foreign currency deposits rose to Rs87 billion as demand for foreign currency remains strong. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-sees-dollar-deposits-rise-to-rs87-billion-as-foreign-currency-demand-stays-firm/)*
+- Pakistan’s private sector confidence has deteriorated sharply in Q1 2026 due to rising energy costs and regional tensions. *[Dawn](https://www.dawn.com/news/1994502/gallup-survey-shows-dip-in-private-sector-confidence-in-2026)*
+- The SBP allowed banks to issue import guarantees and standby LCs to speed up oil and LNG imports amid geopolitical concerns. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/sbp-allows-banks-to-issue-import-guarantees-standby-lcs-to-speed-up-oil-lng-imports/)*
+- Pakistan met 14 of 17 IMF targets, missing the tax collection goal. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- ADB increased commitments to Pakistan to $3.67 billion in 2025, focusing on minerals, SMEs, and women-led growth. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/adb-lifts-pakistan-commitments-to-3-67bn-in-2025-as-focus-shifts-to-minerals-smes-and-women-led-growth/)*
+- Customs increased import valuation for 62 old and used mobile phone models. *[Dawn](https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models)*
+- Pakistan’s foreign exchange reserves increased by $104 million due to Saudi funds. *[Business Recorder](https://www.brecorder.com/news/40418033/forex-reserves-up-usd104m-on-saudi-funds)*
+- Digital payments are gaining momentum in Pakistan, with Meezan Bank’s monthly card spending exceeding Rs45 billion. *[Business Recorder](https://www.brecorder.com/news/40417999/digital-payments-gaining-momentum)*
 
 ### Science & Technology
-- AI startup Cursor, co-founded by a Pakistani, has secured a $60 billion acquisition deal with SpaceX. *[Dawn](https://www.dawn.com/news/1994327/ai-startup-cursor-with-pakistani-co-founder-set-for-60bn-deal-with-spacex)*
-- Huawei plans to invest $2.6 billion in R&D for smart driving technologies over the next five years. *[Business Recorder](https://www.brecorder.com/news/40417941/huawei-to-invest-26-billion-on-rampd-in-smart-driving-technologies)*
-- Pakistan plans to implement a one-window airport clearance system with e-gates and an FIA-linked security system. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-plans-one-window-airport-clearance-with-e-gates-fia-linked-security-system/)*
+- Instagram Stories are experiencing outages for some users. *[ARY](https://arynews.tv/instagram-stories-not-working-why)*
+- Singapore is emerging as a neutral ground for AI firms navigating US-China rivalry. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/singapore-emerging-as-neutral-ground-as-ai-firms-navigate-sino-us-rivalry/)*
 
 ### Weather
-- The NDMA has issued a nationwide alert warning of an intense heatwave in several regions until May 5, and forecasts rain/windstorms between April 24-29. *[Dawn](https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5)*
-- PM Shehbaz expressed displeasure at the lack of functional early weather warning systems in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/1994366/pm-shehbaz-expresses-displeasure-at-lack-of-functional-early-weather-warning-systems-in-gb)*
+- The NDMA warned of an intense heatwave across several regions of Pakistan until May 5, alongside forecasts of rain and windstorms. *[Dawn](https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5)*
 
 ### Politics
-- Pakistan rejected Indian propaganda linking it to the 2025 Pahalgam attack, calling it “weaponising a false narrative”. *[Dawn](https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative)*
-- Interior Minister Mohsin Naqvi met with the US Chargé d’Affaires to discuss diplomatic efforts for a second round of US-Iran talks in Islamabad. *[Dawn](https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad)*
+- CJP Yahya Afridi openly opposes a JCP meeting for judges’ transfers, fearing it will erode judicial independence. *[Dawn](https://www.dawn.com/news/1994558/cjp-afridi-openly-opposes-judicial-commission-of-pakistan-meeting-for-judges-transfer)*
+- Speaker National Assembly Ayaz Sadiq emphasized adherence to international laws and dialogue for regional stability. *[Dawn](https://www.dawn.com/news/1994475/adherence-to-international-laws-dialogue-only-options-for-regional-stability-na-speaker-ayaz-sadiq)*
+- PTI leaders were absent for the second consecutive week from a court-mandated meeting with Imran Khan at Adiala jail. *[Dawn](https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran)*
 
 ### National
-- PTI leaders failed to appear for a court-mandated meeting with Imran Khan at Adiala jail for the second consecutive week. *[Dawn](https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran)*
-- PM Shehbaz directed that nationwide transport be gradually shifted to electric vehicles. *[Dawn](https://www.dawn.com/news/1994337/pm-shehbaz-directs-that-transport-nationwide-be-gradually-shifted-to-evs)*
-- PM Shehbaz congratulated the two Pakistani astronaut candidates selected for China’s manned space programme. *[Dawn](https://www.dawn.com/news/1994354/pm-meets-pakistanis-selected-for-chinas-space-mission-hopes-it-will-usher-in-era-of-space-research)*
-- Customs increased import valuation for 62 models of older and used mobile phones. *[Dawn](https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models)*
-- Punjab abolished 30,000 education posts and thousands more across departments ahead of the budget. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget/)*
-- NEPRA ended the free facility for solar installations and imposed a Rs1,000/kW fee. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift/)*
+- Parts of Rawalpindi and Islamabad remain locked down due to uncertainty surrounding US-Iran talks. *[Dawn](https://www.dawn.com/news/1994483/parts-of-twin-cities-remain-locked-down-despite-uncertainty-over-us-iran-talks)*
+- CM Bugti inaugurated Balochistan’s first research centre to counter extremism. *[Dawn](https://www.dawn.com/news/1994549/cm-bugti-opens-research-centre-in-balochistan-to-curb-extremism)*
+- Nine people were killed in an armed attack at a mining site in Balochistan’s Chagai district. *[Dawn](https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai)*
+- Lahore High Court ruled that a father must pay child maintenance during a trial. *[Dawn](https://www.dawn.com/news/1994551/father-must-pay-child-maintenance-during-trial-rules-lahore-high-court)*
+- 11 suspects were granted bail in a protest case, while the remand of five others in a murder case was extended. *[Dawn](https://www.dawn.com/news/1994481/11-granted-bail-in-protest-case)*
+- FIA is set to fast-track money laundering probes under new SOPs. *[Dawn](https://www.dawn.com/news/1994423/fia-set-to-fast-track-money-laundering-probes)*
+- Pakistan rejected Indian propaganda linking it to the Pahalgam attack. *[Dawn](https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative)*
+- Pakistan and seven other Muslim nations rejected attempts to alter the status quo in Jerusalem. *[Dawn](https://www.dawn.com/news/1994444/pakistan-7-other-muslim-nations-reject-attempts-to-alter-historic-legal-status-quo-in-jerusalem-at-its-holy-sites)*
+- PM Shehbaz announced easy-installment e-bikes for government employees. *[ARY](https://arynews.tv/electric-motorcycles-for-government-employees-in-pakistan)*
+- Power shortfall exceeds 11,000MW due to RLNG supply halts and plant underperformance. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/power-shortfall-exceeds-11000mw-as-rlng-supply-halts-key-plants-underperform/)*
+- Gwadar to get 40MW local power plant due to outages from Iran imports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/gwadar-to-get-40mw-local-power-plant-as-outages-from-iran-imports-raise-risks/)*
 
 ### International
-- The US reclassified certain marijuana products as a less dangerous drug, accelerating reclassification efforts. *[Dawn](https://www.dawn.com/news/1994409/us-reclassifies-certain-marijuana-products-as-a-less-dangerous-drug)*
-- Iran appears set to withstand a US naval blockade, with analysts suggesting economic freefall claims are premature. *[Dawn](https://www.dawn.com/news/1994376/irans-economy-looks-set-to-withstand-us-naval-blockade)*
-- Prince Harry visited Kyiv and called on Putin to end the war and Trump to show leadership. *[Business Recorder](https://www.brecorder.com/news/40417930/prince-harry-on-visit-to-kyiv-tells-putin-to-stop-this-war)*
+- Trump ruled out a nuclear option amid the Hormuz struggle, ordering the Navy to destroy mine-laying vessels. *[Dawn](https://www.dawn.com/news/1994561/trump-rules-out-n-option-amid-hormuz-struggle)*
+- Israel and Lebanon extended their ceasefire by three weeks, as US-Iran peace talks stalled. *[Dawn](https://www.dawn.com/news/1994581/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall)*
+- A US soldier faces charges for allegedly betting on the Maduro operation using classified information. *[Dawn](https://www.dawn.com/news/1994582/us-soldier-allegedly-bet-on-maduro-operation-using-intel)*
+- Israel killed a Lebanese journalist, sparking outrage amid peace talks. *[Dawn](https://www.dawn.com/news/1994535/uproar-as-israel-kills-lebanese-journalist-amid-peace-talks)*
+- The UK and France signed a three-year deal to stop migrant crossings. *[Business Recorder](https://www.brecorder.com/news/40418008/uk-france-sign-three-year-deal-to-stop-migrant-crossings)*
+- US aircraft carrier USS George H.W. Bush is in the Mideast region. *[ARY](https://arynews.tv/uss-george-h-w-bush-aircraft-carrier-in-mideast-us-military)*
+- Iran released footage of its commandos boarding a cargo ship in the Strait of Hormuz. *[ARY](https://arynews.tv/israel-launches-attack-on-iran)*
 
 ### Sports
-- Bangladesh secured a 2-1 ODI series win over New Zealand with a 55-run victory. *[Business Recorder](https://www.brecorder.com/news/40417949/shanto-rahman-fire-as-bangladesh-seal-2-1-odi-series-win-over-new-zealand)*
-- Lamine Yamal will miss the rest of the season due to a hamstring injury but is expected to be available for the World Cup. *[Business Recorder](https://www.brecorder.com/news/40417940/yamal-out-for-season-with-hamstring-injury-but-expected-to-be-available-for-world-cup)*
+- Football fans are not enthusiastic about a potential Iran-Italy swap for the World Cup. *[Dawn](https://www.dawn.com/news/1994560/football-fans-not-enthused-by-suggestion-of-iran-italy-swap)*
 
 ### Health
-- A diabetes pill has shown promising results in cutting blood sugar levels in a key trial involving children. *[ARY](https://arynews.tv/diabetes-pill-cuts-blood-sugar-in-key-trial-in-children)*
-- Bangladesh is facing a deepening measles crisis with 194 child deaths reported. *[Dawn](https://www.dawn.com/news/1994372/bangladesh-measles-crisis-deepens-as-child-deaths-reach-194)*
+- No relevant articles.
 
 ### Other
-- Nine people were killed in an armed attack at a mining site in Balochistan’s Chagai district. *[Dawn](https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai)*
-- Three SHOs were suspended and a probe ordered after four people were killed in an alleged drone strike in Khairpur. *[Dawn](https://www.dawn.com/news/1994357/3-shos-suspended-probe-ordered-after-4-killed-in-alleged-drone-strike-in-khairpur)*
-- An alleged audio leak has raised concerns over threats to Khalistan activists. *[ARY](https://arynews.tv/khalistan-activists-face-threat-in-alleged-audio-leak)*
-- Pakistan plans to establish a fisheries and aquaculture research centre in Karachi. *[ARY](https://arynews.tv/pakistan-unveils-fisheries-research-centre-initiative)*
-- CCTV footage emerged of a deadly accident in Karachi involving a six-year-old boy. *[ARY](https://arynews.tv/karachi-cctv-footage-of-dawood-chowrangi-incident)*
-- Amber Heard celebrated her birthday in Spain with her twins. *[ARY](https://arynews.tv/amber-heard-celebrates-birthday-in-spain-with-twins-agnes-and-ocean)*
-- Livvy Dunne discussed her acting goals after her debut in Baywatch. *[ARY](https://arynews.tv/livvy-dunne-talks-acting-goals-after-baywatch-debut)*
-- Currency exchange rates: Saudi Riyal and UAE Dirham to Pakistani Rupee rates were reported. *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-april-23-2026)* & *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-23-2026)*
-- "Euphoria’s" latest scene sparked controversy, with fans calling it tone-deaf. *[ARY](https://arynews.tv/euphorias-latest-scene-has-sparked-controversy-with-fans-calling-it-tone-deaf-and-out-of-touch)*
-- India’s inflation risks have risen due to supply-side disruptions and weather uncertainties. *[Business Recorder](https://www.brecorder.com/news/40417931/indias-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
-- Gulf tensions are shifting IT business flows, creating both slowdowns and opportunities for Pakistani firms. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities/)*
-- Most Gulf markets retreated due to stalled US-Iran peace efforts. *[Business Recorder](https://www.brecorder.com/news/40417948/most-gulf-markets-retreat-on-stalled-us-iran-peace-efforts)*
-- Israel strikes killed four Palestinians in Gaza. *[Business Recorder](https://www.brecorder.com/news/40417943/israeli-strikes-kill-four-in-gaza-medics-say)*
-- India’s Infosys projected revenue growth of 1.5%-3.5% for fiscal year 2027. *[Business Recorder](https://www.brecorder.com/news/40417942/indias-infosys-pegs-fiscal-year-2027-revenue-growth-at-15-35)*
-- Tesla boosted its share buyback plan by $25 billion after a failed Warner Bros acquisition bid. *[Business Recorder](https://www.brecorder.com/news/40417933/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
-- India says trade talks with the U.S. remain constructive after a Washington visit. *[Business Recorder](https://www.brecorder.com/news/40417934/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
-- Every 1°C of global warming avoided could halve the number of World Heritage sites exposed to major disruption. *[Dawn](https://www.dawn.com/news/1994350/every-1oc-of-global-warming-avoided-could-halve-number-of-world-heritage-sites-exposed-to-major-disruption-unesco)*
-- Attock refinery operations have normalized after transport links were restored. *[Dawn](https://www.dawn.com/news/1994305/attock-refinery-operations-normalise-as-transport-links-restored)*
-- Generation capacity of at least 62,000MW will be needed by 2035 to support economic growth. *[Dawn](https://www.dawn.com/news/1994362/generation-capacity-of-at-least-62000mw-needed-by-2035-to-support-economic-growth)*
-- India’s central bank net bought $7.41 billion in February. *[Business Recorder](https://www.brecorder.com/news/40417938/indias-central-bank-net-bought-741-billion-in-february-bulletin-shows)*
-- SBP-held foreign exchange reserves rose by $18 million to $15.10 billion. *[Business Recorder](https://www.brecorder.com/news/40417936/sbp-held-foreign-exchange-reserves-rise-18mn-to-1510bn)*
-- IT losses are impacting Sri Lankan shares. *[Business Recorder](https://www.brecorder.com/news/40417937/it-losses-drag-sri-lankan-shares-lower)*
-- Copper prices slipped from multi-week highs due to Middle East uncertainty. *[Business Recorder](https://www.brecorder.com/news/40417928/copper-slips-from-multi-week-high-on-middle-east-uncertainty)*
+- A biopic about chef Bernard Loiseau, linked to the film *Ratatouille*, is in development. *[ARY](https://arynews.tv/ratatouille-linked-chef-bernard-loiseau-getting-biopic)*
+- A list of US states where marijuana is legal was published. *[ARY](https://arynews.tv/marijuana-policy-changes-in-the-united-states)*
+- The CAD to USD exchange rate was reported. *[ARY](https://arynews.tv/cad-to-usd-canadian-dollar-rate-today-april-23-2026)*
+- A review of the Season 2 finale of Netflix’s “Running Point” was published. *[ARY](https://arynews.tv/the-season-2-finale-of-netflixs-running-point-sets-up-a-juicy-new-story)*
+- UK consumer morale has hit its lowest point since October 2023 amid concerns about the Iran war. *[ARY](https://arynews.tv/uk-consumer-morale-hits-lowest-since-october-2023)*
+- Oil prices rose due to escalating military tensions in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40418047/oil-rises-on-concerns-over-escalating-military-tensions-in-the-middle-east)*
+- Gold is set for a weekly drop as higher oil prices stoke inflation fears. *[Business Recorder](https://www.brecorder.com/news/40418053/gold-set-for-weekly-drop-as-higher-oil-prices-stoke-inflation-fears)*
+- Asian shares are mixed as oil prices advance on the US-Iran deadlock. *[Business Recorder](https://www.brecorder.com/news/40418050/asia-shares-mixed-oil-advances-on-us-iran-deadlock)*
+- Trump is seeking a way out of war, but Iran may not oblige. *[Business Recorder](https://www.brecorder.com/news/40418013/trump-looks-for-way-out-on-war-but-iran-may-not-oblige)*
+- Indian shares are expected to open muted due to higher oil prices and a weak Infosys forecast. *[Business Recorder](https://www.brecorder.com/news/40418049/indian-shares-seen-muted-on-higher-oil-prices-weak-infosys-forecast)*
+- The dollar is set for a weekly gain due to stalled US-Iran talks and Middle East uncertainty. *[Business Recorder](https://www.brecorder.com/news/40418048/dollar-set-for-weekly-gain-on-stalled-us-iran-talks-and-middle-east-uncertainty)*
+- Ports handled 179,335 MT of cargoes despite Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40418032/ports-handle-179335-mt-of-cargoes-in-busy-thursday-operations)*
+- PSMC begins exporting Suzuki Cultus parts to Thailand. *[Business Recorder](https://www.brecorder.com/news/40418031/psmc-begins-exporting-suzuki-cultus-parts-to-thailand)*
+- Syed Hasan Habib’s book “North Korea: Never Ending Tragedy” was launched. *[Business Recorder](https://www.brecorder.com/news/40417996/syed-hasan-habibs-book-titled-north-korea-never-ending-tragedy-launched)*
+- NTU Faisalabad organized an exhibition to promote women’s self-sufficiency. *[Business Recorder](https://www.brecorder.com/news/40417997/womens-self-sufficiency-ntu-faisalabad-organises-special-exhibition)*
+- Dewan Farooque Spinning Mills Limited financial overview. *[Business Recorder](https://www.brecorder.com/news/40418018/dewan-farooque-spinning-mills-limited)*
+- Sida contributed $4.17 million to UNICEF for Pakistan. *[Business Recorder](https://www.brecorder.com/news/40418016/sida-contributes-usd417m-to-unicef-for-pakistan)*
+- Cash management framework under strain. *[Business Recorder](https://www.brecorder.com/news/40418009/cash-management-framework-under-strain)*
+- Digital payments gaining momentum. *[Business Recorder](https://www.brecorder.com/news/40417999/digital-payments-gaining-momentum)*
+- PM’s Youth Programme: Governor distributes laptops among students. *[Business Recorder](https://www.brecorder.com/news/40418000/pms-youth-programme-governor-distributes-laptops-among-students)*
+- Indian rupee faces more pressure on rising Mideast tensions. *[Business Recorder](https://www.brecorder.com/news/40418052/indian-rupee-faces-more-pressure-on-rising-mideast-tensions-oil-at-2-week-high)*
+- Lebanon-Israel ceasefire extended by three weeks. *[Business Recorder](https://www.brecorder.com/news/40418051/lebanon-israel-ceasefire-extended-by-three-weeks-after-oval-office-meeting)*
+- SBP set for April 27 policy meeting as markets tilt toward rate hike. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/sbp-set-for-april-27-policy-meeting-as-markets-tilt-toward-rate-hike/)*
+- State Bank buys back Rs309.5 billion PIBs to inject liquidity. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/state-bank-buys-back-rs309-5-billion-pibs-in-second-auction-to-inject-liquidity/)*
 
