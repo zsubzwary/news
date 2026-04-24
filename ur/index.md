@@ -7,136 +7,134 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 23-Apr-2026 21:08PKT 
+ &lrm; 24-Apr-2026 09:08PKT 
 
-پڑھنے کا وقت : 14 منٹ 
+پڑھنے کا وقت : 12 منٹ 
 
 ## معیشت
 
-- کسٹمز نے 62 پرانے اور استعمال شدہ موبائل فون ماڈلز کی درآمدی قیمت میں اضافہ کر دیا ہے، تاکہ ڈیوٹی اور ٹیکس کے مقاصد کے لیے اندازہ کردہ اقدار کو موجودہ مارکیٹ ریٹ کے ساتھ ہم آہنگ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models)*
-- ایشین ڈویلپمنٹ بینک (اے ڈی بی) نے پاکستان کے لیے 3.67 بلین ڈالر کی نئی وابستگیوں کا اعلان کیا ہے، جو گزشتہ سال کے مقابلے میں 22 فیصد زیادہ ہے۔ یہ مالیاتی مدد مالی اصلاحات اور معدنی وسائل پر مرکوز ہے۔ *[Dawn](https://www.dawn.com/news/1994349/adb-deepens-pakistan-engagement-with-367bn-commitments-targets-fiscal-reform-and-minerals)*
-- 2035 تک معاشی ترقی کو برقرار رکھنے کے لیے کم از کم 62,000 میگاواٹ بجلی پیدا کرنے کی صلاحیت کی ضرورت ہے۔ *[Dawn](https://www.dawn.com/news/1994362/generation-capacity-of-at-least-62000mw-needed-by-2035-to-support-economic-growth)*
-- پاک LNG نے اپریل-مئی کی فراہمی کے لیے تین LNG کارگو کی تلاش میں ٹینڈر جاری کیے ہیں، کیونکہ ملک کو سپلائی کی قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/1994311/pakistan-seeks-three-spot-lng-cargoes-in-first-tender-since-dec-2023)*
-- بینک الفلاح کو اسٹیٹ بینک نے 20 ارب روپے تک کے ٹیر II کیپٹل جمع کرنے کی منظوری دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/bank-alfalah-gets-sbp-nod-to-raise-up-to-rs20-billion-tier-ii-capital/)*
-- پاکستان میں ڈالر کے ڈپازٹ میں اضافہ ہوا ہے، جو 87 ارب روپے تک پہنچ گئے ہیں، کیونکہ غیر ملکی کرنسی کی طلب مضبوط ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-sees-dollar-deposits-rise-to-rs87-billion-as-foreign-currency-demand-stays-firm/)*
-- کاروباری اعتماد کا سروے بتاتا ہے کہ پاکستان میں بڑھتے ہوئے اخراجات اور کمزور آؤٹ لک کے باعث کاروباری اعتماد میں کمی آئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey/)*
+- گلپ پاکستان کے سروے کے مطابق 2026 میں نجی شعبے کا اعتماد کم ہو گیا ہے، زیادہ تر کاروبار توانائی کی بڑھتی ہوئی قیمتوں اور علاقائی سیاسی کشیدگی کے اثرات سے متاثر ہیں۔ *[Dawn](https://www.dawn.com/news/1994502/gallup-survey-shows-dip-in-private-sector-confidence-in-2026)*
+- کسٹم نے 62 پرانے اور استعمال شدہ موبائل فون ماڈلز کی درآمدی قیمتیں بڑھا دی ہیں، تاکہ ڈیوٹی اور ٹیکس کے لیے اندازہ کردہ اقدار کو مارکیٹ ریٹ کے ساتھ ہم آہنگ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/1994373/customs-increases-import-valuation-for-62-old-and-used-mobile-phone-models)*
+- سونے کی قیمت میں کمی آئی ہے لیکن اس ہفتے کے اختتام پر قیمتوں میں کمی کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418053/gold-set-for-weekly-drop-as-higher-oil-prices-stoke-inflation-fears)*
+- روپے کی قدر میں مزید کمی کا امکان ہے کیونکہ بھارت اور ایران کے درمیان بڑھتی ہوئی کشیدگی اور تیل کی قیمتوں میں اضافہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418052/indian-rupee-faces-more-pressure-on-rising-mideast-tensions-oil-at-2-week-high)*
+- اسٹیٹ بینک نے توانائی کے شعبے کو درآمدی سہولت فراہم کرنے کے لیے بینکوں کو آئی ایم پی جی اور اسٹینڈ بائی ایل سی جاری کرنے کی اجازت دے دی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/sbp-allows-banks-to-issue-import-guarantees-standby-lcs-to-speed-up-oil-lng-imports/)*
 
 ## سائنس اور ٹیکنالوجی
 
-- AI اسٹارٹ اپ Cursor، جس کے بانی پاکستانی ہیں، نے SpaceX کے ساتھ 60 بلین ڈالر کے معاہدے پر اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/1994327/ai-startup-cursor-with-pakistani-co-founder-set-for-60bn-deal-with-spacex)*
-- وزیراعظم شہباز شریف نے چین کے زیر اہتمام خلائی مشن کے لیے منتخب ہونے والے پاکستانی امیدواروں کو مبارکباد دی اور امید ظاہر کی کہ یہ مشن پاکستان میں خلائی تحقیق کے ایک نئے دور کا آغاز کرے گا۔ *[Dawn](https://www.dawn.com/news/1994354/pm-meets-pakistanis-selected-for-chinas-space-mission-hopes-it-will-usher-in-era-of-space-research)*
-- Huawei نے اسمارٹ ڈرائیونگ ٹیکنالوجیز میں تحقیق و ترقی پر 2.6 بلین ڈالر کی سرمایہ کاری کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417941/huawei-to-invest-26-billion-on-rampd-in-smart-driving-technologies)*
+- انسٹاگرام اسٹوریز کے کام نہ کرنے کی وجہ سے صارفین پریشان ہیں۔ *[ARY](https://arynews.tv/instagram-stories-not-working-why)*
+- سنگاپور، امریکہ اور چین کے درمیان بڑھتی ہوئی تکنیکی رقابت کے درمیان، مصنوعی ذہانت (اے آئی) کمپنیوں کے لیے ایک غیر جانبدار مقام کے طور پر ابھر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/singapore-emerging-as-neutral-ground-as-ai-firms-navigate-sino-us-rivalry)*
 
 ## موسم
 
-- نیشنل ڈیزاسٹر مینجمنٹ اتھارٹی (NDMA) نے 5 مئی تک ملک کے کئی حصوں میں شدید گرمی کی لہر کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5)*
-- وزیراعظم شہباز شریف نے گلگت بلتستان میں موسم کے خطرات سے بچاؤ کے لیے فعال انتباہی نظام کی عدم موجودگی پر برہمی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1994366/pm-shehbaz-expresses-displeasure-at-lack-of-functional-early-weather-warning-systems-in-gb)*
+- نیشنل ڈیزاسٹر مینجمنٹ اتھارٹی (این ڈی ایم اے) نے مئی 5 تک ملک کے کئی حصوں میں شدید گرمی کی لہر کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/1994383/ndma-warns-of-intense-heatwave-in-several-regions-across-country-till-may-5)*
 
 ## سیاست
 
-- پاکستان نے ہندوستان کی جانب سے پاہلگام حملے کے حوالے سے پروپیگنڈے کو مسترد کر دیا اور "غلط بیانیوں کو ہتھیار بنانے" کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative)*
-- سابق وزیراعظم عمران خان سے جیل میں ملاقات کے لیے پی ٹی آئی رہنماؤں کی عدم موجودگی جاری ہے۔ *[Dawn](https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran)*
-- وزیر داخلہ محسن نقوی نے امریکی چارج ڈی افیئرز ناتالی بیکر سے ملاقات کی اور اسلام آباد میں امریکہ-ایران مذاکرات کے دوسرے دور کے انعقاد کے لیے جاری سفارتی کوششوں پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1994319/naqvi-us-envoy-discuss-diplomatic-efforts-for-holding-2nd-round-of-us-iran-talks-in-islamabad)*
+- چیف جسٹس پاکستان (سی جے پی) یحییٰ آفریدی نے ججز کی تبادلی کے لیے جوڈیشل کمیشن آف پاکستان (جے سی پی) کے اجلاس کی کھل کر مخالفت کی ہے۔ *[Dawn](https://www.dawn.com/news/1994558/cjp-afridi-openly-opposes-judicial-commission-of-pakistan-meeting-for-judges-transfer)*
+- سابق وزیراعظم عمران خان کے ساتھ ملاقات کے لیے پی ٹی آئی رہنماؤں کی اڈیالہ جیل میں عدم موجودگی سے پارٹی میں تقسیم کے قیاس بڑھ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1994414/for-2nd-consecutive-week-pti-leaders-no-show-at-adiala-jail-on-court-mandated-day-for-meeting-with-imran)*
+- وزیراعظم شہباز شریف نے سرکاری ملازمین کے لیے آسان اقساط پر الیکٹرک بائک فراہم کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/electric-motorcycles-for-government-employees-in-pakistan)*
+- پاکستان نے یروشلم اور اس کے مقدس مقامات کی تاریخی اور قانونی حیثیت کو تبدیل کرنے کی کسی بھی کوشش کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/1994444/pakistan-7-other-muslim-nations-reject-attempts-to-alter-historic-legal-status-quo-in-jerusalem-at-its-holy-sites)*
+- پاکستان نے بھارت پر Indus Waters Treaty معطل کرنے کا الزام لگا کر اقوام متحدہ کی سلامتی کونسل (یو این ایس سی) سے رابطہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1994438/in-letter-to-unsc-president-dar-draws-attention-to-grave-consequences-of-indus-waters-treaty-suspension-by-india)*
 
 ## قومی
 
-- بلوچستان کے چاغی میں کان کنی کی سائٹ پر مسلح حملہ ہوا جس میں 9 افراد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai)*
-- خیرپور میں مبینہ ڈرون حملے میں 4 افراد ہلاک ہوئے، جس کے بعد 3 ایس ایچ او کو معطل کر دیا گیا اور تحقیقات کا حکم دیا گیا۔ *[Dawn](https://www.dawn.com/news/1994357/3-shos-suspended-probe-ordered-after-4-killed-in-alleged-drone-strike-in-khairpur)*
-- وزیراعظم شہباز شریف نے ہدایت کی ہے کہ ملک میں نقل و حمل کو بتدریج الیکٹرک گاڑیوں میں تبدیل کیا جائے۔ *[Dawn](https://www.dawn.com/news/1994337/pm-shehbaz-directs-that-transport-nationwide-be-gradually-shifted-to-evs)*
-- پنجاب حکومت نے بجٹ سے پہلے ہزاروں خالی اسامیوں کو ختم کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget/)*
-- NEPRA نے تمام صارفین کے لیے 1,000 روپے/kW فیس عائد کرتے ہوئے مفت سولر سیٹ اپ کو ختم کر دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift/)*
+- بلوچستان میں چاغی کے علاقے میں کان کنی کی سائٹ پر مسلح حملہ ہوا جس میں کم سے کم نو افراد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1994343/9-killed-in-armed-attack-at-mining-site-in-balochistans-chagai)*
+- بلوچستان میں انتہا پسندی کو روکنے کے لیے پہلی تحقیق مرکز کا افتتاح کیا گیا۔ *[Dawn](https://www.dawn.com/news/1994549/cm-bugti-opens-research-centre-in-balochistan-to-curb-extremism)*
+- لاہور ہائی کورٹ نے فیصلہ دیا ہے کہ والد کو مقدمے کی سماعت کے دوران بچے کی کفالت ادا کرنا ہوگی۔ *[Dawn](https://www.dawn.com/news/1994551/father-must-pay-child-maintenance-during-trial-rules-lahore-high-court)*
+- اینٹی ٹیررزم کورٹ (اے ٹی سی) نے ایرانی سپریم لیڈر علی خامنی کی موت پر احتجاج کے سلسلے میں گرفتار 11 مشتبہ افراد کو ضمانت پر رہا کر دیا۔ *[Dawn](https://www.dawn.com/news/1994481/11-granted-bail-in-protest-case)*
+- راولپنڈی اور اسلام آباد کے کچھ حصے امریکی-ایرانی مذاکرات کی غیر یقینی صورتحال کے باوجود بند ہیں۔ *[Dawn](https://www.dawn.com/news/1994483/parts-of-twin-cities-remain-locked-down-despite-uncertainty-over-us-iran-talks)*
+- قومی اسمبلی کے اسپیکر سردار ایاز صادق نے بین الاقوامی قوانین کا احترام اور مکالمات کے ذریعے تنازعات کے حل پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1994475/adherence-to-international-laws-dialogue-only-options-for-regional-stability-na-speaker-ayaz-sadiq)*
 
 ## بین الاقوامی
 
-- امریکہ نے بعض ماریجوانا مصنوعات کو کم خطرناک منشیات کے طور پر دوبارہ درجہ بندی کی ہے۔ *[Dawn](https://www.dawn.com/news/1994409/us-reclassifies-certain-marijuana-products-as-a-less-dangerous-drug)*
-- ایران کی معیشت امریکی بحری محاصرے کا مقابلہ کرنے کے لیے تیار ہے۔ *[Dawn](https://www.dawn.com/news/1994376/irans-economy-looks-set-to-withstand-us-naval-blockade)*
-- اسرائیل کے فضائی حملوں میں غزہ میں چار فلسطینی ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40417943/israeli-strikes-kill-four-in-gaza-medics-say)*
-- ایران اور امریکہ کے درمیان تعطل کے باعث خلیج کے بیشتر حصوں میں مندی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40417948/most-gulf-markets-retreat-on-stalled-us-iran-peace-efforts)*
+- امریکہ کے صدر ڈونلڈ ٹرمپ نے ہرمز کی تنگ گذرگاہ میں کشیدگی کے درمیان جوہری آپشن کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/1994561/trump-rules-out-n-option-amid-hormuz-struggle)*
+- اسرائیل اور لبنان نے شاکے سیف فائر کو تین ہفتوں تک بڑھا دیا، جبکہ امریکہ اور ایران کے درمیان امن مذاکرات تعطل کا شکار ہیں۔ *[Dawn](https://www.dawn.com/news/1994581/israel-lebanon-extend-ceasefire-as-iran-peace-talks-stall)*
+- امریکی فوج کے ایک سپاہی پر الزام ہے کہ انہوں نے وینزویلا کے سابق صدر نکولس میڈورو کے خلاف آپریشن کے نتائج پر شرط لگائی تھی۔ *[Dawn](https://www.dawn.com/news/1994582/us-soldier-allegedly-bet-on-maduro-operation-using-intel)*
+- اسرائیل نے لبنان میں ایک صحافی کو شہید کر دیا جس کی وجہ سے احتجاج ہوا۔ *[Dawn](https://www.dawn.com/news/1994535/uproar-as-israel-kills-lebanese-journalist-amid-peace-talks)*
+- برطانیہ اور فرانس نے غیر قانونی تارکین کی نقل و حمل کو روکنے کے لیے تین سالہ معاہدے پر دستخط کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40418008/uk-france-sign-three-year-deal-to-stop-migrant-crossings)*
+- یوکرین جنگ کے باعث برطانیہ کے صارفین کی معاشی حالت بدترین ہوگئی ہے۔ *[ARY](https://arynews.tv/uk-consumer-morale-hits-lowest-since-october-2023)*
 
 ## کھیل
 
-- بنگلہ دیش نے نیوزی لینڈ کے خلاف تیسرے ون ڈے انٹرنیشنل میں 55 رنز سے فتح حاصل کی اور 2-1 سے سیریز جیت لی۔ *[Business Recorder](https://www.brecorder.com/news/40417949/shanto-rahman-fire-as-bangladesh-seal-2-1-odi-series-win-over-new-zealand)*
-- یامل ہیمسٹرنگ کی انجری کے باعث سیزن کے لیے باہر ہو گئے ہیں، لیکن ورلڈ کپ کے لیے دستیاب رہنے کی امید ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417940/yamal-out-for-season-with-hamstring-injury-but-expected-to-be-available-for-world-cup)*
+- ایران کے بجائے اٹلی کو ورلڈ کپ میں شامل کرنے کے تجویز پر فٹ بال کے مداحوں نے مایوسی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/1994560/football-fans-not-enthused-by-suggestion-of-iran-italy-swap)*
 
 ## صحت
 
-- بچوں میں ذیابیطس کے علاج کے لیے ایک نئی دوا کے کلینیکل ٹرائل کے نتائج حوصلہ افزا ہیں۔ *[ARY](https://arynews.tv/diabetes-pill-cuts-blood-sugar-in-key-trial-in-children)*
+- (اس زمرے میں کوئی خبر نہیں)
 
 ## دیگر
 
-- بنگلہ دیش میں خسرے کی وباء کے باعث بچوں کی اموات کی تعداد 194 ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/1994372/bangladesh-measles-crisis-deepens-as-child-deaths-reach-194)*
-- مبینہ آڈیو لیک سے خالصتان کارکنوں کے لیے خطرات کے بارے میں نئی تشویشیں پیدا ہوگئی ہیں۔ *[ARY](https://arynews.tv/khalistan-activists-face-threat-in-alleged-audio-leak)*
-- پاکستان کراچی میں مچھلی اور آبی زراعت کے لیے ایک تحقیقی مرکز قائم کرنے کا ارادہ رکھتا ہے۔ *[ARY](https://arynews.tv/pakistan-unveils-fisheries-research-centre-initiative)*
-- یونیسکو کے مطابق، ہر 1 ڈگری سینٹی گریڈ کے عالمی درجہ حرارت سے بچنے سے عالمی ثقافتی ورثے کی سائٹس کی تعداد جو بڑے پیمانے پر خلل کا شکار ہوں گی، آدھی ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/1994350/every-1oc-of-global-warming-avoided-could-halve-number-of-world-heritage-sites-exposed-to-major-disruption-unesco)*
-- ایمبر ہیرڈ نے اپنی جڑواں بیٹیوں کے ساتھ اسپین میں اپنا جنم دن منایا۔ *[ARY](https://arynews.tv/amber-heard-celebrates-birthday-in-spain-with-twins-agnes-and-ocean)*
-- "Euphoria" کے تازہ ترین منظر نے تنازع پیدا کر دیا ہے، مداحوں نے اسے بے حس اور حقیقت سے دور قرار دیا ہے۔ *[ARY](https://arynews.tv/euphorias-latest-scene-has-sparked-controversy-with-fans-calling-it-tone-deaf-and-out-of-touch)*
-- سعودی ریال سے پاکستانی روپے کی شرح آج (23 اپریل 2026)۔ *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-april-23-2026)*
-- متحدہ عرب امارات کے درہم سے پاکستانی روپے کی شرح آج (23 اپریل 2026)۔ *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-april-23-2026)*
-- کراچی میں ایک خوفناک حادثے کی سی سی ٹی وی فوٹیج سامنے آئی۔ *[ARY](https://arynews.tv/karachi-cctv-footage-of-dawood-chowrangi-incident)*
-- بھارت میں فوڈ ڈیلیوری کمپنی Zomato نے قیمتوں سے متعلق ایک شرط کو واپس لے لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417946/indian-food-delivery-giant-zomato-drops-pricing-clause-after-pushback-source-says)*
-- بھارت میں تیل کی قیمتوں میں اضافے کے باعث 10 سالہ بانڈز میں گراوٹ آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417944/oil-pain-drags-india-10-year-bond-to-over-2-week-low)*
-- بھارت اور امریکہ کے درمیان تجارتی مذاکرات تعمیری رہے، بھارت کا کہنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417944/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
-- Netflix نے فوارڈ بروس بزنس کی ناکامی کے بعد 25 بلین ڈالر کے شیئر بائ بیک پلان کو بڑھا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417943/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
-- پاکستان نے ہندوستان کے پروپیگنڈے کو مسترد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40417932/pakistan-rejects-indias-propaganda-calls-for-responsible-conduct)*
-- بھارت میں سپلائی چین میں خلل کے باعث افراط زر کا خطرہ بڑھ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417945/indias-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
-- پرنس ہری نے کیف کا دورہ کیا اور پوٹن کو "یہ جنگ بند کرنے" کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40417930/prince-harry-on-visit-to-kyiv-tells-putin-to-stop-this-war)*
-- وزیراعظم شہباز شریف نے آنے والے مون سون کے لیے تیاری کو یقینی بنانے کے لیے حکام کو ہدایات جاری کیں۔ *[Business Recorder](https://www.brecorder.com/news/40417929/pm-shehbaz-directs-authorities-to-ensure-preparedness-for-upcoming-monsoon)*
-- بھارت کی انفوسس نے مالی سال 2027 کے لیے 1.5%-3.5% کی آمدنی میں نمو کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417942/indias-infosys-pegs-fiscal-year-2027-revenue-growth-at-15-35)*
-- ٹیسلا کے 25 بلین ڈالر کے اخراجات کے منصوبے سے سرمایہ کاروں کے اعتماد کی آزمائش ہو رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417941/teslas-25-billion-spending-plan-tests-investor-faith-in-unproven-ai-bets)*
-- پاکستان ایک ون ونڈو ائیرپورٹ کلیئرنس سسٹم قائم کرنے کا منصوبہ بنا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/pakistan-plans-one-window-airport-clearance-with-e-gates-fia-linked-security-system/)*
-- اسٹیٹ بینک نے کہا ہے کہ کوسٹ ایکولائزیشن ایڈجسٹمنٹ کیس کا مالیاتی اثر نہیں ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/sbp-held-foreign-exchange-reserves-rise-18mn-to-1510bn)*
-- خلیج میں بڑھتے ہوئے تناؤ نے آئی ٹی کے کاروباری بہاؤ کو تبدیل کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities/)*
-- اسٹیٹ بینک کے زیرِاحتیاط غیر ملکی زرمبادلہ کے ذخائر میں 18 ملین ڈالر کا اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40417936/sbp-held-foreign-exchange-reserves-rise-18mn-to-1510bn)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417931/indias-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
-- بھارت میں تجارتی مذاکرات تعمیری رہے۔ *[Business Recorder](https://www.brecorder.com/news/40417934/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
-- بھارت کی انفوسس نے مالی سال 2027 کے لیے 1.5%-3.5% کی آمدنی میں نمو کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417933/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
-- بھارت میں تیل کی قیمتوں میں اضافے کے باعث 10 سالہ بانڈز میں گراوٹ آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417935/oil-pain-drags-india-10-year-bond-to-over-2-week-low)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417938/indias-central-bank-net-bought-741-billion-in-february-bulletin-shows)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417939/copper-slips-from-multi-week-high-on-middle-east-uncertainty)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417947/asia-rice-weaker-indian-rupee-helps-india-rates-keep-steady-thai-rates-drop-on-muted-demand)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417928/copper-slips-from-multi-week-high-on-middle-east-uncertainty)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417927/most-gulf-markets-retreat-on-stalled-us-iran-peace-efforts)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417926/india-says-trade-talks-with-us-remain-constructive-after-washington-visit)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417925/netflix-boosts-share-buyback-plan-by-25-billion-after-failed-warner-bros-bid)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417924/prince-harry-on-visit-to-kyiv-tells-putin-to-stop-this-war)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417923/israeli-strikes-kill-four-in-gaza-medics-say)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417922/india-inflation-risks-rise-on-supply-side-disruptions-central-bank-says)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417921/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417920/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417919/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417918/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417917/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417916/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417915/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417914/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417913/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417912/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417911/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417910/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417909/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417908/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417907/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417906/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417905/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417904/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417903/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417902/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417901/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417900/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417899/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417898/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417897/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417896/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417895/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417894/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417893/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417892/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417891/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417890/pakistan-lng-seeks-three-cargoes-for-april-may-delivery-amid-supply-shortfall)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417889/business-confidence-declines-in-pakistan-as-costs-rise-outlook-weakens-survey)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417888/gulf-tensions-shift-it-business-flows-pakistan-firms-see-slowdown-and-new-opportunities)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417887/punjab-abolishes-30000-education-posts-thousands-more-across-departments-ahead-of-budget)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417886/nepra-ends-free-solar-setup-imposes-rs1000-kw-fee-for-all-consumers-in-major-policy-shift)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے باعث تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417885/sngpl-clarifies-cost-equalisation-adjustment-case-has-no-financial-impact-after-lhc-ruling)*
-- بھارت کی جانب سے ایران کے خلاف عائد کردہ پابندیوں کے
+- برنارڈ لویسو، جو ریٹاٹولی سے منسلک تھے، ان کی سوانح حیات پر فلم بن رہی ہے۔ *[ARY](https://arynews.tv/ratatouille-linked-chef-bernard-loiseau-getting-biopic)*
+- امریکہ میں جن ریاستوں میں مارجوآنا قانونی ہے ان کی فہرست جاری کی گئی۔ *[ARY](https://arynews.tv/marijuana-policy-changes-in-the-united-states)*
+-نیٹ فلکس کے شو "رننگ پوائنٹ" کے سیزن 2 کا اختتام ایک دلچسپ کہانی کی بنیاد رکھتا ہے۔ *[ARY](https://arynews.tv/the-season-2-finale-of-netflixs-running-point-sets-up-a-juicy-new-story)*
+- کینیڈین ڈالر کی شرح تبادلہ (CAD to USD) 23 اپریل 2026 تک۔ *[ARY](https://arynews.tv/cad-to-usd-canadian-dollar-rate-today-april-23-2026)*
+- پاکستان نے بھارت کے دعووں کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/1994381/pakistan-rejects-indian-propaganda-on-pahalgam-attack-deplores-weaponisation-of-false-narrative)*
+- پاکستان نے یروشلم اور اس کے مقدس مقامات کی تاریخی حیثیت کو تبدیل کرنے کی کسی بھی کوشش کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/1994444/pakistan-7-other-muslim-nations-reject-attempts-to-alter-historic-legal-status-quo-in-jerusalem-at-its-holy-sites)*
+- ایف آئی اے نے منی لانڈرنگ کی تحقیقات کو تیز کرنے کے لیے نئے قواعد جاری کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1994423/fia-set-to-fast-track-money-laundering-probes)*
+- پاکستان نے سعودی عرب سے فنڈز کی وصولی کے بعد فارن ایکسچینج ریزرو میں 104 ملین ڈالر کا اضافہ ریکارڈ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40418033/forex-reserves-up-usd104m-on-saudi-funds)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 اہداف میں سے 14 حاصل کیے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- اے ڈی بی نے پاکستان کے لیے اپنی وابستگیوں کو 3.67 بلین ڈالر تک بڑھا دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/23/adb-lifts-pakistan-commitments-to-3-67bn-in-2025-as-focus-shifts-to-minerals-smes-and-women-led-growth/)*
+- بجلی کی قلت 11,000 میگاواٹ سے تجاوز کر گئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/power-shortfall-exceeds-11000mw-as-rlng-supply-halts-key-plants-underperform/)*
+- گودار میں بجلی کی قلت سے نمٹنے کے لیے 40 میگاواٹ کا مقامی پاور پلانٹ قائم کیا جائے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/gwadar-to-get-40mw-local-power-plant-as-outages-from-iran-imports-raise-risks/)*
+- ڈیوان فاروق اسپننگ ملز لمیٹڈ کے بارے میں معلومات۔ *[Business Recorder](https://www.brecorder.com/news/40418018/dewan-farooque-spinning-mills-limited)*
+- پاک سوزوکی موٹر کمپنی لمیٹڈ نے تھائی لینڈ کو سوزوکی کلٹس کے پارٹس کی برآمدات شروع کر دیں۔ *[Business Recorder](https://www.brecorder.com/news/40418031/psmc-begins-exporting-suzuki-cultus-parts-to-thailand)*
+- پاکستان کے بندرگاہوں نے جمعرات کو 179,335 میٹرک ٹن مال کی نقل و حمل کی۔ *[Business Recorder](https://www.brecorder.com/news/40418032/ports-handle-179335-mt-of-cargoes-in-busy-thursday-operations)*
+- سید حسن حبیب کی کتاب "نارتھ کوریا: نیور اینڈنگ ٹریجڈی" لانچ ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40417996/syed-hasan-habibs-book-titled-north-korea-never-ending-tragedy-launched)*
+- خواتین کی خود کفالت کے لیے این ٹی یو فیصل آباد نے ایک خاص نمائش کا اہتمام کیا۔ *[Business Recorder](https://www.brecorder.com/news/40417997/womens-self-sufficiency-ntu-faisalabad-organises-special-exhibition)*
+- ڈیجیٹل ادائیگیوں میں اضافہ ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40417999/digital-payments-gaining-momentum)*
+- وزیراعظم کے یوتھ پروگرام کے تحت گورنر نے طلبا میں لیپ ٹاپ تقسیم کیے۔ *[Business Recorder](https://www.brecorder.com/news/40418000/pms-youth-programme-governor-distributes-laptops-among-students)*
+- اسٹیٹ بینک نے آئی ایم پی جی اور اسٹینڈ بائی ایل سی جاری کرنے کی اجازت دی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/sbp-allows-banks-to-issue-import-guarantees-standby-lcs-to-speed-up-oil-lng-imports/)*
+- اسٹیٹ بینک 27 اپریل کو مانیٹری پالیسی کمیٹی کا اجلاس کرے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/sbp-set-for-april-27-policy-meeting-as-markets-tilt-toward-rate-hike/)*
+- تیل کی قیمتوں میں اضافہ، مشرق وسطیٰ میں فوجی کشیدگی کے خدشات کے باعث۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/oil-rises-on-concerns-over-escalating-military-tensions-in-the-middle-east)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-meets-14-of-17-imf-targets-ahead-of-next-tranche-misses-tax-goal/)*
+- پاکستان نے آئی ایم ایف کے ساتھ 17 میں سے 14 اہداف حاصل کیے۔ *[Profit.PakToday](https://profit
 
