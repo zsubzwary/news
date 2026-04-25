@@ -4,63 +4,76 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 25-Apr-2026 09:02PKT
+Published at: 25-Apr-2026 21:02PKT
 
-Time to read: 4 mins
+Time to read: 5 mins
 
 ### Economy
-- Bank Alfalah posted a profit after tax of Rs11.13 billion for the quarter ended March 31, 2026, with earnings per share at Rs3.53. *[Business Recorder](https://www.brecorder.com/news/40418195/quarter-ended-mar-31st-bank-alfalah-posts-rs1113bn-pat)*
-- Pakistan has agreed with the IMF to close 70 government bank accounts and transfer Rs300 billion to the national treasury as part of fiscal reforms. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/pakistan-to-close-70-govt-bank-accounts-shift-rs300-billion-to-treasury-under-imf-deal)*
-- Pakistan secured three bids for spot LNG cargoes at $17.997 to $18.88 per mmBtu for delivery between April 27 and May 8, after a 28-month gap. *[Dawn](https://www.dawn.com/news/1994734/pakistan-secures-3-bids-for-spot-lng-cargoes)* & *[Business Recorder](https://www.brecorder.com/news/40418188/cargoes-from-global-suppliers-pll-receives-4-bids-for-spot-lng-purchase)*
-- The Petroleum Division will float spot tenders for LNG to restore operations of RLNG-fired power plants. *[Business Recorder](https://www.brecorder.com/news/40418189/petroleum-div-decides-to-float-spot-tenders-for-lng)*
-- Pakistan’s GDP growth may dip to 2.5-3% in the current fiscal year due to Middle East tensions and rising energy prices. *[Business Recorder](https://www.brecorder.com/news/40418190/gdp-growth-may-dip-to-25-3pc-pasha)*
-- Fuel prices were hiked by up to Rs27/litre, driven by a levy increase rather than international oil prices. *[Dawn](https://www.dawn.com/news/1994919/surprise-fuel-hike-adds-to-burden-on-consumers)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/24/pakistan-raises-petrol-diesel-prices-by-up-to-rs27-litre-as-levy-hike-drives-fuel-cost-surge)*
-- Pakistan completed the repayment of a USD 3.45 billion deposit from the UAE. *[Business Recorder](https://www.brecorder.com/news/40418182/pakistan-completes-usd345bn-uae-deposit-repayment)*
-- The textile industry has urged the SBP to enhance export refinance facilities. *[Business Recorder](https://www.brecorder.com/news/40418187/working-capital-textile-industry-seeks-enhanced-refinance-facilities)*
+- Pakistan approved an expensive $18.4 per mmBtu LNG deal due to the closure of the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1994972/strait-of-hormuz-closure-pushes-pakistan-into-expensive-184-per-mmbtu-lng-deal)*
+- The IMF’s executive board is expected to approve over $1.2 billion disbursement in early May. *[Dawn](https://www.dawn.com/news/1994919/surprise-fuel-hike-adds-to-burden-on-consumers)*
+- Gold prices in Pakistan increased by Rs2,300 per tola. *[Business Recorder](https://www.brecorder.com/news/40418211/gold-per-tola-gains-rs2300-in-pakistan)*
+- India’s Axis Bank missed profit forecasts but approved a $2 billion equity fundraise. *[Business Recorder](https://www.brecorder.com/news/40418225/indias-axis-bank-misses-profit-forecast-on-lower-trading-income-approves-2bn-equity-fundraise)*
+- The IFC plans to increase annual investments in India to $10 billion by 2030. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/world-banks-ifc-targets-10-bln-in-annual-investments-in-india-by-2030)*
 
-### Politics
-- An Iranian delegation led by Foreign Minister Abbas Araghchi arrived in Islamabad, while US envoys Steve Witkoff and Jared Kushner are also heading to Pakistan for talks with Iran (though Iran stated it won't meet with the US). *[Dawn](https://www.dawn.com/news/1994680/iranian-delegation-led-by-fm-araghchi-lands-in-islamabad-us-officials-to-also-arrive-in-pakistan)*
-- Deputy Prime Minister and Foreign Minister Ishaq Dar held a telephone conversation with Russian Foreign Minister Sergey Lavrov. *[Business Recorder](https://www.brecorder.com/news/40418179/dar-lavrov-discuss-ties)*
-- Punjab government expressed displeasure at officers applying directly to the Centre for Haj duties, bypassing provincial authorities. *[Dawn](https://www.dawn.com/news/1994912/punjab-snubs-officers-applying-directly-to-centre-for-haj-duties)*
-
-### International
-- The US has reportedly exhausted billions of dollars worth of weapons stockpile in the war on Iran, including Patriot missiles and stealth cruise missiles. *[Dawn](https://www.dawn.com/news/1994691/us-has-exhausted-billions-of-dollars-worth-of-weapons-stockpile-in-war-on-iran-nyt-report)*
-- The Pentagon claims a full blockade of the Strait of Hormuz, impacting global fuel supplies, though this is disputed by shipping companies. *[Dawn](https://www.dawn.com/news/1994920/pentagon-claims-full-hormuz-blockade-as-world-feels-fuel-crunch)*
-- Hezbollah considers the US-mediated ceasefire “meaningless” as fighting continues. *[Dawn](https://www.dawn.com/news/1994890/hezbollah-says-ceasefire-meaningless-as-fighting-continues)*
-- Oman-UAE rail link is 40% complete. *[ARY](https://arynews.tv/oman-uae-rail-link-40-percent-complete)*
-- The EU and US signed a critical minerals plan to counter China’s reliance. *[Business Recorder](https://www.brecorder.com/news/40418192/eu-us-sign-critical-minerals-plan-to-counter-china-reliance)*
-- Donald Trump seeks to reinstate firing squads for federal executions. *[Dawn](https://www.dawn.com/news/1994896/trump-seeks-to-bring-back-firing-squads-for-executions)*
-
-### National
-- The first batch of Gul Plaza traders received Rs511.7 million in compensation for the January 17 blaze. *[Dawn](https://www.dawn.com/news/1994786/first-batch-of-gul-plaza-traders-receives-compensation)*
-- Pakistan is among the top 10 countries facing an acute food crisis, with over 9 million people in ‘crisis’ conditions. *[Dawn](https://www.dawn.com/news/1994916/pakistan-among-top-10-countries-facing-acute-food-crisis)*
-- Islamabad and Rawalpindi are on high alert due to the arrival of foreign delegates, with restrictions on vehicle movement. *[Dawn](https://www.dawn.com/news/1994915/only-essential-goods-exempt-as-twin-cities-on-high-alert)*
-- A citizen was taken into custody for likening the Tarnol Railway Crossing to the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1994695/citizen-taken-into-custody-for-likening-tarnol-railway-crossing-to-strait-of-hormuz)*
-- Maritime Affairs Minister seeks details on the reported hijacking of an oil tanker with Pakistani crew near the Somali coast. *[Dawn](https://www.dawn.com/news/1994748/minister-seeks-details-on-reports-of-hijacking-of-tanker-with-pakistani-crew-near-somali-coast)*
-
-### Health
-- Pakistan is benefiting from the global “Big Catch-Up” vaccination drive, with around 18.3 million children vaccinated. *[Dawn](https://www.dawn.com/news/1994911/pakistan-gains-from-global-big-catch-up-vaccination-drive)*
-- Israeli Prime Minister Benjamin Netanyahu announced successful treatment for early-stage prostate cancer. *[Dawn](https://www.dawn.com/news/1994721/netanyahu-says-he-was-successfully-treated-for-prostate-cancer)*
+### Science & Technology
+- Pakistan successfully launched its indigenous electro-optical satellite (EO-3) from China’s Taiyuan Satellite Launch Centre. *[Dawn](https://www.dawn.com/news/1995020/pakistan-successfully-launches-indigenous-satellite-from-china)*
+- Telecos are set to begin 5G trials in Gilgit-Baltistan soon. *[Dawn](https://www.dawn.com/news/1995003/telecos-to-begin-5g-trials-in-gilgit-baltistan-soon)*
+- The US State Department issued a global warning about alleged AI theft by Chinese firms like DeepSeek. *[Dawn](https://www.dawn.com/news/1995029/us-state-department-orders-global-warning-about-alleged-ai-theft-by-deepseek-other-chinese-firms)*
+- Pakistan Space and Upper Atmosphere Research Commission (SUPARCO) launched EO-3 with experimental payloads for next-gen space tech. *[Business Recorder](https://www.brecorder.com/news/40418226/pakistan-launches-indigenous-eo-3-satellite-from-china)*
 
 ### Weather
-- The weather report for Karachi and Hyderabad on April 24-25, 2026. *[Business Recorder](https://www.brecorder.com/news/40418131/the-weather)*
+- (No relevant news in provided articles)
+
+### Politics
+- President Asif Ali Zardari departed for a visit to China focused on economic cooperation and CPEC. *[Dawn](https://www.dawn.com/news/1994951/president-zardari-departs-for-china-for-visit-focused-on-economic-cooperation-cpec)*
+- US Democrats are attempting to limit President Trump’s war powers regarding Cuba. *[Dawn](https://www.dawn.com/news/1994946/us-democrats-look-to-rein-in-trumps-war-powers-this-time-on-cuba)*
+- Pakistan is facilitating dialogue between Iran and the US to promote regional peace. *[Business Recorder](https://www.brecorder.com/news/40418215/pakistan-to-continue-facilitating-iran-us-talks-for-achieving-regional-peace-says-dar)*
+
+### National
+- Journalist Fakharur Rehman was sent to jail on judicial remand under the Prevention of Electronic Crimes Act (Peca). *[Dawn](https://www.dawn.com/news/1995015/journalist-fakharur-rehman-sent-to-jail-on-judicial-remand-following-arrest-in-peca-case)*
+- Four family members were gunned down in the suburbs of Islamabad. *[Dawn](https://www.dawn.com/news/1994995/four-family-members-gunned-down-in-islamabad-suburbs-police-say)*
+- A policeman was martyred during a foiled terrorist attack in Balochistan’s Kachhi district. *[Business Recorder](https://www.brecorder.com/news/40418214/policeman-martyred-as-leas-foil-terrorist-attack-in-balochistans-kachhi-district)*
+- Five people, including police officers, were injured in attacks in Bajaur, Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/1994953/5-cops-among-8-injured-in-attacks-on-police-vehicle-ambulance-in-kps-bajaur)*
+
+### International
+- An Iranian delegation, led by Foreign Minister Abbas Araghchi, met with Prime Minister Shehbaz Sharif and CDF Munir in Islamabad. *[Dawn](https://www.dawn.com/news/1994958/iranian-delegation-led-by-fm-araghchi-leaves-after-meeting-with-pm-shehbaz-cdf-munir)*
+- Afghans in Qatar have been assured they can return home “with full confidence” by the Taliban government. *[Dawn](https://www.dawn.com/news/1995010/afghans-in-qatar-can-return-with-full-confidence-says-taliban-govt)*
+- India will bid to host the 2038 Asian Games in Ahmedabad. *[Dawn](https://www.dawn.com/news/1995012/india-to-bid-for-2038-asian-games-in-ahmedabad)*
+- Three people were killed in clashes in India’s Manipur state. *[Dawn](https://www.dawn.com/news/1994980/3-killed-in-latest-clashes-in-indias-troubled-manipur-state)*
+- Palestinians began voting in municipal elections, the first since Israel’s invasion of Gaza. *[Dawn](https://www.dawn.com/news/1994964/palestinians-vote-in-first-elections-since-israels-invasion-of-gaza)*
+- Iran has warned it will respond if the US blockade and “banditry” continues. *[ARY](https://arynews.tv/iran-military-says-will-respond-if-us-blockade-banditry-continues)*
+- China plans to restrict US investment in its tech companies. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports)*
+- The US and EU are partnering on critical minerals to reduce China’s dominance. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/us-eu-partner-on-critical-minerals-to-reduce-chinas-grip-on-key-materials-for-advanced-manufacturing)*
 
 ### Sports
-- No relevant news in provided articles.
+- Elon Musk is facing a courtroom showdown with OpenAI. *[Dawn](https://www.dawn.com/news/1994993/billionaire-elon-musk-enters-courtroom-showdown-with-openai)*
+- David Warner praised his team’s execution after a win in the PSL. *[ARY](https://arynews.tv/warner-lauds-execution-after-emphatic-win-over-gladiators)*
+- Warner and Hendricks helped keep their team alive in PSL 11. *[ARY](https://arynews.tv/warner-hendricks-keep-kings-alive-in-psl-11)*
+- Marquez won a chaotic rain-affected Spanish MotoGP sprint. *[ARY](https://arynews.tv/marquez-wins-chaotic-rain-affected-spanish-motogp-sprint)*
+- Iga Swiatek retired from the Madrid Open due to illness. *[ARY](https://arynews.tv/ailing-swiatek-retires-in-madrid-open-third-round)*
+- Fulham kept their European dream alive while Aston Villa slipped up. *[ARY](https://arynews.tv/villa-slip-up-as-fulham-keep-european-dream-alive)*
+- PM Shehbaz approved spectators for the PSL 11 final. *[Dawn](https://www.dawn.com/news/1994948/pm-shehbaz-graciously-approves-spectators-for-psl-11-final-on-franchise-owners-request-naqvi)*
+
+### Health
+- (No relevant news in provided articles)
 
 ### Other
-- WWF-Pakistan highlights potential irreversible risks from development work at the Margalla foothills. *[Dawn](https://www.dawn.com/news/1994732/wwf-pakistan-highlights-potentially-irreversible-risks-of-development-work-at-margalla-foothills)*
-- An 11-year-old boy is feared drowned after being swept away while swimming in Karachi. *[Dawn](https://www.dawn.com/news/1994737/11-year-old-boy-feared-drowned-after-being-swept-away-while-swimming-in-open-water-line-in-karachi)*
-- Karachi’s University Road continues to be in a dilapidated state. *[Dawn](https://www.dawn.com/news/1994889/karachis-collective-trauma)*
-- Lessons in mediation: Pakistan’s role in US-Iran diplomacy has evolved. *[Dawn](https://www.dawn.com/news/1994921/lessons-in-mediation)*
-- Stranded seafarers face peril in the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1994884/stranded-seafarers-face-peril-in-hormuz)*
-- A Cipher discovery sparks claim Zodiac Killer may be behind two historic murders. *[ARY](https://arynews.tv/zodiac-killer-linked-to-black-dahlia-case-revealed)*
-- PTA issues a guide against phishing scams. *[ARY](https://arynews.tv/a-guide-to-phishing-protecting-your-private-information)*
-- Romania tests AI-powered drone interceptors. *[ARY](https://arynews.tv/drone-technology-and-modern-warfare-in-europe)*
-- Toronto to make World Cup fan festival mostly free. *[ARY](https://arynews.tv/toronto-to-make-world-cup-fan-festival-mostly-free-after-10-entry-backlash)*
-- Rs2000 fine announced for motorcycles without indicators. *[ARY](https://arynews.tv/rs2000-fine-announced-for-motorcycles-without-indicators-in-punjab)*
-- Peugeot to make vehicles using Dongfeng technology. *[ARY](https://arynews.tv/peugeot-to-make-vehicles-using-dongfeng-technology)*
-- Europe new entry/exit system. *[ARY](https://arynews.tv/europe-new-entry-exit-system-a-short-guide)*
-- India gold premiums hit over 10-week high. *[ARY](https://arynews.tv/gold-prices-surge-with-rising-demand-in-india)*
-- Pete Hegseth says US blockade on Iran ‘going global’. *[ARY](https://arynews.tv/pete-hegseth-says-us-blockade-on-iran-going-global)*
+- A US diplomat ordered a global push to address alleged AI theft by Chinese firms. *[Dawn](https://www.dawn.com/news/1995029/us-state-department-orders-global-warning-about-alleged-ai-theft-by-deepseek-other-chinese-firms)*
+- The US seeks to revoke the citizenship of a Pakistani-born doctor convicted in a child exploitation case. *[Dawn](https://www.dawn.com/news/1994961/us-seeks-to-revoke-citizenship-of-pakistani-born-doctor-convicted-in-child-exploitation-case)*
+- Experts warned of terror groups exploiting AI and crypto at a UN panel organized by Pakistan. *[Dawn](https://www.dawn.com/news/1994940/at-un-panel-organised-by-pakistan-experts-warn-of-terror-groups-exploiting-ai-crypto)*
+- A report questions if Karachi is being neglected and disposed of by design. *[Dawn](https://www.dawn.com/news/1973699/is-karachi-disposable-by-design)*
+- A new lithium battery plant is planned in Karachi. *[Business Recorder](https://www.brecorder.com/news/40418204/crown-to-set-up-lithium-battery-plant-in-karachi)*
+- Entertainment news regarding Bryan Adams and Kate Jackson. *[ARY](https://arynews.tv/the-untold-story-behind-bryan-adams-iconic-summer-of-69)* & *[ARY](https://arynews.tv/kate-jackson-returns-to-acting-after-20-year-hiatus)*
+- 3,000 Iran-bound containers are stranded at Karachi port due to tensions in the Strait of Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/3000-iran-bound-containers-stranded-at-karachi-port-as-hormuz-tensions-disrupt-shipping/)*
+- Islamabad remains under security lockdown amid stalled US-Iran talks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/businesses-residents-suffer-as-islamabad-maintains-security-lockdown-amid-stalled-us-iran-talks/)*
+- Ogra allows Cnergyico to export 40,000 tonnes of furnace oil. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/ogra-allows-cnergyico-to-export-40000-tonnes-furnace-oil-in-april-as-surplus-builds/)*
+- Nepra clarified that no approval is needed for off-grid solar systems. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/nepra-clarifies-no-approval-needed-for-off-grid-solar/)*
+- The US is discussing dollar swap lines with Gulf and Asian partners. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/us-discussing-dollar-swap-lines-with-gulf-and-asian-partners-treasurys-bessent-says)*
+- Pakistan buys LNG cargo from expensive spot market after two years. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/pakistan-buys-lng-cargo-from-expensive-spot-market-after-two-years-amid-energy-crunch-bloomberg)*
+- FPCCI announces new national committees to expand global engagements. *[Business Recorder](https://www.brecorder.com/news/40418212/fpcci-announces-new-national-committees-to-expand-global-engagements)*
+- Macron reaffirms efforts to reopen the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40418221/macron-reaffirms-efforts-to-reopen-strait-of-hormuz-as-totalenergies-warns-of-energy-shortages)*
+- Pakistan and Turkiye FMs held talks on ongoing diplomatic efforts. *[Business Recorder](https://www.brecorder.com/news/40418224/pakistan-turkiye-fms-hold-talks-on-ongoing-diplomatic-efforts)*
+- A surprise fuel hike adds to the burden on consumers. *[Dawn](https://www.dawn.com/news/1994919/surprise-fuel-hike-adds-to-burden-on-consumers)*
+- Bhoot Bangla OTT release date. *[ARY](https://arynews.tv/bhoot-bangla-ott-release-when-and-where-to-watch-akshay-kumar-film)*
+- Falklands sovereignty rests with the UK. *[ARY](https://arynews.tv/falklands-uk-sovereignty-stands-firm-and-strong)*
 
