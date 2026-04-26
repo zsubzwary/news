@@ -7,97 +7,133 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 26-Apr-2026 09:06PKT 
+ &lrm; 26-Apr-2026 21:08PKT 
 
-پڑھنے کا وقت : 7 منٹ 
+پڑھنے کا وقت : 12 منٹ 
 
 ## معیشت
 
-*   پاکستان میں ایل این جی کی قیمت میں اضافہ، 18.4 ڈالر فی ایم ایم بی ٹی یو پر پہنچ گئی، *[Dawn](https://www.dawn.com/news/1995116/hormuz-stays-flashpoint-amid-reopening-move)*
-*   ایران اور امریکہ کے درمیان بڑھتی ہوئی کشیدگی کے باعث مالیاتی منڈی میں بے یقینی، شرح سود میں اضافے کا امکان، *[Dawn](https://www.dawn.com/news/1995088/iran-war-jitters-to-influence-policy-rate-decision)*
-*   یوروپی یونین نے پاکستان کے لیے 160 ملین یورو کے قرض کا اعلان کیا، *[Business Recorder](https://www.brecorder.com/news/40418290/eu-announces-eur160m-loan-package-for-pakistan)*
-*   پیٹرولیم مصنوعات کی قیمتوں میں اضافہ سے پیداواری لاگت میں نمایاں اضافہ ہوگا، تاجروں کا کہنا ہے، *[Business Recorder](https://www.brecorder.com/news/40418284/pol-price-hike-to-push-up-cost-of-production-manifold-traders)*
-*   ہرمز کی تنگ گذرگاہ بند ہونے سے پاکستان کو مہنگی ایل این جی سودے پر مجبور ہونا پڑا، *[Dawn](https://www.dawn.com/news/1994972/strait-of-hormuz-closure-pushes-pakistan-into-expensive-184-per-mmbtu-lng-deal)*
+*   ایم ایف (IMF) کی ایگزیکٹو بورڈ کی میٹنگ 8 مئی کو ہوگی، جس میں پاکستان کو 1.2 بلین ڈالر سے زیادہ کی رقم کی منظوری دی جائے گی *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-approve-disbursement-of-over-12bn-to-pakistan)*۔
+*   پاکستان نے کامیاب تیسری ریویو کے بعد تقریباً 1 بلین ڈالر اور دوسری ریویو کے تحت 210 ملین ڈالر کی رقم حاصل کرنے کی اہلیت حاصل کر لی ہے *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-approve-disbursement-of-over-12bn-to-pakistan)*۔
+*   ایران کے ساتھ جنگ کے خدشات کے باعث مالیاتی منڈی کو یقین ہے کہ اگلے بجٹ میں شرح سود میں اضافہ ہوگا۔ *[Dawn](https://www.dawn.com/news/1995088/iran-war-jitters-to-influence-policy-rate-decision)*
+*   ایندھن کی قیمتوں میں حالیہ اضافہ نے کاروباری شعبے میں تشویش پیدا کر دی ہے، جو مہنگائی اور برآمدات پر منفی اثرات کا خدشہ ظاہر کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1995067/another-pol-price-hike-triggers-widespread-anxiety)*
+*   کراچی پورٹ ٹرسٹ (KPT) ٹرمینلز پر برآمد کنندگان کے بوجھ کو کم کرنے کے لیے اسٹوریج ریلیف کا اعلان کیا گیا ہے۔ *[ARY News](https://arynews.tv/maritime-minister-announces-storage-relief-at-kpt-terminals-to-ease-exporters-burden)*
+*   نئے آٹو اسمبلرز لوکلائزیشن کی تفصیلات سے گریز کر رہے ہیں، جبکہ وینڈرز نے مقامی حصوں کے کم استعمال پر تنقید کی ہے۔ *[Dawn](https://www.dawn.com/news/1995087/new-auto-assemblers-dodge-localisation-details)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   پاکستان نے چین سے انڈجینوس الیکٹرو آپٹیکل سیٹیلائٹ کامیابی سے لانچ کیا، *[Dawn](https://www.dawn.com/news/1995020/pakistan-successfully-launches-indigenous-satellite-from-china)*
-*   ٹیلی کام کمپنیوں کو گلگت بلتستان میں 5G ٹرائلز شروع کرنے کی اجازت، *[Dawn](https://www.dawn.com/news/1995003/telecos-to-begin-5g-trials-in-gilgit-baltistan-soon)*
-*   ایلن مسک اور اوپن اے آئی کے درمیان قانونی جنگ شروع، *[Dawn](https://www.dawn.com/news/1994993/billionaire-elon-musk-enters-courtroom-showdown-with-openai)*
-*   امریکہ نے چینی کمپنیوں کی جانب سے اے آئی چوری کے بارے میں عالمی سطح پر خبردار کیا، *[Dawn](https://www.dawn.com/news/1995029/us-state-department-orders-global-warning-about-alleged-ai-theft-by-deepseek-other-chinese-firms)*
+*   پنجاب میں 50 ایکڑ پر فلم سٹی قائم کرنے کا منصوبہ، جو میگا آئی ٹی سٹی کے فریم ورک کے تحت بنایا جائے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/punjab-unveils-50-acre-film-city-in-lahore-under-mega-it-city-framework/)*
+*   ایف بی آر (FBR) نے POS نیٹ ورک کو وسعت دی ہے، اب تقریباً 36,000 خوردہ فروش اور ریستوران منسلک ہو چکے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/fbr-expands-pos-network-nearly-36000-retail-and-restaurant-outlets-now-linked/)*
+*   چین نے پاکستان کے PRSC-EO3 سیٹلائیٹ کو لانچ کیا، جو لانگ مارچ مشن کا 640 واں مشن تھا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/china-launches-pakistans-prsc-eo3-satellite-in-640th-long-march-mission/)*
 
 ## موسم
 
-*(اس زمرے کے لیے کوئی خبر نہیں)*
+*   پنجاب میں معمول سے زیادہ درجہ حرارت کی پیش گوئی کی گئی ہے، خاص طور پر وسطی اور جنوبی میدانی علاقوں میں *[Dawn](https://www.dawn.com/news/1995060/above-normal-temperature-forecast-in-punjab)*۔
 
 ## سیاست
 
-*   صدر زرداری چین کے دورے پر پہنچ گئے، اقتصادی تعاون اور سی پیک پر توجہ مرکوز، *[Dawn](https://www.dawn.com/news/1994951/president-zardari-arrives-in-china-for-visit-focused-on-economic-cooperation-cpec)*
-*   وزیراعظم نے ایرانی صدر کو پاکستان کی ثالثی کی کوششوں کے لیے پرعزم رہنے کی یقین دہانی کروائی، *[Dawn](https://www.dawn.com/news/1995044/in-call-with-iranian-president-pm-says-pakistan-committed-to-serving-as-honest-and-sincere-facilitator)*
-*   ایرانی وفد وزیراعظم اور چیف آف ڈیفنس فورسز سے ملاقات کے بعد اسلام آباد سے روانہ، *[Dawn](https://www.dawn.com/news/1994958/iranian-delegation-led-by-araghchi-leaves-after-meeting-pm-cdf-munir-trump-cancels-us-envoys-visit)*
-*   صدر ٹرمپ نے سفیروں کے دورے منسوخ کر دیے، کہا " ہمارے پاس سب کچھ ہے"، *[Business Recorder](https://www.brecorder.com/news/40418293/trump-cancels-trip-of-envoys-says-we-have-all-the-cards)*
-*   امریکہ اور یورپی یونین نے اہم معدنیات پر تعاون کے لیے معاہدہ کیا، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/us-eu-partner-on-critical-minerals-to-reduce-chinas-grip-on-key-materials-for-advanced-manufacturing/)*
+*   صدر زرداری نے چین کے دورے کے دوران صنعتی تعاون اور ٹیکنالوجی پارٹنرشپ پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1995241/president-zardari-underscores-industrial-cooperation-technology-partnership-during-visit-to-china)*
+*   ایرانی وزیر خارجہ، عباس عراغچی، امریکہ اور ایران کے درمیان بات چیت کو فروغ دینے کے لیے پاکستان واپس آئے ہیں۔ *[Dawn](https://www.dawn.com/news/1995258/iranian-fm-araghchi-back-in-pakistan-after-oman-visit-to-head-to-moscow-after-short-stay-diplomatic-source)*
+*   اسرائیل کے ممکنہ وزیراعظم نتن یاہو کے سب سے بڑے حریفوں نے اگلے الیکشن میں ان کی حکومت کو ختم کرنے کے لیے اتحاد کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418334/netanyahus-biggest-rivals-join-forces-for-israels-next-election)*
+*   چین نے کہا ہے کہ وہ مائانمار کی سلامتی اور خودمختاری کی حمایت کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40418330/president-zardari-calls-for-stronger-pak-china-industrial-cooperation)*
 
 ## قومی
 
-*   اسلام آباد انتظامیہ نے پبلک اور گڈز ٹرانسپورٹ کی اجازت دے دی، کاروباری اوقات کار میں ترمیم، *[Dawn](https://www.dawn.com/news/1995037/islamabad-administration-allows-public-goods-transport-revises-business-timings)*
-*   صحافی فخر الرحمٰن کو پییکا کیس میں جیل بھیج دیا گیا، *[Dawn](https://www.dawn.com/news/1995015/journalist-fakharur-rehman-sent-to-jail-on-judicial-remand-following-arrest-in-peca-case)*
-*   اسلام آباد کے مضافات میں فیملی کے چار افراد گول فائرنگ سے ہلاک، *[Dawn](https://www.dawn.com/news/1994995/four-family-members-gunned-down-in-islamabad-suburbs-police-say)*
-*   پاکستان ریلویز نے بلاگرز پر پابندی عائد کردی، *[ARY](https://arynews.tv/pakistan-railways-bans-media-coverage-and-vlogging-without-prior-approval)*
-*   کے پی کے باجوڑ میں پولیس گاڑی اور ایمبولینس پر حملوں میں 8 افراد زخمی، *[Dawn](https://www.dawn.com/news/1994953/5-cops-among-8-injured-in-attacks-on-police-vehicle-ambulance-in-kps-bajaur)*
+*   کراچی میں یونیورسٹی روڈ پر BRT ریڈ لائن منصوبے کی تعمیر دوبارہ شروع ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/1995248/frontier-works-organisation-resumes-construction-of-brt-red-line-project-on-karachis-university-road)*
+*   پنجاب کی حکومت نے ایک ملین لائیو سٹاک برآمد کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1995068/punjab-to-export-livestock)*
+*   کراچی میں واٹر لائن میں ڈوبنے والے لڑکے کی لاش تیسرے روز تلاش کر لی گئی۔ *[Dawn](https://www.dawn.com/news/1995231/rescuers-find-body-of-boy-swept-away-while-swimming-in-karachi-water-line)*
+*   پی ایس ایل (PSL) 11 کے فائنل کے ٹکٹ 27 اپریل سے فروخت کے لیے دستیاب ہوں گے۔ *[Dawn](https://www.dawn.com/news/1995215/tickets-for-hbl-psl-11-final-to-go-on-sale-from-april-27)*
+*   راولپنڈی میں کچری چوک پر مارکا-اے-حق یادگار زیر تعمیر ہے۔ *[Dawn](https://www.dawn.com/news/1995151/marka-i-haq-monument-under-construction-at-rawalpindis-kutchery-chowk)*
 
 ## بین الاقوامی
 
-*   صدر ٹرمپ وائٹ ہاؤس کے نامہ نگاروں کے عشائیے سے محفوظ رہے، حملہ آور حراست میں، *[Dawn](https://www.dawn.com/news/1995174/trump-safe-after-being-rushed-from-white-house-correspondents-dinner-shooter-in-custody)*
-*   ہرمز کی تنگ گذرگاہ کشیدگی کا مرکز بنی ہوئی ہے، *[Dawn](https://www.dawn.com/news/1995116/hormuz-stays-flashpoint-amid-reopening-move)*
-*   افغانستان سے قطر بھاگنے والے افغان شہریوں کو واپسی کے لیے "مکمل اعتماد" کی یقین دہانی، *[Dawn](https://www.dawn.com/news/1995010/afghans-in-qatar-can-return-with-full-confidence-says-taliban-govt)*
-*   بھارت 2038 کے ایشین گیمز کی میزبانی کے لیے بولی لگائے گا، *[Dawn](https://www.dawn.com/news/1995012/india-to-bid-for-2038-asian-games-in-ahmedabad)*
-*   صومالیہ کے ساحل سے تیل کا بحری جہاز ہائی جیک، *[Business Recorder](https://www.brecorder.com/news/40418300/oil-tanker-hijacked-off-somalia-maritime-agency)*
-*   بھارت کے زیرِانتظام کشمیر میں تازہ جھڑپوں میں 3 افراد ہلاک، *[Dawn](https://www.dawn.com/news/1994980/3-killed-in-latest-clashes-in-indias-troubled-manipur-state)*
+*   جاپان نے شمال میں جنگل کی آگ سے لڑنے کے لیے 1,400 فائر فائٹرز تعینات کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1995244/japan-deploys-1400-firefighters-to-battle-raging-wildfires-in-the-north)*
+*   سویٹزرلینڈ انٹرنیشنل نے کہا کہ ایک انجن کی خرابی کے بعد نئی دہلی میں زیورخ جانے والی پرواز کو منسوخ کرنا پڑا، جس میں 5 افراد زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1995234/swiss-international-says-5-injured-after-flight-aborts-takeoff-in-new-delhi)*
+*   مصر کے اقتصادی نقطہ نظر کو ایران جنگ کی وجہ سے تھوڑا سا کم کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418322/egypt-economic-outlook-trimmed-slightly-due-to-iran-war)*
+*   برطانیہ کا کہنا ہے کہ وہ بادشاہ چارلس کے دورے سے پہلے امریکہ کے ساتھ سیکیورٹی پر گہری تعاون کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418325/uk-says-cooperating-closely-with-us-on-security-ahead-of-king-charles-visit)*
 
 ## کھیل
 
-*   پی ایس ایل 11 کے فائنل میں تماشائیوں کی آمد کی اجازت، *[Business Recorder](https://www.brecorder.com/news/40418291/govt-to-allow-spectators-at-hbl-psl-11-final-on-may-3)*
-*   آہان پانڈے نے آریان خان کے ساتھ تعاون کا اشارہ دیا، *[ARY](https://arynews.tv/ahaan-panday-hints-at-collaboration-with-aryan-khan)*
+*   سنیراورشنشی نے آئی پی ایل (IPL) میں تیز ترین 1000 رنز بنائے، جبکہ ایک نوجوان کھلاڑی نے 36 گیندوں میں سنچری بنائی۔ *[Business Recorder](https://www.brecorder.com/news/40418323/sooryavanshi-fastest-to-reach-1000-runs-in-t20s-as-teenager-smashes-36-ball-ton-in-ipl)*
+*   آرسنل نے نیو کیسل کو 1-0 سے شکست دے کر پریمیئر لیگ میں سرفہرست مقام دوبارہ حاصل کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40418316/arsenal-reclaim-top-spot-as-tottenham-and-west-ham-both-win)*
+*   سواتیک بیماری کی وجہ سے میڈرڈ اوپن ٹینس سے دستبردار ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40418315/swiatek-retires-from-madrid-open-tennis-due-to-illness)*
 
 ## صحت
 
-*(اس زمرے کے لیے کوئی خبر نہیں)*
+*   اس سال کے پہلے چار مہینوں میں خسرے سے 71 بچوں کی جانیں جا چکی ہیں۔ *[Dawn](https://www.dawn.com/news/1995081/measles-claims-lives-of-71-children-across-country-in-four-months)*
 
 ## دیگر
 
-*   کراچی میں پانی کی لائن میں ڈوبنے والے لڑکے کی تلاش کا آپریشن دوسرے دن بھی جاری، *[Dawn](https://www.dawn.com/news/1995030/operation-to-recover-boy-swept-away-while-swimming-in-water-line-continues-for-2nd-day-in-karachi)*
-*   مونیکا لیونسکی نے بل کلنٹن کے ساتھ اپنے ماضی کے تعلقات پر تبصرہ کیا، *[ARY](https://arynews.tv/monica-lewinsky-quips-about-past-relationship-with-bill-clinton)*
-*   امریکی شہری ٹرمپ کو گیس کی قیمتوں میں اضافے کا مورد الزام ٹھہرا رہے ہیں، *[ARY](https://arynews.tv/trump-blamed-for-rising-gas-prices-in-america)*
-*   ٹرمپ کا کہنا ہے کہ "مجھے لگتا ہے" جب پوچھا گیا کہ کیا وہ گالا کے حملہ آور کا نشانہ تھے، *[Business Recorder](https://www.brecorder.com/news/40418305/trump-says-i-guess-when-asked-if-he-was-target-of-gala-attacker)*
-*   وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کی واقعہ کی تصاویر، *[ARY](https://arynews.tv/in-pictures-white-house-correspondents-dinner-firing-incident)*
-*   ٹرمپ کا کہنا ہے کہ فائرنگ کی واقعہ انہیں ایران جنگ جیتنے سے نہیں روکے گی۔ *[ARY](https://arynews.tv/donald-trump-says-incident-wont-deter-him-from-winning-iran-war)*
-*   ٹرمپ وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کے بعد محفوظ رہے، حملہ آور حراست میں، *[ARY](https://arynews.tv/donald-trump-safe-after-shooting-at-white-house-dinner)*
-*   کیا سفارت کاری ٹرمپ کے بدلتے پیغامات سے بچ سکتی ہے؟ *[Dawn](https://www.dawn.com/news/1995113/can-diplomacy-survive-trumps-shifting-messaging)*
-*   آئی ایم اے سیلیبریٹی میں کیا ہوا؟ *[ARY](https://arynews.tv/what-happened-on-im-a-celebrity)*
-*   پنجاب نے خواتین کے لیے مفت لائیو سٹاک کے کوٹے کو دوگنا کر دیا، *[ARY](https://arynews.tv/punjab-doubles-quoto-of-free-livestock-for-women)*
-*   پبلک اور گڈز ٹرانسپورٹ دارالحکومت میں بحال، *[ARY](https://arynews.tv/public-and-goods-transport-resumes-in-capital)*
-*   ایران تیل کی خریداری: امریکہ نے چینی "ٹی پوٹ" ریفائنری پر پابندیاں لگائیں، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/iranian-oil-purchases-us-imposes-sanctions-on-chinese-teapot-refinery/)*
-*   جائداد کی تبدیلی کیس: ٹائم بارڈ دعوے وراثت کے ذریعے بحال نہیں کیے جا سکتے: ایل ایچ سی، *[Business Recorder](https://www.brecorder.com/news/40418296/property-mutation-case-time-barred-claims-cannot-be-revived-by-successors-lhc)*
-*   سپر ٹیکس ادائیگی: کے ٹی بی اے نے تاجروں کے خلاف "غیر قانونی" سرچارج کارروائیوں پر تشویش کا اظہار کیا، *[Business Recorder](https://www.brecorder.com/news/40418297/super-tax-payments-ktba-says-concerned-at-illegal-surcharge-proceedings-against-taxpayers)*
-*   ایف بی آر نے 12,950 بڑے ریٹیلرز کو پی او ایس سسٹم کے ساتھ ضم کیا، *[Business Recorder](https://www.brecorder.com/news/40418298/fbr-integrates-12950-big-retailers-with-pos-system)*
-*   اے ٹی آئی آر ممبر عدالتی: ایل ایچ سی نے تقرری کے خلاف انٹرا کورٹ اپیل خارج کردی، *[Business Recorder](https://www.brecorder.com/news/40418299/atir-member-judicial-lhc-dismisses-intra-court-appeal-against-appointment)*
-*   نیپرا نے آف گرڈ سولر کے لیے منظوری کی ضرورت نہیں ہے، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/nepra-clarifies-no-approval-needed-for-off-grid-solar/)*
-*   ورلڈ بینک کا آئی ایف سی 2030 تک بھارت میں سالانہ 10 ارب ڈالر کی سرمایہ کاری کا ہدف رکھتا ہے، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/world-banks-ifc-targets-10-bln-in-annual-investments-in-india-by-2030/)*
-*   چین امریکی کمپنیوں میں سرمایہ کاری کو محدود کرنے والا ہے، بلومبرگ نیوز رپورٹ، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/china-to-curb-us-investment-in-tech-companies-bloomberg-news-reports/)*
-*   پاکستان نے توانائی کے بحران کے درمیان دو سال بعد مہنگی اسپاٹ مارکیٹ سے ایل این جی کا سامان خریدا، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/pakistan-buys-lng-cargo-from-expensive-spot-market-after-two-years-amid-energy-crunch-bloomberg/)*
-*   اسلام آباد میں امریکی-ایرانی مذاکرات کے تعطل کے درمیان کاروباری حضرات اور رہائشیوں کو مشکلات کا سامنا، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/businesses-residents-suffer-as-islamabad-maintains-security-lockdown-amid-stalled-us-iran-talks/)*
-*   پی ایس ایکس کی سمت مشرق وسطیٰ کے تنازعے کے تعمیری حل پر منحصر ہے: رپورٹ، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/psx-direction-hinges-on-constructive-resolution-of-middle-east-conflict-report/)*
-*   3000 ایران جانے والے کنٹینر ہرمز کے تنازع کے باعث کراچی پورٹ پر پھنس گئے، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/3000-iran-bound-containers-stranded-at-karachi-port-as-hormuz-tensions-disrupt-shipping/)*
-*   انڈس کلاؤڈ نے کلاؤڈ ایکسیلنس فراہم کرنے کے لیے پی ٹی سی ایل کے ساتھ اسٹریٹجک پارٹنرشپ معاہدہ کیا، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/indus-cloud-signs-strategic-partnership-agreement-with-ptcl-to-deliver-cloud-excellence/)*
-*   اوگرا نے سرپلس بلڈنگ کے بعد اپریل کے لیے سینرجیکو کو 40,000 ٹن فرنس آئل برآمد کرنے کی اجازت دی، *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/ogra-allows-cnergyico-to-export-40000-tonnes-furnace-oil-in-april-as-surplus-builds/)*
-*   ایران کے ساتھ پاکستان کا ثالثی کا کردار، *[Business Recorder](https://www.brecorder.com/news/40418285/structured-contacts-already-underway)*
-*   وزیراعظم نے ایرانی صدر کو ثالثی کے کردار کے لیے پرعزم رہنے کی یقین دہانی کروائی، *[Business Recorder](https://www.brecorder.com/news/40418286/pm-tells-pezeshkian-of-commitment-to-mediation-role)*
-*   ایران کا کہنا ہے کہ وہ "حتمی" مطالبات کو قبول نہیں کرے گا، *[Business Recorder](https://www.brecorder.com/news/40418287/iran-says-wont-accept-maximalist-demands)*
-*   پاکستان نے EO-3 سیٹیلائٹ کامیابی سے لانچ کیا، *[Business Recorder](https://www.brecorder.com/news/40418288/pakistan-launches-eo-3-satellite-successfully)*
-*   پی اے اے نے غیر قانونی برآمد کارگو سرچارج کو وزیراعظم کے دفتر کے مداخلت کے بعد الٹادیا، *[Business Recorder](https://www.brecorder.com/news/40418289/paa-overturns-illegal-export-cargo-surcharge-after-pmos-intervention)*
-*   پول کی قیمتوں میں اضافہ غیر متوقع اقدام، تاجروں کا کہنا ہے، *[Business Recorder](https://www.brecorder.com/news/40418284/pol-price-hike-to-push-up-cost-of-production-manifold-traders)*
-*   پول کی قیمتوں میں اضافہ برآمدی ریفائنری کی قیمتوں میں کمی کے باوجود، *[Business Recorder](https://www.brecorder.com/news/40418292/pol-rates-hiked-despite-ex-refinery-price-drop)*
-
-یہ خلاصہ فراہم کردہ تمام مضامین کی اہم معلومات کو شامل کرنے کی کوشش کرتا ہے۔
+*   وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کی واردات، صدر ٹرمپ کو نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/1995174/trump-administration-officials-likely-targets-of-shooting-at-white-house-correspondents-dinner-us-official)*
+*   ایران میں مبینہ طور پر دہشت گرد گروپ سے منسلک ایک شخص کو سزائے موت دے دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40418326/israeli-attacks-kill-at-least-four-palestinians-in-gaza-medics-say)*
+*   مشہور میوزک کنڈیکٹر مائیکل ٹل سن تھامس 81 سال کی عمر میں انتقال کر گئے۔ *[Business Recorder](https://www.brecorder.com/news/40418319/visionary-music-conductor-michael-tilson-thomas-dead-at-81)*
+*   ایران جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Dawn](https://www.dawn.com/news/1995238/pakistani-exports-to-major-european-markets-slow-down-amid-me-conflict-despite-gsp-status)*
+*   ایران کے وزیر خارجہ نے امریکہ کے ساتھ بات چیت منسوخ ہونے کے باوجود پاکستان واپسی کی۔ *[Business Recorder](https://www.brecorder.com/news/40418332/iran-minister-araghchi-returns-to-pakistan-despite-us-talks-cancellation)*
+*   فائرنگ کے دوران جے ڈی وینس کے الفاظ لب ریڈر نے ظاہر کیے۔ *[ARY News](https://arynews.tv/panicked-jd-vances-words-during-washington-shooting-revealed-by-lip-reader)*
+*   این ہیتھ وے 'مدر میری' میں پریشانی زدہ پاپ آئیکن کے طور پر تبدیل ہوگئیں۔ *[ARY News](https://arynews.tv/anne-hathaway-transforms-into-troubled-pop-icon-in-mother-mary)*
+*   وِکڈ اسٹار نے معذوری کی وجہ سے بورڈنگ سے انکار کرنے پر سدرن ایئرویز پر تنقید کی۔ *[ARY News](https://arynews.tv/wicked-star-slams-southern-airways-for-denying-boarding-due-to-disability)*
+*   زین ملک نے عالمی حجام کی شہرت پر ردعمل دیا۔ *[ARY News](https://arynews.tv/zayn-malik-responds-to-global-barber-shops-fame)*
+*   ممی 4 برینڈن فریزر اور راچیل ویز کے ساتھ واپسی کر رہی ہے۔ *[ARY News](https://arynews.tv/the-mummy-4-set-to-return-with-brendan-fraser-and-rachel-weisz)*
+*   پانی کے کنارے تالاب میں ڈوبنے والے لڑکے کی لاش مل گئی۔ *[ARY News](https://arynews.tv/rescuers-find-body-of-boy-swept-away-while-swimming-in-karachi-water-line)*
+*   پولیس افسران نے ایک مگرمچھ سے جنگ کی۔ *[ARY News](https://arynews.tv/viral-video-of-officer-wrestling-alligator)*
+*   کیٹ ہڈسن ایوارڈ سیزن کی تھکاوٹ کے بارے میں کھل کر بات کرتی ہیں۔ *[ARY News](https://arynews.tv/kate-hudson-opens-up-about-the-exhaustion-of-awards-season)*
+*   اسرائیل نے 'بفر زون' سے باہر سات لبنانی قصبوں کے لیے انخلاء کی وارننگ جاری کی۔ *[Business Recorder](https://www.brecorder.com/news/40418321/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone)*
+*   گھریلو تشدد کے مقدمے میں اداکارہ ایمبر ہرڈ کی والدہ کا انتقال ہوگیا۔ *[ARY News](https://arynews.tv/amber-herds-mother-passes-away-after-battle-with-cancer)*
+*   ایران نے مبینہ طور پر اسرائیل کے لیے جاسوسی کرنے کے الزام میں ایک شخص کو سزائے موت دی۔ *[Business Recorder](https://www.brecorder.com/news/40418320/iran-executes-man-linked-to-militant-group-tasnim-reports)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث گلف میں جہاز رانی میں خلل پڑنے سے کراچی پورٹ پر 3000 کنٹینر پھنس گئے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/3000-iran-bound-containers-stranded-at-karachi-port-as-hormuz-tensions-disrupt-shipping/)*
+*   روانڈا نے یونیورسٹی آف ایگریکلچر فیصل آباد کے ساتھ زرعی ٹیکنالوجی اور تحقیق کے روابط کی تلاش میں ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/rwanda-seeks-agricultural-technology-research-linkages-with-uaf/)*
+*   پنجاب حکومت نے شمسی توانائی کے چھوٹے صارفین کے لیے فیس اور لائسنسنگ ختم کرنے کی تجویز دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/power-division-moves-to-scrap-solar-fees/)*
+*   صدر زرداری نے صنعتی تعاون کو مضبوط کرنے پر زور دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/president-zardari-calls-for-stronger-pak-china-industrial-cooperation)*
+*   ای یو (EU) نے سیلاب کے متاثرین کے لیے فنڈنگ کے ساتھ پاکستان کے لیے 160 ملین یورو کا فنانسنگ معاہدہ کھول دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/eu-unlocks-e160m-pakistan-financing-deal-for-flood-housing-and-karachi-water-projects/)*
+*   وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کی تفصیلات سامنے آئیں۔ *[Business Recorder](https://www.brecorder.com/news/40418318/how-the-shooting-at-the-white-house-correspondents-dinner-unfolded)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایکسپورٹ کارگو سرچارج PAA کے مداخلت کے بعد معطل، ریفنڈ کا حکم۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/export-cargo-surcharge-reversed-after-paa-intervention-refunds-ordered/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
+*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست
 
