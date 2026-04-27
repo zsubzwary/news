@@ -7,133 +7,174 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 26-Apr-2026 21:08PKT 
+ &lrm; 27-Apr-2026 09:07PKT 
 
 پڑھنے کا وقت : 12 منٹ 
 
 ## معیشت
 
-*   ایم ایف (IMF) کی ایگزیکٹو بورڈ کی میٹنگ 8 مئی کو ہوگی، جس میں پاکستان کو 1.2 بلین ڈالر سے زیادہ کی رقم کی منظوری دی جائے گی *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-approve-disbursement-of-over-12bn-to-pakistan)*۔
-*   پاکستان نے کامیاب تیسری ریویو کے بعد تقریباً 1 بلین ڈالر اور دوسری ریویو کے تحت 210 ملین ڈالر کی رقم حاصل کرنے کی اہلیت حاصل کر لی ہے *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-approve-disbursement-of-over-12bn-to-pakistan)*۔
-*   ایران کے ساتھ جنگ کے خدشات کے باعث مالیاتی منڈی کو یقین ہے کہ اگلے بجٹ میں شرح سود میں اضافہ ہوگا۔ *[Dawn](https://www.dawn.com/news/1995088/iran-war-jitters-to-influence-policy-rate-decision)*
-*   ایندھن کی قیمتوں میں حالیہ اضافہ نے کاروباری شعبے میں تشویش پیدا کر دی ہے، جو مہنگائی اور برآمدات پر منفی اثرات کا خدشہ ظاہر کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1995067/another-pol-price-hike-triggers-widespread-anxiety)*
-*   کراچی پورٹ ٹرسٹ (KPT) ٹرمینلز پر برآمد کنندگان کے بوجھ کو کم کرنے کے لیے اسٹوریج ریلیف کا اعلان کیا گیا ہے۔ *[ARY News](https://arynews.tv/maritime-minister-announces-storage-relief-at-kpt-terminals-to-ease-exporters-burden)*
-*   نئے آٹو اسمبلرز لوکلائزیشن کی تفصیلات سے گریز کر رہے ہیں، جبکہ وینڈرز نے مقامی حصوں کے کم استعمال پر تنقید کی ہے۔ *[Dawn](https://www.dawn.com/news/1995087/new-auto-assemblers-dodge-localisation-details)*
+- امریکہ اور ایران کے درمیان مذاکرات تعطل کا شکار ہونے کے باعث ڈالر کی قدر میں استحکام دیکھا جا رہا ہے، جبکہ تاجروں کی نظر بینک آف جاپان کے فیصلے پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418411/dollar-advances-as-us-iran-talks-suffer-setback)*
+- بھارتی روپے پر دباؤ برقرار رہنے کی توقع ہے، تیل کی بلند قیمتیں درآمد کنندگان کے ہedgesنگ کو فروغ دے رہی ہیں اور سرمایہ کاری کو کم کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418413/indian-rupee-to-stay-under-pressure-high-oil-prices-spur-importer-hedging-dampen-flows)*
+- پاکستان میں سونے کی قیمتیں بین الاقوامی منڈی کے رجحانات کے مطابق تبدیل ہوتی رہتی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/gold-price-in-pakistan-for-today-april-27-2026/)*
+- پاکستان میں چاندی کی قیمتیں بھی بین الاقوامی منڈی کے رجحانات کے مطابق تبدیل ہوتی رہتی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/silver-price-in-pakistan-for-today-april-27-2026/)*
+- کے الیکٹرک کے فیلڈ ٹیموں نے گلشن اقبال میں چوری شدہ انفراسٹرکچر کو تبدیل کر دیا ہے۔ *[ARY](https://arynews.tv/k-electrics-field-teams-replace-stolen-infrastructure-in-gulshan-e-iqbal)*
+- حکومت نے 35 نئی ضروری دوائیوں کی قیمتوں کو مقرر کر دیا ہے، جس سے ملک بھر میں دوائیوں کی قلت دور کرنے میں مدد ملے گی۔ *[Dawn](https://www.dawn.com/news/1995314/after-long-wait-centre-fixes-prices-of-35-new-essential-drugs)*
+- آئی ایم ایف کی ایگزیکٹو بورڈ 8 مئی کو پاکستان کو 1.2 بلین ڈالر سے زائد کی رقم کی تقسیم کی منظوری دینے کے لیے ملے گی۔ *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-meet-on-may-8-to-approve-disbursement-of-over-12bn-to-pakistan)*
+- کراچی پورٹ ٹرسٹ ٹرمینلز پر اسٹوریج چارجز کی بڑی چھوٹ کا اعلان کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1995332/huge-storage-charge-waivers-at-karachi-port-trust-terminals-announced)*
+- نیشنل بینک آف پاکستان کے لیے 2025 ایک بہترین سال رہا، منافع میں نمایاں اضافہ ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/for-national-bank-2025-was-a-stellar-year/)*
+- پاکستان کا کھاد کا بل مسلسل بڑھ رہا ہے، کیا اس پر قابو پایا جا سکتا ہے؟ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/pakistans-reliance-on-palm-oil-continues-to-be-a-heavy-burden-on-our-food-import-bill-can-something-be-done-about-it/)*
+- چینی مارکیٹ میں پاکستانی برآمدات میں کمی ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40418359/pakistani-exports-to-major-european-markets-slow-down-amid-me-conflict-despite-gsp-status)*
 
 ## سائنس اور ٹیکنالوجی
 
-*   پنجاب میں 50 ایکڑ پر فلم سٹی قائم کرنے کا منصوبہ، جو میگا آئی ٹی سٹی کے فریم ورک کے تحت بنایا جائے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/punjab-unveils-50-acre-film-city-in-lahore-under-mega-it-city-framework/)*
-*   ایف بی آر (FBR) نے POS نیٹ ورک کو وسعت دی ہے، اب تقریباً 36,000 خوردہ فروش اور ریستوران منسلک ہو چکے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/fbr-expands-pos-network-nearly-36000-retail-and-restaurant-outlets-now-linked/)*
-*   چین نے پاکستان کے PRSC-EO3 سیٹلائیٹ کو لانچ کیا، جو لانگ مارچ مشن کا 640 واں مشن تھا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/china-launches-pakistans-prsc-eo3-satellite-in-640th-long-march-mission/)*
+- چیپس کی وجہ سے اسٹاک مارکیٹ میں اضافہ ہوا، جبکہ امریکہ اور ایران کے درمیان مذاکرات کے تعطل کے باعث تیل کی قیمتوں میں اضافہ ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/chips-carry-stocks-higher-oil-jumps-on-stalled-peace-talks/)*
+- سیکورٹی اینڈ ایکسچینج کمیشن آف پاکستان (SECP) میوچل فنڈ انڈسٹری میں سوئنگ پرائسنگ لانے پر غور کر رہا ہے، جس سے اسٹاک مارکیٹ پر اثرات مرتب ہو سکتے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/the-secp-is-looking-to-bring-swing-pricing-to-the-mutual-fund-industry-it-could-have-ripple-effects-for-the-stock-market/)*
 
 ## موسم
 
-*   پنجاب میں معمول سے زیادہ درجہ حرارت کی پیش گوئی کی گئی ہے، خاص طور پر وسطی اور جنوبی میدانی علاقوں میں *[Dawn](https://www.dawn.com/news/1995060/above-normal-temperature-forecast-in-punjab)*۔
+- کراچی: آج 38-26 ڈگری سینٹی گریڈ، کل 36-26 ڈگری سینٹی گریڈ، نمی 00-00 فیصد۔ *[Business Recorder](https://www.brecorder.com/news/40418339/the-weather)*
 
 ## سیاست
 
-*   صدر زرداری نے چین کے دورے کے دوران صنعتی تعاون اور ٹیکنالوجی پارٹنرشپ پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1995241/president-zardari-underscores-industrial-cooperation-technology-partnership-during-visit-to-china)*
-*   ایرانی وزیر خارجہ، عباس عراغچی، امریکہ اور ایران کے درمیان بات چیت کو فروغ دینے کے لیے پاکستان واپس آئے ہیں۔ *[Dawn](https://www.dawn.com/news/1995258/iranian-fm-araghchi-back-in-pakistan-after-oman-visit-to-head-to-moscow-after-short-stay-diplomatic-source)*
-*   اسرائیل کے ممکنہ وزیراعظم نتن یاہو کے سب سے بڑے حریفوں نے اگلے الیکشن میں ان کی حکومت کو ختم کرنے کے لیے اتحاد کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418334/netanyahus-biggest-rivals-join-forces-for-israels-next-election)*
-*   چین نے کہا ہے کہ وہ مائانمار کی سلامتی اور خودمختاری کی حمایت کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40418330/president-zardari-calls-for-stronger-pak-china-industrial-cooperation)*
+- سابق اسرائیلی وزیراعظم نیتن یاہو کو ہٹانے کے لیے دو سابق وزیراعظم اتحاد کر گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1995320/two-former-israeli-pms-unite-to-unseat-netanyahu)*
+- صدر زرداری نے بیج ٹیکنالوجی اور زرعی تحقیق میں چین کے ساتھ قریبی تعاون کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/1995241/in-china-president-zardari-expresses-interest-in-closer-collaboration-in-seed-technology-agricultural-research)*
+- وزیراعظم شہباز شریف نے پاک فوج کے میڈیشن کے کردار کو سراہا۔ *[Business Recorder](https://www.brecorder.com/news/40418349/pakistan-reiterates-stance-on-pahalgam-false-flag-operation)*
+- پی ٹی آئی نے انٹر پارلیمینٹری یونین میں اپنی امیدوار کو ناکام بنا دیا۔ *[Dawn](https://www.dawn.com/news/1995331/pti-loses-maverick-election-bid-at-inter-parliamentary-union)*
+- اے جے کے میں پناہ گزینوں کی ووٹنگ کی سہولت کے لیے قوانین میں ترمیم کی گئی۔ *[Dawn](https://www.dawn.com/news/1995311/ajk-laws-tweaked-to-facilitate-refugee-voting)*
 
 ## قومی
 
-*   کراچی میں یونیورسٹی روڈ پر BRT ریڈ لائن منصوبے کی تعمیر دوبارہ شروع ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/1995248/frontier-works-organisation-resumes-construction-of-brt-red-line-project-on-karachis-university-road)*
-*   پنجاب کی حکومت نے ایک ملین لائیو سٹاک برآمد کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1995068/punjab-to-export-livestock)*
-*   کراچی میں واٹر لائن میں ڈوبنے والے لڑکے کی لاش تیسرے روز تلاش کر لی گئی۔ *[Dawn](https://www.dawn.com/news/1995231/rescuers-find-body-of-boy-swept-away-while-swimming-in-karachi-water-line)*
-*   پی ایس ایل (PSL) 11 کے فائنل کے ٹکٹ 27 اپریل سے فروخت کے لیے دستیاب ہوں گے۔ *[Dawn](https://www.dawn.com/news/1995215/tickets-for-hbl-psl-11-final-to-go-on-sale-from-april-27)*
-*   راولپنڈی میں کچری چوک پر مارکا-اے-حق یادگار زیر تعمیر ہے۔ *[Dawn](https://www.dawn.com/news/1995151/marka-i-haq-monument-under-construction-at-rawalpindis-kutchery-chowk)*
+- صدر زرداری نے جوہری حفاظت کے اعلیٰ معیار کو برقرار رکھنے کے عزم کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40418348/nuclear-safety-and-security-president-vows-to-maintain-highest-standards)*
+- وفاقی حکومت نے 35 نئی ضروری دوائیوں کی قیمتوں کو مقرر کر دیا۔ *[Dawn](https://www.dawn.com/news/1995314/after-long-wait-centre-fixes-prices-of-35-new-essential-drugs)*
+- ڈپٹی وزیراعظم اسحاق ڈار نے اسلام آباد کے ریڈ زون اور سیرینا ہوٹل کے اطراف سے ٹریفک پابندیاں ہٹا دیں۔ *[Dawn](https://www.dawn.com/news/1995277/traffic-restrictions-around-islamabads-red-zone-serena-hotel-lifted-ishaq-dar)*
+- پاک فوج نے مختلف عہدوں کے لیے بھرتی کے لیے درخواستیں طلب کی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40418351/various-posts-army-invites-applications-for-recruitment)*
+- فرنٹئیر ورکس آرگنائزیشن نے کراچی یونیورسٹی روڈ پر BRT ریڈ لائن منصوبے کی تعمیر دوبارہ شروع کر دی۔ *[Dawn](https://www.dawn.com/news/1995248/frontier-works-organisation-resumes-construction-of-brt-red-line-project-on-karachis-university-road)*
+- گلوبل فنڈ کی ٹیم HIV کے غلط استعمال کی تحقیقات کے لیے پاکستان آنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1995310/global-fund-team-may-come-to-inspect-hiv-mishandling)*
 
 ## بین الاقوامی
 
-*   جاپان نے شمال میں جنگل کی آگ سے لڑنے کے لیے 1,400 فائر فائٹرز تعینات کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1995244/japan-deploys-1400-firefighters-to-battle-raging-wildfires-in-the-north)*
-*   سویٹزرلینڈ انٹرنیشنل نے کہا کہ ایک انجن کی خرابی کے بعد نئی دہلی میں زیورخ جانے والی پرواز کو منسوخ کرنا پڑا، جس میں 5 افراد زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1995234/swiss-international-says-5-injured-after-flight-aborts-takeoff-in-new-delhi)*
-*   مصر کے اقتصادی نقطہ نظر کو ایران جنگ کی وجہ سے تھوڑا سا کم کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418322/egypt-economic-outlook-trimmed-slightly-due-to-iran-war)*
-*   برطانیہ کا کہنا ہے کہ وہ بادشاہ چارلس کے دورے سے پہلے امریکہ کے ساتھ سیکیورٹی پر گہری تعاون کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418325/uk-says-cooperating-closely-with-us-on-security-ahead-of-king-charles-visit)*
+- امریکہ نے ایران کے ساتھ فون پر بات چیت کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1995338/trump-opts-for-talks-with-iran-over-the-phone)*
+- امریکہ اور برطانیہ نے اہم بحری راستوں میں خلل کو فوری طور پر ختم کرنے کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1995338/trump-opts-for-talks-with-iran-over-the-phone)*
+- فلسطینی صدارتی وفاداروں نے فلسطینی بلدیاتی انتخابات میں بڑی جیت حاصل کی۔ *[Dawn](https://www.dawn.com/news/1995318/pa-loyalists-win-big-in-palestinian-municipal-polls)*
+- سوئس انٹرنیشنل نے کہا کہ نئی دہلی میں پرواز کے ٹیک آف کے دوران 5 افراد زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1995234/swiss-international-says-5-injured-after-flight-aborts-takeoff-in-new-delhi)*
+- برطانیہ کے بادشاہ چارلس امریکہ کے دورے پر جائیں گے، واشنگٹن میں فائرنگ کے واقعہ کے بعد بھی۔ *[ARY](https://arynews.tv/king-charles-visit-to-us-to-proceed-after-washington-shooting)*
 
 ## کھیل
 
-*   سنیراورشنشی نے آئی پی ایل (IPL) میں تیز ترین 1000 رنز بنائے، جبکہ ایک نوجوان کھلاڑی نے 36 گیندوں میں سنچری بنائی۔ *[Business Recorder](https://www.brecorder.com/news/40418323/sooryavanshi-fastest-to-reach-1000-runs-in-t20s-as-teenager-smashes-36-ball-ton-in-ipl)*
-*   آرسنل نے نیو کیسل کو 1-0 سے شکست دے کر پریمیئر لیگ میں سرفہرست مقام دوبارہ حاصل کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40418316/arsenal-reclaim-top-spot-as-tottenham-and-west-ham-both-win)*
-*   سواتیک بیماری کی وجہ سے میڈرڈ اوپن ٹینس سے دستبردار ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40418315/swiatek-retires-from-madrid-open-tennis-due-to-illness)*
+- ہسپانوی ڈربی میں سٹاپج ٹائم میں دو گول کیپرز کے درمیان لڑائی کے بعد نکال دیے گئے۔ *[ARY](https://arynews.tv/two-goalkeepers-sent-off-for-stoppage-time-punching-brawl-in-spanish-derby)*
+- 'مائیکل' بائیوگرافی کے آغاز کے ساتھ باکس آفس کی تاریخ میں سب سے بڑی بائیوگرافی بن گئی۔ *[ARY](https://arynews.tv/michael-becomes-biggest-biopic-opening-in-box-office-history)*
+- ریٹائرڈ تجزیہ کار رومن ڈوبوسکی نے 'ہو وانٹس ٹو بی اے ملینئیر؟' میں 1 ملین پاؤنڈ جیتا۔ *[ARY](https://arynews.tv/retired-analyst-roman-dubowski-wins-1m-jackpot-on-who-wants-to-be-a-millionaire)*
 
 ## صحت
 
-*   اس سال کے پہلے چار مہینوں میں خسرے سے 71 بچوں کی جانیں جا چکی ہیں۔ *[Dawn](https://www.dawn.com/news/1995081/measles-claims-lives-of-71-children-across-country-in-four-months)*
+- HIV کے غلط استعمال کے معاملے پر گلوبل فنڈ کی ٹیم پاکستان آنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1995310/global-fund-team-may-come-to-inspect-hiv-mishandling)*
 
 ## دیگر
 
-*   وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کی واردات، صدر ٹرمپ کو نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/1995174/trump-administration-officials-likely-targets-of-shooting-at-white-house-correspondents-dinner-us-official)*
-*   ایران میں مبینہ طور پر دہشت گرد گروپ سے منسلک ایک شخص کو سزائے موت دے دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40418326/israeli-attacks-kill-at-least-four-palestinians-in-gaza-medics-say)*
-*   مشہور میوزک کنڈیکٹر مائیکل ٹل سن تھامس 81 سال کی عمر میں انتقال کر گئے۔ *[Business Recorder](https://www.brecorder.com/news/40418319/visionary-music-conductor-michael-tilson-thomas-dead-at-81)*
-*   ایران جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Dawn](https://www.dawn.com/news/1995238/pakistani-exports-to-major-european-markets-slow-down-amid-me-conflict-despite-gsp-status)*
-*   ایران کے وزیر خارجہ نے امریکہ کے ساتھ بات چیت منسوخ ہونے کے باوجود پاکستان واپسی کی۔ *[Business Recorder](https://www.brecorder.com/news/40418332/iran-minister-araghchi-returns-to-pakistan-despite-us-talks-cancellation)*
-*   فائرنگ کے دوران جے ڈی وینس کے الفاظ لب ریڈر نے ظاہر کیے۔ *[ARY News](https://arynews.tv/panicked-jd-vances-words-during-washington-shooting-revealed-by-lip-reader)*
-*   این ہیتھ وے 'مدر میری' میں پریشانی زدہ پاپ آئیکن کے طور پر تبدیل ہوگئیں۔ *[ARY News](https://arynews.tv/anne-hathaway-transforms-into-troubled-pop-icon-in-mother-mary)*
-*   وِکڈ اسٹار نے معذوری کی وجہ سے بورڈنگ سے انکار کرنے پر سدرن ایئرویز پر تنقید کی۔ *[ARY News](https://arynews.tv/wicked-star-slams-southern-airways-for-denying-boarding-due-to-disability)*
-*   زین ملک نے عالمی حجام کی شہرت پر ردعمل دیا۔ *[ARY News](https://arynews.tv/zayn-malik-responds-to-global-barber-shops-fame)*
-*   ممی 4 برینڈن فریزر اور راچیل ویز کے ساتھ واپسی کر رہی ہے۔ *[ARY News](https://arynews.tv/the-mummy-4-set-to-return-with-brendan-fraser-and-rachel-weisz)*
-*   پانی کے کنارے تالاب میں ڈوبنے والے لڑکے کی لاش مل گئی۔ *[ARY News](https://arynews.tv/rescuers-find-body-of-boy-swept-away-while-swimming-in-karachi-water-line)*
-*   پولیس افسران نے ایک مگرمچھ سے جنگ کی۔ *[ARY News](https://arynews.tv/viral-video-of-officer-wrestling-alligator)*
-*   کیٹ ہڈسن ایوارڈ سیزن کی تھکاوٹ کے بارے میں کھل کر بات کرتی ہیں۔ *[ARY News](https://arynews.tv/kate-hudson-opens-up-about-the-exhaustion-of-awards-season)*
-*   اسرائیل نے 'بفر زون' سے باہر سات لبنانی قصبوں کے لیے انخلاء کی وارننگ جاری کی۔ *[Business Recorder](https://www.brecorder.com/news/40418321/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone)*
-*   گھریلو تشدد کے مقدمے میں اداکارہ ایمبر ہرڈ کی والدہ کا انتقال ہوگیا۔ *[ARY News](https://arynews.tv/amber-herds-mother-passes-away-after-battle-with-cancer)*
-*   ایران نے مبینہ طور پر اسرائیل کے لیے جاسوسی کرنے کے الزام میں ایک شخص کو سزائے موت دی۔ *[Business Recorder](https://www.brecorder.com/news/40418320/iran-executes-man-linked-to-militant-group-tasnim-reports)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث گلف میں جہاز رانی میں خلل پڑنے سے کراچی پورٹ پر 3000 کنٹینر پھنس گئے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/3000-iran-bound-containers-stranded-at-karachi-port-as-hormuz-tensions-disrupt-shipping/)*
-*   روانڈا نے یونیورسٹی آف ایگریکلچر فیصل آباد کے ساتھ زرعی ٹیکنالوجی اور تحقیق کے روابط کی تلاش میں ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/rwanda-seeks-agricultural-technology-research-linkages-with-uaf/)*
-*   پنجاب حکومت نے شمسی توانائی کے چھوٹے صارفین کے لیے فیس اور لائسنسنگ ختم کرنے کی تجویز دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/power-division-moves-to-scrap-solar-fees/)*
-*   صدر زرداری نے صنعتی تعاون کو مضبوط کرنے پر زور دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/president-zardari-calls-for-stronger-pak-china-industrial-cooperation)*
-*   ای یو (EU) نے سیلاب کے متاثرین کے لیے فنڈنگ کے ساتھ پاکستان کے لیے 160 ملین یورو کا فنانسنگ معاہدہ کھول دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/eu-unlocks-e160m-pakistan-financing-deal-for-flood-housing-and-karachi-water-projects/)*
-*   وائٹ ہاؤس کے نامہ نگاروں کے عشائیے میں فائرنگ کی تفصیلات سامنے آئیں۔ *[Business Recorder](https://www.brecorder.com/news/40418318/how-the-shooting-at-the-white-house-correspondents-dinner-unfolded)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایکسپورٹ کارگو سرچارج PAA کے مداخلت کے بعد معطل، ریفنڈ کا حکم۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/export-cargo-surcharge-reversed-after-paa-intervention-refunds-ordered/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست روی کا شکار ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-*   ایران کے ساتھ جنگ کے خدشات کے باعث پاک بھارت تجارت سست
+- وائٹ ہاؤس پریس ڈنر میں فائرنگ کے مشتبہ ملزم نے اینٹی کرسچن منشور لکھا، ٹرمپ نے کہا۔ *[ARY](https://arynews.tv/suspect-in-white-house-press-dinner-shooting-wrote-anti-christian-manifesto-trump-says)*
+- لائن آف کنٹرول کے پار جنازہ تقسیم شدہ خاندانوں کے درد کو اجاگر کرتا ہے۔ *[Dawn](https://www.dawn.com/news/1995400/funeral-across-line-of-control-lays-bare-pain-of-divided-families)*
+- 'بارڈر لائن جینیئس' شوٹر 'دنیا کی مشکلات کو ٹھیک' کرنا چاہتا تھا۔ *[Dawn](https://www.dawn.com/news/1995315/borderline-genius-shooter-wanted-to-fix-worlds-issues)*
+- ایران کے ارغچی نے علاقائی ترقی پر تبادلہ خیال کے لیے دوسری بار پاکستان کا دورہ کیا۔ *[Dawn](https://www.dawn.com/news/1995258/irans-araghchi-visits-pakistan-for-2nd-time-in-two-days-envoy-says-trip-undertaken-to-discuss-regional-developments)*
+- پاکستان نے ہرمز بلاک کے درمیان ایران کو مال کی نقل و حمل کے لیے 6 زمینی راستے متعین کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1995253/pakistan-notifies-6-land-routes-for-transportation-of-goods-to-iran-amid-blockade-of-hormuz-iranian-ports)*
+- ڈیزل کے منافع پر کیپ لگائی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40418341/diesel-profits-capped)*
+- شوگر سیکٹر: حکومت کی ڈی ریگولیشن کے لیے باڈی بنانے کی تجویز کا خیرمقدم۔ *[Business Recorder](https://www.brecorder.com/news/40418352/sugar-sector-govts-move-to-form-body-for-deregulation-welcomed)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- ایف بی آر میں وسیع اصلاحات، ساختی تبدیلیاں: ٹیکس چوری اور غیر فائلرز کے تصور کو مکمل طور پر ختم کر دیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40418343/mofs-tax-policy-unit-likely-to-continue-with-policy-of-expanding-list-of-fmcg-items-taxed-on-printed-retail-price)*
+- موسمی تبدیلی: ماہرین نے جدید، ماحول دوست طریقوں کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40418344/climate-change-in-pakistan-experts-call-for-modern-environmentally-sustainable-methods)*
+- کے پی پی اے نے نسوار (سنف) کے ضوابط بل 2026 پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40418345/kp-pa-tables-regulations-of-snuff-naswar-bill-2026)*
+- وکیلوں کی فلاحی ایکٹ: وزارت نے درخواستوں کی قابل قبولیت پر سوال اٹھایا۔ *[Business Recorder](https://www.brecorder.com/news/40418346/lawyers-welfare-act-ministry-questions-maintainability-of-pleas)*
+- اداکارہ نکول کڈمین سیٹ پر ایک حادثے کے بعد ہسپتال میں داخل۔ *[ARY](https://arynews.tv/nicole-kidmans-on-set-moment-lands-her-in-hospital)*
+- ریان رینولڈز نے بلییک لولی کے ساتھ قانونی جنگ کے درمیان اپنی غیر متزلزل حمایت کا اظہار کیا۔ *[ARY](https://arynews.tv/ryan-reynolds-shows-unwavering-support-for-blake-lively-amidst-legal-battle)*
+- اداکارہ چارلیز تھیرون کی سنسنی خیز بقا تھرلر ایک دھماکے کے ساتھ ختم ہوئی۔ *[ARY](https://arynews.tv/apex-predator-charlize-therons-gripping-survival-thriller-ends-with-a-bang)*
+- حکومت ملازمت کے مواقع: درخواست کیسے کریں؟ *[ARY](https://arynews.tv/govt-jobs-opportunities-offered-how-to-apply)*
+- ہفتہ وار کپاس کا جائزہ: قیمتوں میں استحکام کے باوجود تجارت سست ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418360/weekly-cotton-review-trading-remains-muted-as-prices-stay-stable)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40418342/mcb-stays-long-on-sovereign)*
+- این سی بی سویرین پر لمبا ہے۔ *[Business Recorder](https://www.brecorder.
 
