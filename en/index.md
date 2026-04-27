@@ -4,61 +4,54 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 26-Apr-2026 21:02PKT
+Published at: 27-Apr-2026 09:01PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The IMF executive board will meet on May 8 to approve over $1.2 billion in disbursements to Pakistan under the EFF and RSF programs. *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-meet-on-may-8-to-approve-disbursement-of-over-12bn-to-pakistan)*
-- Pakistan’s exports to major European markets have slowed down despite GSP+ status, potentially due to the conflict in the Middle East. *[Dawn](https://www.dawn.com/news/1995238/pakistani-exports-to-major-european-markets-slow-down-amid-me-conflict-despite-gsp-status)*
-- The business sector warns of a cost shock following a Rs26.77 per litre fuel price hike. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/business-sector-warns-of-cost-shock-after-rs26-77-per-litre-fuel-price-hike/)*
-- A disputed surcharge on export cargo has been reversed after intervention by the Pakistan Airports Authority, with refunds ordered. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/export-cargo-surcharge-reversed-after-paa-intervention-refunds-ordered/)*
-- The FBR has expanded its POS network to nearly 36,000 retail and restaurant outlets. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/fbr-expands-pos-network-nearly-36000-retail-and-restaurant-outlets-now-linked/)*
-- Punjab plans to export one million livestock animals as part of a sector overhaul. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/punjab-lines-up-one-million-livestock-export-drive-amid-sector-overhaul-push/)*
-- Another fuel price hike has triggered widespread anxiety. *[Dawn](https://www.dawn.com/news/1995067/another-pol-price-hike-triggers-widespread-anxiety)*
-- New auto assemblers are reluctant to share details on localisation of parts. *[Dawn](https://www.dawn.com/news/1995087/new-auto-assemblers-dodge-localisation-details)*
+- The IMF executive board will meet on May 8th to approve over $1.2 billion in disbursements to Pakistan under the EFF and RSF programs. *[Dawn](https://www.dawn.com/news/1995256/imf-executive-board-to-meet-on-may-8-to-approve-disbursement-of-over-12bn-to-pakistan)*
+- The federal government has approved price fixes for 35 new essential and life-saving medicines, with 45 more to follow, aiming to address critical shortages. *[Dawn](https://www.dawn.com/news/1995314/after-long-wait-centre-fixes-prices-of-35-new-essential-drugs)*
+- KPT announced storage charge waivers of 25-50% at Karachi Port Trust terminals to aid exporters affected by shipment disruptions. *[Dawn](https://www.dawn.com/news/1995332/huge-storage-charge-waivers-at-karachi-port-trust-terminals-announced)*
+- Pakistan has notified six land routes for goods transportation to Iran amid the blockade of Hormuz and Iranian ports. *[Dawn](https://www.dawn.com/news/1995253/pakistan-notifies-6-land-routes-for-transportation-of-goods-to-iran-amid-blockade-of-hormuz-iranian-ports)*
+- The FPCCI opposes a potential interest rate hike, fearing it will harm business activity. *[Business Recorder](https://www.brecorder.com/news/40418350/fpcci-opposes-likely-hike-in-interest-rate)*
+- Extensive reforms are planned for the FBR, aiming to eliminate tax evasion and non-filers. *[Business Recorder](https://www.brecorder.com/news/40418353/extensive-reforms-structural-changes-in-fbr-concepts-of-tax-evasion-non-filers-to-be-completely-eliminated)*
+- National Bank of Pakistan reported a stellar 2025 with profit after tax tripling to Rs85.9 billion. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/for-national-bank-2025-was-a-stellar-year/)*
+- Pakistan’s food import bill continues to rise, largely due to reliance on palm oil. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/pakistans-reliance-on-palm-oil-continues-to-be-a-heavy-burden-on-our-food-import-bill-can-something-be-done-about-it/)*
+- Indian shares are set to open higher after a crude-led slump. *[Business Recorder](https://www.brecorder.com/news/40418412/indian-shares-set-to-open-higher-after-crudeled-slump)*
+- The dollar advanced as US-Iran talks suffered a setback. *[Business Recorder](https://www.brecorder.com/news/40418411/dollar-advances-as-us-iran-talks-suffer-setback)*
+- Oil prices jumped as US-Iran talks stalled and Hormuz disruptions tightened global supply. *[Business Recorder](https://www.brecorder.com/news/40418409/oil-jumps-stock-futures-slip-as-us-iran-talks-stall)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/27/oil-climbs-nearly-2-as-us-iran-peace-talks-stall/)*
 
 ### Politics
-- Iranian Foreign Minister Abbas Araghchi returned to Pakistan after a visit to Oman, en route to Moscow, amidst diplomatic efforts to de-escalate the conflict with the US and Israel. *[Dawn](https://www.dawn.com/news/1995258/iranian-fm-araghchi-back-in-pakistan-after-oman-visit-to-head-to-moscow-after-short-stay-diplomatic-source)*
-- President Zardari underscored the importance of bolstering industrial and technological cooperation with China during his visit. *[Dawn](https://www.dawn.com/news/1995241/president-zardari-underscores-industrial-cooperation-technology-partnership-during-visit-to-china)*
-- Israel’s biggest rivals have joined forces in an attempt to oust Prime Minister Benjamin Netanyahu. *[Business Recorder](https://www.brecorder.com/news/40418334/netanyahus-biggest-rivals-join-forces-for-israels-next-election)*
-- China has reaffirmed its support for Myanmar’s sovereignty and security. *[Business Recorder](https://www.brecorder.com/news/40418332/chinese-fm-tells-myanmar-leader-beijing-will-back-its-security-sovereignty)*
-
-### National
-- Construction of the BRT Red Line project on Karachi’s University Road has resumed after the contract was cancelled and re-awarded. *[Dawn](https://www.dawn.com/news/1995248/frontier-works-organisation-resumes-construction-of-brt-red-line-project-on-karachis-university-road)*
-- A Marka-i-Haq Monument is under construction at Rawalpindi’s Kutchery Chowk. *[Dawn](https://www.dawn.com/news/1995151/marka-i-haq-monument-under-construction-at-rawalpindis-kutchery-chowk)*
-- The body of a boy swept away while swimming in a Karachi water line has been recovered. *[Dawn](https://www.dawn.com/news/1995231/rescuers-find-body-of-boy-swept-away-while-swimming-in-karachi-water-line)*
-- Tickets for the HBL PSL 11 final will go on sale from April 27. *[Dawn](https://www.dawn.com/news/1995215/tickets-for-hbl-psl-11-final-to-go-on-sale-from-april-27)*
-- 71 children have died from measles across the country in the first four months of the year. *[Dawn](https://www.dawn.com/news/1995081/measles-claims-lives-of-71-children-across-country-in-four-months)*
+- Former Israeli PMs Naftali Bennett and Yair Lapid have united to run on a joint list in an attempt to unseat Benjamin Netanyahu. *[Dawn](https://www.dawn.com/news/1995320/two-former-israeli-pms-unite-to-unseat-netanyahu)*
+- The AJK government has amended electoral laws to facilitate refugee voting and align with Pakistani laws. *[Dawn](https://www.dawn.com/news/1995311/ajk-laws-tweaked-to-facilitate-refugee-voting)*
+- PTI’s bid for a seat at the Inter-Parliamentary Union failed, securing only 12 votes out of 152. *[Dawn](https://www.dawn.com/news/1995331/pti-loses-maverick-election-bid-at-inter-parliamentary-union)*
+- President Zardari expressed interest in closer collaboration with China in seed technology and agricultural research. *[Dawn](https://www.dawn.com/news/1995241/in-china-president-zardari-expresses-interest-in-closer-collaboration-in-seed-technology-agricultural-research)*
 
 ### International
-- A shooting occurred at the White House Correspondents’ Dinner, with the suspect believed to be targeting Trump and administration officials. *[Dawn](https://www.dawn.com/news/1995174/trump-administration-officials-likely-targets-of-shooting-at-white-house-correspondents-dinner-us-official)* & *[ARY](https://arynews.tv/trump-was-likely-target-of-shooting-at-white-house-correspondents-dinner-says-us-official)* & *[Business Recorder](https://www.brecorder.com/news/40418331/gunman-believed-to-be-targeting-top-trump-officials-us-attorney-general)*
-- Japan has deployed 1,400 firefighters to battle raging wildfires in the north. *[Dawn](https://www.dawn.com/news/1995244/japan-deploys-1400-firefighters-to-battle-raging-wildfires-in-the-north)* & *[Business Recorder](https://www.brecorder.com/news/40418321/japan-deploys-1400-firefighters-to-battle-raging-wildfires-in-the-north)*
-- Iran executed a man linked to a militant group. *[Business Recorder](https://www.brecorder.com/news/40418320/iran-executes-man-linked-to-militant-group-tasnim-reports)*
-- Israel issued evacuation warnings for seven Lebanese towns. *[Business Recorder](https://www.brecorder.com/news/40418329/israel-issues-evacuation-warning-for-seven-lebanese-towns-beyond-buffer-zone)*
-- Israeli attacks have killed at least four Palestinians in Gaza. *[Business Recorder](https://www.brecorder.com/news/40418326/israeli-attacks-kill-at-least-four-palestinians-in-gaza-medics-say)*
+- US President Trump opted for talks with Iran over the phone, praising Pakistan’s facilitation role. *[Dawn](https://www.dawn.com/news/1995338/trump-opts-for-talks-with-iran-over-the-phone)*
+- Iranian Foreign Minister Abbas Araghchi visited Pakistan for the second time in two days as part of a diplomatic tour. *[Dawn](https://www.dawn.com/news/1995258/irans-araghchi-visits-pakistan-for-2nd-time-in-two-days-envoy-says-trip-undertaken-to-discuss-regional-developments)*
+- The US and UK discussed the urgent need to end disruptions in the vital maritime route, likely referring to the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/1995338/trump-opts-for-talks-with-iran-over-the-phone)*
+- Iran’s IRGC stated it has no plans to lift the blockade of the Hormuz Strait, while the US intercepted another Iranian vessel. *[Dawn](https://www.dawn.com/news/1995338/trump-opts-for-talks-with-iran-over-the-phone)*
+- King Charles’ visit to the US will proceed despite the shooting in Washington. *[ARY](https://arynews.tv/king-charles-visit-to-us-to-proceed-after-washington-shooting)*
+
+### National
+- A shooting occurred at the White House press gala, with the suspect identified as Cole Allen, a “borderline genius” with firearms training. *[Dawn](https://www.dawn.com/news/1995315/borderline-genius-shooter-wanted-to-fix-worlds-issues)* & *[ARY](https://arynews.tv/suspect-in-white-house-press-dinner-shooting-wrote-anti-christian-manifesto-trump-says)*
+- Traffic restrictions around Islamabad’s Red Zone and Serena Hotel have been lifted. *[Dawn](https://www.dawn.com/news/1995277/traffic-restrictions-around-islamabads-red-zone-serena-hotel-lifted-ishaq-dar)*
+- The Global Fund may send a team to investigate alleged HIV mishandling in Pakistan. *[Dawn](https://www.dawn.com/news/1995310/global-fund-team-may-come-to-inspect-hiv-mishandling)*
+- PA loyalists won big in Palestinian municipal polls, while Hamas boycotted the elections. *[Dawn](https://www.dawn.com/news/1995318/pa-loyalists-win-big-in-palestinian-municipal-polls)*
+- A funeral across the Line of Control highlighted the pain of divided Kashmiri families. *[Dawn](https://www.dawn.com/news/1995400/funeral-across-line-of-control-lays-bare-pain-of-divided-families)*
 
 ### Sports
-- Pat Cummins relishes the challenge of big chases in the IPL. *[Business Recorder](https://www.brecorder.com/news/40418317/hyderabads-cummins-relishes-ipls-big-chase-challenge)*
-- Arsenal reclaimed the top spot in the Premier League. *[Business Recorder](https://www.brecorder.com/news/40418316/arsenal-reclaim-top-spot-as-tottenham-and-west-ham-both-win)*
-- Iga Swiatek retired from the Madrid Open due to illness. *[Business Recorder](https://www.brecorder.com/news/40418315/swiatek-retires-from-madrid-open-tennis-due-to-illness)*
-- Sooryavanshi became the fastest to 1,000 runs in T20s. *[Business Recorder](https://www.brecorder.com/news/40418317/sooryavanshi-fastest-to-reach-1000-runs-in-t20s-as-teenager-smashes-36-ball-ton-in-ipl)*
-
-### Health
-- Seventy-one children have died from measles in Pakistan in the first four months of the year. *[Dawn](https://www.dawn.com/news/1995081/measles-claims-lives-of-71-children-across-country-in-four-months)*
+- Two goalkeepers were sent off for a punching brawl in a Spanish derby. *[ARY](https://arynews.tv/two-goalkeepers-sent-off-for-stoppage-time-punching-brawl-in-spanish-derby)*
+- ‘Michael’ biopic opened to record-breaking box office numbers. *[ARY](https://arynews.tv/michael-becomes-biggest-biopic-opening-in-box-office-history)*
 
 ### Other
-- The Power Division has urged NEPRA to abolish the license requirement and fee for small solar consumers. *[Dawn](https://www.dawn.com/news/1995220/power-division-urges-nepra-to-abolish-licence-requirement-fee-for-solar-consumers-below-25kw)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/power-division-moves-to-scrap-solar-fees/)*
-- Above-normal temperatures are forecast in Punjab. *[Dawn](https://www.dawn.com/news/1995060/above-normal-temperature-forecast-in-punjab)*
-- China launched Pakistan’s PRSC-EO3 satellite. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/china-launches-pakistans-prsc-eo3-satellite-in-640th-long-march-mission/)*
-- Rwanda seeks agricultural technology linkages with UAF. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/26/rwanda-seeks-agricultural-technology-research-linkages-with-uaf/)*
-- The global order is breaking down, with conflicts erupting worldwide. *[Dawn](https://www.dawn.com/news/1995127/on-the-ascendant)*
-- Several entertainment news items were reported by ARY News, including updates on *The Mummy 4*, Zayn Malik, and upcoming films. *[ARY](https://arynews.tv/the-mummy-4-set-to-return-with-brendan-fraser-and-rachel-weisz)*, *[ARY](https://arynews.tv/zayn-malik-responds-to-global-barber-shops-fame)*, *[ARY](https://arynews.tv/kate-hudson-opens-up-about-the-exhaustion-of-awards-season)*, *[ARY](https://arynews.tv/panicked-jd-vances-words-during-washington-shooting-revealed-by-lip-reader)*, *[ARY](https://arynews.tv/anne-hathaway-transforms-into-troubled-pop-icon-in-mother-mary)*, *[ARY](https://arynews.tv/wicked-star-slams-southern-airways-for-denying-boarding-due-to-disability)*, *[ARY](https://arynews.tv/viral-video-of-officer-wrestling-alligator)*.
-- A viral video showed officers wrestling an alligator. *[ARY](https://arynews.tv/viral-video-of-officer-wrestling-alligator)*
-- Tensions in the Strait of Hormuz have stranded 3,000 Iran-bound containers at Karachi port. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/25/3000-iran-bound-containers-stranded-at-karachi-port-as-hormuz-tensions-disrupt-shipping/)*
-- Michael Tilson Thomas, a visionary music conductor, has died at 81. *[Business Recorder](https://www.brecorder.com/news/40418319/visionary-music-conductor-michael-tilson-thomas-dead-at-81)*
-- A detailed account of the White House Correspondents' Dinner shooting unfolded. *[Business Recorder](https://www.brecorder.com/news/40418318/how-the-shooting-at-the-white-house-correspondents-dinner-unfolded)*
-- Who is Cole Allen, the suspect in the White House Correspondents' Dinner shooting? *[Business Recorder](https://www.brecorder.com/news/40418320/who-is-cole-allen-the-suspect-in-the-white-house-correspondents-dinner-shooting)*
-- Maritime Minister announces storage relief at KPT terminals to ease exporters’ burden. *[ARY](https://arynews.tv/maritime-minister-announces-storage-relief-at-kpt-terminals-to-ease-exporters-burden)* & *[Business Recorder](https://www.brecorder.com/news/40418328/storage-relief-announced-at-kpt-terminals-to-ease-exporters-burden)*
-- Iran war jitters to influence policy rate decision. *[Dawn](https://www.dawn.com/news/1995088/iran-war-jitters-to-influence-policy-rate-decision)*
+- A retired analyst won £1M on ‘Who Wants to Be a Millionaire?’. *[ARY](https://arynews.tv/retired-analyst-roman-dubowski-wins-1m-jackpot-on-who-wants-to-be-a-millionaire)*
+- Swiss International reported 5 injuries after a flight aborted takeoff in New Delhi. *[Dawn](https://www.dawn.com/news/1995234/swiss-international-says-5-injured-after-flight-aborts-takeoff-in-new-delhi)*
+- Ryan Reynolds showed support for Blake Lively amidst a legal battle. *[ARY](https://arynews.tv/ryan-reynolds-shows-unwavering-support-for-blake-lively-amidst-legal-battle)*
+- Nicole Kidman was hospitalized after an on-set incident. *[ARY](https://arynews.tv/nicole-kidmans-on-set-moment-lands-her-in-hospital)*
+- Charlize Theron’s survival thriller ‘Apex Predator’ received positive reviews. *[ARY](https://arynews.tv/apex-predator-charlize-therons-gripping-survival-thriller-ends-with-a-bang)*
+- K-Electric is replacing stolen infrastructure in Gulshan-e-Iqbal. *[ARY](https://arynews.tv/k-electrics-field-teams-replace-stolen-infrastructure-in-gulshan-e-iqbal)*
+- The weather report for Karachi and other cities. *[Business Recorder](https://www.brecorder.com/news/40418339/the-weather)*
+- Government job opportunities are available. *[ARY](https://arynews.tv/govt-jobs-opportunities-offered-how-to-apply)*
 
