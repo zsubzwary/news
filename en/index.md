@@ -4,60 +4,65 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 30-Apr-2026 09:02PKT
+Published at: 30-Apr-2026 21:01PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan’s weekly oil bill has reached $800 million due to the ongoing Middle East conflict, impacting economic growth. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistans-oil-bill-jumps-to-800-million-a-week-as-middle-east-conflict-hits-growth-pm-says)*
-- Oil prices surged, extending gains as the US-Iran war deadlock continues to disrupt supply. *[Business Recorder](https://www.brecorder.com/news/40418971/oil-prices-extend-gains-as-us-iran-war-deadlock-keeps-supply-off-market)* & *[ARY](https://arynews.tv/oil-prices-extend-gains-amid-us-iran-ceasefire-deadlock)*
-- Indian shares are expected to open lower due to the surge in oil prices. *[Business Recorder](https://www.brecorder.com/news/40418976/indian-shares-set-to-open-lower-as-oil-surge-weighs-on-sentiment)*
-- Sitara Petroleum Service Limited plans to expand its retail network with funding from a Rs4.8 billion IPO. *[Business Recorder](https://www.brecorder.com/news/40418951/sitara-to-expand-retail-network-with-rs48bn-ipo-funding)*
-- The EIB is considering investment in Pakistan’s Reko Diq mining project. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/european-investment-bank-eyes-reko-diq-investment-as-it-resumes-pakistan-financing-after-a-decade)*
-- JS Bank reported a profit after tax of Rs1.045 billion in Q1 2026. *[Business Recorder](https://www.brecorder.com/news/40418924/js-bank-reports-profit-after-tax-of-rs1045bn-in-q1-2026)*
-- The CCP approved the acquisition of PIA by PIA Equity Ltd, removing a key hurdle in the privatization process. *[Business Recorder](https://www.brecorder.com/news/40418948/ccp-approves-acquisition-of-piacl-by-pia-equity-ltd)* & *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/ccp-clears-pia-sale-to-consortium-finds-no-competition-concerns)*
+- The Arif Habib-led consortium intends to acquire the remaining 25% stake in Pakistan International Airlines Corporation Limited (PIACL) for approximately Rs180 billion. *[Dawn](https://www.dawn.com/news/1996427/arif-habib-led-consortium-notifies-privatisation-commission-of-its-intent-to-acquire-remaining-25pc-pia-stake)*
+- Pakistan’s foreign exchange reserves held by the State Bank of Pakistan (SBP) rose by $730 million to $15.8 billion. *[Business Recorder](https://www.brecorder.com/news/40419041/sbp-reserves-rise-by-730mln-to-158bln)*
+- The government raised Rs1.339 trillion in T-bill auction, with yields climbing after the SBP rate hike. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/govt-raises-rs1-339-trillion-in-t-bill-auction-as-yields-climb-after-sbp-rate-hike)*
+- Pakistan’s e-commerce sector loses an estimated $1.61 billion annually due to payment inefficiencies. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-e-commerce-sector-loses-1-61-billion-annually-due-to-payment-inefficiencies-report)*
+- The Ministry of Finance warns of risks to Pakistan’s external sector amid global uncertainties and regional supply disruptions. *[Dawn](https://www.dawn.com/news/1996416/finance-ministry-flags-risk-to-pakistans-external-sector-amid-global-uncertainty)*
+- Bears dominated the PSX, with the KSE-100 losing over 2,800 points. *[Dawn](https://www.dawn.com/news/1996348/bears-continue-to-dominate-psx-as-kse-100-loses-2800-points)*
+- Indian cement maker ACC's profit falls as costs squeeze margins. *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
 
 ### Science & Technology
-- The NJPMC issued national guidelines for the use of artificial intelligence (AI) in judicial institutions. *[Dawn](https://www.dawn.com/news/1996074/njpmc-issues-guidelines-for-ai-use-in-judicial-institutions)*
-- Pakistan aims to increase fiberization to 60% within three years. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-targets-60-fiberization-in-three-years-says-it-minister)*
+- Amazon says restoring cloud computing operations in the UAE, damaged in recent conflicts, is expected to take several months. *[Dawn](https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months)*
+- Cambridge International Education confirmed that its AS-level mathematics paper was “shared prematurely”. *[Dawn](https://www.dawn.com/news/1996400/cambridge-confirms-as-level-math-exam-leak-says-working-on-determining-next-steps)*
+- Meta shares plummeted nearly 10% after earnings, while Google skyrocketed. *[Business Recorder](https://www.brecorder.com/news/40419043/meta-shares-plummet-near-10-after-earnings-google-skyrockets)*
 
 ### Weather
 - No relevant news in provided articles.
 
 ### Politics
-- The US rejected an Iranian proposal to end the conflict, maintaining the naval blockade until Tehran agrees to a nuclear deal. *[Dawn](https://www.dawn.com/news/1996253/us-turns-down-iranian-proposal-to-end-war)*
-- Pentagon chief Pete Hegseth clashed with Democratic lawmakers over the Iran conflict. *[Dawn](https://www.dawn.com/news/1996210/pentagon-chief-spars-with-lawmakers-over-iran-war)*
-- Former Prime Minister Imran Khan and his wife Bushra Bibi’s appeals against their conviction in the £190m corruption reference will be heard by the IHC. *[Dawn](https://www.dawn.com/news/1996081/ihc-to-hear-imran-bushras-pleas-against-conviction-in-ps190m-corruption-reference-on-april-30)*
-- Independent press is being stifled in Pakistan, according to Hameed Haroon. *[Dawn](https://www.dawn.com/news/1996172/independent-press-being-stifled-in-pakistan-says-hameed-haroon)*
-- Sindh CM Murad Ali Shah directed K-Electric to find a solution to reduce loadshedding in Karachi. *[Dawn](https://www.dawn.com/news/1996174/cm-murad-asks-k-electric-to-find-practical-solution-to-reduce-loadshedding)*
-- PTI Women Wing official Shekel Wahid joined the PPP. *[Business Recorder](https://www.brecorder.com/news/40418922/pti-women-wing-official-joins-ppp)*
+- The Islamabad High Court (IHC) has allowed Imran Khan twice-a-week meetings, but these have been largely restricted. *[Dawn](https://www.dawn.com/news/1996425/pti-leaders-turn-up-for-adiala-jail-visit-following-2-week-gap)*
+- Transfers of IHC judges have drawn criticism from lawyers’ bodies, leading to a challenge to the 27th Constitutional Amendment in the Supreme Court. *[Dawn](https://www.dawn.com/news/1996370/lahore-bar-association-moves-sc-against-27th-amendment-following-transfer-of-ihc-judges)*
+- President Donald Trump renewed his criticism of German Chancellor Friedrich Merz over Iran. *[Business Recorder](https://www.brecorder.com/news/40419047/trump-in-fresh-attack-on-germanys-merz-over-iran)*
 
 ### National
-- No new contract has been awarded to build Karachi's Red Line corridor; the Mosamiyat-Numaish contract will be awarded after the ‘notice period’. *[Dawn](https://www.dawn.com/news/1996176/no-new-contract-awarded-to-build-karachis-red-line-corridor-sindh-high-court-told)*
-- Firing from across the Afghan border injured five people in KP's South Waziristan. *[Dawn](https://www.dawn.com/news/1996135/firing-from-across-afghan-border-injures-5-in-kps-south-waziristan-security-sources)*
-- The PMDC directed institutions to implement mental health screening protocols amid an uptick in suicide cases. *[Dawn](https://www.dawn.com/news/1996106/pmdc-directs-institutions-to-implement-mental-health-screening-protocols-amid-uptick-in-suicide-cases)*
-- Interpol issued Red Notices for Malik Riaz and his son, according to NAB. *[Dawn](https://www.dawn.com/news/1996072/interpol-has-issued-red-notices-for-property-tycoon-malik-riaz-his-son-nab-chief)*
-- The CCP exposed a case of ‘cyber intrusion’ into the tax system. *[Business Recorder](https://www.brecorder.com/news/40418920/fto-exposes-case-of-cyber-intrusion-into-tax-system)*
+- Prime Minister Shehbaz Sharif extended the fuel subsidy for motorcyclists and public/goods transport by one month. *[Dawn](https://www.dawn.com/news/1996417/pm-shehbaz-extends-fuel-subsidy-for-motorcyclists-goods-transport-by-one-month)*
+- The government slashed passport delivery time to 14 days and ordered all passport offices to go cashless within 15 days. *[Dawn](https://www.dawn.com/news/1996397/govt-slashes-passport-delivery-time-to-14-days-orders-offices-to-go-cashless)*
+- Newly transferred Justices Sattar and Kayani will begin hearing cases at the PHC and LHC, respectively. *[Dawn](https://www.dawn.com/news/1996423/freshly-transferred-justices-sattar-kayani-to-hear-cases-at-phc-lhc-from-coming-week)*
+- Pakistan is in contact with the Somali government over the hostage crisis involving Pakistani sailors. *[Dawn](https://www.dawn.com/news/1996386/pakistan-in-contact-with-somalia-over-sailors-held-hostage-by-pirates-fo)*
+- The commissioning ceremony of PNS Hangor, Pakistan Navy’s first Hangor-class attack submarine, was held in China. *[Dawn](https://www.dawn.com/news/1996362/commissioning-ceremony-of-pakistan-navys-first-hangor-class-attack-submarine-held-in-china)*
+- NAB secured the transfer of 6,500 kanal of amenity and public utility land to the CDA. *[ARY](https://arynews.tv/nab-secures-public-utility-land-transfers)*
+- Hydropower generation hit 6,000MW, easing power supply pressures. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/hydropower-generation-hits-6000mw-easing-power-supply-pressures)*
+- Pakistan launched its first export consignment to Kyrgyzstan via land route. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-launches-first-export-consignment-to-kyrgyzstan-via-land-route)*
 
 ### International
-- The US will refuse visas to applicants who express fear of returning home. *[Dawn](https://www.dawn.com/news/1996212/us-to-refuse-visa-to-applicants-who-fear-returning-home)*
-- Two Jewish men were stabbed in a “terrorist” attack in London. *[Dawn](https://www.dawn.com/news/1996120/2-jewish-men-stabbed-in-terrorist-attack-in-london)*
-- Sri Lanka’s government took over the cricket board. *[Dawn](https://www.dawn.com/news/1996089/sri-lanka-govt-temporarily-takes-over-cricket-board)*
-- King Charles met with New York Mayor Zohran Mamdani, who encouraged him to return the Koh-i-Noor Diamond. *[ARY](https://arynews.tv/king-charles-comes-face-to-face-with-zohran-mamdani-in-nyc-after-his-koh-i-noor-demand)* & *[Business Recorder](https://www.brecorder.com/news/40418977/new-york-mayor-mamdani-encourages-king-charles-to-return-koh-i-noor-diamond)*
-- Trump is reviewing a potential reduction of US troops in Germany. *[ARY](https://arynews.tv/donald-trump-us-is-reviewing-reduction-of-its-troops-in-germany)*
+- Iran’s Supreme Leader Ayatollah Mojtaba Khamenei defied a US naval blockade, rejecting warnings from President Trump. *[Dawn](https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade)*
+- Israel “kidnapped” 211 activists from a Gaza-bound aid flotilla. *[Dawn](https://www.dawn.com/news/1996359/gaza-flotilla-organisers-say-211-activists-kidnapped-by-israel)*
+- Iran threatened a “painful response” if the US resumes attacks. *[Business Recorder](https://www.brecorder.com/news/40419045/iran-threatens-painful-response-if-us-resumes-attacks-oil-prices-seesaw)*
 
 ### Sports
-- No significant sports news beyond the Sri Lanka cricket board takeover.
+- Kumar Sangakkara named in Sri Lanka Cricket Transformation Committee. *[ARY](https://arynews.tv/kumar-sangakkara-named-in-sri-lanka-cricket-transformation-committee)*
+- Kobbie Mainoo signed a new contract with Manchester United until 2031. *[Business Recorder](https://www.brecorder.com/news/40419025/mainoo-signs-new-man-united-deal-until-2031)*
 
 ### Health
-- The CDL Karachi achieved WHO prequalification, elevating Pakistan’s pharmaceutical testing capabilities. *[Dawn](https://www.dawn.com/news/1996211/drap-lab-in-karachi-achieves-who-prequalification-ministry-says)* & *[Business Recorder](https://www.brecorder.com/news/40418947/cdl-karachi-gets-who-prequalification)*
-- The Healthcare Devices Association of Pakistan expressed concern over illegal syringes spreading HIV and hepatitis. *[Dawn](https://www.dawn.com/news/1996227/healthcare-devices-association-of-pakistan-alarmed-by-illegal-syringes-spreading-hiv-and-hepatitis)*
+- No relevant news in provided articles.
 
 ### Other
-- An Emirati telecom giant is considering exiting the Pakistan Telecommunication Company Ltd (PTCL). *[Dawn](https://www.dawn.com/news/1996250/emirati-telecom-giant-mulling-exit)*
-- Pakistan has banned imports linked to forced labour. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-bans-imports-linked-to-forced-labour-under)*
-- Several articles from ARY News cover lifestyle topics like AC maintenance, public speaking tips, gaming tips, WhatsApp security, and hair growth tips. *[ARY](https://arynews.tv/ac-explosion-main-causes-tips-to-prevent-it)*, *[ARY](https://arynews.tv/public-speaking-tips-for-beginners)*, *[ARY](https://arynews.tv/tips-pubg-gaming-capabilities)*, *[ARY](https://arynews.tv/seven-whatsapp-security-tips-that-you-must-know-to-stay-safe)*, *[ARY](https://arynews.tv/five-simple-hair-growth-tips-for-hair-long-and-healthy-hair)*, *[ARY](https://arynews.tv/energy-saving-tips-to-run-air-conditioner-during-summer)*
-- An Indian man took his sister’s exhumed body to a bank to prove she was dead. *[Business Recorder](https://www.brecorder.com/news/40418954/indian-man-takes-sisters-exhumed-body-to-bank-for-withdrawal)*
-- A Chinese J-10 fighter jet maker reported record sales and profit after the Pakistan-India clash. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/chinese-j-10-fighter-jets-maker-reports-record-sales-profit-after-pakistan-india-clash-report)*
-- The US backs a $2.4 billion airport security investment proposal for Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/us-backs-2-4-billion-airport-security-investment-proposal-for-pakistan)*
+- Sindh education department to introduce religious textbooks for Hindu students. *[Dawn](https://www.dawn.com/news/1996378/sindh-education-department-to-introduce-religious-textbooks-for-hindu-students)*
+- Imaan Mazari-Hazir and Hadi Ali Chattha approached the SC seeking an early hearing of their appeals in the social media posts case. *[Dawn](https://www.dawn.com/news/1996394/imaan-hadi-approach-sc-seeking-early-hearing-of-appeals-against-conviction-in-social-media-posts-case)*
+- Lahore court granted interim pre-arrest bail to PM Shehbaz Sharif’s daughter and son-in-law in the Saaf Pani case. *[Dawn](https://www.dawn.com/news/1996387/lahore-court-grants-interim-pre-arrest-bail-to-pms-daughter-son-in-law-in-saaf-pani-case)*
+- New York City Mayor called on King Charles to return the Koh-i-Noor diamond. *[Dawn](https://www.dawn.com/news/1996333/mamdani-calls-on-king-charles-to-return-koh-i-noor-diamond)*
+- Eid al-Adha 2026 is likely to be observed on a specific date in Pakistan. *[ARY](https://arynews.tv/eid-al-adha-2026-expected-date-in-pakistan)*
+- Resident Evil returns with a chilling first trailer. *[ARY](https://arynews.tv/resident-evil-trailer-released-by-zach-cregger)*
+- ‘Mission: Impossible’ star Ving Rhames discharged after tragic incident. *[ARY](https://arynews.tv/mission-impossible-star-ving-rhames-discharged-after-tragic-incident)*
+- MrBeast pocketed a large sum for his Survivor 50 cameo. *[ARY](https://arynews.tv/mrbeast-pocketed-a-whopping-sum-for-his-survivor-50-cameo)*
+- UAE Petrol Prices for May 2026 announced. *[ARY](https://arynews.tv/uae-petrol-prices-for-may-2026)*
+- Currency Rates in Pakistan remained stable as the month ended. *[ARY](https://arynews.tv/currency-rates-in-pakistan-today-april-30-2026)*
+- Petrol price may see a huge reduction worldwide. *[ARY](https://arynews.tv/petrol-price-may-see-huge-reduction-worldwide)*
+- Dubai property visa guide 2026 released. *[ARY](https://arynews.tv/dubai-property-visa-guide-2026)*
 
