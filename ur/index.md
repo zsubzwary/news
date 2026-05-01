@@ -7,144 +7,85 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-Apr-2026 21:07PKT 
+ &lrm; 01-May-2026 09:06PKT 
 
-پڑھنے کا وقت : 14 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-- وزیراعظم شہباز شریف نے موٹر سائیکل سواروں اور مال بردار ٹرانسپورٹ کے لیے ایندھن سبسڈی ایک ماہ کے لیے بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/1996417/pm-shehbaz-extends-fuel-subsidy-for-motorcyclists-goods-transport-by-one-month)*
-- عارف حبیب کے زیر قیادت کنسورشیم نے پی آئی اے کی باقی ماندہ 25 فیصد حصصہ حاصل کرنے کے ارادے کے بارے میں نجکاری کمیشن کو مطلع کیا ہے۔ اس سودے سے تقریباً 180 ارب روپے کی سرمایہ کاری متوقع ہے۔ *[Dawn](https://www.dawn.com/news/1996427/arif-habib-led-consortium-notifies-privatisation-commission-of-its-intent-to-acquire-remaining-25pc-pia-stake)*
-- وزارت خزانہ نے عالمی عدم یقینی صورتحال کے پیش نظر پاکستان کے بیرونی شعبے کو خطرات لاحق ہونے کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/1996416/finance-ministry-flags-risk-to-pakistans-external-sector-amid-global-uncertainty)*
-- اسٹیٹ بینک آف پاکستان کے ریزرو 730 ملین ڈالر بڑھ کر 15.8 بلین ڈالر ہوگئے۔ *[Business Recorder](https://www.brecorder.com/news/40419041/sbp-reserves-rise-by-730mln-to-158bln)*
-- حکومت نے ٹی بلز کی نیلامی میں 1.339 ٹریلین روپے جمع کیے، SBP کی شرح سود میں اضافے کے بعد پیداوار میں اضافہ ہوا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/govt-raises-rs1-339-trillion-in-t-bill-auction-as-yields-climb-after-sbp-rate-hike)*
-- پاکستان کی ای کامرس صنعت ادائیگی کی کارکردگی کی وجہ سے سالانہ 1.61 بلین ڈالر کا نقصان اٹھا رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-e-commerce-sector-loses-1-61-billion-annually-due-to-payment-inefficiencies-report)*
+- ایندھن کی قیمتوں میں اضافہ، پٹرول 400 روپے فی لیٹر تک پہنچ گیا، آئی ایم ایف سے اتفاق کے بعد حکومت نے قیمتوں میں اضافہ کیا *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
+- وزیراعظم نے موٹر سائیکل سواروں اور ٹرانسپورٹ سیکٹر کے لیے ایندھن سبسڈی ایک ماہ کے لیے بڑھا دی *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
+- پاکستان پٹرولیم لیوی کے 1.47 ٹریلین روپے کے ہدف کو حاصل کرنے کے راستے پر ہے *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
+- مشرق وسطیٰ کے بحران سے 10 سے 68 ارب ڈالر تک کے نقصان کا امکان، قومی اسمبلی کمیٹی کو بتایا گیا *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
+- عارف حبیب کے زیر قیادت کنسورشیم نے پی آئی اے میں باقی 25 فیصد حصص حاصل کرنے کے ارادے کا اظہار کیا ہے، مجموعی سرمایہ کاری تقریباً 180 ارب روپے ہوگی *[Dawn](https://www.dawn.com/news/1996427/arif-habib-led-consortium-notifies-privatisation-commission-of-its-intent-to-acquire-remaining-25pc-pia-stake)*۔
+- مالیاتی وزارت نے عالمی عدم یقینی صورتحال کے پیش نظر پاکستان کے بیرونی شعبے کے خطرات کی نشاندہی کی ہے *[Dawn](https://www.dawn.com/news/1996416/finance-ministry-flags-risk-to-pakistans-external-sector-amid-global-uncertainty)*۔
+- حکومت نے ہائی سپیڈ ڈیزل کی قیمت میں 19.39 روپے فی لیٹر اور پٹرول کی قیمت میں 6.51 روپے فی لیٹر کا اضافہ کیا ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/govt-jacks-up-hsd-by-rs19-39-l-petrol-nears-rs400-mark/)*۔
+- پاکستان کے فارن ایکسچینج ریزرو میں 730 ملین ڈالر کا اضافہ، ایس بی پی کے ہولڈنگز یورو بانڈ کی وصولی سے بڑھے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-fx-reserves-rise-sbp-holdings-up-730m-on-eurobond-proceeds/)*۔
+- این ای پی آر اے نے ایم ای پی سی او کے پانچ سالہ سرمایہ کاری منصوبے کو 86 ارب روپے سے کم کرکے 35 ارب روپے کر دیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/nepra-cuts-mepco-five-year-investment-plan-from-rs86-billion-to-rs35-billion/)*۔
 
 ## سائنس اور ٹیکنالوجی
 
-- کیمبرج نے AS لیول کے ریاضی کے امتحان کے لیک ہونے کی تصدیق کی ہے اور اگلے اقدامات کا تعین کرنے پر کام کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/1996400/cambridge-confirms-as-level-math-exam-leak-says-working-on-determining-next-steps)*
-- ایمیزون نے متحدہ عرب امارات (یو اے ای) میں اپنے متاثرہ کلاؤڈ ریجن کی بحالی میں کئی ماہ لگنے کا کہا ہے۔ *[Dawn](https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months)*
+- پاکستان کی پہلی ڈرگ ٹیسٹنگ لیبارٹری کو ڈبلیو ایچ او کی پیش منظوری ملی *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-drug-testing-lab-gets-who-prequalification/)*۔
+- وزیراعظم نے مصنوعی ذہانت، روبوٹکس اور بلاکچین میں سرمایہ کاری بڑھانے کی اپیل کی *[Business Recorder](https://www.brecorder.com/news/40419116/investment-sought-in-ai-robotics-amp-blockchain)*۔
+- ایمیزون کا کہنا ہے کہ متحدہ عرب امارات میں واقع کلاؤڈ ریجن کو بحال کرنے میں کئی ماہ لگیں گے *[Dawn](https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months)*۔
 
 ## موسم
 
-- (کوئی خبر نہیں)
+-کراچی میں گرمی کی شدت سے بچنے کے لیے تجاویز *[ARY](https://arynews.tv/heatwave-preventive-measures-karachi-viral)*۔
 
 ## سیاست
 
-- وزیراعظم شہباز شریف نے پی ٹی آئی رہنماؤں کے اڈیالہ جیل کے دورے کو دو ہفتوں کے وقفے کے بعد بحال کر دیا۔ *[Dawn](https://www.dawn.com/news/1996425/pti-leaders-turn-up-for-adiala-jail-visit-following-2-week-gap)*
-- لاہور ہائی کورٹ نے وزیراعظم کی بیٹی رابعہ عمران اور داماد علی عمران یوسف کو صاف پانی کے کیس میں عبوری قبل از گرفتاری ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/1996387/lahore-court-grants-interim-pre-arrest-bail-to-pms-daughter-son-in-law-in-saaf-pani-case)*
-- لاہور بار ایسوسی ایشن نے IHC ججوں کے تبادلے کے بعد 27ویں ترمیم کے خلاف سپریم کورٹ میں درخواست دائر کی۔ *[Dawn](https://www.dawn.com/news/1996370/lahore-bar-association-moves-sc-against-27th-amendment-following-transfer-of-ihc-judges)*
-- سابق وزیراعظم عمران خان کی قانونی ٹیم نے انسانی بنیادوں پر ان کی رہائی کے لیے IHC سے درخواست کی، ان کی طویل تنہائی اور آنکھوں کے انفیکشن کا حوالہ دیا۔ *[Dawn](https://www.dawn.com/news/1996371/lawyer-seeks-imrans-release-on-humanitarian-grounds-as-ihc-hears-appeals-in-190m-graft-reference)*
-- انسانی حقوق کے وکیل ایمان مزاری اور ان کے شوہر ہادی علی چتھا نے پییکا کے تحت سزاؤں کے خلاف اپیلوں کی جلد سماعت کے لیے سپریم کورٹ سے رجوع کیا۔ *[Dawn](https://www.dawn.com/news/1996394/imaan-hadi-approach-sc-seeking-early-hearing-of-appeals-against-conviction-in-social-media-posts-case)*
+- سابق صدر ٹرمپ کے ممکنہ طور پر نوبل امن انعام کے لیے 287 امیدواروں میں شامل ہونے کا امکان *[Dawn](https://www.dawn.com/news/1996525/trump-likely-among-287-candidates-for-nobel-peace-prize)*۔
+- وزیراعظم نے موٹر سائیکل سواروں اور گڈز ٹرانسپورٹ کے لیے ایندھن سبسڈی ایک ماہ کے لیے بڑھا دی *[Dawn](https://www.dawn.com/news/1996417/pm-shehbaz-extends-fuel-subsidy-for-motorcyclists-goods-transport-by-one-month)*۔
+- پی ٹی آئی رہنماؤں نے اڈیالہ جیل کا دورہ کیا، لیکن سابق وزیراعظم عمران خان سے ملاقات کی اجازت نہیں دی گئی *[Dawn](https://www.dawn.com/news/1996425/pti-leaders-turn-up-for-adiala-jail-visit-following-2-week-gap)*۔
+- این اے بی نے دو ہاؤسنگ سوسائٹیوں سے 6500 کنال کی اراضی سی ڈی اے کو منتقل کرادی *[Dawn](https://www.dawn.com/news/1996478/nab-transfers-6500-kanals-of-amenity-plots-from-housing-societies-to-capital-development-authority)*۔
+- سینیٹ کی کمیٹی نے ٹیلی کام نیٹ ورک کے تعطل کی تحقیقات کا حکم دیا *[Business Recorder](https://www.brecorder.com/news/40419120/senate-body-orders-probe-into-telecom-network-outages)*۔
+- صوبائی وزیر اطلاعات عظمیٰ بخاری نے اعلان کیا کہ پنجاب میں کوئی "نو گو ایریا" نہیں ہوگا *[Business Recorder](https://www.brecorder.com/news/40419080/azma-says-there-will-be-no-no-go-areas-in-punjab)*۔
 
 ## قومی
 
-- تازہ تبادلوں کے بعد جسٹس ستار اور کیانی اگلے ہفتے سے PHC اور LHC میں مقدمات سنیں گے۔ *[Dawn](https://www.dawn.com/news/1996423/freshly-transferred-justices-sattar-kayani-to-hear-cases-at-phc-lhc-from-coming-week)*
-- حکومت نے پاسپورٹ کی ترسیل کا وقت 21 دنوں سے کم کرکے 14 دن کر دیا ہے اور تمام پاسپورٹ دفاتر کو 15 دنوں کے اندر کیش لیس ہونے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/1996397/govt-slashes-passport-delivery-time-to-14-days-orders-offices-to-go-cashless)*
-- سندھ محکمہ تعلیم ہندو طلباء کے لیے مذہبی نصابی کتب متعارف کرانے والا ہے۔ *[Dawn](https://www.dawn.com/news/1996378/sindh-education-department-to-introduce-religious-textbooks-for-hindu-students)*
-- وزیراعظم شہباز شریف نے "اپنا گھر" پروگرام کا آغاز کیا، جس کے تحت آسان اقساط پر 10 ملین روپے کے ہاؤسنگ لون دیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/1996372/pm-shehbaz-launches-rs10m-housing-loans-under-rs32tr-apna-ghar-programme)*
-- پاکستان نیوی کی پہلی ہنگور کلاس اٹیک سب میرین کی کمیشننگ کی تقریب چین میں منعقد ہوئی۔ *[Dawn](https://www.dawn.com/news/1996362/commissioning-ceremony-of-pakistan-navys-first-hangor-class-attack-submarine-held-in-china)*
-- این اے بی نے سی ڈی اے کو 6,500 کنال کی سہولت اور عوامی فلاحی اراضی کی منتقلی کو یقینی بنائی۔ *[ARY](https://arynews.tv/nab-secures-public-utility-land-transfers)*
-- پاکستان اور صومالیہ ساحلی قزاقوں کے ہاتھوں اغوا کیے گئے پاکستانی ملاحوں کے معاملے پر رابطے میں ہیں۔ *[Dawn](https://www.dawn.com/news/1996386/pakistan-in-contact-with-somalia-over-sailors-held-hostage-by-pirates-fo)*
+- اسلام آباد ہائی کورٹ نے ون کانسٹیٹوشن ایونیو کے لیز کو منسوخ کرنے کا سی ڈی اے کا فیصلہ برقرار رکھا *[Dawn](https://www.dawn.com/news/1996486/ihc-upholds-capital-development-authoritys-decision-of-canceling-one-constitution-avenue-lease)*۔
+- خیبر پختونخوا کے وزیر اعلیٰ نے ڈرون حملوں میں ہونے والے نقصان کے خلاف قانون سازی کرنے کا اشارہ دیا *[Dawn](https://www.dawn.com/news/1996445/kp-cm-afridi-hints-at-legislation-against-collateral-damage-in-drone-strikes)*۔
+- پاک-افغان سرحد پر دہشت گردوں کی گھسपैٹھ کی کوشش ناکام، 13 دہشت گرد ہلاک *[Dawn](https://www.dawn.com/news/1996454/13-terrorists-killed-as-bids-to-infiltrate-pak-afghan-border-in-kp-foiled-ispr)*۔
+- این اے بی نے 6500 کنال کی اراضی سی ڈی اے کو منتقل کردی *[Business Recorder](https://www.brecorder.com/news/40419122/thousands-of-kanal-of-amenity-public-utility-land-transferred-to-cda-nab)*۔
+- پنجاب حکومت نے کچا ایریا کے لیے 23 ارب روپے کا پیکیج کا اعلان کیا *[Business Recorder](https://www.brecorder.com/news/40419078/cm-punjab-announces-rs23bn-package-for-katcha-areas)*۔
+- پنجاب اسمبلی میں گندم کی خریداری میں ناکامی پر شدید بحث ہوئی *[Business Recorder](https://www.brecorder.com/news/40419079/wheat-procurement-failures-punjab-pa-session-sees-heated-debate)*۔
 
 ## بین الاقوامی
 
-- ایران کے سپریم لیڈر آیت اللہ موجتبی خامینی نے امریکہ کے بحری محاصرے کو چیلنج کیا۔ *[Dawn](https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade)*
-- غزہ کے لیے جانے والے ایک امدادی بیڑے کے منتظمین نے کہا کہ اسرائیل نے بین الاقوامی پانیوں میں 211 کارکنوں کو "اغوا" کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/1996359/gaza-flotilla-organisers-say-211-activists-kidnapped-by-israel)*
-- امریکہ ایران کے خلاف فوجی کارروائی پر غور کر رہا ہے، جس سے تیل کی قیمتیں متاثر ہو سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419045/iran-threatens-painful-response-if-us-resumes-attacks-oil-prices-seesaw)*
-- انڈیا کے سابق وزیر اعظم نے ایران پر تنقید کی۔ *[Business Recorder](https://www.brecorder.com/news/40419033/trump-in-fresh-attack-on-germanys-merz-over-iran)*
+- اقوام متحدہ کے سربراہ نے ہرمز کی بندش کو عالمی معیشت کو "گلا گھونٹنے" کے مترادف قرار دیا *[Dawn](https://www.dawn.com/news/1996527/un-chief-warns-hormuz-closure-strangling-global-economy)*۔
+- ایران کے سپریم لیڈر نے امریکہ کے بحری محاصرے کو مسترد کردیا *[Dawn](https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade)*۔
+- پاکستان اور 10 دیگر ممالک نے غزہ کے لیے امدادی بحری جہاز پر اسرائیلی حملے کی مذمت کی *[Dawn](https://www.dawn.com/news/1996359/pakistan-10-other-nations-condemn-israeli-assault-on-gaza-aid-flotilla-unlawful-detention-of-activists)*۔
 
 ## کھیل
 
-- کمار سنگاکارا کو سری لنکا کرکٹ ٹرانسفارمیشن کمیٹی میں نامزد کیا گیا۔ *[ARY](https://arynews.tv/kumar-sangakkara-named-in-sri-lanka-cricket-transformation-committee)*
-- میناو نے 2031 تک مانچسٹر یونائیٹڈ کے ساتھ نیا معاہدہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40419025/mainoo-signs-new-man-united-deal-until-2031)*
+- ایک مائن کرافٹ فلم: ایک بلند، افراتفری والا میس جو کوشش تک نہیں کرتا *[ARY](https://arynews.tv/a-minecraft-movie-2025-review)*۔
+- فیوز مووی ریویو: ایک پرجوش ہیسٹ تھرلر جو جنگ کے موڑ پر ہے *[ARY](https://arynews.tv/fuze-movie-review-a-tense-heist-thriller-with-a-war-twist)*۔
 
 ## صحت
 
-- (کوئی خبر نہیں)
+- وٹامنز اور او میگا 3 سپلیمنٹس آٹزم کے علامات کو بہتر بنا سکتے ہیں *[ARY](https://arynews.tv/vitamin-supplements-autism-symptoms)*۔
+- بچے میں آٹزم کے پانچ نشانات *[ARY](https://arynews.tv/autism-five-signs-in-children)*۔
+- 2.7 ملین سے زیادہ بچے زیر 5 سال شدید malnutrition کا شکار *[Business Recorder](https://www.brecorder.com/news/40419117/over-27m-children-under-five-facing-acute-malnutrition)*۔
 
 ## دیگر
 
-- میئر زہران مامدانی نے بادشاہ چارلس سے کوہ نور ہیرے کی واپسی کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1996333/mamdani-calls-on-king-charles-to-return-koh-i-noor-diamond)*
-- متحدہ عرب امارات میں پٹرول کی قیمتیں مئی 2026 کے لیے جاری کر دی گئیں۔ *[ARY](https://arynews.tv/uae-petrol-prices-for-may-2026)*
-- روپے کے مقابلے میں ڈالر کی شرح میں استحکام رہا۔ *[ARY](https://arynews.tv/currency-rates-in-pakistan-today-april-30-2026)*
-- دنیا بھر میں پٹرول کی قیمتوں میں کمی آنے کا امکان ہے۔ *[ARY](https://arynews.tv/petrol-price-may-see-huge-reduction-worldwide)*
-- عید الاضحیٰ 2026 پاکستان میں ممکنہ طور پر اس تاریخ کو منائی جائے گی۔ *[ARY](https://arynews.tv/eid-al-adha-2026-expected-date-in-pakistan)*
-- ریذیڈنٹ ایول کا چِلنگ پہلا ٹریلر ڈائریکٹر زیک کریگر نے جاری کیا۔ *[ARY](https://arynews.tv/resident-evil-trailer-released-by-zach-cregger)*
-- مسٹر بیسٹ نے سروائیور 50 کیمیو کے لیے ایک بڑی رقم جیتی۔ *[ARY](https://arynews.tv/mrbeast-pocketed-a-whopping-sum-for-his-survivor-50-cameo)*
-- مشن: امپوسیبل کے اداکار ونگ ریمز کو ایک المناک حادثے کے بعد رہا کر دیا گیا۔ *[ARY](https://arynews.tv/mission-impossible-star-ving-rhames-discharged-after-tragic-incident)*
-- دبئی پراپرٹی ویزا گائیڈ 2026۔ *[ARY](https://arynews.tv/dubai-property-visa-guide-2026)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے سیمنٹ بنانے والے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419037/indian-cement-maker-accs-profit-falls-as-costs-squeeze-margins)*
-- انڈیا کے اڈانی پورٹس کی بنیادی آمدنی میں سست روی کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419028/indias-adani-ports-sees-slower-core-earnings-growth-for-fiscal-2027)*
-- انڈیا کے گودریج آگروویت کا منافع بنیادی کاروبار کی ترقی اور زمین کی فروخت سے حاصل ہونے والے فائدے کے باعث بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419039/indian-godrej-agrovet-profit-jumps-on-core-business-growth-land-sale-gain)*
-- انڈیا کے اے سی سی کا منافع لاگت کے دباؤ کے باعث کم
+- صحافیوں کو قانونی مشکلات سے بچنے کے لیے خود سنسر کرنے پر مجبور کیا جا رہا ہے *[Dawn](https://www.dawn.com/news/1996563/journalists-compelled-to-self-censor-to-avoid-legal-trouble)*۔
+- سانس پاکستان کانفرنس سرینا میں ہوگی *[Dawn](https://www.dawn.com/news/1996562/breathe-pakistan-conference-to-be-held-at-serena)*۔
+- حکومتی ناکامیوں کے باعث پاکستان کی ڈیزاسٹر ریسپانس کمزور، رپورٹ خبردار کرتی ہے *[Dawn](https://www.dawn.com/news/1996479/governance-gaps-weaken-pakistans-climate-disaster-response-report-warns)*۔
+- وائرل ویڈیو میں ایک خاتون سکوٹر پر برتن چوری کرتی ہوئی دکھائی دے رہی ہے *[ARY](https://arynews.tv/viral-video-shows-woman-on-scooter-stealing-potted-plant)*۔
+- ایک طالب علم نے سمندر کنارے UFO کی تصویر بنائی *[ARY](https://arynews.tv/ufo-captured-on-camera-seafront-student)*۔
+- ایک جوڑے نے اسکاٹ لینڈ میں UFO دیکھا، ویڈیو وائرل ہوگئی *[ARY](https://arynews.tv/couple-sights-ufo-in-scotland-video-goes-viral)*۔
+- ڈور بیل کیمرے نے فلوٹنگ "تہکامی UFO" کی تصویر لی *[ARY](https://arynews.tv/shocking-doorbell-camera-captures-floating-triangular-ufo)*۔
+- وائرل ویڈیو میں پیرا گلائڈنگ ایکٹ خوفناک طریقے سے غلط ہو گیا *[ARY](https://arynews.tv/viral-video-paragliding-act-going-horribly-wrong)*۔
+- پاکستان، ایران اور امریکہ کے درمیان تنازع کو حل کرنے کے لیے فعال طور پر مصروف عمل ہیں: دفتر خارجہ *[Dawn](https://www.dawn.com/news/1996386/clock-on-diplomacy-has-not-stopped-fo-says-pakistan-remains-actively-engaged-with-iran-us-to-resolve-conflict)*۔
+- پاکستان نے صومالیہ اور کمبوڈیا کی حکومتوں کے ساتھ اپنے شہریوں کی رہائی کے لیے رابطہ قائم کر رکھا ہے *[Business Recorder](https://www.brecorder.com/news/40419111/release-of-nationals-actively-engaged-with-somalia-cambodia-govts-fo)*۔
+- ڈپٹی وزیراعظم اور وزیر خارجہ نے یورپی یونین کے نائب صدر سے بات کی *[Business Recorder](https://www.brecorder.com/news/40419113/dar-eu-vp-talk-on-phone)*۔
+- ڈپٹی وزیراعظم نے طبی اور دندان سازی اداروں میں شفافیت اور تعلیم کے معیار کو بڑھانے پر زور دیا *[Business Recorder](https://www.brecorder.com/news/40419112/medical-dentistry-institutions-dar-for-enhancing-transparency-education-quality)*۔
+- پاکستان اور چین نے آب و ہوا کی معیشت پر بات کی *[Business Recorder](https://www.brecorder.com/news/40419118/pakistan-china-talk-climate-economy)*۔
+- آسٹریائی سفیر نے پاکستان کو عالمی امن قائم کرنے والا قرار دیا *[Business Recorder](https://www.brecorder.com/news/40419081/austrian-envoy-hails-pakistan-as-a-global-peacemaker)*۔
+- پنجاب فوڈ اتھارٹی نے فوڈ فراڈ نیٹ ورک کا بھانڈا پھوڑ دیا *[Business Recorder](https://www.brecorder.com/news/40419082/pfa-busts-food-fraud-network)*۔
+- آسٹریائی سفیر اور این جی سی کے ایم ڈی نے توانائی شراکت پر تبادلہ خیال کیا *[Business Recorder](https://www.brecorder.com/news/40419083/austrian-ambassador-amp-ngc-md-discuss-energy-partnership)*۔
+- صوبائی وزیر صحت خواجہ سلمان رفیق نے کہا کہ مفت کینسر علاج اولین ترجیح ہے *[Business Recorder](https://www.brecorder.com/news/40419084/free-cancer-treatment-top-priority-kh-salman)*۔
+- تربیلا 5ویں توسیع ایچ پی پی کاربن مارکیٹ رجسٹریشن کی جانب بڑھ رہی ہے *[Business Recorder](https://www.brecorder.com/news/40419085/tarbela-5th-extension-hpp-advances-towards-carbon-market-registration)*۔
 
