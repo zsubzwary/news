@@ -7,85 +7,88 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-May-2026 09:06PKT 
+ &lrm; 01-May-2026 21:06PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 7 منٹ 
 
 ## معیشت
 
-- ایندھن کی قیمتوں میں اضافہ، پٹرول 400 روپے فی لیٹر تک پہنچ گیا، آئی ایم ایف سے اتفاق کے بعد حکومت نے قیمتوں میں اضافہ کیا *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
-- وزیراعظم نے موٹر سائیکل سواروں اور ٹرانسپورٹ سیکٹر کے لیے ایندھن سبسڈی ایک ماہ کے لیے بڑھا دی *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
-- پاکستان پٹرولیم لیوی کے 1.47 ٹریلین روپے کے ہدف کو حاصل کرنے کے راستے پر ہے *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
-- مشرق وسطیٰ کے بحران سے 10 سے 68 ارب ڈالر تک کے نقصان کا امکان، قومی اسمبلی کمیٹی کو بتایا گیا *[Dawn](https://www.dawn.com/news/1996570/fuel-hits-rs400-per-litre-as-govt-passes-on-global-impact)*۔
-- عارف حبیب کے زیر قیادت کنسورشیم نے پی آئی اے میں باقی 25 فیصد حصص حاصل کرنے کے ارادے کا اظہار کیا ہے، مجموعی سرمایہ کاری تقریباً 180 ارب روپے ہوگی *[Dawn](https://www.dawn.com/news/1996427/arif-habib-led-consortium-notifies-privatisation-commission-of-its-intent-to-acquire-remaining-25pc-pia-stake)*۔
-- مالیاتی وزارت نے عالمی عدم یقینی صورتحال کے پیش نظر پاکستان کے بیرونی شعبے کے خطرات کی نشاندہی کی ہے *[Dawn](https://www.dawn.com/news/1996416/finance-ministry-flags-risk-to-pakistans-external-sector-amid-global-uncertainty)*۔
-- حکومت نے ہائی سپیڈ ڈیزل کی قیمت میں 19.39 روپے فی لیٹر اور پٹرول کی قیمت میں 6.51 روپے فی لیٹر کا اضافہ کیا ہے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/govt-jacks-up-hsd-by-rs19-39-l-petrol-nears-rs400-mark/)*۔
-- پاکستان کے فارن ایکسچینج ریزرو میں 730 ملین ڈالر کا اضافہ، ایس بی پی کے ہولڈنگز یورو بانڈ کی وصولی سے بڑھے *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-fx-reserves-rise-sbp-holdings-up-730m-on-eurobond-proceeds/)*۔
-- این ای پی آر اے نے ایم ای پی سی او کے پانچ سالہ سرمایہ کاری منصوبے کو 86 ارب روپے سے کم کرکے 35 ارب روپے کر دیا *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/nepra-cuts-mepco-five-year-investment-plan-from-rs86-billion-to-rs35-billion/)*۔
+- وزیراعظم شہباز شریف نے ورچوئل اثاثوں کے لیے ایک مؤثر ریگولیٹری نظام کو جلد از جلد فعال کرنے کی ہدایت جاری کی ہے۔ *[Dawn](https://www.dawn.com/news/1996695/pm-shehbaz-says-regulatory-system-for-virtual-assets-should-be-operationalised-at-the-earliest)*
+- امریکہ میں تیل کی فراہمی میں کمی کے باعث بھارت نے تجارتی ایل پی جی اور جیٹ ایندھن کی قیمتوں میں اضافہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1996683/india-raises-cooking-gas-jet-fuel-prices-as-supply-pressures-mount)*
+- امریکہ میں گیس کی فراوانی ہے لیکن اسے لے جانے کا کوئی راستہ نہیں ہے، جبکہ ایشیا اور یورپ قدرتی گیس کے لیے جدوجہد کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1996684/while-asia-and-europe-scramble-for-natural-gas-the-us-glut-has-nowhere-to-go)*
+- پاکستان میں اپریل 2026 میں دہشت گردی کے واقعات میں نمایاں کمی ریکارڈ کی گئی، جو کہ گزشتہ ماہ کے مقابلے میں 42 فیصد کم ہے۔ *[Dawn](https://www.dawn.com/news/1996670/pakistan-sees-decline-in-militant-violence-for-2nd-straight-month-picss)*
+- بجلی کے وزیر نے ایل این جی کی کھیپ کی آمد کے بعد ایک ماہ سے جاری لوڈ شیڈنگ کے خاتمے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1996657/power-minister-declares-end-to-month-long-loadshedding-following-arrival-of-lng-shipment)*
+- پاکستان کی معیشت کے لیے جنوبی کوریا کے ساتھ جامع اقتصادی شراکت داری معاہدے (سی ای پی اے) پر بات چیت میں تیزی لانے پر اتفاق ہوا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistan-south-korea-agree-to-speed-up-cepa-talks-amid-renewed-trade-push/)*
+- پی ایس ایکس کے مستقبل کا انحصار سیاسی صورتحال، آئی ایم ایف کے فیصلے اور بجٹ کے اشارے پر ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/psx-outlook-hinges-on-geopolitics-imf-decision-and-budget-cues-report/)*
+- پاکستان نے امریکہ کی تحقیقات میں اپنی تجارتی عمل داری کا دفاع کیا ہے، جو کہ زبردستی مزدوری سے متعلق درآمدات پر ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistan-defends-trade-practices-in-us-probe-on-forced-labour-imports-report/)*
+- پاکستان میں اپریل 2026 میں مہنگائی کی شرح دوبارہ دوہرے ہندسوں میں پہنچ گئی، جو 10.9 فیصد ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40419167/pakistan-inflation-returns-to-double-digits-at-109-in-april-2026)*
 
 ## سائنس اور ٹیکنالوجی
 
-- پاکستان کی پہلی ڈرگ ٹیسٹنگ لیبارٹری کو ڈبلیو ایچ او کی پیش منظوری ملی *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/04/30/pakistan-drug-testing-lab-gets-who-prequalification/)*۔
-- وزیراعظم نے مصنوعی ذہانت، روبوٹکس اور بلاکچین میں سرمایہ کاری بڑھانے کی اپیل کی *[Business Recorder](https://www.brecorder.com/news/40419116/investment-sought-in-ai-robotics-amp-blockchain)*۔
-- ایمیزون کا کہنا ہے کہ متحدہ عرب امارات میں واقع کلاؤڈ ریجن کو بحال کرنے میں کئی ماہ لگیں گے *[Dawn](https://www.dawn.com/news/1996414/amazon-says-damaged-uae-cloud-region-recovery-to-take-several-months)*۔
+- پینٹاگون نے سات اے آئی کمپنیوں کے ساتھ معاہدے کیے ہیں تاکہ ان کی جدید صلاحیتوں کو محکمہ جنگ کے خفیہ نیٹ ورکس پر تعینات کیا جا سکے۔ این تھروپک اس معاہدے میں شامل نہیں ہے۔ *[Dawn](https://www.dawn.com/news/1996692/pentagon-reaches-agreements-with-top-ai-companies-but-not-anthropic)*
+- امریکی بحریہ ایرانی بارودی سرنگوں کا مقابلہ کرنے کے لیے اے آئی فرم ڈومینو سے مدد حاصل کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419176/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines)*
 
 ## موسم
 
--کراچی میں گرمی کی شدت سے بچنے کے لیے تجاویز *[ARY](https://arynews.tv/heatwave-preventive-measures-karachi-viral)*۔
+- پاکستان کے محکمہ موسمیات کے مطابق 2026 کے مون سون کے دوران جنوبی ایشیا میں ایل نینو کی صورتحال پیدا ہونے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1996647/el-nino-conditions-likely-to-develop-during-2026-monsoon-season-in-south-asia-pmd-says)*
 
 ## سیاست
 
-- سابق صدر ٹرمپ کے ممکنہ طور پر نوبل امن انعام کے لیے 287 امیدواروں میں شامل ہونے کا امکان *[Dawn](https://www.dawn.com/news/1996525/trump-likely-among-287-candidates-for-nobel-peace-prize)*۔
-- وزیراعظم نے موٹر سائیکل سواروں اور گڈز ٹرانسپورٹ کے لیے ایندھن سبسڈی ایک ماہ کے لیے بڑھا دی *[Dawn](https://www.dawn.com/news/1996417/pm-shehbaz-extends-fuel-subsidy-for-motorcyclists-goods-transport-by-one-month)*۔
-- پی ٹی آئی رہنماؤں نے اڈیالہ جیل کا دورہ کیا، لیکن سابق وزیراعظم عمران خان سے ملاقات کی اجازت نہیں دی گئی *[Dawn](https://www.dawn.com/news/1996425/pti-leaders-turn-up-for-adiala-jail-visit-following-2-week-gap)*۔
-- این اے بی نے دو ہاؤسنگ سوسائٹیوں سے 6500 کنال کی اراضی سی ڈی اے کو منتقل کرادی *[Dawn](https://www.dawn.com/news/1996478/nab-transfers-6500-kanals-of-amenity-plots-from-housing-societies-to-capital-development-authority)*۔
-- سینیٹ کی کمیٹی نے ٹیلی کام نیٹ ورک کے تعطل کی تحقیقات کا حکم دیا *[Business Recorder](https://www.brecorder.com/news/40419120/senate-body-orders-probe-into-telecom-network-outages)*۔
-- صوبائی وزیر اطلاعات عظمیٰ بخاری نے اعلان کیا کہ پنجاب میں کوئی "نو گو ایریا" نہیں ہوگا *[Business Recorder](https://www.brecorder.com/news/40419080/azma-says-there-will-be-no-no-go-areas-in-punjab)*۔
+- وزیراعظم شہباز شریف نے ون کانسٹیٹوشن ایونیو کیس کی تحقیقات کے لیے کمیٹی تشکیل دی اور حکام کو کوئی کارروائی کرنے سے روک دیا۔ *[Dawn](https://www.dawn.com/news/1996669/pm-forms-committee-to-review-one-constitution-avenue-case-halts-authorities-from-taking-action)*
+- صدر آصف علی زرداری اور وزیراعظم شہباز شریف نے بین الاقوامی مزدور دن کے موقع پر پاکستان کے مزدوروں کو خراج تحسین پیش کیا۔ *[Dawn](https://www.dawn.com/news/1996635/backbone-of-our-society-president-premier-pay-tribute-to-workers-of-pakistan-on-international-labour-day)*
+- بلوچستان حکومت نے گندم کی اسمگلنگ اور ذخیرہ اندوزی کو روکنے کے لیے سیکشن 144 نافذ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/balochistan-imposes-section-144-to-curb-wheat-smuggling-and-hoarding/)*
+- ایران نے امریکہ کے ساتھ مذاکرات کے لیے پاکستان کے ذریعے ایک نیا تجویز پیش کیا ہے۔ *[ARY](https://arynews.tv/iran-proposes-new-negotiations-with-the-us)*
 
 ## قومی
 
-- اسلام آباد ہائی کورٹ نے ون کانسٹیٹوشن ایونیو کے لیز کو منسوخ کرنے کا سی ڈی اے کا فیصلہ برقرار رکھا *[Dawn](https://www.dawn.com/news/1996486/ihc-upholds-capital-development-authoritys-decision-of-canceling-one-constitution-avenue-lease)*۔
-- خیبر پختونخوا کے وزیر اعلیٰ نے ڈرون حملوں میں ہونے والے نقصان کے خلاف قانون سازی کرنے کا اشارہ دیا *[Dawn](https://www.dawn.com/news/1996445/kp-cm-afridi-hints-at-legislation-against-collateral-damage-in-drone-strikes)*۔
-- پاک-افغان سرحد پر دہشت گردوں کی گھسपैٹھ کی کوشش ناکام، 13 دہشت گرد ہلاک *[Dawn](https://www.dawn.com/news/1996454/13-terrorists-killed-as-bids-to-infiltrate-pak-afghan-border-in-kp-foiled-ispr)*۔
-- این اے بی نے 6500 کنال کی اراضی سی ڈی اے کو منتقل کردی *[Business Recorder](https://www.brecorder.com/news/40419122/thousands-of-kanal-of-amenity-public-utility-land-transferred-to-cda-nab)*۔
-- پنجاب حکومت نے کچا ایریا کے لیے 23 ارب روپے کا پیکیج کا اعلان کیا *[Business Recorder](https://www.brecorder.com/news/40419078/cm-punjab-announces-rs23bn-package-for-katcha-areas)*۔
-- پنجاب اسمبلی میں گندم کی خریداری میں ناکامی پر شدید بحث ہوئی *[Business Recorder](https://www.brecorder.com/news/40419079/wheat-procurement-failures-punjab-pa-session-sees-heated-debate)*۔
+- پاکستان نے پولیو کے دو نئے کیسز کی تصدیق کی ہے، جس سے رواں سال کے کیسز کی مجموعی تعداد تین ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/1996654/pakistan-reports-two-polio-cases-tally-for-current-year-reaches-three)*
+- قبائلی سربراہوں کو دستاویزات کی تصدیق کرنے کا قانونی اختیار نہیں ہے، وفاقی آئینی عدالت کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/1996664/tribal-chiefs-lack-legal-authority-to-attest-documents-federal-constitutional-court-rules)*
+- پیٹرول اور ڈیزل کی قیمتوں میں اضافے کے خلاف وفاقی آئینی عدالت (ایف سی سی) میں درخواست دائر کی گئی۔ *[Dawn](https://www.dawn.com/news/1996676/fcc-moved-against-increase-in-petrol-diesel-prices)*
+- پنجاب حکومت نے اگلے سال بسنت کی تقریبات کے لیے نئے کائٹ اڑانے کے قوانین کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1996671/punjab-govt-announces-new-kite-flying-rules-for-next-years-basant-celebrations)*
+- پاکستان نیوی نے چین میں پہلی ہنگور کلاس سب میرین کمیشن کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistan-navy-commissions-first-hangor-class-submarine-in-china/)*
+- پاکستان پوسٹ نے جنگ کے باعث معطل ہونے کے بعد 188 مقامات پر بین الاقوامی آؤٹ باؤنڈ میل کی بکنگ بحال کر دی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistan-post-resumes-outbound-mail-to-188-destinations-after-war-disruption/)*
+- شمالی وزیرستان کے میرانشاہ میں قبائلی بزرگ کے قتل کے بعد جھڑپیں پھوٹ پڑیں۔ *[Dawn](https://www.dawn.com/news/1996648/clashes-break-out-in-miranshah-following-killing-of-tribal-elder)*
+- بنوں میں پولیس گاڑی پر راکٹ حملے میں ایک کانسٹیبل شہید ہوا۔ *[Dawn](https://www.dawn.com/news/1996631/constable-martyred-as-militants-launch-rocket-attack-on-armoured-police-vehicle-in-bannu)*
 
 ## بین الاقوامی
 
-- اقوام متحدہ کے سربراہ نے ہرمز کی بندش کو عالمی معیشت کو "گلا گھونٹنے" کے مترادف قرار دیا *[Dawn](https://www.dawn.com/news/1996527/un-chief-warns-hormuz-closure-strangling-global-economy)*۔
-- ایران کے سپریم لیڈر نے امریکہ کے بحری محاصرے کو مسترد کردیا *[Dawn](https://www.dawn.com/news/1996407/in-fresh-message-irans-supreme-leader-ayatollah-mojtaba-khamenei-defies-us-naval-blockade)*۔
-- پاکستان اور 10 دیگر ممالک نے غزہ کے لیے امدادی بحری جہاز پر اسرائیلی حملے کی مذمت کی *[Dawn](https://www.dawn.com/news/1996359/pakistan-10-other-nations-condemn-israeli-assault-on-gaza-aid-flotilla-unlawful-detention-of-activists)*۔
+- اسرائیلی فوج نے غزہ کے لیے جانے والے امدادی بحری جہازوں کو روک کر 100 سے زائد کارکنوں کو کریٹ لے گئی۔ *[Dawn](https://www.dawn.com/news/1996697/over-100-gaza-aid-flotilla-activists-taken-to-crete-after-israeli-interception)*
+- متحدہ عرب امارات نے کہا کہ ایران پر ہرمز کے حوالے سے اعتماد نہیں کیا جا سکتا، اور امن کی کوششیں تعطل کا شکار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419177/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-at-an-impasse)*
+- یوکرین کے ڈرون نے روسی بندرگاہ توپسے میں آگ لگا دی۔ *[Business Recorder](https://www.brecorder.com/news/40419170/ukrainian-drones-spark-new-blaze-at-russian-port-of-tuapse)*
+- ایران کی جنگ کے باعث متحدہ عرب امارات میں اجزاء کی دستیابی مشکل ہونے پر شیف مینیو کو چھوٹا کر رہے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/dubai-chefs-shrink-menus-as-iran-war-makes-ingredients-harder-to-source/)*
+- وینزویلا کے تیل کی برآمدات 2018 کے بعد سب سے زیادہ سطح پر پہنچ گئیں، امریکہ اور بھارت کو مزید فروخت کے ساتھ۔ *[Business Recorder](https://www.brecorder.com/news/40419183/venezuelas-oil-exports-jump-to-highest-since-2018-with-more-sales-to-us-india)*
 
 ## کھیل
 
-- ایک مائن کرافٹ فلم: ایک بلند، افراتفری والا میس جو کوشش تک نہیں کرتا *[ARY](https://arynews.tv/a-minecraft-movie-2025-review)*۔
-- فیوز مووی ریویو: ایک پرجوش ہیسٹ تھرلر جو جنگ کے موڑ پر ہے *[ARY](https://arynews.tv/fuze-movie-review-a-tense-heist-thriller-with-a-war-twist)*۔
+- پاکستان نے آئی سی سی مینز ٹیسٹ رینکنگ میں ترقی کی۔ *[ARY](https://arynews.tv/pakistan-move-up-in-latest-icc-mens-test-rankings)*
+- آرسنل کے آرٹیٹا نے کہا کہ ٹائٹل کی دوڑ کے جذبات کو قابو میں رکھنا ہوگا۔ *[ARY](https://arynews.tv/arsenal-must-manage-emotions-of-title-race-says-arteta)*
+- متحدہ نے ایلیمینیٹر 2 میں کنگزمین کے خلاف ٹاس جیتا۔ *[ARY](https://arynews.tv/united-win-toss-against-kingsmen-in-eliminator-2)*
+- نیو کیسل کے مالک سعودی عرب کے عزم میں کوئی تبدیلی نہیں، ہاؤ نے کہا۔ *[ARY](https://arynews.tv/howe-says-saudi-backers-are-fully-behind-newcastle)*
+- اولمپک کانسی کے تمغے کے حامل نیومین کو ڈوپنگ ٹیسٹ میں ناکام رہنے پر معطل کر دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40419184/olympic-bronze-medallist-newman-suspended-for-missing-doping-tests)*
 
 ## صحت
 
-- وٹامنز اور او میگا 3 سپلیمنٹس آٹزم کے علامات کو بہتر بنا سکتے ہیں *[ARY](https://arynews.tv/vitamin-supplements-autism-symptoms)*۔
-- بچے میں آٹزم کے پانچ نشانات *[ARY](https://arynews.tv/autism-five-signs-in-children)*۔
-- 2.7 ملین سے زیادہ بچے زیر 5 سال شدید malnutrition کا شکار *[Business Recorder](https://www.brecorder.com/news/40419117/over-27m-children-under-five-facing-acute-malnutrition)*۔
+- خواتین صحافیوں کے خلاف بدسلوکی کو اے آئی نے آسان اور زیادہ نقصان دہ بنا دیا ہے۔ *[Dawn](https://www.dawn.com/news/1996629/abuse-of-women-journalists-made-easier-and-more-damaging-by-ai)*
 
 ## دیگر
 
-- صحافیوں کو قانونی مشکلات سے بچنے کے لیے خود سنسر کرنے پر مجبور کیا جا رہا ہے *[Dawn](https://www.dawn.com/news/1996563/journalists-compelled-to-self-censor-to-avoid-legal-trouble)*۔
-- سانس پاکستان کانفرنس سرینا میں ہوگی *[Dawn](https://www.dawn.com/news/1996562/breathe-pakistan-conference-to-be-held-at-serena)*۔
-- حکومتی ناکامیوں کے باعث پاکستان کی ڈیزاسٹر ریسپانس کمزور، رپورٹ خبردار کرتی ہے *[Dawn](https://www.dawn.com/news/1996479/governance-gaps-weaken-pakistans-climate-disaster-response-report-warns)*۔
-- وائرل ویڈیو میں ایک خاتون سکوٹر پر برتن چوری کرتی ہوئی دکھائی دے رہی ہے *[ARY](https://arynews.tv/viral-video-shows-woman-on-scooter-stealing-potted-plant)*۔
-- ایک طالب علم نے سمندر کنارے UFO کی تصویر بنائی *[ARY](https://arynews.tv/ufo-captured-on-camera-seafront-student)*۔
-- ایک جوڑے نے اسکاٹ لینڈ میں UFO دیکھا، ویڈیو وائرل ہوگئی *[ARY](https://arynews.tv/couple-sights-ufo-in-scotland-video-goes-viral)*۔
-- ڈور بیل کیمرے نے فلوٹنگ "تہکامی UFO" کی تصویر لی *[ARY](https://arynews.tv/shocking-doorbell-camera-captures-floating-triangular-ufo)*۔
-- وائرل ویڈیو میں پیرا گلائڈنگ ایکٹ خوفناک طریقے سے غلط ہو گیا *[ARY](https://arynews.tv/viral-video-paragliding-act-going-horribly-wrong)*۔
-- پاکستان، ایران اور امریکہ کے درمیان تنازع کو حل کرنے کے لیے فعال طور پر مصروف عمل ہیں: دفتر خارجہ *[Dawn](https://www.dawn.com/news/1996386/clock-on-diplomacy-has-not-stopped-fo-says-pakistan-remains-actively-engaged-with-iran-us-to-resolve-conflict)*۔
-- پاکستان نے صومالیہ اور کمبوڈیا کی حکومتوں کے ساتھ اپنے شہریوں کی رہائی کے لیے رابطہ قائم کر رکھا ہے *[Business Recorder](https://www.brecorder.com/news/40419111/release-of-nationals-actively-engaged-with-somalia-cambodia-govts-fo)*۔
-- ڈپٹی وزیراعظم اور وزیر خارجہ نے یورپی یونین کے نائب صدر سے بات کی *[Business Recorder](https://www.brecorder.com/news/40419113/dar-eu-vp-talk-on-phone)*۔
-- ڈپٹی وزیراعظم نے طبی اور دندان سازی اداروں میں شفافیت اور تعلیم کے معیار کو بڑھانے پر زور دیا *[Business Recorder](https://www.brecorder.com/news/40419112/medical-dentistry-institutions-dar-for-enhancing-transparency-education-quality)*۔
-- پاکستان اور چین نے آب و ہوا کی معیشت پر بات کی *[Business Recorder](https://www.brecorder.com/news/40419118/pakistan-china-talk-climate-economy)*۔
-- آسٹریائی سفیر نے پاکستان کو عالمی امن قائم کرنے والا قرار دیا *[Business Recorder](https://www.brecorder.com/news/40419081/austrian-envoy-hails-pakistan-as-a-global-peacemaker)*۔
-- پنجاب فوڈ اتھارٹی نے فوڈ فراڈ نیٹ ورک کا بھانڈا پھوڑ دیا *[Business Recorder](https://www.brecorder.com/news/40419082/pfa-busts-food-fraud-network)*۔
-- آسٹریائی سفیر اور این جی سی کے ایم ڈی نے توانائی شراکت پر تبادلہ خیال کیا *[Business Recorder](https://www.brecorder.com/news/40419083/austrian-ambassador-amp-ngc-md-discuss-energy-partnership)*۔
-- صوبائی وزیر صحت خواجہ سلمان رفیق نے کہا کہ مفت کینسر علاج اولین ترجیح ہے *[Business Recorder](https://www.brecorder.com/news/40419084/free-cancer-treatment-top-priority-kh-salman)*۔
-- تربیلا 5ویں توسیع ایچ پی پی کاربن مارکیٹ رجسٹریشن کی جانب بڑھ رہی ہے *[Business Recorder](https://www.brecorder.com/news/40419085/tarbela-5th-extension-hpp-advances-towards-carbon-market-registration)*۔
+- جاپانی شخص کو بیوی کو چڑیاگھر میں جلا دینے کے الزام میں گرفتار کیا گیا۔ *[Dawn](https://www.dawn.com/news/1996652/japanese-man-arrested-after-wife-incinerated-at-zoo)*
+- نئی شہزادی ڈیانا کی دستاویزی فلم ان کے اپنے الفاظ پیش کرنے کا وعدہ کرتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419180/new-princess-diana-documentary-promises-her-own-words)*
+- امریکہ کے صدر ٹرمپ نے ناکام حملے کے بعد پہلی بار عوامی تقریب میں شرکت کی۔ *[Business Recorder](https://www.brecorder.com/news/40419175/trump-heads-to-florida-stronghold-in-first-public-event-since-foiled-attack)*
+- امریکہ کے صدر ٹرمپ کے یورپی رہنماؤں پر حملوں سے بین الاقوامی تعلقات مزید بگڑ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40419174/trumps-attacks-on-europes-leaders-worsen-transatlantic-frost)*
+- موسمیاتی نوآبادیات: پاکستان کیوں قیمت ادا کرتا ہے۔ *[Dawn](https://www.dawn.com/news/1996700/climate-colonialism-why-pakistan-pays-the-price)*
+- پاکستان کی پہلی ورچوئل خواتین پولیس اسٹیشن میں شکایت درج کرنے کا طریقہ۔ *[ARY](https://arynews.tv/how-to-register-complaint-in-pakistans-first-virtual-women-police-station)*
+- جرمنی میں مزدوروں کے حقوق کے لیے مئی کے دن احتجاج ہوگا۔ *[ARY](https://arynews.tv/germany-may-day-protests-for-workers-rights)*
+- ہندوستان میں گیس کی قیمتوں میں اضافہ ہوا، سپلائی کے دباؤ میں اضافہ ہوا۔ *[Dawn](https://www.dawn.com/news/1996683/india-raises-cooking-gas-jet-fuel-prices-as-supply-pressures-mount)*
+- ہندوستان کی گائیں مشرق وسطیٰ کی توانائی کے بحران کے لیے بائیو گیس کا متبادل پیش کرتی ہیں۔ *[Dawn](https://www.dawn.com/news/1996638/indias-cows-offer-biogas-alternative-to-mideast-energy-crunch)*
+- امریکہ میں گیس کی فراوانی ہے لیکن اسے لے جانے کا کوئی راستہ نہیں ہے۔ *[Dawn](https://www.dawn.com/news/1996684/while-asia-and-europe-scramble-for-natural-gas-the-us-glut-has-nowhere-to-go)*
+- پاکستان نے کراچی میں پہلی ملٹی کارگو ٹرانس شپمنٹ برتن کو خوش آمدید کہا۔ *[ARY](https://arynews.tv/pakistan-historic-first-fully-transshipment-vessel)*
+- پاکستان کی جانب سے ایرانی بارودی سرنگوں کا مقابلہ کرنے کے لیے امریکی بحریہ نے اے آئی فرم ڈومینو سے مدد حاصل کی۔ *[ARY](https://arynews.tv/ai-enhances-us-navy-mine-hunting-in-strait-of-hormuz)*
+-سٹرلنگ مرکزی بینک کی گفتگو کے درمیان 10 ہفتوں کی بلند ترین سطح پر مستحکم رہا۔ *[ARY](https://arynews.tv/sterling-remains-steady-amid-central-bank-talks)*
+-ایلومینیئم سپلائی خدشات کے درمیان بحال ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419172/aluminium-rebounds-on-supply-concerns-amid-us-iran-standoff)*
+-ای سی بی کے ماخلوف کو خدشہ ہے کہ توانائی کی قیمتیں زیادہ عرصے تک برقرار رہ سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419171/ecbs-makhlouf-concerned-energy-prices-may-stay-higher-for-longer)*
+-ایران کی جانب سے امریکہ کے ساتھ مذاکرات کی نئی تجویز۔ *[Business Recorder](https://www.brecorder.com/news/40419179/iran-offers-new-proposal-amid-stalled-us-peace-talks)*
+-پاکستان کی جانب سے پاکستانی پرچم والا ڈیزل ٹینکر ہرمز کے تنگ راستے سے گزرا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistani-flagged-diesel-tanker-transits-strait-of-hormuz-amid-blockade-report/)*
+-پاکستان نے امریکہ کی تحقیقات میں اپنی تجارتی عمل داری کا دفاع کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/01/pakistan-defends-trade-practices-in-us-probe-on-forced-labour-imports-report/)*
+-پاکستان کی بحریہ ہنگور کلاس سب میرین کے ذریعے بحری دفاع میں ایک نیا دور شروع کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419168/pakistan-navys-hangor-class-submarines-a-new-era-of-maritime-deterrence)*
 
