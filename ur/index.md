@@ -7,67 +7,84 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 03-May-2026 21:06PKT 
+ &lrm; 04-May-2026 09:06PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-* اوپیک پلس نے جون کے لیے تیل کی پیداوار میں معمولی اضافہ کرنے پر اتفاق کیا ہے، لیکن امریکہ اور ایران کے درمیان جاری تناؤ کی وجہ سے اس اضافے کا اثر محدود ہوگا۔ *[Dawn](https://www.dawn.com/news/1997215/opec-agrees-third-oil-output-quota-hike-since-hormuz-closure)*
-* سعودی عرب نے 350 ارب ڈالر کی فوجی اصلاحات کا منصوبہ شروع کیا ہے تاکہ علاقائی سلامتی کو مضبوط بنایا جا سکے۔ *[Dawn](https://www.dawn.com/news/1997222/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing)*
-* متحدہ عرب امارات نے اوپیک سے علیحدگی کے بعد اگلے دو سالوں میں 55 ارب ڈالر کی نئی منصوبوں میں سرمایہ کاری کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419396/uae-oil-giant-pledges-55-billion-in-new-projects-by-2028-statement)*
-* پاکستان میں غیر ملکی سرمایہ کاروں نے ٹریژری بلز سے سرمایہ نکال لیا ہے، جس سے معیشت پر منفی اثر پڑنے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/1997099/foreign-investors-exit-t-bills)*
-* تیل کی قیمتوں میں اضافے سے پاکستان کی معاشی ترقی کو خطرہ لاحق ہو گیا ہے، اور ماہرین کا کہنا ہے کہ افراط زر 11 فیصد سے تجاوز کر سکتا ہے۔ *[Dawn](https://www.dawn.com/news/1997098/oil-spike-threatens-pakistans-economic-growth)*
-* پاکستان اور ازبیکستان نے تجارت کو بڑھانے اور لائیو سٹاک اور صنعتی تعاون پر غور کرنے کے لیے اتفاق کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/pakistan-uzbekistan-move-to-expand-trade-ties-explore-livestock-and-industrial-cooperation/)*
+* وفاقی وزیر احسن اقبال نے سرمایہ کاروں کے مسائل حل کرنے کے لیے پیر کو اسلام آباد میں متعلقہ حکام کے ساتھ اجلاس طلب کیا ہے۔ *[Dawn](https://www.dawn.com/news/1997361/minister-vows-to-remove-hurdles-faced-by-investors)*
+* وزارت خزانہ نے تمام وزارتوں، ڈویژنوں، محکموں اور خود مختار اداروں کو موجودہ مالی سال کے دوران استعمال نہ ہونے والی رقوم 10 دنوں کے اندر جمع کرانے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/1997364/ministries-told-to-surrender-unspent-funds)*
+* ایشیائی ترقیاتی بینک (اے ڈی بی) نے 2035 تک ایشیا پیسیفک خطے میں توانائی اور ڈیجیٹل انفراسٹرکچر کو وسعت دینے کے لیے 70 ارب ڈالر کی ایک पहल کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1997232/adb-announces-70bn-initiative-to-boost-cross-border-electricity-trade-increase-broadband-access-in-asia-pacific)*
+* پاکستان کی جانب سے قطر سے دو ایل این جی (LNG) کارگو حاصل کرنے کی کوششیں جاری ہیں، جبکہ ایران سے ہرمز کی تنگ آبنائے سے محفوظ گزرگاہ کے لیے بھی مذاکرات کیے جارہے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/pakistan-seeks-two-qatari-lng-cargoes-holds-talks-with-iran-for-safe-passage-through-strait-of-hormuz)*
+* حکومت نے ناقص کارکردگی کا مظاہرہ کرنے والے ریاستی مالی اداروں کے خلاف مقدمات درج کرنے کا فیصلہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/government-decides-to-put-underperforming-state-financial-bodies-on-trial)*
+* سٹینڈرڈ چارٹرڈ بینک پاکستان کا قدموں کا نشان کم ہوتا جا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/the-ever-shrinking-footprint-of-standard-chartered-bank)*
+* سونے کی قیمت میں کمی، افراط زر کے خدشات اور امریکہ-ایران مذاکرات پر نظریں رکھی گئی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/gold-dips-as-inflation-concerns-linger-markets-watch-us-iran-talks)*
 
 ## سائنس اور ٹیکنالوجی
 
-* ایشیائی ترقیاتی بینک (اے ڈی بی) نے 2035 تک ایشیا پیسیفک میں توانائی اور ڈیجیٹل انفراسٹرکچر کے لیے 70 ارب ڈالر کا منصوبہ شروع کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419397/adb-launches-70bn-plan-for-energy-digital-infrastructure-in-asia-pacific)*
-* پاکستان ورچوئل اثاثہ ریگولیٹری اتھارٹی (پی وی اے آر اے) کے ذریعے ڈیجیٹل اثاثوں کے شعبے کو باقاعدہ بنانے کی کوشش کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/pakistan-moves-to-formalise-digital-assets-sector-as-40-million-users-operate-informally/)*
+* پاکستان اپنے مستقبل کو محفوظ بنانے کے لیے مصنوعی ذہانت (اے آئی) پر توجہ مرکوز کررہا ہے۔ *[Dawn](https://www.dawn.com/news/1997325/pakistans-ai-reckoning)*
+* ضیا چشتی کا 10 ارب ڈالر کی آئی ٹی ایکسپورٹ کا منصوبہ۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/zia-chishtis-ten-billion-dollar-it-export-playbook)*
+* JAK Delivery پاکستانی ای کامرس سیلرز کو عالمی سطح پر لے جانے کی منصوبہ بندی کر رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/inside-jak-deliverys-plan-to-take-pakistani-ecommerce-sellers-global)*
 
 ## موسم
 
-* (کوئی خبر نہیں)
+* کراچی میں شدید گرمی کی لہر، کے الیکٹرک کا لوڈ شیڈنگ نہ کرنے کا دعویٰ۔ *[Business Recorder](https://www.brecorder.com/news/40419477/heatwave-intensifies-but-ke-says-there-will-be-no-load-shedding)*
 
 ## سیاست
 
 * وزیراعظم شہباز شریف نے نواز شریف سے ملاقات کی اور ملک کی سیاسی صورتحال اور مشرق وسطیٰ میں امن کے لیے کیے گئے اقدامات پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east)*
-* صدر زرداری اور وزیراعظم شہباز شریف نے صحافتی آزادی کی حفاظت اور قابل اعتماد رپورٹنگ پر زور دیا۔ *[Dawn](https://www.dawn.com/news/1997192/president-pm-renew-resolve-to-protect-journalistic-freedom-stress-credible-reporting)*
-* امریکی وزیر خارجہ مارکو روبیو پوپ کے ساتھ تنازع کے بعد ویٹیکن اور اٹلی کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/1997196/us-secretary-of-state-rubio-to-visit-vatican-rome-after-trumps-row-with-pope)*
-* ایران نے امریکہ کو خبردار کیا ہے کہ اس کے پاس فوجی کارروائی کرنے یا مذاکرات کرنے کے دو ہی آپشن ہیں۔ *[Dawn](https://www.dawn.com/news/1997084/iran-says-ball-in-us-court-on-war-or-diplomacy)*
+* وزیراعظم نے پنجاب کی وزیر اعلیٰ مریم نواز کے ساتھ بھی ملاقات کی۔ *[Dawn](https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east)*
+* ایران امریکہ کے ساتھ 14 نکات کے منصوبے پر ردعمل کا جائزہ لے رہا ہے، جبکہ ٹرمپ کا کہنا ہے کہ واشنگٹن تہران کے ساتھ "بہت مثبت" گفتگو کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-plan-trump-says-washington-having-very-positive-discussions-with-tehran)*
+* پیپلز پارٹی کی رہنما عاصفہ بھٹو زرداری سے آراٹ مارچ کے منتظمین نے مدد کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/1997240/with-a-week-left-for-aurat-march-in-karachi-organisers-say-noc-yet-to-be-issued)*
 
 ## قومی
 
-* باجوڑ میں ایک سماجی کارکن سمیت دو افراد الگ الگ حملوں میں ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacked-in-kps-bajaur)*
-* لکی مروت میں ایک پولیس اہلکار کو دہشت گردوں نے قتل کر دیا۔ *[Dawn](https://www.dawn.com/news/1997202/policeman-gunned-down-near-his-home-in-kps-lakki-marwat)*
-* راولپنڈی میں بحریہ ٹاؤن کے رہائشیوں نے بنیادی سہولیات کی عدم دستیابی کے خلاف احتجاج کیا۔ *[Dawn](https://www.dawn.com/news/1997055/bahria-town-residents-in-rawalpindi-protest-against-absence-of-basic-amenities)*
-* لاہور میں ایک یوٹیوبر کو القاعدہ کے لیے افراد کی بھرتی کرنے کے الزام میں گرفتار کیا گیا۔ *[Dawn](https://www.dawn.com/news/1997111/youtuber-held-for-recruiting-individuals-for-al-qaeda)*
-* ٹیکسلا میں پرانی دھرمراجیکا ستوپ میں 1500 سال بعد دوبارہ بدھ مذہب کے واعظ منعقد ہوئے۔ *[Dawn](https://www.dawn.com/news/1997060/ancient-dharmarajika-stupa-in-taxila-echoes-with-dhamma-sermon-after-1500-years)*
+* آزاد جموں و کشمیر کے وزیراعظم راجہ فیصل ممتاز راتھور نے لائن آف کنٹرول سے بے گھر ہونے والے 1000 سے زائد خاندانوں کو زمین کی ملکیت کے حقوق دیے۔ *[Dawn](https://www.dawn.com/news/1997314/ajk-pm-grants-land-ownership-to-1000-families-displaced-by-loc-shelling)*
+* پنجاب پولیس کے افسران کو "مشکل علاقوں" میں تبادلہ کرنے کے فیصلے پر اعتراضات، آئی جی پی نے اسلام آباد سے معاملہ اٹھانے کا فیصلہ کیا۔ *[Dawn](https://www.dawn.com/news/1997366/punjab-cops-in-a-bind-over-transfer-to-hard-areas)*
+* خیبر پختونخوا کے باجور میں دو افراد، جن میں ایک سماجی کارکن بھی شامل ہے، الگ الگ حملوں میں ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacks-in-kps-bajaur)*
+* ساجد علی سدپارہ نے بغیر اضافی آکسیجن کے دنیا کی پانچویں بلند ترین چوٹی ماکالو پر چڑھائی کی۔ *[Dawn](https://www.dawn.com/news/1997195/sajid-sadpara-summits-worlds-5th-highest-mountain-makalu-without-supplemental-oxygen)*
+* دودھ پر ٹیکس کم کرنے کا مطالبہ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1997360/govt-urged-to-reduce-tax-on-milk)*
+* کراچی میں بجلی کی لوڈ شیڈنگ کے خلاف احتجاج۔ *[ARY](https://arynews.tv/karachi-residents-protest-against-power-outages)*
 
 ## بین الاقوامی
 
-* اسرائیل نے لاک ہیڈ مارٹن اور بوئنگ سے F-35 اور F-15IA جنگجو طیارے خریدنے کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/1997222/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing)*
-* جاپان نے 11 دنوں کی لڑائی کے بعد اپنے سب سے بڑے جنگلات کی آگ پر قابو پا لیا ہے۔ *[Dawn](https://www.dawn.com/news/1997187/japan-contains-one-of-its-biggest-wildfires-in-decades-after-11-day-battle)*
-* ایران نے ایک ایسے شخص کو سزائے موت دی ہے جو 2022 کے احتجاج کے دوران ایک سکیورٹی اہلکار کے قتل میں ملوث تھا۔ *[Business Recorder](https://www.brecorder.com/news/40419388/iran-executes-man-convicted-over-killing-of-security-officer-in-2022-unrest)*
+* یروشلم میں ایک یہودی انتہا پسند کی جانب سے نین پر حملے کے بعد عیسائیوں میں تشویش کی لہر دوڑ گئی۔ *[Dawn](https://www.dawn.com/news/1997344/jerusalem-christians-worried-after-attack-on-nun-by-jewish-extremist)*
+* امریکہ مراکش میں گمشدہ دو فوجیوں کی تلاش میں مدد کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/1997313/search-underway-for-two-missing-us-troops-in-morocco)*
+* اسرائیل نے لاک ہیڈ مارٹن اور بوئنگ سے F-35 اور F-15IA جنگجو طیارے خریدنے کی منصوبہ بندی کو منظور کیا۔ *[ARY](https://arynews.tv/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing)*
+* ایران جنگ طویل ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/1997326/a-long-war)*
 
 ## کھیل
 
-* پشاور زلمی نے پی ایس ایل فائنل میں حیدرآباد کنگز مین کے خلاف ٹاس جیت کر پہلے فیلڈنگ کا فیصلہ کیا۔ *[Dawn](https://www.dawn.com/news/1997223/peshawar-zalmi-win-toss-opt-to-field-first-against-debutants-hyderabad-kingsmen-in-psl-final)*
-* ساجد سدپارہ نے بغیر اضافی آکسیجن کے دنیا کی پانچویں بلند ترین چوٹی ماکالو پر چڑھنے میں کامیابی حاصل کی۔ *[Dawn](https://www.dawn.com/news/1997195/sajid-sadpara-summits-worlds-5th-highest-mountain-makalu-without-supplemental-oxygen)*
-* آرسنل نے فلہم کو 3-0 سے شکست دے کر مانچسٹر سٹی پر چھ پوائنٹس کی برتری حاصل کر لی۔ *[Business Recorder](https://www.brecorder.com/news/40419385/arsenal-breeze-past-fulham-to-open-six-point-gap-over-man-city)*
-* بارسلونا نے اوساسونا کو 2-1 سے شکست دے کر لا لیگا کے ٹائٹل کے قریب پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40419386/barcelona-close-on-laliga-title-with-late-win-at-osasuna)*
+* پشاور زلمی نے حیدرآباد کنگز مین کو 5 وکٹوں سے شکست دے کر دوسری بار پی ایس ایل ٹرافی جیتی۔ *[Dawn](https://www.dawn.com/news/1997223/peshawar-zalmi-beat-hyderabad-kingsmen-by-5-wickets-lift-psl-trophy-a-second-time)*
+* فارمولا ون میامی گرینڈ پریکس میں ڈی جے خالد اور لیونل میسی سمیت کئی مشہور شخصیات نے شرکت کی۔ *[ARY](https://arynews.tv/from-dj-khaled-to-lionel-messi-stars-descend-on-formula-1-miami-grand-prix-paddock)*
 
 ## صحت
 
-* (کوئی خبر نہیں)
+* خیبر پختونخوا میں کینسر کے مریضوں کو مفت دوائیں فراہم کی جائیں گی۔ *[ARY](https://arynews.tv/cancer-patients-to-get-free-medicines-in-kp)*
 
 ## دیگر
 
-* امریکہ اور ایران کے درمیان جنگ کے خطرے کے پیش نظر، ایران نے کہا کہ امریکہ کے پاس دو ہی آپشن ہیں: ناممکن فوجی کارروائی یا ایک برا معاہدہ۔ *[Dawn](https://www.dawn.com/news/1997230/iran-says-us-faces-choice-between-impossible-military-operation-bad-deal-trump-mulls-peace-proposal)*
-* اوسامہ بن لادن کے ایبٹ آباد میں مارے جانے کے دس سال بعد، سی آئی اے کی ایک نئی رپورٹ میں انکشاف ہوا ہے کہ وہ چھاپے سے پہلے فرار ہونے کے قریب تھے۔ *[Dawn](https://www.dawn.com/news/1997079/bin-laden-nearly-slipped-out-of-abbottabad-cia-report)*
-* سیدنی سونی نے سڈنی سوانز کی AFL میں فتح کا جشن منایا۔ *[ARY](https://arynews.tv/sydney-sweeney-enjoys-sydney-swans-victory-at-afl)*
-* ہانی شاکر، عرب گیت کے شہزادے، 73 سال کی عمر میں انتقال کر گئے۔ *[ARY](https://arynews.tv/hani-shaker-prince-of-arabic-singing-passes-away-at-73)*
-* میسی کا گول میامی کے 4-3 کے نقصان کو روکنے کے لیے کافی نہیں تھا۔ *[ARY](https://arynews.tv/messi-goal-not-enough-as-miami-collapse-in-4-3-loss-to-orlando)*
-* پرنس آرچی نے اپنے چچا زاد بھائی پرنس لوئس سے پہلے شاہی سنگ میل حاصل کیا۔ *[ARY](https://arynews.tv/prince-archie-achieves-royal-milestone-before-cousin-prince-louis)*
-* ایک مسافر نے چنئی ائیرپورٹ پر ایمرجنسی ایگزٹ سے ائیر عربیہ کی پرواز سے چھلانگ لگائی۔ *[ARY](https://arynews.tv/passenger-jumps-from-air-arabia-flight-at-chennai-airport-via-emergency-exit)*
+* جیمینہ گولڈ سمتھ کی دوبارہ شادی کی منصوبہ بندی۔ *[Dawn](https://www.dawn.com/news/1997348/jemima-plans-to-remarry)*
+* روح سپیریٹ نے اچانک بند ہونے کے بعد زیادہ تر صارفین کو رقم واپس کر دی۔ *[ARY](https://arynews.tv/spirit-says-most-customers-refunded-after-abrupt-shutdown)*
+* کائلی جینر نے ٹمتھی شالامیٹ کو برڈوے شو کے لیے ساتھ لے گئیں، ساتھ میں کم کارڈشیان اور کرس بھی موجود تھیں۔ *[ARY](https://arynews.tv/kylie-jenner-brings-timothee-chalamet-for-broadway-night-with-kim-kardashian-and-mom-kris)*
+* اداکارہ شارون رونی کا شو دیکھنے کے قابل ہے۔ *[ARY](https://arynews.tv/sharon-rooneys-brilliant-show-starring-jodie-comer-is-a-must-watch)*
+* اوورسیز پاکستانیوں کے لیے اپنی کار کا منصوبہ، خاندانوں کو کم نرخوں پر کاریں دینے کا موقع۔ *[ARY](https://arynews.tv/roshan-apni-car-overseas-pakistanis-can-now-gift-cars-to-families-at-lower-rates)*
+* ٹوبی میگواائر ایوینجرز ڈومس ڈے میں اسپائیڈر مین کا کردار دوبارہ ادا کر سکتے ہیں۔ *[ARY](https://arynews.tv/tobey-maguire-may-reprise-spider-man-role-in-avengers-doomsday)*
+* فی اے (FIA) کی جانب سے کاٹن ایکسچینج بلڈنگ پر قبضہ، شدید تنقید۔ *[Business Recorder](https://www.brecorder.com/news/40419489/weekly-cotton-review-fia-move-invites-sharp-criticism)*
+* پریس آزادی کے دن، میڈیا پر عائد پابندیاں ہٹانے کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40419475/world-press-freedom-day-govt-urged-to-repeal-peca-lift-curbs-on-media)*
+* پریس آزادی کے دن صحافیوں کی حفاظت پر تشویش کا اظہار۔ *[Business Recorder](https://www.brecorder.com/news/40419476/world-press-freedom-day-jac-says-concerned-over-safety-of-journalists)*
+* ایندھن کی قیمتوں میں کمی کے باعث ایشیائی حصص میں اضافہ، مشرق وسطیٰ کی غیر یقینی صورتحال کے درمیان خام تیل کی قیمت مستحکم رہی۔ *[Business Recorder](https://www.brecorder.com/news/40419489/stocks-edge-up-in-asia-oil-flat-amid-middle-east-uncertainty)*
+* بھارت میں انسانی حقوق کی صورتحال تشویشناک ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419408/an-endless-nightmare-in-india)*
+* قانون کے بغیر عمل درآمد۔ *[Business Recorder](https://www.brecorder.com/news/40419407/enforcement-without-due-process)*
+* متحدہ عرب امارات اوپیک (OAPEC) سے الگ ہو گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/after-opec-uae-exits-arab-oil-exporter-group-oapec)*
+* کراچی میں تین نوجوان ہب ندی میں ڈوب گئے۔ *[Business Recorder](https://www.brecorder.com/news/40419482/three-karachi-youths-drown-in-hub-river)*
+* کراچی کے مسائل حل کرنے سے معیشت کو فروغ ملے گا۔ *[Business Recorder](https://www.brecorder.com/news/40419474/resolving-issues-of-karachi-helps-boost-economy-pdp)*
+* پنجاب حکومت نے فیصل آباد ماس ٹرانزٹ روٹ کے ساتھ شہری جنگلات لگانے کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40419478/brt-red-line-shahrah-e-bhutto-sindh-cm-orders-fast-track-completion)*
+* سندھ حکومت نے کے بی آر ٹی ریڈ لائن اور شاہراہ بھٹو کی تعمیر کو تیز کرنے کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40419481/work-on-brt-project-progressing-well-despite-challenges-sharjeel)*
+* شرجیل انعام میمون نے صحافیوں کو خراج تحسین پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40419479/sharjeel-pays-tributes-to-journalists)*
+* متحدہ عرب امارات اوپیک سے الگ ہو گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/after-opec-uae-exits-arab-oil-exporter-group-oapec)*
+* سونے کی قیمت میں کمی، افراط زر کے خدشات اور امریکہ-ایران مذاکرات پر نظریں رکھی گئی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/gold-dips-as-inflation-concerns-linger-markets-watch-us-iran-talks)*
+* چاندی کی قیمت میں تبدیلی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/silver-price-in-pakistan-for-today-may-04-2026)*
+* پاکستان کی بیرونی ادائیگیوں پر خلیج تعاون کونسل (GCC) ریاستوں پر بڑھتی ہوئی انحصار۔ *[Business Recorder](https://www.brecorder.com/news/40419406/greater-reliance-of-external-accounts-on-gcc-states)*
 
