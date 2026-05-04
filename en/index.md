@@ -4,56 +4,71 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 03-May-2026 21:02PKT
+Published at: 04-May-2026 09:02PKT
 
-Time to read: 5 mins
+Time to read: 6 mins
 
 ### Economy
-- Pakistan is considering a joint venture with Saudi Arabia to establish strategic oil reserves due to mounting supply risks. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/pakistan-eyes-saudi-partnership-for-strategic-oil-reserves-as-supply-risks-mount)*
-- The government is pushing for REIT (Real Estate Investment Trust) reforms to deepen capital markets and attract investment. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/aurangzeb-pushes-reit-reforms-to-deepen-capital-markets-attract-investment)*
-- Pakistan’s inflation is likely to remain in double digits if the surge in oil prices persists. GDP expansion may slow to 2.5-3.0pc in FY27. *[Dawn](https://www.dawn.com/news/1997098/oil-spike-threatens-pakistans-economic-growth)*
-- Foreign investors have largely exited Pakistan’s domestic bonds, with little chance of recovery if the current situation prevails. *[Dawn](https://www.dawn.com/news/1997099/foreign-investors-exit-t-bills)*
-- OPEC+ agreed to a modest oil output hike for June, but the increase is largely symbolic due to disruptions in Gulf oil supplies. *[Dawn](https://www.dawn.com/news/1997215/opec-agrees-third-oil-output-quota-hike-since-hormuz-closure)*
-- The UAE has pledged $55 billion in new projects over the next two years after leaving OPEC. *[Business Recorder](https://www.brecorder.com/news/40419386/uae-oil-giant-adnoc-pledges-55-billion-in-new-projects-by-2028-statement)*
-- Kerosene prices have decreased by Rs4.45 per litre, while light diesel prices have increased by Rs17.03 per litre. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/02/kerosene-price-drops-by-rs4-45-light-diesel-rises-by-rs17-03)*
-- VEON believes Pakistan has the financial infrastructure for digital assets, and now needs to build the digital asset layer. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/pakistan-has-the-financial-services-infrastructure-now-time-to-build-the-digital-asset-layer-says-veons-kayhan)*
+- The Finance Ministry has directed all ministries to surrender unspent funds by May 10 to finalize revised estimates for FY2025-26 and prepare the upcoming budget. *[Dawn](https://www.dawn.com/news/1997364/ministries-told-to-surrender-unspent-funds)*
+- Federal Planning and Development Minister Ahsan Iqbal will convene a meeting to address the closure of a Chinese company’s operations in Pakistan and China, citing administrative and policy hurdles. *[Dawn](https://www.dawn.com/news/1997361/minister-vows-to-remove-hurdles-faced-by-investors)*
+- The ADB announced a $70 billion initiative to boost cross-border electricity trade and broadband access in the Asia-Pacific region by 2035. *[Dawn](https://www.dawn.com/news/1997232/adb-announces-70bn-initiative-to-boost-cross-border-electricity-trade-increase-broadband-access-in-asia-pacific)*
+- Roshan Apni Car scheme allows overseas Pakistanis to gift cars to families at lower rates. *[ARY](https://arynews.tv/roshan-apni-car-overseas-pakistanis-can-now-gift-cars-to-families-at-lower-rates)*
+- The government is considering putting underperforming state financial bodies on trial as part of a major restructuring effort. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/government-decides-to-put-underperforming-state-financial-bodies-on-trial)*
+- Pakistan is seeking two LNG cargoes from Qatar and holding talks with Iran for safe passage through the Strait of Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/pakistan-seeks-two-qatari-lng-cargoes-holds-talks-with-iran-for-safe-passage-through-strait-of-hormuz)*
+- Oil prices eased slightly after Trump announced a US effort to free ships stranded in the Strait of Hormuz. *[ARY](https://arynews.tv/oil-slips-after-trump-says-us-will-help-free-ships-stranded-in-strait-of-hormuz)*, *[Business Recorder](https://www.brecorder.com/news/40419487/oil-slips-after-trump-says-us-will-help-free-ships-stranded-in-strait-of-hormuz)*, *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/stocks-edge-up-in-asia-oil-flat-amid-middle-east-uncertainty)*
+- Asian stocks edged higher, while oil prices remained flat amid Middle East uncertainty. *[Business Recorder](https://www.brecorder.com/news/40419489/stocks-edge-up-in-asia-oil-flat-amid-middle-east-uncertainty)*
+- The UAE has exited the Arab oil exporter group OAPEC, following its earlier departure from OPEC and OPEC+. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/after-opec-uae-exits-arab-oil-exporter-group-oapec)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif met with PML-N supremo Nawaz Sharif to discuss the political situation in the country and steps taken for peace in the Middle East. *[Dawn](https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east)*
-- President Asif Ali Zardari and Prime Minister Shehbaz Sharif reaffirmed the government’s commitment to protecting press freedom on World Press Freedom Day. *[Dawn](https://www.dawn.com/news/1997192/president-pm-renew-resolve-to-protect-journalistic-freedom-stress-credible-reporting)*
-- US Secretary of State Marco Rubio will visit the Vatican and Italy amid tensions following a dispute between Donald Trump and Pope Leo. *[Dawn](https://www.dawn.com/news/1997196/us-secretary-of-state-rubio-to-visit-vatican-rome-after-trumps-row-with-pope)* & *[Business Recorder](https://www.brecorder.com/news/40419389/us-secretary-of-state-to-travel-to-vatican-and-italy-newspapers-report)*
-
-### International
-- Iran stated that the US faces a choice between an “impossible” military operation or a “bad deal”. *[Dawn](https://www.dawn.com/news/1997230/iran-says-us-faces-choice-between-impossible-military-operation-bad-deal-trump-mulls-peace-proposal)* & *[Business Recorder](https://www.brecorder.com/news/40419394/iran-guards-say-us-options-are-impossible-military-operation-or-bad-deal)* & *[Business Recorder](https://www.brecorder.com/news/40419380/trump-says-us-could-restart-iran-strikes-if-they-misbehave)*
-- Israel has approved a plan to purchase F-35 and F-15IA fighter jets from the US in a deal worth tens of billions of dollars. *[Dawn](https://www.dawn.com/news/1997222/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing)* & *[Business Recorder](https://www.brecorder.com/news/40419387/israel-approves-plan-to-buy-f-35-and-f-15i-aircraft-from-us)*
-- Germany’s Foreign Minister demanded that Iran reopen the Strait of Hormuz in a call with his Iranian counterpart. *[Business Recorder](https://www.brecorder.com/news/40419398/german-fm-in-call-with-iranian-counterpart-demands-hormuz-reopening)*
-- Iran executed a man convicted of involvement in the killing of a security officer during the 2022 unrest. *[Business Recorder](https://www.brecorder.com/news/40419388/iran-executes-man-convicted-over-killing-of-security-officer-in-2022-unrest)*
-- Israel intercepted a Gaza-bound flotilla, detaining activists. *[Business Recorder](https://www.brecorder.com/news/40419392/israel-court-extends-detention-of-two-gaza-flotilla-activists)*
+- Prime Minister Shehbaz Sharif called on PML-N supremo Nawaz Sharif to discuss the political situation and the conflict in the Middle East. *[Dawn](https://www.dawn.com/news/1997218/pm-shehbaz-calls-on-nawaz-discusses-political-situation-in-country-steps-taken-for-peace-in-middle-east)*
+- Iran is reviewing the US response to its 14-point plan, while Trump stated that discussions between the two countries are "very positive." *[Dawn](https://www.dawn.com/news/1997230/iran-reviewing-us-response-to-14-point-plan-trump-says-washington-having-very-positive-discussions-with-tehran)*
 
 ### National
-- Two people, including a social activist, were killed in separate attacks in Khyber Pakhtunkhwa’s Bajaur district. *[Dawn](https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacked-in-kps-bajaur)*
-- A policeman was gunned down near his home in Lakki Marwat, Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/1997202/policeman-gunned-down-near-his-home-in-kps-lakki-marwat)*
-- A CIA report reveals that Osama bin Laden nearly escaped from Abbottabad months before the US raid. *[Dawn](https://www.dawn.com/news/1997079/bin-laden-nearly-slipped-out-of-abbottabad-cia-report)*
-- A YouTuber has been arrested for allegedly recruiting individuals for a banned outfit. *[Dawn](https://www.dawn.com/news/1997111/youtuber-held-for-recruiting-individuals-for-al-qaeda)*
-- Residents of Bahria Town Rawalpindi protested against the lack of basic amenities. *[Dawn](https://www.dawn.com/news/1997055/bahria-town-residents-in-rawalpindi-protest-against-absence-of-basic-amenities)*
+- The Establishment Division transferred 10 police officers from Punjab to "hard areas" in KP and Balochistan, despite a rotation policy favoring younger officers. *[Dawn](https://www.dawn.com/news/1997366/punjab-cops-in-a-bind-over-transfer-to-hard-areas)*
+- AJK Prime Minister Raja Faisal Mumtaz Rathore granted land ownership to 1,000 families displaced by LoC shelling. *[Dawn](https://www.dawn.com/news/1997314/ajk-pm-grants-land-ownership-to-1000-families-displaced-by-loc-shelling)*
+- The government was urged to reduce the general sales tax on milk to ensure access to safe milk for child development. *[Dawn](https://www.dawn.com/news/1997360/govt-urged-to-reduce-tax-on-milk)*
+- Two US service members participating in joint military exercises in Morocco are missing, and a search operation is underway. *[Dawn](https://www.dawn.com/news/1997313/search-underway-for-two-missing-us-troops-in-morocco)*
+- Two men, including a social activist, were killed in separate attacks in Khyber Pakhtunkhwa’s Bajaur district. *[Dawn](https://www.dawn.com/news/1997227/2-men-including-social-activist-killed-in-separate-attacks-in-kps-bajaur)*
+- Heatwave intensifies in Karachi, but K-Electric assures no load-shedding. *[Business Recorder](https://www.brecorder.com/news/40419477/heatwave-intensifies-but-ke-says-there-will-be-no-load-shedding)*
+- Three Karachi youths drowned in the Hub River. *[Business Recorder](https://www.brecorder.com/news/40419482/three-karachi-youths-drown-in-hub-river)*
+- Cancer patients in KP will receive free medicines. *[ARY](https://arynews.tv/cancer-patients-to-get-free-medicines-in-kp)*
+
+### International
+- Footage of an attack on a Catholic nun in Jerusalem has raised concerns among Christians about increasing religious hostility. *[Dawn](https://www.dawn.com/news/1997344/jerusalem-christians-worried-after-attack-on-nun-by-jewish-extremist)*
+- Israel has approved a plan to buy F-35 and F-15IA fighter jets from Lockheed and Boeing. *[ARY](https://arynews.tv/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing)*
+- An Israeli court extended the detention of two Gaza flotilla activists, with lawyers alleging "severe physical abuse." *[Dawn](https://www.dawn.com/news/1997237/israel-court-extends-detention-of-two-gaza-flotilla-activists-lawyers-say-pair-subjected-to-severe-physical-abuse)*
 
 ### Sports
-- Peshawar Zalmi won the toss and opted to field first in the PSL final against Hyderabad Kingsmen. *[Dawn](https://www.dawn.com/news/1997223/peshawar-zalmi-win-toss-opt-to-field-first-against-debutants-hyderabad-kingsmen-in-psl-final)* & *[ARY](https://arynews.tv/psl-11-final-peshawar-zalmi-v-hyderabad-kingsmen)*
+- Peshawar Zalmi defeated Hyderabad Kingsmen to win the PSL trophy for a second time. *[Dawn](https://www.dawn.com/news/1997223/peshawar-zalmi-beat-hyderabad-kingsmen-by-5-wickets-lift-psl-trophy-a-second-time)*
 - Sajid Ali Sadpara summited Mount Makalu without supplemental oxygen. *[Dawn](https://www.dawn.com/news/1997195/sajid-sadpara-summits-worlds-5th-highest-mountain-makalu-without-supplemental-oxygen)*
-- Arsenal defeated Fulham 3-0, opening a six-point lead in the Premier League. *[Business Recorder](https://www.brecorder.com/news/40419385/arsenal-breeze-past-fulham-to-open-six-point-gap-over-man-city)*
-- Barcelona moved closer to winning LaLiga with a late win against Osasuna. *[Business Recorder](https://www.brecorder.com/news/40419383/barcelona-close-on-laliga-title-with-late-win-at-osasuna)*
-- Jannik Sinner reached the Madrid final, attributing his success to adrenaline. *[Business Recorder](https://www.brecorder.com/news/40419382/sinner-says-adrenaline-drives-him-past-fatigue-in-run-to-madrid-final)*
-- Marta Kostyuk won the Madrid Open tennis title. *[Business Recorder](https://www.brecorder.com/news/40419381/kostyuk-downs-andreeva-to-claim-madrid-open-tennis-title)*
+- Stars including DJ Khaled and Lionel Messi attended the Formula 1 Miami Grand Prix. *[ARY](https://arynews.tv/from-dj-khaled-to-lionel-messi-stars-descend-on-formula-1-miami-grand-prix-paddock)*
 
 ### Health
-- No specific health-related news in the provided articles.
+- Cancer patients in KP will receive free medicines. *[ARY](https://arynews.tv/cancer-patients-to-get-free-medicines-in-kp)*
 
 ### Other
-- An ancient Dharmarajika Stupa in Taxila echoed with a Dhamma sermon after 1,500 years. *[Dawn](https://www.dawn.com/news/1997060/ancient-dharmarajika-stupa-in-taxila-echoes-with-dhamma-sermon-after-1500-years)*
-- Japan contained one of its biggest wildfires in decades after an 11-day battle. *[Dawn](https://www.dawn.com/news/1997187/japan-contains-one-of-its-biggest-wildfires-in-decades-after-11-day-battle)*
-- An article discusses whether cities can be cooled without air conditioning. *[Dawn](https://www.dawn.com/news/1997200/heat-by-design-can-cities-be-cooled-without-air-conditioning)*
-- Several entertainment news items were included from ARY News: Sydney Sweeney at an AFL game *[ARY](https://arynews.tv/sydney-sweeney-enjoys-sydney-swans-victory-at-afl)*, King Charles’ message *[ARY](https://arynews.tv/king-charles-shares-heartfelt-message-amid-princess-eugenies-pregnancy-rumors)*, PSG’s draw *[ARY](https://arynews.tv/psg-fringe-team-held-by-lorient-as-bayern-munich-return-leg-looms)*, a passenger jumping from a plane *[ARY](https://arynews.tv/passenger-jumps-from-air-arabia-flight-at-chennai-airport-via-emergency-exit)*, a racing pole *[ARY](https://arynews.tv/antonelli-takes-miami-pole-as-start-time-moved)*, Hani Shaker’s death *[ARY](https://arynews.tv/hani-shaker-prince-of-arabic-singing-passes-away-at-73)*, Messi’s loss *[ARY](https://arynews.tv/messi-goal-not-enough-as-miami-collapse-in-4-3-loss-to-orlando)*, Bournemouth’s win *[ARY](https://arynews.tv/bournemouth-eye-european-place-after-crushing-palace)*, Prince Archie’s milestone *[ARY](https://arynews.tv/prince-archie-achieves-royal-milestone-before-cousin-prince-louis)*.
-- Pakistan and Uzbekistan are looking to expand trade ties and explore cooperation in livestock and industry. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/pakistan-uzbekistan-move-to-expand-trade-ties-explore-livestock-and-industrial-cooperation)*
-- Over 120 flights have been cancelled due to weak demand despite fare cuts. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/03/over-120-flights-cancelled-as-weak-demand-persists-despite-fare-cuts)*
-- Pakistan rice exporters visited Oman to boost trade and explore GCC routes. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/02/pakistan-rice-exporters-visit-oman-to-boost-trade-explore-gcc-routes)*
+- Jemima Goldsmith is reportedly set to remarry Irish-Australian financier Cameron O’Reilly. *[Dawn](https://www.dawn.com/news/1997348/jemima-plans-to-remarry)*
+- Organisers of the Aurat March in Karachi have not yet received an NOC for the event scheduled for May 10. *[Dawn](https://www.dawn.com/news/1997240/with-a-week-left-for-aurat-march-in-karachi-organisers-say-noc-yet-to-be-issued)*
+- Spirit Airlines says most customers have been refunded after its abrupt shutdown. *[ARY](https://arynews.tv/spirit-says-most-customers-refunded-after-abrupt-shutdown)*
+- Kylie Jenner attended a Broadway show with Timothée Chalamet, Kim Kardashian, and Kris Jenner. *[ARY](https://arynews.tv/kylie-jenner-brings-timothee-chalamet-for-broadway-night-with-kim-kardashian-and-mom-kris)*
+- Tobey Maguire may reprise his role as Spider-Man in the upcoming Avengers Doomsday film. *[ARY](https://arynews.tv/tobey-maguire-may-reprise-spider-man-role-in-avengers-doomsday)*
+- Sharon Rooney’s new show starring Jodie Comer is receiving positive reviews. *[ARY](https://arynews.tv/sharon-rooneys-brilliant-show-starring-jodie-comer-is-a-must-watch)*
+- Pakistan’s AI future is being discussed, with a $1 billion investment planned by 2030. *[Dawn](https://www.dawn.com/news/1997325/pakistans-ai-reckoning)*
+- An editorial discusses the interconnected crises in the Middle East, urging the US to refrain from further militaristic adventurism. *[Dawn](https://www.dawn.com/news/1997329/interlinked-crises)*
+- An editorial highlights concerns about enforcement without due process, referencing the case of a fertilizer manufacturer. *[Business Recorder](https://www.brecorder.com/news/40419407/enforcement-without-due-process)*
+- An editorial discusses the ongoing issues in India and the detention of Jagtar Singh Johal. *[Business Recorder](https://www.brecorder.com/news/40419408/an-endless-nightmare-in-india)*
+- An editorial discusses Pakistan’s increasing reliance on GCC states for its external accounts. *[Business Recorder](https://www.brecorder.com/news/40419406/greater-reliance-of-external-accounts-on-gcc-states)*
+- A piece discusses the shrinking footprint of Standard Chartered Bank in Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/the-ever-shrinking-footprint-of-standard-chartered-bank)*
+- A report details JAK Delivery’s plan to help Pakistani ecommerce sellers go global. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/inside-jak-deliverys-plan-to-take-pakistani-ecommerce-sellers-global)*
+- A profile explores Zia Chishti’s vision for a $10 billion IT export industry in Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/zia-chishtis-ten-billion-dollar-it-export-playbook)*
+- A report discusses the potential of lithium in Pakistan’s battery industry. *[Dawn](https://www.dawn.com/news/1997180/doubling-down-on-lithium)*
+- A long war in the Middle East is becoming increasingly uncertain. *[Dawn](https://www.dawn.com/news/1997326/a-long-war)*
+- The FIA has allegedly taken over the Cotton Exchange Building, sparking criticism. *[Business Recorder](https://www.brecorder.com/news/40419480/weekly-cotton-review-fia-move-invites-sharp-criticism)*
+- Work on the BRT Red Line and Shahrah-e-Bhutto projects in Karachi is progressing. *[Business Recorder](https://www.brecorder.com/news/40419478/brt-red-line-shahrah-e-bhutto-sindh-cm-orders-fast-track-completion)*
+- Sharjeel Inam Memon paid tribute to journalists on World Press Freedom Day. *[Business Recorder](https://www.brecorder.com/news/40419479/sharjeel-pays-tributes-to-journalists)*
+- The JAC expressed concern over the safety of journalists on World Press Freedom Day. *[Business Recorder](https://www.brecorder.com/news/40419476/world-press-freedom-day-jac-says-concerned-over-safety-of-journalists)*
+- PAT called for a free media to protect human rights and freedom. *[Business Recorder](https://www.brecorder.com/news/40419472/pat-calls-for-free-media-to-protect-human-rights-freedom)*
+- Gold prices dipped as inflation concerns linger. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/gold-dips-as-inflation-concerns-linger-markets-watch-us-iran-talks)*, *[Business Recorder](https://www.brecorder.com/news/40419484/gold-dips-as-inflation-concerns-linger-markets-watch-us-iran-talks)*
+- Silver prices in Pakistan are fluctuating based on international market trends. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/silver-price-in-pakistan-for-today-may-04-2026)*
+- Gold price in Pakistan for today, May 04, 2026. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/04/gold-price-in-pakistan-for-today-may-04-2026)*
 
