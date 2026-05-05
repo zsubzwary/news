@@ -7,86 +7,71 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 05-May-2026 12:00PKT 
+ &lrm; 05-May-2026 21:06PKT 
 
 پڑھنے کا وقت : 6 منٹ 
 
 ## معیشت
 
-* گیس کمپنیوں نے 21 سے 121 فیصد تک ٹیرف میں اضافے کی درخواست دی ہے، عوامی سماعتیں 12-13 مئی کو لاہور اور کراچی میں ہوں گی۔ *[Dawn](https://www.dawn.com/news/1997651/gas-utilities-seek-21-121pc-tariff-hike)*
-* پاکستان کی تجارتی خسارہ پہلی 10 مہینوں میں 20 فیصد بڑھ کر 32 ارب ڈالر ہوگئی، درآمدات میں اضافہ اور برآمدات میں کمی ہوئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/pakistans-trade-deficit-widens-20-to-32-billion-in-10-months)*
-* آئی ایم ایف نے پاکستان کے Sovereign Wealth Fund پر سخت شرائط عائد کر دیں ہیں، قرض لینے اور دینے پر پابندی عائد کردی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/imf-sets-strict-conditions-on-pakistans-sovereign-wealth-fund-bars-borrowing-lending)*
-* اسٹیٹ بینک کی پالیسی ریٹ میں اضافے سے CPPA-G کے سرکلر ڈیٹ کے قرضوں پر سالانہ 13 ارب روپے کا اضافی بوجھ پڑنے کا امکان ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/sbp-rate-hike-may-add-rs13-billion-annual-cost-to-cppa-g-circular-debt-loans)*
-* پاکستان نے اے ڈی بی سے نمائش کی حدیں نرم کرنے اور اعلیٰ ضرورت والی معیشتوں کے لیے مالی اعانت بڑھانے کا مطالبہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/pakistan-urges-adb-to-ease-exposure-limits-scale-up-financing-for-high-need-economies)*
+*   پاکستان نے 2018 سے 2024 تک خصوصی اقتصادی زونز (SEZs) میں 8 بلین ڈالر کی غیر ملکی براہ راست سرمایہ کاری (FDI) اور 500,000 ملازمتیں پیدا کرنے کا ہدف حاصل نہیں کر سکا۔ *[Dawn](https://www.dawn.com/news/1997769/pakistan-misses-8bn-sez-investment-500000-job-targets-minister)*
+*   بھارت میں نیشنل اسٹاک ایکسچینج (NSE) نے چوتھی سہ ماہی میں 8 فیصد منافع دیکھا، جو ڈیریویٹوز کے حجم میں اضافے کی وجہ سے ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419754/indias-nse-posts-8-rise-in-fourth-quarter-profit-on-derivative-volumes)*
+*   بھارت نے مڈل ایسٹ بحران سے متاثرہ کاروباری اداروں کی مدد کے لیے 1.9 بلین ڈالر کی کریڈٹ گارنٹی منظور کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419746/us-stocks-rebound-as-oil-prices-retreat)*
+*   پاکستان اسٹیٹ بینک (SBP) نے مالیاتی نظام کی مضبوطی کے لیے اوپن مارکیٹ آپریشنز (OMOs) کے ذریعے 4.5 ٹریلین روپے سے زیادہ کی رقم کی فراہمی کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/sbp-injects-over-rs4-5-trillion-via-omos-to-support-liquidity)*
 
 ## سائنس اور ٹیکنالوجی
 
-* ڈیجیٹل تبدیلی کو کامیاب بنانے کے لیے ایک قابل اعتماد راستہ۔ *[ARY News](https://arynews.tv/digital-transformation-improve-efficiency-and-growth)*
+*   سابق نادرا چیئرمین طارق ملک کو امریکی کمپنی اوکٹا نے ڈیجیٹل شناخت کے رہنماؤں کی فہرست میں شامل کیا ہے۔ *[Dawn](https://www.dawn.com/news/1997688/ex-nadra-chairman-tariq-malik-included-in-us-based-companys-list-recognising-digital-identity-pioneers)*
+*   بھارت میں پنجاب نیشنل بینک (PNB) نے جدید AI ماڈلز بشمول اینٿروپک کے مائیٿوس کے خطرات کے پیش نظر سائبر سیکیورٹی کے اخراجات میں اضافہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419751/indias-pnb-hikes-cybersecurity-spend-as-ai-models-including-anthropics-mythos-raise-risks)*
 
 ## موسم
 
-* ملک گیر سطح پر شدید گرمی کے باعث ایمرجنسی پروٹوکول نافذ کر دیے گئے، این ڈی ایم اے نے ہسپتالوں کو الرٹ پر رکھا ہے۔ *[Dawn](https://www.dawn.com/news/1997631/extreme-heat-prompts-nationwide-emergency-protocols)*
-* کراچی میں گزشتہ آٹھ سالوں میں سب سے زیادہ گرم دن ریکارڈ کیا گیا، درجہ حرارت 44.1 ڈگری سینٹی گریڈ تک پہنچ گیا، 10 افراد جاں بحق ہوئے۔ *[Dawn](https://www.dawn.com/news/1997593/10-found-dead-as-karachi-endures-hottest-day-in-eight-years)*
-* کراچی میں شدید گرمی، بجلی کی طویل بندشیں اور پانی کی قلت سے عوام پریشان ہیں۔ *[Dawn](https://www.dawn.com/news/1997593/10-found-dead-as-karachi-endures-hottest-day-in-eight-years)*
-* ملک میں مئی اور جون کے مہینوں میں معمول سے زیادہ درجہ حرارت رہنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/1997631/extreme-heat-prompts-nationwide-emergency-protocols)*
+*   کراچی میں گرم موسم برقرار رہے گا لیکن درجہ حرارت 40 ڈگری سینٹی گریڈ سے نیچے رہے گا۔ *[Dawn](https://www.dawn.com/news/1997698/hot-weather-to-persist-in-karachi-but-temperature-to-stay-below-40c)*
 
 ## سیاست
 
-* پی ٹی آئی میں پنجاب کے امور کی نگرانی کے لیے کمیٹی کے قیام سے ناراضگی پائی جاتی ہے۔ *[Dawn](https://www.dawn.com/news/1997621/formation-of-coordination-body-stirs-up-bad-blood-in-pti)*
-* سابق وزیراعظم عمران خان نے 2022 میں متنازع پروجیکٹ سے دستبرداری کر دی تھی۔ *[Dawn](https://www.dawn.com/news/1997580/imran-exited-controversial-project-in-2022)*
-* اسلام آباد ہائی کورٹ نے کونسل آف اسلامی آئیڈیالوجی کو فوجداری ذمہ داریوں پر فیصلہ دینے کا اختیار نہیں دیا۔ *[Dawn](https://www.dawn.com/news/1997627/council-of-islamic-ideology-has-no-authority-to-rule-on-criminal-liability-ihc)*
-* بھارت میں مودی کی پارٹی نے مغربی بنگال میں "ریکارڈ" فتح حاصل کی ہے۔ *[Dawn](https://www.dawn.com/news/1997401/indias-modi-celebrates-record-win-in-opposition-held-west-bengal)*
+*   پی ٹی آئی کے رہنما سلمان اکرم راجہ نے پنجاب رابطہ اور نگرانی کمیٹی کی تشکیل پر اپنے فیصلے کا دفاع کیا۔ *[Dawn](https://www.dawn.com/news/1997770/ptis-raja-stands-by-decision-on-punjab-coordination-and-monitoring-committee-composition)*
+*   جے یو آئی-ایف نے مولانا ادریس کے قتل کے خلاف بدھ اور جمعہ کو ملک گیر احتجاج کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1997778/jui-f-to-hold-nationwide-protests-on-wednesday-friday-over-killing-of-cleric-maulana-idrees)*
+*   خیبر پختونخوا کے وزیر اعلیٰ سہیل آفریدی نے مرکز کی جانب سے صوبے کے ساتھ مبینہ طور پر ہونے والی ناانصافی کے خلاف کل (6 مئی) کو قلم چھوڑ ہڑتال کا اعلان کیا۔ *[Dawn](https://www.dawn.com/news/1997725/cm-afridi-announces-pen-down-strike-on-may-6-over-centres-discrimination-against-kp)*
+*   وزیراعظم شہباز شریف نے متحدہ عرب امارات (یو اے ای) میں میزائل اور ڈرون حملوں کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/1997705/pm-shehbaz-condemns-drone-missile-attacks-in-uae)*
+*   بھارت کے وزیر اعظم مودی نے مغربی بنگال میں اپنی پارٹی کی تاریخی فتح کے بعد بھارت کی سیاست پر اپنی گرفت مضبوط کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419736/indias-modi-expands-reach-clinching-opposition-stronghold)*
 
 ## قومی
 
-* سپریم کورٹ نے چوٹو گینگ کے ارکان کی سزائے موت برقرار رکھی ہے۔ *[Dawn](https://www.dawn.com/news/1997628/supreme-court-upholds-death-sentences-of-chotu-gang-members)*
-* این اے بی نے بحریہ ٹاؤن کو غیر قانونی طور پر الاٹ کی گئی 80 ایکڑ زمین بحال کرائی۔ *[Dawn](https://www.dawn.com/news/1997514/nab-recovers-80-acres-of-govt-land-illegally-allotted-to-bahria-town)*
-* جنوبی وزیرستان میں فوج کے چیک پوسٹ پر خودکش حملہ ناکام، ایک شہری شہید، 15 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1997513/suicide-attack-foiled-on-army-check-post-in-south-waziristan-civilian-martyred-15-injured)*
+*   آرمی چیف نے کہا کہ علاقائی امن اور استحکام اجتماعی ضبط، ذمہ داری اور خودمختاری کے احترام سے منسلک ہے۔ *[Dawn](https://www.dawn.com/news/1997771/regional-peace-stability-linked-to-collective-restraint-respect-for-sovereignty-armys-top-brass)*
+*   این سی سی آئی اے نے پنجاب میں "اینٹی سٹیٹ" سوشل میڈیا سرگرمیوں کے خلاف کارروائی کرتے ہوئے 13 کارکنوں کو گرفتار کیا۔ *[Dawn](https://www.dawn.com/news/1997726/nccia-arrests-13-activists-in-punjab-in-crackdown-on-anti-state-social-media-activity)*
+*   اسلام آباد ہائی کورٹ نے یوٹیوبر راجاب بٹ کا نام پاسپورٹ کنٹرول لسٹ (PCL) سے ہٹانے کا حکم دیا۔ *[Dawn](https://www.dawn.com/news/1997780/rajab0505)*
+*   پولیس نے کراچی میں احتجاج کرنے والے عورات مارچ کے کارکنوں کو رہا کر دیا۔ *[Dawn](https://www.dawn.com/news/1997753/police-release-aurat-march-activists-after-brief-detention-in-karachi)*
+*   کراچی میں میٹرک امتحانات کی مبینہ بدانتظامی کے بعد بی ایس ای کے چیئرمین غلام حسین سوهو نے استعفیٰ دے دیا۔ *[Dawn](https://www.dawn.com/news/1997734/bsek-chairman-resigns-following-allegations-of-mismanagement-of-matric-exams-in-karachi)*
+*   قومی اسمبلی کی قائمہ کمیٹی کو بتایا گیا کہ اینٹی ریٹرو وائرل تھراپی (ART) مراکز پر علاج شروع کرنے والے تقریباً 20,000 مریض "غائب" ہیں۔ *[Dawn](https://www.dawn.com/news/1997760/nearly-20000-patients-missing-after-initiating-treatment-at-hiv-centres-na-committee-told)*
+*   مولانا محمد ادریس کو کے پی کے کے چارسدہ میں گولی مار کر ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/1997685/prominent-cleric-muhammad-idrees-gunned-down-in-kps-charsadda)*
 
 ## بین الاقوامی
 
-* یوکرین اور روس نے علیحدہ طور پر جنگ بندی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1997531/ukraine-and-russia-declare-separate-truces)*
-* متحدہ عرب امارات نے ایران کے میزائلوں کو روکنے کا دعویٰ کیا ہے، فجیرہ کے تیل زون پر ڈرون حملہ ہوا۔ *[Dawn](https://www.dawn.com/news/1997510/fujairah-oil-zone-hit-by-drone-attack-as-uae-says-it-intercepted-iranian-missiles)*
-* امریکہ اور ایران کے درمیان خلیج فارس کے کنٹرول کے لیے کشمکش جاری ہے، تیل کی قیمتیں بڑھ رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419677/shares-slide-oil-prices-elevated-as-us-iran-truce-prospects-dim)*
-* امریکہ نے ایرانی بحاروں کو رہا کر کے پاکستان منتقل کیا، وہ اپنے وطن واپس چلے گئے۔ *[Dawn](https://www.dawn.com/news/1997392/iranian-sailors-evacuated-to-pakistan-return-home-state-media-confirms)*
+*   امریکہ نے ایران پر شپنگ پر حملے کی صورت میں "تباہ کن" ردعمل کی دھمکی دی۔ *[Dawn](https://www.dawn.com/news/1997773/us-threatens-devastating-response-to-any-iran-attack-on-shipping)*
+*   اسرائیلی عدالت نے غزہ فلوٹیلا کے دو کارکنوں کی حراست چھ دنوں تک بڑھا دی۔ *[Dawn](https://www.dawn.com/news/1997759/israel-court-extends-gaza-flotilla-activists-detention-by-six-days)*
+*   یوکرین کے صدر زیلنسکی نے ایران کے خلاف ڈرون معاہدے کی پیشکش کرتے ہوئے خلیج کے دورے جاری رکھے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419748/zelensky-offers-bahrain-drone-deal-in-latest-gulf-trip)*
+*   چین کے ہنان صوبے میں آتش فشاں فیکٹری میں دھماکے سے 21 افراد ہلاک اور 61 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/1997692/blast-at-fireworks-factory-in-chinas-hunan-kills-21-state-media-says)*
+*   یو اے ای نے کہا کہ اس کے فضائی دفاع ایران کی جانب سے آنے والے میزائل اور ڈرون حملوں سے نمٹ رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40419750/uae-says-air-defences-dealing-with-missile-and-drone-attacks-from-iran)*
 
 ## کھیل
 
-* کوئی خبر نہیں
+*   فِفا نے ورلڈ کپ میں شرکت کے حوالے سے ایران کو ہیڈ کوارٹر میں بات چیت کے لیے مدعو کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40419737/fifa-invites-iran-to-headquarters-for-world-cup-talks)*
+*   سبالینکا نے کہا کہ اگر انعام کی رقم میں اضافہ نہیں کیا گیا تو کھلاڑی فرنچ اوپن کا بائیکاٹ کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40419749/players-would-boycott-french-open-over-prize-money-dispute-says-sabalenka)*
 
 ## صحت
 
-* کوئی خبر نہیں
+*   تقریباً 20,000 مریض اینٹی ریٹرو وائرل تھراپی (اے آر ٹی) مراکز پر علاج شروع کرنے کے بعد لاپتہ ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/1997760/nearly-20000-patients-missing-after-initiating-treatment-at-hiv-centres-na-committee-told)*
 
 ## دیگر
 
-* جوزف سٹالن کی روح کے نوحہ گریہ۔ *[Dawn](https://www.dawn.com/news/1997642/requiem-for-stalins-spirit)*
-* ہری پوٹر کے جادوئی عالم پر ایک تبصرہ۔ *[Dawn](https://www.dawn.com/news/1997643/marked-as-equals)*
-* توانائی کے بحران کی صورتحال۔ *[Dawn](https://www.dawn.com/news/1997638/energy-shock)*
-* فلموں کے جائزے: بلیو مون، سینڈ ہیلپ، وِکڈ، ہیمنیٹ۔ *[ARY News](https://arynews.tv/blue-moon-2025-movie-review)*, *[ARY News](https://arynews.tv/send-help-rachel-mcadams-movie-review-2025)*, *[ARY News](https://arynews.tv/wicked-for-good-movie-review-2025)*, *[ARY News](https://arynews.tv/hamnet-2025-movie-review)*
-* جیکی پال نے اولیویا روڈریگو کےSNL تبصرے کا جواب دیا۔ *[ARY News](https://arynews.tv/jake-paul-responds-after-olivia-rodrigos-snl-jab)*
-* وائٹ ہاؤس کے قریب فائرنگ، سیکرٹ سروس کا ردعمل۔ *[ARY News](https://arynews.tv/secret-service-says-it-exchanged-gunfire-near-white-house)*, *[Business Recorder](https://www.brecorder.com/news/40419679/secret-service-says-it-exchanged-gunfire-with-armed-suspect-near-white-house)*
-* چین میں آتش فشاں فیکٹری میں دھماکا، 21 افراد ہلاک، صدر شی جن پنگ نے تحقیقات کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40419678/blast-at-fireworks-factory-in-chinas-hunan-kills-21-xi-calls-for-probe-state-media-says)*
-* سونے کی قیمت میں استحکام، مشرق وسطیٰ کے خطرات اور امریکہ-ایران کی مذاکرات کی تعطل کا اثر۔ *[Business Recorder](https://www.brecorder.com/news/40419672/gold-steady-as-investors-weigh-middle-east-risks-stalled-us-iran-peace-talks)*
-* یین مستحکم، ڈالر مشرق وسطیٰ کے جنگی خدشات کے باعث مضبوط ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419673/yen-steady-dollar-firms-on-middle-east-war-fears)*
-* بھارت میں تیل کی قیمتوں میں اضافہ، روپے کی قدر میں کمی کا خطرہ۔ *[Business Recorder](https://www.brecorder.com/news/40419676/indian-rupee-at-risk-of-all-time-low-on-long-standing-oil-drag)*
-* بھارت میں شیئر مارکیٹ میں مندی، تیل کی قیمتوں میں اضافہ اور کمپنیوں کے نتائج پر توجہ۔ *[Business Recorder](https://www.brecorder.com/news/40419675/indian-shares-set-to-open-lower-on-elevated-oil-prices-lampt-mampm-results-in-focus)*
-* تیل کی قیمتوں میں کمی، امریکہ کی جانب سے ایران کے ہرمز کی تنگ گذرگاہ کے کنٹرول کو نرم کرنے کے اشارے۔ *[Business Recorder](https://www.brecorder.com/news/40419674/oil-eases-on-signs-us-is-loosening-iranian-closure-of-strait-of-hormuz)*
-* پانی کی کوالٹی پر بڑھتا ہوا دباؤ۔ *[Business Recorder](https://www.brecorder.com/news/40419568/water-quality-under-growing-strain)*
-* سسٹم لمیٹڈ کا تجزیہ۔ *[Business Recorder](https://www.brecorder.com/news/40419593/systems-limited)*
-* انڈس کلاؤڈ لمیٹڈ، انڈس ڈی سی رئیٹ اور یو بی ایل کے درمیان اسٹریٹجک پارٹنرشپ۔ *[Business Recorder](https://www.brecorder.com/news/40419596/digital-infrastructure-and-cloud-adoption-indus-cloud-ltd-indus-dc-reit-and-ubl-form-strategic-partnership)*
-* سائرجی ایڈورٹائزنگ نے مسلسل دوسری بار AFAA برلیئنس ایوارڈ جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40419597/synergy-advertising-wins-afaa-brilliance-awards-for-second-year)*
-* GO نے COCO اسٹیشنوں پر اب تک کی سب سے زیادہ 24 گھنٹے کی فروخت کا ریکارڈ قائم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40419598/go-records-highest-ever-24-hour-sales-at-coco-stations)*
-* قومی اسمبلی کے اسپیکر نے وفات پر تعزیت کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40419599/na-speaker-condoles-death)*
-* وزیراعلیٰ پنجاب نے PDP اور LDP پر پیشرفت کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40419601/cm-reviews-progress-on-pdp-ldp)*
-* وزیراعلیٰ پنجاب نے بہادر فائر فائٹرز کو خراج تحسین پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40419602/cm-pays-tribute-to-brave-firefighters)*
-* اپریل میں سیمنٹ کی ترسیل میں سال بہ سال 11.14 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40419603/april-cement-despatches-increase-by-1114pc-yoy)*
-* بائیک اور تین پہیے گاڑیوں کی فروخت نو ماہ میں 30.87 فیصد بڑھ کر 1.43 ملین یونٹ ہوگئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/bike-three-wheeler-sales-reach-1-43-million-units-up-30-87-in-nine-months)*
-* این بی آر نے 683 ارب روپے کی کمی کو پورا کرنے کے لیے ریکوری کو سخت کر دیا، ڈیفالٹرز کو نشانہ بنایا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/fbr-tightens-recovery-targets-defaulters-to-bridge-rs683-billion-shortfall)*
-* چاندی کی قیمت آج پاکستان میں، 5 مئی 2026۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/silver-price-in-pakistan-for-today-may-05-2026)*
-* سونے کی قیمت آج پاکستان میں، 5 مئی 2026۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/gold-price-in-pakistan-for-today-may-05-2026)*
-* ایس بی پی کی شرح میں اضافے سے سی پی پی اے-جی کے سرکلر ڈیٹ کے قرضوں پر سالانہ 13 ارب روپے کا اضافی بوجھ پڑنے کا امکان ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/sbp-rate-hike-may-add-rs13-billion-annual-cost-to-cppa-g-circular-debt-loans)*
-* ایشیا ایران جنگ کی وجہ سے بڑھتے ہوئے توانائی بحران سے نمٹ رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/asia-battles-rising-uneven-toll-of-energy-crisis-caused-by-iran-war)*
-* متحدہ عرب امارات کا کہنا ہے کہ وہ امریکہ کے ساتھ کرنسی سویپ لائن پر تبادلہ خیال کر رہے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/uae-says-it-is-discussing-currency-swap-line-with-us)*
-* پاکستان نے اے ڈی بی سے نمائش کی حدیں نرم کرنے اور اعلیٰ ضرورت والی معیشتوں کے لیے مالی اعانت بڑھانے کا مطالبہ کیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/pakistan-urges-adb-to-ease-exposure-limits-scale-up-financing-for-high-need-economies)*
+*   بھارتی پائلٹوں نے گزشتہ سال کے ایئر انڈیا کے حادثے کی مزید تحقیقات کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/1997708/indian-pilots-demand-further-probe-of-last-years-air-india-crash)*
+*   کی ٹرمپ نے اپنے نام کی وجہ سے ہونے والے تعصب کے بارے میں کھل کر بات کی۔ *[ARY](https://arynews.tv/kai-trump-opens-up-about-struggling-with-last-name-prejudice)*
+*   ہگ جیک مین اور سٹن فوسٹر کا میٹ گالا ریڈ کارپٹ پر ڈیبیو تنازع کا باعث بنا۔ *[ARY](https://arynews.tv/hugh-jackman-sutton-fosters-met-gala-red-carpet-debut-ignites-controversy)*
+*   کیٹی پیری کا میٹ گالا 2026 فائر اسکینڈل: حقائق سے افسانے کو الگ کرنا۔ *[ARY](https://arynews.tv/katy-perrys-met-gala-2026-fire-scandal-separating-fact-from-fiction)*
+*   کیمبرج سسٹم کو ایک اور دھچکا، اے لیول بزنس اسٹڈیز کا پیپر لیک ہوا۔ *[ARY](https://arynews.tv/another-blow-to-cambridge-system-as-a-level-business-studies-paper-leaked)*
+*   جوناتھن ٹیرسٹن، سلیپ اوے کیمپ کے اداکار، 60 سال کی عمر میں انتقال کر گئے۔ *[ARY](https://arynews.tv/jonathan-tiersten-sleepaway-camp-actor-passes-away-at-60)*
+*   این اے بی نے حیدرآباد میں 6 ارب روپے مالیت کی 80 ایکڑ اراضی بحال کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/nab-recovers-80-acres-of-land-worth-rs6-billion-in-hyderabad/)*
+*   یوسف ویونگ سی ای او کو ان کے بقایا قرض کے مقابلے میں 36.35 ملین حصص جاری کرے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/yousaf-weaving-to-issue-36-35-million-shares-to-ceo-against-his-outstanding-loan/)*
+*   پی ایس او میں سینئر سطح پر ملازمتیں منجمد، بورڈ کی مدت 28 مئی کو ختم ہو گئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/govt-freezes-senior-level-hiring-at-pso-as-board-term-ends-on-may-28/)*
+*   اسلام آباد کے رئیل اسٹیٹ ایجنٹوں کا کہنا ہے کہ ون کانسٹیٹوشن ایونیو اپارٹمنٹس میں خریدنا اب بہترین وقت ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/right-time-to-buy-the-dip-in-one-constitution-avenue-apartments-say-islamabad-real-estate-agents/)*
 
