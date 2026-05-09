@@ -4,67 +4,56 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 05-May-2026 21:02PKT
+Published at: 09-May-2026 16:35PKT
 
 Time to read: 5 mins
 
 ### Economy
-- Pakistan missed its targets for attracting $8 billion in FDI and creating 500,000 jobs in Special Economic Zones between 2018 and 2024. *[Dawn](https://www.dawn.com/news/1997769/pakistan-misses-8bn-sez-investment-500000-job-targets-minister)*
-- The SBP injected over Rs4.5 trillion into the banking system via OMOs to support liquidity. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/sbp-injects-over-rs4-5-trillion-via-omos-to-support-liquidity)*
-- Private sector lending has fallen to 22% of bank assets as government borrowing dominates. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/private-sector-lending-falls-to-22-of-bank-assets-as-govt-borrowing-dominates)*
-- Pakistan’s cement despatches rose 11.14% in April due to strong local demand. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/pakistans-cement-despatches-rise-11-14-in-april-on-strong-local-demand)*
-- India approved a $1.9 billion credit guarantee to support businesses hit by the Middle East crisis. *[Business Recorder](https://www.brecorder.com/news/40419746/us-stocks-rebound-as-oil-prices-retreat)*
-- US stocks rebounded as oil prices retreated. *[Business Recorder](https://www.brecorder.com/news/40419746/us-stocks-rebound-as-oil-prices-retreat)*
-- India's NSE posted an 8% rise in fourth-quarter profit on derivative volumes. *[Business Recorder](https://www.brecorder.com/news/40419754/indias-nse-posts-8-rise-in-fourth-quarter-profit-on-derivative-volumes)*
-
-### Politics
-- PTI’s Salman Akram Raja affirmed his decision on the composition of the Punjab Coordination and Monitoring Committee, refusing to exclude existing members or add new ones. *[Dawn](https://www.dawn.com/news/1997770/ptis-raja-stands-by-decision-on-punjab-coordination-and-monitoring-committee-composition)*
-- KP Chief Minister Sohail Afridi announced a province-wide pen-down strike on May 6, protesting alleged discrimination by the federal government. *[Dawn](https://www.dawn.com/news/1997725/cm-afridi-announces-pen-down-strike-on-may-6-over-centres-discrimination-against-kp)*
-- Prime Minister Shehbaz Sharif condemned missile and drone attacks in the UAE, expressing solidarity with the country’s President. *[Dawn](https://www.dawn.com/news/1997705/pm-shehbaz-condemns-drone-missile-attacks-in-uae)*
-- An Indian chief minister refused to resign after an election defeat to Modi's BJP. *[Business Recorder](https://www.brecorder.com/news/40419752/indian-chief-minister-refuses-to-resign-after-election-defeat-to-modis-bjp)*
-
-### National
-- The Islamabad High Court ordered the removal of YouTuber Rajab Butt’s name from the Passport Control List, citing violations of fundamental rights. *[Dawn](https://www.dawn.com/news/1997780/rajab0505)*
-- The NCCIA arrested 13 activists in Punjab in a crackdown on ‘anti-state’ social media activity. *[Dawn](https://www.dawn.com/news/1997726/nccia-arrests-13-activists-in-punjab-in-crackdown-on-anti-state-social-media-activity)*
-- Police briefly detained and then released seven Aurat March activists in Karachi after they gathered for a press conference. *[Dawn](https://www.dawn.com/news/1997753/police-release-aurat-march-activists-after-brief-detention-in-karachi)*
-- Nearly 20,000 HIV patients are “missing” after initiating treatment at ART centers, the National Assembly’s Standing Committee on Health was informed. *[Dawn](https://www.dawn.com/news/1997760/nearly-20000-patients-missing-after-initiating-treatment-at-hiv-centres-na-committee-told)*
-- Prominent cleric Maulana Muhammad Idrees was gunned down in KP's Charsadda, prompting JUI-F to announce nationwide protests. *[Dawn](https://www.dawn.com/news/1997685/prominent-cleric-muhammad-idrees-gunned-down-in-kps-charsadda)*
-- The BSEK chairman resigned following allegations of mismanagement of matric exams in Karachi. *[Dawn](https://www.dawn.com/news/1997734/bsek-chairman-resigns-following-allegations-of-mismanagement-of-matric-exams-in-karachi)*
-- NAB recovered 80 acres of land worth Rs6 billion in Hyderabad. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/nab-recovers-80-acres-of-land-worth-rs6-billion-in-hyderabad/)*
-
-### International
-- The US threatened a “devastating” response to any Iran attack on commercial shipping, while maintaining the ceasefire still holds. *[Dawn](https://www.dawn.com/news/1997773/us-threatens-devastating-response-to-any-iran-attack-on-shipping)*
-- An Israeli court extended the detention of two Gaza flotilla activists by six days. *[Dawn](https://www.dawn.com/news/1997759/israel-court-extends-gaza-flotilla-activists-detention-by-six-days)* & *[Business Recorder](https://www.brecorder.com/news/40419724/israel-court-extends-gaza-flotilla-activists-detention-until-sunday)*
-- A blast at a fireworks factory in China’s Hunan province killed 21 people and injured 61. *[Dawn](https://www.dawn.com/news/1997692/blast-at-fireworks-factory-in-chinas-hunan-kills-21-state-media-says)*
-- India may discuss BrahMos missile sale to Vietnam during the presidential visit. *[Dawn](https://www.dawn.com/news/1997712/india-may-discuss-brahmos-missile-sale-to-vietnam-during-presidential-visit-sources-say)*
-- Zelensky offered a drone deal to Bahrain during his Gulf trip. *[Business Recorder](https://www.brecorder.com/news/40419748/zelensky-offers-bahrain-drone-deal-in-latest-gulf-trip)*
-- The UAE said its air defenses are dealing with missile and drone attacks from Iran. *[Business Recorder](https://www.brecorder.com/news/40419750/uae-says-air-defences-dealing-with-missile-and-drone-attacks-from-iran)*
-- FIFA invited Iran to headquarters for World Cup talks. *[Business Recorder](https://www.brecorder.com/news/40419737/fifa-invites-iran-to-headquarters-for-world-cup-talks)*
-- EU is prepared for every scenario after Trump car tariff threat. *[Business Recorder](https://www.brecorder.com/news/40419739/eu-prepared-for-every-scenario-after-trump-car-tariff-threat)*
+- The government has increased petrol prices by approximately Rs15 per litre and high-speed diesel by Rs15, intensifying inflationary pressures. *[Dawn](https://www.dawn.com/news/1998722/govt-hikes-petrol-by-rs1492-per-litre-high-speed-diesel-by-rs15)* *[ARY](https://arynews.tv/petrol-price-in-pakistan-may-09-2026)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/08/petrol-diesel-prices-jump-by-rs15-litre/)*
+- The IMF Executive Board has approved $1.2 billion in financing for Pakistan's reform programme. *[Dawn](https://www.dawn.com/news/1998725/imfs-executive-board-approves-12-billion-financing-for-pakistans-reform-programme)*
+- Pakistan's short-term inflation has climbed 15.16% year-on-year, driven largely by fuel costs. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/pakistans-short-term-inflation-climbs-15-16-yoy-driven-by-fuel-costs/)*
+- Global oil prices, including Brent crude, have surged due to military escalations between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40420349/oil-prices-jump)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/08/oil-prices-surge-as-brent-gains-3-amid-iran-us-air-strike-escalation/)*
+- The government has introduced the Pakistan Sovereign Wealth Fund (Amendment) Bill, 2026, in the Senate to improve governance and fiscal safeguards. *[Business Recorder](https://www.brecorder.com/news/40420351/govt-tables-sovereign-wealth-fund-bill-in-senate)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/govt-proposes-amendments-to-pakistan-sovereign-wealth-fund-law-bill-introduced-in-senate/)*
+- Amidst economic uncertainty and the Mideast war, Pakistan's "wedding economy" is seeing reduced activity and higher venue costs. *[Dawn](https://www.dawn.com/news/1998854/mideast-war-taking-a-toll-on-pakistans-wedding-economy)*
+- Financial and market updates include the listing of Wahdat Poultry Farm on the PSX, record highs for the S&P 500 and Nasdaq, and Japan's $64 billion yen intervention. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/wahdat-poultry-farm-lists-on-psx-main-board-after-ipo-completion/)* *[ARY](https://arynews.tv/sp-500-and-nasdaq-hit-records-boosted-by-ai-and-earnings-optimism)* *[Business Recorder](https://www.brecorder.com/news/40420334/japan-spent-usd64bn-in-yen-interventions)*
+- Economic policy discussions involve removing untargeted electricity subsidies, addressing the exodus of multinational companies, and reviving $6 billion in refinery upgrade projects. *[Dawn](https://www.dawn.com/news/1998809/taxation-with-equity)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/govt-moves-to-revive-6-billion-refinery-upgrade-project-with-tax-relief-stability-guarantees/)*
+- The IMF cautioned that privatizing Zarai Taraqiati Bank could limit credit access for small farmers. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/imf-warns-zarai-taraqiati-bank-privatisation-may-affect-credit-access-for-small-farmers/)*
+- US container imports fell 5.5% in April due to trade policy and geopolitical disruptions. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/08/us-container-imports-fall-5-5-in-april-amid-trade-policy-and-geopolitical-disruptions/)*
 
 ### Science & Technology
-- Former Nadra chairman Tariq Malik was included in a US-based company’s list recognizing digital identity pioneers. *[Dawn](https://www.dawn.com/news/1997688/ex-nadra-chairman-tariq-malik-included-in-us-based-companys-list-recognising-digital-identity-pioneers)*
-- India's PNB hikes cybersecurity spend as AI models raise risks. *[Business Recorder](https://www.brecorder.com/news/40419751/indias-pnb-hikes-cybersecurity-spend-as-ai-models-including-anthropics-mythos-raise-risks)*
+- President Donald Trump and the Department of Defense have released previously classified files regarding UFO sightings and extraterrestrial life. *[Business Recorder](https://www.brecorder.com/news/40420336/trump-releases-previously-classified-ufo-files)*
 
-### Weather
-- Karachi will experience hot but below 40°C temperatures in the coming days. *[Dawn](https://www.dawn.com/news/1997698/hot-weather-to-persist-in-karachi-but-temperature-to-stay-below-40c)*
+### Politics
+- The Prime Minister of Pakistan is scheduled to visit China later this month to enhance bilateral trade and investment. *[Business Recorder](https://www.brecorder.com/news/40420286/pm-to-visit-china-this-month-qaiser)*
+- The government is attempting to facilitate political dialogue between Prime Minister Shehbaz Sharif and opposition leader Mehmood Khan Achakzai. *[Business Recorder](https://www.brecorder.com/news/40420287/govt-trying-to-bring-pm-achakzai-to-the-negotiating-table)*
+- The Istehkam-e-Pakistan Party (IPP) and Islami Tehreek Pakistan (ITP) have agreed to electoral cooperation in Gilgit-Baltistan. *[Business Recorder](https://www.brecorder.com/news/40420316/g-b-elections-ipp-itp-agree-for-electoral-cooperation-in-constituencies)*
+- Pakistan's Minister of State for Law and Justice reaffirmed the country's commitment to mediating the conflict between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40420288/me-conflict-aqeel-reaffirms-pakistans-commitment-to-mediation-efforts)*
+- The Senate discussed implementing austerity measures in the Upper House amid a looming fuel crisis. *[Business Recorder](https://www.brecorder.com/news/40420289/upper-house-of-parliament-gilani-aurangzeb-discuss-austerity-measures)*
 
-### Sports
-- Players would boycott the French Open over prize money dispute, says Sabalenka. *[Business Recorder](https://www.brecorder.com/news/40419749/players-would-boycott-french-open-over-prize-money-dispute-says-sabalenka)*
+### National
+- A constitutional row persists as the Federal Constitutional Court's staff pay and perks have surpassed those of the Supreme Court. *[Dawn](https://www.dawn.com/news/1998858/federal-constitutional-court-staff-pay-perks-surpass-supreme-courts-amid-supremacy-row)*
+- The Federal Constitutional Court struck down Section 7E of the Income Tax Ordinance, declaring the tax on deemed property income unconstitutional. *[Business Recorder](https://www.brecorder.com/news/40420280/striking-down-a-grossly-unfair-tax-law)*
+- Security remains a major concern as Quetta is on high alert following 150 threat alerts, and security forces killed five terrorists in Tank and DI Khan. *[Dawn](https://www.dawn.com/news/1998852/quetta-on-high-alert-amid-rising-security-threats)* *[Dawn](https://www.dawn.com/news/1998739/security-forces-kill-five-terrorists-in-tank-di-khan-in-ibos-ispr)*
+- The Islamabad High Court issued notices to the Federal Tax Ombudsman and the President’s Office regarding suo moto proceedings. *[Business Recorder](https://www.brecorder.com/news/40420285/suo-moto-proceedings-under-fto-ordinance-ihc-issues-notices-to-fto-presidents-office)*
+- The Interior Ministry denied reports of targeted deportations of Pakistanis from the UAE. *[Dawn](https://www.dawn.com/news/1998692/interior-ministry-denies-reports-of-country-or-sect-specific-deportation-of-pakistanis-from-uae)*
+- Notable incidents include a quadcopter explosion in Bannu injuring eight people, a major water theft network uncovered in Karachi, and a CDA inquiry into illegal sales at Al-Mustafa Tower. *[Dawn](https://www.dawn.com/news/1998732/quadcopter-attack-in-kps-bannu-injures-8-including-women)* *[Business Recorder](https://www.brecorder.com/news/40420284/major-water-theft-network-uncovered-in-karachi)* *[Dawn](https://www.dawn.com/news/1998781/capital-development-authority-launches-inquiry-into-illegal-sale-of-amenity-spaces-in-al-mustafa-tower)*
+- Social and developmental news includes senators expressing alarm over rising violence against women and the launch of a rehabilitation programme in Gilgit-Baltistan by the Aga Khan Foundation and Bank Alfalah. *[Dawn](https://www.dawn.com/news/1998714/senators-alarmed-by-surge-in-violence-against-women-5pc-conviction-rate-termed-systemic-failure)* *[Business Recorder](https://www.brecorder.com/news/40420290/gilgit-baltistan-aga-khan-foundation-bank-alfalah-launch-rehabilitation-programme)*
+- Other national updates include the PAF's aerial displays for the Marka-i-Haq anniversary and potential flight delays at Islamabad airport. *[Dawn](https://www.dawn.com/news/1998782/paf-jets-light-up-skies-in-twin-cities-ahead-of-marka-i-haq-anniversary)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/pakistan-airports-authority-warns-of-temporary-flight-delays-at-islamabad-airport/)*
+
+### International
+- The anniversary of the recent military conflict between Pakistan and India has highlighted ongoing regional risks of unpredictable escalation. *[Dawn](https://www.dawn.com/news/1998875/a-year-ago-today-risk-of-unpredictable-escalation-looms-over-subcontinent)* *[Business Recorder](https://www.brecorder.com/news/40420279/a-year-on-threat-of-war-persists)*
+- Afghan Taliban leaders contacted JUI-F chief Maulana Fazlur Rehman to offer condolences regarding the killing of a cleric in Charsadda. *[Dawn](https://www.dawn.com/news/1998856/afghan-taliban-leaders-reach-out-to-fazl-express-condolences-over-cleric-s-killing-in-charsadda)*
+- The US Commission on International Religious Freedom has urged the US to designate India as a "country of particular concern." *[Dawn](https://www.dawn.com/news/1998729/us-religious-freedom-commission-calls-for-designating-india-as-country-of-particular-concern)*
+- Australia has imposed sanctions on the Balochistan Liberation Army (BLA) and three of its senior leaders. *[Dawn](https://www.dawn.com/news/1998704/australia-sanctions-bla-three-senior-leaders-for-engagement-in-and-support-of-terrorist-attacks)*
+- ASEAN leaders have called for a rapid ratification of a regional fuel-sharing pact to counter energy security risks from the Middle East. *[Business Recorder](https://www.brecorder.com/news/40420333/asean-summit-ends-with-only-a-push-to-fast-track-oil-share-pact)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/08/asean-pushes-urgent-fuel-sharing-pact-amid-middle-east-energy-shock-concerns/)*
+- US Secretary of State Marco Rubio expressed frustration with allies' lack of support regarding Iran. *[Dawn](https://www.dawn.com/news/1998824/rubio-perplexed-by-allies-lack-of-support-on-iran)*
+- Donald Trump has announced a three-day ceasefire between Ukraine and Russia. *[ARY](https://arynews.tv/trump-announces-three-day-ceasefire-between-ukraine-and-russia)*
+- The BJP has named a new chief minister in West Bengal following a landmark election victory. *[Business Recorder](https://www.brecorder.com/news/40420335/bjp-names-chief-minister-in-west-bengal)*
 
 ### Health
-- (Covered under National - Nearly 20,000 HIV patients missing)
+- The WHO stated there is minimal hantavirus risk to the general public following a case involving a flight attendant. *[Dawn](https://www.dawn.com/news/1998687/who-says-hantavirus-risk-low-after-flight-attendant-tests-negative)*
 
 ### Other
-- An Indian pilot group suggests electrical failure, not pilot action, caused last year’s Air India crash. *[Dawn](https://www.dawn.com/news/1997708/indian-pilots-demand-further-probe-of-last-years-air-india-crash)*
-- Jonathan Tiersten, Sleepaway Camp Actor, Passes Away at 60. *[ARY](https://arynews.tv/jonathan-tiersten-sleepaway-camp-actor-passes-away-at-60)*
-- Katy Perry’s Met Gala 2026 Fire Scandal – Separating Fact from Fiction. *[ARY](https://arynews.tv/katy-perrys-met-gala-2026-fire-scandal-separating-fact-from-fiction)*
-- Kai Trump Opens Up About Struggling with Last Name Prejudice. *[ARY](https://arynews.tv/kai-trump-opens-up-about-struggling-with-last-name-prejudice)*
-- Marcello Hernández makes stylish Met Gala debut with Ana Cabral. *[ARY](https://arynews.tv/marcello-hernandez-makes-stylish-met-gala-debut-with-ana-cabral)*
-- Hugh Jackman & Sutton Foster’s Met Gala Red Carpet Debut Ignites Controversy. *[ARY](https://arynews.tv/hugh-jackman-sutton-fosters-met-gala-red-carpet-debut-ignites-controversy)*
-- Another Blow to Cambridge System as A-Level Business Studies Paper Leaked. *[ARY](https://arynews.tv/another-blow-to-cambridge-system-as-a-level-business-studies-paper-leaked)*
-- I’ve asked power in Pakistan one question for ten years on my podcast. This is the answer. *[Dawn](https://www.dawn.com/news/1997693/ive-asked-power-in-pakistan-one-question-for-ten-years-on-my-podcast-this-is-the-answer)*
-- Government freezes senior-level hiring at PSO as board term ends on May 28. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/govt-freezes-senior-level-hiring-at-pso-as-board-term-ends-on-may-28/)*
-- Yousaf Weaving to issue 36.35 million shares to CEO against his outstanding loan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/yousaf-weaving-to-issue-36-35-million-shares-to-ceo-against-his-outstanding-loan/)*
-- Right time to buy-the-dip in One Constitution Avenue apartments, say Islamabad real estate agents. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/05/right-time-to-buy-the-dip-in-one-constitution-avenue-apartments-say-islamabad-real-estate-agents/)*
+- Entertainment news includes Natalie Portman's life in Paris, Jerry Seinfeld's thoughts on the show 'Friends', and rapper Latto's potential retirement. *[ARY](https://arynews.tv/natalie-portman-shares-rare-peek-into-parisian-life-as-she-awaits-baby-no-3)* *[ARY](https://arynews.tv/jerry-seinfeld-reveals-true-feelings-about-friends-unbelievable)* *[ARY](https://arynews.tv/latto-big-mama-is-her-last-album)*
+- Pop star Dua Lipa made a notable appearance on stage ahead of a wedding. *[ARY](https://arynews.tv/dua-lipa-makes-shocking-appearance-on-stage-ahead-of-wedding)*
 
