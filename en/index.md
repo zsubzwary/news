@@ -4,77 +4,74 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-May-2026 21:05PKT
+Published at: 10-May-2026 09:05PKT
 
 Time to read: 6 mins
 
 ### Economy
-- The ongoing Middle East war is negatively impacting Pakistan's "wedding economy" due to economic uncertainty and austerity measures. *[Dawn](https://www.dawn.com/news/1998854/mideast-war-taking-a-toll-on-pakistans-wedding-economy)*
-- The government has increased petrol prices by Rs14.92 per litre and high-speed diesel by Rs15 per litre. *[Dawn](https://www.dawn.com/news/1998722/govt-hikes-petrol-by-rs1492-per-litre-high-speed-diesel-by-rs15)*
-- Gold prices in Pakistan have seen a decline, dropping by Rs400 per tola. *[Business Recorder](https://www.brecorder.com/news/40420365/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- The parent company of Donald Trump's Truth Social reported a net loss of over $400 million in the first quarter. *[Business Recorder](https://www.brecorder.com/news/40420363/parent-company-of-trumps-truth-social-reports-400mn-loss)*
-- Pakistan's government is reviewing the export rebate framework ahead of the upcoming federal budget. *[Business Recorder](https://www.brecorder.com/news/40420369/govt-reviews-export-rebate-framework-ahead-of-budget)*
-- The Pakistan Stock Exchange (PSX) has listed the country's first Special Purpose Acquisition Company (SPAC). *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/pakistan-stock-exchange-lists-countrys-first-special-purpose-acquisition-company/)*
-- Nepra has approved a ₨42.6 billion investment plan for PESCO, a significant reduction from the original proposal. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/nepra-approves-%e2%82%a842.6-billion-investment-plan-for-pesco-cuts-proposed-spending-by-two-thirds/)*
-- Business groups are urging the government to implement tariff reforms and lower energy costs in the new budget. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/business-groups-urge-tariff-reforms-lower-energy-costs-ahead-of-budget-propose-district-economy-model/)*
-- The government plans to introduce a scrutiny committee for FBR appeals to reduce pending tax litigation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/govt-plans-scrutiny-committee-for-fbr-appeals-as-tax-litigation-cases-exceed-85000/)*
+- Finance Minister Muhammad Aurangzeb noted that Pakistan's economy shows signs of recovery through growth in manufacturing, exports, and remittances despite regional tensions. *[Dawn](https://www.dawn.com/news/1998966/finmin-says-economic-recovery-remains-intact-amid-regional-conflict-assures-uninterrupted-fuel-supply)*
+- Surging petrol prices, which have reached Rs415 per litre, have nearly doubled commuting costs for ride-hailing services. *[Dawn](https://www.dawn.com/news/1999091/petrol-pain-doubles-ride-fares)*
+- The government increased the Petroleum Levy on petrol and diesel to meet IMF conditions, a move expected to drive inflation. *[Business Recorder](https://www.brecorder.com/news/40420411/petrol-amp-diesel-petroleum-levy-hiked-to-meet-imf-terms)*
+- The IMF advised Pakistan to maintain strong macroeconomic policies and accelerate reforms to manage external shocks from Middle East conflicts. *[Business Recorder](https://www.brecorder.com/news/40420412/pakistan-needs-to-maintain-strong-macroeconomic-policies-amid-middle-east-conflict-imf)*
+- Deputy PM Ishaq Dar emphasized fiscal discipline and transparency as key drivers of Pakistan's economic potential. *[Business Recorder](https://www.brecorder.com/news/40420413/dar-positions-economy-as-strong-sustainable-at-south-asian-federation-of-accountants-conference)*
+- Pakistan LNG Limited issued a tender for two LNG cargoes for delivery in mid-to-late May. *[Business Recorder](https://www.brecorder.com/news/40420414/pakistan-lng-limited-issues-new-tender-for-two-lng-cargoes)*
+- Foreign assistance inflows to Pakistan rose by 19.73% during the July-March period of fiscal year 2025-26. *[Business Recorder](https://www.brecorder.com/news/40420415/july-march-foreign-aid-inflows-up-by-1973-ead)*
+- Jet fuel prices have surged, leading to increased operating costs for airlines. *[Business Recorder](https://www.brecorder.com/news/40420416/prices-of-jet-fuel-surge)*
+- Petroleum companies welcomed the federal government's decision to downwardly revise the captive gas levy. *[Business Recorder](https://www.brecorder.com/news/40420417/association-of-petroleum-companies-welcome-downward-revision-of-captive-gas-levy)*
+- The government is pushing for economic growth through increased digitization and improved tax systems. *[Business Recorder](https://www.brecorder.com/news/40420418/digitization-push-govt-creating-new-opportunities-for-economic-boost-advisor)*
+- Federal authorities are reviewing export promotion schemes and budget policy options to support priority sectors. *[Business Recorder](https://www.brecorder.com/news/40420420/govt-reviews-export-promotion-schemes-budget-policy-options)*
+- China reported a 14.1% increase in overseas shipments for April, beating economist forecasts. *[Business Recorder](https://www.brecorder.com/news/40420422/china-records-forecast-beating-april-trade-figures)*
+- New customs values have been issued for various imported hand tools from China. *[Business Recorder](https://www.brecorder.com/news/40420423/new-import-values-on-various-hand-tools-issued)*
+- Donkey meat from the Gwadar North Free Zone will be allowed for export according to destination country policies. *[Business Recorder](https://www.brecorder.com/news/40420428/donkey-meat-from-gwadar-free-zone-will-be-allowed-for-export)*
+- A new scrutiny committee is being planned for FBR appeals to reduce the backlog of tax litigation cases. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/govt-plans-scrutiny-committee-for-fbr-appeals-as-tax-litigation-cases-exceed-85000/)*
+- The Pakistan Stock Exchange has listed the country’s first Special Purpose Acquisition Company (SPAC). *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/pakistan-stock-exchange-lists-countrys-first-special-purpose-acquisition-company/)*
+- Nepra approved a ₨42.6 billion investment plan for PESCO, a significant reduction from the utility's original proposal. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/nepra-approves-%e2%82%a842-6-billion-investment-plan-for-pesco-cuts-proposed-spending-by-two-thirds/)*
+- Business groups have urged the government to implement tariff reforms and reduce energy costs in the upcoming budget. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/business-groups-urge-tariff-reforms-lower-energy-costs-ahead-of-budget-propose-district-economy-model/)*
 - PSX has extended trading suspensions for three companies and moved Escorts Investment Bank to the non-compliant segment. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/psx-extends-suspension-of-three-companies-moves-escorts-investment-bank-to-non-compliant-segment/)*
-- Customs has revised the valuation for various imported smart watches, bands, and rings. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/customs-revises-valuation-of-smart-watches-smart-bands-and-rings/)*
-- The PSX has launched a new "Apparel" sector to improve sectoral representation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/psx-launches-new-apparel-sector-reclassifies-three-listed-companies/)*
-- Federal Commerce Minister Jam Kamal stressed the need for financing reforms to boost the dairy sector. *[Business Recorder](https://www.brecorder.com/news/40420362/jam-kamal-stresses-financing-reforms-for-dairy-sector-growth)*
-- China reported a slip in gold production in Q1 2026, despite rising consumption. *[Business Recorder](https://www.brecorder.com/news/40420361/china-gold-production-slips-in-first-quarter-consumption-rises)*
-- China's April exports showed a strong rebound, outpacing previous economic forecasts. *[Business Recorder](https://www.brecorder.com/news/40420356/china-april-exports-rebound-strongly-after-sluggish-march-trade-surplus-widens)*
-- China's soybean imports saw a significant jump in April. *[Business Recorder](https://www.brecorder.com/news/40420355/china-soybean-imports-jump-in-april-year-to-date-shipments-ahead-of-2025)*
-- Discussion continues regarding the necessity and accountability of strategic petroleum reserves in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40420377/strategic-petroleum-reserves-in-pakistan-between-necessity-and-public-accountability)*
+- The Directorate General of Customs Valuation has revised the valuation for imported smart watches, bands, and rings. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/customs-revises-valuation-of-smart-watches-smart-bands-and-rings/)*
+- The Pakistan Stock Exchange formally introduced a new “Apparel” sector to improve sectoral representation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/psx-launches-new-apparel-sector-reclassifies-three-listed-companies/)*
 
 ### Science & Technology
-- Educational tool Canvas suffered a data breach, prompting some schools to contact hackers to prevent data release. *[Dawn](https://www.dawn.com/news/1998909/schools-reach-out-to-canvas-hackers-as-breach-hits-us-classrooms-source-says)*
-- The National Cyber Emergency Response Team has warned of hostile cyberattacks and advised government departments to move websites to "read-only" mode. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/national-cyber-emergency-response-team-warns-of-hostile-attacks-on-govt-websites-asks-to-shift-to-read-only-mode/)*
+- Leaks have revealed expected prices and upgrades for the upcoming iPhone 18 Pro Max. *[ARY](https://arynews.tv/iphone-18-pro-max-expected-price-upgrades-revealed-in-new-leaks)*
+- The National Cyber Emergency Response Team has advised government departments to move websites to "read-only" mode due to heightened cyberattack threats. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/national-cyber-emergency-response-team-warns-of-hostile-attacks-on-govt-websites-asks-to-shift-to-read-only-mode/)*
 
 ### Politics
-- The Sindh government issued a no-objection certificate for Aurat March, but with 28 strict conditions regarding clothing and slogans. *[Dawn](https://www.dawn.com/news/1998890/sindh-govt-issues-aurat-march-noc-with-conditions-for-participants-clothing-slogans)*
-- A constitutional supremacy row continues between the Federal Constitutional Court and the Supreme Court regarding jurisdictions and staff perks. *[Dawn](https://www.dawn.com/news/1998858/federal-constitutional-court-staff-pay-perks-surpass-supreme-courts-amid-supremacy-row)*
+- The PTI has demanded the formation of an independent judicial commission to investigate the events of May 9. *[Dawn](https://www.dawn.com/news/1998950/pti-demands-judicial-commission-to-identify-punish-culprits-behind-may-9-riots)*
+- The PPPP has announced additional candidates for the upcoming Gilgit-Baltistan elections. *[Business Recorder](https://www.brecorder.com/news/40420426/pppp-announces-candidates-for-g-b-polls)*
 
 ### National
-- GHQ Rawalpindi will host a ceremony this Sunday to mark the first anniversary of the Marka-i-Haq victory. *[Dawn](https://www.dawn.com/news/1998901/ghq-to-host-ceremony-marking-one-year-since-marka-i-haq-victory-on-sunday)*
-- The Pakistan Air Force (PAF) conducted aerial displays in the twin cities as part of rehearsals for the Marka-i-Haq anniversary. *[Dawn](https://www.dawn.com/news/1998782/paf-jets-light-up-skies-in-twin-cities-ahead-of-marka-i-haq-anniversary)*
-- Analysis highlights the new military capabilities Pakistan employed during the Marka-i-Haq conflict. *[Dawn](https://www.dawn.com/news/1997496/a-look-at-the-new-capabilities-pakistan-employed-against-india-during-marka-i-haq)*
+- A ceremony at GHQ commemorated the one-year anniversary of "Marka-i-Haq," marking the victory in last year's conflict with India. *[Dawn](https://www.dawn.com/news/1999113/ceremony-marking-one-year-since-marka-i-haq-victory-underway-at-ghq)*
+- The Judicial Commission of Pakistan is expected to finalize a committee to interview candidates for high court elevations. *[Dawn](https://www.dawn.com/news/1999052/jcp-likely-to-finalise-panel-to-interview-candidates)*
+- The Supreme Court acquitted a murder convict, upholding the principle that it is better to err in acquittal than in conviction. *[Dawn](https://www.dawn.com/news/1999051/better-to-err-in-acquittal-than-in-conviction-supreme-court)*
+- PM Shehbaz Sharif reaffirmed that Pakistan cannot be intimidated or subdued as the nation marks the Marka-i-Haq anniversary. *[Dawn](https://www.dawn.com/news/1998951/etched-in-history-pm-shehbaz-says-pakistan-cannot-be-intimidated-or-subdued-as-nation-marks-marka-i-haq-anniversary)*
+- ISPR described Marka-i-Haq as a "defining landmark" that exposed adversarial disinformation campaigns. *[Dawn](https://www.dawn.com/news/1998954/marka-i-haq-a-defining-landmark-in-the-nations-journey-ispr)*
+- Pakistan has expanded its US lobbying efforts to focus on defense, critical minerals, and policy influence. *[Dawn](https://www.dawn.com/news/1998958/pakistan-expands-us-lobbying-push-with-focus-on-defence-critical-minerals-and-policy-influence)*
+- The Sindh government issued an NOC for the Aurat March with 28 specific conditions regarding slogans and clothing. *[Dawn](https://www.dawn.com/news/1998890/sindh-govt-issues-aurat-march-noc-with-conditions-for-participants-clothing-slogans)*
+- A suicide attack at a police post in Bannu resulted in the martyrdom of at least two police personnel. *[Dawn](https://www.dawn.com/news/1998957/police-foil-suicide-attack-on-bannu-post-at-least-2-personnel-martyred)*
 - Police in Karachi arrested a notorious drug supplier and an extortionist in separate operations. *[Dawn](https://www.dawn.com/news/1998927/drug-supplier-extortionist-arrested-in-separate-police-operations-in-karachi)*
-- The Lahore High Court ordered the appointment of a woman as a lumbardar in Lodhran, overturning a previous decision. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/lahore-high-court-orders-appointment-of-woman-as-lumberdar-in-lodhran/)*
-- Police arrested eight people in connection with a killing over a small sum of money. *[ARY](https://arynews.tv/police-arrest-eight-as-two-killed-over-rs1300)*
-- The Capital Development Authority (CDA) has launched an inquiry into the alleged illegal sale of amenity spaces in Al-Mustafa Tower. *[Dawn](https://www.dawn.com/news/1998781/capital-development-authority-launches-inquiry-into-illegal-sale-of-amenity-spaces-in-al-mustafa-tower)*
+- PM Shehbaz Sharif and military leadership were praised by the National Assembly Speaker during Marka-e-Haq commemorations. *[Business Recorder](https://www.brecorder.com/news/40420430/youm-e-marka-e-haq-na-speaker-dy-speaker-pay-rich-tributes-to-armed-forces)*
+- A deadly bus-trailer collision in Chagai district left 11 people dead. *[Business Recorder](https://www.brecorder.com/news/40420427/deadly-bus-trailer-crash-in-chagai-leaves-11-dead)*
+- The Lahore High Court ordered the appointment of a woman as a lumbardar in Lodhran, striking down a previous Board of Revenue decision. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/lahore-high-court-orders-appointment-of-woman-as-lumberdar-in-lodhran/)*
 
 ### International
-- European states are sending planes to evacuate citizens from a cruise ship hit by a hantavirus outbreak. *[Dawn](https://www.dawn.com/news/1998907/european-states-to-send-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship)*
-- Israel is set to release two foreign activists intercepted from a Gaza-bound flotilla. *[Dawn](https://www.dawn.com/news/1998934/israel-to-release-gaza-flotilla-activists-today-ahead-of-deportation-rights-group)*
-- Vladimir Putin addressed the Victory Day parade, claiming Russian forces are fighting an "aggressive" NATO-backed force. *[Dawn](https://www.dawn.com/news/1998897/putin-says-russian-army-fighting-aggressive-nato-backed-force-in-victory-parade-address)*
-- Pakistan and Bangladesh have signed an MoU to strengthen cooperation against drug trafficking. *[Dawn](https://www.dawn.com/news/1998888/pakistan-bangladesh-sign-agreement-to-combat-drug-trafficking)*
-- Pakistan raised concerns at the UN regarding the systematic annexation of the occupied West Bank. *[Dawn](https://www.dawn.com/news/1998904/at-un-pakistan-raises-alarm-at-israels-systematic-annexation-of-occupied-west-bank)*
-- Iran’s Ambassador to Pakistan suggested the region may see new political alignments following the US-Israel war. *[Dawn](https://www.dawn.com/news/1998778/region-could-witness-new-political-alignment-after-us-iran-war-moghadam)*
-- Afghan Taliban leaders expressed condolences to JUI-F leader Maulana Fazlur Rehman over a cleric's killing. *[Dawn](https://www.dawn.com/news/1998856/afghan-taliban-leaders-reach-out-to-fazl-express-condolences-over-cleric-s-killing-in-charsadda)*
-- Gazan nationals remain stranded in the West Bank due to the ongoing conflict. *[Dawn](https://www.dawn.com/news/1998920/'no-home-left'-for-gazans-stranded-in-west-bank)*
-- The US Commission on International Religious Freedom urged the US to designate India as a "country of particular concern." *[Dawn](https://www.dawn.com/news/1998729/us-religious-freedom-commission-calls-for-designating-india-as-country-of-particular-concern)*
-- Pro-independence parties are seeing a surge in popularity across Britain. *[ARY](https://arynews.tv/elections-and-their-impact-on-the-uk-union)*
-- The UK is sending a destroyer to the Middle East to assist in securing the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40420375/uk-sending-warship-to-middle-east-ahead-of-hormuz-mission)*
-- Iran remains unresponsive to US peace proposals amid flared clashes in the Gulf. *[Business Recorder](https://www.brecorder.com/news/40420376/iran-keeps-us-waiting-for-response-on-peace-plan)*
-- Bahrain has arrested 41 people allegedly linked to Iran's Revolutionary Guards (IRGC). *[Business Recorder](https://www.brecorder.com/news/40420368/bahrain-says-it-has-arrested-41-people-linked-to-irans-irgc)*
-- Tensions between the US and Iran remain high as naval clashes flare in the Gulf. *[Business Recorder](https://www.brecorder.com/news/40420364/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare)*
-- Iran has established a new agency to vet and tax vessels passing through the Strait of Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/iran-creates-agency-to-vet-tax-ships-passing-through-strait-of-hormuz/)*
-- Indonesian authorities have resumed the search for three hikers missing after a volcanic eruption. *[Business Recorder](https://www.brecorder.com/news/40420360/indonesia-resumes-search-for-three-hikers-missing-after-mount-dukono-eruption)*
-- A US military strike on a vessel in the Eastern Pacific resulted in two deaths. *[Business Recorder](https://www.brecorder.com/news/40420359/us-military-says-its-strike-on-vessel-in-eastern-pacific-kills-2-leaves-1-survivor)*
+- Iran has questioned the seriousness of American diplomacy following renewed naval clashes in the Gulf. *[Dawn](https://www.dawn.com/news/1999055/iran-keeps-us-waiting-for-a-response)*
+- Israel continues its military strikes in Lebanon. *[Dawn](https://www.dawn.com/news/1999055/iran-keeps-us-waiting-for-a-response)*
+- The one-year anniversary of the Pakistan-India conflict highlights a state of "no war, but no peace." *[Dawn](https://www.dawn.com/news/1998910/a-year-ago-today-normality-returns-as-nuclear-armed-neighbours-step-back-from-the-brink)*
+- Israel is preparing to release Gaza flotilla activists ahead of their deportation. *[Dawn](https://www.dawn.com/news/1998934/israel-to-release-gaza-flotilla-activists-today-ahead-of-deportation-rights-group)*
+- Vladimir Putin stated in a Victory Day address that Russian forces are fighting an aggressive NATO-backed force in Ukraine. *[Dawn](https://www.dawn.com/news/1998897/putin-says-russian-army-fighting-aggressive-nato-backed-force-in-victory-parade-address)*
+- Pakistan and Bangladesh have signed a memorandum of understanding to strengthen cooperation against drug trafficking. *[Dawn](https://www.dawn.com/news/1998888/pakistan-bangladesh-sign-agreement-to-combat-drug-trafficking)*
+- Backdoor diplomacy between the US and Iran may resume in Islamabad as early as next week. *[Business Recorder](https://www.brecorder.com/news/40420421/us-iran-talks-may-resume-in-islamabad-next-week-wsj)*
+- President Zardari extended felicitations to Russia on the occasion of Victory Day. *[Business Recorder](https://www.brecorder.com/news/40420425/president-felicitates-russia-on-victory-day)*
+- Iran has established a new agency to vet and tax ships passing through the Strait of Hormuz. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/09/iran-creates-agency-to-vet-tax-ships-passing-through-strait-of-hormuz/)*
 
 ### Sports
-- Mohammad Abbas claimed five wickets to help put Pakistan in a strong position during the Bangladesh Test. *[Dawn](https://www.dawn.com/news/1998944/abbas-takes-five-wickets-to-put-pakistan-ahead-in-bangladesh-test)*
-- Iran's football federation demands that hosts accept specific conditions for their participation in the 2026 World Cup. *[Business Recorder](https://www.brecorder.com/news/40420371/iran-says-will-play-in-world-cup-demands-hosts-accept-conditions)*
-- Uruguay striker Luis Suarez has expressed interest in returning to international football for the upcoming World Cup. *[Business Recorder](https://www.brecorder.com/news/40420358/suarez-open-to-uruguay-return-for-world-cup)*
-- Finn Allen scored his maiden IPL century for the Kolkata Knight Riders. *[Business Recorder](https://www.brecorder.com/news/40420357/green-happy-to-play-second-fiddle-as-allen-brings-up-maiden-ipl-ton)*
+- Mohammad Abbas took five wickets to help put Pakistan in a strong position during the Test against Bangladesh. *[Dawn](https://www.dawn.com/news/1998944/abbas-takes-five-wickets-to-put-pakistan-ahead-in-bangladesh-test)*
+
+### Health
+- European states are coordinating the evacuation of citizens from a cruise ship hit by a hantavirus outbreak. *[Dawn](https://www.dawn.com/news/1998907/european-states-to-send-planes-to-evacuate-citizens-from-hantavirus-hit-cruise-ship)*
+- Experts are racing to establish guidance to contain the first ship-borne hantavirus outbreak. *[ARY](https://arynews.tv/hantavirus-who-guidance-for-cruise-ship-outbreak)*
 
 ### Other
-- Coverage regarding the true story behind Netflix's *Legends*. *[ARY](https://arynews.tv/uncovering-the-shocking-true-story-behind-netflixs-legends)*
-- Jon B shared a new story regarding Michael Jackson. *[ARY](https://arynews.tv/jon-b-shares-never-before-heard-story-about-michael-jackson)*
-- Boeing is investigating the death of a worker. *[ARY](https://arynews.tv/boeing-probing-worker-death-as-union-calls-for-accountability)*
-- A fact-check addresses misinformation regarding *The Simpsons* predicting a hantavirus outbreak. *[ARY](https://arynews.tv/hantavirus-misinformation-separating-fact-from-fiction)*
-- Sanjana Sanghi discusses her journey into OTT series. *[ARY](https://arynews.tv/sanjana-sanghi-eager-to-begin-ott-series-journey)*
-- Tom Hiddleston has reportedly dropped out of *Celebrity Traitors* Season 2. *[ARY](https://arynews.tv/tom-hiddleston-forced-to-drop-out-of-celebrity-traitors-season-2-at-last-minute)*
-- Marilyn Monroe's personal memorabilia is set to go to auction. *[Business Recorder](https://www.brecorder.com/news/40420366/from-jewelry-to-private-letters-marilyn-monroes-hidden-world-heads-to-auction)*
+- Tina Fey surprised Maya Rudolph backstage at a Broadway show. *[ARY](https://arynews.tv/tina-fey-surprises-maya-rudolph-backstage-at-broadway-show)*
+- Rumors regarding a potential split between Tara Sutaria and Veer Pahariya have surfaced. *[ARY](https://arynews.tv/tara-sutaria-veer-pahariya-spark-fresh-split-buzz)*
 
