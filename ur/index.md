@@ -7,48 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-May-2026 09:10PKT 
+ &lrm; 13-May-2026 21:11PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان کا مالیاتی خسارہ گزشتہ 27 سالوں کی کم ترین سطح (0.7 فیصد جی ڈی پی) پر پہنچ گیا ہے، تاہم پیٹرولیم لیوی کی وصولی میں 45 فیصد اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/1999803/fuel-levy-yields-lowest-fiscal-deficit-in-nearly-three-decades)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistans-fiscal-deficit-hits-%e2%82%a8856-billion-in-july-march-fy26/)*
-- اسٹیٹ بینک کے مطابق معاشی استحکام میں بہتری کے باوجود مشرق وسطیٰ کی جنگ عالمی تجارتی اور معاشی صورتحال کے لیے خطرہ بن سکتی ہے۔ *[Dawn](https://www.dawn.com/news/1999677/despite-improved-macroeconomic-stability-in-first-half-of-fy26-war-in-middle-east-poses-significant-risks-to-outlook-sbp)*
-- آئی ایم ایف کے وفد نے پاکستان کے ساتھ بجٹ، مالیاتی اہداف اور توانائی کے شعبے کے اصلاحاتی منصوبوں پر بات چیت کا آغاز کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistan-imf-begin-budget-talks-with-focus-on-fiscal-targets-shift-from-interest-based-banking-energy-sector-plans/)*
-- حکومت نے بورڈ آف انویسٹمنٹ کو سپیشل انویسٹمنٹ فیسلیٹیشن کونسل کے ساتھ ضم کرنے کا فیصلہ کیا ہے تاکہ غیر ملکی سرمایہ کاری کو فروغ دیا جا سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/govt-moves-to-merge-board-of-investment-with-special-investment-facilitation-council-ahead-of-pms-china-visit/)*
-- بجلی کے صارفین کو ریلیف دینے کے لیے حکومت نے نئے درآمد شدہ ایندھن پر مبنی پاور پلانٹس کے قیام کو مسترد کر دیا ہے اور 10 ملین اسمارٹ میٹرز لگانے کا منصوبہ بنایا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/govt-rules-out-new-imported-fuel-based-ipps-plans-10-million-smart-meters-this-year/)*
-- سونے اور چاندی کی قیمتوں میں بین الاقوامی مارکیٹ کے رجحانات کے مطابق اتار چڑھاؤ دیکھا جا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/silver-price-in-pakistan-for-today-may-13-2026/)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/gold-price-in-pakistan-for-today-may-13-2026/)*
-- جاپان کی مشہور کمپنی Calbee نے ایران کے ساتھ جنگ کی وجہ سے پیکجنگ کے اخراجات کم کرنے کے لیے رنگین پیکٹوں کے بجائے سادہ ڈیزائن استعمال کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/1999779/japan-crisp-packs-to-go-colourless-due-to-iran-war-crunch)*
+- پاکستان کی جی ڈی پی میں 3.99 فیصد اضافہ ہوا ہے، جس میں صنعتی شعبے کا اہم کردار رہا۔ *[Business Recorder](https://www.brecorder.com/news/40420979/pakistans-economy-expands-to-452bn-as-gdp-grows-399-in-q3-fy26)*
+- اسٹیٹ بینک آف پاکستان کو آئی ایم ایف سے 1.3 ارب ڈالر کی کھیپ موصول ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/1999886/sbp-says-it-has-received-13bn-tranche-from-imf)*
+- حکومت ٹیکس چوری روکنے اور ریونیو بڑھانے کے لیے اے آئی (AI) پر مبنی ڈیجیٹل مانیٹرنگ پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421000/govt-weighs-ai-based-tax-enforcement-digital-monitoring-reforms-for-budget)*
+- پاکستان میں گیس سبسڈی کے نظام کو ختم کر کے اسے بی آئی ایس پی (BISP) کے ذریعے ہدف شدہ امداد سے بدلنے کا منصوبہ ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistan-to-replace-%e2%82%a8140-billion-gas-subsidy-system-with-bisp-linked-support-under-imf-deal/)*
+- این اے بی نے گزشتہ تین سالوں میں 14.48 ٹریلین روپے کی ریکوری اور لاکھوں ایکڑ زمین واپس حاصل کی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/nab-recovers-%e2%82%a814-48-trillion-retrieves-4-96-million-acres-of-land-in-three-years/)*
+- پاکستان کی معیشت 452 ارب ڈالر تک پہنچ گئی ہے اور فی کس آمدنی میں بھی اضافہ ہوا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistans-economy-reaches-452-billion-as-per-capita-income-rises-to-1901-in-fy26/)*
+- پاکستان میں سونے کی قیمتوں میں کمی دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420986/gold-price-per-tola-drops-by-rs1100-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- گوگل کے تعاون سے چلنے والی کمپنی Isomorphic نے مصنوعی ذہانت (AI) کے ذریعے ادویات کی دریافت کے لیے 2.1 ارب ڈالر کی سرمایہ کاری حاصل کر لی ہے۔ *[ARY](https://arynews.tv/isomorphic-labs-secures-major-funding-for-ai)*
+- پاکستان ای وی (EV) بیٹریوں کی تیاری کے لیے دنیا کی سب سے بڑی بیٹری ساز کمپنی CATL کے ساتھ سرمایہ کاری پر بات چیت کر رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistan-holds-investment-talks-with-worlds-largest-ev-battery-maker-catl/)*
+
+### موسم
+- لاہور کے مختلف علاقوں میں شدید بارش اور ژالہ باری کے باعث نشیبی علاقے زیر آب آ گئے اور ٹریفک کی روانی متاثر ہوئی۔ *[Dawn](https://www.dawn.com/news/1999950/heavy-rain-hailstorm-lash-lahore-inundating-low-lying-areas)*
 
 ### سیاست
-- صدر ڈونلڈ ٹرمپ کی چین کے دورے اور وہاں ہونے والی ملاقاتوں پر نظر ہے، جہاں تائیوان اور ایران کے مسائل پر بحث متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420920/trump-due-in-china-today)*
-- اسلام آباد ہائی کورٹ میں ججز کی تقرری اور منتقلی کے حوالے سے قانونی حلقوں میں بے چینی پائی جاتی ہے۔ *[Dawn](https://www.dawn.com/news/1999796/islamabad-lawyers-unhappy-as-jcp-decision-dims-elevation-prospects)*
-- وزیراعظم شہباز شریف نے آذربائیجان کے صدر کے ساتھ فون پر بات چیت کی، جس میں مشرق وسطیٰ میں امن اور دوطرفہ تعلقات پر تبادلہ خیال ہوا۔ *[Dawn](https://www.dawn.com/news/1999715/pm-shehbaz-azerbaijans-president-aliyev-discuss-peace-efforts-in-mideast-pmo)*
-- سینیٹ میں خیبرپختونخوا میں بڑھتی ہوئی دہشت گردی کے حوالے سے حکومتی اور اپوزیشن کے درمیان شدید بحث ہوئی۔ *[Dawn](https://www.dawn.com/news/1999725/treasury-opposition-clash-in-senate-as-jui-f-senator-questions-terrorism-in-kp)*
+- امریکی صدر ڈونلڈ ٹرمپ بیجنگ پہنچ گئے ہیں تاکہ چینی صدر شی جن پنگ کے ساتھ اہم تجارتی اور عالمی معاملات پر ملاقات کر سکیں۔ *[Dawn](https://www.dawn.com/news/1999895/trump-arrives-in-beijing-for-high-stakes-meeting-with-chinese-president-xi)*
+- وزیراعظم شہباز شریف 23 مئی سے تین روزہ سرکاری دورے پر چین کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/1999931/pm-shehbaz-to-undertake-official-three-day-china-visit-dpm-dar)*
+- روس نے نئے 'سرمت' ایٹمی میزائل کا کامیاب تجربہ کیا ہے جسے صدر پوتن نے دنیا کا طاقتور ترین میزائل قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/1999914/putin-hails-russias-test-launch-of-new-sarmat-nuclear-missile-calls-it-most-powerful)*
+- بھارتی وزیر اعظم نریندر مودی نے توانائی کے بڑھتے ہوئے اخراجات کے پیش نظر اپنے موٹرکید کا سائز کم کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/1999923/modi-cuts-motorcade-size-to-save-fuel-amid-mounting-economic-pressure)*
+- روس نے یوکرین کے اہم بنیادی ڈھانچے پر بڑے پیمانے پر فضائی حملے کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40420992/russia-launches-air-attack-on-ukraine-infrastructure-military-intelligence-says)*
 
-### قومی
-- دہشت گردانہ حملے کو ناکام بنانے والے بہادر شہری محمد لیاقت علی کو اعلیٰ ترین شہری ایوارڈ کے لیے نامزد کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1999798/man-who-averted-suicide-attack-nominated-for-highest-civil-award)*
-- خیبرپختونخوا میں دہشت گردانہ حملوں کی لہر میں 23 افراد ہلاک اور درجنوں زخمی ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40420888/23-people-dead-dozens-injured-in-wave-of-kp-terrorist-attacks)*
-- وزیراعظم نے ملک میں غذائی تحفظ کو یقینی بنانے کے لیے کسانوں کو کھاد کی بلا تعطل فراہمی کے سخت احکامات جاری کیے ہیں۔ *[Dawn](https://www.dawn.com/news/1999802/pm-orders-uninterrupted-supply-of-fertiliser-to-safeguard-food-security)*
-- کراچی میں رہائشی پلاٹوں کو کمرشل استعمال میں تبدیل کرنے پر عائد پابندی وفاقی آئینی عدالت نے ختم کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420913/fcc-lifts-ban-on-conversion-of-residential-plots-to-commercial-plots)*
-- ایک نئی رپورٹ کے مطابق پاکستان کی آبادی 2050 تک 390 ملین تک پہنچ سکتی ہے، جس سے ملازمتوں کے مارکیٹ پر دباؤ بڑھے گا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/13/pakistans-population-may-reach-390-million-by-2050-adding-256-million-people-to-job-market-report/)*
-- کراچی پولیس نے شہر میں کوکین کی سپلائی کرنے والی اہم خاتون ملزم کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/1999686/karachi-police-arrest-most-wanted-cocaine-queenpin)*
+### ملکی
+- کیمبرج انٹرنیشنل ایجوکیشن نے ریاضی کے پیپر لیک ہونے کی تصدیق کی اور امتحانات ملتوی کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/1999962/cambridge-confirms-leak-of-as-level-mathematics-paper-postpones-upcoming-exam-as-precautionary-step)*
+- فلائی دبئی نے آپریشنل وجوہات کی بنا پر اسلام آباد، لاہور اور پشاور کے لیے اپنی پروازیں اکتوبر تک معطل کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/1999930/flydubai-suspends-flights-to-islamabad-lahore-peshawar-till-oct-due-to-operational-issues)*
+- کراچی پولیس نے کوکین سپلائی کرنے والی خاتون 'انمل پنکی' کو گرفتار کر کے تین روزہ جسمانی ریمانڈ حاصل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/1999906/karachi-police-get-3-day-physical-remand-of-alleged-cocaine-queenpin-anmol-alias-pinky)*
+- اسلام آباد میں غیر قانونی تعمیرات اور زمین ہڑپ کرنے والے مافیا کے خلاف سخت کارروائی کا عزم کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/1999909/naqvi-says-land-grabbing-mafia-illegal-constructions-to-be-completely-eradicated-from-islamabad)*
+- الیکشن کمیشن نے اسلام آباد کے مقامی حکومتوں کے انتخابات کے لیے ضروری اقدامات نہ کرنے پر متعلقہ حکام کو وارننگ دے دی ہے۔ *[Dawn](https://www.dawn.com/news/1999951/ecp-warns-of-hearing-if-prerequisites-for-islamabad-local-govt-polls-not-met)*
 
 ### بین الاقوامی
-- مشرق وسطیٰ میں ایران کے ساتھ جاری جنگ کے اخراجات 29 ارب ڈالر سے تجاوز کر گئے ہیں، جس سے امن کے امکانات کم ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/1999806/iran-war-costs-soar-past-29bn-as-truce-teeters)*
-- نیویارک میں جیفری ایپسٹین کے کیس سے متعلق 35 لاکھ صفحات پر مشتمل دستاویزات کی نمائش کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/1999788/full-epstein-files-put-on-display-in-new-york)*
+- امریکہ نے فینٹائل سے آلودہ ادویات بیچنے والی ایک بھارتی کمپنی سے وابستہ 13 افراد پر ویزا پابندیوں کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/1999898/us-to-impose-visa-curbs-on-13-people-linked-to-indian-firm-over-prescription-pills-laced-with-fentanyl)*
+- ایران نے اسرائیل کے لیے جاسوسی کرنے کے الزام میں ایک شخص کو پھانسی دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420984/iran-hangs-man-accused-of-spying-for-israel)*
+- ایک چینی سپر ٹینکر بحیرہ احمر کے قریب سے گزر کر خلیج عمان پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420996/chinese-oil-tanker-exits-strait-of-hormuz-stops-at-gulf-of-oman-data-shows)*
 
 ### کھیل
-- بنگلہ دیش نے پاکستان کو پہلے ٹیسٹ میں 104 رنز سے شکست دے کر سیریز میں 1-0 کی برتری حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/1999679/rana-stars-as-bangladesh-down-pakistan-in-1st-test-thriller)*
-
-### صحت
-- پاکستان میڈیکل اینڈ ڈینٹل کونسل (PMDC) کے مطابق بیرون ملک طبی تعلیم حاصل کرنے والے طلباء کے لیے MDCAT پاس کرنا اور رجسٹریشن لازمی ہے۔ *[Dawn](https://www.dawn.com/news/1999709/pmdc-says-medical-students-must-qualify-for-mdcat-obtain-registration-before-going-abroad)*
-- سعودی عرب نے حج کے دوران تمام ورکرز کے لیے میننگوکوکل ویکسین کو لازمی قرار دے دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-makes-meningococcal-vaccine-mandatory-for-hajj)*
-- وزیراعظم شہباز شریف نے بین الاقوامی نرسز ڈے کے موقع پر نرسوں کی خدمات کو خراجِ تحسین پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40420890/pm-pays-tribute-to-nurses)*
+- بھارت میں فٹ بال ورلڈ کپ کی نشریات کے حوالے سے قانونی تنازع عدالت تک پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420983/world-cup-broadcast-deadlock-ends-up-in-indian-court)*
 
 ### دیگر
-- کونن او برائن ایک بار پھر آسکر ایوارڈز کی میزبانی کریں گے۔ *[ARY](https://arynews.tv/conan-obrien-to-host-oscars-again-for-third-consecutive-year)*
+- کین فلم فیسٹیول کا باقاعدہ آغاز ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420982/stars-descend-as-cannes-film-festival-opens-without-hollywood-backing)*
+- مشہور کامیڈین کونان او برائن 2027 کے آسکر ایوارڈز کی میزبانی کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40420981/conan-obrien-to-host-2027-oscars-organisers)*
+- پیراماؤنٹ اسکائی ڈائنس نے وارنر برادرز کے حصول کے لیے اپنی پیشکش کا دفاع کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40420980/paramount-defends-warner-bid-amid-california-probe)*
 
