@@ -104,14 +104,33 @@
     }
     
     try {
-      console.log('[Search] Executing lunr.search...');
-      const results = lunrIndex.search(query);
-      console.log('[Search] Raw search results count:', results.length);
-      console.log('[Search] Raw results:', results);
+      // Try exact match first
+      console.log('[Search] Attempt 1: Exact match');
+      let results = lunrIndex.search(query);
+      console.log('[Search] Exact match results:', results.length);
+      
+      // If no results, try wildcard matching (partial words)
+      if (results.length === 0) {
+        const terms = query.trim().split(/\s+/);
+        const wildcardQuery = terms.map(t => t + '*').join(' ');
+        console.log('[Search] Attempt 2: Wildcard query:', wildcardQuery);
+        results = lunrIndex.search(wildcardQuery);
+        console.log('[Search] Wildcard results:', results.length);
+      }
+      
+      // If still no results, try fuzzy matching
+      if (results.length === 0) {
+        const terms = query.trim().split(/\s+/);
+        const fuzzyQuery = terms.map(t => t + '~1').join(' ');
+        console.log('[Search] Attempt 3: Fuzzy query:', fuzzyQuery);
+        results = lunrIndex.search(fuzzyQuery);
+        console.log('[Search] Fuzzy results:', results.length);
+      }
+      
+      console.log('[Search] Final results count:', results.length);
       
       const mappedResults = results.map(result => {
         const item = searchData.find(d => d.id === parseInt(result.ref));
-        console.log('[Search] Mapping result ref:', result.ref, 'found item:', item);
         return {
           ...item,
           score: result.score
@@ -122,7 +141,6 @@
       return mappedResults;
     } catch (err) {
       console.error('[Search] Search error:', err);
-      console.error('[Search] Error stack:', err.stack);
       return [];
     }
   }
