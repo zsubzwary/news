@@ -15,6 +15,11 @@
   async function loadSearchData() {
     console.log('[Search] loadSearchData() called');
     const lang = getLanguage();
+    
+    // Clear cache for debugging - remove this line after fixing
+    sessionStorage.removeItem(SEARCH_KEY + '-' + lang);
+    console.log('[Search] Cache cleared for debugging');
+    
     const cached = sessionStorage.getItem(SEARCH_KEY + '-' + lang);
     console.log('[Search] Cached data exists:', cached ? 'yes' : 'no');
     

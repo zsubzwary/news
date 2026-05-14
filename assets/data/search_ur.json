@@ -1,42 +1,33 @@
 ---
 ---
-{% assign items = '' | split: '' %}
-{% assign current_section = '' %}
-{% assign id = 0 %}
+[
 {% assign ur_page = nil %}
 {% for p in site.pages %}
-{% if p.path contains 'ur/index.md' %}
+{% if p.url == '/ur/' %}
 {% assign ur_page = p %}
 {% endif %}
 {% endfor %}
 {% if ur_page %}
-{% assign raw_content = ur_page.content %}
-{% assign br_content = raw_content | newline_to_br %}
-{% assign lines = br_content | split: '<br />' %}
-{% for line in lines %}
-{% assign stripped = line | strip %}
-{% if stripped contains '### ' %}
-{% assign current_section = stripped | remove: '### ' | strip %}
-{% elsif stripped contains '- ' %}
+{% assign br_content = ur_page.content | newline_to_br | strip_newlines %}
+{% assign parts = br_content | split: '<br />' %}
+{% assign current_section = '' %}
+{% assign id = 0 %}
+{% assign items = '' | split: '' %}
+{% for part in parts %}
+{% assign stripped = part | strip %}
+{% if stripped contains '<h3' %}
+{% assign h3_start = stripped | split: '<h3' | last %}
+{% assign h3_text = h3_start | split: '>' | last | split: '</h3' | first | strip %}
+{% assign current_section = h3_text %}
+{% elsif stripped contains '<li>' %}
 {% assign id = id | plus: 1 %}
-{% assign item_content = stripped | remove: '- ' | strip %}
-{% capture item_entry %}{{ id }}|{{ current_section }}|{{ item_content }}{% endcapture %}
-{% assign items = items | push: item_entry %}
+{% assign li_text = stripped | split: '<li>' | last | split: '</li>' | first | strip %}
+{% assign section_slug = current_section | downcase | replace: ' ', '-' | replace: '&', 'and' | replace: '(', '' | replace: ')', '' %}
+{% capture item_json %}{"id": {{ id }}, "section": "{{ current_section | escape }}", "section_slug": "{{ section_slug }}", "content": "{{ li_text | escape }}", "url": "{{ site.baseurl }}/ur/#{{ section_slug }}"}{% endcapture %}
+{% assign items = items | push: item_json %}
 {% endif %}
 {% endfor %}
-{% endif %}
-[
-{% for item in items %}
-{% assign parts = item | split: '|' %}
-{% assign item_id = parts[0] %}
-{% assign item_section = parts[1] %}
-{% assign item_text = parts[2] %}
-{% assign section_slug = item_section | downcase | replace: ' ', '-' | replace: '&', 'and' | replace: '(', '' | replace: ')', '' | replace: '/', '' %}  {
-    "id": {{ item_id }},
-    "section": "{{ item_section | escape }}",
-    "section_slug": "{{ section_slug }}",
-    "content": "{{ item_text | strip_html | escape }}",
-    "url": "{{ site.baseurl }}/ur/#{{ section_slug }}"
-  }{% unless forloop.last %},{% endunless %}
+{% for item in items %}{{ item }}{% unless forloop.last %},{% endunless %}
 {% endfor %}
+{% endif %}
 ]
