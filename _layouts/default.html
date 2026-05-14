@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
+    <meta name="search-data-url" content="{{ site.baseurl }}/assets/data/search_{{ page.lang | default: 'en' }}.json">
 
     {% include deakh.html %}
 
@@ -23,6 +24,10 @@
     <header>
       <div class="header-content">
         <h1>{{ page.title | default: site.title }}</h1>
+        <div class="search-container">
+          <input type="text" id="search-input" class="search-input" placeholder="{% if page.lang == 'ur' %}تلاش کرن...{% else %}Search news...{% endif %}" aria-label="Search">
+          <div id="search-results" class="search-results"></div>
+        </div>
       </div>
       <div class="header-controls">
         <div class="lang-switcher">
@@ -52,5 +57,7 @@
 
 
     {% include theme.html %}
+    <script src="https://unpkg.com/lunr/lunr.min.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/search.js"></script>
   </body>
 </html>

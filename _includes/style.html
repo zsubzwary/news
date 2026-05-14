@@ -347,6 +347,127 @@ footer {
   font-size: 0.85rem;
 }
 
+.search-container {
+  position: relative;
+  margin-top: 1rem;
+  max-width: 400px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.6rem 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  background: var(--bg-tertiary);
+  color: var(--text-primary);
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+.search-input:focus {
+  outline: none;
+  border-color: var(--accent-primary);
+  background: var(--bg-secondary);
+}
+
+.search-input::placeholder {
+  color: var(--text-secondary);
+}
+
+.search-results {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  box-shadow: 0 4px 12px var(--shadow-color);
+  max-height: 300px;
+  overflow-y: auto;
+  display: none;
+  z-index: 200;
+}
+
+.search-results::-webkit-scrollbar {
+  width: 6px;
+}
+
+.search-results::-webkit-scrollbar-track {
+  background: var(--bg-tertiary);
+}
+
+.search-results::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 3px;
+}
+
+.search-result-item {
+  display: block;
+  padding: 0.75rem 1rem;
+  color: var(--text-primary);
+  border-bottom: 1px solid var(--border-color);
+  transition: background 0.15s ease;
+}
+
+.search-result-item:last-child {
+  border-bottom: none;
+}
+
+.search-result-item:hover {
+  background: var(--bg-tertiary);
+  text-decoration: none;
+}
+
+.search-result-section {
+  font-size: 0.75rem;
+  color: var(--accent-primary);
+  margin-bottom: 0.25rem;
+  font-weight: 500;
+}
+
+.search-result-title {
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.search-result-title strong {
+  color: var(--text-primary);
+}
+
+.search-empty {
+  padding: 1rem;
+  color: var(--text-secondary);
+  text-align: center;
+  font-size: 0.9rem;
+}
+
+[dir="rtl"] .search-container {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+[dir="rtl"] .search-input {
+  text-align: right;
+}
+
+[dir="rtl"] .search-results {
+  left: auto;
+  right: 0;
+}
+
+[dir="rtl"] .search-result-item {
+  text-align: right;
+}
+
+[dir="rtl"] .search-result-section {
+  text-align: right;
+}
+
+[dir="rtl"] .search-result-title {
+  text-align: right;
+}
+
 .sent-by {
   text-align: center;
   margin-top: 1.5rem;
@@ -383,6 +504,14 @@ footer {
   .category h3 {
     padding: 0.4rem 0.875rem;
     font-size: 1rem;
+  }
+  
+  .search-container {
+    max-width: 100%;
+  }
+  
+  .search-input {
+    font-size: 0.9rem;
   }
 }
 

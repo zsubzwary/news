@@ -1,0 +1,38 @@
+---
+---
+{% assign content = nil %}
+{% for page in site.pages %}
+{% if page.url == '/ur/' or page.url == '/ur/index.md' %}
+{% assign content = page.content %}
+{% endif %}
+{% endfor %}
+{% assign lines = content | split: '\n' %}
+{% assign items = '' | split: '' %}
+{% assign current_section = '' %}
+{% assign id = 0 %}
+{% for line in lines %}
+{% if line contains '### ' %}
+{% assign current_section = line | remove: '### ' | strip %}
+{% elsif line contains '- ' %}
+{% assign id = id | plus: 1 %}
+{% assign item_content = line | remove: '- ' | strip %}
+{% assign item_obj = id | append: '|' | append: current_section | append: '|' | append: item_content %}
+{% assign items = items | push: item_obj %}
+{% endif %}
+{% endfor %}
+[
+{% for item in items %}
+{% assign parts = item | split: '|' %}
+{% assign item_id = parts[0] %}
+{% assign item_section = parts[1] %}
+{% assign item_text = parts[2] %}
+{% assign section_slug = item_section | downcase | replace: ' ', '-' | replace: '&', 'and' %}{% assign section_slug = section_slug | replace: '(', '' | replace: ')', '' %}  {
+    "id": {{ item_id }},
+    "section": "{{ item_section }}",
+    "section_slug": "{{ section_slug }}",
+    "title": "{{ item_text | truncatewords: 10 }}",
+    "content": "{{ item_text | escape }}",
+    "url": "{{ site.baseurl }}/ur/#{{ section_slug }}"
+  }{% unless forloop.last %},{% endunless %}
+{% endfor %}
+]
