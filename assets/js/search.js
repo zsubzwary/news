@@ -2,199 +2,237 @@
   const SEARCH_KEY = 'news-search-index';
   let lunrIndex = null;
   let searchData = [];
-  
-  console.log('[Search] Script loaded');
+  let currentQuery = '';
+  let activeResultIndex = -1;
   
   function getLanguage() {
     const path = window.location.pathname;
-    const lang = path.includes('/ur/') ? 'ur' : 'en';
-    console.log('[Search] Detected language:', lang, 'from path:', path);
-    return lang;
+    return path.includes('/ur/') ? 'ur' : 'en';
+  }
+  
+  function getPlaceholder() {
+    return getLanguage() === 'ur' ? 'تلاش کرن...' : 'Search news...';
   }
   
   async function loadSearchData() {
-    console.log('[Search] loadSearchData() called');
     const lang = getLanguage();
-    
-    // Clear cache for debugging - remove this line after fixing
-    sessionStorage.removeItem(SEARCH_KEY + '-' + lang);
-    console.log('[Search] Cache cleared for debugging');
-    
     const cached = sessionStorage.getItem(SEARCH_KEY + '-' + lang);
-    console.log('[Search] Cached data exists:', cached ? 'yes' : 'no');
     
     if (cached) {
-      console.log('[Search] Loading from cache');
       const parsed = JSON.parse(cached);
       searchData = parsed.data;
       lunrIndex = lunr.Index.load(parsed.index);
-      console.log('[Search] Cached data loaded, items count:', searchData.length);
-      console.log('[Search] Sample cached item:', searchData[0]);
-      return;
+      return true;
     }
     
     const dataUrl = document.querySelector('meta[name="search-data-url"]')?.content;
-    console.log('[Search] Data URL from meta tag:', dataUrl);
+    if (!dataUrl) return false;
     
-    if (!dataUrl) {
-      console.error('[Search] No data URL found - meta tag missing?');
-      return;
-    }
+    showLoading();
     
     try {
-      console.log('[Search] Fetching from:', dataUrl);
       const response = await fetch(dataUrl);
-      console.log('[Search] Fetch response status:', response.status);
+      if (!response.ok) throw new Error('HTTP ' + response.status);
       
-      if (!response.ok) {
-        console.error('[Search] Fetch failed with status:', response.status);
-        return;
-      }
-      
-      const text = await response.text();
-      console.log('[Search] Raw response text (first 500 chars):', text.substring(0, 500));
-      
-      searchData = JSON.parse(text);
-      console.log('[Search] Parsed JSON, items count:', searchData.length);
-      console.log('[Search] First 3 items:', searchData.slice(0, 3));
+      searchData = await response.json();
       
       if (searchData.length === 0) {
-        console.error('[Search] Search data is empty array!');
-        return;
+        hideLoading();
+        return false;
       }
       
-      console.log('[Search] Building Lunr index...');
       lunrIndex = lunr(function() {
         this.ref('id');
         this.field('section', { boost: 10 });
         this.field('content');
-        
-        // Remove stop word filter so words like "the" are searchable
         this.pipeline.remove(lunr.stopWordFilter);
         
         searchData.forEach(item => {
-          console.log('[Search] Adding to index - id:', item.id, 'section:', item.section);
           this.add(item);
         });
       });
-      console.log('[Search] Lunr index built successfully');
       
       sessionStorage.setItem(SEARCH_KEY + '-' + lang, JSON.stringify({
         data: searchData,
         index: lunrIndex.toJSON()
       }));
-      console.log('[Search] Data cached to sessionStorage');
       
+      hideLoading();
+      return true;
     } catch (err) {
-      console.error('[Search] Failed to load search data:', err);
-      console.error('[Search] Error stack:', err.stack);
+      console.error('Search load error:', err);
+      hideLoading();
+      return false;
     }
   }
   
+  function showLoading() {
+    const loading = document.getElementById('search-loading');
+    const content = document.getElementById('search-content');
+    if (loading) loading.classList.add('visible');
+    if (content) content.classList.remove('visible');
+  }
+  
+  function hideLoading() {
+    const loading = document.getElementById('search-loading');
+    if (loading) loading.classList.remove('visible');
+  }
+  
+  function highlightText(text, query) {
+    if (!query || !text) return text;
+    const terms = query.toLowerCase().trim().split(/\s+/).filter(t => t.length > 1);
+    let highlighted = text;
+    terms.forEach(term => {
+      const regex = new RegExp(`(${escapeRegex(term)})`, 'gi');
+      highlighted = highlighted.replace(regex, '<mark>$1</mark>');
+    });
+    return highlighted;
+  }
+  
+  function escapeRegex(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+  
   function search(query) {
-    console.log('[Search] search() called with query:', query);
-    console.log('[Search] lunrIndex exists:', lunrIndex ? 'yes' : 'no');
-    console.log('[Search] searchData length:', searchData.length);
+    if (!lunrIndex || !query.trim()) return [];
     
-    if (!lunrIndex) {
-      console.error('[Search] lunrIndex is null - data not loaded');
-      return [];
-    }
-    
-    if (!query.trim()) {
-      console.log('[Search] Query is empty');
-      return [];
-    }
+    currentQuery = query;
     
     try {
-      // Try exact match first
-      console.log('[Search] Attempt 1: Exact match');
       let results = lunrIndex.search(query);
-      console.log('[Search] Exact match results:', results.length);
       
-      // If no results, try wildcard matching (partial words)
       if (results.length === 0) {
         const terms = query.trim().split(/\s+/);
         const wildcardQuery = terms.map(t => t + '*').join(' ');
-        console.log('[Search] Attempt 2: Wildcard query:', wildcardQuery);
         results = lunrIndex.search(wildcardQuery);
-        console.log('[Search] Wildcard results:', results.length);
       }
       
-      // If still no results, try fuzzy matching
       if (results.length === 0) {
         const terms = query.trim().split(/\s+/);
         const fuzzyQuery = terms.map(t => t + '~1').join(' ');
-        console.log('[Search] Attempt 3: Fuzzy query:', fuzzyQuery);
         results = lunrIndex.search(fuzzyQuery);
-        console.log('[Search] Fuzzy results:', results.length);
       }
       
-      console.log('[Search] Final results count:', results.length);
-      
-      const mappedResults = results.map(result => {
+      return results.map(result => {
         const item = searchData.find(d => d.id === parseInt(result.ref));
-        return {
-          ...item,
-          score: result.score
-        };
+        return { ...item, score: result.score };
       });
-      
-      console.log('[Search] Mapped results:', mappedResults);
-      return mappedResults;
     } catch (err) {
-      console.error('[Search] Search error:', err);
+      console.error('Search error:', err);
       return [];
     }
   }
   
   function renderResults(results) {
-    console.log('[Search] renderResults() called with', results.length, 'results');
     const container = document.getElementById('search-results');
-    console.log('[Search] Results container element:', container);
+    const content = document.getElementById('search-content');
     
-    if (!container) {
-      console.error('[Search] No results container found!');
-      return;
-    }
+    if (!container || !content) return;
+    
+    activeResultIndex = -1;
     
     if (results.length === 0) {
-      console.log('[Search] No results - showing empty message');
-      container.innerHTML = '<p class="search-empty">No results found</p>';
-      container.style.display = 'block';
+      const lang = getLanguage();
+      const emptyMsg = lang === 'ur' ? 'کوئی نتیجہ نہیں ملا' : 'No results found';
+      const emptyIcon = '🔍';
+      
+      content.innerHTML = `
+        <div class="search-empty">
+          <span class="search-empty-icon">${emptyIcon}</span>
+          <span>${emptyMsg}</span>
+        </div>
+      `;
+      content.classList.add('visible');
+      container.classList.add('visible');
       return;
     }
     
-    console.log('[Search] Rendering', Math.min(results.length, 10), 'items');
+    const lang = getLanguage();
+    const resultsText = lang === 'ur' ? 'نتائج' : 'results';
+    const resultText = lang === 'ur' ? 'نتیجہ' : 'result';
+    const countLabel = results.length === 1 ? resultText : resultsText;
+    
+    const headerHtml = results.length > 0 ? `
+      <div class="search-results-header">
+        <span>${results.length} ${countLabel}</span>
+        <span class="search-count">${results.length > 10 ? '10+' : results.length}</span>
+      </div>
+    ` : '';
     
     const html = results.slice(0, 10).map((result, i) => {
-      const displayText = (result.content || '')
-        .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*\[(.*?)\]\(.*?\)\*/g, '$1')
-        .substring(0, 150);
-      
-      console.log('[Search] Item', i, '- section:', result.section, 'url:', result.url);
+      const displayText = highlightText(
+        (result.content || '').replace(/\*\*(.*?)\*\*/g, '$1').replace(/\*\[(.*?)\]\(.*?\)\*/g, '$1').substring(0, 150),
+        currentQuery
+      );
       
       return `
-        <a href="${result.url}" class="search-result-item">
+        <a href="${result.url}" class="search-result-item" data-index="${i}">
           <div class="search-result-section">${result.section}</div>
           <div class="search-result-title">${displayText}</div>
         </a>
       `;
     }).join('');
     
-    console.log('[Search] Generated HTML length:', html.length);
-    container.innerHTML = html;
-    container.style.display = 'block';
-    console.log('[Search] Results rendered and displayed');
+    content.innerHTML = headerHtml + html;
+    content.classList.add('visible');
+    container.classList.add('visible');
   }
   
   function hideResults() {
-    console.log('[Search] hideResults() called');
     const container = document.getElementById('search-results');
-    if (container) {
-      container.style.display = 'none';
-      container.innerHTML = '';
+    const content = document.getElementById('search-content');
+    if (container) container.classList.remove('visible');
+    if (content) content.classList.remove('visible');
+    activeResultIndex = -1;
+  }
+  
+  function clearSearch() {
+    const input = document.getElementById('search-input');
+    const clearBtn = document.getElementById('search-clear');
+    if (input) {
+      input.value = '';
+      input.focus();
+    }
+    if (clearBtn) clearBtn.classList.remove('visible');
+    hideResults();
+  }
+  
+  function updateActiveResult(direction) {
+    const items = document.querySelectorAll('.search-result-item');
+    if (items.length === 0) return;
+    
+    if (activeResultIndex >= 0) {
+      items[activeResultIndex].classList.remove('active');
+    }
+    
+    if (direction === 'next') {
+      activeResultIndex = (activeResultIndex + 1) % items.length;
+    } else if (direction === 'prev') {
+      activeResultIndex = activeResultIndex <= 0 ? items.length - 1 : activeResultIndex - 1;
+    }
+    
+    items[activeResultIndex].classList.add('active');
+    items[activeResultIndex].scrollIntoView({ block: 'nearest' });
+  }
+  
+  function selectActiveResult() {
+    const items = document.querySelectorAll('.search-result-item');
+    if (activeResultIndex >= 0 && items[activeResultIndex]) {
+      items[activeResultIndex].click();
+    } else if (items.length > 0) {
+      items[0].click();
+    }
+  }
+  
+  function updateClearButton() {
+    const input = document.getElementById('search-input');
+    const clearBtn = document.getElementById('search-clear');
+    if (input && clearBtn) {
+      if (input.value.length > 0) {
+        clearBtn.classList.add('visible');
+      } else {
+        clearBtn.classList.remove('visible');
+      }
     }
   }
   
@@ -207,22 +245,14 @@
   }
   
   function init() {
-    console.log('[Search] init() called');
     const input = document.getElementById('search-input');
-    const container = document.getElementById('search-results');
+    const clearBtn = document.getElementById('search-clear');
     
-    console.log('[Search] Input element:', input);
-    console.log('[Search] Container element:', container);
-    
-    if (!input) {
-      console.error('[Search] No input element found!');
-      return;
-    }
+    if (!input) return;
     
     loadSearchData();
     
     const debouncedSearch = debounce((query) => {
-      console.log('[Search] Debounced search triggered, query:', query);
       if (!query.trim()) {
         hideResults();
         return;
@@ -232,51 +262,70 @@
     }, 200);
     
     input.addEventListener('input', (e) => {
-      console.log('[Search] Input event, value:', e.target.value);
+      updateClearButton();
       debouncedSearch(e.target.value);
     });
     
     input.addEventListener('keydown', (e) => {
-      console.log('[Search] Keydown event, key:', e.key, 'value:', input.value);
+      const resultsVisible = document.getElementById('search-results')?.classList.contains('visible');
       
-      if (e.key === 'Escape') {
-        hideResults();
-        input.blur();
+      switch (e.key) {
+        case 'ArrowDown':
+          e.preventDefault();
+          if (!resultsVisible && input.value.trim()) {
+            const results = search(input.value);
+            renderResults(results);
+          }
+          updateActiveResult('next');
+          break;
+        case 'ArrowUp':
+          e.preventDefault();
+          if (resultsVisible) {
+            updateActiveResult('prev');
+          }
+          break;
+        case 'Enter':
+          e.preventDefault();
+          if (resultsVisible) {
+            selectActiveResult();
+          } else if (input.value.trim()) {
+            const results = search(input.value);
+            renderResults(results);
+            if (results.length > 0) {
+              updateActiveResult('next');
+            }
+          }
+          break;
+        case 'Escape':
+          hideResults();
+          input.blur();
+          break;
       }
-      
-      if (e.key === 'Enter') {
-        console.log('[Search] Enter pressed, triggering immediate search');
-        const query = input.value;
-        console.log('[Search] Query on Enter:', query);
-        if (query.trim()) {
-          const results = search(query);
-          console.log('[Search] Search returned:', results.length, 'results');
+    });
+    
+    input.addEventListener('focus', (e) => {
+      if (e.target.value.trim()) {
+        const results = search(e.target.value);
+        if (results.length > 0) {
           renderResults(results);
         }
       }
     });
     
-    input.addEventListener('focus', (e) => {
-      console.log('[Search] Focus event, value:', e.target.value);
-      if (e.target.value.trim()) {
-        debouncedSearch(e.target.value);
-      }
-    });
+    if (clearBtn) {
+      clearBtn.addEventListener('click', clearSearch);
+    }
     
     document.addEventListener('click', (e) => {
       if (!e.target.closest('.search-container')) {
         hideResults();
       }
     });
-    
-    console.log('[Search] All event listeners attached');
   }
   
   if (document.readyState === 'loading') {
-    console.log('[Search] DOM loading, waiting for DOMContentLoaded');
     document.addEventListener('DOMContentLoaded', init);
   } else {
-    console.log('[Search] DOM ready, calling init immediately');
     init();
   }
 })();
