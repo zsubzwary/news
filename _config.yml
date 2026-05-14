@@ -1,0 +1,16 @@
+title: Pakistan News Briefing
+description: Daily news briefing from Pakistan in English and Urdu
+baseurl: /news
+url: https://zsubzwary.github.io
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      sitemap: true
+
+languages:
+  - code: en
+    name: English
+  - code: ur
+    name: اردو

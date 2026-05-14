@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zsubzwary.github.io/news/sitemap.xml
