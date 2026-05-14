@@ -69,6 +69,9 @@
         this.field('section', { boost: 10 });
         this.field('content');
         
+        // Remove stop word filter so words like "the" are searchable
+        this.pipeline.remove(lunr.stopWordFilter);
+        
         searchData.forEach(item => {
           console.log('[Search] Adding to index - id:', item.id, 'section:', item.section);
           this.add(item);
