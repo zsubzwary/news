@@ -7,72 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 17-May-2026 21:10PKT 
+ &lrm; 18-May-2026 09:09PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان کی مچھلی اور دیگر سمندری مصنوعات کی برآمدات پہلی بار 500 ملین ڈالر سے تجاوز کر گئیں۔ *[Dawn](https://www.dawn.com/news/2000847/seafood-exports-top-500-million)* *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/pakistans-seafood-exports-surpass-500-million-for-first-time-minister-says/)*
-- امریکہ میں **ٹیسلا** نے دو سال بعد ماڈل Y کی قیمتوں میں اضافہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40421526/tesla-raises-prices-of-model-y-cars-in-the-us-for-the-first-time-in-two-years)*
-- بھارت میں تیل کی قیمتوں میں اضافے کے باعث روپے کی قدر کو مستحکم کرنے کی کوششیں جاری ہیں۔ *[ARY](https://arynews.tv/india-scrambles-steady-rupee-oil-shock-bites)*
-- خلیجی ممالک میں سیاسی تناؤ اور امریکی بیانات کے باعث اسٹاک مارکیٹوں میں گراوٹ دیکھی گئی۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/gulf-markets-slip-as-trump-iran-rhetoric-undermines-hopes-of-strait-of-hormuz-deal/)*
-- چین اور امریکہ کے درمیان تجارتی اور زرعی معاملات پر ہونے والے معاہدے ابھی **ابتدائی مرحلے** میں ہیں۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/china-calls-us-trade-tariff-and-aircraft-understandings-preliminary-after-trump-xi-talks/)*
-- ایف پی سی سی (FPCCI) نے بجٹ 2026-27 کے لیے ٹیکس ڈھانچے میں بڑی اصلاحات اور کارپوریٹ ٹیکس میں کمی کا مطالبہ کیا ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/fpcci-calls-for-major-tax-overhaul-in-budget-2026-27-seeks-cuts-in-corporate-and-income-rates/)*
-- پنجاب حکومت نے زرعی مشینری کی تیاری کے لیے چینی کمپنیوں کو سرمایہ کاری کی دعوت دی ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/punjab-courts-chinese-investment-in-farm-machinery-manufacturing/)*
-- پاکستان نے تربیلا ہائیڈرو پاور منصوبے کی تکمیل کے لیے ورلڈ بینک سے مزید **300 ملین ڈالر** کے مالی تعاون کی درخواست کی ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/pakistan-seeks-300-million-more-from-world-bank-for-tarbela-fifth-hydropower-project/)*
-- وفاقی وزیر اعداد و شمار نے نیشنل ڈیجیٹل ماسٹر پلان کے نفاذ کے لیے صوبائی حکومتوں سے مشاورت کا کہا ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/cheema-seeks-provincial-sign-off-on-national-digital-masterplan-before-budget/)*
-- ایچ بی ایل (HBL) نے پاکستان کے پہلے **پانڈا بانڈ** کے کامیاب اجراء میں مالیاتی مشیر کے طور پر اہم کردار ادا کیا ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/16/hbl-plays-a-leading-role-in-the-inaugural-panda-bond-issuance/)*
+- آئی ایم ایف نے پاکستان کے 3.4 ٹریلین روپے کے گیس سرکولر ڈیٹ کے منصوبے پر تشویش کا اظہار کرتے ہوئے مزید وضاحتیں طلب کر لی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/imf-raises-concerns-over-pakistans-%e2%82%a83-4-trillion-gas-circular-debt-plan/)*
+- ٹیکسٹائل صنعت نے مالی سال 2026-27 کے بجٹ میں ٹیکسوں میں کمی اور توانائی کے نرخوں کو کم کرنے کا مطالبہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/textile-sector-seeks-tax-cuts-lower-energy-tariffs-and-refund-clearance-in-fy27-budget/)*
+- بینکاری شعبے میں غیر کارکردگی دکھانے والے قرضوں (NPLs) کی رقم 980 ارب روپے تک پہنچ گئی ہے، جس سے معاشی استحکام پر خدشات پیدا ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2001012/blue-passports-okayed-for-42-top-taxpayers)*
+- عالمی منڈیوں میں بڑھتے ہوئے افراط زر کے خدشات کے باعث بانڈز کی قیمتوں میں بڑی گراوٹ دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421640/global-bond-rout-deepens-as-inflation-fears-mount)*
+- متحدہ عرب امارات میں ایٹمی پلانٹ کے قریب ڈرون حملے کے نتیجے میں خام تیل کی قیمتیں دو ہفتوں کی بلند ترین سطح پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40421635/oil-touches-2-week-high-after-drone-attack-on-uae-nuclear-power-plant)*
+- سونے کی قیمتیں مشرق وسطیٰ میں کشیدگی اور تیل کی بڑھتی ہوئی قیمتوں کے باعث ایک ماہ کی کم ترین سطح پر آگئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40421634/gold-slips-to-1-12-month-low-as-middle-east-tensions-lift-oil-cloud-rate-outlook)*
+- پاکستان اسٹاک ایکسچینج میں مستقبل میں آپشنز ٹریڈنگ کے آغاز کے امکانات پر غور کیا جا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/options-trading-is-coming-to-the-psx/)*
+- سروس لانگ مارچ ٹائرز نے اپنے آئی پی او (IPO) کے لیے بک بلڈنگ کا عمل شروع کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421608/service-long-march-tyres-ipo-book-building-to-open-today)*
 
 ### سائنس اور ٹیکنالوجی
-- متحدہ عرب امارات کے جوہری بجلی گھر کے قریب ڈرون حملے کے بعد ریڈی ایشن کی سطح **نارمل** برقرار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421532/iaea-says-uae-radiation-levels-normal-after-drone-strike-near-barakah-plant)*
-
-### موسم
-- این ڈی ایم اے (NDMA) نے ملک کے مختلف حصوں میں بارشوں، ہوا کے تیز جھکڑوں اور اولوں کی صورتحال کا الرٹ جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421531/ndma-warns-of-widespread-rain-windstorms-from-monday-to-friday)*
-- چین کے علاقے گوانگسی میں شدید سیلاب کے بعد امدادی کارروائیاں جاری ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40421524/china-sends-rescue-workers-to-guangxi-flood-site)*
+- صدر اور وزیراعظم نے ڈیجیٹل کنیکٹیویٹی کے فروغ اور تکنیکی تبدیلی کے لیے حکومت کے عزم کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40421610/expanding-digital-connectivity-president-pm-reaffirm-their-commitment)*
+- سندھ میں زراعت، خلائی سائنس اور موسمیاتی تبدیلیوں پر جدید تحقیق کے لیے ایک بڑے اقدام کا آغاز کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421551/agriculture-space-science-climate-change-major-initiative-launched-in-sindh)*
+- پاکستان میں سولر انرجی کے شعبے میں تیزی سے ترقی ہو رہی ہے، تاہم حکومتی ادارے اس رفتار کے مطابق ڈھلنا میں ناکام نظر آتے ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/pakistans-solar-boom-and-the-state-that-cant-keep-up/)*
 
 ### سیاست
-- آئی ایس پی آر (ISPR) نے بھارتی فوج کے سربراہ کے بیانات کو **اشتعال انگیز** قرار دیتے ہوئے سخت مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2000883/ispr-takes-exception-after-indian-army-chief-says-pakistan-should-decide-between-being-part-of-geography-or-not)* *[Business Recorder](https://www.brecorder.com/news/40421517/madness-and-warmongering-ispr-responds-to-indian-army-chiefs-provocative-remarks)*
-- خیبر پختونخوا میں نئے صوبائی وزراء نے حلف اٹھایا اور کابینہ کی توسیع کی گئی۔ *[Dawn](https://www.dawn.com/news/2000903/governor-kundi-administers-oath-to-5-new-kp-ministers)*
-- وزیر داخلہ محسن نقوی علاقائی امن کے لیے تہران کے دورے پر ہیں۔ *[Dawn](https://www.dawn.com/news/2000823/pakistan-makes-fresh-bid-to-revive-us-iran-talks)*
-- پاکستان، ترکیہ اور آذربائیجان کے درمیان سہ فری پہلو تعلقات کو مضبوط بنانے پر زور دیا گیا۔ *[Dawn](https://www.dawn.com/news/2000914/islamabad-baku-developing-ties-within-pakistan-turkiye-azerbaijan-trilateral-framework-president-aliyev)*
-- وزیراعظم شہباز شریف نے قطر کے وزیراعظم سے علاقائی صورتحال کے حوالے سے ٹیلی فون پر گفتگو کی۔ *[Business Recorder](https://www.brecorder.com/news/40421535/pm-shehbaz-qatari-counterpart-discuss-evolving-regional-situation)*
-- پی ٹی آئی (PTI) نے پارٹی کے اندرونی اختلافات کی خبروں کی تردید کرتے ہوئے اتحاد کا دعویٰ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2000822/pti-says-all-united-behind-imran-as-insiders-claim-internal-rifts)*
-- بھارتی ریاست آندھرا پردیش میں آبادی کے رجحان کو روکنے کے لیے بچوں کی پیدائش پر مالی مراعات کا اعلان کیا گیا۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/chandrababu-naidu-announces-%e2%82%b930000-%e2%82%b940000-incentives-for-third-and-fourth-child-as-india-debates-population-decline/)*
-- امریکہ میں ریپبلکن سینٹر کیسیڈی کو دوبارہ انتخاب میں شکست کا سامنا کرنا پڑا۔ *[ARY](https://arynews.tv/republican-senator-cassidy-loses-re-election-to-trump-retribution-campaign)*
-- مقبوضہ کشمیر میں بھارت اور پاکستان کے درمیان امن مذاکرات کے مطالبات میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2000813/india-pakistan-dialogue-push-gains-steam-in-held-kashmir-too)*
+- ووٹنگ کی عمر 18 سے بڑھا کر 25 سال کرنے کی تجویز پر سیاسی حلقوں اور سول سوسائٹی کی جانب سے سخت تنقید کی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2001025/proposal-to-raise-voting-age-to-25-finds-few-takers)*
+- 28 ویں آئینی ترمیم کے حوالے سے ممکنہ بڑے آئینی تبدیلیوں کے امکانات پر بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2001028/situationer-28th-legislative-package-by-any-other-name)*
+- خیبر پختونخوا کے گورنر نے مرکز سے صوبے کے مسائل حل کرنے اور وزیر اعلیٰ کو گورننس پر توجہ دینے کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/2000922/kundi-calls-on-pm-to-take-interest-in-kps-issues-says-told-cm-afridi-to-focus-on-governance-not-adiala)*
 
 ### قومی
-- عید الاضحیٰ **27 مئی** کو منائی جائے گی۔ *[Dawn](https://www.dawn.com/news/2000923/zilhaj-moon-sighted-eidul-azha-to-fall-on-may-27)* *[ARY](https://arynews.tv/eid-al-adha-2026-announcement-in-pakistan)*
-- پاسپورٹ کی ہوم ڈیلیوری کی سہولت جلد ملک گیر سطح پر شروع کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2000939/applicants-will-soon-have-the-option-to-get-passports-delivered-to-their-doorsteps-says-official)*
-- عید الاضحى کے موقع پر موٹر ویز پر جانوروں سے لدے ہوئے گاڑیوں کی آمد پر پابندی لگا دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2000929/entry-of-vehicles-loaded-with-sacrificial-animals-banned-on-motorways-ahead-of-eidul-azha)*
-- کراچی میں ای-چالان سسٹم کے باوجود ٹریفک کے مسائل برقرار ہیں۔ *[Dawn](https://www.dawn.com/news/2000760/e-challan-system-yet-to-bring-order-on-karachis-roads)*
-- ایف آئی اے (FIA) نے کراچی میں سرکاری افسران کے روپ میں دھوکہ دہی کرنے والے دو افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2000896/fia-arrests-two-for-impersonating-government-officials-in-karachi)*
-- انمل پنکی نے پولیس پر جھوٹے بیانات دینے کے لیے دباؤ ڈالنے کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2000757/anmol-pinky-complains-of-pressure-to-give-false-statements-disputes-official-claim-on-arrest-timing)*
-- بلوچستان میں دہشت گردوں کے حملے میں ایک خاتون کانسٹیبل اور ایک شاعر شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2000821/woman-cop-poet-killed-in-balochistan-attacks)*
-- کوئٹہ میں سیکورٹی خطرات کے پیش نظر **سیکشن 144** نافذ کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421534/section-144-imposed-in-quetta-for-one-month-amid-security-threat)*
-- سندھ گورنر نے کراچی کے صنعتی مسائل کے حل کے لیے حکومتی تعاون کا یقین دلایا ہے۔ *[Profit](https://profit.pakistantoday.com.pk/2026/05/17/sindh-governor-assures-action-on-karachi-industrial-issues-as-nkati-flags-security-and-infrastructure-concerns/)*
-- کراچی میں گیس کی فراہمی بحال کر دی گئی ہے۔ *[ARY](https://arynews.tv/gas-supply-restored-in-these-areas-of-karachi)*
+- کوئٹہ کے گردونواح میں دہشت گردوں کے خلاف آپریشن کے دوران 35 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2001014/35-terrorists-killed-during-action-in-hills-around-quetta)*
+- رویت الهلال کمیٹی نے اعلان کیا ہے کہ عید الاضحیٰ 27 مئی کو منائی جائے گی۔ *[Dawn](https://www.dawn.com/news/2000923/zilhaj-moon-sighted-eidul-azha-to-fall-on-may-27)*
+- بلوچستان میں امن و امان برقرار رکھنے کے لیے سیکشن 144 نافذ کر دیا گیا ہے جس میں عوامی اجتماعات پر پابندی شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421611/section-144-imposed-in-balochistan-face-covering-in-public-places-banned)*
+- اعلیٰ ٹیکس دہندگان کے لیے 'بلیو پاسپورٹ' کے اجراء کی منظوری دے دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2001012/blue-passports-okayed-for-42-top-taxpayers)*
+- پاک فوج نے بھارت کو خبردار کیا ہے کہ پاکستان کو نشانہ بنانے کی کوئی بھی کوشش علاقائی استحکام کے لیے مہنگی ثابت ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40421613/army-warns-india-against-targeting-pakistan)*
 
 ### بین الاقوامی
-- امریکی سینٹرل کمانڈ نے دہشت گردی کے خلاف جنگ میں پاکستان کو ایک **اہم شراکت دار** قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2000930/pakistan-critical-counter-terrorism-partner-in-us-fight-against-is-k-centcom)*
-- جمہوری جمہوریہ کانگو اور یوگنڈا میں ایبولہ کے پھیلاؤ کو بین الاقوامی ہنگامی صورتحال قرار دے دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2000924/who-declares-ebola-outbreak-in-dr-congo-uganda-an-emergency-of-international-concern)* *[Business Recorder](https://www.brecorder.com/news/40421525/who-declares-ebola-outbreak-in-congo-uganda-an-emergency-of-international-concern)*
-- آسٹریلیا میں ایک مسافر کے عملے پر حملہ کرنے کے بعد پرواز کو ڈائیورٹ کرنا پڑا۔ *[Dawn](https://www.dawn.com/news/2000901/qantas-flight-diverted-after-man-bites-flight-attendant)*
-- اٹلی کے شہر ماڈینا میں گاڑی کے ہجوم پر چڑھ جانے سے متعدد افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40421516/at-least-eight-injured-as-car-rams-into-pedestrians-in-italian-city-of-modena)*
-- پاکستان نے سندھ طاس کے پانی کے معاملے میں بھارت کے خلاف قانونی جنگ میں کامیابی حاصل کی۔ *[ARY](https://arynews.tv/pakistan-wins-legal-battle-against-india)*
+- مستقل عدالتِ انصاف (PCA) کے فیصلے نے سندھ کے دریاؤں کے حوالے سے بھارت کی پانی کے کنٹرول کرنے کی صلاحیت پر پابندیوں کی تصدیق کی ہے۔ *[Dawn](https://www.dawn.com/news/2000952/pakistan-hails-pca-decision-in-iwt-proceedings-says-it-affirms-limits-on-indias-water-control-capability)*
+- یو ایس سینٹرکوم نے پاکستان کو دہشت گردی کے خلاف جنگ، بالخصوص داعش-خراسان کے خلاف ایک اہم شراکت دار قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2000930/pakistan-critical-counter-terrorism-partner-in-us-fight-against-is-k-centcom)*
+- متحدہ عرب امارات کے ایٹمی پلانٹ کے قریب ڈرون حملے نے مشرق وسطیٰ میں کشیدگی کو مزید بڑھا دیا ہے۔ *[Dawn](https://www.dawn.com/news/2001022/uae-slams-drone-strike-near-its-nuclear-plant)*
+- اسرائیل کے عراق میں دو خفیہ فوجی اڈوں کے ہونے کی اطلاعات سامنے آئی ہیں۔ *[Dawn](https://www.dawn.com/news/2001043/israel-operated-two-covert-bases-in-iraqi-desert-nyt)*
+- چین کے جنوب مغربی علاقے میں 5.2 شدت کے زلزلے سے دو افراد ہلاک اور ہزاروں افراد کو مقامات سے منتقل کرنا پڑا۔ *[Business Recorder](https://www.brecorder.com/news/40421633/earthquake-hits-southwest-china-thousands-evacuate-buildings-collapse)*
+- امریکہ نے کیوبا کی جانب سے ملٹری ڈرونز کے ذریعے امریکی اڈوں پر حملے کے خدشات کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421607/us-weighs-drone-threat-from-cuba-report)*
 
 ### کھیل
-- بنگلہ دیش نے پاکستان کے خلاف دوسرے ٹیسٹ میچ میں برتری حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2000932/bowlers-opener-joy-put-bangladesh-in-command-of-second-test-against-pakistan)* *[Business Recorder](https://www.brecorder.com/news/40421533/bowlers-joy-put-bangladesh-on-top-in-second-pakistan-test)*
-- ایران اور فیفا کے درمیان ورلڈ کپ کی تیاریوں کے حوالے سے تعمیری ملاقات ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40421530/iran-have-constructive-meeting-with-fifa-over-world-cup-preparations)*
-- شمالی کوریا کی خواتین فٹ بال ٹیم جنوبی کوریا پہنچی۔ *[Business Recorder](https://www.brecorder.com/news/40421527/north-korean-womens-soccer-club-arrives-in-south-amid-strained-ties)*
-- ایلینا سویٹولینا نے اٹلیئن اوپن کا ٹائٹل جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421522/svitolina-fights-off-gauff-to-win-third-italian-open-title)*
-- جوز مورینیو نے ریال میڈرڈ میں واپسی کے امکانات پر بات کی۔ *[Business Recorder](https://www.brecorder.com/news/40421521/mourinho-says-will-decide-future-by-next-week-amid-real-madrid-talks)*
-- چیلسی نے **ژابی السو** کو نیا مینیجر مقرر کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421520/chelsea-appoint-xabi-alonso-as-new-manager)*
-
-### صحت
-- ڈبلیو ایچ او (WHO) نے ایبولہ کے پھیلاؤ کو بین الاقوامی ہنگامی صورتحال قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2000924/who-declares-ebola-outbreak-in-dr-congo-uganda-an-emergency-of-international-concern)*
+- بنگلہ دیش نے پاکستان کے خلاف دوسرے ٹیسٹ میچ میں اپنی برتری قائم کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2000932/bowlers-opener-joy-put-bangladesh-in-command-of-second-test-against-pakistan)*
+- سکاٹ لینڈ لیگ کے ٹائٹل کے فیصلے کے دوران میدان میں مداخلت کے باوجود میچ مکمل کیا گیا۔ *[ARY](https://arynews.tv/scottish-league-title-decider-did-not-end-early-after-pitch-invasion)*
 
 ### دیگر
-- ٹیلو سیو (Taylor Swift) کے مداحوں میں نئے گانے کے حوالے سے جوش و خروش دیکھا جا رہا ہے۔ *[ARY](https://arynews.tv/taylor-swift-sends-swifties-into-frenzy-over-ts13-clue)*
-- بلغاریہ نے یورو ویژن سونگ کانٹیسٹ جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421523/bulgaria-wins-eurovision-song-contest-israel-comes-second-again)*
-- نیپالی شیرپا نے ماؤنٹ ایورسٹ پر 32 ویں بار چڑھائی کر نیا ریکارڈ قائم کیا۔ *[ARY](https://arynews.tv/nepali-sherpa-scales-mount-everest-for-a-record-32nd-time)* *[Business Recorder](https://www.brecorder.com/news/40421528/nepali-sherpa-scales-mount-everest-for-a-record-32nd-time)*
+- مختلف انٹرٹینمنٹ پلیٹ فارمز جیسے یوٹیوب اور پرائم ویڈیو پر نئی فلموں اور شوز کی ریلیز کے حوالے سے خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/the-house-of-spirits-a-timeless-tale-comes-alive-on-prime-video)*
 
