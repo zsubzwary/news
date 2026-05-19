@@ -4,68 +4,68 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 18-May-2026 21:05PKT
+Published at: 19-May-2026 09:05PKT
 
 Time to read: 6 mins
 
 ### Economy
-- **PSX benchmark index plunged** nearly 3,800 points due to heightened geopolitical tensions in the Middle East. *[Dawn](https://www.dawn.com/news/2001140/psx-plunges-by-nearly-3800-points-as-investors-remain-cautious-amid-geopolitical-tensions)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/psx-under-pressure-as-geopolitical-fears-wipe-over-2200-points-off-kse-100/)*
-- **Oil prices reached a two-week high** following a drone attack on a UAE nuclear power plant and rising tensions between the US and Iran. *[Dawn](https://www.dawn.com/news/2001116/oil-touches-two-week-high-after-drone-attack-on-uae-nuclear-power-plant)*
-- **Pakistan's current account deficit** was recorded at $324 million for April 2026. *[Business Recorder](https://www.brecorder.com/news/40421693/pakistan-posts-324mn-ca-deficit-in-april-2026)*
-- **The Indian rupee hit a record low** against the US dollar, driven by soaring global bond yields and elevated energy prices. *[Business Recorder](https://www.brecorder.com/news/40421697/surging-global-bond-yields-elevated-oil-deepen-indian-rupees-slide-to-record-lows)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/indian-rupee-hits-record-low-as-global-bond-yield-surge-compounds-oil-pain/)*
-- **Fasset secured $51 million** in funding to expand its stablecoin-powered financial infrastructure across emerging markets, including Pakistan. *[Business Recorder](https://www.brecorder.com/news/40421689/fasset-raises-51-million-to-expand-stablecoin-powered-financial-infrastructure-across-emerging-markets-including-pakistan)*
-- **SG Power Limited** plans a **Rs535 million right issue** to fund its expansion into the healthcare and pharmaceutical sectors. *[Business Recorder](https://www.brecorder.com/news/40421688/pakistani-ipp-plans-rs535mn-right-issue-to-expand-into-healthcare)*
-- **The UAE is standardizing** the deadline for private-sector salary payments to the first of every month. *[Dawn](https://www.dawn.com/news/2001273/uae-standardises-deadline-for-payments-of-private-sector-salaries)*
-- **The government is exploring the tokenization** of sovereign debt instruments and Naya Pakistan Certificates (NPCs) via blockchain technology. *[Business Recorder](https://www.brecorder.com/news/40421706/govt-explores-tokenisation-of-sovereign-bonds-npcs)*
-- **Major tax relief is being considered** for Pakistan’s telecom and broadband sector in the FY27 budget. *[Business Recorder](https://www.brecorder.com/news/40421691/govt-eyes-major-tax-relief-for-telecom-sector-in-fy27-budget-sources)*
-- **Gold prices in Pakistan rose** by Rs900 per tola, reaching Rs477,162. *[Business Recorder](https://www.brecorder.com/news/40421690/gold-per-tola-gains-rs900-in-pakistan)*
-- **AJK has resumed the issuance of mining leases** following intervention by the Special Investment Facilitation Council (SIFC). *[Business Recorder](https://www.brecorder.com/news/40421711/ajk-resumes-issuance-of-mining-leases-after-sifc-intervention)*
-- **Auto parts manufacturers welcomed** the sharp decline in used car imports, citing support for local manufacturing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/auto-parts-makers-welcome-sharp-decline-in-used-car-imports/)*
-- **The packaging and paper industry** is facing pressure from rising energy and raw material costs. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/rising-energy-raw-material-costs-squeeze-pakistans-packaging-and-paper-industry/)*
-- **LSE Financial Services approved a 10-for-1 stock split** and a proposed investment in LSE SPAC-II. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/lse-financial-services-approves-10-for-1-stock-split-plans-%e2%82%a8100-million-investment-in-lse-spac-ii/)*
-- **Gillette Pakistan will voluntarily delist** from the Pakistan Stock Exchange effective May 19. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/psx-approves-voluntary-delisting-of-gillette-pakistan-from-may-19/)*
-- **The government is seeking approval from Chinese IPPs** for a revised settlement to unlock a Rs1.225 trillion bank facility. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/govt-seeks-chinese-ipps-approval-for-revised-settlement-to-unlock-%e2%82%a81-225-trillion-bank-facility/)*
-- **US stocks remained relatively flat** ahead of much-anticipated earnings from Nvidia and Walmart. *[Business Recorder](https://www.brecorder.com/news/40421705/us-stocks-little-changed-ahead-of-nvidia-results)*
-- **The IEA chief warned** that commercial oil stocks are declining very rapidly due to Middle East supply disruptions. *[Business Recorder](https://www.brecorder.com/news/40421695/oil-stocks-declining-very-fast-iea-chief-warns)*
+- The federal government has requested provinces to increase revenue by **Rs400 billion** (a 40% increase) through better collection in agriculture, property, and services to meet IMF goals. *[Dawn](https://www.dawn.com/news/2001400/provinces-asked-to-raise-rs400bn-more-to-meet-imf-goals)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/provinces-asked-to-raise-over-%e2%82%a8400-billion-in-new-taxes-under-imf-linked-fy27-targets/)*
+- The government is exploring the **tokenization of sovereign bonds** and Naya Pakistan Certificates (NPCs) via regulated blockchain. *[Dawn](https://www.dawn.com/news/2001385/govt-eyes-tokenisation-of-bonds-via-blockchain)*
+- Prime Minister Shehbaz Sharif is reviewing a proposed **Rs1.51 trillion** Public Sector Development Programme (PSDP) for FY 2026-27. *[Dawn](https://www.dawn.com/news/2001296/pm-shehbaz-reviews-rs1.5tr-psdp-directs-more-funds-for-well-performing-ministries)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/rs1-51-trillion-psdp-under-review-as-shehbaz-reshapes-development-priorities-ahead-of-budget/)*
+- Pakistan and the IMF have reached a broad agreement on the **FY27 macroeconomic framework**, targeting 4.1% growth and 8.6% inflation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistan-imf-broadly-agree-on-fy27-framework-with-4-1-growth-8-6-inflation-target/)*
+- The Asian Development Bank (ADB) is expected to approve **$1.2 billion** in financing for the rehabilitation of the ML-1 railway project. *[Business Recorder](https://www.brecorder.com/news/40421728/rehabilitation-of-ml-1-project-adb-likely-to-approve-usd12bn-financing)*
+- Finance Minister Aurangzeb lauded **AIIB's support** in the successful issuance of Pakistan’s Panda Bond. *[Business Recorder](https://www.brecorder.com/news/40421732/issuance-of-panda-bond-aurangzeb-lauds-aiibs-support)*
+- **S&P Global** warned that Pakistan is the most vulnerable Asia-Pacific economy to macro-financial stress if the Middle East conflict persists. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/sp-warns-pakistan-faces-highest-macro-financial-risk-from-prolonged-middle-east-conflict/)*
+- Global markets reacted to **President Trump's decision to pause an attack on Iran**: oil prices fell over 2%, while the US dollar and gold remained steady. *[Business Recorder](https://www.brecorder.com/news/40421808/oil-falls-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran)* / *[Business Recorder](https://www.brecorder.com/news/40421806/gold-steady-on-weaker-dollar-after-trump-pauses-planned-iran-attack)*
+- **India increased fuel prices** for the second time in a week to recoup losses from high global crude prices. *[Business Recorder](https://www.brecorder.com/news/40421811/india-hikes-fuel-prices-for-second-time-in-a-week)*
+- The **Indian rupee** is expected to face continued weakness, potentially hitting an all-time low due to high oil prices. *[Business Recorder](https://www.brecorder.com/news/40421813/indian-rupee-slide-to-persist-with-no-oil-relief-asia-fx-weakness-compounds-pain)*
+- **Uber** has increased its stake in Germany’s Delivery Hero, becoming its largest shareholder. *[ARY](https://arynews.tv/uber-doubles-stake-in-delivery-hero-shares)*
+- New **Iran transit trade routes** through Pakistani ports remain non-operational despite official notifications. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistans-new-iran-transit-trade-routes-remain-non-operational-despite-official-notification/)*
+- The government of **AJK has resumed the issuance of mining leases** after a nearly two-year suspension. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/ajk-lifts-suspension-on-mining-leases-after-nearly-two-years/)*
+
+### Science & Technology
+- A US jury ruled against **Elon Musk** in his lawsuit against OpenAI, finding the company not liable. *[Dawn](https://www.dawn.com/news/2001311/jury-rules-against-musk-in-blockbuster-openai-trial)*
+- **China has offered** to establish an Artificial Intelligence (AI) hub in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40421736/china-offers-to-establish-ai-hub)*
+- US national labs are seeking newcomers to develop **supercomputers** to support the growing AI chip industry. *[ARY](https://arynews.tv/chip-technology-revolutionizing-supercomputing)*
+- Guidance was provided on **securing WhatsApp accounts** to prevent loss of access. *[ARY](https://arynews.tv/how-to-secure-your-whatsapp-account-before-you-lose-access)*
 
 ### Weather
-- **PDMA forecasts rain, dust, and thunderstorms** in several Punjab districts from Monday night until Saturday. *[Dawn](https://www.dawn.com/news/2001283/pdma-forecasts-rain-dust-thunderstorms-in-punjab-districts-until-saturday)*
+- A **magnitude 6 earthquake** struck the Vanuatu islands at a depth of 10 km. *[Business Recorder](https://www.brecorder.com/news/40421812/earthquake-of-magnitude-6-strikes-vanuatu-islands-gfz-says)*
+- High temperatures are forecast for major Pakistani cities, with **Lahore** expected to reach 44°C. *[Business Recorder](https://www.brecorder.com/news/40421725/the-weather)*
 
 ### Politics
-- **Counsel for Imran Khan and Bushra Bibi** challenged an IHC order setting a deadline for arguments in their £190m case. *[Dawn](https://www.dawn.com/news/2001255/counsel-for-imran-bushra-challenges-ihc-order-setting-deadline-for-arguments-in-ps190m-case)*
-- **Raza Rabbani stated** there is "no need" for the 28th Constitutional Amendment, claiming the Constitution cannot bear further amendments. *[Dawn](https://www.dawn.com/news/2001233/no-need-for-28th-constitutional-amendment-says-raza-rabbani)*
-- **JI emir Hafiz Naeemur Rehman challenged the petroleum levy** in the Federal Constitutional Court, calling it unconstitutional. *[Dawn](https://www.dawn.com/news/2001228/fcc-ji-petrol)*
+- JUI-F chief Maulana Fazlur Rehman urged **President Zardari** to protect the 18th Amendment. *[Dawn](https://www.dawn.com/news/2001391/fazl-urges-president-zardari-to-protect-18th-amendment)*
+- **Imran Khan** has approached the Supreme Court seeking directions for his transfer to Shifa International Hospital and access to medical staff. *[Dawn](https://www.dawn.com/news/2001399/imran-urges-sc-to-order-his-hospitalisation)*
+- **PTI lawmakers** staged a protest in the National Assembly demanding proper medical care for Imran Khan. *[Dawn](https://www.dawn.com/news/2001309/opposition-lawmakers-stage-protest-in-national-assembly-demand-medical-care-for-imran)*
+- PTI warned of a **"moral collapse"** if the state fails to protect the constitutional rights of political detainees. *[Dawn](https://www.dawn.com/news/2001393/pti-warns-of-moral-collapse-over-treatment-of-political-detainees)*
+- Defence Minister Khawaja Asif warned that **India** would face severe consequences if it attempts any "misadventure" against Pakistan. *[Dawn](https://www.dawn.com/news/2001298/india-will-be-relegated-to-history-if-it-attempts-misadventure-against-pakistan-khawaja-asif)*
+- The **KP Governor and Chief Minister** joined forces to demand the removal of restrictions on wheat transportation and CNG supply. *[Business Recorder](https://www.brecorder.com/news/40421727/kp-governor-cm-join-hands-for-provincial-rights)*
 
 ### National
-- **The Federal Shariat Court struck down** 2022 legislation that decriminalized suicide attempts, declaring it repugnant to Islam. *[Dawn](https://www.dawn.com/news/2001254/federal-shariat-court-strikes-down-2022-legislation-decriminalising-suicide-attempts)*
-- **Two policemen martyred** in KP's Bajaur while deployed with polio vaccination teams. *[Dawn](https://www.dawn.com/news/2001234/two-policemen-deployed-with-polio-teams-martyred-in-kps-bajaur)*
-- **A tribal chief was among three killed** in an IED blast in Wana, KP. *[Dawn](https://www.dawn.com/news/2001126/tribal-chief-among-3-killed-in-ied-blast-in-kps-wana)*
-- **The prime accused in the Sana Yousaf murder case** retracted his confession, alleging false implication by police. *[Dawn](https://www.dawn.com/news/2001269/accused-in-teenage-tiktok-star-sana-yousafs-murder-retracts-confession-alleges-false-implication)*
-- **Anmol (Pinky) was remanded into police custody** for another four days in a murder case, alleging pressure to "take names." *[Dawn](https://www.dawn.com/news/2001249/anmol-alias-pinky-alleges-pressure-to-take-names-as-court-extends-physical-remand-in-murder-case)*
-- **The IHC sought a response from the CDA** regarding appeals filed by sub-lessees of the One Constitution Avenue project. *[Dawn](https://www.dawn.com/news/2001263/ihc-seeks-cda-response-on-appeals-of-one-constitution-avenue-apartment-sub-lessees)*
-- **KP Chief Minister Sohail Afridi sought PM intervention** to resolve an ongoing CNG crisis in the province. *[Dawn](https://www.dawn.com/news/2001139/cm-afridi-seeks-pms-intervention-on-cng-crisis-in-kp-warns-of-possible-widespread-agitation)*
-- **The federal government approved exemptions** from early business closure timings until May 31. *[Dawn](https://www.dawn.com/news/2001253/markets-shops-eateries-exempted-from-early-closure-timings-till-may-31)* *[Business Recorder](https://www.brecorder.com/news/40421698/centre-lifts-business-hour-restrictions-ahead-of-eidul-adha)*
-- **Authorities banned animal-loaded vehicles** from entering motorways to ensure safety ahead of Eidul Azha. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/animal-loaded-vehicles-banned-from-entering-motorways-ahead-of-eidul-azha/)*
-- **Prime Minister Shehbaz Sharif reviewed PSDP projects**, stating that water storage capacity projects will receive priority. *[Business Recorder](https://www.brecorder.com/news/40421692/projects-aimed-at-increasing-water-storage-capacity-to-be-given-priority-pm-reviews-psdp)*
-- **Islamabad announced new business timings** ahead of Eid al Adha. *[ARY](https://arynews.tv/islamabad-announces-new-business-timings-ahead-of-eid-al-adha-2026)*
-- **The husband of a Hyderabad drug dealer** was identified as a police officer. *[ARY](https://arynews.tv/arrested-hyderabad-drug-dealer-gudi-chandios-husband-identified-as-police-officer)*
+- The Supreme Court has formulated new guidelines to ensure **uniformity in civil pleadings** at trial courts. *[Dawn](https://www.dawn.com/news/2001413/sc-lays-down-rules-for-uniformity-in-civil-pleadings)*
+- The **Sindh Assembly** passed the Domestic Workers Welfare Bill 2025 to provide legal safeguards for household workers. *[Dawn](https://www.dawn.com/news/2001354/sindh-assembly-passes-bill-for-legal-cover-to-household-workers)*
+- Punjab CM Maryam Nawaz announced a **$2 billion urban development plan** focused on climate resilience. *[Dawn](https://www.dawn.com/news/2001417/maryam-says-cities-resilience-relies-on-people-centred-uplift)*
+- The prime accused in the **Sana Yousaf murder case** has retracted his confession, alleging false implication. *[Dawn](https://www.dawn.com/news/2001269/accused-in-teenage-tiktok-star-sana-yousafs-murder-retracts-confession-alleges-false-implication)*
+- The federal government has **relaxed countrywide lockdown** restrictions for shops and restaurants until May 31. *[Business Recorder](https://www.brecorder.com/news/40421729/countrywide-lockdown-relaxed-until-31st)*
+- Over **164,000 Pakistanis** have been deported from Gulf states over the last five years, with Saudi Arabia accounting for the majority. *[Business Recorder](https://www.brecorder.com/news/40421731/na-informed-164788-pakistanis-deported-from-gulf-states-in-5-years)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/saudi-arabia-uae-lead-as-gulf-states-deport-more-than-164000-pakistanis-over-five-years/)*
+- The **Islamabad High Court** issued notices to the CDA regarding appeals by residents of the One Constitution Avenue project. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/ihc-moves-cda-for-reply-on-one-constitution-avenue-residents-appeals/)*
 
 ### International
-- **Israeli forces intercepted a Gaza-bound aid flotilla**, detaining several members of the Global Sumud Flotilla. *[Dawn](https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla)* *[Business Recorder](https://www.brecorder.com/news/40421687/gaza-bound-flotilla-says-israeli-forces-intercepting-fleet-near-cyprus)*
-- **Iran announced the formation of a new body**, the Persian Gulf Strait Authority (PGSA), to manage the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2001272/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council)*
-- **Pakistan condemned a drone attack** on a nuclear power plant in the UAE, warning of catastrophic consequences. *[Dawn](https://www.dawn.com/news/2001136/pakistan-condemns-drone-attack-on-uae-nuclear-power-plant)*
-- **A revised Iranian proposal** to end the Middle East conflict has been shared with the U.S. via Pakistani mediation. *[Business Recorder](https://www.brecorder.com/news/40421702/revised-iranian-proposal-to-end-war-shared-with-us-pakistani-source-says)*
-- **India and Norway agreed to a "green strategic partnership"** to promote clean energy and sustainable development. *[Business Recorder](https://www.brecorder.com/news/40421708/india-norway-agree-to-green-strategic-partnership)*
-- **Pakistan's Defence Minister stated** the country has sought written assurance from the Afghan Taliban regarding security. *[ARY](https://arynews.tv/pakistan-afghanistan-defence-minister-addresses-security-issues)*
-- **The cash-strapped UN refugee agency** is facing significant job cuts due to mounting global crises. *[ARY](https://arynews.tv/unhcr-faces-funding-cuts-and-job-reductions)*
+- Five people were killed, including two teen suspects, following a **shooting at a mosque in San Diego**, California. *[Dawn](https://www.dawn.com/news/2001397/5-dead-including-2-teen-suspects-after-shooting-at-san-diegos-largest-mosque)*
+- Pakistan has **condemned drone attacks on Saudi Arabia** and expressed solidarity with the kingdom. *[Dawn](https://www.dawn.com/news/2001312/pakistan-condemns-drone-strike-on-saudi-arabia-expresses-solidarity-with-riyadh)*
+- Iran has announced the formation of a **new authority to manage the Strait of Hormuz**. *[Dawn](https://www.dawn.com/news/2001272/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council)*
+- Israeli forces **detained Saad Edhi** and several others during a Gaza aid mission involving the Global Sumud Flotilla. *[Dawn](https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla)* / *[Business Recorder](https://www.brecorder.com/news/40421733/israel-arrests-saad-edhi-others-during-gaza-aid-mission)*
+- **BRICS foreign ministers** declared support for an independent Palestinian state during their meeting in New Delhi. *[Dawn](https://www.dawn.com/news/2001427/palestine-on-brics-agenda)*
+- **President Trump** announced a pause in planned military attacks on Iran to allow for peace negotiations. *[Business Recorder](https://www.brecorder.com/news/40421809/dollar-steadies-from-weakness-as-trump-calls-off-planned-attack-on-iran)*
+- The **Permanent Court of Arbitration** issued a ruling affirming Pakistan's rights under the Indus Waters Treaty regarding Indian hydropower projects. *[Dawn](https://www.dawn.com/news/2001421/water-win)*
 
 ### Sports
-- **Mushfiqur Rahim scored a century** to help Bangladesh set a massive 427-run target against Pakistan. *[Dawn](https://www.dawn.com/news/2001279/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh)* *[Business Recorder](https://www.brecorder.com/news/40421709/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh)*
-- **Iran’s football team arrived in Turkiye** for a training camp ahead of the 2026 World Cup. *[Business Recorder](https://www.brecorder.com/news/40421707/iran-world-cup-squad-lands-in-south-turkiye-for-training)*
-- **Former England cricket captain Smith has died** at the age of 92. *[ARY](https://arynews.tv/smith-remembering-england-cricket-legend-mjk)*
+- **Bangladesh set Pakistan a target of 427** to win the second Test following a century by Mushfiqur Rahim. *[Dawn](https://www.dawn.com/news/2001279/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh)*
+- **Sikandar Raza** has been honored with two major sports awards in Zimbabwe. *[ARY](https://arynews.tv/sikandar-raza-wins-two-major-sports-awards-in-zimbabwe)*
+- **PGMOL issued an apology** to Nottingham Forest regarding a goal involving Matheus Cunha. *[ARY](https://arynews.tv/pgmol-apologizes-to-nottingham-forest-over-matheus-cunhas-goal)*
 
 ### Other
-- **An analysis of TikTok features** highlights how social media is being used to move "dirty money" outside financial regulations. *[Dawn](https://www.dawn.com/news/2001256/a-tiktok-feature-that-pakistans-dirty-money-loves)*
-- **A major character in the series "The Boys"** is set to bid farewell ahead of the finale. *[ARY](https://arynews.tv/the-boys-a-major-character-bids-farewell-ahead-of-the-series-explosive-finale)*
-- **Marvel Comics has unveiled** 'The Fall of Kylo Ren'. *[ARY](https://arynews.tv/kylo-rens-epic-downfall-marvel-comics-unveils-the-fall-of-kylo-ren)*
+- *Stranger Things* star **Noah Schnapp** celebrated his graduation with his family. *[ARY](https://arynews.tv/stranger-things-star-noah-schnapp-celebrates-graduation-with-family)*
+- Pop singer **Olivia Rodrigo** teased fans with a surprise update regarding new music. *[ARY](https://arynews.tv/olivia-rodrigo-drops-surprise-update-teasing-new-music)*
+- The German Consulate hosted a special screening of the **documentary *INTERTANGO*** in Karachi. *[Business Recorder](https://www.brecorder.com/news/40421735/german-cg-acp-host-screening-of-intertango-a-connection-for-life)*
 
