@@ -4,68 +4,74 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-May-2026 09:05PKT
+Published at: 19-May-2026 21:04PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- The federal government has requested provinces to increase revenue by **Rs400 billion** (a 40% increase) through better collection in agriculture, property, and services to meet IMF goals. *[Dawn](https://www.dawn.com/news/2001400/provinces-asked-to-raise-rs400bn-more-to-meet-imf-goals)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/provinces-asked-to-raise-over-%e2%82%a8400-billion-in-new-taxes-under-imf-linked-fy27-targets/)*
-- The government is exploring the **tokenization of sovereign bonds** and Naya Pakistan Certificates (NPCs) via regulated blockchain. *[Dawn](https://www.dawn.com/news/2001385/govt-eyes-tokenisation-of-bonds-via-blockchain)*
-- Prime Minister Shehbaz Sharif is reviewing a proposed **Rs1.51 trillion** Public Sector Development Programme (PSDP) for FY 2026-27. *[Dawn](https://www.dawn.com/news/2001296/pm-shehbaz-reviews-rs1.5tr-psdp-directs-more-funds-for-well-performing-ministries)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/rs1-51-trillion-psdp-under-review-as-shehbaz-reshapes-development-priorities-ahead-of-budget/)*
-- Pakistan and the IMF have reached a broad agreement on the **FY27 macroeconomic framework**, targeting 4.1% growth and 8.6% inflation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistan-imf-broadly-agree-on-fy27-framework-with-4-1-growth-8-6-inflation-target/)*
-- The Asian Development Bank (ADB) is expected to approve **$1.2 billion** in financing for the rehabilitation of the ML-1 railway project. *[Business Recorder](https://www.brecorder.com/news/40421728/rehabilitation-of-ml-1-project-adb-likely-to-approve-usd12bn-financing)*
-- Finance Minister Aurangzeb lauded **AIIB's support** in the successful issuance of Pakistan’s Panda Bond. *[Business Recorder](https://www.brecorder.com/news/40421732/issuance-of-panda-bond-aurangzeb-lauds-aiibs-support)*
-- **S&P Global** warned that Pakistan is the most vulnerable Asia-Pacific economy to macro-financial stress if the Middle East conflict persists. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/sp-warns-pakistan-faces-highest-macro-financial-risk-from-prolonged-middle-east-conflict/)*
-- Global markets reacted to **President Trump's decision to pause an attack on Iran**: oil prices fell over 2%, while the US dollar and gold remained steady. *[Business Recorder](https://www.brecorder.com/news/40421808/oil-falls-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran)* / *[Business Recorder](https://www.brecorder.com/news/40421806/gold-steady-on-weaker-dollar-after-trump-pauses-planned-iran-attack)*
-- **India increased fuel prices** for the second time in a week to recoup losses from high global crude prices. *[Business Recorder](https://www.brecorder.com/news/40421811/india-hikes-fuel-prices-for-second-time-in-a-week)*
-- The **Indian rupee** is expected to face continued weakness, potentially hitting an all-time low due to high oil prices. *[Business Recorder](https://www.brecorder.com/news/40421813/indian-rupee-slide-to-persist-with-no-oil-relief-asia-fx-weakness-compounds-pain)*
-- **Uber** has increased its stake in Germany’s Delivery Hero, becoming its largest shareholder. *[ARY](https://arynews.tv/uber-doubles-stake-in-delivery-hero-shares)*
-- New **Iran transit trade routes** through Pakistani ports remain non-operational despite official notifications. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistans-new-iran-transit-trade-routes-remain-non-operational-despite-official-notification/)*
-- The government of **AJK has resumed the issuance of mining leases** after a nearly two-year suspension. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/ajk-lifts-suspension-on-mining-leases-after-nearly-two-years/)*
+- Pakistan and the Asian Infrastructure Investment Bank (AIIB) signed a $320 million loan agreement for the reconstruction of the N-5 highway. *[Dawn](https://www.dawn.com/news/2001545/aiib-to-provide-320m-loan-for-n-5-highway-reconstruction-project)*
+- The government has invited bids for the privatization of power distribution companies FESCO, GEPCO, and IESCO. *[Business Recorder](https://www.brecorder.com/news/40421870/govt-invites-bids-for-privatisation-of-fesco-gepco-iesco)*
+- US stocks retreated as investors expressed concerns over inflation and high oil prices. *[Business Recorder](https://www.brecorder.com/news/40421879/us-stocks-dip-as-markets-fret-over-inflation)*
+- Zee Entertainment reported a quarterly net loss of 1.02 billion rupees due to weak advertising demand. *[Business Recorder](https://www.brecorder.com/news/40421878/indian-broadcaster-zee-posts-quarterly-loss-on-weak-ad-demand-higher-costs)*
+- Pakistan's petroleum import bill reached $13.5 billion during the first 10 months of FY26. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistans-petroleum-import-bill-reaches-13-5-billion-in-10mfy26/)*
+- Pakistan’s exports to the Middle East fell by 8% in April 2026. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/pakistans-exports-to-middle-east-fall-8-imports-up-5-in-april-amid-regional-conflict/)*
+- The Pakistan Stock Exchange (PSX) rebounded as easing US-Iran tensions improved investor sentiment. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/psx-rebounds-as-easing-us-iran-tensions-lift-investor-sentiment/)*
+- SECP issued Pakistan’s first digital takaful licence and approved the first provincial government-owned life insurer. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/secp-issues-pakistans-first-digital-takaful-licence-approves-first-provincial-govt-owned-life-insurer/)*
+- The ILO warned that the Middle East war could eliminate 43 million jobs globally by 2027. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/middle-east-war-could-wipe-out-43-million-jobs-globally-by-2027-ilo-warns/)*
+- Gulf stock markets rose following President Trump's comments regarding a potential deal with Iran. *[Business Recorder](https://www.brecorder.com/news/40421872/gulf-bourses-rise-as-trumps-iran-comments-soothe-nerves)*
+- Sri Lankan shares fell for a fifth consecutive session due to losses in consumer discretionary stocks. *[Business Recorder](https://www.brecorder.com/news/40421865/sri-lankan-shares-fall-for-fifth-straight-session-as-consumer-discretionary-drags)*
+- Malaysian palm oil futures rose amid rumors of potential export controls in Indonesia. *[Business Recorder](https://www.brecorder.com/news/40421867/palm-rises-over-indonesia-export-control-rumours)*
+- Gold prices fell as markets reacted to news of paused military strikes against Iran. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/gold-falls-with-middle-east-war-in-focus-after-trump-pauses-strike/)*
+- At-Tahur Limited launched its new "Prema Natural Spring Water" brand. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/at-tahur-launches-prema-natural-spring-water-brand/)*
 
 ### Science & Technology
-- A US jury ruled against **Elon Musk** in his lawsuit against OpenAI, finding the company not liable. *[Dawn](https://www.dawn.com/news/2001311/jury-rules-against-musk-in-blockbuster-openai-trial)*
-- **China has offered** to establish an Artificial Intelligence (AI) hub in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40421736/china-offers-to-establish-ai-hub)*
-- US national labs are seeking newcomers to develop **supercomputers** to support the growing AI chip industry. *[ARY](https://arynews.tv/chip-technology-revolutionizing-supercomputing)*
-- Guidance was provided on **securing WhatsApp accounts** to prevent loss of access. *[ARY](https://arynews.tv/how-to-secure-your-whatsapp-account-before-you-lose-access)*
+- Epic Games announced that "Fortnite" has returned to global App Stores. *[Business Recorder](https://www.brecorder.com/news/40421876/epic-games-fortnite-returns-to-app-stores-worldwide)*
+- Microsoft's largest data center in India is expected to go live by mid-2026. *[Business Recorder](https://www.brecorder.com/news/40421874/microsofts-biggest-india-data-center-on-track-to-go-live-in-mid-2026-executive-says)*
+- Indian air safety officials will monitor Boeing's fuel-switch tests following an incident involving Air India. *[Business Recorder](https://www.brecorder.com/news/40421869/india-to-monitor-boeing-fuel-switch-test-tied-to-air-india-london-incident-documents-show)*
 
 ### Weather
-- A **magnitude 6 earthquake** struck the Vanuatu islands at a depth of 10 km. *[Business Recorder](https://www.brecorder.com/news/40421812/earthquake-of-magnitude-6-strikes-vanuatu-islands-gfz-says)*
-- High temperatures are forecast for major Pakistani cities, with **Lahore** expected to reach 44°C. *[Business Recorder](https://www.brecorder.com/news/40421725/the-weather)*
+- Rain-related incidents in Khyber Pakhtunkhwa resulted in two deaths and 11 injuries. *[Dawn](https://www.dawn.com/news/2001524/2-killed-11-injured-in-rain-related-incidents-in-kp-pdma)*
+- Severe flooding and landslides in southwest China killed four people and left five missing. *[Business Recorder](https://www.brecorder.com/news/40421858/four-dead-five-missing-in-southwest-china-floods)*
 
 ### Politics
-- JUI-F chief Maulana Fazlur Rehman urged **President Zardari** to protect the 18th Amendment. *[Dawn](https://www.dawn.com/news/2001391/fazl-urges-president-zardari-to-protect-18th-amendment)*
-- **Imran Khan** has approached the Supreme Court seeking directions for his transfer to Shifa International Hospital and access to medical staff. *[Dawn](https://www.dawn.com/news/2001399/imran-urges-sc-to-order-his-hospitalisation)*
-- **PTI lawmakers** staged a protest in the National Assembly demanding proper medical care for Imran Khan. *[Dawn](https://www.dawn.com/news/2001309/opposition-lawmakers-stage-protest-in-national-assembly-demand-medical-care-for-imran)*
-- PTI warned of a **"moral collapse"** if the state fails to protect the constitutional rights of political detainees. *[Dawn](https://www.dawn.com/news/2001393/pti-warns-of-moral-collapse-over-treatment-of-political-detainees)*
-- Defence Minister Khawaja Asif warned that **India** would face severe consequences if it attempts any "misadventure" against Pakistan. *[Dawn](https://www.dawn.com/news/2001298/india-will-be-relegated-to-history-if-it-attempts-misadventure-against-pakistan-khawaja-asif)*
-- The **KP Governor and Chief Minister** joined forces to demand the removal of restrictions on wheat transportation and CNG supply. *[Business Recorder](https://www.brecorder.com/news/40421727/kp-governor-cm-join-hands-for-provincial-rights)*
+- PTI and TTAP announced nationwide protests scheduled for Friday regarding Imran Khan's imprisonment and inflation. *[Dawn](https://www.dawn.com/news/2001523/ttap-pti-announces-countrywide-protests-on-friday-against-imrans-imprisonment-rising-inflation)*
+- KP Chief Minister Sohail Afridi was prevented by police from meeting Imran Khan at Adiala Jail. *[Dawn](https://www.dawn.com/news/2001530/kp-cm-afridi-imran-khans-sisters-stopped-from-meeting-former-premier-at-adiala-jail)*
+- The Islamabad High Court raised objections over the failure to submit certified copies of Supreme Court orders in a social media posts case. *[Dawn](https://www.dawn.com/news/2001479/social-media-posts-case-ihc-raises-objections-over-failure-to-submit-certified-copies-of-sc-order)*
+- The Ministry of Finance clarified that the budget-making process is not being run by Ishaq Dar. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/darnomics-not-to-be-run-by-dar-clarifies-finance-ministry/)*
 
 ### National
-- The Supreme Court has formulated new guidelines to ensure **uniformity in civil pleadings** at trial courts. *[Dawn](https://www.dawn.com/news/2001413/sc-lays-down-rules-for-uniformity-in-civil-pleadings)*
-- The **Sindh Assembly** passed the Domestic Workers Welfare Bill 2025 to provide legal safeguards for household workers. *[Dawn](https://www.dawn.com/news/2001354/sindh-assembly-passes-bill-for-legal-cover-to-household-workers)*
-- Punjab CM Maryam Nawaz announced a **$2 billion urban development plan** focused on climate resilience. *[Dawn](https://www.dawn.com/news/2001417/maryam-says-cities-resilience-relies-on-people-centred-uplift)*
-- The prime accused in the **Sana Yousaf murder case** has retracted his confession, alleging false implication. *[Dawn](https://www.dawn.com/news/2001269/accused-in-teenage-tiktok-star-sana-yousafs-murder-retracts-confession-alleges-false-implication)*
-- The federal government has **relaxed countrywide lockdown** restrictions for shops and restaurants until May 31. *[Business Recorder](https://www.brecorder.com/news/40421729/countrywide-lockdown-relaxed-until-31st)*
-- Over **164,000 Pakistanis** have been deported from Gulf states over the last five years, with Saudi Arabia accounting for the majority. *[Business Recorder](https://www.brecorder.com/news/40421731/na-informed-164788-pakistanis-deported-from-gulf-states-in-5-years)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/saudi-arabia-uae-lead-as-gulf-states-deport-more-than-164000-pakistanis-over-five-years/)*
-- The **Islamabad High Court** issued notices to the CDA regarding appeals by residents of the One Constitution Avenue project. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/ihc-moves-cda-for-reply-on-one-constitution-avenue-residents-appeals/)*
+- Security forces killed 22 terrorists during an operation in North Waziristan. *[Dawn](https://www.dawn.com/news/2001537/security-forces-kill-22-terrorists-in-north-waziristan-operation-ispr)*
+- Prime Minister Shehbaz Sharif highlighted Pakistan's role as a net regional stabilizer. *[Dawn](https://www.dawn.com/news/2001538/pakistan-a-net-regional-stabiliser-contributing-to-peace-in-the-region-and-beyond-pm-shehbaz)*
+- CDF Asim Munir stated that externally-sponsored terrorism and propaganda cannot derail Pakistan's progress. *[Dawn](https://www.dawn.com/news/2001476/externally-sponsored-terrorism-propaganda-cannot-derail-pakistans-progress-cdf-munir)*
+- An Islamabad court handed a death sentence to Umar Hayat for the murder of TikTok influencer Sana Yousaf. *[Dawn](https://www.dawn.com/news/2001506/islamabad-court-hands-death-sentence-to-convict-in-sana-yousaf-murder-case)*
+- Five suspects were booked for the alleged gang rape of a teenage girl in Ghotki, Sindh. *[Dawn](https://www.dawn.com/news/2001543/5-booked-for-allegedly-gang-raping-girl-in-sindhs-ghotki)*
+- The FIA suspended two officers and registered a case regarding a raid at a jewellery shop in Karachi. *[Dawn](https://www.dawn.com/news/2001539/fia-suspends-two-officers-registers-case-over-incident-in-karachis-sarafa-bazaar)*
+- Sindh IG vowed transparency in investigations involving drug queenpin Anmol alias Pinky. *[Dawn](https://www.dawn.com/news/2001505/sindh-ig-vows-transparency-in-cases-against-anmol-alias-pinky-stretching-across-multiple-domains)*
+- A committee has been formed to address the CNG crisis in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2001491/kp-governor-says-pm-has-formed-committee-to-address-cng-crisis-in-province)*
 
 ### International
-- Five people were killed, including two teen suspects, following a **shooting at a mosque in San Diego**, California. *[Dawn](https://www.dawn.com/news/2001397/5-dead-including-2-teen-suspects-after-shooting-at-san-diegos-largest-mosque)*
-- Pakistan has **condemned drone attacks on Saudi Arabia** and expressed solidarity with the kingdom. *[Dawn](https://www.dawn.com/news/2001312/pakistan-condemns-drone-strike-on-saudi-arabia-expresses-solidarity-with-riyadh)*
-- Iran has announced the formation of a **new authority to manage the Strait of Hormuz**. *[Dawn](https://www.dawn.com/news/2001272/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council)*
-- Israeli forces **detained Saad Edhi** and several others during a Gaza aid mission involving the Global Sumud Flotilla. *[Dawn](https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla)* / *[Business Recorder](https://www.brecorder.com/news/40421733/israel-arrests-saad-edhi-others-during-gaza-aid-mission)*
-- **BRICS foreign ministers** declared support for an independent Palestinian state during their meeting in New Delhi. *[Dawn](https://www.dawn.com/news/2001427/palestine-on-brics-agenda)*
-- **President Trump** announced a pause in planned military attacks on Iran to allow for peace negotiations. *[Business Recorder](https://www.brecorder.com/news/40421809/dollar-steadies-from-weakness-as-trump-calls-off-planned-attack-on-iran)*
-- The **Permanent Court of Arbitration** issued a ruling affirming Pakistan's rights under the Indus Waters Treaty regarding Indian hydropower projects. *[Dawn](https://www.dawn.com/news/2001421/water-win)*
+- Ten countries, including Pakistan, condemned Israel's interception of the Gaza aid flotilla. *[Dawn](https://www.dawn.com/news/2001459/10-countries-including-pakistan-condemn-israels-interception-of-gaza-aid-flotilla)*
+- Pakistan extended the ban on Indian aircraft using its airspace until June 24. *[Dawn](https://www.dawn.com/news/2001527/paa-extends-airspace-ban-on-indian-aircraft-until-june-24)*
+- Thailand is cutting visa-free stay durations to curb crimes committed by foreign nationals. *[Dawn](https://www.dawn.com/news/2001503/thailand-cuts-visa-free-stays-citing-crime-by-foreigners)*
+- Five people were killed, including two teenage suspects, after a shooting at a mosque in San Diego, USA. *[Dawn](https://www.dawn.com/news/2001397/5-dead-including-2-teen-suspects-after-shooting-at-san-diegos-largest-mosque)*
+- Iranian authorities held mass weddings for couples declaring readiness for war against the US and Israel. *[Dawn](https://www.dawn.com/news/2001533/in-pictures-iran-stages-mass-weddings-for-couples-ready-for-war-sacrifice)*
+- The WHO expressed concern over the escalating Ebola outbreak in the Democratic Republic of Congo. *[Dawn](https://www.dawn.com/news/2001489/ebola-declared-continental-emergency-who-chief-concerned-at-scale-and-speed-of-dr-congo-outbreak)*
+- India and Italy are set to upgrade their relationship to a special strategic partnership. *[Business Recorder](https://www.brecorder.com/news/40421883/italy-and-india-set-to-upgrade-ties-during-modis-visit-to-rome)*
+- US President Donald Trump indicated the US may need to strike Iran again if no deal is reached. *[Business Recorder](https://www.brecorder.com/news/40421882/trump-says-us-may-need-to-hit-iran-again)*
+- Qatar stated that Pakistan-mediated US-Iran negotiations require more time. *[Business Recorder](https://www.brecorder.com/news/40421859/qatar-says-pakistan-mediated-us-iran-negotiations-need-more-time)*
 
 ### Sports
-- **Bangladesh set Pakistan a target of 427** to win the second Test following a century by Mushfiqur Rahim. *[Dawn](https://www.dawn.com/news/2001279/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh)*
-- **Sikandar Raza** has been honored with two major sports awards in Zimbabwe. *[ARY](https://arynews.tv/sikandar-raza-wins-two-major-sports-awards-in-zimbabwe)*
-- **PGMOL issued an apology** to Nottingham Forest regarding a goal involving Matheus Cunha. *[ARY](https://arynews.tv/pgmol-apologizes-to-nottingham-forest-over-matheus-cunhas-goal)*
+- Spinner Taijul Islam has put Bangladesh on the verge of a Test series win over Pakistan. *[Dawn](https://www.dawn.com/news/2001532/taijul-puts-bangladesh-on-brink-of-test-series-win-over-pakistan)*
+- Brock Lesnar made a surprise return to WWE. *[ARY](https://arynews.tv/brock-lesnar-surprises-fans-with-sudden-wwe-return)*
+- Carlos Alcaraz will miss Wimbledon while recovering from a wrist injury. *[Business Recorder](https://www.brecorder.com/news/40421884/alcaraz-to-miss-wimbledon-as-he-continues-to-recover-from-wrist-injury)*
+- Cristiano Ronaldo has been named in Portugal's squad for the 2026 World Cup. *[Business Recorder](https://www.brecorder.com/news/40421875/ronaldo-41-leads-portugal-into-his-sixth-world-cup)*
+- India has rested Jasprit Bumrah and Ravindra Jadeja for the upcoming Test against Afghanistan. *[Business Recorder](https://www.brecorder.com/news/40421866/india-rest-bumrah-and-jadeja-for-one-off-afghanistan-test)*
+
+### Health
+- The WHO has declared the Ebola outbreak in DR Congo a "continental emergency." *[Dawn](https://www.dawn.com/news/2001489/ebola-declared-continental-emergency-who-chief-concerned-at-scale-and-speed-of-dr-congo-outbreak)*
+- Punjab authorities have issued an alert against the purchase of certain medicines. *[ARY](https://arynews.tv/do-not-buy-these-medicines-punjab-issues-alert-2)*
 
 ### Other
-- *Stranger Things* star **Noah Schnapp** celebrated his graduation with his family. *[ARY](https://arynews.tv/stranger-things-star-noah-schnapp-celebrates-graduation-with-family)*
-- Pop singer **Olivia Rodrigo** teased fans with a surprise update regarding new music. *[ARY](https://arynews.tv/olivia-rodrigo-drops-surprise-update-teasing-new-music)*
-- The German Consulate hosted a special screening of the **documentary *INTERTANGO*** in Karachi. *[Business Recorder](https://www.brecorder.com/news/40421735/german-cg-acp-host-screening-of-intertango-a-connection-for-life)*
+- A guide was released on how to pay PPSC fees through the e-Khidmat service. *[ARY](https://arynews.tv/how-to-pay-ppsc-fee-through-e-khidmat-service)*
+- Various entertainment updates include news on Ashley Judd, Zayn Malik, Jacob Elordi, and Hayden Panettiere. *[ARY](https://arynews.tv/)*
 
