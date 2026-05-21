@@ -7,50 +7,61 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-May-2026 09:10PKT 
+ &lrm; 21-May-2026 09:11PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- وفاقی حکومت نے صوبوں سے آئی ایم ایف کے اہداف کو پورا کرنے کے لیے 400 ارب روپے اضافی محصولات جمع کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2001400/provinces-asked-to-raise-rs400bn-more-to-meet-imf-goals)*
-- پاکستان میں بانڈز اور این پی سیز (NPCs) کی ٹوکنائزیشن کے لیے بلاک چین ٹیکنالوجی کے استعمال پر غور کیا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2001385/govt-eyes-tokenisation-of-bonds-via-blockchain)*
-- وزیراعظم شہباز شریف نے 1.51 ٹریلین روپے کے مجوزہ پی ایس ڈی پی (PSDP) پروگرام کا جائزہ لیا۔ *[Dawn](https://www.dawn.com/news/2001296/pm-shehbaz-reviews-rs15tr-psdp-directs-more-funds-for-well-performing-ministries)*
-- ایشیائی انفراسٹرکچر انویسٹمنٹ بینک (AIIB) نے پاکستان کے انفراسٹرکچر اور ترقیاتی منصوبوں کے لیے تعاون کا یقین دہانی کرائی ہے۔ *[ARY](https://arynews.tv/pakistan-reaffirms-desire-for-long-term-partnership-with-aiib)*
-- امریکی صدر ڈونلڈ ٹرمپ کی جانب سے ایران کے خلاف حملے کے فیصلے کو ملتوی کرنے کے بعد عالمی مارکیٹوں میں تیل کی قیمتوں میں کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421808/oil-falls-over-2-as-trump-says-he-holds-off-scheduled-attack-on-iran)*
-- بھارت نے عالمی خام تیل کی قیمتوں میں اضافے کے پیش نظر پیٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40421811/india-hikes-fuel-prices-for-second-time-in-a-week)*
-- ایس اینڈ پی (S&P) کے مطابق مشرق وسطیٰ میں طویل تنازع کی صورت میں پاکستان کو بڑے مالیاتی خطرات کا سامنا ہو سکتا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/19/sp-warns-pakistan-faces-highest-macro-financial-risk-from-prolonged-middle-east-conflict/)*
-- آزاد جموں و کشمیر میں دو سال کے وقفے کے بعد کان کنی کے لیز جاری کرنے کا عمل دوبارہ شروع کر دیا گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/18/ajk-lifts-suspension-on-mining-leases-after-nearly-two-years/)*
+- آئی ایم ایف کا مشن اصلاحات اور بجٹ کے حوالے سے حکام کے ساتھ مذاکرات مکمل کر کے واپس آگیا ہے۔ *[Dawn](https://www.dawn.com/news/2001939/imf-wraps-up-pakistan-visit-following-talks-with-authorities-on-reforms-budget)*
+- حکومت نے تقریباً 20 سال بعد آف شور تیل کی تلاش کے لیے بلاکس جاری کر دیے ہیں، جس سے 82 ملین ڈالر کی ابتدائی سرمایہ کاری متوقع ہے۔ *[Dawn](https://www.dawn.com/news/2001949/govt-reopens-offshore-oil-frontier)*
+- این اے ایف سی (NFC) فارمولے میں اصلاحات کی ضرورت ہے تاکہ آبادی کے بجائے انسانی ترقی کے پیمانے پر وسائل کی تقسیم کی جا سکے۔ *[Dawn](https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning)*
+- سی پیک (CPEC) کے دوسرے مرحلے میں سبز ترقی، روزگار اور علاقائی رابطوں پر توجہ دی جائے گی۔ *[Dawn](https://www.dawn.com/news/2001957/climate-proofing-cpec-20)*
+- ایشیائی ترقیاتی بینک کی مدد سے پاکستان کو 1 ارب ڈالر کی تجارتی مالی امداد حاصل کرنے میں کامیابی ملی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422134/pakistan-to-mobilise-usd1bn-in-private-commercial-financing-adb)*
+- ایف بی آر نے جیریز ڈناٹا (Gerry’s Dnata) پر الیکٹرانکس اسمگلنگ کے الزام میں 2.7 ارب روپے کا جرمانہ عائد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40422116/customs-violation-fbr-slaps-rs27bn-penalties-on-gerrys-dnata)*
+- حکومت بجٹ میں ایم ایم ایس (MMS) کی درآمدات پر ڈیوٹی اور ٹیکسوں میں کمی کرنے پر کام کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422117/mms-import-govt-working-on-duty-tax-cuts-in-budget)*
+- نیپرا (NEPRA) نے بجلی کی قیمتوں میں ممکنہ اضافے کے خدشات کے درمیان 53 ارب ڈالر کے سسٹم پلان کی منظوری طلب کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422128/no-third-party-validation-nepras-nod-sought-for-usd53bn-isp-2025-35)*
+- پیٹرولیم ڈویژن نے اگلے سال کے بجٹ میں پیٹرول اور ڈیزل پر لیوی کو کم کرنے کی تجویز دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/petroleum-division-proposes-cutting-levy-target-to-rs1-trillion-reducing-fuel-levy-to-rs50-litre/)*
+- حکومت نے ٹریژری بلز کی نیلامی سے 688 ارب روپے کا سرمایہ اکٹھا کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/govt-raises-%e2%82%a8688-billion-in-t-bill-auction-as-yields-climb-across-all-tenors/)*
+- سونے اور چاندی کی قیمتوں میں عالمی رجحانات کے باعث اتار چڑھاؤ جاری ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/gold-price-in-pakistan-for-today-may-21-2026/)*
+- متحدہ عرب امارات میں ہرمز کے مقام کو بائی پاس کرنے والا نیا تیل کا پائپ لائن منصوبہ 50 فیصد مکمل ہو چکا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422127/new-uae-pipeline-bypassing-hormuz-now-50pc-complete)*
 
 ### سائنس اور ٹیکنالوجی
-- امریکی عدالت نے ایلون مسک کی جانب سے اوپن اے آئی (OpenAI) کے خلاف دائر کردہ مقدمے میں کمپنی کو بے گناہ قرار دے دیا۔ *[Dawn](https://www.dawn.com/news/2001311/jury-rules-against-musk-in-blockbuster-openai-trial)*
-- چین نے پاکستان میں مصنوعی ذہانت (AI) کا مرکز قائم کرنے کی پیشکش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421736/china-offers-to-establish-ai-hub)*
-- واٹس ایپ اکاؤنٹس کو محفوظ بنانے کے حوالے سے اہم ہدایات جاری کی گئی ہیں۔ *[ARY](https://arynews.tv/how-to-secure-your-whatsapp-account-before-you-lose-access)*
+- میٹا کے سی ای او نے ملازمین کو یقین دلایا ہے کہ وہ اس سال مزید کمپنی کی سطح پر چھانٹیاں نہیں کریں گے۔ *[ARY](https://arynews.tv/meta-confirms-no-further-layoffs-this-year)*
+- مصنوعی ذہانت (AI) کے بڑھتے ہوئے اثرات اور نوجوانوں کی ملازمتوں کے حوالے سے تشویش بڑھ رہی ہے۔ *[ARY](https://arynews.tv/artificial-intelligence-and-its-impact-on-jobs)*
 
-### موسم
-- وانواٹو کے جزائر میں 6 شدت کا زلزلہ ریکارڈ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421812/earthquake-of-magnitude-6-strikes-vanuatu-islands-gfz-says)*
-- کراچی، لاہور اور دیگر شہروں میں شدید گرمی کی لہر برقرار رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421725/the-weather)*
+### Weather
+- اسٹیٹ بینک کے مطابق موسمیاتی آفات سے 2050 تک پاکستان کی جی ڈی پی میں 9 فیصد تک کمی آ سکتی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/climate-disasters-could-cut-pakistans-gdp-by-up-to-9-by-2050-sbp-warns/)*
 
-### سیاست
-- مولانا فضل الرحمان نے صدر زرداری سے مطالبہ کیا کہ وہ 18 ویں ترمیم کے تحفظ کو یقینی بنائیں۔ *[Dawn](https://www.dawn.com/news/2001391/fazl-urges-president-zardari-to-protect-18th-amendment)*
-- سابق وزیراعظم عمران خان نے سپریم کورٹ سے اپنی ہسپتال میں منتقلی اور طبی سہولیات کی درخواست کی۔ *[Dawn](https://www.dawn.com/news/2001399/imran-urges-sc-to-order-his-hospitalisation)*
-- خیبرپختونخوا کے گورنر اور وزیر اعلیٰ نے صوبائی حقوق کے تحفظ کے لیے مشترکہ پریس کانفرنس کی۔ *[Business Recorder](https://www.brecorder.com/news/40421727/kp-governor-cm-join-hands-for-provincial-rights)*
+### Politics
+- چیف جسٹس نے پی ٹی آئی کو یقین دلایا ہے کہ عمران خان سے متعلق کیسز عید کے بعد مقرر کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2001920/imrans-cases-will-be-fixed-after-eid-cjp-assures-pti)*
+- اسلام آباد ہائی کورٹ نے عمران خان کے وکیلوں کو کیس میں بحث شروع کرنے کی ہدایت کی ہے اور تاخیر پر تنبیہ کی ہے۔ *[Dawn](https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc)*
+- پی ٹی آئی نے عمران خان کی رہائی کی شرط پر حکومت کے ساتھ مذاکرات کرنے کی آمادگی ظاہر کی ہے۔ *[Dawn](https://www.dawn.com/news/2001787/pti-willing-to-hold-dialogue-with-govt-conditional-on-imrans-release)*
+- ایم کیو ایم پی (MQM-P) نے بجٹ کے حوالے سے اپنی تجاویز وزیراعظم کے سامنے پیش کی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422131/push-to-sway-fiscal-priorities-mqm-p-tables-its-proposals-before-pm)*
+- راجہ پرویز اشرف نے منشیات کے کیس میں اپنے نام کے حوالے سے لگائے گئے الزامات کی سختی سے تردید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422118/ex-pm-raja-ashraf-rejects-alleged-links-to-pinky-drug-case)*
+- بلوچستان حکومت نے امن و امان کی صورتحال کے باعث خuzدار میں ضمنی انتخابات کا انعقاد ناممکن قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2001829/by-elections-in-khuzdar-not-possible-due-to-law-and-order-situation-balochistan-govt-tells-ecp)*
 
-### ملکی
-- سندھ اسمبلی نے گھریلو ملازمین کے حقوق کے تحفظ کے لیے "ڈومیسٹک ورکرز ویلفیئر بل 2025" منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2001354/sindh-assembly-passes-bill-for-legal-cover-to-household-workers)*
-- حکومت نے بجلی کی بچت کے لیے نافذ کردہ لاک ڈاؤن کی پابندیوں میں 31 مئی تک نرمی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40421729/countrywide-lockdown-relaxed-until-31st)*
-- گزشتہ پانچ سالوں میں 164,788 پاکستانیوں کو خلیجی ممالک سے ڈی پورٹ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40421731/na-informed-164788-pakistanis-deported-from-gulf-states-in-5-years)*
-- ٹک ٹاک اسٹار ثناء یوسف کے قتل کے ملزم نے عدالت میں اپنا اعتراف جرم واپس لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2001269/accused-in-teenage-tiktok-star-sana-yousafs-murder-retracts-confession-alleges-false-implication)*
+### National
+- صدر اور وزیراعظم نے پاک چین تعلقات کی 75 ویں سالگرہ پر چین کے مثبت کردار کو سراہا۔ *[Dawn](https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace)*
+- آغا خان نے صدر زرداری سے ملاقات میں پاکستان میں انسانی ہمدردی اور ترقیاتی کاموں میں تعاون کا عزم دہرایا۔ *[Dawn](https://www.dawn.com/news/2001810/aga-khan-affirms-commitment-to-supporting-development-during-meeting-with-president-zardari)*
+- ایف آئی اے نے اسلام آباد میں گردوں کے غیر قانونی کاروبار کے نیٹ ورک کا भंडाफोڑ کرتے ہوئے ایک معروف ماہرِ امراضِ گردہ سمیت 9 افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2001820/fia-busts-illegal-kidney-trade-network-in-islamabad-arrests-9-including-urologist)*
+- عید الاضحیٰ کے موقع پر 26، 27 اور 28 مئی کی سرکاری تعطیلات کا اعلان کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422124/eid-holidays-announced)*
+- پاکستان کو تقریباً 70 سال بعد ورلڈ کسٹمز آرگنائزیشن کی پالیسی کمیشن میں نامزد کیا گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/pakistan-nominated-to-world-customs-organisation-policy-commission-after-nearly-70-years/)*
+- اسلام آباد میں احتجاج کے دوران فائرنگ کے واقعات کے حوالے سے سیاسی کشیدگی برقرار ہے۔ *[Dawn](https://www.dawn.com/news/2001835/afridi-aleema-claim-shots-were-fired-at-adiala-sit-in-participants)*
 
-### بین الاقوامی
-- امریکی ریاست کیلیفورنیا کے سان ڈیاگو میں مسجد پر فائرنگ کے واقعے میں 5 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2001397/5-dead-including-2-teen-suspects-after-shooting-at-san-diegos-largest-mosque)*
-- اسرائیل نے غزہ کے لیے امداد لے جانے والے بحری بیڑے کے ارکان، بشمول سعد ایدھی، کو حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2001229/israeli-forces-reportedly-detain-saad-edhi-others-after-intercepting-gaza-aid-flotilla)*
-- ایران نے بحیرہ عمان کے انتظام کے لیے ایک نیا ادارہ قائم کرنے کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2001272/iran-officially-announces-new-body-to-manage-strait-of-hormuz-top-security-council)*
-- برکس (BRICS) ممالک نے فلسطین کے لیے آزاد ریاست کی حمایت کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2001427/palestine-on-brics-agenda)*
+### International
+- پاکستان امریکہ اور ایران کے درمیان کشیدگی کم کرنے کے لیے ثالثی کے ذریعے کوششیں کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2001932/pakistan-races-to-prevent-us-iran-escalation)*
+- امریکہ نے سابق کیوبن صدر راؤل کاسٹرو کے خلاف قتل کے الزامات میں فرد جرم عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2001917/us-indicts-raul-castro-as-fears-of-cuba-invasion-mount)*
+- اسرائیلی وزیر نے غزہ کے لیے امداد لے جانے والے کارکنوں کی گرفتاری کی ویڈیو جاری کرنے پر عالمی سطح پر مذمت کا سامنا کیا ہے۔ *[Dawn](https://www.dawn.com/news/2001815/monstrous-disgraceful-and-inhumane-israeli-minister-sparks-outcry-over-video-of-bound-flotilla-activists)*
+- اقوام متحدہ کی تنظیم FAO نے خبردار کیا ہے کہ ہرمز کے مقام پر بحری راستہ بند ہونے سے عالمی غذائی بحران پیدا ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422132/strait-of-hormuz-blockade-fao-warns-of-global-food-crisis)*
 
-### کھیل
-- بنگلہ دیش نے پاکستان کے خلاف دوسرے ٹیسٹ میں جیت کے لیے 427 رنز کا ہدف مقرر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2001279/mushfiqur-ton-leaves-pakistan-needing-record-run-chase-to-beat-bangladesh)*
-- کھلاڑی سکندر رضا نے زمبابوے میں دو اہم کھیلوں کے ایوارڈز جیت لیے ہیں۔ *[ARY](https://arynews.tv/sikandar-raza-wins-two-major-sports-awards-in-zimbabwe)*
+### Sports
+- کینیڈا ورلڈ کپ کی میزبانی کے لیے 1 ارب کینیڈین ڈالر خرچ کرنے کی تیاری کر رہا ہے۔ *[ARY](https://arynews.tv/canada-will-spend-c1-billion-to-host-world-cup-watchdog-says)*
+- پاکستان نے اقوام متحدہ کو "میڈ ان پاکستان" فٹ بال تحفے میں پیش کیا۔ *[ARY](https://arynews.tv/pakistan-gifts-made-in-pakistan-football-to-un)*
 
-### دیگر
-- جرمن قونصل جریدہ نے کراچی میں ایک بین الاقوامی دستاویزی فلم کی خصوصی اسکریننگ کا اہتمام کیا۔ *[Business Recorder](https://www.brecorder.com/news/40421735/german-cg-acp-host-screening-of-intertango-a-connection-for-life)*
+### Health
+- حج کے دوران منٰی میں قیام کے لیے ضروری سامان کی اہم معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/mina-packing-guide-10-essentials-for-pakistani-hajj-pilgrims)*
+
+### Other
+- ایک برطانوی ریڈیو اسٹیشن نے شاہ چارلس کی وفات کی غلط خبر چلا کر معذرت کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2001969/radio-station-mistakenly-announces-death-of-king-charles)*
+- بھارتی اداکارہ ریا چکرتی نے سوشل میڈیا سے وقفے کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/rhea-chakraborty-announces-break-from-social-media)*
 
