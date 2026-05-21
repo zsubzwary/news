@@ -7,61 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-May-2026 09:11PKT 
+ &lrm; 21-May-2026 21:09PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- آئی ایم ایف کا مشن اصلاحات اور بجٹ کے حوالے سے حکام کے ساتھ مذاکرات مکمل کر کے واپس آگیا ہے۔ *[Dawn](https://www.dawn.com/news/2001939/imf-wraps-up-pakistan-visit-following-talks-with-authorities-on-reforms-budget)*
-- حکومت نے تقریباً 20 سال بعد آف شور تیل کی تلاش کے لیے بلاکس جاری کر دیے ہیں، جس سے 82 ملین ڈالر کی ابتدائی سرمایہ کاری متوقع ہے۔ *[Dawn](https://www.dawn.com/news/2001949/govt-reopens-offshore-oil-frontier)*
-- این اے ایف سی (NFC) فارمولے میں اصلاحات کی ضرورت ہے تاکہ آبادی کے بجائے انسانی ترقی کے پیمانے پر وسائل کی تقسیم کی جا سکے۔ *[Dawn](https://www.dawn.com/news/2001922/nfc-reform-urged-to-keep-population-from-burgeoning)*
-- سی پیک (CPEC) کے دوسرے مرحلے میں سبز ترقی، روزگار اور علاقائی رابطوں پر توجہ دی جائے گی۔ *[Dawn](https://www.dawn.com/news/2001957/climate-proofing-cpec-20)*
-- ایشیائی ترقیاتی بینک کی مدد سے پاکستان کو 1 ارب ڈالر کی تجارتی مالی امداد حاصل کرنے میں کامیابی ملی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422134/pakistan-to-mobilise-usd1bn-in-private-commercial-financing-adb)*
-- ایف بی آر نے جیریز ڈناٹا (Gerry’s Dnata) پر الیکٹرانکس اسمگلنگ کے الزام میں 2.7 ارب روپے کا جرمانہ عائد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40422116/customs-violation-fbr-slaps-rs27bn-penalties-on-gerrys-dnata)*
-- حکومت بجٹ میں ایم ایم ایس (MMS) کی درآمدات پر ڈیوٹی اور ٹیکسوں میں کمی کرنے پر کام کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422117/mms-import-govt-working-on-duty-tax-cuts-in-budget)*
-- نیپرا (NEPRA) نے بجلی کی قیمتوں میں ممکنہ اضافے کے خدشات کے درمیان 53 ارب ڈالر کے سسٹم پلان کی منظوری طلب کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422128/no-third-party-validation-nepras-nod-sought-for-usd53bn-isp-2025-35)*
-- پیٹرولیم ڈویژن نے اگلے سال کے بجٹ میں پیٹرول اور ڈیزل پر لیوی کو کم کرنے کی تجویز دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/petroleum-division-proposes-cutting-levy-target-to-rs1-trillion-reducing-fuel-levy-to-rs50-litre/)*
-- حکومت نے ٹریژری بلز کی نیلامی سے 688 ارب روپے کا سرمایہ اکٹھا کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/govt-raises-%e2%82%a8688-billion-in-t-bill-auction-as-yields-climb-across-all-tenors/)*
-- سونے اور چاندی کی قیمتوں میں عالمی رجحانات کے باعث اتار چڑھاؤ جاری ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/gold-price-in-pakistan-for-today-may-21-2026/)*
-- متحدہ عرب امارات میں ہرمز کے مقام کو بائی پاس کرنے والا نیا تیل کا پائپ لائن منصوبہ 50 فیصد مکمل ہو چکا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422127/new-uae-pipeline-bypassing-hormuz-now-50pc-complete)*
+- آئی ایم ایف (IMF) کا مشن پاکستان کے دورہ اور اصلاحات و بجٹ کے حوالے سے مذاکرات مکمل کر کے روانہ ہو گیا۔ *[Dawn](https://www.dawn.com/news/2001939/imf-wraps-up-pakistan-visit-following-talks-with-authorities-on-reforms-budget)*
+- پاکستان اسٹاک ایکسچینج (PSX) میں خریداروں کی بھرپور آمد کے باعث انڈیکس میں 3,300 سے زائد پوائنٹس کا بڑا اضافہ دیکھنے میں آیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/psx-surges-over-3300-points-as-buying-momentum-accelerates/)*
+- پاکستان کا غذائی اشیاء کے درآمدی بل میں 13.81 فیصد اضافہ ہو کر 7.85 ارب ڈالر تک پہنچ گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/pakistans-food-import-bill-rises-to-7-85-billion/)*
+- چینی کمپنی GAC نے پاکستان کی الیکٹرک وہیکل (EV) مارکیٹ میں باضابطہ طور پر قدم رکھ دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/chinas-gac-enters-pakistan-ev-market-with-vehicles-starting-from-rs-6-39-million/)*
+- ستارہ پیٹرولیم سروس لمیٹڈ اپنی آئی پی او (IPO) کے بعد پاکستان اسٹاک ایکسچینج میں لسٹ ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40422220/10th-ipo-of-the-year-sitara-petroleum-service-limited-listed-on-psx)*
+- سونے کی قیمتوں میں استحکام دیکھا گیا کیونکہ عالمی سطح پر امریکہ اور ایران کے درمیان ممکنہ امن معاہدے کی امیدیں بڑھی ہیں۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/gold-steadies-as-hopes-of-us-iran-deal-offset-inflation-rate-concerns/)*
+- گلف اسٹاک مارکیٹس میں تیل کی قیمتوں میں اضافے اور ایران کے ساتھ معاہدے کی امیدوں کے باعث تیزی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40422219/gulf-shares-rise-on-iran-deal-hopes-firmer-oil-prices)*
 
-### سائنس اور ٹیکنالوجی
-- میٹا کے سی ای او نے ملازمین کو یقین دلایا ہے کہ وہ اس سال مزید کمپنی کی سطح پر چھانٹیاں نہیں کریں گے۔ *[ARY](https://arynews.tv/meta-confirms-no-further-layoffs-this-year)*
-- مصنوعی ذہانت (AI) کے بڑھتے ہوئے اثرات اور نوجوانوں کی ملازمتوں کے حوالے سے تشویش بڑھ رہی ہے۔ *[ARY](https://arynews.tv/artificial-intelligence-and-its-impact-on-jobs)*
+### سیاست
+- وزیراعظم شہباز شریف نے پاک چین تعلقات کو "بے مثال" قرار دیتے ہوئے 75 ویں سالگرہ کے موقع پر چینی قیادت کو مبارکباد دی۔ *[Dawn](https://www.dawn.com/news/2002044/pm-shehbaz-lauds-steadfast-pak-china-friendship-says-beijing-supported-islamabad-in-unwavering-fashion)*
+- پی ٹی آئی (PTI) قیادت نے عمران خان سے ملاقات نہ ہونے پر احتجاجی تحریک شروع کرنے کا خدشہ ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002047/seems-pti-will-now-have-to-resort-to-agitation-says-mna-after-party-leaders-yet-again-denied-meeting-with-imran)*
+- ایجوکیشن منسٹر ڈاکٹر خالد مقبूल کو اقتصادی رابطہ کمیٹی (ECC) کا رکن بنا دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2001989/mqm-p-leader-khalid-maqbool-made-member-of-economic-coordination-committee)*
+- شہباز شریف نے ایک ملاقات میں پرنس رحیم آل حسینی آغا خان سے انسانی ترقی کے شعبوں میں تعاون جاری رکھنے کی خواہش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2002017/at-breakfast-meeting-hosted-by-pm-aga-khan-expresses-desire-to-continue-cooperation-with-pakistan)*
 
-### Weather
-- اسٹیٹ بینک کے مطابق موسمیاتی آفات سے 2050 تک پاکستان کی جی ڈی پی میں 9 فیصد تک کمی آ سکتی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/climate-disasters-could-cut-pakistans-gdp-by-up-to-9-by-2050-sbp-warns/)*
+### قومی
+- چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر نے دہشت گردی کے خلاف جنگ مکمل قومی عزم کے ساتھ جاری رکھنے کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2002028/fight-against-terrorism-will-continue-with-full-national-resolve-asserts-cdf-munir)*
+- خیبر پختونخوا کے ضلع باجوڑ میں ڈرون حملے کے نتیجے میں دو اسکولی بچوں کی جان چلی گئی۔ *[Dawn](https://www.dawn.com/news/2002038/quadcopter-attack-kills-two-schoolchildren-in-kps-bajaur)*
+- سیکیورٹی فورسز نے شمالی وزیرستان میں ایک اہم آپریشن کے دوران ایک مطلوب دہشت گرد سمیت پانچ شدت پسندوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2002052/security-forces-kill-five-terrorists-including-wanted-commander-in-north-waziristan-ibo-security-sources)*
+- پی آئی اے (PIA) نے 53,000 سے زائد حاجیوں کو سعودی عرب منتقل کر کے اپنا حج آپریشن کامیابی سے مکمل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2002055/pia-wraps-up-haj-operations-transports-over-53000-pilgrims-spokesperson)*
+- پنجاب حکومت نے ایئرپورٹس اور پی اے ایف بیسز کے گرد 30 دن کے لیے سیکشن 144 نافذ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2001994/punjab-govt-imposes-section-144-around-airports-paf-bases-for-30-days)*
+- کیپیٹل ڈویلپمنٹ اتھارٹی (CDA) نے کنٹریکٹ ملازمین کی مستقل کاری کے حوالے سے سپریم کورٹ کے فیصلے پر عمل درآمد میں تاخیر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422201/cda-delays-supreme-court-ruling-on-contractual-employees-regularisation)*
+- ضلع حب، بلوچستان میں انتظامیہ نے ایرانی پیٹرول کی قیمت 250 روپے فی لیٹر مقرر کر دی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/hub-administration-fixes-iranian-petrol-price-at-rs-250-per-litre/)*
 
-### Politics
-- چیف جسٹس نے پی ٹی آئی کو یقین دلایا ہے کہ عمران خان سے متعلق کیسز عید کے بعد مقرر کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2001920/imrans-cases-will-be-fixed-after-eid-cjp-assures-pti)*
-- اسلام آباد ہائی کورٹ نے عمران خان کے وکیلوں کو کیس میں بحث شروع کرنے کی ہدایت کی ہے اور تاخیر پر تنبیہ کی ہے۔ *[Dawn](https://www.dawn.com/news/2001941/delays-by-imrans-counsel-in-ps190m-graft-case-irk-ihc)*
-- پی ٹی آئی نے عمران خان کی رہائی کی شرط پر حکومت کے ساتھ مذاکرات کرنے کی آمادگی ظاہر کی ہے۔ *[Dawn](https://www.dawn.com/news/2001787/pti-willing-to-hold-dialogue-with-govt-conditional-on-imrans-release)*
-- ایم کیو ایم پی (MQM-P) نے بجٹ کے حوالے سے اپنی تجاویز وزیراعظم کے سامنے پیش کی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422131/push-to-sway-fiscal-priorities-mqm-p-tables-its-proposals-before-pm)*
-- راجہ پرویز اشرف نے منشیات کے کیس میں اپنے نام کے حوالے سے لگائے گئے الزامات کی سختی سے تردید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422118/ex-pm-raja-ashraf-rejects-alleged-links-to-pinky-drug-case)*
-- بلوچستان حکومت نے امن و امان کی صورتحال کے باعث خuzدار میں ضمنی انتخابات کا انعقاد ناممکن قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2001829/by-elections-in-khuzdar-not-possible-due-to-law-and-order-situation-balochistan-govt-tells-ecp)*
+### بین الاقوامی
+- اسرائیل نے غزہ جانے والے بحری بیڑے سے گرفتار تمام غیر ملکی کارکنوں کو ملک بدر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists)*
+- اقوام متحدہ نے افغان طالبان کے ازدواجی علیحدگی کے نئے قانون پر تنقید کرتے ہوئے اسے خواتین کے حقوق کے خلاف قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002035/talibans-new-marriage-separation-decree-draws-un-criticism)*
+- پاکستان امریکہ اور ایران کے درمیان کشیدگی کم کرنے اور امن مذاکرات کو آگے بڑھانے کے لیے سفارتی کوششیں کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2001932/pakistan-races-to-prevent-us-iran-escalation)*
+- اقوام متحدہ میں پاکستان نے بھارت کے دعووں کا جواب دیتے ہوئے کہا کہ بھارت دہشت گردی اور بین الاقوامی قوانین کی خلاف ورزی میں ملوث ہے۔ *[Dawn](https://www.dawn.com/news/2001985/pakistan-responds-to-india-at-unsc-debate-says-it-stands-exposed-by-terrorism-and-disregard-for-international-law)*
+- امریکی انتظامیہ نے فلسطینی سفیر پر اقوام متحدہ کی جنرل اسمبلی کی نائب صدارت کے انتخاب سے دستبردار ہونے کے لیے دباؤ ڈالا ہے۔ *[Dawn](https://www.dawn.com/news/2001987/trump-administration-pressures-palestinian-un-envoy-to-drop-general-assembly-vice-presidency-bid)*
 
-### National
-- صدر اور وزیراعظم نے پاک چین تعلقات کی 75 ویں سالگرہ پر چین کے مثبت کردار کو سراہا۔ *[Dawn](https://www.dawn.com/news/2001929/president-premier-hail-chinas-role-in-regional-peace)*
-- آغا خان نے صدر زرداری سے ملاقات میں پاکستان میں انسانی ہمدردی اور ترقیاتی کاموں میں تعاون کا عزم دہرایا۔ *[Dawn](https://www.dawn.com/news/2001810/aga-khan-affirms-commitment-to-supporting-development-during-meeting-with-president-zardari)*
-- ایف آئی اے نے اسلام آباد میں گردوں کے غیر قانونی کاروبار کے نیٹ ورک کا भंडाफोڑ کرتے ہوئے ایک معروف ماہرِ امراضِ گردہ سمیت 9 افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2001820/fia-busts-illegal-kidney-trade-network-in-islamabad-arrests-9-including-urologist)*
-- عید الاضحیٰ کے موقع پر 26، 27 اور 28 مئی کی سرکاری تعطیلات کا اعلان کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422124/eid-holidays-announced)*
-- پاکستان کو تقریباً 70 سال بعد ورلڈ کسٹمز آرگنائزیشن کی پالیسی کمیشن میں نامزد کیا گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/pakistan-nominated-to-world-customs-organisation-policy-commission-after-nearly-70-years/)*
-- اسلام آباد میں احتجاج کے دوران فائرنگ کے واقعات کے حوالے سے سیاسی کشیدگی برقرار ہے۔ *[Dawn](https://www.dawn.com/news/2001835/afridi-aleema-claim-shots-were-fired-at-adiala-sit-in-participants)*
+### موسمیاتی صورتحال
+- محکمہ موسمیات نے 25 سے 31 مئی کے دوران ملک بھر میں شدید گرمی اور ہیٹ ویو کی پیشگوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2002026/hot-weather-on-the-cards-during-eid-as-pmd-predicts-heatwave-from-may-25-31)*
 
-### International
-- پاکستان امریکہ اور ایران کے درمیان کشیدگی کم کرنے کے لیے ثالثی کے ذریعے کوششیں کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2001932/pakistan-races-to-prevent-us-iran-escalation)*
-- امریکہ نے سابق کیوبن صدر راؤل کاسٹرو کے خلاف قتل کے الزامات میں فرد جرم عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2001917/us-indicts-raul-castro-as-fears-of-cuba-invasion-mount)*
-- اسرائیلی وزیر نے غزہ کے لیے امداد لے جانے والے کارکنوں کی گرفتاری کی ویڈیو جاری کرنے پر عالمی سطح پر مذمت کا سامنا کیا ہے۔ *[Dawn](https://www.dawn.com/news/2001815/monstrous-disgraceful-and-inhumane-israeli-minister-sparks-outcry-over-video-of-bound-flotilla-activists)*
-- اقوام متحدہ کی تنظیم FAO نے خبردار کیا ہے کہ ہرمز کے مقام پر بحری راستہ بند ہونے سے عالمی غذائی بحران پیدا ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422132/strait-of-hormuz-blockade-fao-warns-of-global-food-crisis)*
+### کھیل
+- پاکستان ہاکی فیڈریشن نے بیلجیم اور انگلینڈ میں ہونے والے میچوں کے لیے 20 رکنی قومی ٹیم کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422221/pakistan-announce-squad-for-fih-pro-league-matches-in-belgium-england)*
+- برازیل کے فٹ بال اسٹار نیمار کو معمولی چوٹ آئی ہے، تاہم امید ہے کہ وہ ورلڈ کپ سے قبل ٹیم میں شامل ہو جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40422211/neymar-suffers-calf-injury-but-expected-to-join-brazil-camp-ahead-of-world-cup)*
+- مانویل نویر کو جرمنی کی ورلڈ کپ ٹیم میں گول کیپر کے طور پر شامل کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422209/neuer-named-first-choice-for-germanys-world-cup-squad-after-retirement-reversal)*
 
-### Sports
-- کینیڈا ورلڈ کپ کی میزبانی کے لیے 1 ارب کینیڈین ڈالر خرچ کرنے کی تیاری کر رہا ہے۔ *[ARY](https://arynews.tv/canada-will-spend-c1-billion-to-host-world-cup-watchdog-says)*
-- پاکستان نے اقوام متحدہ کو "میڈ ان پاکستان" فٹ بال تحفے میں پیش کیا۔ *[ARY](https://arynews.tv/pakistan-gifts-made-in-pakistan-football-to-un)*
-
-### Health
-- حج کے دوران منٰی میں قیام کے لیے ضروری سامان کی اہم معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/mina-packing-guide-10-essentials-for-pakistani-hajj-pilgrims)*
-
-### Other
-- ایک برطانوی ریڈیو اسٹیشن نے شاہ چارلس کی وفات کی غلط خبر چلا کر معذرت کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2001969/radio-station-mistakenly-announces-death-of-king-charles)*
-- بھارتی اداکارہ ریا چکرتی نے سوشل میڈیا سے وقفے کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/rhea-chakraborty-announces-break-from-social-media)*
+### دیگر
+- پاکستانی کوہ پیما سلمان عتیق نے دنیا کی بلند ترین چوٹی ماؤنٹ ایورسٹ سر کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422210/pakistani-mountaineer-salman-ateeque-summits-mount-everest)*
+- ڈزنی (Disney) اپنی مشہور فلم سیریز "اسٹار وارز" کو دوبارہ لانے کے لیے "دی منڈالورین اینڈ گروگو" ریلیز کرنے جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422206/disney-sends-baby-yoda-to-bring-star-wars-fans-to-theaters)*
+- نیٹ فلکس (Netflix) اپنی پہلی روزانہ لائیو شو کے طور پر "دی بریک فاسٹ کلب" شامل کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422205/netflix-to-add-charlamagne-tha-gods-the-breakfast-club-as-first-daily-live-show)*
 
