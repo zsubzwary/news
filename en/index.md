@@ -4,56 +4,80 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-May-2026 21:04PKT
+Published at: 22-May-2026 09:04PKT
 
-Time to read: 4 mins
+Time to read: 6 mins
 
 ### Economy
-- The IMF mission concluded talks in Pakistan regarding economic reforms and the budget strategy for fiscal year 2027. *[Dawn](https://www.dawn.com/news/2001939/imf-wraps-up-pakistan-visit-following-talks-with-authorities-on-reforms-budget)*
-- Sitara Petroleum Service Limited successfully listed on the PSX, raising Rs4.8 billion in one of the year's largest private sector IPOs. *[Business Recorder](https://www.brecorder.com/news/40422220/10th-ipo-of-the-year-sitara-petroleum-service-limited-listed-on-psx)*
-- The Pakistan Stock Exchange (PSX) benchmark KSE-100 index surged by over 3,300 points, crossing the 168,000-point level. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/psx-surges-over-3300-points-as-buying-momentum-accelerates/)*
-- Pakistan’s food import bill rose 13.81% year-on-year to $7.85 billion during the first 10 months of FY26. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/pakistans-food-import-bill-rises-to-7-85-billion/)*
-- Chinese EV manufacturer GAC Group has entered the Pakistani market through a partnership with Lucky Motor Corporation. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/chinas-gac-enters-pakistan-ev-market-with-vehicles-starting-from-rs6-39-million/)*
-- Gulf stock markets rose following expectations of a US-Iran deal and firmer oil prices. *[Business Recorder](https://www.brecorder.com/news/40422219/gulf-shares-rise-on-iran-deal-hopes-firmer-oil-prices)*
-- Wall Street indexes slipped as oil prices jumped due to renewed tensions in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40422218/wall-st-slips-as-oil-jumps-on-renewed-mideast-concerns)*
-- Symmetry Group completed the acquisition of the US-based technology firm Logo Design Guru. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/symmetry-group-completes-acquisition-of-us-based-tech-firm-logo-design-guru/)*
-- Gold prices remained steady as hopes for a US-Iran deal offset inflation and interest rate concerns. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/gold-steadies-as-hopes-of-us-iran-deal-offset-inflation-rate-concerns/)*
-- Foreign selling in Asian equities has accelerated in May due to war-driven inflation and higher borrowing costs. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/foreign-selling-in-asian-equities-rises-as-bond-yields-climb/)*
+- **Maruti Suzuki** to increase prices due to rising input costs. *[ARY](https://arynews.tv/maruti-suzuki-to-hike-prices-as-input-costs-climb)*
+- Market trends show a comeback for **real chocolate** as cocoa prices decline. *[ARY](https://arynews.tv/cocoa-returns-the-new-era-of-chocolate)*
+- **LNG prices** in Pakistan are expected to rise for May due to higher distribution costs and geopolitical disruptions. *[ARY](https://arynews.tv/lng-prices-in-pakistan-for-may-2026)*
+- **Indian shares** are expected to see a muted start as investors monitor US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40422356/indian-shares-set-for-muted-start-as-focus-remains-on-us-iran-talks)*
+- The **Indian rupee** is poised to weaken following an intervention-driven rally. *[Business Recorder](https://www.brecorder.com/news/40422355/indian-rupee-rbi-spurred-relief-rally-to-fade-on-asia-fx-weakness-hedging)*
+- **Asian stocks** rose while the US dollar reached six-week highs amid uncertainty over US-Iran negotiations. *[Business Recorder](https://www.brecorder.com/news/40422354/stocks-rise-dollar-at-six-week-high-as-focus-remains-on-us-iran-talks)*
+- **Gold prices** are set for a weekly loss due to a stronger dollar and rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40422353/gold-set-for-weekly-loss-on-stronger-dollar-rate-hike-bets)*
+- **Oil prices** gained as investors remain skeptical about a breakthrough in US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40422351/oil-prices-gain-as-investors-doubt-breakthrough-in-us-iran-peace-talks)*
+- The **US dollar** remains near a six-week high amid conflicting signals regarding a potential US-Iran deal. *[Business Recorder](https://www.brecorder.com/news/40422352/dollar-perched-near-six-week-high-on-uncertainty-over-us-iran-deal)*
+- Pakistan is emerging as a significant **medical manufacturing hub** fueled by Chinese pharmaceutical investment. *[Business Recorder](https://www.brecorder.com/news/40422312/chinese-pharmaceutical-investment-pakistan-emerging-as-fifth-largest-medical-making-hub)*
+- **Pakistan seafood exports** have surpassed a historic milestone of USD 500 million. *[Business Recorder](https://www.brecorder.com/news/40422313/pakistan-seafood-exports-surpass-historic-usd500m-milestone)*
+- **Pakistan Petroleum Limited (PPL)** signed agreements for eight offshore exploration blocks. *[Business Recorder](https://www.brecorder.com/news/40422317/ppl-signs-psas-licences-for-eight-offshore-exploration-blocks)*
+- **RLNG consumers** may face significantly higher gas bills due to rising tariffs. *[Business Recorder](https://www.brecorder.com/news/40422318/rlng-consumers-may-face-significantly-inflated-gas-bills)*
+- **CDWP** approved a ₨5.3 billion helicopter purchase for the Diamer-Basha Dam and raised the Tarbela project cost to ₨316 billion. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/cdwp-clears-%e2%82%a85-3-billion-helicopter-purchase-for-diamer-basha-dam-raises-tarbela-project-cost-to-%e2%82%a8316-billion/)*
+- The **Senate** approved bills for debt management and the Export-Import Bank. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/senate-approves-debt-management-export-import-bank-amendment-bills/)*
+- Pakistan plans to establish **strategic oil reserves** at Gwadar Energy City to bolster energy security. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/pakistan-plans-strategic-oil-reserves-at-gwadar-energy-city-seeks-gulf-investment/)*
+- **Pakistan and the IMF** have yet to reach an agreement on tax relief for the salaried class and revenue estimates. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/pakistan-imf-yet-to-agree-on-salaried-class-tax-relief-revenue-estimates-ahead-of-budget/)*
+- **Pakistan and Germany** signed a €40.5 million deal for nine development projects. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/pakistan-germany-ink-e40-5mn-deal-for-9-development-projects/)*
+- **SBP foreign exchange reserves** rose by $1.21 billion to $17.08 billion, driven by IMF and Panda Bond inflows. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/sbp-reserves-surge-1-21bn-to-17-08bn-on-imf-and-panda-bond-inflows/)*
+- **Sitara Petroleum** has successfully listed on the PSX following a Rs4.8 billion IPO. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/21/sitara-petroleum-lists-on-psx-after-rs4-8bn-ipo-demand-surges-across-tranches/)*
+
+### Science & Technology
+- **SpaceX** filed an IPO provision that grants Elon Musk a massive bonus only if one million humans settle on Mars. *[Dawn](https://www.dawn.com/news/2002156/spacex-to-give-out-bonus-when-1m-humans-settle-on-mars)*
+- Discussions continue regarding how **Artificial Intelligence (AI)** will impact the global economy and job security. *[Dawn](https://www.dawn.com/news/2002169/will-ai-kill-your-job)*
 
 ### Weather
-- The Pakistan Meteorological Department (PMD) predicts a heatwave from May 25 to May 31, with temperatures potentially reaching 50°C in some areas. *[Dawn](https://www.dawn.com/news/2002026/hot-weather-on-the-cards-during-eid-as-pmd-predicts-heatwave-from-may-25-31)*
+- **Sialkot authorities** are on alert as India opens the spillway gates of the Salal Dam, potentially raising Chenab River water levels by three meters. *[Dawn](https://www.dawn.com/news/2002064/sialkot-authorities-on-alert-as-india-opens-spillway-gates-of-dam-on-chenab-river)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif lauded the "steadfast" and "unmatched" 75-year friendship between Pakistan and China. *[Dawn](https://www.dawn.com/news/2002044/pm-shehbaz-lauds-steadfast-pak-china-friendship-says-beijing-supported-islamabad-in-unwavering-fashion)*
-- PTI leaders have threatened to resort to agitation after being denied meetings with Imran Khan. *[Dawn](https://www.dawn.com/news/2002047/seems-pti-will-now-have-to-resort-to-agitation-says-mna-after-party-leaders-yet-again-denied-meeting-with-imran)*
-- Prime Minister Shehbaz Sharif hosted Prince Rahim al-Hussaini Aga Khan V to discuss continued cooperation in human development. *[Dawn](https://www.dawn.com/news/2002017/at-breakfast-meeting-hosted-by-pm-aga-khan-expresses-desire-to-continue-cooperation-with-pakistan)*
-- MQM-P leader Khalid Maqbool Siddiqui has been appointed as a member of the Economic Coordination Committee. *[Dawn](https://www.dawn.com/news/2001989/mqm-p-leader-khalid-maqbool-made-member-of-economic-coordination-committee)*
+- **Sher Afzal Marwat** has approached the Federal Constitutional Court challenging Ali Amin Gandapur's resignation. *[Dawn](https://www.dawn.com/news/2002133/sher-afzal-marwat-moves-fcc-against-gandapurs-resignation)*
+- **PM Shehbaz Sharif** lauded the steadfast 75-year diplomatic relationship between Pakistan and China. *[Dawn](https://www.dawn.com/news/2002044/pm-shehbaz-lauds-steadfast-pak-china-friendship-says-beijing-supported-islamabad-in-unwavering-fashion)*
+- A **PIDE report** highlighted that government ministries maintain de facto control over regulatory bodies. *[Business Recorder](https://www.brecorder.com/news/40422315/three-primary-channels-pide-report-flags-ministries-continued-de-facto-control-over-regulators)*
+- The **Senate Standing Committee** considered the Islamabad Capital Territory Condominium Law. *[Business Recorder](https://www.brecorder.com/news/40422320/senate-panel-considers-ict-condominium-law-ownership-and-management-bill)*
+- **National Assembly Speaker** emphasized the importance of youth participation in democratic governance. *[Business Recorder](https://www.brecorder.com/news/40422321/parliamentary-procedures-speaker-underscores-critical-role-of-youth-participation)*
+- Pakistan secured a seat on the **WCO Policy Commission** for the 2026–28 term. *[Business Recorder](https://www.brecorder.com/news/40422322/ubg-greets-govt-on-induction-into-wco-policy-commission)*
+- **Bilawal Bhutto Zardari** met with the KP Governor to discuss the province's political and administrative situation. *[Business Recorder](https://www.brecorder.com/news/40422325/bilawal-governor-discuss-kp-political-administrative-situation)*
 
 ### National
-- Chief of Defence Forces Asim Munir reaffirmed Pakistan's national resolve to continue the fight against terrorism. *[Dawn](https://www.dawn.com/news/2002028/fight-against-terrorism-will-continue-with-full-national-resolve-asserts-cdf-munir)*
-- Two schoolchildren were killed in a quadcopter drone attack in the Bajaur district of Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2002038/quadcopter-attack-kills-two-schoolchildren-in-kps-bajaur)*
-- Security forces killed five terrorists, including a high-value commander, during an intelligence-based operation in North Waziristan. *[Dawn](https://www.dawn.com/news/2002052/security-forces-kill-five-terrorists-including-wanted-commander-in-north-waziristan-ibo-security-sources)*
-- PIA successfully completed its Haj operations, transporting over 53,000 pilgrims to Saudi Arabia. *[Dawn](https://www.dawn.com/news/2002055/pia-wraps-up-haj-operations-transports-over-53000-pilgrims-spokesperson)*
-- The Punjab government has imposed Section 144 for 30 days around airports and PAF bases to mitigate flight risks. *[Dawn](https://www.dawn.com/news/2001994/punjab-govt-imposes-section-144-around-airports-paf-bases-for-30-days)*
-- The Capital Development Authority (CDA) has delayed the implementation of a Supreme Court ruling regarding the regularization of contractual employees. *[Business Recorder](https://www.brecorder.com/news/40422201/cda-delays-supreme-court-ruling-on-contractual-employees-regularisation)*
-- Pakistani mountaineer Salman Ateeque successfully summited Mount Everest. *[Business Recorder](https://www.brecorder.com/news/40422210/pakistani-mountaineer-salman-ateeque-summits-mount-everest)*
+- Approximately **3,494 Pakistanis** were deported from the UAE between January and April this year. *[Dawn](https://www.dawn.com/news/2002124/uae-deportations-issue-referred-to-senate-panel)*
+- **Chief Justice Yahya Afridi** made public the dismissal of five complaints against him by the Supreme Judicial Council. *[Dawn](https://www.dawn.com/news/2002127/dismissed-complaints-against-cjp-afridi-made-public)*
+- The **Sindh cabinet** approved emergency funding to accelerate the construction of the Red Line BRT project in Karachi. *[Dawn](https://www.dawn.com/news/2002188/emergency-funding-approved-to-accelerate-work-on-red-line)*
+- The government will issue a **commemorative coin** to mark the 75th anniversary of diplomatic ties with China. *[Dawn](https://www.dawn.com/news/2002172/govt-to-issue-commemorative-coin-to-mark-75th-anniversary-of-diplomatic-ties-with-china)*
+- The **FIA** reported that Punjab leads the country in complaints regarding custodial torture. *[Dawn](https://www.dawn.com/news/2002126/most-custodial-torture-cases-from-punjab-lhc-told)*
+- A prominent **Kashmiri educationist** was critically wounded in a targeted attack in Muzaffarabad. *[Dawn](https://www.dawn.com/news/2002072/educationist-who-fled-occupied-kashmir-fights-for-his-life-after-targeted-attack)*
+- **Security forces** killed 23 terrorists during intelligence-based operations in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2002065/security-forces-kill-23-terrorists-in-multiple-khyber-pakhtunkhwa-ibos-ispr)*
+- Two **schoolchildren** were killed in a quadcopter drone attack in the Bajaur district. *[Dawn](https://www.dawn.com/news/2002038/quadcopter-attack-kills-two-schoolchildren-in-kps-bajaur)*
+- The **University of Health Sciences (UHS)** approved a budget of Rs2.134 billion for FY 2026-27. *[Business Recorder](https://www.brecorder.com/news/40422319/rs2134bn-uhs-budget-for-fy-2026-27-approved)*
+- **WAPDA** paid Rs677.7 million in compensation to victims of the Diamer Basha Dam project. *[Business Recorder](https://www.brecorder.com/news/40422323/diamer-basha-dam-project-wapda-pays-rs677m-more-compensation-to-harbans-victims)*
+- **Pakistan Railways** has announced three special trains for the Eidul Azha holidays. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/pakistan-railways-announces-three-special-eidul-azha-trains/)*
 
 ### International
-- Israel has deported all foreign activists from a Gaza-bound flotilla following global outcry over their treatment. *[Dawn](https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists)*
-- The United Nations criticized the Afghan Taliban's new marriage separation decree, stating it reinforces systemic discrimination against women. *[Dawn](https://www.dawn.com/news/2002035/talibans-new-marriage-separation-decree-draws-un-criticism)*
-- The Trump administration reportedly pressured the Palestinian UN envoy to withdraw his candidacy for UN General Assembly vice presidency. *[Dawn](https://www.dawn.com/news/2001987/trump-administration-pressures-palestinian-un-envoy-to-drop-general-assembly-vice-presidency-bid)*
-- Pakistan responded to India during a UNSC debate, accusing the country of disregarding international law and supporting terrorism. *[Dawn](https://www.dawn.com/news/2001985/pakistan-responds-to-india-at-unsc-debate-says-it-stands-exposed-by-terrorism-and-disregard-for-international-law)*
-- Pakistan is engaging in diplomatic efforts to facilitate peace talks between the United States and Iran. *[Dawn](https://www.dawn.com/news/2001932/pakistan-races-to-prevent-us-iran-escalation)*
-- Iran's Supreme Leader issued a directive stating that the country's enriched uranium must not be sent abroad. *[Business Recorder](https://www.brecorder.com/news/40422202/supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say)*
-- India's "Cockroach Janta Party" has gone viral on Instagram, amassing 15 million followers to discuss Gen Z concerns. *[Dawn](https://www.dawn.com/news/2002051/indias-cockroach-janta-party-goes-viral-spotlights-gen-z-worries)*
+- **Pakistan** is playing a key role in facilitating potential peace talks between the US and Iran. *[Dawn](https://www.dawn.com/news/2002129/us-hopeful-as-islamabad-tries-to-prevail-on-tehran)*
+- Israel has **deported all foreign activists** who were detained during the interception of a Gaza-bound flotilla. *[Dawn](https://www.dawn.com/news/2002122/saad-edhi-freed-alongside-flotilla-activists)* / *[Dawn](https://www.dawn.com/news/2002030/israel-deports-all-foreign-gaza-flotilla-activists)*
+- Pakistan has officially **condemned the interception** of the Global Sumud Flotilla by Israeli forces. *[Business Recorder](https://www.brecorder.com/news/40422311/pakistan-condemns-unlawful-interception-of-flotilla)*
+- **Iran's Supreme Leader** stated that the country's enriched uranium stockpile must remain within Iran. *[ARY](https://arynews.tv/mojtaba-khamenei-says-enriched-uranium-must-stay-in-iran)*
+- **Poland** praised Pakistan's efforts in mediating between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40422316/poland-lauds-pak-efforts-in-facilitating-us-iran-dialogue)*
 
 ### Sports
-- The Pakistan Hockey Federation announced a 20-member national squad for the FIH Pro League matches in Belgium and England. *[Business Recorder](https://www.brecorder.com/news/40422221/pakistan-announce-squad-for-fih-pro-league-matches-in-belgium-england)*
-- Brazil's Neymar is expected to join the national camp for the World Cup despite suffering a minor calf injury. *[Business Recorder](https://www.brecorder.com/news/40422211/neymar-suffers-calf-injury-but-expected-to-join-brazil-camp-ahead-of-world-cup)*
-- Manuel Neuer has come out of international retirement and has been named the starting goalkeeper for Germany's World Cup squad. *[Business Recorder](https://www.brecorder.com/news/40422209/neuer-named-first-choice-for-germanys-world-cup-squad-after-retirement-reversal)*
-- Sadio Mane has been named in Senegal's 28-man squad for the upcoming World Cup. *[Business Recorder](https://www.brecorder.com/news/40422203/mane-headlines-tried-and-trusted-senegal-squad-for-world-cup)*
+- The **PCB OTT platform**, "PCB Live," will free-stream the upcoming Pakistan vs. Australia ODI series. *[Business Recorder](https://www.brecorder.com/news/40422314/pcb-ott-platform-to-live-stream-pak-australia-odi-series)*
+
+### Health
+- A high-level inquiry is underway at **Nishtar Hospital, Multan**, after a patient tested HIV-positive following surgery. *[Dawn](https://www.dawn.com/news/2002063/patient-tests-hiv-positive-after-surgery-triggering-probe-at-multans-nishtar-hospital)*
+- Doctors report an increasing shift toward **lower-cost weight-loss pills** from Novo and Lilly. *[ARY](https://arynews.tv/foundayo-a-new-choice-for-weight-loss-pills)*
 
 ### Other
-- Disney is releasing "The Mandalorian and Grogu" to re-engage Star Wars fans in theaters. *[Business Recorder](https://www.brecorder.com/news/40422206/disney-sends-baby-yoda-to-bring-star-wars-fans-to-theaters)*
-- Netflix will begin streaming "The Breakfast Club" as its first daily live show starting June 1. *[Business Recorder](https://www.brecorder.com/news/40422205/netflix-to-add-charlamagne-tha-gods-the-breakfast-club-as-first-daily-live-show)*
+- A commentary piece explores the **"death of intellect"** in modern society. *[Dawn](https://www.dawn.com/news/2002167/death-of-intellect)*
+- **CBS** has canceled *The Late Show with Stephen Colbert* after 11 seasons. *[ARY](https://arynews.tv/heres-why-cbs-canceled-the-late-show-with-stephen-colbert-after-11-seasons)*
+- Pop star **Dua Lipa** celebrates the conclusion of her "Radical Optimism" era. *[ARY](https://arynews.tv/dua-lipa-celebrates-end-of-radical-optimism-era)*
+- **AI-generated rumors** involving Khloe Kardashian and Michael B. Jordan have caused an internet frenzy. *[ARY](https://arynews.tv/khloe-kardashian-and-michael-b-jordan-ai-generated-rumors-spark-internet-frenzy)*
+- **Hajj 2026** helpline numbers have been released for pilgrims in Saudi Arabia. *[ARY](https://arynews.tv/hajj-2026-helpline-numbers-for-pilgrims-in-saudi-arabia)*
+- Viral wedding rumors involve **Kaviya Maran and Anirudh Ravichander**. *[ARY](https://arynews.tv/kaviya-maran-anirudh-ravichander-wedding-rumors-go-viral)*
 
