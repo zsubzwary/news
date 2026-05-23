@@ -4,53 +4,69 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 23-May-2026 09:05PKT
+Published at: 23-May-2026 21:05PKT
 
-Time to read: 5 mins
+Time to read: 6 mins
 
 ### Economy
-- The federal government has **reduced petrol prices by Rs 6 per litre** and **high-speed diesel by Rs 6.80 per litre**, effective May 23. *[Dawn](https://www.dawn.com/news/2002321/govt-reduces-petrol-by-rs6-per-litre-high-speed-diesel-by-rs68), [Business Recorder](https://www.brecorder.com/news/40422475/petrol-price-slashed-by-rs6-diesels-by-rs680), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/govt-cuts-petrol-price-by-rs6-litre-hsd-by-rs6-80-ahead-of-eid-ul-adha/)*
-- Weekly **SPI-based inflation fell by 0.33%**, driven by price drops in chicken, electricity, and garlic. *[Business Recorder](https://www.brecorder.com/news/40422476/weekly-spi-inflation-down-033pc)*
-- Pakistan is seeking **unilateral tariff concessions from China** on approximately 700 product lines under the proposed third phase of the CPFTA. *[Business Recorder](https://www.brecorder.com/news/40422483/700-product-lines-under-the-proposed-cpfta-islamabad-seeks-unilateral-tariff-relief-from-beijing), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistan-to-seek-zero-tariff-access-from-china-on-700-product-lines-under-fta-talks/)*
-- The government is reviewing changes to the **Export Facilitation Scheme (EFS)** to curb the misuse of flying invoices by commercial importers. *[Business Recorder](https://www.brecorder.com/news/40422484/check-on-flying-invoices-govt-mulls-revising-efs-in-budget), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/govt-mulls-export-facilitation-scheme-changes-to-curb-flying-invoice-misuse-by-commercial-importers/)*
-- ECNEC has approved several major infrastructure projects, including the **Main Line-1 (ML-1) railway design**, Havelian Dry Port, and Thar Coal rail connectivity. *[Business Recorder](https://www.brecorder.com/news/40422491/ecnec-clears-ml-1-havelian-dry-port-amp-thar-coal-rail-projects)*
-- The World Bank has flagged **implementation delays in the USD 460.6 million Khyber Pass Economic Corridor (KPEC)** project. *[Business Recorder](https://www.brecorder.com/news/40422488/kpec-project-world-bank-flags-implementation-delays), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/world-bank-flags-delays-in-460-million-khyber-pass-corridor-project-pakistan-seeks-3-year-extension/)*
-- Pakistan and the **Asian Development Bank (ADB) have agreed** to expedite documentation for the swift implementation of the ML-1 railway project. *[Business Recorder](https://www.brecorder.com/news/40422489/swift-implementation-of-main-line-1-railway-project-pakistan-adb-agree-on-timely-completion-of-documentation)*
-- Local **mobile phone assembly declined by 35% in April** due to slowing demand. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/local-mobile-phone-assembly-drops-35-in-april-as-demand-slows/)*
-- Prime Minister Shehbaz Sharif is utilizing the **Special Investment Facilitation Council (SIFC)** to attract foreign investment, including interest from Qatar’s Taameer Group. *[Business Recorder](https://www.brecorder.com/news/40422482/pm-tells-qatars-taameer-group-steps-taken-to-remove-barriers-to-business-under-sifc), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/pm-shehbaz-invites-greater-qatari-investment-as-taameer-group-plans-expansion-in-pakistan/)*
-- **IPO Pakistan plans to become fully digital** within the next six months to improve transparency and processing speed. *[Business Recorder](https://www.brecorder.com/news/40422495/ipo-pakistan-to-go-fully-digital-in-six-months)*
-- The **FPCCI has demanded the reinstatement of the Final Tax Regime (FTR)** for exporters to resolve operational bottlenecks. *[Business Recorder](https://www.brecorder.com/news/40422493/fpcci-demands-restoration-of-ftr-for-exporters)*
-- **Azerbaijan has expressed interest** in investing in Punjab's clean energy, waste-to-energy, and solarisation projects. *[Business Recorder](https://www.brecorder.com/news/40422492/azerbaijan-ready-to-invest-in-punjab-clean-energy-projects-minister)*
-- inDrive has launched **'Aurora Ventures'**, an investment program aimed at funding women tech founders in emerging markets. *[Business Recorder](https://www.brecorder.com/news/40422494/indrive-launches-aurora-ventures)*
-- The **FBR has restored the sales tax registration** of K-Electric. *[Business Recorder](https://www.brecorder.com/news/40422487/st-registration-of-ke-restored)*
-- Roughly **five million SMEs in Pakistan** remain largely outside the formal banking credit system. *[Dawn](https://www.dawn.com/news/2002454/five-million-smes-2pc-banked)*
+- The government has reduced the price of petrol by Rs6 per litre and high-speed diesel by Rs6.80. *[Dawn](https://www.dawn.com/news/2002321/govt-reduces-petrol-high-speed-diesel-prices-by-rs6)*
+- Pakistan may face cotton import costs exceeding $1 billion as domestic production hits a 40-year low. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistans-cotton-import-bill-may-exceed-1-billion-as-output-falls-to-40-year-low/)*
+- Gold prices in Pakistan dropped by Rs2,200 per tola, reaching Rs473,162. *[Business Recorder](https://www.brecorder.com/news/40422512/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- Petrol pump owners have urged the government to scrap the weekly petroleum pricing mechanism to avoid financial instability. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/fuel-dealers-ask-govt-to-scrap-weekly-price-mechanism/)*
+- India's state-owned fuel retailers raised petrol and diesel prices for the third time this month due to elevated crude costs. *[Business Recorder](https://www.brecorder.com/news/40422504/indian-retailers-raise-fuel-prices-for-a-third-time-amid-iran-war)*
+- The federal government is reviewing a proposal to allow individuals to bring unlimited foreign currency into the country. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/govt-reviews-proposal-to-relax-foreign-currency-inflow-limits/)*
+- Pakistan has secured relief on LNG terminal capacity payments following negotiations with private operators. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistan-secures-relief-on-lng-terminal-capacity-payments-after-negotiations-with-private-operators/)*
+- New customs values have been fixed for the import of artificial imitation jewellery from China and other countries. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/customs-fixes-new-import-values-for-artificial-jewellery-from-china-other-countries/)*
+- Retailers are seeking a permanent 10 pm nationwide market closing time following temporary Eid relaxations. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/retailers-seek-permanent-10-pm-closing-time-after-eid-relaxation/)*
+- Sales for Lucky Motors’ new Aion UT hatchback are reportedly slower than analysts expected despite aggressive pricing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/analysts-expected-lucky-motors-rs-6-39m-aion-ut-to-sell-fast-here-is-why-it-isnt/)*
+- Weekly exchange rate reviews for the Kuwaiti Dinar and Omani Riyal against the Pakistani Rupee. *[ARY](https://arynews.tv/kuwaiti-dinar-to-pakistani-rupee-rate-today-may-23-2026) / [ARY](https://arynews.tv/omani-riyal-to-pakistani-rupee-rate-today-may-23-2026)*
+- New maritime legislation has been passed in Pakistan to implement the Hong Kong convention for safe ship recycling. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistan-passes-ship-recycling-law-to-implement-hong-kong-convention-boost-gadani-industry/)*
 
-### Weather
-- Record-breaking heatwaves in **India have driven electricity demand to over 270 gigawatts**, resulting in widespread power cuts. *[Dawn](https://www.dawn.com/news/2002287/india-battles-power-cuts-as-heatwave-boosts-electricity-demand-to-record)*
+### Science & Technology
+- SpaceX successfully performed a test flight of its Starship spacecraft, which splashed down in the Indian Ocean. *[Dawn](https://www.dawn.com/news/2002477/elon-musks-spacex-carries-out-mostly-successful-starship-test-flight)*
+- Nvidia's CEO projects a $200 billion CPU market that includes China, driven by rising demand for agentic AI. *[Business Recorder](https://www.brecorder.com/news/40422521/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china)*
 
 ### Politics
-- Opposition leader Mehmood Khan Achakzai warned the government of a **complete boycott of the upcoming budget session** if their demands are not met. *[Dawn](https://www.dawn.com/news/2002438/meet-demands-or-face-budget-boycott-achakzai-tells-govt)*
-- Prime Minister Shehbaz Sharif has approved a **four-year contract extension for Fuad Asadullah Khan** as Director General of the Intelligence Bureau. *[Dawn](https://www.dawn.com/news/2002416/pm-grants-four-year-extension-to-intelligence-bureau-chief)*
+- Prime Minister Shehbaz Sharif has approved a four-year contract extension for Fuad Asadullah Khan as Director General of the Intelligence Bureau. *[Dawn](https://www.dawn.com/news/2002416/pm-grants-four-year-extension-to-intelligence-bureau-chief)*
 
 ### National
-- The **Sindh government announced a four-day Eidul Azha holiday**, exceeding the three-day holiday declared by the federal government. *[Dawn](https://www.dawn.com/news/2002350/unlike-centre-sindh-announces-four-eid-holidays)*
-- Bilawal Bhutto Zardari **inaugurated the 39km Shahrah-i-Bhutto Expressway** in Karachi to improve urban connectivity. *[Dawn](https://www.dawn.com/news/2002279/ppp-chairman-bilawal-bhutto-inaugurates-39km-long-shahrah-i-bhutto-linking-qayyumabad-to-m9-motorway), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/shahrah-e-bhutto-expressway-opens-in-karachi-as-sindh-unveils-major-urban-link/)*
-- The **NCCIA arrested four suspects in South Punjab** for allegedly selling sensitive data of government officials to foreign entities. *[Dawn](https://www.dawn.com/news/2002298/nccia-uncovers-gang-selling-data-of-govt-officials-to-foreign-entities-four-arrested), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/four-held-in-south-punjab-over-alleged-leak-of-officials-data-to-foreign-agencies-nccia/)*
-- The Ministry of Defence warned that **failure to compensate Mangla Dam victims** could lead to protests and internal security issues. *[Business Recorder](https://www.brecorder.com/news/40422486/pmo-amp-mof-warned-no-compensation-to-mangla-dam-victims-could-trigger-protests-mod)*
-- Prince Rahim Al Hussaini Aga Khan V urged the Ismaili community in Hunza to **prioritize unity and education**. *[Dawn](https://www.dawn.com/news/2002417/aga-khan-urges-unity-education-and-service-to-humanity)*
-- Actor Momina Iqbal has filed an application seeking an **FIR against a PML-N MPA** over allegations of blackmail and harassment. *[Dawn](https://www.dawn.com/news/2002319/actor-momina-iqbal-seeks-fir-against-pml-n-mpa-over-alleged-blackmail-and-harassment)*
+- The Punjab CTD arrested 13 suspected terrorists during a province-wide intelligence-based crackdown. *[Dawn](https://www.dawn.com/news/2002529/punjab-ctd-arrests-13-suspected-terrorists-in-province-wide-crackdown)*
+- Fierce fighting in Bannu between police and militants resulted in the death of 12 terrorists and one man. *[Dawn](https://www.dawn.com/news/2002493/12-terrorists-killed-one-person-dead-in-heavy-fighting-between-police-militants-in-kps-bannu) / [Business Recorder](https://www.brecorder.com/news/40422517/eight-terrorists-killed-cop-martyred-in-bannu-operation)*
+- The Balochistan CTD killed four terrorists during a heavy gun battle in the Pishin district. *[Dawn](https://www.dawn.com/news/2002528/balochistan-ctd-kills-4-alleged-terrorists-in-pishin-operation)*
+- Various provincial governments in Pakistan, including KP, Punjab, and Sindh, have announced Eid holiday schedules. *[Dawn](https://www.dawn.com/news/2002519/kp-announces-four-eid-holidays-from-may-26-to-29)*
+- The Ministry of Defence warned that delays in Mangla Dam compensation could trigger protests in Azad Jammu and Kashmir. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/defence-ministry-warns-delays-in-mangla-dam-compensation-could-trigger-protests/)*
+- The Auditor General of Pakistan has revised the methodology for preparing annual audit reports. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/auditor-general-revises-audit-reporting-method-after-rs375-trillion-controversy/)*
+- A Metro bus caught fire in Rawalpindi, though all passengers were successfully evacuated. *[Dawn](https://www.dawn.com/news/2002480/passengers-safely-evacuated-after-metro-bus-catches-fire-in-pindi)*
+- The Punjab government has imposed a Rs50,000 fine for the illegal disposal of animal waste during Eid. *[Dawn](https://www.dawn.com/news/2002389/rs50000-fine-in-punjab-for-illegal-offal-disposal-on-eid)*
 
 ### International
-- Diplomatic mediation is intensifying in **Tehran to resolve the US-Iran conflict**, with involvement from Pakistan's Chief of Defence Forces and Qatari negotiators. *[Dawn](https://www.dawn.com/news/2002441/big-guns-descend-on-tehran-as-talks-enter-decisive-phase), [Business Recorder](https://www.brecorder.com/news/40422477/qataris-in-tehran-to-help-secure-us-iran-deal), [Business Recorder](https://www.brecorder.com/news/40422478/naqvi-meets-araghchi-again), [Business Recorder](https://www.brecorder.com/news/40422479/rubio-sees-progress-in-iran-talks), [Business Recorder](https://www.brecorder.com/news/40422480/cdf-arrives-in-tehran)*
-- **Thousands of sailors remain stranded in the Gulf** due to maritime tensions and Iran's assertion of control over the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2002422/hormuz-closure-piles-misery-on-stranded-sailors), [Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/thousands-of-seafarers-stranded-in-gulf-as-iran-reasserts-control-map-over-strait-of-hormuz/)*
-- The **US Citizenship and Immigration Services** announced a policy change requiring most green card seekers to apply from outside the US. *[Dawn](https://www.dawn.com/news/2002398/green-card-seekers-must-leave-us-first)*
-- **Tulsi Gabbard has resigned** as the US Director of National Intelligence. *[Dawn](https://www.dawn.com/news/2002318/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official)*
-- The **Pakistan and Turkiye Air Forces** reaffirmed their strategic cooperation in defense and aerospace technology. *[Dawn](https://www.dawn.com/news/2002276/pakistan-turkiye-air-forces-reaffirm-growing-strategic-convergence-in-defence-sector-ispr)*
+- Field Marshal Asim Munir's visit to Tehran has yielded "encouraging progress" toward a regional understanding. *[Dawn](https://www.dawn.com/news/2002541/encouraging-progress-made-during-cdf-munirs-tehran-visit-ispr) / [ARY](https://arynews.tv/pakistan-asim-munir-wraps-up-iran-visit-may-23-2026)*
+- US Secretary of State Marco Rubio met with Indian PM Modi to reaffirm bilateral ties following a US-China summit. *[Dawn](https://www.dawn.com/news/2002483/rubio-meets-modi-renewing-ties-with-india-after-us-china-summit)*
+- A Congressional report revealed that the US lost or damaged 42 military aircraft during its campaign against Iran. *[Dawn](https://www.dawn.com/news/2002532/congressional-report-details-losses-of-42-us-aircraft-in-iran-campaign)*
+- Humanitarian worker Saad Edhi has returned to Karachi after being released from Israeli detention. *[Dawn](https://www.dawn.com/news/2002537/saad-edhi-arrives-in-karachi-after-release-from-illegal-israeli-detention)*
+- Over 1.5 million pilgrims have arrived in Saudi Arabia for Haj, exceeding last year's numbers despite Middle East conflicts. *[Dawn](https://www.dawn.com/news/2002531/haj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war) / [Business Recorder](https://www.brecorder.com/news/40422515/hajj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war)*
+- The US Citizenship and Immigration Services has implemented a policy requiring most green card seekers to apply from abroad. *[Dawn](https://www.dawn.com/news/2002398/green-card-seekers-must-leave-us-first) / [Business Recorder](https://www.brecorder.com/news/40422510/us-tells-foreigners-seeking-green-cards-return-to-your-countries-to-apply)*
+- A gas explosion at a coal mine in China has resulted in at least 90 deaths. *[Dawn](https://www.dawn.com/news/2002487/china-coal-mine-blast-kills-at-least-90-more-missing) / [Business Recorder](https://www.brecorder.com/news/40422503/death-toll-jumps-to-90-in-china-coal-mine-blast)*
+- A Ukrainian drone attack caused a fire at a Russian oil depot in the port of Novorossiysk. *[Business Recorder](https://www.brecorder.com/news/40422508/ukrainian-drone-attack-sparks-fire-at-russian-oil-depot-mayor)*
+- Prime Minister Shehbaz Sharif has commenced a four-day official visit to China. *[Dawn](https://www.dawn.com/news/2002474/pm-shehbaz-lands-in-hangzhou-kicking-off-4-day-china-visit) / [Business Recorder](https://www.brecorder.com/news/40422507/pm-shehbaz-arrives-in-china-on-four-day-visit-witnesses-mou-signing)*
+- The UN Security Council adopted a Pakistan-drafted annual report by consensus. *[Business Recorder](https://www.brecorder.com/news/40422509/unsc-adopts-pakistan-drafted-annual-report-by-consensus)*
+- India's Trade Minister Piyush Goyal is heading a delegation to Canada to strengthen trade and investment ties. *[Business Recorder](https://www.brecorder.com/news/40422518/indias-goyal-to-visit-canada-with-150-business-leaders-to-boost-trade-ties)*
+
+### Sports
+- Mexico secured a 2-0 victory over Ghana in a World Cup warm-up match. *[Business Recorder](https://www.brecorder.com/news/40422516/mexico-ease-past-ghana-in-world-cup-warm-up-in-puebla)*
+- North Korea’s Naegohyang won the Asian Women’s Champions League title. *[Business Recorder](https://www.brecorder.com/news/40422513/north-koreas-naegohyang-beat-tokyo-verdy-to-win-asian-womens-title)*
+- Virat Kohli was involved in a heated verbal exchange with Travis Head during an IPL match. *[Business Recorder](https://www.brecorder.com/news/40422514/kohli-refuses-handshake-with-head-after-heated-verbal-spat-during-ipl-clash)*
+- Sunrisers Hyderabad defeated Royal Challengers Bengaluru by 55 runs in the IPL. *[Business Recorder](https://www.brecorder.com/news/40422502/captains-dream-hyderabads-cummins-hails-fellow-quicks-after-bengaluru-win)*
+- England's Bethell has left the IPL due to a finger injury. *[ARY](https://arynews.tv/englands-bethell-leaves-ipl-after-finger-injury)*
 
 ### Health
-- The **WHO has raised the Ebola risk level** in the Democratic Republic of Congo to "very high." *[Dawn](https://www.dawn.com/news/2002301/ebola-risk-now-at-highest-level-in-dr-congo-says-who)*
-- Renowned infectious diseases expert **Dr. Naseem Salahuddin has passed away**. *[Dawn](https://www.dawn.com/news/2002313/renowned-infectious-diseases-expert-dr-naseem-salahuddin-passes-away)*
+- Pakistan has intensified airport screening measures in response to an Ebola outbreak in Africa. *[Dawn](https://www.dawn.com/news/2002500/pakistan-steps-up-airport-screening-amid-ebola-outbreak-in-africa)*
+- An inquiry at a Multan hospital found nine officials guilty of violating protocols regarding HIV screening during surgery. *[Dawn](https://www.dawn.com/news/2002505/inquiry-panel-at-multan-hospital-finds-9-doctors-officials-at-fault-for-surgery-conducted-sans-hiv-screening)*
 
 ### Other
-- Ongoing debates highlight the need for **climate justice** for nations like Pakistan that are highly vulnerable to climate shocks despite low emissions. *[Dawn](https://www.dawn.com/news/2002455/climate-justice-at-home)*
+- The Cannes Film Festival is approaching its closing ceremony, with several films vying for the Palme d’Or. *[Business Recorder](https://www.brecorder.com/news/40422506/russian-war-drama-among-favourites-for-cannes-top-prize) / [Business Recorder](https://www.brecorder.com/news/40422505/who-will-win-the-2026-cannes-film-festivals-top-prize)*
+- Zayn Malik has responded to a shocking on-stage attack in the UK. *[ARY](https://arynews.tv/zayn-malik-responds-after-shocking-on-stage-attack-in-the-uk-leaves-fans-stunned)*
+- Hip-hop artist Rob Base has passed away at the age of 59. *[ARY](https://arynews.tv/rob-base-voice-behind-hip-hop-anthem-it-takes-two-dies-at-59)*
+- Aishwarya Rai made a notable appearance at the 79th Cannes Film Festival. *[ARY](https://arynews.tv/aishwarya-rai-wows-fans-at-79th-cannes-film-festival)*
+- An ex-inmate has made claims regarding Mackenzie Shirilla running schemes behind bars. *[ARY](https://arynews.tv/ex-inmate-claims-mackenzie-shirilla-ran-sugar-daddy-schemes-behind-bars)*
 
