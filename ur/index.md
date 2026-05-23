@@ -7,44 +7,45 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 22-May-2026 21:11PKT 
+ &lrm; 23-May-2026 09:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- **لکی موٹرز** نے چینی کمپنی GAC کے ساتھ شراکت داری کا آغاز کیا ہے تاکہ الیکٹرک گاڑیوں کی مارکیٹ میں اضافے کا فائدہ اٹھایا جا سکے۔ *[Dawn](https://www.dawn.com/news/2002277/lucky-motors-partners-with-chinas-gac-as-it-bets-fuel-shock-will-drive-ev-switch)*
-- امریکہ اور ایران کے درمیان امن مذاکرات میں تاخیر کی وجہ سے عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ دیکھا گیا۔ *[Dawn](https://www.dawn.com/news/2002218/oil-prices-rise-as-investors-doubt-breakthrough-in-us-iran-peace-talks)*
-- وزیراعظم شہباز شریف نے ملک میں غیر ملکی سرمایہ کاری کو بڑھانے کے لیے ترجیحی بنیادوں پر اقدامات کرنے کا عزم ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002240/pm-shehbaz-says-pakistan-taking-measures-on-a-priority-basis-to-increase-foreign-investment)*
-- پاکستان میں سونے کی قیمتوں میں کوئی تبدیلی نہیں آئی اور فی تولہ قیمت 475,362 روپے رہی۔ *[Business Recorder](https://www.brecorder.com/news/40422411/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- اسٹیٹ بینک آف پاکستان نے عید الاضحیٰ کی مناسبت سے 26 سے 28 مئی تک تین روزہ تعطیلات کا اعلان کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/state-bank-of-pakistan-announces-three-day-eid-ul-adha-holiday-from-may-26/)*
-- بھارتی مرکزی بینک نے روپے کی قدر میں کمی کو روکنے کے لیے مارکیٹ میں ڈالر کی فروخت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422407/indias-central-bank-sold-net-98-billion-in-march-as-iran-war-battered-indian-rupee-bulletin-shows)*
+- حکومت نے پٹرول کی قیمت میں 6 روپے اور ہائی اسپیڈ ڈیزل میں 6.80 روپے فی لیٹر کمی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2002321/govt-reduces-petrol-by-rs6-per-litre-high-speed-diesel-by-rs68)*
+- پاکستان میں ہفتہ وار مہنگائی (SPI) میں 0.33 فیصد کمی ریکارڈ کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422476/weekly-spi-inflation-down-033pc)*
+- وزیراعظم شہباز شریف نے قطر کے تا میر گروپ کو پاکستان میں سرمایہ کاری بڑھانے کی دعوت دی۔ *[Business Recorder](https://www.brecorder.com/news/40422482/pm-tells-qatars-taameer-group-steps-taken-to-remove-barriers-to-business-under-sifc)*
+- پاکستان اور ایشیائی ترقیاتی بینک (ADB) نے ایم ایل ون (ML-1) ریلوے منصوبے کی بروقت تکمیل پر اتفاق کیا۔ *[Business Recorder](https://www.brecorder.com/news/40422489/swift-implementation-of-main-line-1-railway-project-pakistan-adb-agree-on-timely-completion-of-documentation)*
+- پاکستان چین کے درمیان ہونے والے آزادانہ تجارت کے معاہدے (CPFTA) کے تحت تقریباً 700 مصنوعات پر صفر ٹیرف کی سہولت کے لیے مذاکرات کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422483/700-product-lines-under-the-proposed-cpfta-islamabad-seeks-unilateral-tariff-relief-from-beijing)*
+- پاکستان میں مقامی موبائل فون کی اسمبلی میں اپریل کے دوران 35 فیصد کی بڑی کمی دیکھی گئی۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/22/local-mobile-phone-assembly-drops-35-in-april-as-demand-slows/)*
 
 ### سائنس اور ٹیکنالوجی
-- امریکی محکمہ دفاع نے یو ایف او (UFO) کے بارے میں پہلے سے خفیہ دستاویزات کا دوسرا حصہ منظرِ عام پر لا دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002290/us-releases-second-batch-of-government-declassified-ufo-files)*
+- ان ڈرائیو (inDrive) نے خواتین ٹیکنالوجی بانیوں کے لیے 'اورورا وینچرز' نامی سرمایہ کاری پروگرام کا آغاز کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422494/indrive-launches-aurora-ventures)*
+- آئی پی او (IPO) پاکستان اگلے چھ ماہ کے اندر اپنی تمام خدمات کو مکمل طور پر ڈیجیٹل کرنے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422495/ipo-pakistan-to-go-fully-digital-in-six-months)*
 
 ### موسم
-- بھارت میں شدید گرمی کی لہر کے باعث بجلی کی طلب ریکارڈ سطح پر پہنچ گئی ہے، جس سے ملک کے مختلف حصوں میں لوڈ شیڈنگ کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2002287/india-battles-power-cuts-as-heatwave-boosts-electricity-demand-to-record)*
-- این ڈی ایم اے (NDMA) نے کراچی اور پاکستان کے کئی علاقوں میں شدید بارشوں کا الرٹ جاری کر دیا ہے۔ *[ARY](https://arynews.tv/ndma-rain-alert-for-karachi-and-pakistan)*
+- بھارت کے بعض حصوں میں شدید گرمی کی لہر کے باعث بجلی کی طلب ریکارڈ سطح پر پہنچ گئی ہے اور لوڈ شیڈنگ کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2002287/india-battles-power-cuts-as-heatwave-boosts-electricity-demand-to-record)*
 
 ### سیاست
-- وزیراعظم شہباز شریف 23 سے 26 مئی تک سرکاری دورے پر چین کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2002224/fo-says-pm-shehbaz-to-visit-china-from-may-23-26)*
-- پاکستان نے کشمیری سیاسی قیدیوں کی فوری رہائی کا مطالبہ کیا اور سندھ طاس معاہدے کے تحت پانی کے حقوق کے تحفظ کا عزم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40422412/pakistan-urges-release-of-kashmiri-political-prisoners-vows-to-protect-water-rights)*
+- اپوزیشن لیڈر مہمود خان اچکزئی نے حکومت کو وارننگ دی ہے کہ اگر مطالبات پورے نہ ہوئے تو بجٹ سیشن کا مکمل بائیکاٹ کیا جائے گا۔ *[Dawn](https://www.dawn.com/news/2002438/meet-demands-or-face-budget-boycott-achakzai-tells-govt)*
+- وزیراعظم شہباز شریف نے انٹیلی جنس بیورو (IB) کے ڈائریکٹر جنرل فؤاد اسد اللہ خان کی مدت میں چار سال کی توسیع کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2002416/pm-grants-four-year-extension-to-intelligence-bureau-chief)*
+- بلال بھٹو زرداری نے کراچی میں 39 کلومیٹر طویل شاہراہِ بھٹو ایکسپریس وے کا افتتاح کیا۔ *[Dawn](https://www.dawn.com/news/2002279/ppp-chairman-bilawal-bhutto-inaugurates-39km-long-shahrah-i-bhutto-linking-qayyumabad-to-m9-motorway)*
 
 ### قومی
-- بلاول بھٹو زرداری نے کراچی میں 39 کلومیٹر طویل شاہراہِ بھٹو ایکسپریس وے کا افتتاح کیا۔ *[Dawn](https://www.dawn.com/news/2002279/ppp-chairman-bilawal-bhutto-inaugurates-39km-long-shahrah-i-bhutto-linking-qayyumabad-to-m9-motorway)*
-- پاکستان اور ترکی کی فضائی افواج کے درمیان دفاعی اور ایرو اسپیس ٹیکنالوجی میں تعاون بڑھانے پر اتفاق ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2002276/pakistan-turkiye-air-forces-reaffirm-growing-strategic-convergence-in-defence-sector-ispr)*
-- این سی سی آئی اے (NCCIA) نے سرکاری افسران کا حساس ڈیٹا غیر ملکی اداروں کو فروخت کرنے والے گروہ کے چار افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2002298/nccia-uncovers-gang-selling-data-of-govt-officials-to-foreign-entities-four-arrested)*
-- اسلام آباد ہائی کورٹ نے وفاقی دارالحکومت میں آوارہ کتوں کے قتل پر پابندی عائد کرتے ہوئے انسانی ہمدردی پر مبنی طریقے اپنانے کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002223/ihc-bans-killing-of-stray-dogs-orders-authorities-to-implement-humane-methods-of-population-control)*
+- سندھ حکومت نے وفاق کے برعکس عید الاضحیٰ کی چار چھٹیاں دینے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002350/unlike-centre-sindh-announces-four-eid-holidays)*
+- این سی سی آئی اے (NCCIA) نے سرکاری افسران کا حساس ڈیٹا غیر ملکی اداروں کو بیچنے والے گروہ کے چار ارکان کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2002298/nccia-uncovers-gang-selling-data-of-govt-officials-to-foreign-entities-four-arrested)*
+- پاکستان اور ترکیہ کی فضائی افواج کے درمیان دفاعی اور خلائی ٹیکنالوجی میں تعاون بڑھانے پر اتفاق ہوا۔ *[Dawn](https://www.dawn.com/news/2002276/pakistan-turkiye-air-forces-reaffirm-growing-strategic-convergence-in-defence-sector-ispr)*
 
 ### بین الاقوامی
-- چیف آف ڈیفنس فورسز جنرل عاصم منیر علاقائی امن اور امریکہ-ایران مذاکرات کے حوالے سے تبادلہ خیال کرنے کے لیے ایران کے سرکاری دورے پر روانہ ہوئے۔ *[Dawn](https://www.dawn.com/news/2002286/cdf-asim-munir-leaves-for-official-visit-to-iran-security-sources)*
-- یورپی یونین نے بحیرہ ہرمز کے بند ہونے کے معاملے پر ایرانی حکام کے خلاف پابندیاں لگانے کی تیاری شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422416/eu-moves-to-sanction-iran-over-hormuz-blockade)*
-- غزہ کے لیے امداد لے کر جانے والے انسانی ہمدردی کے کارکنوں نے اسرائیلی حراست میں بدسلوکی کے واقعات بیان کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2002259/most-relentlessly-cruel-gaza-flotilla-activists-tell-harrowing-accounts-of-abuse-in-israeli-custody)*
-
-### کھیل
-- پیپ گارڈیو لا اس سیزن کے اختتام پر مانچسٹر سٹی سے علیحدگی اختیار کر لیں گے۔ *[Dawn](https://www.dawn.com/news/2002256/pep-guardiola-to-end-decade-long-manchester-city-reign-at-end-of-season)*
-- پاکستان کرکٹ بورڈ نے آسٹریلیا کے خلاف ون ڈے سیریز کے لیے 16 رکنی ٹیم کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002210/babar-naseem-recalled-as-pcb-announces-16-member-squad-for-australia-odis)*
+- ایران اور امریکہ کے درمیان تناؤ کم کرنے کے لیے پاکستان اور قطر ثالثی کی کوششیں کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2002441/big-guns-descend-on-tehran-as-talks-enter-decisive-phase)*
+- ایران کے اسٹریٹ آف ہرمز پر کنٹرول کے دعوے کی وجہ سے ہزاروں ملاح اور جہاز پھنسے ہوئے ہیں۔ *[Dawn](https://www.dawn.com/news/2002422/hormuz-closure-piles-misery-on-stranded-sailors)*
+- امریکی محکمہ شہریت اور امیگریشن (USCIS) نے گرین کارڈ کے حصول کے لیے نئی سخت پالیسی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002398/green-card-seekers-must-leave-us-first)*
+- امریکی صدر ڈونلڈ ٹرمپ کی اعلیٰ انٹیلی جنس افسر تالسی گیبارڈ نے استعفیٰ دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002318/tulsi-gabbard-resigns-as-trumps-top-us-intelligence-official)*
 
 ### صحت
-- عالمی ادارہ صحت نے جمہوری جمہوریہ کانگو میں ایبولا کے خطرے کو انتہائی بلند سطح پر قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002301/ebola-risk-now-at-highest-level-in-dr-congo-says-who)*
+- معروف ماہر امراضِ چشمگیر ڈاکٹر نسیم صلاح الدین انتقال کر گئیں۔ *[Dawn](https://www.dawn.com/news/2002313/renowned-infectious-diseases-expert-dr-naseem-salahuddin-passes-away)*
+- عالمی ادارہ صحت کے مطابق جمہوریہ کانگو میں ایبولا کے پھیلاؤ کا خطرہ انتہائی بلند ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2002301/ebola-risk-now-at-highest-level-in-dr-congo-says-who)*
+
+### دیگر
+- پاکستان میں موسمیاتی تبدیلیوں کے عالمی اثرات اور موسمیاتی انصاف (Climate Justice) کی ضرورت پر بحث کی گئی۔ *[Dawn](https://www.dawn.com/news/2002455/climate-justice-at-home)*
 
