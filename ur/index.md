@@ -7,58 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 24-May-2026 09:11PKT 
+ &lrm; 24-May-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- تاجروں کی تنظیم نے آنے والے وفاقی بجٹ سے قبل ٹرن اوور ٹیکس کو 0.5 فیصد تک کم کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002563/traders-coalition-demands-turnover-tax-be-reduced-to-05pc)*
-- اوبر (Uber) نے ڈیلیوری ہیرو کے حصول کی پیشکش کی تصدیق کر دی ہے۔ *[ARY](https://arynews.tv/delivery-hero-confirms-takeover-offer-from-uber)*
-- آئی ایم ایف (IMF) نے یورپی یونین کو مشورہ دیا ہے کہ وہ دفاع اور توانائی کے اخراجات کے لیے اصلاحات اور مشترکہ قرضوں کا استعمال کرے۔ *[Business Recorder](https://www.brecorder.com/news/40422574/eu-must-reform-consolidate-use-joint-debt-to-cope-with-spending-needs-imf-says)*
-- پاکستان میں کپاس کی پیداوار میں 40 سال کی کم ترین سطح پر آنے کے باعث درآمدی بل 1 ارب ڈالر سے تجاوز کر سکتا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistans-cotton-import-bill-may-exceed-1-billion-as-output-falls-to-40-year-low/)*
-- پیٹرول پمپ مالکان نے ہفتہ وار پیٹرولیم قیمتوں کے طریقہ کار کو ختم کرنے کا مطالبہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/fuel-dealers-ask-govt-to-scrap-weekly-price-mechanism/)*
-- حکومت غیر ملکی کرنسی کے داخلے کی حدود میں نرمی کرنے کی تجویز پر غور کر رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/govt-reviews-proposal-to-relax-foreign-currency-inflow-limits/)*
-- ایل این جی (LNG) ٹرمینل کے کیپیسٹی ادائیگیوں پر مذاکرات کے بعد پاکستان کو ریلیف مل گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistan-secures-relief-on-lng-terminal-capacity-payments-after-negotiations-with-private-operators/)*
-- ریٹیلرز نے عید کے بعد مارکیٹوں کے بند ہونے کے وقت کو مستقل طور پر رات 10 بجے کرنے کا مطالبہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/retailers-seek-permanent-10-pm-closing-time-after-eid-relaxation/)*
-- جہازوں کی ری سائیکلنگ کے لیے نیا قانون منظور کر لیا گیا ہے تاکہ گڈانی کی صنعت کو فروغ مل سکے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/pakistan-passes-ship-recycling-law-to-implement-hong-kong-convention-boost-gadani-industry/)*
-- لاہور میں عید کے موقع پر مویشیوں کی قیمتوں میں شدید اضافے نے خریداروں کو مایوس کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40422589/eid-buyers-hit-by-soaring-cattle-prices-in-lahore)*
+- پاکستان اور چین کے درمیان سالن نمک کی کان کنی، پروسیسنگ اور عالمی برآمدات کو بڑھانے کے لیے ایک طویل مدتی تزویراتی تعاون کا معاہدہ طے پا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40422614/sifc-backed-pak-china-agreement-aims-to-boost-rock-salt-exports)* / *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/pakistan-china-sign-strategic-pact-to-expand-rock-salt-mining-and-global-exports/)*
+- عید الاضحیٰ کے پیش نظر ریفریجریٹر اور ڈیپ فریزر جیسے کولنگ آلات کی طلب میں 25 سے 30 فیصد اضافہ دیکھا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2002664/cooling-appliances-demand-surges-ahead-of-eidul-azha)*
+- حکومت نے کیروسین، لائٹ ڈیزل اور جیٹ فیول کی قیمتوں میں اضافہ کر دیا ہے، جس میں ایوی ایشن فیول کی قیمت میں سب سے زیادہ اضافہ ہوا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/kerosene-light-diesel-prices-increased-in-latest-fuel-revision/)*
+- بنگلہ دیش نے عالمی سپلائی میں رکاوٹوں کے باعث تیل اور گیس کے ذخائر کی تلاش کے لیے بین الاقوامی کمپنیوں سے بولیوں کی دعوت دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422616/bangladesh-invites-bids-for-oil-and-gas-exploration)*
+- نسان کی ذیلی کمپنی JATCO نے یورپ میں الیکٹرک گاڑیوں کی کم طلب کے باعث برطانیہ میں EV پاور ٹرین بنانے کا منصوبہ منسوخ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422605/nissan-unit-scraps-plan-to-make-ev-powertrains-in-uk-nikkei-says)*
+- محکمہ کسٹم نے بین الاقوامی مارکیٹ کی صورتحال کے مطابق سیرامک اور پورسلین کے درآمدی محصولات کی قدروں پر نظرثانی کا عمل شروع کر دیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/customs-moves-to-update-import-valuation-for-ceramic-sanitary-ware/)*
+- لاہور کے مویشی منڈیوں میں بڑھتی ہوئی قیمتوں اور شدید گرمی کی وجہ سے عید الاضحیٰ کی خریداری کا جوش کم ہو رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/eid-buying-frenzy-fizzles-in-lahore-cattle-markets-as-prices-hit-record-highs/)*
+- نائب وزیراعظم اسحاق ڈار نے کہا ہے کہ پاکستان کاروبار کے لیے کھلا ہے اور چین کے دورے کے دوران معاشی اصلاحات اور سرمایہ کاری پر توجہ دی جا رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/dar-declares-pakistan-open-for-business-as-islamabad-deepens-economic-push-with-china/)*
+- پیٹرول پمپ مالکان نے حکومت سے پیٹرولیم کی قیمتوں کے ہفتہ وار طریقہ کار کو ختم کرنے کا مطالبہ کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/fuel-dealers-ask-govt-to-scrap-weekly-price-mechanism/)*
 
 ### سائنس اور ٹیکنالوجی
-- این ویڈیا (Nvidia) کا خدشہ ہے کہ اس کی 200 بلین ڈالر کی سی پی یو مارکیٹ میں چین کا حصہ شامل ہوگا۔ *[ARY](https://arynews.tv/nvidia-says-its-forecast-for-200-billion-cpu-market-includes-china)*
-- مائن کرافٹ (Minecraft) کی مشہور 'ایتھر' ڈائمنشن 14 جولائی کو لانچ کی جائے گی۔ *[ARY](https://arynews.tv/minecrafts-legendary-aether-dimension-comes-to-bedrock-as-aether-legends-launching-july-14)*
+- پی ٹی اے نے صارفین کو سم کارڈز کو ضائع کرنے یا منتقل کرنے سے روکنے کے لیے ایک نیا اقدام اٹھایا ہے۔ *[ARY](https://arynews.tv/pta-takes-initiative-to-discourage-users-from-discarding-or-transferring-sim-cards)*
+
+### موسم
+- جنوبی بھارت میں شدید گرمی کی لہر کے باعث اب تک 16 افراد ہیٹ اسٹروک کا شکار ہو کر جاں بحق ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2002757/heatstroke-kills-16-in-southern-india-as-temperatures-climb)*
 
 ### سیاست
-- وزیر اعظم شہباز شریف کا چار روزہ سرکاری دورہ چین کا آغاز ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2002474/pm-shehbaz-lands-in-hangzhou-kicking-off-4-day-china-visit)*
-- پی ٹی آئی (PTI) نے ملک گیر مظاہروں پر حکومتی کریک ڈاؤن کی سخت مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2002660/pti-denounces-crackdown-on-nationwide-protest)*
-- پاکستان نے اقوام متحدہ میں یوکرین جنگ کے خاتمے کے لیے فوری جنگ بندی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002643/civilians-must-not-be-attacked-anywhere-pakistan-tells-unsc)*
-- پنجاب میں زرعی ٹیکس میں اضافے کے خلاف قانونی چیلنج دائر کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422591/jap-approaches-lhc-against-increase-in-agricultural-tax-in-punjab)*
+- وزیر اعظم شہباز شریف کی چین کا دورہ جاری ہے جس میں وہ چینی قیادت اور کارپوریٹ لیڈروں کے ساتھ اہم ملاقاتیں کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership)*
+- پاکستان نے اقوام متحدہ میں یوکرین جنگ کے خاتمے کے لیے فوری جنگ بندی اور سفارتی کوششوں پر زور دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002643/civilians-must-not-be-attacked-anywhere-pakistan-tells-unsc)*
+- پنجاب حکومت کے زرعی ٹیکس میں اضافے کے فیصلے کو لاہور ہائی کورٹ میں قانونی چیلنج دیا گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/punjab-agri-tax-hike-challenged-in-lhc-over-alleged-violation-of-law-and-assembly-role/)*
+- وزیر اعظم شہباز شریف نے امید ظاہر کی ہے کہ پاکستان جلد ہی امریکہ اور ایران کے درمیان مذاکرات کی میزبانی کر سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422611/pakistan-hopes-to-host-next-round-of-us-iran-talks-soon-pm-shehbaz)*
 
 ### قومی
-- بنوں میں پولیس اور دہشت گردوں کے درمیان جھڑپ میں 25 دہشت گرد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2002648/25-terrorists-killed-in-bannu-clash)*
-- سپریم کورٹ نے متعدد قتل کے مقدمات میں مسلسل عمر قید کی سزا کو برقرار رکھا ہے۔ *[Dawn](https://www.dawn.com/news/2002649/sc-upholds-consecutive-life-terms-in-multiple-murder-cases)*
-- پنجاب سی ٹی ڈی نے صوبہ بھر میں آپریشن کے دوران 13 مشتبہ دہشت گرد گرفتار کر لیے ہیں۔ *[Dawn](https://www.dawn.com/news/2002529/punjab-ctd-arrests-13-suspected-terrorists-in-province-wide-crackdown)*
-- ایف آئی اے نے جعلی پاکستانی شناختی کارڈ بنانے کے الزام میں 14 افغان شہریوں کو گرفتار کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422585/fia-arrests-14-afghans-for-making-fake-pak-cnics)*
-- منگلا ڈیم کے متاثرین کو معاوضہ دینے میں تاخیر سے احتجاج کا خطرہ پیدا ہو گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/defence-ministry-warns-delays-in-mangla-dam-compensation-could-trigger-protests/)*
-- مختلف صوبوں میں عید کے موقع پر چھٹیوں کا اعلان کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2002519/kp-announces-four-eid-holidays-from-may-26-to-29)*
+- کوئٹہ میں شٹل ٹرین کو نشانہ بنانے والے خودکش دھماکے میں کم از کم 14 سے 16 افراد ہلاک اور متعدد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2002744/at-least-14-killed-20-injured-in-suicide-bombing-targeting-shuttle-train-in-quetta-balochistan-govt)* / *[Business Recorder](https://www.brecorder.com/news/40422612/suicide-blast-derails-train-in-quetta-kills-16)*
+- سیکورٹی فورسز نے شمالی وزیرستان اور بلوچستان کے مختلف علاقوں میں آپریشنز کے دوران متعدد دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2002766/security-forces-kill-11-terrorists-in-kps-north-waziristan-ispr)* / *[ARY](https://arynews.tv/11-terrorists-eliminated-in-north-waziristan-intelligence-operation-ispr)*
+- سندھ حکومت نے عید الاضحیٰ کے موقع پر 26 سے 28 مئی تک تین روزہ تعطیلات کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002761/sindh-govt-now-declares-3-day-eidul-azha-holiday-announces-wfh-on-may-29)*
+- فیصل آباد کے ایک ٹک ٹاکر کو نارن میں خواتین کے لیے نازیبا زبان استعمال کرنے کے الزام میں گرفتار کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2002608/tiktoker-held-in-faisalabad-for-using-obscene-language-for-female-tourists-in-naran)*
+- کراچی میں ساحل کے قریب ایک جدید ڈیجیٹل میوزیم کی تعمیر کا آغاز کر دیا گیا ہے جو سندھ اور تحریک آزادی کی تاریخ کو محفوظ کرے گا۔ *[Dawn](https://www.dawn.com/news/2002626/karachi-museum-of-history-to-be-built-by-the-seaside)*
+- گوادر یونیورسٹی کے وائس چانسلر اور عملے کو 11 دن بعد بحفاظت برآمد کر لیا گیا ہے۔ *[ARY](https://arynews.tv/kidnapped-vc-gwadar-university-recovered-along-with-other-staff-after-11-days)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے درمیان امن معاہدے کے حوالے سے اہم پیش رفت کے آثار مل رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2002652/us-iran-deal-in-sight-as-cdf-wraps-up-trip)*
-- فرانس نے اسرائیلی وزیر سلامتی ایتامر بن گویر کے ملک میں داخلے پر پابندی لگا دی ہے۔ *[Dawn](https://www.dawn.com/news/2002539/france-bans-israeli-security-minister-ben-gvir-from-country)*
-- چین کی ایک کوئلے کی کان میں دھماکے کے نتیجے میں کم از کم 82 سے 90 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2002487/china-coal-mine-blast-kills-at-least-90-more-missing)*
-- مشرق وسطیٰ کی جنگ کے باوجود حج کے لیے سال گزشتہ سال کے مقابلے میں زیادہ حاجی سعودی عرب پہنچ چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2002531/haj-pilgrim-numbers-surpass-2025-arrivals-despite-middle-east-war)*
-- امریکی وزیر خارجہ مارکو روبیو نے بھارتی وزیر اعظم نریندر مودی کو واشنگٹن آنے کی دعوت دی ہے۔ *[Dawn](https://www.dawn.com/news/2002483/rubio-meets-modi-renewing-ties-with-india-after-us-china-summit)*
-- بحیرہ روم میں امدادی قافلے کے دوران حراست میں لیے گئے انسانی ہمدردی کے کارکن سعد ادھی کراچی پہنچ گئے۔ *[Dawn](https://www.dawn.com/news/2002537/saad-edhi-arrives-in-karachi-after-release-from-illegal-israeli-detention)*
-- امریکی فوجی مہم کے دوران امریکہ کے 42 طیارے نقصان کا شکار ہوئے ہیں۔ *[Dawn](https://www.dawn.com/news/2002532/congressional-report-details-losses-of-42-us-aircraft-in-iran-campaign)*
+- امریکہ اور ایران کے درمیان ممکنہ امن معاہدے کے حوالے سے مذاکرات میں پیش رفت ہوئی ہے، تاہم ڈونلڈ ٹرمپ نے کہا ہے کہ وہ معاہدے میں جلد بازی نہیں کریں گے۔ *[Dawn](https://www.dawn.com/news/2002774/what-we-know-about-the-possible-us-iran-deal)* / *[Business Recorder](https://www.brecorder.com/news/40422621/trump-says-us-will-not-rush-into-a-deal-with-iran)*
+- پاکستان سمیت 13 ممالک نے مقبوضہ یروشلم میں سومال لینڈ کے مبینہ سفارت خانے کے کھلنے کی سخت مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2002763/illegal-unacceptable-pakistan-13-other-nations-condemn-somalilands-announcement-of-opening-embassy-in-jerusalem)*
+- وائٹ ہاؤس کے قریب فائرنگ کے واقعے کے دوران امریکی سیکرٹ سروس نے حملہ آور کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house)*
+- غزہ میں اسرائیلی فضائی حملے میں ایک خاندان کے تین افراد بشمول ایک چھ ماہ کا بچہ ہلاک ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40422613/israeli-fire-kills-parents-and-their-infant-in-gaza-medics-say)*
+- ایران نے جنگ کے دوران امریکہ اور اسرائیل کو معلومات فراہم کرنے کے الزام میں ایک شخص کو پھانسی دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40422604/iran-executes-person-for-sending-information-to-us-israel-during-war-judiciary-says)*
 
 ### کھیل
-- مراکش کے بادشاہ نے سینگال کے فٹ بال فینز کو ہولی گانلی کے الزامات سے رہا کر دیا۔ *[ARY](https://arynews.tv/moroccos-king-pardons-senegal-fans-convicted-on-hooliganism-charges)*
-
-### صحت
-- ایبولہ کے پھیلاؤ کے پیش نظر پاکستان نے ایئرپورٹس پر اسکریننگ کے اقدامات سخت کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2002647/govt-toughens-airport-screening-amid-ebola-outbreak)*
-- بنگلہ دیش میں خسرہ کے پھیلاؤ سے 500 سے زائد بچوں کی موت واقع ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422577/measles-outbreak-kills-more-than-500-children-in-bangladesh)*
-- عالمی ادارہ صحت نے سگریٹ پر فیڈرل ایکسائز ڈیوٹی میں اضافے کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422590/fed-on-cigarettes-who-suggests-upward-adjustment)*
+- ایشیائی جونیئر اسکواش چیمپئن شپ میں پاکستانی کھلاڑیوں نے پانچ تمغے حاصل کیے۔ *[Business Recorder](https://www.brecorder.com/news/40422618/pakistan-wins-five-medals-in-asian-junior-squash-championships)*
+- پی پی ایل (IPL) میں پنجاب کنگز کے کپتان شریاش ائیئر نے شاندار سنچری بنا کر ٹیم کو اہم جیت دلائی۔ *[Business Recorder](https://www.brecorder.com/news/40422603/punjabs-haddin-delighted-as-captain-iyer-makes-the-difference-in-key-win-over-lucknow)*
+- بائرن میونخ نے ہری کین کی ہیٹ ٹرک کی بدولت جرمن کپ جیت کر ڈبل کامیابی حاصل کر لی۔ *[Business Recorder](https://www.brecorder.com/news/40422602/kane-hat-trick-hands-bayern-german-cup-victory-and-domestic-double)*
 
 ### دیگر
-- گلوکارہ ٹیلر سویفٹ اور ٹریوس کیلس نیویارک میں دیکھے گئے۔ *[ARY](https://arynews.tv/taylor-swift-and-travis-kelce-step-out-for-chic-nyc-date-night-days-before-2026-amas)*
-- اداکار ब्रैڈ پٹ نے اپنی طلاق کے حوالے سے اظہار خیال کیا ہے۔ *[ARY](https://arynews.tv/brad-pitt-calls-finalized-divorce-from-angelina-jolie-not-that-major-says-hes-focused-on-moving-forward)*
+- رومانیہ کے ڈائریکٹر کرسٹین منگیو نے کین فلم فیسٹیول میں 'فیورڈ' (Fjord) کے لیے ٹاپ پرائز جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40422609/fjord-by-romanias-cristian-mungiu-wins-cannes-top-prize)*
 
