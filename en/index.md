@@ -4,60 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-May-2026 21:05PKT
+Published at: 25-May-2026 09:04PKT
 
-Time to read: 5 mins
+Time to read: 4 mins
 
 ### Economy
-- Demand for cooling appliances like refrigerators and deep freezers has surged ahead of Eidul Azha. *[Dawn](https://www.dawn.com/news/2002664/cooling-appliances-demand-surges-ahead-of-eidul-azha)*
-- Pakistan and China have signed a strategic cooperation agreement to expand the mining, processing, and global export of Pakistan’s rock salt reserves. *[Business Recorder](https://www.brecorder.com/news/40422614/sifc-backed-pak-china-agreement-aims-to-boost-rock-salt-exports)*
-- Bangladesh has invited international bids for oil and gas exploration to address a growing fuel crisis. *[Business Recorder](https://www.brecorder.com/news/40422616/bangladesh-invites-bids-for-oil-and-gas-exploration)*
-- The government has increased the prices of kerosene oil, light diesel, and aviation fuel. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/kerosene-light-diesel-prices-increased-in-latest-fuel-revision/)*
-- Petrol pump owners in Pakistan have urged the government to scrap the weekly petroleum pricing mechanism to ensure financial stability. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/fuel-dealers-ask-govt-to-scrap-weekly-price-mechanism/)*
-- Nissan's subsidiary JATCO has scrapped plans to manufacture electric vehicle powertrains in the UK due to sluggish demand. *[Business Recorder](https://www.brecorder.com/news/40422605/nissan-unit-scraps-plan-to-make-ev-powertrains-in-uk-nikkei-says)*
-- Cattle markets in Lahore report weakened buying activity due to record-high prices and intense heat. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/eid-buying-frenzy-fizzles-in-lahore-cattle-markets-as-prices-hit-record-highs/)*
-- Customs authorities have initiated a revision of import valuation benchmarks for ceramic and porcelain sanitary wares. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/customs-moves-to-update-import-valuation-for-ceramic-sanitary-ware/)*
-- Initial sales for Lucky Motors' new Aion UT hatchback have been slower than expected despite aggressive pricing. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/23/lucky-motors-rs-6-39m-aion-ut-was-supposed-to-sell-fast-here-is-why-it-isnt/)*
+- Pakistan is seeing unprecedented cotton imports from the US and Brazil due to a shortage in local stocks. *[Dawn](https://www.dawn.com/news/2002839/pakistan-importing-cotton-from-us-brazil-even-before-local-ginning-season)*
+- Global markets respond to Middle East peace prospects: stocks rise while oil and the US dollar slip. *[Business Recorder](https://www.brecorder.com/news/40422715/stocks-rise-sharply-oil-and-dollar-slip-on-middle-east-peace-hopes)*
+- Gold prices have risen as investors weigh the impact of a potential US-Iran peace deal. *[Business Recorder](https://www.brecorder.com/news/40422710/gold-rises-on-weaker-dollar-as-investor-weigh-us-iran-peace-deal-prospects)*
+- Gwadar Port reached a major milestone by successfully handling a 53,000MT deep-draft cargo vessel. *[Business Recorder](https://www.brecorder.com/news/40422682/gwadar-port-achieves-major-milestone-with-handling-of-53000mt-vessel)*
+- Corporate growth: Honda Atlas Cars reported a 57% increase in annual sales, and Pakistan Oxygen's profits more than doubled. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/hondas-car-sales-up-57-in-pakistan-in-2026/)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/pakistan-oxygens-profits-more-than-double-as-new-plant-starts-to-breathe/)*
+- Digital payments are set to expand as Karandaaz and Tapsys partner to onboard 10,000 merchants. *[Business Recorder](https://www.brecorder.com/news/40422683/10000-merchants-karandaaz-tapsys-partner-to-expand-digital-payments)*
+- The government plans to liberalize the regulatory framework for importing genetically modified organisms (GMOs). *[Business Recorder](https://www.brecorder.com/news/40422679/gmos-imports-govt-to-liberalise-regulatory-framework)*
+- NEPRA has approved a Rs 2.818 billion investment plan for the Hazara Electric Supply Company (HAZECO) for FY26. *[Business Recorder](https://www.brecorder.com/news/40422689/nepra-approves-rs2818bn-dip-for-hazeco-for-fy26)*
+- Economic trends: Rising demand for larger animals and online qurbani options ahead of Eid; the impact of UAE flight cuts on Pakistani stores; and the need for better banking recovery systems. *[Dawn](https://www.dawn.com/news/2002874/eid-data-under-lock-and-key)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/how-the-uae-flight-cut-off-will-show-up-on-pakistani-store-shelves/)* *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/do-lenders-get-the-short-end-of-the-stick-in-pakistan/)*
+
+### Science & Technology
+- China launched its Shenzhou-23 mission, a three-crew space flight aimed at sending humans to the Moon by 2030. *[Dawn](https://www.dawn.com/news/2002786/china-launches-three-crew-space-flight-as-part-of-moon-ambitions)*
+- Huawei has proposed a new direction for chip development to navigate ongoing US sanctions. *[ARY](https://arynews.tv/huawei-proposes-new-path-for-chip-development-us-sanctions)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif is conducting a four-day official visit to China to hold high-level meetings with Chinese leadership. *[Dawn](https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership)*
-- PM Shehbaz has invited Chinese companies to invest in Pakistan’s agriculture, IT, and mining sectors. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/shehbaz-invites-chinese-firms-to-invest-in-pakistans-farms-sezs-and-mining-sector/)*
-- Deputy Prime Minister Ishaq Dar declared Pakistan "open for business" during investment conferences in Hangzhou. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/dar-declares-pakistan-open-for-business-as-islamabad-deepens-economic-push-with-china/)*
-- Prime Minister Shehbaz expressed hope that Pakistan could host the next round of US-Iran negotiations. *[Business Recorder](https://www.brecorder.com/news/40422611/pakistan-hopes-to-host-next-round-of-us-iran-talks-soon-pm-shehbaz)*
-- PM Shehbaz hailed US President Donald Trump's efforts to pursue peace during recent diplomatic communications. *[Dawn](https://www.dawn.com/news/2002720/pm-shehbaz-hails-trumps-extraordinary-efforts-to-pursue-peace-after-phone-call-with-cdf-leaders-of-other-countries)*
+- The PTI has criticized the government's upcoming budget, alleging a lack of reforms and excessive IMF dependency. *[Dawn](https://www.dawn.com/news/2002894/pti-slams-govts-fifth-budget-sans-reforms)*
+- Discussions are underway regarding a potential proposal to raise the minimum voting age to 25. *[Dawn](https://www.dawn.com/news/2002912/stealing-the-future)*
+- Journalists have organized to reject new laws that they claim unreasonably limit freedom of speech. *[Dawn](https://www.dawn.com/news/2002906/in-chains)*
+- President Asif Ali Zardari condemned the recent terrorist attack in Quetta. *[Business Recorder](https://www.brecorder.com/news/40422685/president-condemns-quetta-terrorist-attack)*
+- PTI leaders met with the Interior Minister to discuss the rising terrorism in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2002796/pti-confirms-barrister-gohar-sohail-afridis-meeting-with-naqvi-says-discussion-focused-on-terrorism-in-kp)*
 
 ### National
-- A suicide bombing targeting a shuttle train in Quetta killed at least 14 people and injured 20 others. *[Dawn](https://www.dawn.com/news/2002744/at-least-14-killed-20-injured-in-suicide-bombing-targeting-shuttle-train-in-quetta-balochistan-govt)*
-- Security forces killed multiple terrorists during intelligence-based operations in North Waziristan and Bannu. *[Dawn](https://www.dawn.com/news/2002766/security-forces-kill-11-terrorists-in-kps-north-waziristan-ispr)*
-- The Sindh government has announced a three-day public holiday for Eidul Azha from May 26 to 28. *[Dawn](https://www.dawn.com/news/2002761/sindh-govt-now-declares-3-day-eidul-azha-holiday-announces-wfh-on-may-29)*
-- A new, digitally interactive Karachi Museum of History is being constructed at Clifton’s Beach View Park. *[Dawn](https://www.dawn.com/news/2002626/karachi-museum-of-history-to-be-built-by-the-seaside)*
-- The Lahore High Court is hearing a petition challenging the Punjab government's increase in agricultural income tax. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/24/punjab-agri-tax-hike-challenged-in-lhc-over-alleged-violation-of-law-and-assembly-role/)*
-- The kidnapped Vice Chancellor of Gwadar University and his staff have been recovered after 11 days. *[ARY](https://arynews.tv/kidnapped-vc-gwadar-university-recovered-along-with-other-staff-after-11-days)*
-- A TikToker was arrested in Faisalabad for using obscene language directed at female tourists in Naran. *[Dawn](https://www.dawn.com/news/2002608/tiktoker-held-in-faisalabad-for-using-obscene-language-for-female-tourists-in-naran)*
-- Security forces in Quetta's outskirts conducted operations resulting in the death of 13 terrorists and 4 CTD personnel. *[Dawn](https://www.dawn.com/news/2002658/four-ctd-men-martyred-in-operation-near-quetta)*
+- The government plans to establish a dedicated "Wapda Security Force" to protect water infrastructure and workers, particularly Chinese nationals. *[Dawn](https://www.dawn.com/news/2002882/govt-plans-wapda-security-force-for-water-projects)*
+- A deadly suicide bombing targeting a shuttle train in Quetta has killed at least 24 people and injured 70. *[Business Recorder](https://www.brecorder.com/news/40422709/at-least-24-martyred-in-quetta-train-blast)*
+- Security forces successfully engaged terrorists in North Waziristan, killing 11. *[Dawn](https://www.dawn.com/news/2002766/security-forces-kill-11-terrorists-in-kps-north-waziristan-ispr)*
+- The Vice Chancellor and Pro-Vice Chancellor of the University of Gwadar have returned home after being missing for 10 days. *[Dawn](https://www.dawn.com/news/2002789/gwadar-university-vc-pro-vice-chancellor-return-home-10-days-after-they-were-reported-missing)*
+- Chief Minister Murad Ali Shah has ordered increased manpower and oversight for Karachi's BRT Red Line project. *[Dawn](https://www.dawn.com/news/2002849/murad-asks-contractors-to-increase-manpower-for-timely-completion-of-karachis-red-line-project)*
 
 ### International
-- Negotiations for a potential US-Iran deal are underway, with President Trump stating the US will not rush into an agreement. *[Business Recorder](https://www.brecorder.com/news/40422621/trump-says-us-will-not-rush-into-a-deal-with-iran)*
-- Pakistan and 13 other nations condemned Somaliland's announcement of opening an embassy in Jerusalem. *[Dawn](https://www.dawn.com/news/2002763/illegal-unacceptable-pakistan-13-other-nations-condemn-somalilands-announcement-of-opening-embassy-in-jerusalem)*
-- An Israeli airstrike in a Gaza refugee camp killed three people, including an infant. *[Business Recorder](https://www.brecorder.com/news/40422613/israeli-fire-kills-parents-and-their-infant-in-gaza-medics-say)*
-- A gunman was killed by US Secret Service after opening fire near the White House. *[Dawn](https://www.dawn.com/news/2002729/gunman-killed-by-us-secret-service-after-opening-fire-near-white-house)*
-- India expressed concern over US visa policies while maintaining strategic alignment with US Secretary of State Marco Rubio. *[Dawn](https://www.dawn.com/news/2002768/india-voices-concern-on-us-visas-but-sees-alignment-with-rubio)*
-- Pakistan called for an immediate ceasefire and diplomatic efforts to end the war in Ukraine at the UN Security Council. *[Dawn](https://www.dawn.com/news/2002643/civilians-must-not-be-attacked-anywhere-pakistan-tells-unsc)*
-- The US Justice Department has removed hundreds of press releases regarding criminal charges from the Jan 6 Capitol rioters. *[Dawn](https://www.dawn.com/news/2002645/records-of-charges-against-us-capitol-rioters-removed)*
-- Two people were reported alive and communicating with rescuers following a building collapse in the Philippines. *[Business Recorder](https://www.brecorder.com/news/40422610/two-trapped-people-alive-after-philippines-building-collapse-rescue-continues)*
-- Iran executed an individual for allegedly sending defense-related information to the US and Israel. *[Business Recorder](https://www.brecorder.com/news/40422604/iran-executes-person-for-sending-information-to-us-israel-during-war-judiciary-says)*
-
-### Sports
-- Pakistan won five medals at the 33rd Asian Junior Individual Squash Championships. *[Business Recorder](https://www.brecorder.com/news/40422618/pakistan-wins-five-medals-in-asian-junior-squash-championships)*
-- Harry Kane scored a hat-trick to lead Bayern Munich to a German Cup victory and a domestic double. *[Business Recorder](https://www.brecorder.com/news/40422602/kane-hat-trick-hands-bayern-german-cup-victory-and-domestic-double)*
-- Shreyas Iyer's maiden IPL century helped Punjab Kings secure a victory over Lucknow Super Giants. *[Business Recorder](https://www.brecorder.com/news/40422603/punjabs-haddin-delighted-as-captain-iyer-makes-the-difference-in-key-win-over-lucknow)*
-- Pep Guardiola stated that his successor at Manchester City should not be a "copy and paste" of himself. *[Business Recorder](https://www.brecorder.com/news/40422608/guardiola-says-man-city-successor-cannot-be-copy-and-paste)*
-- Iran's football federation has moved the national team's World Cup training camp to Tijuana, Mexico. *[Business Recorder](https://www.brecorder.com/news/40422607/iran-to-base-world-cup-camp-in-mexico-after-switch-from-arizona)*
-
-### Health
-- At least 16 people have died from heatstroke in southern India as intense heatwaves grip the region. *[Dawn](https://www.dawn.com/news/2002757/heatstroke-kills-16-in-southern-india-as-temperatures-climb)*
+- US-Iran peace negotiations are progressing, with hopes for a deal to end the conflict, though specific clauses remain disputed. *[Dawn](https://www.dawn.com/news/2002888/final-paperwork-eludes-iran-us)* *[Business Recorder](https://www.brecorder.com/news/40422686/iran-and-us-closing-in-on-deal-to-end-war)*
+- Prime Minister Shehbaz Sharif has expressed interest in hosting the next round of US-Iran peace talks in Islamabad. *[Dawn](https://www.dawn.com/news/2002887/pm-hopes-to-host-islamabad-talks-20-very-soon)*
+- PM Shehbaz Sharif arrived in Beijing for high-level meetings with Chinese leadership. *[Dawn](https://www.dawn.com/news/2002753/pm-shehbaz-lands-in-beijing-will-hold-high-level-meetings-with-chinese-leadership)*
+- Pakistan and seven other nations condemned the treatment of Gaza aid flotilla activists by an Israeli minister. *[Dawn](https://www.dawn.com/news/2002805/pakistan-7-other-nations-condemn-israeli-ministers-appalling-actions-against-gaza-flotilla-activists)*
+- Russia launched a heavy bombardment on Kyiv, including the use of Oreshnik hypersonic missiles. *[Business Recorder](https://www.brecorder.com/news/40422680/russia-hits-ukraine-with-oreshnik-missile)*
+- China, Russia, Iran, and Azerbaijan have issued statements condemning the terrorist attack in Quetta. *[Business Recorder](https://www.brecorder.com/news/40422684/china-russia-iran-condemn-quetta-attack)*
+- Tragedies abroad: Three people died in a Petronas vessel accident in Malaysia, and a building collapse in the Philippines has left three dead and 17 missing. *[Business Recorder](https://www.brecorder.com/news/40422717/three-people-killed-one-injured-in-accident-at-petronas-floating-vessel-off-malaysia)* *[Business Recorder](https://www.brecorder.com/news/40422716/death-toll-rises-to-three-with-17-still-missing-after-philippine-building-collapse)*
 
 ### Other
-- Romanian director Cristian Mungiu won the Palme d’Or at the Cannes Film Festival for his film "Fjord." *[Business Recorder](https://www.brecorder.com/news/40422609/fjord-by-romanias-cristian-mungiu-wins-cannes-top-prize)*
-- Various updates in the entertainment sector including news on David Dhawan and Sanam Saeed. *[ARY](https://arynews.tv/david-dhawan-becomes-emotional-at-varuns-film-event)*
+- Debates continue regarding Pakistan's cultural identity and the historical ownership of the Indus Valley Civilization. *[Dawn](https://www.dawn.com/news/2002911/5000-years-of-pakistan)*
+- Experts highlight that water security has become an existential imperative for Pakistan. *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/water-is-an-existential-imperative-for-pakistan/)*
+- Entertainment updates: Kate Mansi exits 'General Hospital'; various lists of recommended Hollywood movies (Action, Comedy, Romantic, etc.). *[ARY](https://arynews.tv/kate-mansi-exits-general-hospital-after-3-years-as-kristina-corinthos-davis)* *[ARY](https://arynews.tv/hollywood-action-movies-top)*
 
