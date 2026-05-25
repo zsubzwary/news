@@ -7,44 +7,54 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-May-2026 09:09PKT 
+ &lrm; 25-May-2026 21:10PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان میں کپاس کی کمی کے باعث امریکہ اور برازیل سے کپاس کی درآمدات کا آغاز۔ *[Dawn](https://www.dawn.com/news/2002839/pakistan-importing-cotton-from-us-brazil-even-before-local-ginning-season)*
-- ایران اور امریکہ کے درمیان امن معاہدے کے امکانات سے عالمی اسٹاک مارکیٹ میں تیزی اور تیل کی قیمتوں میں کمی۔ *[Business Recorder](https://www.brecorder.com/news/40422715/stocks-rise-sharply-oil-and-dollar-slip-on-middle-east-peace-hopes)*
-- کمزور ڈالر کے باعث سونے کی قیمتوں میں اضافہ۔ *[Business Recorder](https://www.brecorder.com/news/40422710/gold-rises-on-weaker-dollar-as-investor-weigh-us-iran-peace-deal-prospects)*
-- گوادر پورٹ نے 53,000 میٹرک ٹن وزن والا جہاز سنبھال کر ایک اہم سنگ میل عبور کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40422682/gwadar-port-achieves-major-milestone-with-handling-of-53000mt-vessel)*
-- ہونڈا اٹلاس کارز پاکستان کی سالانہ فروخت میں 57 فیصد کا بڑا اضافہ ریکارڈ کیا گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/hondas-car-sales-up-57-in-pakistan-in-2026/)*
-- کرنڈاز اور ٹیپسys کے درمیان پاکستان میں ڈیجیٹل ادائیگیوں کے فروغ کے لیے شراکت داری طے پائی۔ *[Business Recorder](https://www.brecorder.com/news/40422683/10000-merchants-karandaaz-tapsys-partner-to-expand-digital-payments)*
-- حکومت نے جینیاتی طور پر ترمیم شدہ نامیاتی اشیاء (GMOs) کی درآمد کے ریگولیٹری فریم ورک میں نرمی کا فیصلہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40422679/gmos-imports-govt-to-liberalise-regulatory-framework)*
-- نیپرا نے ہزی کو (HAZECO) کے لیے 2.818 ارب روپے کے سرمایہ کاری پلان کی منظوری دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40422689/nepra-approves-rs2818bn-dip-for-hazeco-for-fy26)*
+- پاکستان اسٹاک ایکسچینج (PSX) کے انڈیکس میں تیزی دیکھی گئی، جس میں KSE-100 میں 4,000 سے زائد پوائنٹس کا اضافہ ہوا۔ *[Dawn](https://www.dawn.com/news/2002961/psx-opens-shortened-trading-week-on-bullish-note-kse-100-gains-4000-points-during-intraday-trade)*
+- شہزادہ رحیم آل حسین خان نے خیبر پختونخوا کے وزیر اعلیٰ کو صوبے میں سرمایہ کاری کا یقین دلایا۔ *[Dawn](https://www.dawn.com/news/2003033/prince-aga-khan-assures-kp-cm-sohail-afridi-of-investment-in-the-province)*
+- گواڈر پورٹ نے ایک اہم سنگ میل عبور کر لیا ہے۔ *[ARY](https://arynews.tv/gwadar-port-achieves-major-milestone)*
+- پاکستان کی مغربی یورپ کو برآمدات میں 3.53 فیصد کمی واقع ہوئی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/pakistans-exports-to-western-europe-fall-3-53-to-3-66-billion-despite-gsp-status/)*
+- بھارت کے پن لائبز (Pine Labs) نے ڈیجیٹل ادائیگیوں میں اضافے کے باعث منافع حاصل کیا۔ *[Business Recorder](https://www.brecorder.com/news/40422783/indias-pine-labs-posts-quarterly-profit-on-digital-payments-boost)*
+- بھارت نے پائپڈ نیچرل گیس کے صارفین کے لیے ایل پی جی سلنڈر خریدنے پر پابندی لگا دی۔ *[Business Recorder](https://www.brecorder.com/news/40422782/india-bars-piped-natural-gas-customers-from-buying-lpg-cylinders-order-shows)*
+- JazzCash نے صارفین کی مدد کے لیے فیول ادائیگیوں پر 10 فیصد کیش بیک کی پیشکش کی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/jazzcash-offers-10-cashback-on-fuel-payments-through-raast-enabled-qr-codes-to-support-customers-amid-rising-fuel-prices/)*
+- گلف ممالک کی زیادہ تر اسٹاک مارکیٹوں میں امریکی-ایرانی امن کی امیدوں کے باعث اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40422780/most-gulf-markets-gain-on-us-iran-peace-hopes)*
+- آئی ایم ایف (IMF) کے بیلو آؤٹ کے حوالے سے عالمی مارکیٹ کے اثرات پر بحث جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422771/the-blind-spot-in-every-imf-bailout)*
 
 ### سائنس اور ٹیکنالوجی
-- چین نے چاند پر انسانی مشن کے منصوبوں کے سلسلے میں شینژو-23 مشن کامیابی سے لانچ کیا۔ *[Dawn](https://www.dawn.com/news/2002786/china-launches-three-crew-space-flight-as-part-of-moon-ambitions)*
-- ہواوے نے امریکی پابندیوں کے جواب میں چپ کی ترقی کے لیے نئے راستے کی تجویز پیش کی ہے۔ *[ARY](https://arynews.tv/huawei-proposes-new-path-for-chip-development-us-sanctions)*
+- ٹارگٹ انڈیا اے آئی (AI) ٹولز کے بڑھتے ہوئے اخراجات کے باعث اپنی قیمتوں کی حکمت عملی پر نظر ثانی کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422777/target-india-head-says-retailer-weighing-ai-tool-costs-amid-shift-to-usage-based-pricing)*
 
 ### سیاست
-- پی ٹی آئی نے حکومتی بجٹ کو اصلاحات کے بغیر قرار دیتے ہوئے شدید تنقید کی۔ *[Dawn](https://www.dawn.com/news/2002894/pti-slams-govts-fifth-budget-sans-reforms)*
-- ووٹ ڈالنے کی عمر بڑھا کر 25 سال کرنے کی تجویز پر حکومتی سطح پر غور کیا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2002912/stealing-the-future)*
-- پی ٹی آئی قیادت اور وزیر داخلہ کی خیبر پختونخوا میں دہشت گردی کے حوالے سے اہم ملاقات ہوئی۔ *[Dawn](httpshttps://www.dawn.com/news/2002796/pti-confirms-barrister-gohar-sohail-afridis-meeting-with-naqvi-says-discussion-focused-on-terrorism-in-kp)*
+- صدر ڈونلڈ ٹرمپ نے ایران کے ساتھ امن معاہدے کے حصے کے طور پر ابراہام معاہدوں پر دستخط کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2003043/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal)*
+- چینی صدر شی جن پنگ نے وزیراعظم شہباز شریف سے ملاقات میں پاک چین تعلقات کو "ناقابل تسخیر" قرار دیا۔ *[Dawn](https://www.dawn.com/news/2002979/chinas-xi-hails-unbreakable-ties-praises-pakistans-role-in-iran-peace-efforts-as-he-meets-pm-shehbaz)*
+- ایران کا کہنا ہے کہ امریکہ کے ساتھ کئی معاملات پر پیش رفت ہوئی ہے، تاہم معاہدہ ابھی ممکن نہیں۔ *[Dawn](https://www.dawn.com/news/2003008/iran-says-progress-on-many-issues-with-us-but-agreement-not-imminent)*
+- نائب وزیر اعظم اسحاق ڈار اقوام متحدہ کے اجلاس میں شرکت کے لیے نیویارک کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2003042/deputy-pm-dar-to-visit-new-york-from-may-26-28-for-un-meetings)*
+- بھارت میں ایک وائرل سوشل میڈیا اکاؤنٹ کے بانی نے حکومت کی جانب سے دباؤ اور دھمکیوں کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2003023/founder-of-viral-indian-gen-z-account-alleges-crackdown-threats)*
+- صدر آصف علی زرداری نے ٹیکس ریفنڈ سے قبل سیکیورٹی بانڈز کے مطالبے کو مسترد کر دیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/president-zardari-rejects-fbr-demand-for-surety-bonds-before-tax-refunds/)*
 
 ### قومی
-- حکومت پانی کے بڑے منصوبوں اور متعلقہ کارکنوں کی حفاظت کے لیے "وابڈا سیکیورٹی فورس" بنانے کا منصوبہ بنا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2002882/govt-plans-wapda-security-force-for-water-projects)*
-- کوئٹہ میں ٹرین بم دھماکے میں کم از کم 24 افراد شہید اور 70 زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40422709/at-least-24-martyred-in-quetta-train-blast)*
-- گوادر یونیورسٹی کے وائس چانسلر اور دیگر اہلکار 10 دن بعد بحفاظت گھر پہنچ گئے۔ *[Dawn](https://www.dawn.com/news/2002789/gwadar-university-vc-pro-vice-chancellor-return-home-10-days-after-they-were-reported-missing)*
-- سیکیورٹی فورسز نے شمالی وزیرستان کے علاقے دتہ خیل میں 11 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2002766/security-forces-kill-11-terrorists-in-kps-north-waziristan-ispr)*
-- وزیراعلیٰ سندھ نے کراچی کے ریڈ لائن بی آر ٹی پروجیکٹ کی تکمیل کے لیے کام میں تیزی لانے کے احکامات دیے۔ *[Dawn](https://www.dawn.com/news/2002849/murad-asks-contractors-to-increase-manpower-for-timely-completion-of-karachis-red-line-project)*
+- اسلام آباد میں مارگلہ ہلز میں لگنے والی آگ پر قابو پا لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2003045/margalla-hills-fire-brought-under-control-cooling-process-underway-district-admin)*
+- کراچی کے علاقے ملیر میں ایک نو بیاہتا جوڑے کو فائرنگ کر کے قتل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2003054/newly-married-couple-shot-dead-in-karachis-malir-area-police)*
+- خیبر پختونخوا کے ضلع ٹانک میں عسکریت پسندوں نے سرکاری سکول اور ہیلتھ یونٹ کو دھماکے سے اڑا دیا۔ *[Dawn](https://www.dawn.com/news/2003026/militants-blow-up-govt-school-basic-health-unit-in-kps-tank)*
+- سواٹ موٹروے پر بس کے حادثے میں کم از کم 16 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2003010/at-least-16-killed-7-injured-as-passenger-coach-collides-with-parked-bus-on-swat-motorway)*
+- حکومت نے واپڈا کے منصوبوں کی حفاظت کے لیے ایک نئی سکیورٹی فورس بنانے کا منصوبہ تیار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2002882/govt-plans-wapda-security-force-for-water-projects)*
+- اسلام آباد ہائی کورٹ نے سی ڈی اے (CDA) کو رہائشیوں کو بے دخل کرنے سے روک دیا۔ *[Dawn](https://www.dawn.com/news/2003011/ihc-restrains-cda-from-dispossessing-residents-of-one-constitution-avenue)*
 
 ### بین الاقوامی
-- ایران اور امریکہ کے درمیان جنگ کے خاتمے کے لیے معاہدے کے قریب پہنچنے کی اطلاعات۔ *[Business Recorder](https://www.brecorder.com/news/40422686/iran-and-us-closing-in-on-deal-to-end-war)*
-- وزیراعظم شہباز شریف نے اسلام آباد میں ایران اور امریکہ کے درمیان امن مذاکرات کی میزبانی کرنے کی خواہش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2002887/pm-hopes-to-host-islamabad-talks-20-very-soon)*
-- اسپین میں غزہ امدادی بیڑے کے کارکنوں کے ساتھ پولیس کے تشدد پر عوامی احتجاج۔ *[Dawn](https://www.dawn.com/news/2002875/outrage-in-spain-after-police-beat-gaza-flotilla-activists)*
-- روس نے یوکرین کے دارالحکومت کییم کے گردونواح پر ہائپرسونک میزائل سے بھرپور بمباری کی۔ *[Business Recorder](https://www.brecorder.com/news/40422680/russia-hits-ukraine-with-oreshnik-missile)*
-- چین، روس اور ایران نے کوئٹہ میں ہونے والے دہشت گردانہ حملے کی سخت مذمت کی۔ *[Business Recorder](https://www.brecorder.com/news/40422684/china-russia-iran-condemn-quetta-attack)*
+- مشرق وسطیٰ میں جنگ کی صورتحال کے درمیان حج کا آغاز ہو گیا۔ *[Dawn](https://www.dawn.com/news/2002985/haj-begins-as-middle-east-wars-trajectory-hangs-in-the-balance)*
+- بھارت نے مغربی بنگال میں غیر قانونی تارکین وطن کے لیے ڈیٹینشن سینٹرز کے قیام کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2002999/india-orders-migrant-detention-centres-in-west-bengal-sparking-arbitrary-explusion-fears)*
+- بنگلہ دیش نے اپنے پاسپورٹ سے "سوائے اسرائیل" کی شرط کو بحال کرنے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/bangladesh-to-restore-except-israel-clause-on-passports)*
+- امریکی کانگریسی رپورٹ کے مطابق ایران کے خلاف جنگ کے دوران امریکہ کے 42 طیارے اور ڈرونز تباہ یا نقصان دہ ہوئے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/us-lost-or-damaged-42-aircraft-and-drones-during-iran-war-congressional-report-says/)*
+
+### کھیل
+- اسپین نے ورلڈ کپ کے لیے اپنا 26 کھلاڑیوں کا اسکواڈ جاری کر دیا ہے جس میں ریال میڈرڈ کا کوئی کھلاڑی شامل نہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422766/spain-leave-out-real-madrid-players-as-barcelona-dominate-world-cup-squad)*
+- آسٹریلوی کرکٹر ٹریوس ہیڈ اور ان کی اہلیہ کو آئی پی ایل کے دوران آن لائن ہراساں کیا گیا۔ *[Dawn](https://www.dawn.com/news/2002962/travis-head-and-his-wife-suffer-online-abuse-after-cricketers-spat-with-indias-kohli-during-ipl-match)*
+- سعودی عرب کے فٹ بالر سعود عبدالحمید کا پاسپورٹ چوری ہونے کے باعث وہ قومی کیمپ میں دیر سے پہنچیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40422775/passport-theft-delays-abdulhamid-as-saudis-head-to-us)*
+
+### صحت
+- ڈبلیو ایچ او (WHO) کے مطابق ایبولا کے پھیلاؤ کی وجہ سے اب تک ممکنہ 220 اموات رپورٹ ہو چکی ہیں۔ *[Dawn](https://www.dawn.com/news/2003035/who-chief-says-suspected-ebola-deaths-at-220-and-epidemic-is-outpacing-us)*
 
 ### دیگر
-- اداکارہ کیٹ منسی 'جنرل ہسپتال' سے علیحدگی اختیار کر گئیں۔ *[ARY](https://arynews.tv/kate-mansi-exits-general-hospital-after-3-years-as-kristina-corinthos-davis)*
-- ہالی وڈ کی مختلف مشہور فلموں کے حوالے سے معلوماتی فہرستیں جاری کی گئیں۔ *[ARY](https://arynews.tv/hollywood-action-movies-top)*
+- مومنہ اقبال اور حمزہ حبیب کی شادی کی خبر۔ *[ARY](https://arynews.tv/momina-iqbal-ties-the-knot-with-hamza-habib)*
 
