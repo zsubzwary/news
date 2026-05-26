@@ -7,52 +7,56 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 26-May-2026 09:11PKT 
+ &lrm; 26-May-2026 21:11PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- ایل سی سی آئی نے حکومت سے متوازن اور کاروبار دوست وفاقی بجٹ کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422809/lcci-demands-govt-present-balanced-business-friendly-federal-budget)*
-- پاکستان میں تیل کی اسمگلنگ نے معاشی استحکام کے لیے سنگین چیلنجز پیدا کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422792/oil-smuggling-a-dangerous-parallel-market)*
-- گوادر پورٹ پر بحری سرگرمیوں میں اضافہ اور ٹیرف میں کٹوتی کے بعد تجارتی سرگرمیوں میں تیزی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422812/gwadar-port-sees-maritime-surge-after-me-crisis-tariff-cut)*
-- اپریل میں پاکستان میں آٹو فنانسنگ میں 37 فیصد کا اضافہ ریکارڈ کیا گیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/pakistan-auto-financing-rises-37-to-%e2%82%a8360-billion-in-april/)*
-- آئی ایم ایف نے بجٹ سے قبل پراپرٹی ٹیکس کم کرنے کے پاکستانی منصوبے پر تحفظات کا اظہار کیا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/imf-resists-pakistan-plan-to-cut-property-taxes-ahead-of-fy27-budget-report/)*
-- اسٹیٹ بینک نے ٹیکس کی ادائیگی کی سہولت کے لیے بینکوں کو اضافی اوقات کار میں کام کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422819/sbp-directs-banks-to-facilitate-tax-payments-on-may-29-30)*
-- چاندی اور سونے کی قیمتوں میں مارکیٹ کے رجحانات کے مطابق اتار چڑھاؤ دیکھا جا رہا ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/silver-price-in-pakistan-for-today-may-26-2026/)*
+- اسٹاربکس کی کوریائی مارکیٹ میں فروخت میں نمایاں کمی۔ *[ARY](https://arynews.tv/starbucks-sees-sharp-drop-in-korea-sales)*
+- مائیکرون کی مارکیٹ ویلیو ایک ٹریلین ڈالر کے قریب پہنچنے کے قریب۔ *[ARY](https://arynews.tv/micron-stock-surges-after-ubs-price-target-update)*
+- پاکستان کی توانائی کی حفاظت کے لیے تیل کے ذخائر بڑھانے کا منصوبہ۔ *[Business Recorder](https://www.brecorder.com/news/40422888/pakistan-plans-oil-reserves-storage-push-as-hormuz-constraints-expose-vulnerabilities)*
+- انڈین روپے کی قدر میں کمی اور ایشیائی کرنسیوں میں کمزوری۔ *[Business Recorder](https://www.brecorder.com/news/40422884/indian-rupee-slips-with-asian-peers-as-hopes-of-imminent-us-iran-peace-deal-falter)*
+- پاکستان میں سونے کی قیمتوں میں روزانہ کی بنیاد پر کمی۔ *[Business Recorder](https://www.brecorder.com/news/40422873/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- پاکستان کی ٹیکسٹائل صنعت پر ٹیکس کا بوجھ 113 فیصد تک پہنچ گیا۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/textile-sector-warns-113-effective-tax-burden-is-choking-exports-ahead-of-fy27-budget/)*
+- پاکستان کے بیرونی قرضوں میں 83 فیصد کا بڑا اضافہ۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/pakistans-external-borrowing-jumps-83-to-11-billion-in-10-months/)*
+- پاکستان کے لیے قطر سے تیسری ایل این جی (LNG) کارگو کی آمد۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/third-qatar-lng-cargo-in-two-weeks-crosses-hormuz-reaches-pakistan-amid-gulf-tensions/)*
+- پاکستان کی جانب سے زرعی شعبے کی جدید کاری کے لیے چینی تعاون کی درخواست۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/pakistan-seeks-chinese-backing-to-revive-agricultural-research-expand-farm-modernization/)*
 
 ### سائنس اور ٹیکنالوجی
-- ماہرین نے بھارت کے خطرات سے نمٹنے کے لیے سفارت کاری اور نئی جنگی ٹیکنالوجی کے استعمال کی اہمیت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2003068/diplomacy-new-war-technology-vital-to-deter-india-say-experts)*
+- سعودی عرب میں حج کے دوران شدید گرمی سے بچنے کے لیے ڈرونز کا استعمال۔ *[Dawn](https://www.dawn.com/news/2003284/saudi-arabia-turns-to-drones-to-shield-pilgrims-from-extreme-heat)*
+- چین کی جانب سے علی بابا اور ڈیپ سیک جیسے اداروں کے اے آئی (AI) ماہرین کے بیرون ملک سفر پر پابندی۔ *[Business Recorder](https://www.brecorder.com/news/40422874/china-restricts-overseas-travel-for-top-ai-talent-at-alibaba-and-deepseek-bloomberg-news-reports)*
+- جنوبی کوریا کی 2030 کے وسط تک اپنی پہلی ایٹمی آبدوز لانچ کرنے کی منصوبہ بندی۔ *[Business Recorder](https://www.brecorder.com/news/40422869/south-korea-aims-to-launch-first-nuclear-powered-submarine-by-mid-2030s)*
 
 ### موسم
-- یورپ کے کئی ممالک میں "ہیٹ ڈوم" کی وجہ سے غیر معمولی شدید گرمی کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2003065/mini-version-of-hell-heat-dome-over-europe-scorches-uk-france-spain)*
-- اسلام آباد میں مارگلہ کی پہاڑیوں میں لگنے والی آگ پر قابو پا لیا گیا ہے اور ٹھنڈک کا عمل جاری ہے۔ *[Dawn](https://www.dawn.com/news/2003045/margalla-hills-fire-brought-under-control-cooling-process-underway-district-admin)*
+- مغربی یورپ میں شدید گرمی کی لہر اور ریکارڈ توڑ درجہ حرارت۔ *[Dawn](https://www.dawn.com/news/2003256/more-climate-records-under-threat-as-spring-heatwave-bakes-western-europe)*
+- فرانس میں گرمی کی لہر کے باعث سات افراد کی ہلاکت۔ *[Business Recorder](https://www.brecorder.com/news/40422875/seven-die-in-france-from-causes-related-to-heatwave)*
 
 ### سیاست
-- محمود خان اچکزئی نے خبردار کیا کہ اگر حکومت کا رویہ عمران خان کے خلاف نہ بدلا گیا تو اپوزیشن اسمبلیوں سے استعفیٰ دے سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2003056/opposition-may-quit-assemblies-if-govt-does-not-change-its-attitude-towards-imran-achakzai)*
-- پنجاب حکومت نے عوامی دباؤ کے باعث لاہور میں سڑکوں کے نام تبدیل کرنے کا منصوبہ ملتوی کر دیا۔ *[Dawn](https://www.dawn.com/news/2003180/punjab-govt-defers-roads-renaming-plan-to-avert-backlash)*
-- سپریم کورٹ نے فیصلہ دیا ہے کہ خلع کے مقدمات میں بیوی کی واضح اور باخبر رضامندی ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2003125/sc-rules-against-khula-sans-wifes-explicit-consent)*
-- لاہور ہائی کورٹ نے قرار دیا ہے کہ ایف آئی اے مشکوک بنیادوں پر شہریوں کا بیرون ملک سفر نہیں روک سکتی۔ *[Dawn](https://www.dawn.com/news/2003124/lhc-rules-fia-cannot-stop-travel-on-vague-suspicions)*
-- سندھ اسمبلی میں کراچی میں پانی کی قلت کے مسئلے پر اپوزیشن کی جانب سے پرتشدد احتجاج کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40422818/sindh-pa-witnesses-noisy-protest-over-water-shortages)*
+- شہزادہ رحیم کا پاکستان کا دورہ اور ترقیاتی تعاون کے عزم کا اظہار۔ *[Dawn](https://www.dawn.com/news/2003265/prince-rahim-winds-up-pakistan-visit-after-week-of-meetings-with-political-leadership-development-assurances)*
+- ڈپٹی وزیراعظم اسحاق ڈار کا اقوام متحدہ کی سلامتی کونسل کے اجلاس میں شرکت۔ *[Dawn](https://www.dawn.com/news/2003210/dpm-dar-to-address-high-level-unsc-debate-in-new-york-amid-busy-day-of-engagements)*
+- پنجاب حکومت کا سڑکوں کے نام تبدیل کرنے کا منصوبہ دباؤ کے باعث ملتوی کرنا۔ *[Dawn](https://www.dawn.com/news/2003180/punjab-govt-defers-roads-renaming-plan-to-avert-backlash)*
+- وزیر مملکت مسادق ملک کی بھارت کو سندھ طاس معاہدے کے احترام کی ہدایت۔ *[Dawn](https://www.dawn.com/news/2003262/climate-minister-musadik-malik-warns-against-water-aggression-urges-india-to-respect-iwt)*
 
 ### قومی
-- کوئٹہ میں بم دھماکے کے نتیجے میں پڑوسی محلہ ناقابل رہائش ہو گیا ہے اور thiệtان مست ہونے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2003127/quetta-bombing-leaves-ill-fated-neighbourhood-uninhabitable)*
-- سوات ایکسپریس وے پر ہونے والے افسوسناک ٹریفک حادثے میں 18 افراد جاں بحق ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40422820/18-killed-7-injured-in-swat-expressway-accident)*
-- خیبر پختونخوا کے ضلع ٹانک میں دہشت گردوں نے اسکول اور بنیادی صحت کا مرکز تباہ کر دیا۔ *[Dawn](https://www.dawn.com/news/2003026/militants-blow-up-govt-school-basic-health-unit-in-kps-tank)*
-- کراچی کے علاقے ملیر میں ایک شادی شدہ جوڑے کو گولی مار کر ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2003054/newly-married-couple-shot-dead-in-karachis-malir-area-police)*
-- سندھ ہائی کورٹ نے این بی پی کے سابق صدر کو 54 ارب روپے کے قرض اسکینڈل سے بری کر دیا۔ *[Dawn](https://www.dawn.com/news/2003123/shc-acquits-ex-nbp-chief-in-rs54bn-loan-scam-case)*
+- کراچی کے علاقے ملیر میں شادی شدہ جوڑے کے قتل کے معاملے میں ایک مشتبہ شخص گرفتار۔ *[Dawn](https://www.dawn.com/news/2003254/police-arrest-suspect-in-killing-of-newly-married-couple-in-karachis-malir-spokesperson)*
+- کوئٹہ میں بم دھماکے کے بعد متاثرہ محلہ رہنے کے قابل نہیں رہا۔ *[Dawn](https://www.dawn.com/news/2003127/quetta-bombing-leaves-ill-fated-neighbourhood-uninhabitable)*
+- سپریم کورٹ کا خلع کے معاملے میں اہم فیصلہ۔ *[Dawn](https://www.dawn.com/news/2003125/sc-rules-against-khula-sans-wife-s-explicit-consent)*
+- لاہور قلعہ کی تصویر والی دیوار کی بحالی کا کام مکمل۔ *[Business Recorder](https://www.brecorder.com/news/40422740/lahore-fort-picture-wall-restoration-a-milestone-for-heritage-conservation)*
+- سندھ ہائی کورٹ کا سابق نیشنل بینک کے صدر کو حاسکول کیس میں بری کرنے کا فیصلہ۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/26/sindh-high-court-acquits-former-nbp-president-syed-ahmed-iqbal-ashraf-in-%e2%82%a854-billion-hascol-loan-case/)*
 
 ### بین الاقوامی
-- امریکہ نے ایران میں میزائل سائٹس پر حملے کیے ہیں جس سے جنگ بندی کا معاہدہ خطرے میں پڑ گیا ہے۔ *[Dawn](https://www.dawn.com/news/2003162/us-carries-out-self-defence-strikes-in-iran-despite-ceasefire)*
-- صدر ٹرمپ نے ایران امن معاہدے کے لیے ابراہام معاہدوں میں شمولیت کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2003043/trump-demands-widespread-sign-up-to-abraham-accords-as-part-of-iran-peace-deal)*
-- چینی صدر شی جن پنگ نے وزیراعظم شہباز شریف سے ملاقات میں پاکستان کے ساتھ مضبوط تعلقات کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2002979/chinas-xi-hails-unbreakable-ties-praises-pakistans-role-in-iran-peace-efforts-as-he-meets-pm-shehbaz)*
-- امریکہ اور ایران کے درمیان آبنائے ہرمز کو دوبارہ کھولنے کے لیے ایک فریم ورک پر بات چیت ہو رہی ہے۔ *[Profit.PakToday](https://profit.pakistantoday.com.pk/2026/05/25/us-iran-discuss-plan-to-reopen-strait-of-hormuz-after-potential-deal-report/)*
+- حج کے موقع پر مسلم اتحاد اور امت کی بہتری کے لیے دعائیں گزاری گئیں۔ *[Dawn](https://www.dawn.com/news/2003259/prayers-offered-for-muslim-unity-ummahs-better-conditions-in-haj-sermon-as-pilgrims-gather-at-arafat)*
+- امریکہ اور ایران کے درمیان کشیدگی کے باعث خطے میں غیر یقینی صورتحال۔ *[Business Recorder](https://www.brecorder.com/news/40422879/us-strikes-fuel-concern-over-iran-deal-talks)*
+- آئرلینڈ کا اسرائیلی بستیوں کی مصنوعات پر پابندی لگانے کا منصوبہ۔ *[Dawn](https://www.dawn.com/news/2003260/ireland-to-ban-goods-from-israeli-settlements-in-west-bank-by-july)*
+- چین اور پاکستان کے درمیان تزویراتی تعلقات کو مزید مضبوط کرنے پر اتفاق۔ *[Dawn](https://www.dawn.com/news/2003203/china-pakistan-reach-new-broad-consensus-on-boosting-ties)*
+- کوواڈ (Quad) ممالک کا فجی میں بندرگاہ بنانے اور معدنیات پر معاہدہ۔ *[Dawn](https://www.dawn.com/news/2003217/australia-india-japan-us-quad-to-build-a-port-unveil-pact-on-critical-minerals)*
 
-### صحت
-- ایبولہ کی وبا کے حوالے سے عالمی ادارہ صحت نے شدید تشویش کا اظہار کرتے ہوئے کہا ہے کہ وباء تیزی سے پھیل رہی ہے۔ *[Dawn](https://www.dawn.com/news/2003035/who-chief-says-suspected-ebola-deaths-at-220-and-epidemic-is-outpacing-us)*
-- عید الاضحیٰ کے دوران کونگو بخار کے پھیلاؤ کے خطرے کے بارے میں ماہرین نے خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2003088/concern-over-risk-of-congo-fever-during-eidul-azha)*
-- پنجاب محکمہ صحت نے عید کی چھٹیوں کے دوران طبی سہولیات کی فراہمی کے لیے انتظامات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422807/health-dept-finalises-arrangements-for-facilities-on-eid-ul-azha-occasion)*
+### کھیل
+- صاحبزادہ فرحان ایل پی ایل (LPL) 2026 کے لیے منتخب۔ *[ARY](https://arynews.tv/sahibzada-farhan-headlines-star-studded-lpl-2026-signings)*
+- محمد قدوس کی انجری کے باعث ورلڈ کپ سے باہر ہونے کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40422867/injury-rules-spurs-kudus-out-of-ghanas-world-cup-squad)*
+- ٹینس اسٹار گیل مونفلس کی کیریئر کے حوالے سے خواہشات۔ *[Business Recorder](https://www.brecorder.com/news/40422868/monfils-aims-to-emulate-ronaldo-lebron-after-roland-garros-farewell)*
 
 ### دیگر
-- اونٹ کے گوشت کے طبی فوائد کے بارے میں معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/camel-meat-benefits-eid-al-adha)*
-- موسیقی اور تفریح کی دنیا سے مختلف عالمی شخصیات سے متعلق خبریں دستیاب ہیں۔ *[ARY](https://arynews.tv/justin-bieber-reveals-future-plans-with-hailey)*
+- کے پاپ بینڈ BTS نے امریکی میوزک ایوارڈز میں بڑا اعزاز حاصل کیا۔ *[Business Recorder](https://www.brecorder.com/news/40422871/k-pop-band-bts-wins-top-american-music-awards-honor-for-second-time)*
+- 'دی گلڈڈ ایج' کا چوتھا سیزن 2026 میں واپس آئے گا۔ *[ARY](https://arynews.tv/the-gilded-age-season-4-confirmed-for-2026-return)*
 
