@@ -7,49 +7,61 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 28-May-2026 09:09PKT 
+ &lrm; 28-May-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- آئی ایم ایف کے ایگزیکٹو بورڈ نے پاکستان کے 37 ماہ کے ایکسٹینڈڈ فنڈ فیسیلیٹی (EFF) کے تیسرے جائزے کی منظوری دے دی ہے، جس میں نئے شرائطات شامل کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2003387/the-lender-that-governs)*
-- یو ایس-ایران امن مذاکرات میں غیر یقینی صورتحال کے باعث عالمی مارکیٹوں میں تیل کی قیمتوں میں 5 فیصد کی بڑی کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423007/oil-settles-5-lower-as-investors-await-updates-on-us-iran-peace-deal-talks)*
-- ایندھن کی بڑھتی ہوئی قیمتوں کے باعث انڈیگو اور ایئر انڈیا جیسی بڑی ایئر لائنز نے جون اور جولائی کے لیے اپنی مقامی پروازوں میں کٹوتیاں کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40422996/indigo-air-india-cut-june-july-domestic-flights-amid-high-jet-fuel-prices-sources-say)*
-- امریکی اور ایرانی تناؤ کے باعث وال اسٹریٹ میں سرمایہ کاروں کی جانب سے احتیاطی رویہ اختیار کیا گیا جس سے مارکیٹ سست رہی۔ *[Business Recorder](https://www.brecorder.com/news/40423001/wall-street-muted-due-to-mideast-peace-deal-uncertainty)*
-- تیل کی قیمتوں میں اتار چڑھاؤ اور بھارتی مرکزی بینک کے اقدامات کے پیش نظر بھارتی روپے کی قدر مستحکم رہی۔ *[Business Recorder](https://www.brecorder.com/news/40422990/traders-keep-focus-on-oil-prices-rbi-moves-as-indian-rupee-treads-water)*
+- امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی کے باعث تیل کی قیمتوں میں اضافہ۔ *[Dawn](https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran)*
+- روس کی جانب سے ایشیا کی طرف سال کا پہلا ایل این جی ٹینکر روانہ کر دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423053/russia-sends-first-lng-tanker-this-year-eastward-along-the-arctic-data-shows)*
+- آئی ایم ایف کے مطابق سری لنکا کی معیشت کے لیے 3 فیصد ترقی کا ہدف قابل حصول ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423052/sri-lanka-monetary-stance-appropriate-3-growth-target-within-reach-imf-says)*
+- وال اسٹریٹ کے اہم انڈیکس مشرق وسطیٰ کی صورتحال اور افراط زر کے ڈیٹا کے باعث مستحکم رہے۔ *[Business Recorder](https://www.brecorder.com/news/40423054/wall-st-muted-as-investors-assess-inflation-data-mideast-developments)*
+- تانبے کی قیمتوں میں چین کی معاشی کوششوں اور ایران کے حملوں کے خدشے کے باعث اتار چڑھاؤ آیا۔ *[Business Recorder](https://www.brecorder.com/news/40423042/copper-rises-after-china-news-but-nervous-over-iran-strikes)*
+- ملائیشیا میں پام آئل کی قیمتوں میں اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423041/palm-rises-on-firmer-crude-rival-oil-prices)*
+- چین کی جانب سے ہانگ کانگ کے ذریعے سونے کی درآمدات میں 81 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40423038/chinas-april-net-gold-imports-via-hong-kong-rise-812-from-march)*
+- اوورسیز پاکستانیوں کے لیے انکم ٹیکس ریٹرن کے عمل کو سادہ بنا دیا گیا۔ *[ARY](https://arynews.tv/fbr-simplifies-income-tax-return-process-for-overseas-pakistanis)*
+- رائل بینک آف کینیڈا نے ٹریڈنگ میں اضافے کے باعث منافع میں اضافہ رپورٹ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423035/royal-bank-of-canadas-quarterly-profit-rises-on-trading-boost)*
 
 ### سائنس اور ٹیکنالوجی
-- یوٹیوب نے اعلان کیا ہے کہ وہ مستقبل میں پلیٹ فارم پر خودکار طریقے سے مصنوعی ذہانت (AI) سے تیار کردہ مواد کی نشاندہی اور لیبلنگ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40423000/youtube-says-will-flag-ai-generated-content)*
-- بھارتی ٹیکنالوجی مراکز میں ماہرین کا کہنا ہے کہ اے آئی (AI) کے استعمال سے نئے پروڈکٹس اور دانشورانہ حقوق (Patents) کی تخلیق میں تیزی آئے گی۔ *[Business Recorder](https://www.brecorder.com/news/40422989/ai-to-turbocharge-patent-creation-at-india-tech-hubs-executives-say)*
+- پینٹاگون کے مطابق امریکی فوجی اہلکاروں کو تجارتی لوکیشن ڈیٹا کے ذریعے نشانہ بنایا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2003552/pentagon-says-us-military-personnel-reportedly-being-targeted-using-location-data)*
+
+### موسم
+- سندھ کے شہر دادو میں درجہ حرارت کا نیا ریکارڈ 51.5 ڈگری سینٹی گریڈ رہا۔ *[Dawn](https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c)*
+- اقوام متحدہ کی وارننگ: عالمی درجہ حرارت اگلے چار سالوں تک ریکارڈ سطح پر رہنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2003536/global-temperatures-likely-to-remain-at-record-levels-in-2026-2030-un)*
+- سندھ میں شدید گرمی کی لہر کے باعث درجہ حرارت معمول سے زیادہ رہنے کا خدشہ ہے۔ *[ARY](https://arynews.tv/heatwave-grips-sindh-as-temperatures-soar-to-50c)*
 
 ### سیاست
-- صدر ڈونلڈ ٹرمپ نے ایران کے ساتھ ممکنہ معاہدے پر کہا کہ امریکی انتظامیہ ابھی مطمئن نہیں ہے، جبکہ ایران کے دعووں کو انہوں نے بے بنیاد قرار دیا۔ *[Dawn](https://www.dawn.com/news/2003490/trump-cabinet-looks-forward-to-progress-on-iran-deal-in-coming-hours-days)*
-- یوکرین کے صدر ولادیمیر زیلنسکی نے روس کے میزائل حملوں کے خلاف دفاع کے لیے امریکہ سے مزید پیٹریاٹ ایئر ڈیفنس سسٹم کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2003499/zelensky-asked-trump-for-air-defence-munitions-afp)*
-- بھارت نے اپنے دفاعی پروگرام کے تحت پانچویں نسل کے لڑاکا طیاروں کی مقامی تیاری کے لیے تین کمپنیوں سے تجاویز طلب کر لی ہیں۔ *[Dawn](https://www.dawn.com/news/2003481/india-seeks-proposals-for-5th-generation-combat-jets-ani)*
+- پاکستان اور چین نے باہمی فوجی تعاون اور تزویراتی ہم آہنگی کو مزید گہرا کرنے کا عہد کیا۔ *[Dawn](https://www.dawn.com/news/2003567/pakistan-china-agree-to-deepen-military-cooperation-chinese-defense-ministry)*
+- نائب وزیراعظم اسحاق ڈار کی واشنگٹن میں امریکی وزیر خارجہ مارکو روبیو سے اہم ملاقات۔ *[Dawn](https://www.dawn.com/news/2003563/dar-to-meet-rubio-in-washington-tomorrow-fo)*
+- پنجاب کی وزیر اعلیٰ مریم نواز کی لاہور کے اسپتال میں اہم سرجری ہوئی۔ *[Dawn](https://www.dawn.com/news/2003538/cm-maryam-underwent-major-surgery-at-lahore-hospital-punjab-minister)*
+- این سی سی آئی اے پنجاب نے سوشل میڈیا پر ریاست مخالف پروپیگنڈا کرنے والے 11 افراد کو گرفتار کر لیا۔ *[Dawn](https://www.dawn.com/news/2003578/nccia-punjab-arrests-11-for-anti-state-propaganda-and-inciting-unrest-online)*
+- وزیر اعظم شہباز شریف نے یومِ تکبیر کے موقع پر ملک کی دفاعی طاقت اور اتحاد کا پیغام دیا۔ *[Dawn](https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity)*
+- وفاقی کانسٹیبلری کے 200 اہلکاروں کو سعودی عرب میں تربیت فراہم کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2003528/200-personnel-from-federal-constabularys-diplomatic-protection-unit-to-receive-training-in-saudi-arabia)*
 
 ### قومی
-- وزیراعظم شہباز شریف نے یومِ تکبیر کے موقع پر کہا کہ یہ دن پاکستان کی طاقت، خود مختاری اور قومی اتحاد کی علامت ہے۔ *[Dawn](https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity)*
-- اسلام آباد کے سیکٹر E-12 میں ادھورے ترقیاتی کاموں کو مکمل کرنے کے لیے کیپیٹل ڈویلپمنٹ اتھارٹی (CDA) نے خصوصی اقدامات شروع کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar)*
-- جسٹس بابر ستھر نے اسلام آباد ہائی کورٹ سے پیရှား ہائی کورٹ میں تبادلے کے باوجود وفاقی دارالحکومت میں اپنا سرکاری رہائش گاہ برقرار رکھنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad)*
-- چیف آف ڈیفنس اسٹاف جنرل عاصم منیر نے عید کے موقع پر بلوچستان کے علاقے ژوب میں سرحد پر تعینات افواج کے ساتھ وقت گزارا۔ *[Dawn](https://www.dawn.com/news/2003468/cdf-munir-spends-eidul-azha-with-frontline-troops-in-zhob-says-brutal-acts-cannot-weaken-nations-resolve)*
-- چترال میں مارخور کے بین الاقوامی دن پر مقامی محکمہ جنگلی حیات کی جانب سے کسی بھی قسم کی تقریب یا آگاہی کی مہم کا اہتمام نہیں کیا گیا۔ *[Dawn](https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral)*
+- جسٹس بابر ستار نے اسلام آباد میں اپنی سرکاری رہائش برقرار رکھنے کا فیصلہ کیا۔ *[Dawn](https://www.dawn.com/news/2003428/justice-babar-sattar-decides-to-retain-official-residence-in-islamabad)*
+- اسحاق ڈار نے نیویارک میں اوورسیز پاکستانیوں کو ملک میں سرمایہ کاری کی دعوت دی۔ *[Dawn](https://www.dawn.com/news/2003561/dar-invites-overseas-pakistanis-in-us-to-honour-their-roots-and-invest-in-the-country)*
+- اسلام آباد کے سیکٹر ای-12 میں ترقیاتی کاموں کی تکمیل کے لیے سی ڈی اے نے اقدامات شروع کر دیے۔ *[Dawn](https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar)*
 
 ### بین الاقوامی
-- امریکہ نے ایران میں ایک فوجی مقام پر نئے حملے کیے ہیں، جس کا مقصد امریکی افواج اور تجارتی جہازوں کو خطرات سے بچانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423009/us-carries-out-new-strikes-in-iran-against-military-site-official-says)*
-- ایران کے وزیر خارجہ اسحاق ڈار نے نیویارک میں اقوام متحدہ کے سیکرٹری جنرل سے ملاقات کی اور خطے میں امن کی بحالی پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/2003453/fm-dar-assures-un-chief-of-pakistans-continued-engagement-and-dialogue-to-restore-peace-in-region)*
-- صدر ٹرمپ کے "بورڈ آف پیس" کے غزہ کی تعمیر و ترقی کے لیے مختص فنڈ میں فی الحال کوئی رقم موجود نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2003486/trump-board-of-peaces-official-gaza-fund-is-empty)*
-- بھارت نے پاکستان کے ساتھ بین الاقوامی سرحد کے 15 کلومیٹر کے اندر غیر قانونی تعمیرات کے خلاف مسمار کرنے کی مہم کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2003500/india-orders-demolition-drive-along-pakistan-border)*
-- ایران کے انٹیلی جنس وزارت کا دعویٰ ہے کہ امریکہ اور اسرائیل کا اصل مقصد اسلامی جمہوریہ کو گرانا اور اسے تقسیم کرنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422992/iran-says-us-israel-goal-still-to-overthrow-islamic-republic)*
+- امریکہ کے ایران پر حملوں کے بعد ایران کے ریولیوشنری گارڈ نے امریکی اڈے کو نشانہ بنایا۔ *[Dawn](https://www.dawn.com/news/2003525/us-strikes-iran-drawing-retaliatory-attack-on-american-base-after-trump-dismisses-report-of-hormuz-deal)*
+- شمالی کوریا امریکہ اور جنوبی کوریا کے ساتھ مذاکرات میں دلچسپی نہیں دکھا رہا۔ *[Dawn](https://www.dawn.com/news/2003574/n-korea-not-keen-to-engage-with-the-us-or-s-korea-singapore-fm)*
+- یمن کے سابق صدر عبد الرب منصور ہادی کا سعودی عرب میں انتقال ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423047/yemen-ex-president-hadi-dies-in-saudi-arabia-source-in-presidency)*
+- لبنان پر اسرائیلی حملوں کے نتیجے میں 12 افراد جاں بحق ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423045/lebanon-says-12-dead-including-2-children-in-israeli-strikes-on-south)*
+- ایران کے سپریم لیڈر کا کہنا ہے کہ امریکہ اور اسرائیل ملک کو مفلوج کرنے کی کوشش کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423043/iran-supreme-leader-says-us-israel-seek-to-bring-nation-to-its-knees)*
+- امریکی صدر ٹرمپ نے ایران کے ساتھ ممکنہ امن معاہدے کے حوالے سے کابینہ سے بات چیت کی۔ *[Dawn](https://www.dawn.com/news/2003490/trump-cabinet-looks-forward-to-progress-on-iran-deal-in-coming-hours-days)*
 
 ### کھیل
-- آسٹریلیا کے کپتان مچل مارش آئی پی ایل کے دوران چوٹ لگنے کے باعث پاکستان کے خلاف ون ڈے سیریز سے باہر ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2003471/marsh-out-of-pakistan-odis-inglis-to-captain-australia)*
-- جنوبی افریقہ نے ورلڈ کپ کے لیے اپنی ٹیم میں دو نئے غیر تجربہ کار کھلاڑیوں کا اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/south-africa-added-two-uncapped-players-to-world-cup-squad)*
+- جینک سنر کی فرانسیسی اوپن کے دوسرے راؤنڈ میں اچانک شکست۔ *[Business Recorder](https://www.brecorder.com/news/40423051/ailing-sinner-falls-to-cerundolo-in-french-open-second-round-shock)*
+- نیمار کی انجری کی وجہ سے برازیل کے دوست میچوں اور ورلڈ کپ کے آغاز سے باہر ہونے کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40423050/neymar-out-of-brazil-friendlies-and-set-to-miss-world-cup-opener)*
+- سکاٹ لینڈ کے کوچ اسٹیو کلارک کے معاہدے میں 2030 تک توسیع کر دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423040/scotland-extend-clarkes-deal-through-2030-world-cup)*
+- نائومی اوساکا نے فرانسیسی اوپن کے دوسرے راؤنڈ میں کامیابی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40423037/style-and-steel-as-osaka-tames-vekic-to-reach-paris-third-round)*
 
 ### صحت
-- ماہرین صحت نے عید کے موقع پر لوگوں کو مشورہ دیا ہے کہ وہ اچانک گوشت کا زیادہ استعمال کرنے سے گریز کریں تاکہ ہاضمے کے مسائل سے بچا جا سکے۔ *[Dawn](https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice)*
+- عید الاضحیٰ کے موقع پر گوشت کے زیادہ استعمال سے بچنے کے لیے طبی ماہرین کی احتیاطی ہدایات۔ *[Dawn](https://www.dawn.com/news/2003351/health-experts-caution-against-eating-meat-immediately-after-sacrifice)*
 
 ### دیگر
-- بنگلہ دیش میں ایک نایاب سفید بھینس، جسے اس کے بالوں کی وجہ سے "ڈونلڈ ٹرمپ" کا نام دیا گیا تھا، کو قربانی سے بچا کر قومی چڑیا گھر بھیج دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2003504/viral-fame-spares-donald-trump-buffalo-from-eid-sacrifice-in-bangladesh)*
-- کولکتہ میں فٹ بال اسٹار لیونل میسی کا ایک بہت بڑا مجسمہ حفاظتی خدشات کے باعث ہٹانے کا فیصلہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40422993/giant-messi-statue-in-india-to-be-removed-over-safety-concerns)*
-- حج کے دوران زائرین نے مکہ کے قریب شیطان کو کنکریاں مارنے کی روایتی عبادت مکمل کی۔ *[Dawn](https://www.dawn.com/news/2003461/haj-pilgrims-stone-the-devil-in-final-ritual)*
+- چترال میں مارخور کے عالمی دن پر مقامی محکمہ جنگلی حیات کی جانب سے کوئی تقریب منعقد نہ ہوئی۔ *[Dawn](https://www.dawn.com/news/2003321/international-day-of-markhor-passes-unnoticed-in-chitral)*
+- بنگلہ دیش میں ایک منفرد بھینس کو قربانی سے بچانے کے لیے حکام کی مداخلت۔ *[Dawn](https://www.dawn.com/news/2003504/viral-fame-spares-donald-trump-buffalo-from-eid-sacrifice-in-bangladesh)*
+- ٹیلر سویفٹ کے کنسرٹ پر حملے کے منصوبے کے ملزم کو سزا سنائی جا سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423044/taylor-swift-concert-attack-plan-accused-to-be-sentenced-in-austria)*
 
