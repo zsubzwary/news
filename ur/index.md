@@ -7,48 +7,66 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-May-2026 09:09PKT 
+ &lrm; 29-May-2026 21:12PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان میں کپاس کی گرتی ہوئی معیشت اور پالیسی کی ناکامی کے باعث درآمدات میں اضافہ ہو رہا ہے۔ *[Dawn](https://www.dawn.com/news/2003382/cotton-crisis)*
-- ایران پر امریکی حملوں کے بعد عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ ہوا۔ *[Dawn](https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran)*
-- امریکہ میں مہنگائی کی شرح اپریل میں تین سال کی بلند ترین سطح پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423057/key-us-inflation-measure-posts-largest-annual-increase-in-three-years)*
-- روس نے ایشیا کے ساتھ تجارت بڑھانے کے لیے بحیرہ منگولیا کے راستے سے اپنا پہلا ایل این جی ٹینکر روانہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423053/russia-sends-first-lng-tanker-this-year-eastward-along-the-arctic-data-shows)*
-- سری لنکا کی معیشت میں بہتری کے امکانات کے حوالے سے آئی ایم ایف نے مثبت اندازہ ظاہر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423052/sri-lanka-monetary-stance-appropriate-3-growth-target-within-reach-imf-says)*
+- حکومت کی جانب سے پیٹرول اور ڈیزل کی قیمتوں میں 22 روپے فی لیٹر کی کمی۔ *[Dawn](https://www.dawn.com/news/2003697/govt-cuts-petrol-diesel-prices-by-rs22)*
+- اسٹیٹ بینک کے پاس غیر ملکی زرခြားہ کے ذخائر میں 66 ملین ڈالر کا اضافہ۔ *[Business Recorder](https://www.brecorder.com/news/40423119/sbp-held-foreign-exchange-reserves-rise-by-66mn-to-1715bn)*
+- بھارت کے مرکزی بینک (RBI) کے فاریکس ٹریڈنگ منافع میں 52 فیصد اضافہ۔ *[Business Recorder](https://www.brecorder.com/news/40423102/indian-central-banks-fx-trading-gains-surge-52-to-177-billion-in-fy26-boosting-income)*
+- بھارت کے غیر ملکی زرခြားہ کے ذخائر میں کمی۔ *[Business Recorder](https://www.brecorder.com/news/40423108/indias-forex-reserves-fall-to-over-one-year-low-as-central-bank-mounts-indian-rupee-defence)*
+- بھارتی ایئر لائن انڈیگو (IndiGo) کو سالانہ نقصان کا سامنا۔ *[Business Recorder](https://www.brecorder.com/news/40423105/indian-airline-indigo-posts-quarterly-loss-on-capacity-curbs-declining-indian-rupee)*
+- بھارتی آئل کارپوریشن کی افریقہ اور مشرق وسطیٰ سے خام تیل کی بڑی خریداری۔ *[Business Recorder](https://www.brecorder.com/news/40423099/indian-oil-corp-buys-5-million-barrels-of-crude-from-west-africa-middle-east-sources-say)*
+- سری لنکا کے اسٹاک مارکیٹ میں مختلف شعبوں میں اضافے کے ساتھ تیزی۔ *[Business Recorder](https://www.brecorder.com/news/40423111/sri-lankan-shares-rise-on-gains-across-sectors)*
+- بھارت کا پہلا 'بلیو بانڈ' جاری کرنے کا منصوبہ۔ *[Business Recorder](https://www.brecorder.com/news/40423097/indias-maritime-lender-set-to-launch-countrys-first-blue-bond-top-exec-says)*
+- بھارت میں انشورنس کے ٹیکس فری حد میں اضافے کی تجویز۔ *[Business Recorder](https://www.brecorder.com/news/40423101/india-insurers-seek-doubling-of-tax-free-limit-for-some-products-to-boost-inflows-sources-say)*
+- بھارت کے مرکزی بینک کا ڈیجیٹل روپیہ کے استعمال میں توسیع کا منصوبہ۔ *[Business Recorder](https://www.brecorder.com/news/40423100/indias-rbi-plans-expansion-of-digital-rupee-through-welfare-schemes-cross-border-payments)*
 
 ### سائنس اور ٹیکنالوجی
-- پنٹاگون کے مطابق امریکی فوجی مقام کے ڈیٹا (location data) کا استعمال کرتے ہوئے دشمن افواج کے ذریعے نشانہ بنائے جا رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2003552/pentagon-says-us-military-personnel-reportedly-being-targeted-using-location-data)*
-- بھارت کے عالمی کارپوریٹ مراکز اب اپنے کاموں میں مصنوعی ذہانت (AI) کا استعمال کر رہے ہیں۔ *[ARY](https://arynews.tv/indias-global-corporate-hubs-are-putting-ai-to-work)*
+- بلیو اوریجن کا راکٹ لانچ پیڈ پر دھماکے سے تباہ ہو گیا۔ *[Dawn](https://www.dawn.com/news/2003678/blue-origin-rocket-explodes-on-launchpad-in-a-setback-for-bid-to-catch-musks-spacex)*
 
 ### موسم
-- سندھ کے شہر دادو میں درجہ حرارت 51.5 ڈگری سیلسیئس تک پہنچ گیا، جو کہ ایک نیا ریکارڈ ہے۔ *[Dawn](https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c)*
-- اقوام متحدہ نے خبردار کیا ہے کہ 2026 سے 2030 تک عالمی درجہ حرارت ریکارڈ سطح پر رہنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2003536/global-temperatures-likely-to-remain-at-record-levels-in-2026-2030-un)*
-- شدید گرمی کی وجہ سے چولستان کے علاقوں میں پانی کی شدید قلت پیدا ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration)*
+- دادو میں درجہ حرارت کا نیا ریکارڈ 51.5 ڈگری سیلسیس تک پہنچ گیا۔ *[Dawn](https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c)*
+- چولستان کے تالاب خشک ہونے سے مقامی آبادی کو شدید پانی کے بحران کا سامنا۔ *[Dawn](https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration)*
 
 ### سیاست
-- امریکی صدر ڈونلڈ ٹرمپ کا چہرہ نئے 250 ڈالر کے نوٹ پر آ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2003580/trumps-face-could-appear-on-us-250-bill)*
-- بھارت کی نئی سیاسی جماعت 'کاکروچ جنتا پارٹی' نوجوانوں کے غصے کو سیاسی رخ دینے کی کوشش کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2003599/indias-gen-z-cockroach-janta-party-channels-youth-anger-but-faces-offline-hurdles)*
+- نائب وزیراعظم اسحاق ڈار کی واشنٹن میں امریکی وزیر خارجہ مارکو روبیو سے اہم ملاقات۔ *[Dawn](https://www.dawn.com/news/2003632/dar-holds-talks-with-rubio-in-washington)*
+- صدر زرداری کی ملکی استحکام اور معاشی ترقی کے لیے متحد کوششوں کی اپیل۔ *[Dawn](https://www.dawn.com/news/2003649/president-zardari-calls-for-strengthening-country-bringing-positive-economic-change)*
+- امریکی عدالت نے ٹرمپ کے 1.8 بلین ڈالر کے فنڈ کے قیام پر عارضی پابندی لگا دی۔ *[Business Recorder](https://www.brecorder.com/news/40423116/us-judge-temporarily-blocks-trumps-18-billion-weaponization-fund)*
+- چین کے اعلیٰ حکام کا سنگاپور دفاعی سربراہی اجلاس میں شرکت نہ کرنے کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us)*
+- وفاقی بجٹ کے اعلان کے لیے قومی اسمبلی اور سینٹ کے اجلاس 5 جون کو طلب۔ *[Dawn](https://www.dawn.com/news/2003641/na-senate-budget-sessions-summoned-on-june-5)*
 
 ### قومی
-- نائب وزیراعظم اسحاق ڈار واشنگٹن میں امریکی وزیر خارجہ مارکو روبیو سے ملاقات کریں گے۔ *[Dawn](https://www.dawn.com/news/2003563/dar-to-meet-rubio-in-washington-tomorrow-fo)*
-- پنجاب کی وزیر اعلیٰ مریم نواز کا لاہور کے ایک ہسپتال میں بڑا آپریشن ہوا۔ *[Dawn](https://www.dawn.com/news/2003538/cm-maryam-underwent-major-surgery-at-lahore-hospital-punjab-minister)*
-- پاکستان اور چین نے اپنے باہمی فوجی تعاون اور تزویراتی ہم آہنگی کو مزید مضبوط کرنے پر اتفاق کیا۔ *[Dawn](https://www.dawn.com/news/2003567/pakistan-china-agree-to-deepen-military-cooperation-chinese-defense-ministry)*
-- پنجاب میں انتہا پسندانہ پروپیگنڈا پھیلانے کے الزام میں این سی سی آئی اے نے 11 افراد کو گرفتار کر لیا۔ *[Dawn](https://www.dawn.com/news/2003578/nccia-punjab-arrests-11-for-anti-state-propaganda-and-inciting-unrest-online)*
-- وفاقی کنسٹبلری کے 200 اہلکاروں کو سعودی عرب میں تربیتی پروگرام میں بھیجا جائے گا۔ *[Dawn](https://www.dawn.com/news/2003528/200-personnel-from-federal-constabularys-diplomatic-protection-unit-to-receive-training-in-saudi-arabia)*
+- جی بی میں پی ٹی آئی کے رہنما جنید اکبر کی گرفتاری اور بے دخلی کا دعویٰ۔ *[Dawn](https://www.dawn.com/news/2003687/pti-claims-mna-junaid-akbar-arrested-during-election-campaign-later-expelled-from-gilgit-baltistan)*
+- اسلام آباد ہائی کورٹ میں سوشل میڈیا کیس کے سلسلے میں سماعت مقرر۔ *[Dawn](https://www.dawn.com/news/2003664/ihc-to-hear-imaan-hadis-sentence-suspension-pleas-in-social-media-posts-case-on-june-1)*
+- سندھ کے وزیر اعلیٰ کی کراچی کے واٹر پروجیکٹ K-IV کے حوالے سے ورلڈ بینک کے عہدیدار سے ملاقات۔ *[Dawn](https://www.dawn.com/news/2003674/karachis-k-iv-water-project-in-focus-as-sindh-cm-meets-world-bank-official)*
+- سندھ میں پانی کی تقسیم کے حوالے سے ریاستی اداروں کے فیصلے پر شدید احتجاج۔ *[Dawn](https://www.dawn.com/news/2003344/khuhro-resents-irsa-move-to-drastically-slash-sindhs-water-share)*
+- کراچی کے قریب سمندر میں دو جہازوں کا حادثاتی ٹکراؤ۔ *[ARY](https://arynews.tv/karachi-port-incident-collision-of-two-vessels)*
+- سکھر میں خواتین کے خلاف تشدد کے بڑھتے ہوئے واقعات پر انسانی حقوق کے علمبرداروں کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2003342/culture-of-silence-blamed-for-surge-in-violence-against-women)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے درمیان 60 روزہ جنگ بندی کی توسیع کے لیے ایک معاہدے پر اتفاق ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423055/iran-and-us-agree-plan-for-60-day-ceasefire-extension-after-latest-attacks)*
-- یمن کے سابق صدر عبد الرب منصور ہادی کا سعودی عرب میں انتقال ہوگیا۔ *[Business Recorder](https://www.brecorder.com/news/40423047/yemen-ex-president-hadi-dies-in-saudi-arabia-source-in-presidency)*
-- اسرائیل کے حملوں میں لبنان کے جنوبی علاقوں میں 12 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423045/lebanon-says-12-dead-including-2-children-in-israeli-strikes-on-south)*
-- شمالی کوریا امریکہ اور جنوبی کوریا کے ساتھ مذاکرات میں دلچسپی نہیں رکھتا۔ *[Dawn](https://www.dawn.com/news/2003574/n-korea-not-keen-to-engage-with-the-us-or-s-korea-singapore-fm)*
+- ایران اور امریکہ کے درمیان جنگ بندی اور بحیرہ ہرمز کھولنے کے معاہدے کے حوالے سے اہم پیش رفت۔ *[Dawn](https://www.dawn.com/news/2003681/how-far-have-the-us-and-iran-got-towards-ending-the-iran-war)*
+- رومانیہ میں روسی ڈرون گرنے کے واقعے پر نیٹو کی مکمل یکجہتی کا اظہار۔ *[Dawn](https://www.dawn.com/news/2003659/nato-chief-vows-absolute-solidarity-with-romania-after-russian-drone-crash-injures-2)*
+- اقوام متحدہ کی جانب سے اسرائیل اور روس کو جنسی تشدد کی بلیک لسٹ میں شامل کرنا۔ *[Dawn](https://www.dawn.com/news/2003627/israel-russia-added-to-un-blacklist-on-sexual-violence-in-conflicts)*
+- لبنان میں اسرائیلی حملوں کے نتیجے میں بچوں کے جانی نقصان کی تشویشناک رپورٹ۔ *[Business Recorder](https://www.brecorder.com/news/40423109/eleven-children-killed-injured-every-24-hours-in-lebanon-un-says)*
 
 ### کھیل
-- برازیل کے فٹ بال اسٹار نیمار انجری کے باعث ورلڈ کپ کا افتتاحی میچ نہیں کھیل سکیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40423050/neymar-out-of-brazil-friendlies-and-set-to-miss-world-cup-opener)*
-- فرانس اوپن کے دوسرے راؤنڈ میں جینک سنر کو شکست کا سامنا کرنا پڑا۔ *[Business Recorder](https://www.brecorder.com/news/40423051/ailing-sinner-falls-to-cerundolo-in-french-open-second-round-shock)*
+- شاہین آفریدی کا بابر اعظم کی بہترین فارم برقرار رہنے کی امید۔ *[Dawn](https://www.dawn.com/news/2003694/ahead-of-australia-series-shaheen-hopeful-babars-form-from-psl-will-continue)*
+- جاپان میں بیچ والی بال کے دوران کھلاڑیوں کی تصاویر لینے پر پابندی۔ *[Dawn](https://www.dawn.com/news/2003666/japan-bans-photos-at-beach-volleyball-after-malicious-pictures-of-players)*
+- شاداب خان کی او ڈی آئی اسکواڈ میں شمولیت پر تنقید۔ *[ARY](https://arynews.tv/shadab-khan-faces-criticism-for-odi-selection-in-pak-vs-aus-series)*
+- فرانسیسی دفاع کار Konate کے لیورپول چھوڑنے کی خبریں۔ *[ARY](https://arynews.tv/france-defender-konate-set-to-leave-liverpool-reports)*
+- رافیل نڈال نے اپنے کیریئر کے دوران پاؤں کی تکلیف کے بارے میں کھل کر بات کی۔ *[Business Recorder](https://www.brecorder.com/news/40423114/nadal-opens-up-about-painful-battle-with-career-threatening-foot-injury)*
+- ابوظہبی T10 لیگ کے عالمی پھیلاؤ کے لیے نئے فرنچائزز کی تلاش۔ *[Business Recorder](https://www.brecorder.com/news/40423107/abu-dhabi-t10-eyes-new-franchises-after-governance-overhaul-says-ceo)*
+- سیرینا ولیمز کی ٹینس میں واپسی کے حوالے سے افواہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423106/up-to-serena-to-announce-potential-comeback-and-partnership-says-mboko)*
+
+### صحت
+- عالمی سطح پر طبی پروگراموں میں کٹوتیوں کے اثرات۔ *[Dawn](https://www.dawn.com/news/2003642/the-shrinkage-of-pakistans-aid-chart)*
+- پاکستان کے شہری علاقوں میں ہائی بلڈ پریشر کے بڑھتے ہوئے خطرات۔ *[Business Recorder](https://www.brecorder.com/news/40423112/understanding-modern-drivers-of-hypertension-in-urban-pakistan)*
 
 ### دیگر
-- خواتین کے خلاف بڑھتے ہوئے تشدد کے لیے معاشرتی خاموشی کو ذمہ دار ٹھہرایا گیا۔ *[Dawn](https://www.dawn.com/news/2003342/culture-of-silence-blamed-for-surge-in-violence-against-women)*
-- ٹیلر سوئیف کے کنسرٹ پر حملے کی سازش میں ملوث ملزم کو سزا سنائی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40423044/taylor-swift-concert-attack-plan-accused-to-be-sentenced-in-austria)*
+- کینئے ویسٹ کو نیدرلینڈز میں کنسرٹ کرنے کی اجازت۔ *[Business Recorder](https://www.brecorder.com/news/40423115/kanye-west-cleared-to-play-in-netherlands)*
+- ٹیلر سوئفٹ اور ٹریوس کیلس کے شادی کے مہمانوں کی فہرست کا انکشاف۔ *[ARY](https://arynews.tv/taylor-swift-travis-kelces-secret-wedding-guest-list-revealed)*
+- راحت فتح علی خان کو پراپرٹی تنازعہ میں قانونی ریلیف۔ *[ARY](https://arynews.tv/rahat-fateh-ali-khan-gets-big-relief-in-property-dispute-case)*
+- ڈچ ہیمپشائر میں ڈچس سوفی کا دورہ۔ *[ARY](https://arynews.tv/duchess-sophie-highlights-rural-life-in-hampshire-visit)*
 
