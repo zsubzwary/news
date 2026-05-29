@@ -4,67 +4,63 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 29-May-2026 09:04PKT
+Published at: 29-May-2026 21:05PKT
 
 Time to read: 5 mins
 
 ### Economy
-- A proposal has been reported to feature **Donald Trump's image** on a new US $250 bill. *[Dawn](https://www.dawn.com/news/2003580/trumps-face-could-appear-on-us-250-bill)*
-- Deputy PM Ishaq Dar has invited **overseas Pakistanis in the US** to invest in the country's progressing economy. *[Dawn](https://www.dawn.com/news/2003561/dar-invites-overseas-pakistanis-in-us-to-honour-their-roots-and-invest-in-the-country)*
-- Pakistan is facing a **cotton crisis** driven by long-term policy failures and rising imports. *[Dawn](https://www.dawn.com/news/2003382/cotton-crisis)*
-- **Oil prices** rose following US military strikes on Iranian targets. *[Dawn](https://www.dawn.com/news/2003523/oil-prices-bounce-higher-after-new-us-strikes-on-iran)*
-- The UK may block Indian billionaire **Sunil Mittal** from increasing his stake in BT. *[ARY](https://arynews.tv/uk-to-block-indian-billionaire-sunil-mittal-from-raising-bt-stake)*
-- Oil markets showed **mixed results** due to conflicting reports regarding a potential US-Iran ceasefire. *[Business Recorder](https://www.brecorder.com/news/40423059/oil-prices-settle-in-mixed-direction-on-conflicting-reports-of-us-iran-ceasefire-deal)*
-- **US inflation** hit its fastest pace in three years in April, driven by energy prices. *[Business Recorder](https://www.brecorder.com/news/40423057/key-us-inflation-measure-posts-largest-annual-increase-in-three-years)*
-- Russia's first **LNG tanker** of the year has departed via the Arctic route toward Asia. *[Business Recorder](https://www.brecorder.com/news/40423053/russia-sends-first-lng-tanker-this-year-eastward-along-the-arctic-data-shows)*
-- The **IMF** noted that Sri Lanka's monetary stance is appropriate and its growth targets are achievable. *[Business Recorder](https://www.brecorder.com/news/40423052/sri-lanka-monetary-stance-appropriate-3-growth-target-within-reach-imf-says)*
-- **Wall Street** indexes retreated as investors assessed inflation data and Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40423054/wall-st-muted-as-investors-assess-inflation-data-mideast-developments)*
-- **Copper prices** edged higher following economic news from China, despite Middle East instability. *[Business Recorder](https://www.brecorder.com/news/40423042/copper-rises-after-china-news-but-nervous-over-iran-strikes)*
-- **Malaysian palm oil** futures rose in tandem with firmer crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40423041/palm-rises-on-firmer-crude-rival-oil-prices)*
+- The government has reduced the prices of **petrol and high-speed diesel** by Rs22 per litre each. *[Dawn](https://www.dawn.com/news/2003697/govt-cuts-petrol-diesel-prices-by-rs22)* *[Business Recorder](https://www.brecorder.com/news/40423117/govt-reduces-petrol-diesel-prices-by-rs22-per-litre-each)*
+- State Bank of Pakistan **foreign exchange reserves** rose by $66 million to $17.15 billion. *[Business Recorder](https://www.brecorder.com/news/40423119/sbp-held-foreign-exchange-reserves-rise-by-66mn-to-1715bn)*
+- Indian state-run institutions **REC and SIDBI** aim to raise up to 80 billion rupees through floating-rate bond sales. *[Business Recorder](https://www.brecorder.com/news/40423110/indias-state-run-rec-sidbi-eye-floating-rate-bond-sales-before-rbi-decision-sources-say)*
+- The **Reserve Bank of India's** foreign exchange trading gains surged 52% to $17.7 billion in FY26. *[Business Recorder](https://www.brecorder.com/news/40423102/indian-central-banks-fx-trading-gains-surge-52-to-177-billion-in-fy26-boosting-income)*
+- Indian life insurers are seeking to **double the tax-free limit** for certain insurance products to boost inflows. *[Business Recorder](https://www.brecorder.com/news/40423101/india-insurers-seek-doubling-of-tax-free-limit-for-some-products-to-boost-inflows-sources-say)*
+- The **RBI** plans to expand the use of the digital rupee for welfare schemes and cross-border payments. *[Business Recorder](https://www.brecorder.com/news/40423100/indias-rbi-plans-expansion-of-digital-rupee-through-welfare-schemes-cross-border-payments)*
+- **Sri Lankan shares** closed higher following broad-based gains across various sectors. *[Business Recorder](https://www.brecorder.com/news/40423111/sri-lankan-shares-rise-on-gains-across-sectors)*
+- **Indian Oil Corp** purchased 5 million barrels of crude oil from West Africa and the Middle East. *[Business Recorder](https://www.brecorder.com/news/40423099/indian-oil-corp-buys-5-million-barrels-of-crude-from-west-africa-middle-east-sources-say)*
+- **India's forex reserves** declined to a more than one-year low of $681.4 billion. *[Business Recorder](https://www.brecorder.com/news/40423108/indias-forex-reserves-fall-to-over-one-year-low-as-central-bank-mounts-indian-rupee-defence)*
+- India's **Sagarmala Finance Corporation** is set to launch the country's first 'blue bond' for maritime infrastructure. *[Business Recorder](https://www.brecorder.com/news/40423097/indias-maritime-lender-set-to-launch-countrys-first-blue-bond-top-exec-says)*
+- Indian airline **IndiGo** reported a fourth-quarter loss of 26.62 billion rupees due to capacity curbs and fuel costs. *[Business Recorder](https://www.brecorder.com/news/40423105/indian-airline-indigo-posts-quarterly-loss-on-capacity-curbs-declining-indian-rupee)*
 
 ### Science & Technology
-- The **Pentagon** warns that US military personnel are being targeted through the exploitation of commercial location data. *[Dawn](https://www.dawn.com/news/2003552/pentagon-says-us-military-personnel-reportedly-being-targeted-using-location-data)*
-- Global corporate hubs in **India** are increasingly integrating AI into their operations. *[ARY](https://arynews.tv/indias-global-corporate-hubs-are-putting-ai-to-work)*
+- A **Blue Origin** uncrewed New Glenn rocket exploded on a Florida launchpad during a test. *[Dawn](https://www.dawn.com/news/2003678/blue-origin-rocket-explodes-on-launchpad-in-a-setback-for-bid-to-catch-musks-spacex)*
 
 ### Weather
-- **Dadu, Sindh**, set a new record maximum temperature of 51.5°C. *[Dawn](https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c)*
-- The **UN** warned that global temperatures are likely to remain at or near record levels through 2030. *[Dawn](https://www.dawn.com/news/2003536/global-temperatures-likely-to-remain-at-record-levels-in-2026-2030-un)*
+- **Dadu** set a new record maximum temperature in Pakistan, reaching 51.5°C. *[Dawn](https://www.dawn.com/news/2003568/dadu-sets-new-maximum-temperature-record-as-mercury-climbs-to-515c)*
+- Extreme heat in the **Cholistan desert** has caused water ponds to dry up, forcing local residents into seasonal migration. *[Dawn](https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration)*
 
 ### Politics
-- A **US judge** has refused to immediately block Donald Trump’s order regarding mail-in voting. *[ARY](https://arynews.tv/us-judge-refuses-to-immediately-block-trumps-mail-in-voting-order)*
+- Deputy Prime Minister **Ishaq Dar** met with US Secretary of State Marco Rubio in Washington. *[Dawn](https://www.dawn.com/news/2003632/dar-holds-talks-with-rubio-in-washington)*
+- **PTI** alleges that MNA Junaid Akbar was arrested and expelled from Gilgit-Baltistan during an election campaign. *[Dawn](https://www.dawn.com/news/2003687/pti-claims-mna-junaid-akbar-arrested-during-election-campaign-later-expelled-from-gilgit-baltistan)* *[ARY](https://arynews.tv/junaid-akbar-arrested-in-gilgit-baltistan)*
+- **Pakistan** reaffirmed its support for UN peacekeeping missions on the International Day of UN Peacekeepers. *[Dawn](https://www.dawn.com/news/2003670/pakistan-reaffirms-support-for-un-peacekeeping-vows-renewed-investment-in-peace)*
+- President **Asif Ali Zardari** summoned the National Assembly and Senate on June 5 to announce the federal budget. *[Dawn](https://www.dawn.com/news/2003641/na-senate-budget-sessions-summoned-on-june-5)*
+- President Zardari called for concerted efforts to **strengthen the federation** and achieve economic progress. *[Dawn](https://www.dawn.com/news/2003649/president-zardari-calls-for-strengthening-country-bringing-positive-economic-change)*
+- A US judge has temporarily blocked President **Trump’s $1.8 billion fund** intended to compensate victims of government "weaponization." *[Business Recorder](https://www.brecorder.com/news/40423116/us-judge-temporarily-blocks-trumps-18-billion-weaponization-fund)*
 
 ### National
-- **PPP Sindh President Nisar Ahmed Khuhro** protested the IRSA decision to slash Sindh's water share. *[Dawn](https://www.dawn.com/news/2003344/khuhro-resents-irsa-move-to-drastically-slash-sindhs-water-share)*
-- Acute **water shortages** in the Cholistan desert are forcing residents and livestock to migrate due to drying ponds. *[Dawn](https://www.dawn.com/news/2003331/drying-ponds-force-cholistanis-to-opt-for-seasonal-migration)*
-- Advocates warn that a **"culture of silence"** is contributing to the surge in violence against women. *[Dawn](https://www.dawn.com/news/2003342/culture-of-silence-blamed-for-surge-in-violence-against-women)*
-- Punjab Minister Marriyum Aurangzeb confirmed **CM Maryam Nawaz** underwent major surgery in Lahore. *[Dawn](https://www.dawn.com/news/2003538/cm-maryam-underwent-major-surgery-at-lahore-hospital-punjab-minister)*
-- **NCCIA Punjab** has arrested 11 individuals for allegedly spreading anti-state propaganda online. *[Dawn](https://www.dawn.com/news/2003578/nccia-punjab-arrests-11-for-anti-state-propaganda-and-inciting-unrest-online)*
-- **PM Shehbaz Sharif** commemorated Youm-i-Takbeer, highlighting Pakistan's nuclear sovereignty. *[Dawn](https://www.dawn.com/news/2003518/pm-shehbaz-says-youm-i-takbeer-symbolises-pakistans-strength-sovereignty-and-national-unity)*
-- **200 personnel** from the Federal Constabulary's diplomatic unit will receive training in Saudi Arabia. *[Dawn](https://www.dawn.com/news/2003528/200-personnel-from-federal-constabularys-diplomatic-protection-unit-to-receive-training-in-saudi-arabia)*
-- The **CDA** has prioritized completing development work in Islamabad's E-12 sector. *[Dawn](https://www.dawn.com/news/2003430/development-work-in-islamabads-e-12-sector-finally-comes-under-the-radar)*
+- The **Islamabad High Court** is scheduled to hear sentence suspension pleas in a social media posts case on June 1. *[Dawn](https://www.dawn.com/news/2003664/ihc-to-hear-imaan-hadis-sentence-suspension-pleas-in-social-media-posts-case-on-june-1)*
+- Sindh Chief Minister Murad Ali Shah met with **World Bank** officials to discuss the K-IV water project for Karachi. *[Dawn](https://www.dawn.com/news/2003674/karachis-k-iv-water-project-in-focus-as-sindh-cm-meets-world-bank-official)*
+- PPP Sindh President Nisar Ahmed Khuhro protested the **IRSA decision** to impose a 27% water shortage on Sindh. *[Dawn](https://www.dawn.com/news/2003344/khuhro-resents-irsa-move-to-drastically-slash-sindhs-water-share)*
+- Civil society leaders warned that a **"culture of silence"** and poor institutional implementation are driving surges in violence against women. *[Dawn](https://www.dawn.com/news/2003342/culture-of-silence-blamed-for-surge-in-violence-against-women)*
 
 ### International
-- **Ishaq Dar** is scheduled to meet US Secretary of State Marco Rubio to discuss bilateral and regional relations. *[Dawn](https://www.dawn.com/news/2003563/dar-to-meet-rubio-in-washington-tomorrow-fo)*
-- **Pakistan and China** have reaffirmed their commitment to deepening military cooperation. *[Dawn](https://www.dawn.com/news/2003567/pakistan-china-agree-to-deepen-military-cooperation-chinese-defense-ministry)*
-- **US strikes** on Iranian drone operations have led to retaliatory attacks on a US airbase. *[Dawn](https://www.dawn.com/news/2003525/us-strikes-iran-drawing-retaliatory-attack-on-american-base-after-trump-dismisses-report-of-hormuz-deal)*
-- **North Korea** remains uninterested in engaging with the US, South Korea, or Japan. *[Dawn](https://www.dawn.com/news/2003574/n-korea-not-keen-to-engage-with-the-us-or-s-korea-singapore-fm)*
-- India's **Cockroach Janta Party** has emerged as a digital expression of youth dissent against the Modi administration. *[Dawn](https://www.dawn.com/news/2003599/indias-gen-z-cockroach-janta-party-channels-youth-anger-but-faces-offline-hurdles)*
-- The **US and Iran** have reportedly reached an outline for a 60-day ceasefire extension. *[ARY](https://arynews.tv/iran-us-reportedly-reach-outline-ceasefire-deal-after-fresh-strikes)*
-- The **US Treasury** has imposed fresh sanctions on Iran's military oil sales. *[Business Recorder](https://www.brecorder.com/news/40423058/us-imposes-fresh-sanctions-on-irans-military-oil-sales-treasury-says)*
-- **Netanyahu** has directed Israeli forces to expand control over 70% of the Gaza Strip. *[Business Recorder](https://www.brecorder.com/news/40423056/netanyahu-directs-israeli-forces-to-expand-gaza-control-to-70-percent)*
-- Former **Yemeni President Abedrabbo Mansour Hadi** has died in Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40423047/yemen-ex-president-hadi-dies-in-saudi-arabia-source-in-presidency)*
-- **Israeli strikes** in southern Lebanon have killed at least 12 people. *[Business Recorder](https://www.brecorder.com/news/40423045/lebanon-says-12-dead-including-2-children-in-israeli-strikes-on-south)*
-- **Iran's supreme leader** accused the US and Israel of attempting to destabilize the nation. *[Business Recorder](https://www.brecorder.com/news/40423043/iran-supreme-leader-says-us-israel-seek-to-bring-nation-to-its-knees)*
-- An individual is set to be sentenced in **Austria** for plotting a jihadist attack on a Taylor Swift concert. *[Business Recorder](https://www.brecorder.com/news/40423044/taylor-swift-concert-attack-plan-accused-to-be-sentenced-in-austria)*
+- The **US and Iran** have reached an agreement to extend a ceasefire and lift restrictions on the Strait of Hormuz, pending President Trump's approval. *[Dawn](https://www.dawn.com/news/2003681/how-far-have-the-us-and-iran-got-towards-ending-the-iran-war)* *[ARY](https://arynews.tv/trump-lifts-blockade-in-strait-of-hormuz)* *[Business Recorder](https://www.brecorder.com/news/40423118/trump-to-decide-imminently-on-iran-deal-says-hormuz-strait-must-open)* *[Business Recorder](https://www.brecorder.com/news/40423113/irans-qalibaf-says-tehran-has-no-trust-in-words-will-judge-by-actions)*
+- China's top officials are expected to skip the **Shangri-La Dialogue** defence summit in Singapore. *[Dawn](https://www.dawn.com/news/2003655/china-leaders-skip-singapore-defence-summit-headlined-by-us)*
+- NATO chief Mark Rutte expressed **absolute solidarity with Romania** following a Russian drone crash that injured two people. *[Dawn](https://www.dawn.com/news/2003659/nato-chief-vows-absolute-solidarity-with-romania-after-russian-drone-crash-injures-2)*
+- **Israel and Russia** have been added to a UN blacklist for suspected involvement in sexual violence during conflicts. *[Dawn](https://www.dawn.com/news/2003627/israel-russia-added-to-un-blacklist-on-sexual-violence-in-conflicts)*
+- The UN reports that **eleven children** are being killed or injured on average every 24 hours in Lebanon due to Israeli strikes. *[Business Recorder](https://www.brecorder.com/news/40423109/eleven-children-killed-injured-every-24-hours-in-lebanon-un-says)*
 
 ### Sports
-- **Jannik Sinner** suffered a shock second-round defeat at the French Open due to physical issues. *[Business Recorder](https://www.brecorder.com/news/40423051/ailing-sinner-falls-to-cerundolo-in-french-open-second-round-shock)*
-- **Neymar** is set to miss the World Cup opener and Brazil friendlies following a calf injury. *[Business Recorder](https://www.brecorder.com/news/40423050/neymar-out-of-brazil-friendlies-and-set-to-miss-world-cup-opener)*
-- **Mohamed Salah** and the Belgian "golden generation" enter the 2026 World Cup facing their potential last chance at glory. *[Business Recorder](https://www.brecorder.com/news/40423048/salah-belgian-golden-generation-eye-last-shot-at-world-cup-glory)*
-- **Pakistan** has missed out on another major youth football tournament. *[ARY](https://arynews.tv/pakistan-misses-another-major-youth-football-tournament)*
+- Shaheen Shah Afridi expressed hope that **Babar Azam** will maintain his high form from the PSL during the upcoming series against Australia. *[Dawn](https://www.dawn.com/news/2003694/ahead-of-australia-series-shaheen-hopeful-babars-form-from-psl-will-continue)*
+- **Japan** has banned photography and video recording at beach volleyball competitions to prevent "malicious" imagery of players. *[Dawn](https://www.dawn.com/news/2003666/japan-bans-photos-at-beach-volleyball-after-malicious-pictures-of-players)*
+- Former cricketers have criticized the selection of **Shadab Khan** for the ODI squad against Australia. *[ARY](https://arynews.tv/shadab-khan-faces-criticism-for-odi-selection-in-pak-vs-aus-series)*
+- **Rafael Nadal** spoke about his long-term struggle with a career-threatening foot injury. *[Business Recorder](https://www.brecorder.com/news/40423114/nadal-opens-up-about-painful-battle-with-career-threatening-foot-injury)*
+- **Abu Dhabi T10** is seeking new international franchises following a recent governance overhaul. *[Business Recorder](https://www.brecorder.com/news/40423107/abu-dhabi-t10-eyes-new-franchises-after-governance-overhaul-says-ceo)*
+- Speculation continues regarding a potential comeback and doubles partnership for **Serena Williams**. *[Business Recorder](https://www.brecorder.com/news/40423106/up-to-serena-to-announce-potential-comeback-and-partnership-says-mboko)*
+
+### Health
+- Experts warn that **shrinking global healthcare funding** is leading to outbreaks of diseases like measles and cholera. *[Dawn](https://www.dawn.com/news/2003642/the-shrinkage-of-pakistans-aid-chart)*
+- **Hypertension** is becoming a significant crisis in urban Pakistan due to modern lifestyle drivers. *[Business Recorder](https://www.brecorder.com/news/40423112/understanding-modern-drivers-of-hypertension-in-urban-pakistan)*
 
 ### Other
-- Various **celebrity updates** regarding Carmen Electra, Sahar Hashmi, Vogue Williams, and Nicolas Cage. *[ARY](https://arynews.tv/carmen-electra-explains-divorce-from-dennis-rodman)* / *[ARY](https://arynews.tv/sahar-hashmi-shares-fame-drawbacks)* / *[ARY](https://arynews.tv/vogue-williams-reflects-on-split-from-brian-mcfadden)* / *[ARY](https://arynews.tv/nicolas-cage-legally-becomes-nick-cage)*
-- **Sonakshi Sinha** has addressed the ongoing debate regarding nepotism in the industry. *[ARY](https://arynews.tv/sonakshi-sinha-gives-reality-check-on-nepotism-debate)*
-- **Kenneth Iwamasa** has been sentenced to prison in connection with the death of Matthew Perry. *[Business Recorder](https://www.brecorder.com/news/40423049/matthew-perry-assistant-imprisoned-over-fatal-drug-injections)*
+- US rapper **Kanye West** has been cleared to perform two concerts in the Netherlands this June. *[Business Recorder](https://www.brecorder.com/news/40423115/kanye-west-cleared-to-play-in-netherlands)*
 
