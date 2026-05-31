@@ -7,59 +7,66 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-May-2026 21:10PKT 
+ &lrm; 31-May-2026 09:11PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستانی **فری لانسرز** نے 10 ماہ کے دوران 950 ملین ڈالر سے زائد کی آمدنی کمائی، جو گزشتہ سال کے مقابلے میں 49 فیصد اضافہ ہے۔ *[Dawn](https://www.dawn.com/news/2003825/pakistani-freelancers-outearn-regional-rivals)*
-- حکومت بجٹ میں برآمد کنندگان پر **ایک فیصد ایڈوانس ٹیکس** ختم کرنے پر غور کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2003828/govt-mulls-scrapping-export-tax-in-budget)*
-- پاکستان میں **سونے کی قیمت** میں اضافہ ہوا اور فی تولہ قیمت 476,162 روپے تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423210/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- **ہانگ کانگ** نے عالمی دولت کے انتظام (wealth management) کے شعبے میں سوئٹزرلینڈ کو پیچھے چھوڑ دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423170/hong-kong-beats-switzerland-in-global-wealth-management-study)*
-- بھارت میں ایندھن کی قیمتوں میں اضافے اور کمزور مون سون کی وجہ سے **ریٹیل مہنگائی** بڑھنے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423212/india-says-retail-inflation-may-accelerate-on-weak-monsoon-fuel-price-rise)*
+- خانوال چیمبر آف کامرس نے بجلی کے بڑھتے ہوئے ٹیرف اور کیپیسیٹی چارجز پر شدید تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423224/khanewal-chamber-for-cut-in-power-tariffs)*
+- لیسکو (LESCO) نے مالیاتی اہداف کے حصول کے لیے افسران کو ریکوری مہم کی نگرانی کی ذمہ داریاں سونپ دیں۔ *[Business Recorder](https://www.brecorder.com/news/40423228/lesco-asks-officers-to-achieve-recovery-targets)*
+- آئی ایم ایف (IMF) مشن کے بعد پاکستان میں ایک سخت سالانہ بجٹ کے امکانات پر ماہرین کا تبصرہ۔ *[Business Recorder](https://www.brecorder.com/news/40423229/a-very-harsh-annual-budget-in-the-offing)*
+- پاکستان ایس ڈی سی چیمبر ٹریڈ فیڈریشن جنوبی افریقہ میں تجارتی نمائش کا انعقاد کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40423232/psctf-to-hold-single-country-trade-expo-in-south-africa)*
+- جمعیت اسلامیہ کے سربراہ نے ایندھن کی قیمتوں اور بجلی کے نرخوں میں کمی کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423233/ji-chief-calls-for-cut-in-fuel-prices)*
+- پی اشا (P@SHA) نے آئی ٹی کے شعبے کے لیے پالیسی استحکام کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423234/p-at-sha-stresses-need-to-ensure-policy-stability-for-it-enterprises)*
+- کراچی میں ریلوے کی 1.42 ارب روپے مالیت کی زمین برآمد کر لی گئی۔ *[ARY](https://arynews.tv/rs-1-42-bln-worth-of-railways-land-recovered-during-major-operation-in-karachi)*
 
 ### سائنس اور ٹیکنالوجی
-- **بلیو اوریجن** کے راکٹ دھماکے کے باعث لانچ پیڈ کو نقصان پہنچا، جس سے کمپنی کے منصوبوں میں مہینوں کی تاخیر کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad)*
-- برطانیہ سرحدوں پر تارکین وطن کی عمر کا تعین کرنے کے لیے **مصنوعی ذہانت (AI)** کا استعمال کرے گا۔ *[Dawn](https://www.dawn.com/news/2003832/uk-will-use-ai-to-screen-migrants-posing-as-minors)*
-- **میٹا** انسٹاگرام، فیس بک اور واٹس ایپ کے لیے پیڈ سبسکرپشنز متعارف کرانے کی تیاری کر رہا ہے۔ *[ARY](https://arynews.tv/meta-to-launch-paid-subscriptions-for-instagram-facebook-whatsapp)*
+- راکٹ دھماکے کے باعث بلیو اوریجن (Blue Origin) کو کئی ماہ کی تاخیر کا سامنا کرنا پڑ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad)*
 
 ### موسم
-- **لاہور** کے مختلف علاقوں میں شدید بارش ریکارڈ کی گئی، جس میں نیشتر ٹاؤن میں سب سے زیادہ بارش ہوئی۔ *[Dawn](https://www.dawn.com/news/2003890/some-respite-for-citizens-as-heavy-rain-lashes-parts-of-lahore)*
+- عالمی ادارہ موسمیات نے بڑھتے ہوئے عالمی درجہ حرارت کے حوالے سے وارننگ جاری کی۔ *[Dawn](https://www.dawn.com/news/2004071/the-heat-ahead)*
+- پاکستان میں 'سپر ایل نینو' کے ممکنہ ظہور سے شدید موسمیاتی خطرات کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40423230/bracing-for-super-el-nino)*
+- پنجاب کے وزیر اعلیٰ نے موسلا دھار بارشوں کے پیش نظر محکموں کو الرٹ رہنے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40423226/likely-torrential-rains-cm-asks-departments-to-remain-on-high-alert)*
 
 ### سیاست
-- امریکہ اور پاکستان کے درمیان **دوستانہ تعلقات** پر زور دیا گیا اور ایران مذاکرات میں پاکستان کے کردار کو سراہا گیا۔ *[Dawn](https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations)*
-- پاکستان کا **فلسطین اور غزہ** کے حوالے سے اپنے دیرینہ موقف پر قائم رہنے کا عزم۔ *[Dawn](https://www.dawn.com/news/2003632/pakistan-firmly-committed-to-stance-on-palestine-israel-dar-answers-question-on-abraham-accords)*
-- امریکہ ایران کے ساتھ معاہدہ نہ ہونے کی صورت میں **دوبارہ حملے** شروع کرنے کے لیے تیار ہے۔ *[ARY](https://arynews.tv/us-ready-to-restart-strikes-on-iran-if-no-deal-pete-hegseth)*
-- امریکی وزیر دفاع نے **چین کی فوجی بڑھوتری** پر تشویش کا اظہار کرتے ہوئے اتحادیوں کو دفاعی اخراجات بڑھانے کا مشورہ دیا۔ *[Dawn](https://www.dawn.com/news/2003886/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defence-spending)*
-- اقوام متحدہ نے تنازعات والے علاقوں میں **جنسی تشدد** کے شبہ میں اسرائیل اور روس کو بلیک لسٹ میں شامل کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423168/un-places-israel-and-russia-on-sexual-violence-blacklist)*
-- بھارت نے ویتنام کے ساتھ **برہモス میزائل** کی فراہمی کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423214/india-says-signed-brahmos-missile-deal-with-vietnam)*
-- امریکی صدر **ڈونلڈ ٹرمپ** کی صحت بہترین ہے، تاہم ڈاکٹروں نے انہیں وزن کم کرنے کا مشورہ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2003883/fully-fit-to-carry-out-all-duties-presidential-physician-says-trump-in-excellent-health-but-should-lose-weight)*
+- امریکی وزیر دفاع نے امریکہ-ایران مذاکرات میں پاکستان کے کردار کو سراہا۔ *[Dawn](https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations)*
+- سینیٹ کے چیئرمین نے سندھ طاس معاہدے پر بھارت کے اقدامات پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2004048/senate-chairman-gilani-voices-concern-over-indias-actions-on-indus-waters-treaty)*
+- خیبرپختونخوا کے وزیر اعلیٰ نے گلگت بلتستان کے انتخابات میں شفافیت کے لیے عدالتی مداخلت کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment)*
+- پی ٹی آئی رہنما اسد قیصر نے ایئرپورٹ پہنچنے سے روکے جانے کا الزام لگایا۔ *[Dawn](https://www.dawn.com/news/2003905/ptis-asad-qaiser-alleges-authorities-barred-him-from-reaching-islamabad-airport-for-skardu-flight)*
+- اقوام متحدہ سلامتی کونسل نے جنوبی سوڈان پر پابندیاں ایک سال کے لیے بڑھا دیں۔ *[Business Recorder](https://www.brecorder.com/news/40423237/unsc-votes-to-extend-sanctions-on-south-sudan-for-one-year)*
 
-### قومی
-- کے پی کے کے وزیر اعلیٰ نے **گلگت بلتستان کے انتخابات** میں شفافیت کے لیے عدالتی مداخلت کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment)*
-- پی ٹی آئی رہنما **اسد قیصر** نے الزام لگایا کہ انہیں اسلام آباد ایئرپورٹ پہنچنے سے روکا گیا۔ *[Dawn](https://www.dawn.com/news/2003905/ptis-asad-qaiser-alleges-authorities-barred-him-from-reaching-islamabad-airport-for-skardu-flight)*
-- ایف آئی اے نے اختیارات کے غلط استعمال پر **85 افسران** کو سزا سنائی۔ *[Dawn](https://www.dawn.com/news/2003847/fia-acts-against-several-officers-for-offloading-travellers)*
-- لاہور ہائی کورٹ نے مسافروں کو جہاز سے اتارنے سے پہلے **ٹھوس وجوہات** درج کرنے کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423169/lhc-seeks-reasons-for-off-loading-a-passenger)*
-- فیصل آباد میں **منشیات کی فروخت** کے خلاف آپریشن، جس میں خواتین کا بڑا کردار سامنے آیا ہے۔ *[Dawn](https://www.dawn.com/news/2003768/more-women-involved-in-drug-trafficking-than-men-in-faisalabad)*
-- کراچی میں ڈکیتی کے دوران مشتبہ **چور نے خودکشی** کر لی۔ *[Dawn](https://www.dawn.com/news/2003916/suspected-robber-dies-by-suicide-to-avoid-arrest-in-karachi-police)*
-- چیف آف ڈیفنس اسٹاف نے بلوچستان میں **سرحدی فوجیوں** کے ساتھ عید منائی۔ *[Business Recorder](https://www.brecorder.com/news/40423171/cdf-celebrates-eid-ul-azha-with-troops-in-zhob)*
-- کراچی پورٹ کے قریب دو **مال بردار جہاز** آپس میں ٹکرا گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423166/two-cargo-ships-collide-near-karachi-port)*
+### ملکی
+- آزاد کشمیر میں مرکز اور جے اے اے سی کے درمیان مذاکرات ناکام، ہڑتال کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2004054/centre-jaac-talks-end-without-success-june-9-strike-to-go-ahead)*
+- لاہور ہائی کورٹ نے طلاق یافتہ خاتون کے حق میں مکان کو حق مہر قرار دے کر فیصلہ برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower)*
+- کوئٹہ سے جعفر ایکسپریس کی سروس بحال کر دی گئی۔ *[Dawn](https://www.dawn.com/news/2004066/jaffar-express-resumes-service-from-quetta)*
+- خیبرپختونخوا کے درہ آدم خیل میں سکیورٹی آپریشن کے دوران 8 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2003955/8-militants-killed-on-second-day-of-security-operation-in-kps-darra-adamkhel-security-sources)*
+- حکومت چار بڑے ڈیموں کے ذریعے پانی کے ذخیرے میں اضافہ کرنے کے لیے کام تیز کر رہی ہے۔ *[ARY](https://arynews.tv/govt-speeds-up-work-to-add-8-maf-water-storage-through-four-mega-dams)*
+- سعودی عرب نے حج کے انتظامات پر پاکستان کی تعریف کی۔ *[Business Recorder](https://www.brecorder.com/news/40423219/kingdom-lauds-pakistans-hajj-arrangements)*
+- وزیراعظم شہباز شریف نے صحافی الطاف قریشی کے گھر جا کر تعزیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40423223/pm-visits-altaf-qureshis-residence-pays-tributes)*
+- وزیر اعلیٰ پنجاب نے صفائی کے کاموں میں نمایاں کارکردگی دکھانے والے کارکنوں کو انعامات کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423225/cm-announces-rs10000-each-for-exceptional-cleanliness-services)*
+- لاہور ہائی کورٹ کے مطابق نوعمر بچوں کی تحویل ان کی رضامندی کے بغیر طے نہیں کی جا سکتی۔ *[Business Recorder](https://www.brecorder.com/news/40423227/lhc-says-teenagers-custody-cannot-be-decided-against-his-or-her-consent-unless)*
+- کھاریاں میں آگ کے نتیجے میں منی مارکیٹ تباہ ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423236/massive-fire-destroys-mini-market-in-kharian)*
+- پنجاب نے عید کی صفائی مہم میں کئی نئے ریکارڈ قائم کیے۔ *[Business Recorder](https://www.brecorder.com/news/40423238/eid-cleanliness-drive-punjab-sets-multiple-new-records)*
+- فیڈرل ڈائریکٹوریٹ آف ایجوکیشن (FDE) کے لیے مستقل ڈی جی کا تقرر۔ *[Business Recorder](https://www.brecorder.com/news/40423240/fde-employees-welcome-regular-dgs-appointment)*
+- اٹک میں منشیات فروشوں کے خلاف کارروائی، پانچ گرفتار۔ *[Business Recorder](https://www.brecorder.com/news/40423241/five-drug-peddlers-held-in-attock)*
 
 ### بین الاقوامی
-- ڈبلیو ایچ او کے سربراہ نے جمہوریہ کانگو میں **ایبولا کے پھیلاؤ** کے مرکز کا دورہ کیا۔ *[Dawn](https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo)*
-- لاؤس میں سیلاب زدہ غار سے **چار افراد** کو نکال لیا گیا، دو اب بھی لاپتہ ہیں۔ *[Dawn](https://www.dawn.com/news/2003913/rescuers-pull-4-from-flooded-cave-in-laos-2-still-missing)*
-- رومانیہ میں ایک **روسی ڈرون** اپارٹمنٹ بلاک سے ٹکرایا۔ *[Business Recorder](https://www.brecorder.com/news/40423172/romania-says-russian-drone-hit-apartment-block)*
-- میانمار کے صدر **من آنگ ہلانگ** کا بھارت کا سرکاری دورہ۔ *[Business Recorder](https://www.brecorder.com/news/40423208/myanmars-junta-chief-turned-president-heads-to-india-with-an-eye-on-china)*
+- امریکہ-ایران امن معاہدے پر دستخط کے لیے اسلام آباد کو ممکنہ میزبان قرار دیا گیا۔ *[Dawn](https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing)*
+- ترکی نے اسرائیل کی علاقائی بلاک میں شمولیت کے لیے فلسطینی ریاست کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2004056/turkiye-links-israels-inclusion-in-regional-bloc-to-palestinian-statehood)*
+- یورپی یونین کی اعلیٰ سطح کی سفارت کار کالا استراتجک مذاکرات کے لیے اسلام آباد آئیں گی۔ *[Dawn](https://www.dawn.com/news/2003965/eus-top-diplomat-kallas-to-visit-islamabad-on-june-1-for-strategic-dialogue)*
+- روس کا دعویٰ کہ یوکرین نے زاپوریژیا ایٹمی پلانٹ پر ڈرون حملہ کیا۔ *[ARY](https://arynews.tv/russia-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant)*
 
 ### کھیل
-- فرنچ اوپن میں **آرینا سبالینکا** اور ناؤمی اوساکا کے درمیان مقابلہ طے پا گیا۔ *[Dawn](https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week)*
-- کینیڈا نے **ورلڈ کپ** کے لیے حتمی اسکواڈ کا اعلان کر دیا، الفونسو ڈیوس ٹیم کا حصہ ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423211/canadas-squad-announced-with-recovering-davies-and-high-scoring-david-included-as-expected)*
-- نیوزی لینڈ نے آئرلینڈ کے خلاف **ون آف ٹیسٹ** میں شاندار جیت حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40423209/captain-latham-pleased-with-win-as-new-zealand-down-ireland-ahead-of-england-tests)*
-- **محمد صلاح** مصر کے ورلڈ کپ اسکواڈ کا حصہ ہوں گے۔ *[Business Recorder](https://www.brecorder.com/news/40423203/salah-heads-egypt-world-cup-squad-teen-talent-abdel-karim-earns-call-up)*
+- پاکستان نے آسٹریلیا کے خلاف پہلا ون ڈے میچ جیت لیا، عرفات منہاس نے ریکارڈ بنایا۔ *[Dawn](https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history)*
+- پی ایس جی (PSG) نے آرسنل کو ہرا کر چیمپئنز لیگ کا ٹائٹل برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/2004042/psg-edge-arsenal-on-penalties-to-retain-champions-league-title)*
+- فرانس اوپن میں آرینا سبالینکا اور نومی اوساکا کا مقابلہ ہوگا۔ *[Dawn](https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week)*
 
 ### صحت
-- ورلڈ ہیلتھ آرگنائزیشن کے سربراہ جمہوریہ کانگو میں **ایبولا کے پھیلاؤ** کے حوالے سے امدادی کاموں کا جائزہ لینے پہنچے۔ *[Dawn](https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo)*
+- ڈبلیو ایچ او (WHO) کے سربراہ ایبولا کے پھیلاؤ کے مرکز ڈی آر کنگو کا دورہ کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo)*
+- ڈچ حکام نے ہنٹا وائرس سے متاثرہ جہاز کو دوبارہ چلنے کی اجازت دے دی۔ *[ARY](https://arynews.tv/hantavirus-ship-cleared-to-sail-again-by-dutch-official)*
 
 ### دیگر
-- برطانوی گلوکار **مائلز سمتھ** نے اپنے نئے البم کے حوالے سے گفتگو کی۔ *[Business Recorder](https://www.brecorder.com/news/40423205/myles-smith-on-turning-therapy-into-a-debut-album)*
+- کوئٹہ میں نئے 'آرٹسٹ کیفے' کا قیام۔ *[Dawn](https://www.dawn.com/news/2004057/footprints-space-for-art)*
+- ڈولی پارٹن کی سالگرہ کے حوالے سے خبر۔ *[ARY](https://arynews.tv/dolly-parton-lights-up-47-years-of-great-balls-of-fire)*
+- لیڈی گاگا کے حوالے سے خبر۔ *[ARY](https://arynews.tv/goodbye-mayhem-lady-gaga-closes-epic-era)*
 
