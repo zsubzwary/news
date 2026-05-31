@@ -7,66 +7,56 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 31-May-2026 09:11PKT 
+ &lrm; 31-May-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- خانوال چیمبر آف کامرس نے بجلی کے بڑھتے ہوئے ٹیرف اور کیپیسیٹی چارجز پر شدید تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423224/khanewal-chamber-for-cut-in-power-tariffs)*
-- لیسکو (LESCO) نے مالیاتی اہداف کے حصول کے لیے افسران کو ریکوری مہم کی نگرانی کی ذمہ داریاں سونپ دیں۔ *[Business Recorder](https://www.brecorder.com/news/40423228/lesco-asks-officers-to-achieve-recovery-targets)*
-- آئی ایم ایف (IMF) مشن کے بعد پاکستان میں ایک سخت سالانہ بجٹ کے امکانات پر ماہرین کا تبصرہ۔ *[Business Recorder](https://www.brecorder.com/news/40423229/a-very-harsh-annual-budget-in-the-offing)*
-- پاکستان ایس ڈی سی چیمبر ٹریڈ فیڈریشن جنوبی افریقہ میں تجارتی نمائش کا انعقاد کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40423232/psctf-to-hold-single-country-trade-expo-in-south-africa)*
-- جمعیت اسلامیہ کے سربراہ نے ایندھن کی قیمتوں اور بجلی کے نرخوں میں کمی کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423233/ji-chief-calls-for-cut-in-fuel-prices)*
-- پی اشا (P@SHA) نے آئی ٹی کے شعبے کے لیے پالیسی استحکام کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423234/p-at-sha-stresses-need-to-ensure-policy-stability-for-it-enterprises)*
-- کراچی میں ریلوے کی 1.42 ارب روپے مالیت کی زمین برآمد کر لی گئی۔ *[ARY](https://arynews.tv/rs-1-42-bln-worth-of-railways-land-recovered-during-major-operation-in-karachi)*
+- مصنوعی ذہانت (AI) کے بڑھتے ہوئے اخراجات کی وجہ سے کمپنیاں اب اس ٹیکنالوجی کے استعمال پر دوبارہ غور کر رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2004145/expensive-ai-binge-leaves-companies-balking-at-soaring-bills)*
+- فوربس ایشیا کی '30 انڈر 30' فہرست میں سات پاکستانیوں کو شامل کیا گیا ہے، جو جدت اور کاروبار میں ملک کی ترقی کو ظاہر کرتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423296/seven-pakistanis-make-forbes-asias-30-under-30-list-for-2026)*
+- گیریز ڈناٹا نے اپنے کاروباری آپریشنز کے حوالے سے گردش کرنے والے الزامات کی سختی سے تردید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423311/gerrys-dnata-issues-formal-disclaimer-regarding-business-operations)*
 
 ### سائنس اور ٹیکنالوجی
-- راکٹ دھماکے کے باعث بلیو اوریجن (Blue Origin) کو کئی ماہ کی تاخیر کا سامنا کرنا پڑ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad)*
+- امریکہ کے شمال مشرقی حصے میں ایک شہاب ثاقب دھماکے کے ساتھ پھٹا، جس کی طاقت 300 ٹن ٹی این ٹی کے برابر تھی۔ *[Dawn](https://www.dawn.com/news/2004129/meteor-explodes-over-us-with-blast-equivalent-to-300-tonnes-of-tnt)*
 
 ### موسم
-- عالمی ادارہ موسمیات نے بڑھتے ہوئے عالمی درجہ حرارت کے حوالے سے وارننگ جاری کی۔ *[Dawn](https://www.dawn.com/news/2004071/the-heat-ahead)*
-- پاکستان میں 'سپر ایل نینو' کے ممکنہ ظہور سے شدید موسمیاتی خطرات کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40423230/bracing-for-super-el-nino)*
-- پنجاب کے وزیر اعلیٰ نے موسلا دھار بارشوں کے پیش نظر محکموں کو الرٹ رہنے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40423226/likely-torrential-rains-cm-asks-departments-to-remain-on-high-alert)*
+- خیبر پختونخوا کے علاقے بابوسر ٹاپ پر مسلسل برف باری کے باعث سیاحوں اور ٹرانسپورٹ آپریٹرز کو احتیاط برتنے کی ہدایت کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2004127/travellers-visiting-babusar-top-urged-to-exercise-caution-due-to-snowfall)*
 
 ### سیاست
-- امریکی وزیر دفاع نے امریکہ-ایران مذاکرات میں پاکستان کے کردار کو سراہا۔ *[Dawn](https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations)*
-- سینیٹ کے چیئرمین نے سندھ طاس معاہدے پر بھارت کے اقدامات پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2004048/senate-chairman-gilani-voices-concern-over-indias-actions-on-indus-waters-treaty)*
-- خیبرپختونخوا کے وزیر اعلیٰ نے گلگت بلتستان کے انتخابات میں شفافیت کے لیے عدالتی مداخلت کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment)*
-- پی ٹی آئی رہنما اسد قیصر نے ایئرپورٹ پہنچنے سے روکے جانے کا الزام لگایا۔ *[Dawn](https://www.dawn.com/news/2003905/ptis-asad-qaiser-alleges-authorities-barred-him-from-reaching-islamabad-airport-for-skardu-flight)*
-- اقوام متحدہ سلامتی کونسل نے جنوبی سوڈان پر پابندیاں ایک سال کے لیے بڑھا دیں۔ *[Business Recorder](https://www.brecorder.com/news/40423237/unsc-votes-to-extend-sanctions-on-south-sudan-for-one-year)*
+- سینئر وزیر شارجیل میمن نے سندھ کے پانی کے حصے میں کمی پر تحفظات کا اظہار کرتے ہوئے وفاقی حکومت سے مداخلت کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-in-sindhs-water-share-urges-centre-to-take-notice)*
+- بجلی کے وزیر اویس لغاری نے لیسکو کے ملازمین کی کرپشن کے الزامات پر سخت کارروائی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption)*
+- ایم این اے علی موسیٰ گیلانی نے یو اے ای سے ملک بدری کی خبروں کو مسترد کرتے ہوئے انہیں 'جعلی خبریں' قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2004143/fake-news-mna-ali-musa-gilani-denies-reports-of-his-deportation-from-uae)*
+- آزاد جموں و کشمیر میں JAAC کے ساتھ مذاکرات ناکام ہونے کے بعد 9 جون کو ہڑتال کا فیصلہ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004054/centre-jaac-talks-end-without-success-june-9-strike-to-go-ahead)*
+- لاہور ہائی کورٹ نے قرار دیا کہ نکاح نامہ میں ذکر نہ ہونے کے باوجود مہر کے طور پر گھر کا حق قانونی طور پر قابلِ عمل ہے۔ *[Dawn](https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower)*
+- یورپی یونین کی خارجہ پالیسی کی سربراہ کایا کالس کا پاکستان کا دورہ کرنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423304/eu-foreign-policy-chief-kaja-kallas-to-visit-pakistan-tomorrow-for-strategic-dialogue)*
+- بلوچستان میں ایک کسان کے لاپتہ ہونے کے معاملے پر وائس فار بلوچ مسنگ پرسنز نے فوری واپسی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004043/missing-balochistan-farmers-recovery-sought)*
+- کراچی میٹروپولیٹن کارپوریشن نے ہل پارک کے قریب غیر قانونی تعمیرات پر کام روک دیا ہے اور پولیس سے کارروائی کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423315/kmc-halts-work-near-hill-park-approaches-police-over-illegal-land-occupation)*
+- ایم کیو ایم پی نے کراچی میں پانی کے بحران کے خلاف شہر گیر احتجاج کا انتباہ دیا ہے۔ *[ARY](https://arynews.tv/mqm-p-warns-of-protests-over-water-crisis-in-karachi)*
 
-### ملکی
-- آزاد کشمیر میں مرکز اور جے اے اے سی کے درمیان مذاکرات ناکام، ہڑتال کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2004054/centre-jaac-talks-end-without-success-june-9-strike-to-go-ahead)*
-- لاہور ہائی کورٹ نے طلاق یافتہ خاتون کے حق میں مکان کو حق مہر قرار دے کر فیصلہ برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower)*
-- کوئٹہ سے جعفر ایکسپریس کی سروس بحال کر دی گئی۔ *[Dawn](https://www.dawn.com/news/2004066/jaffar-express-resumes-service-from-quetta)*
-- خیبرپختونخوا کے درہ آدم خیل میں سکیورٹی آپریشن کے دوران 8 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2003955/8-militants-killed-on-second-day-of-security-operation-in-kps-darra-adamkhel-security-sources)*
-- حکومت چار بڑے ڈیموں کے ذریعے پانی کے ذخیرے میں اضافہ کرنے کے لیے کام تیز کر رہی ہے۔ *[ARY](https://arynews.tv/govt-speeds-up-work-to-add-8-maf-water-storage-through-four-mega-dams)*
-- سعودی عرب نے حج کے انتظامات پر پاکستان کی تعریف کی۔ *[Business Recorder](https://www.brecorder.com/news/40423219/kingdom-lauds-pakistans-hajj-arrangements)*
-- وزیراعظم شہباز شریف نے صحافی الطاف قریشی کے گھر جا کر تعزیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40423223/pm-visits-altaf-qureshis-residence-pays-tributes)*
-- وزیر اعلیٰ پنجاب نے صفائی کے کاموں میں نمایاں کارکردگی دکھانے والے کارکنوں کو انعامات کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423225/cm-announces-rs10000-each-for-exceptional-cleanliness-services)*
-- لاہور ہائی کورٹ کے مطابق نوعمر بچوں کی تحویل ان کی رضامندی کے بغیر طے نہیں کی جا سکتی۔ *[Business Recorder](https://www.brecorder.com/news/40423227/lhc-says-teenagers-custody-cannot-be-decided-against-his-or-her-consent-unless)*
-- کھاریاں میں آگ کے نتیجے میں منی مارکیٹ تباہ ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423236/massive-fire-destroys-mini-market-in-kharian)*
-- پنجاب نے عید کی صفائی مہم میں کئی نئے ریکارڈ قائم کیے۔ *[Business Recorder](https://www.brecorder.com/news/40423238/eid-cleanliness-drive-punjab-sets-multiple-new-records)*
-- فیڈرل ڈائریکٹوریٹ آف ایجوکیشن (FDE) کے لیے مستقل ڈی جی کا تقرر۔ *[Business Recorder](https://www.brecorder.com/news/40423240/fde-employees-welcome-regular-dgs-appointment)*
-- اٹک میں منشیات فروشوں کے خلاف کارروائی، پانچ گرفتار۔ *[Business Recorder](https://www.brecorder.com/news/40423241/five-drug-peddlers-held-in-attock)*
+### قومی
+- کراچی میں بجلی کی بندش کی وجہ سے پانی کی سپلائی میں 54 ملین گیلن یومیہ کمی واقع ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc)*
+- ایف آئی اے نے انسانی اسمگلنگ روکنے کے لیے سال 2025 میں تقریباً 39,800 مسافروں کو جہاز سے اتار دیا۔ *[Dawn](https://www.dawn.com/news/2004120/fia-offloaded-nearly-39800-passengers-in-2025-to-curb-human-smuggling-official-says)*
 
 ### بین الاقوامی
-- امریکہ-ایران امن معاہدے پر دستخط کے لیے اسلام آباد کو ممکنہ میزبان قرار دیا گیا۔ *[Dawn](https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing)*
-- ترکی نے اسرائیل کی علاقائی بلاک میں شمولیت کے لیے فلسطینی ریاست کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2004056/turkiye-links-israels-inclusion-in-regional-bloc-to-palestinian-statehood)*
-- یورپی یونین کی اعلیٰ سطح کی سفارت کار کالا استراتجک مذاکرات کے لیے اسلام آباد آئیں گی۔ *[Dawn](https://www.dawn.com/news/2003965/eus-top-diplomat-kallas-to-visit-islamabad-on-june-1-for-strategic-dialogue)*
-- روس کا دعویٰ کہ یوکرین نے زاپوریژیا ایٹمی پلانٹ پر ڈرون حملہ کیا۔ *[ARY](https://arynews.tv/russia-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant)*
+- اسرائیلی فوج نے لبنان کے تاریخی بو فورٹ قلعے پر قبضہ کر لیا ہے، جو کہ گزشتہ 26 سالوں میں لبنان کے اندر سب سے گہری مداخلت ہے۔ *[Dawn](https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years)*
+- امریکہ اور ایران کے درمیان ممکنہ امن معاہدے کے دستخط کے لیے اسلام آباد ایک اہم امیدوار کے طور پر سامنے آیا ہے۔ *[Dawn](https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing)*
+- ترکیہ نے کہا ہے کہ اسرائیل کو علاقائی بلاک میں شامل کرنے کے لیے فلسطینی ریاست کا اعتراف ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2004056/turkiye-links-israels-inclusion-in-regional-bloc-to-palestinian-statehood)*
+- پیرس میں پی ایس جی (PSG) کی جیت کے جشن کے دوران ہونے والے جھگڑوں میں پولیس نے 280 سے زائد افراد کو گرفتار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423313/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france)*
+- یوکرین کے زاپوریژیا ایٹمی بجلی گھر پر ڈرون حملہ ہوا، جس سے عمارت کو نقصان پہنچنے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423312/drone-hits-captured-nuclear-plant-in-ukraine-iaea)*
+- امریکہ نے دفاعی اخراجات کے حوالے سے اپنے یورپی اتحادیوں پر تنقید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423310/us-castigates-europe-over-defence-spend-as-nato-reassures-asia)*
+- جنوبی کوریا اور جاپان نے فوجی لاجسٹک سپورٹ معاہدے کے امکانات پر بات چیت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423307/south-korea-japan-discuss-military-logistics-support-deal-seoul-says)*
+- جاپان نے چین پر تیزی سے ہتھیار جمع کرنے کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423297/japan-rejects-new-militarism-accuses-china-of-rapidly-arming)*
+- کویت نے شدید گرمی کے باعث دوپہر کے وقت کھلے آسمان تلے کام کرنے پر پابندی کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/kuwait-announces-new-ban-on-outdoor-work)*
 
 ### کھیل
-- پاکستان نے آسٹریلیا کے خلاف پہلا ون ڈے میچ جیت لیا، عرفات منہاس نے ریکارڈ بنایا۔ *[Dawn](https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history)*
-- پی ایس جی (PSG) نے آرسنل کو ہرا کر چیمپئنز لیگ کا ٹائٹل برقرار رکھا۔ *[Dawn](https://www.dawn.com/news/2004042/psg-edge-arsenal-on-penalties-to-retain-champions-league-title)*
-- فرانس اوپن میں آرینا سبالینکا اور نومی اوساکا کا مقابلہ ہوگا۔ *[Dawn](https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week)*
-
-### صحت
-- ڈبلیو ایچ او (WHO) کے سربراہ ایبولا کے پھیلاؤ کے مرکز ڈی آر کنگو کا دورہ کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo)*
-- ڈچ حکام نے ہنٹا وائرس سے متاثرہ جہاز کو دوبارہ چلنے کی اجازت دے دی۔ *[ARY](https://arynews.tv/hantavirus-ship-cleared-to-sail-again-by-dutch-official)*
+- پاکستان نے آسٹریلیا کو پہلے ون ڈے میچ میں پانچ وکٹوں سے شکست دے دی، جس میں عرفات منہاس نے شاندار آغاز کیا۔ *[Dawn](https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history)*
+- فرانسیسی اوپن میں اناستاسیا پوٹاپووا نے کوکو گاف کو شکست دے کر بڑا اپ سیٹ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423303/potapova-says-austria-switch-boosted-confidence-following-gauff-upset)*
+- برازیل کے کوچ کارلو اینسیلٹی کا کہنا ہے کہ نیمار اپنی چوٹ سے جلد صحت یاب ہو سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423301/brazil-boss-ancelotti-confident-forward-neymar-will-recover-for-world-cup)*
+- لورپول نے اپنے کوچ آرن سلاٹ کو ٹیم سے فارغ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423300/liverpool-sack-slot-after-title-defence-turns-into-european-scramble)*
+- ورلڈ کپ کے لیے تیاریوں کے سلسلے میں میکسیکو نے آسٹریلیا کو 1-0 سے شکست دی۔ *[Business Recorder](https://www.brecorder.com/news/40423299/world-cup-co-hosts-mexico-beat-australia-1-0-in-rose-bowl-warmup)*
 
 ### دیگر
-- کوئٹہ میں نئے 'آرٹسٹ کیفے' کا قیام۔ *[Dawn](https://www.dawn.com/news/2004057/footprints-space-for-art)*
-- ڈولی پارٹن کی سالگرہ کے حوالے سے خبر۔ *[ARY](https://arynews.tv/dolly-parton-lights-up-47-years-of-great-balls-of-fire)*
-- لیڈی گاگا کے حوالے سے خبر۔ *[ARY](https://arynews.tv/goodbye-mayhem-lady-gaga-closes-epic-era)*
+- پاکستانی حاجیوں کا پہلا گروپ مکہ مکرمہ سے روانہ ہو چکا ہے۔ *[ARY](https://arynews.tv/hajj-2026-first-batch-of-pakistani-pilgrims-departs-makkah-as-post-hajj-flights-begin)*
+- جارجیا میں اسٹالن کے 40,000 بوتلوں کے قیمتی شراب کے کلیکشن کی نیلامی کی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40423309/georgia-uncorks-the-value-of-stalins-40000-bottle-wine-collection)*
+- اٹلی نے سیکیورٹی خدشات کی وجہ سے کانی و ایسٹ اور ٹریوس سکاٹ کے کنسرٹس پر پابندی لگا دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423308/italy-bans-kanye-west-travis-scott-concerts-over-security-concerns)*
 
