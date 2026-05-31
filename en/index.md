@@ -4,65 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 31-May-2026 09:05PKT
+Published at: 31-May-2026 21:04PKT
 
 Time to read: 5 mins
 
 ### Economy
-- Khanewal Chamber of Commerce expressed serious concerns regarding rising electricity tariffs and capacity charges. *[Business Recorder](https://www.brecorder.com/news/40423224/khanewal-chamber-for-cut-in-power-tariffs)*
-- LESCO management has assigned special monitoring responsibilities to officers to meet financial recovery targets. *[Business Recorder](https://www.brecorder.com/news/40423228/lesco-asks-officers-to-achieve-recovery-targets)*
-- Economists anticipate a potentially harsh annual budget following the recent IMF mission to Pakistan. *[Business Recorder](https://www.brecorder.com/news/40423229/a-very-harsh-annual-budget-in-the-offing)*
-- A single-country trade expo is planned for South Africa to boost Pakistan's economic engagement with Africa. *[Business Recorder](https://www.brecorder.com/news/40423232/psctf-to-hold-single-country-trade-expo-in-south-africa)*
-- Jamaat-e-Islami leadership has called for a substantial reduction in fuel and electricity prices. *[Business Recorder](https://www.brecorder.com/news/40423233/ji-chief-calls-for-cut-in-fuel-prices)*
-- P@SHA has stressed the need for policy stability for IT enterprises in the upcoming federal budget. *[Business Recorder](https://www.brecorder.com/news/40423234/p-at-sha-stresses-need-to-ensure-policy-stability-for-it-enterprises)*
+- Seven Pakistanis have been recognized in the Forbes Asia ‘30 Under 30’ list for 2026 across various sectors. *[Business Recorder](https://www.brecorder.com/news/40423296/seven-pakistanis-make-forbes-asias-30-under-30-list-for-2026)*
+- Gerry’s dnata has issued a formal disclaimer refuting misleading claims regarding its business operations and has appealed an administrative penalty. *[Business Recorder](https://www.brecorder.com/news/40423311/gerrys-dnata-issues-formal-disclaimer-regarding-business-operations)*
 
 ### Science & Technology
-- Blue Origin faces months of delays following a rocket explosion that damaged its launch pad. *[Dawn](https://www.dawn.com/news/2003929/blue-origin-faces-months-of-delays-after-rocket-explosion-damages-launch-pad)*
+- A meteor exploded over the northeastern United States, creating a fireball with a blast equivalent to 300 tonnes of TNT. *[Dawn](https://www.dawn.com/news/2004129/meteor-explodes-over-us-with-blast-equivalent-to-300-tonnes-of-tnt)*
+- Rising costs are causing companies to reconsider their heavy investment in artificial intelligence as the era of "subsidized intelligence" ends. *[Dawn](https://www.dawn.com/news/2004145/expensive-ai-binge-leaves-companies-balking-at-soaring-bills)*
 
 ### Weather
-- Global temperatures are expected to remain at record levels, with the possible emergence of a "Super El Nino" posing risks to Pakistan. *[Dawn](https://www.dawn.com/news/2004071/the-heat-ahead) | [Business Recorder](https://www.brecorder.com/news/40423230/bracing-for-super-el-nino)*
-- Punjab Chief Minister Maryam Nawaz has directed departments to remain on high alert for torrential rains. *[Business Recorder](https://www.brecorder.com/news/40423226/likely-torrential-rains-cm-asks-departments-to-remain-on-high-alert)*
-
-### Politics
-- Senate Chairman Gilani expressed concern regarding India's unilateral actions involving the Indus Waters Treaty. *[Dawn](https://www.dawn.com/news/2004048/senate-chairman-gilani-voices-concern-over-indias-actions-on-indus-waters-treaty)*
-- Khyber Pakhtunkhwa CM Sohail Afridi urged the Gilgit-Baltistan Chief Justice to ensure electoral transparency. *[Dawn](https://www.dawn.com/news/2003931/kp-cm-afridi-urges-gb-chief-justice-to-ensure-transparency-amid-alarming-electoral-environment)*
-- Senate Chairman Gilani reaffirmed Pakistan’s commitment to strengthening ties with the United States. *[Business Recorder](https://www.brecorder.com/news/40423222/pakistan-committed-to-strengthening-ties-with-us-gilani)*
+- Authorities in Naran have issued a travel advisory for Babusar Top, urging caution due to persistent snowfall and hazardous roads. *[Dawn](https://www.dawn.com/news/2004127/travellers-visiting-babusar-top-urged-to-exercise-caution-due-to-snowfall)*
 
 ### National
-- Negotiations between the federal government and JAAC in AJK ended without success, prompting a scheduled strike. *[Dawn](https://www.dawn.com/news/2004054/centre-jaac-talks-end-without-success-june-9-strike-to-go-ahead) | [Business Recorder](https://www.brecorder.com/news/40423220/second-round-of-centre-jpac-talks-begins)*
-- The Lahore High Court upheld a divorced woman's right to possession of a house as dower. *[Dawn](https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower) | [Business Recorder](https://www.brecorder.com/news/40423227/lhc-says-teenagers-custody-cannot-be-decided-against-his-or-her-consent-unless)*
-- Train services from Quetta to Peshawar have been fully restored. *[Dawn](https://www.dawn.com/news/2004066/jaffar-express-resumes-service-from-quetta)*
-- A security operation in Darra Adamkhel has resulted in the death of 13 militants. *[Dawn](https://www.dawn.com/news/2003955/8-militants-killed-on-second-day-of-security-operation-in-kps-darra-adamkhel-security-sources)*
-- PTI leader Asad Qaiser alleged that authorities prevented him from reaching the airport for a campaign flight. *[Dawn](https://www.dawn.com/news/2003905/ptis-asad-qaiser-alleges-authorities-barred-him-from-reaching-islamabad-airport-for-skardu-flight)*
-- A major operation in Karachi led to the recovery of Rs 1.42 billion worth of Railway land. *[ARY](https://arynews.tv/rs-1-42-bln-worth-of-railways-land-recovered-during-major-operation-in-karachi)*
-- The government is working to increase water storage by 8 MAF through four new mega dams. *[ARY](https://arynews.tv/govt-speeds-up-work-to-add-8-maf-water-storage-through-four-mega-dams)*
-- Prime Minister Shehbaz Sharif paid tribute to the services of late journalist Altaf Hassan Qureshi. *[Business Recorder](https://www.brecorder.com/news/40423223/pm-visits-altaf-qureshis-residence-pays-tributes)*
-- Punjab CM announced cash rewards for sanitation workers during the Eid cleanliness drive. *[Business Recorder](https://www.brecorder.com/news/40423225/cm-announces-rs10000-each-for-exceptional-cleanliness-services)*
-- A massive fire destroyed a mini-market in Kharian, causing heavy financial losses. *[Business Recorder](https://www.brecorder.com/news/40423236/massive-fire-destroys-mini-market-in-kharian)*
-- Punjab set new records during its large-scale Eid-ul-Azha sanitation campaign. *[Business Recorder](https://www.brecorder.com/news/40423238/eid-cleanliness-drive-punjab-sets-multiple-new-records)*
-- A regular Director General was appointed to the Federal Directorate of Education (FDE). *[Business Recorder](https://www.brecorder.com/news/40423240/fde-employees-welcome-regular-dgs-appointment)*
-- Police in Attock arrested five drug peddlers and recovered narcotics. *[Business Recorder](https://www.brecorder.com/news/40423241/five-drug-peddlers-held-in-attock)*
+- Senior Minister Sharjeel Memon has urged the federal government to address an "unjust reduction" in Sindh's water share by Irsa. *[Dawn](https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-in-sindhs-water-share-urges-centre-to-take-notice)*
+- Karachi is experiencing a severe water crisis, including a 54 MGD shortfall following electricity disruptions at the North East Karachi Pumping Station and the Dhabeji Pumping Station. *[Dawn](https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc) / [Dawn](https://www.dawn.com/news/2003996/karachi-water-crisis-deepens-as-power-outage-hits-dhabeji-pumping-station)*
+- The Power Minister announced strict action against a Lesco official following allegations of financial corruption. *[Dawn](https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption)*
+- Construction near Karachi’s Hill Park has been halted, and the KMC is pursuing legal action against illegal land occupation. *[Dawn](https://www.dawn.com/news/2004139/mayor-wahab-says-construction-work-near-karachis-hill-park-halted-mqm-p-demands-probe-into-noc) / [Business Recorder](https://www.brecorder.com/news/40423315/kmc-halts-work-near-hill-park-approaches-police-over-illegal-land-occupation)*
+- MNA Ali Musa Gilani has dismissed reports of his deportation from the UAE as "fake news." *[Dawn](https://www.dawn.com/news/2004143/fake-news-mna-ali-musa-gilani-denies-reports-of-his-deportation-from-uae)*
+- The FIA offloaded nearly 39,800 passengers in 2025 as part of an intelligence-driven effort to curb human smuggling. *[Dawn](https://www.dawn.com/news/2004120/fia-offloaded-nearly-39800-passengers-in-2025-to-curb-human-smuggling-official-says)*
+- Negotiations between the federal government and the JAAC failed to reach a breakthrough, resulting in a planned strike for June 9. *[Dawn](https://www.dawn.com/news/2004054/centre-jaac-talks-end-without-success-june-9-strike-to-go-ahead)*
+- The Lahore High Court upheld a ruling granting a divorced woman possession of a house as her legal dower (haq mehr). *[Dawn](https://www.dawn.com/news/2004049/lhc-upholds-divorced-womans-right-to-house-as-dower) / [ARY](https://arynews.tv/lahore-high-court-clarifies-haq-mehr-rights)*
+- The Voice for Baloch Missing Persons has called for the immediate recovery of a farmer allegedly taken into custody by security agencies. *[Dawn](https://www.dawn.com/news/2004043/missing-balochistan-farmers-recovery-sought)*
+- The first batch of Pakistani pilgrims has begun departing Makkah as post-Hajj flights commence. *[ARY](https://arynews.tv/hajj-2026-first-batch-of-pakistani-pilgrims-departs-makkah-as-post-hajj-flights-begin)*
 
 ### International
-- US-Iran peace negotiations are ongoing, with Islamabad potentially hosting the formal signing ceremony. *[Dawn](https://www.dawn.com/news/2004068/talks-productive-but-war-not-off-the-table-us) | [Dawn](https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing) | [Dawn](https://www.dawn.com/news/2003936/us-pakistan-developing-true-friendship-hegseth-hails-islamabads-role-in-us-iran-negotiations)*
-- Turkiye stated that Israel's inclusion in a regional platform is contingent on the recognition of a Palestinian state. *[Dawn](https://www.dawn.com/news/2004056/turkiye-links-israels-inclusion-in-regional-bloc-to-palestinian-statehood)*
-- EU High Representative Kaja Kallas is scheduled to visit Pakistan for strategic dialogue. *[Dawn](https://www.dawn.com/news/2003965/eus-top-diplomat-kallas-to-visit-islamabad-on-june-1-for-strategic-dialogue)*
-- US President Donald Trump was reported to be in "excellent health" following a routine medical check. *[Dawn](https://www.dawn.com/news/2003883/fully-fit-to-carry-out-all-duties-presidential-physician-says-trump-in-excellent-health-but-should-lose-weight)*
-- Russia claims a Ukrainian drone struck the Zaporizhzhia nuclear plant, an allegation denied by Kyiv. *[ARY](https://arynews.tv/russia-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant)*
-- The UN Security Council has extended sanctions on South Sudan for one year. *[Business Recorder](https://www.brecorder.com/news/40423237/unsc-votes-to-extend-sanctions-on-south-sudan-for-one-year)*
-- Saudi Arabia's Ministry of Hajj and Umrah lauded Pakistan's Hajj arrangements. *[Business Recorder](https://www.brecorder.com/news/40423219/kingdom-lauds-pakistans-hajj-arrangements)*
-- Pakistan and the EU continue to strengthen higher education partnerships through the Erasmus+ framework. *[Business Recorder](https://www.brecorder.com/news/40423239/pak-eu-collaboration-to-further-strengthen-partnership)*
+- Israeli forces have captured the historic Beaufort Castle in southern Lebanon, marking their deepest incursion into the country in 26 years. *[Dawn](https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years) / [Business Recorder](https://www.brecorder.com/news/40423305/israel-troops-capture-beaufort-castle-in-southern-lebanon-push-against-hezbollah)*
+- President Trump claims to have secured guarantees from Iran regarding its nuclear ambitions, amid reports of tougher peace proposals. *[Dawn](https://www.dawn.com/news/2004116/trump-claims-iran-agreed-to-no-nuclear-weapons-amid-reports-of-tougher-terms-sent-to-tehran)*
+- Islamabad is a leading contender to host the formal signing of a potential US-Iran peace agreement. *[Dawn](https://www.dawn.com/news/2004067/islamabad-stays-in-frame-for-us-iran-deal-signing)*
+- Violent clashes in Paris during Paris Saint-Germain’s Champions League victory celebrations led to the arrest of hundreds of people. *[Dawn](https://www.dawn.com/news/2004113/hundreds-arrested-as-clashes-erupt-in-paris-on-psg-victory-night) / [Business Recorder](https://www.brecorder.com/news/40423313/780-arrested-deadly-road-accident-in-riotous-psg-victory-celebrations-across-france)*
+- Turkiye has linked Israel's potential inclusion in a regional cooperative platform to the recognition of a Palestinian state. *[Dawn](https://www.dawn.com/news/2004056/turkiye-links-israels-inclusion-in-regional-bloc-to-palestinian-statehood)*
+- Iran's chief negotiator stated that no deal will be reached with the US until the rights of the Iranian people are secured. *[Business Recorder](https://www.brecorder.com/news/40423314/iran-chief-negotiator-says-no-deal-with-us-until-iranian-rights-secured)*
+- A drone strike reportedly hit the turbine building at the Russian-occupied Zaporizhzhia nuclear power plant in Ukraine. *[Business Recorder](https://www.brecorder.com/news/40423312/drone-hits-captured-nuclear-plant-in-ukraine-iaea)*
+- Ukrainian drones have targeted energy and industrial infrastructure across several Russian regions. *[Business Recorder](https://www.brecorder.com/news/40423306/ukrainian-drones-hit-targets-across-several-russian-regions)*
+- The US has criticized European allies over defense spending levels during the Shangri-La Dialogue. *[Business Recorder](https://www.brecorder.com/news/40423310/us-castigates-europe-over-defence-spend-as-nato-reassures-asia)*
+- Japan has rejected accusations of "new militarism" while criticizing China's rapid military expansion. *[Business Recorder](https://www.brecorder.com/news/40423297/japan-rejects-new-militarism-accuses-china-of-rapidly-arming)*
+- EU foreign policy chief Kaja Kallas is set to visit Pakistan for strategic dialogue to advance bilateral engagement. *[Business Recorder](https://www.brecorder.com/news/40423304/eu-foreign-policy-chief-kaja-kallas-to-visit-pakistan-tomorrow-for-strategic-dialogue)*
+- Italy has banned concerts by Kanye West and Travis Scott due to public order and security concerns. *[Business Recorder](https://www.brecorder.com/news/40423308/italy-bans-kanye-west-travis-scott-concerts-over-security-concerns)*
 
 ### Sports
-- Pakistan secured a milestone five-wicket victory over Australia in an ODI in Rawalpindi. *[Dawn](https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history) | [ARY](https://arynews.tv/pakistan-seals-comfortable-first-odi-victory-over-australia)*
-- PSG retained their Champions League title after defeating Arsenal in a penalty shootout. *[Dawn](https://www.dawn.com/news/2004042/psg-edge-arsenal-on-penalties-to-retain-champions-league-title) | [ARY](https://arynews.tv/psg-retain-champions-league-title-with-shoot-out-win-over-arsenal) | [ARY](https://arynews.tv/psg-champions-league-win-sparks-global-reaction)*
-- Aryna Sabalenka and Naomi Osaka have set up a high-profile meeting at the French Open. *[Dawn](https://www.dawn.com/news/2003946/sabalenka-osaka-set-up-french-open-clash-gauff-eyes-second-week)*
-
-### Health
-- WHO chief Tedros Adhanom Ghebreyesus visited the epicentre of the Ebola outbreak in the DR Congo. *[Dawn](https://www.dawn.com/news/2003935/who-chief-visits-epicentre-of-ebola-outbreak-in-dr-congo)*
-- Dutch health officials have cleared a ship involved in a hantavirus incident to sail again. *[ARY](https://arynews.tv/hantavirus-ship-cleared-to-sail-again-by-dutch-official)*
+- Pakistan secured a milestone victory over Australia in their 1,000th ODI, highlighted by Arafat Minhas's historic five-wicket debut. *[Dawn](https://www.dawn.com/news/2003971/pakistan-outspins-australia-in-milestone-odi-as-minhas-makes-history)*
+- Anastasia Potapova upset defending champion Coco Gauff at the French Open following her switch to representing Austria. *[Business Recorder](https://www.brecorder.com/news/40423303/potapova-says-austria-switch-boosted-confidence-following-gauff-upset)*
+- Brazil coach Carlo Ancelotti expressed optimism that Neymar will recover in time for the upcoming World Cup. *[Business Recorder](https://www.brecorder.com/news/40423301/brazil-boss-ancelotti-confident-forward-neymar-will-recover-for-world-cup)*
+- Liverpool has parted ways with manager Arne Slot following a disappointing second season. *[Business Recorder](https://www.brecorder.com/news/40423300/liverpool-sack-slot-after-title-defence-turns-into-european-scramble)*
+- Mexico defeated Australia 1-0 in a World Cup warmup friendly held at the Rose Bowl. *[Business Recorder](https://www.brecorder.com/news/40423299/world-cup-co-hosts-mexico-beat-australia-1-0-in-rose-bowl-warmup)*
 
 ### Other
-- A new 'Artist Cafe' has been established in Quetta as a cultural space. *[Dawn](https://www.dawn.com/news/2004057/footprints-space-for-art)*
-- Cultural updates feature Dolly Parton's 47-year milestone and Lady Gaga's latest era. *[ARY](https://arynews.tv/dolly-parton-lights-up-47-years-of-great-balls-of-fire) | [ARY](https://arynews.tv/goodbye-mayhem-lady-gaga-closes-epic-era)*
+- The Georgian government plans to auction off a massive 40,000-bottle wine collection formerly owned by Josef Stalin. *[Business Recorder](https://www.brecorder.com/news/40423309/georgia-uncorks-the-value-of-stalins-40000-bottle-wine-collection)*
+- Various entertainment updates include rumors regarding Harry Styles and Zoë Kravitz, and legal news concerning Kris Jenner. *[ARY](https://arynews.tv/harry-styles-zoe-kravitz-secretly-planning-two-weddings) / [ARY](https://arynews.tv/kris-jenner-wins-restraining-order-against-kylies-stalker)*
 
