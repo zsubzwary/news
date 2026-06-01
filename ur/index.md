@@ -7,65 +7,74 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-Jun-2026 09:11PKT 
+ &lrm; 01-Jun-2026 21:11PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- پاکستان میں مقامی قیمتوں کے کم ہونے کے باوجود کپاس کی درآمدات میں اضافہ ہوا ہے، جبکہ صنعت کاروں نے ٹیکسوں اور بجلی کے نرخوں میں کمی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004232/imports-of-cotton-surge-despite-lower-local-prices)*
-- تیل کی صنعت نے آنے والے بجٹ میں ونڈ فال ٹیکس لگانے کی مخالفت کی ہے۔ *[Dawn](https://www.dawn.com/news/2004210/oil-industry-opposes-windfall-tax-in-upcoming-budget)*
-- بجلی کے وزیر کا کہنا ہے کہ چینی پاور پروڈیوسرز سے ڈسکاؤنٹ حاصل کرنے کے لیے ہونے والی بات چیت سے ابھی تک کوئی تسلی بخش نتیجہ نہیں نکلا۔ *[Dawn](https://www.dawn.com/news/2004161/no-sufficient-outcome-yet-of-talks-to-secure-discounts-from-chinese-power-producers-leghari)*
-- معاشی اشارے بہتر ہونے کے باوجود عوام میں معیشت کے حوالے سے تشویش پائی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2004248/budget-concerns)*
-- مہنگائی کی وجہ سے پاکستان میں غریب طبقے کو شدید مشکلات کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2004207/inflation-squeezing-safed-posh-the-most-in-pakistan)*
-- اسرائیل اور لبنان کے درمیان کشیدگی کے باعث عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[ARY](https://arynews.tv/oil-prices-rise-more-than-2-over-israeli-incursion-into-lebanon)*
-- بھارتی شیئرز میں مندی کے بعد واپسی کے امکانات موجود ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423404/indian-shares-may-open-higher-rebounding-from-fridays-record-foreign-sell-off)*
-- امریکی ڈالر مستحکم ہے جبکہ سرمایہ کار مشرق وسطیٰ میں امن مذاکرات کے نتائج کا انتظار کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423403/dollar-steadies-as-markets-await-signals-on-Iran-war-central-banks)*
-- بھارتی روپے اور بانڈز کی قدر پر آر بی آئی کی پالیسی اور ترقی کے اعداد و شمار کا اثر ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40423402/rbi-policy-decision-growth-data-in-focus-for-indian-rupee-and-bonds)*
-- ایشیائی اسٹاک مارکیٹس میں مصنوعی ذہانت (AI) کے شعبے میں ترقی سے بہتری کی امید ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423401/asia-stocks-count-on-AI-boom-to-offset-Gulf-risks)*
-- امریکی ڈالر اور تیل کی قیمتوں میں اضافے سے سونے کی قیمتوں میں کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423400/gold-slips-on-stronger-dollar-oil-trump-s-decision-on-Iran-ceasefire-in-focus)*
-- پاکستان میں جڑی بوٹیوں سے بنی ادویات کے شعبے کو خام مال کی درآمد کی وجہ سے سالانہ 200 ملین ڈالر کا نقصان ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423354/herbal-medicine-sector-theres-usd200m-annual-loss-due-to-imported-raw-materials-paam)*
-- پاکستان کی ایک فارماسیوٹیکل کمپنی نے عالمی معیار کے مطابق انجکشن اور آئی ڈراپس تیار کرنے پر بین الاقوامی سرٹیفیکیشن حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423358/in-a-first-pakistan-based-pharma-firm-wins-pics-recognition-for-producing-injections-eye-drops-of-global-standards)*
-- پشاور میں اشیائے خوردونوش کی قیمتوں میں ملے جلے رجحانات دیکھے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423360/prices-of-essential-items-in-peshawar-show-mixed-trend)*
+- حکومت نے مالی سال 2026-27 کے لیے 4 فیصد اقتصادی ترقی اور 8.2 فیصد افراط زر کا ہدف مقرر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004391/4pc-growth-target-set-for-fy2026-27-as-macroeconomic-framework-sent-to-economic-council-for-approval)*
+- آئل انڈسٹری نے آنے والے بجٹ میں ونڈ فال ٹیکس کے تصور کی مخالفت کی ہے۔ *[Dawn](https://www.dawn.com/news/2004210/oil-industry-opposes-windfall-tax-in-upcoming-budget)*
+- کوائن بیس نے بھارت میں صارفین کو انڈین روپے کے ذریعے تجارت کی سہولت فراہم کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2004335/us-based-coinbase-offers-trading-using-indian-rupee)*
+- پاکستان اسٹاک ایکسچینج (KSE-100) میں آج بڑی کمی دیکھی گئی۔ *[ARY](https://arynews.tv/psx-report-today-june-1-2026)*
+- انڈین کمپنی اننت راج بھارت کے ہریانہ میں 2.6 بلین ڈالر کے ڈیٹا سینٹر اور کلاؤڈ سروسز میں سرمایہ کاری کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40423481/indias-anant-raj-to-invest-26-billion-in-haryana-data-centre-cloud-services)*
+- آسٹریلیا کی کمپنی ایئرٹرنک بھارت کے مہاراشٹر میں 21 بلین ڈالر کے ڈیٹا سینٹر میں سرمایہ کاری کرنے کے لیے تیار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423469/airtrunk-to-invest-21-billion-in-india-data-centre)*
+- ایران اور امریکہ کے درمیان حالیہ حملوں کے بعد خلیجی ممالک کی اسٹاک مارکیٹیں نیچے گر گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40423475/most-gulf-markets-slip-after-iran-and-us-exchange-strikes)*
+- سری لنکا کی اسٹاک مارکیٹ میں مختلف شعبوں کے نقصانات کی وجہ سے کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40423471/sri-lankan-shares-slide-on-broad-based-sectoral-losses)*
+- بھارت کا مالیاتی خسارہ سال 2025/26 کے لیے 4.4 فیصد رہا۔ *[Business Recorder](https://www.brecorder.com/news/40423470/indias-202526-fiscal-deficit-at-44-in-line-with-government-estimates)*
+- بھارت اور امریکہ کے درمیان تجارتی معاہدے کے لیے مذاکرات کے نئے دور کا آغاز ہونے والا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423467/india-us-near-trade-pact-tariff-terms-hinge-on-section-301-relief-source-says)*
+- بھارت میں مئی کے دوران مینوفیکچرنگ سرگرمیوں میں اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423457/india-manufacturing-activity-rose-in-may-despite-cost-pressures-pmi-shows)*
+- آئی ایم ایف پاکستان کے بجٹ میں مالیاتی استحکام اور ٹیکس اصلاحات پر زور دے رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423463/what-does-imf-want-from-pakistans-upcoming-budget)*
+- کویتی دینار کے پاکستان میں موجودہ نرخ کی تفصیلات دستیاب ہیں۔ *[ARY](https://arynews.tv/kuwaiti-dinar-rate-today-in-pakistan-june-1-2026)*
+- وزیر اعظم شہباز شریف نے صنعتی ترقی کے لیے بجٹ میں خصوصی اقدامات کا وعدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423472/pm-shehbaz-vows-more-measures-for-industrial-growth-in-upcoming-budget)*
 
-### Science & Technology
-- پینٹاگون نے نامعلوم فضائی مظاہر (UAPs) کی ویڈیوز منظر عام پر لائی ہیں۔ *[Dawn](https://www.dawn.com/news/2004254/the-truth-is-still-out-there)*
+### سائنس اور ٹیکنالوجی
+- ایک سروے کے مطابق نوجوانوں میں AI کے ذریعے رومانوی تعلقات کے حوالے سے مثبت رجحان پایا جاتا ہے۔ *[Dawn](https://www.dawn.com/news/2004404/survey-finds-generational-gap-in-attitudes-to-ai-romance)*
+- ملائیشیا نے بچوں کے تحفظ کے لیے 16 سال سے کم عمر کے افراد کو سوشل میڈیا کے استعمال سے روک دیا ہے۔ *[Dawn](https://www.dawn.com/news/2004358/malaysia-bars-under-16s-from-signing-up-for-social-media)*
+- این ویڈیا (Nvidia) نے پی سی مارکیٹ میں انقلاب لانے کے لیے نیا چپ متعارف کرانے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423473/nvidia-pc-chip-hailed-as-game-changer-in-race-for-ai-device)*
 
-### Politics
-- گلگت بلتستان کے انتخابات کے لیے پنجاب پولیس کے 6,000 اہلکار تعینات کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2004156/punjab-approves-deployment-of-6000-police-personnel-in-gb-for-election)*
-- جماعت اسلامی کے سربراہ نے سندھ میں نوجوان کے قتل پر حکومت کی سخت مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423353/ji-chief-condemns-killing-of-youth-assails-govt)*
-- ایم کیو ایم پاکستان نے کراچی میں پی پی پی کے طرزِ حکمرانی اور کرپشن پر تنقید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423356/ppp-cannot-hide-inefficiencies-through-verbal-rhetoric-mqm)*
+### موسم
+- پاکستان کے بالائی علاقوں میں 2 سے 5 جون کے دوران بارش اور گرج چمک کی توقع ہے۔ *[Dawn](https://www.dawn.com/news/2004379/pmd-forecasts-rain-thunderstorms-in-upper-parts-of-country-from-june-2-5)*
 
-### National
-- جنوبی ایشیا میں دفاعی حکمت عملی اور پاکستان کے ردعمل کا تجزیہ۔ *[Dawn](https://www.dawn.com/news/2004230/analysis-reimagining-deterrence-28-years-after-chagai)*
-- اسلام آباد میں بازاروں کے اوقات کار کی نئی پابندیوں کا نفاذ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004203/islamabad-notifies-early-market-closure-again)*
-- کراچی یونیورسٹی میں اساتذہ کے احتجاج کی وجہ سے ہزاروں طلباء کا مستقبل غیر یقینی ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004296/karachi-university-students-future-in-limbo-as-teachers-exam-boycott-drags-on)*
+### سیاست
+- وزیر اعظم شہباز شریف نے یورپی یونین کے ساتھ تعلقات کی توثیق کی اور خلیج میں امن کے لیے تعاون کا شکریہ ادا کیا۔ *[Dawn](https://www.dawn.com/news/2004340/pm-reaffirms-eu-ties-thanks-kallas-for-support-for-gulf-peace-efforts)*
+- بلاول بھٹو نے گلگت بلتستان کے حقوق کے تحفظ کے لیے آئینی ترامیم کے مطالبے پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2004374/gbs-rights-should-be-protected-under-any-new-constitutional-amendment-says-bilawal-at-election-rally)*
+- اسرائیل کے اٹارنی جنرل نے ملک میں جمہوری اداروں کی کمزوری کے بارے میں خبردار کیا۔ *[Dawn](https://www.dawn.com/news/2004370/israel-attorney-general-warns-of-countrys-democratic-backsliding)*
+- بھارت میں ایک طنزیہ سیاسی تحریک "Cockroach Party" کے بانی نے احتجاج کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423448/indias-viral-cockroach-party-founder-plans-street-protest)*
+
+### قومی
+- این سی سی آئی اے (NCCIA) نے ایمان اور ہادی کے کیس میں سپریم کورٹ کے فیصلے کو چیلنج کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004347/nccia-challenges-sc-verdict-ordering-ihc-to-decide-imaan-hadis-sentence-suspension-in-2-weeks)*
+- علیمہ خان نے عمران خان کی سابق فوجی سربراہ سے ملاقات کی خبروں کو مکمل طور پر جھوٹا قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2004319/aleema-terms-reports-of-imrans-meeting-with-ex-army-chief-totally-fake)*
+- کراچی کے شاہراہ فیصل پر لین کی خلاف ورزی پر ای چالان سسٹم نافذ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004343/e-challans-come-into-force-for-lane-violations-on-karachis-sharea-faisal)*
+- اسلام آباد میں مارکیٹوں کے اوقات کار پر نئی پابندیاں دوبارہ عائد کر دی گئی ہیں۔ *[Dawn](https://www.dawn.com/news/2004203/islamabad-notifies-early-market-closure-again)*
+- پاکستان میں غذائی قلت اور بچوں کی صحت کے حوالے سے تشویشناک صورتحال سامنے آئی ہے۔ *[Dawn](https://www.dawn.com/news/2004365/the-malnourished-children-of-2018-are-teenagers-now-why)*
+- کراچی یونیورسٹی میں اساتذہ کے احتجاج کے باعث ہزاروں طلباء کا مستقبل غیر یقینی ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004296/karachi-university-students-future-in-limbo-as-teachers-exam-boycott-drags-on)*
+- عمران غازی کو نجکاری کمیشن کا چیف میڈیا آفیسر مقرر کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423468/imran-ghaznavi-joins-privatisation-commission-as-chief-media-officer)*
 - ورلڈ بینک کے وفد نے ٹیکسلا میوزیم اور تاریخی مقامات کا دورہ کیا۔ *[Dawn](https://www.dawn.com/news/2004196/world-bank-delegation-visits-taxila-museum-heritage-sites)*
-- سندھ میں پانی کی تقسیم کے حوالے سے انسا (Irsa) کے فیصلے پر اعتراضات اٹھائے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2004154/sharjeel-memon-criticises-irsas-unjust-reduction-of-sindhs-water-share-urges-centre-to-take-notice)*
-- لیسکو کے ملازم کی کرپشن کے خلاف سخت کارروائی کا اعلان کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004146/strict-action-taken-says-power-minister-after-khawaja-asifs-claim-of-lesco-employees-corruption)*
-- بجلی کی فراہمی میں خلل کے باعث کراچی میں پانی کی شدید قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2004149/karachi-faces-54-mgd-water-shortage-after-electricity-supply-to-nek-pumping-station-suspended-kwsc)*
-- مئی 2025 کے تنازع کے دوران پاکستان کے پرعزم دفاعی ردعمل کا ذکر کیا گیا۔ *[Dawn](https://www.dawn.com/news/2004168/pakistans-resolute-response-during-may-2025-conflict-debunked-notion-of-space-for-war-in-south-asia-military-official)*
-- لاہور ہائی کورٹ نے حق مہر کو بیوی کا قانونی اور مذہبی حق قرار دیتے ہوئے اسے شوہر پر قرض قرار دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423352/lhc-clarifies-haq-mehr-is-a-religious-lawful-right-of-a-wife)*
-- ساحلی اضلاع میں تعلیم کے فروغ کے لیے اقدامات کیے جا رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423357/education-must-be-prioritised-in-coastal-districts-scf)*
-- سندھ حکومت کی جانب سے غریب طبقے کے لیے مالی ریلیف اور کم از کم اجرت میں اضافے پر غور کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423361/sindh-govt-taking-steps-to-facilitate-common-man-hemnani)*
-- وزیر اعلیٰ خیبر پختونخوا نے حج 2026 کے بہترین انتظامات پر سعودی عرب کی تعریف کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423362/kp-cm-praises-ksa-for-hajj-2026-arrangements)*
 
-### International
-- ڈچ پولیس کی جانب سے حاملہ خاتون کے ساتھ بدسلوکی کے واقعے پر عالمی سطح پر ردعمل۔ *[Dawn](https://www.dawn.com/news/2004227/outcry-after-dutch-police-manhandle-pregnant-woman)*
-- امریکی ہاؤس کی جانب سے اسرائیل کے ساتھ فوجی تعاون کو مزید گہرا کرنے کی تجویز۔ *[Dawn](https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel)*
-- لبنان میں اسرائیلی حملوں پر فرانس اور دیگر ممالک کی جانب سے سخت مذمت۔ *[Dawn](https://www.dawn.com/news/2004239/israeli-offensive-in-lebanon-sparks-global-outrage)*
-- اسرائیل نے لبنان کے تاریخی قلعہ بیفورت پر قبضہ کر لیا ہے، جو کہ 26 سالوں میں سب سے بڑی پیش قدمی ہے۔ *[Dawn](https://www.dawn.com/news/2004134/israel-captures-lebanons-medieval-beaufort-castle-in-deepest-incursion-in-26-years)*
-- ڈونلڈ ٹرمپ کی خارجہ پالیسی اور ان کے ادھورے اقدامات پر تجزیہ۔ *[Dawn](https://www.dawn.com/news/2004255/unfinished-endeavours)*
-- برطانوی وزیر خارجہ کا چین اور بھارت کا دورہ، جس میں عالمی مسائل پر بات ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40423407/uk-foreign-minister-due-to-visit-china-and-india-to-discuss-global-issues)*
-- غزہ میں اسرائیلی فضائی حملے میں کم از کم دو فلسطینی شہید ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423406/israeli-strike-kills-at-least-two-at-gaza-seaport-cafe-medics-say)*
+### بین الاقوامی
+- میانمار کے صدر نے بھارت کے وزیر اعظم نریندر مودی سے تجارت اور سیکورٹی پر بات چیت کی۔ *[Dawn](https://www.dawn.com/news/2004383/myanmar-president-holds-trade-and-security-talks-with-indias-modi)*
+- امریکہ اور ایران کے درمیان حالیہ حملوں کا سلسلہ جاری ہے، جس سے جنگ کے خطرات بڑھ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2004320/tehran-responds-with-air-base-attack-after-us-strikes-iranian-military-sites)*
+- ڈچ پولیس پر ایک حاملہ خاتون کے ساتھ بدسلوکی کا الزام لگا ہے جس پر انٹرنیٹ پر غم و غصہ پایا جاتا ہے۔ *[Dawn](https://www.dawn.com/news/2004227/outcry-after-dutch-police-manhandle-pregnant-woman)*
+- امریکہ کے نئے قانون میں اسرائیل کے ساتھ فوجی تعاون کو مزید گہرا کرنے کی تجویز دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2004235/us-house-proposal-seeks-unprecedented-military-integration-with-israel)*
+- پاکستانی عملے سے متعلق ایک جذباتی ویڈیو سامنے آئی ہے جس میں مدد کی اپیل کی گئی ہے۔ *[ARY](https://arynews.tv/pakistani-crew-members-video-message-from-honour-25)*
+- ایک بھارتی نژاد پائلٹ کا ہیلی کاپٹر حادثے میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/indian-origin-pilot-dies-hours-after-wedding-in-helicopter-crash)*
+- ایران نے امریکہ کے ساتھ جنگ بندی کے حوالے سے سخت موقف اپنایا ہے اور لبنان میں حملوں کو خلاف ورزی قرار دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423474/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-news-agency-says)*
 
-### Sports
-- ویرات کوہلی کی شاندار بیٹنگ کی بدولت بنگلورو نے آئی پی ایل ٹائٹل جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423405/kohli-masterclass-leads-bengaluru-to-ipl-title-defence-in-style)*
+### کھیل
+- پاکستان کو 2028 ویمنز ٹی 20 ورلڈ کپ کی میزبانی کا اعزاز مل گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423478/pakistan-to-host-womens-t20-world-cup-2028)*
+- ڈائنا شنائیڈر نے فرینچ اوپن کے کوارٹر فائنل میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423477/shnaider-reaches-maiden-grand-slam-quarter-final-with-upset-victory-over-keys)*
+- ٹینس اسٹار سرینا ولیمز کی دوبارہ میدان میں واپسی کا اعلان کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423476/serena-williams-to-return-to-make-competitive-return-at-queens-club)*
+- آئی سی سی ٹیسٹ میچوں میں روشنی کے مسائل کے حل کے لیے پنک بال کے استعمال کا تجربہ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40423465/icc-to-trial-pink-balls-to-counter-bad-light-stoppages)*
+- نیمار برازیل کی جانب سے ورلڈ کپ میں آخری بار کھیلنے کی کوشش کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423466/neymar-aims-for-final-world-cup-bow-as-brazil-put-faith-in-stricken-talisman)*
+- زی انٹرٹینمنٹ نے بھارت میں فٹ بال ورلڈ کپ کے حقوق حاصل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423461/broadcaster-zee-secures-rights-for-world-cup-in-india)*
 
-### Health
-- پاکستان میں ویپنگ (vaping) کے رجحان پر پہلا جامع سروے جاری کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423355/first-vaping-survey-launched-in-pakistan)*
-- پنجاب کے وزیر اعلیٰ نے تعلیمی مراکز کو تمباکو سے پاک بنانے کے لیے اقدامات پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423359/punjab-taking-steps-to-ensure-smoke-free-education-centres-cm)*
+### صحت
+- پاکستان میں غذائی قلت اور بچوں کی صحت کے حوالے سے تشویشناک اعداد و شمار سامنے آئے ہیں۔ *[Dawn](https://www.dawn.com/news/2004365/the-malnourished-children-of-2018-are-teenagers-now-why)*
 
-### Other
-- ٹی وی سیریز 'Euphoria' کے سیزن 3 کے اختتام سے متعلق خبر۔ *[ARY](https://arynews.tv/zendayas-rue-dies-in-heartbreaking-euphoria-season-3-finale)*
-- ہالی ووڈ کی مختلف فلموں (رومانوی، ایکشن، کامیڈی اور جنگی) کی فہرستیں۔ *[ARY](https://arynews.tv/romantic-movies-hollywood-listicle)*
+### دیگر
+- نیٹ فلکس سیریز 'Euphoria' کا تیسرا سیزن آخری ہوگا۔ *[ARY](https://arynews.tv/hbo-confirms-euphoria-will-close-with-season-3-as-sam-levinson-delivers-honest-ending)*
+- فلم 'Fast Forever' کی ریلیز کی تاریخ کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/vin-diesel-confirms-release-date-for-upcoming-fast-forever)*
+- اسٹیفن کولبرت کے یوٹیوب اکاؤنٹ پر پابندی کے فیصلے پر عوامی ردعمل سامنے آیا ہے۔ *[ARY](https://arynews.tv/cbs-backs-off-stephen-colbert-youtube-crackdown-halted-after-fan-fury)*
+- ٹریوس اسکاٹ کے استنبول کنسرٹ پر تنازعہ پیدا ہو گیا ہے۔ *[ARY](https://arynews.tv/travis-scott-istanbul-concert)*
+- ڈوا لیپا کی شادی کی خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/dua-lipa-ditches-tradition-marries-callum-turner-in-jagger-style-glam)*
 
