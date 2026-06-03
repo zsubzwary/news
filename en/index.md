@@ -4,71 +4,67 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 02-Jun-2026 21:04PKT
+Published at: 03-Jun-2026 09:04PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- India and the United States are nearing the completion of the first phase of a bilateral trade deal. *[Dawn](https://www.dawn.com/news/2004605/india-us-close-to-signing-first-phase-of-trade-deal-indian-minister)*
-- European luxury brands are intensifying efforts to attract wealthy American consumers to offset global instability. *[Dawn](https://www.dawn.com/news/2004646/european-luxury-brands-seek-to-lure-americas-super-rich)*
-- IMF-mandated fiscal restrictions are expected to limit development spending in Pakistan's upcoming budget. *[Dawn](https://www.dawn.com/news/2004536/budget-2026-27-imf-mandated-curbs-squeeze-development-spending)*
-- The UK Pound to Pakistani Rupee exchange rate has shown slight movement in the open market. *[ARY](https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-june-2-2026)*
-- The Pakistan Stock Exchange (PSX) saw a positive session, with the KSE-100 index gaining 421 points. *[ARY](https://arynews.tv/psx-report-today-june-2-2026)*
-- Pakistan plans to introduce new certificates for the Saudi Riyal and UAE Dirham. *[ARY](https://arynews.tv/pakistan-to-launch-saudi-riyal-and-uae-dirham-certificates)*
-- US stocks experienced mixed trading as investors evaluate the possibility of an extended ceasefire in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40423647/us-stocks-mixed-as-traders-weigh-chance-of-iran-ceasefire-extension)*
-- Pakistan faces significant fiscal challenges and hard choices for the FY27 budget beyond IMF baselines. *[Business Recorder](https://www.brecorder.com/news/40423484/beyond-the-imf-baseline-pakistans-hard-fiscal-choices-in-fy27-budget)*
-- Russian oil exports through western ports reached an eight-month high due to refinery outages caused by drone strikes. *[Business Recorder](https://www.brecorder.com/news/40423640/russias-western-oil-exports-hit-8-month-high-as-drone-strikes-curb-refining)*
-- India has tightened silver import regulations, requiring prior authorization for certain forms. *[Business Recorder](https://www.brecorder.com/news/40423639/india-tightens-silver-import-rules-mandates-prior-approval)*
-- Israeli arms exports reached a record high of over $19 billion in 2025. *[Business Recorder](https://www.brecorder.com/news/40423638/israel-arms-exports-hit-another-all-time-high-ministry)*
-- The Reserve Bank of India has intervened in the FX market to stabilize the Indian rupee. *[Business Recorder](https://www.brecorder.com/news/40423635/central-bank-hand-contains-indian-rupees-fall-shrinks-dollar-rupee-forward-premiums)*
-- The Pakistani government has rescheduled the federal budget announcement to June 10. *[Business Recorder](https://www.brecorder.com/news/40423633/govt-to-announce-budget-on-june-10-instead-of-june-5-says-parliamentarian)*
-- Indian equities recovered from recent losses, supported by a boost in IT stocks. *[Business Recorder](https://www.brecorder.com/news/40423630/indian-shares-snap-losing-run-on-it-boost-oil-dips-after-trump-comments)*
-- India's palm oil imports showed modest improvement in May, while soyoil saw a surge. *[Business Recorder](https://www.brecorder.com/news/40423629/indias-may-palm-oil-imports-improve-soyoil-surges-on-shrinking-premium)*
+- Electricity prices are expected to rise by Rs1.74 per unit in next month's bills due to fuel cost adjustments. *[Dawn](https://www.dawn.com/news/2004808/electricity-prices-likely-to-rise-by-rs174-per-unit)*
+- The Federal Constitutional Court (FCC) ruled that poultry feed manufacturers and farmers are not liable for additional taxes under the Sales Tax Act. *[Dawn](https://www.dawn.com/news/2004789/no-extra-tax-on-poultry-feed-makers-rules-fcc)*
+- The Pakistan Institute of Development Economics (PIDE) has proposed increasing the minimum wage to Rs45,000 to combat inflation. *[Dawn](https://www.dawn.com/news/2004790/pide-proposes-rs45000-minimum-wage)*
+- There is a growing perception gap between the government and the business community regarding Pakistan's economic recovery. *[Dawn](https://www.dawn.com/news/2004833/missing-confidence)*
+- Oil prices have surged due to Middle East tensions, while AI-driven momentum is lifting stocks. *[ARY](https://arynews.tv/oil-jumps-on-mideast-missiles-while-ai-bulls-carry-stocks-higher)*
+- The Indian rupee and Japanese yen face downward pressure as Gulf hostilities bolster the U.S. dollar. *[Business Recorder](https://www.brecorder.com/news/40423759/fresh-gulf-hostilities-set-to-weigh-on-rupee-traders-eye-central-bank-cushion)*
+- Gold prices have eased as rising oil prices spark fears of prolonged high interest rates. *[Business Recorder](https://www.brecorder.com/news/40423757/gold-eases-on-stronger-oil-as-fresh-mideast-hostilities-erupt)*
+- Petroleum product sales by oil marketing companies (OMCs) fell by 23% year-on-year in May due to high fuel prices. *[Business Recorder](https://www.brecorder.com/news/40423695/may-omc-sales-plunge-23pc-yoy-on-higher-fuel-prices)*
+- The Consumers Association of Pakistan (CAP) is urging the government to include consumer-friendly policies in the upcoming budget. *[Business Recorder](https://www.brecorder.com/news/40423698/cap-seeks-consumer-friendly-policies-in-budget)*
+
+### Science & Technology
+- Indus Motor Company and NED University have partnered to establish an Urban Mobility Implementation Unit (UMIU) featuring an AI-based accident management system. *[Business Recorder](https://www.brecorder.com/news/40423699/imc-amp-ned-university-sign-agreement-to-establish-umiu-university)*
 
 ### Weather
-- The NDMA has issued a landslide alert for mountainous regions in Pakistan due to heavy rain and glacier melt. *[Business Recorder](https://www.brecorder.com/news/40423634/ndma-issues-landslide-alert-for-northern-areas-as-rain-glacier-melt-raise-risks)*
+- A massive forest fire has destroyed over 3,000 hectares of tree cover in the Kotli Sattian region of Punjab. *[Dawn](https://www.dawn.com/news/2004749/devastating-fire-decimates-over-3000-hectares-of-forest-tree-cover-in-kotli-sattian)*
+- Violent storms in the Bannu district of Khyber Pakhtunkhwa injured at least 20 people and caused significant structural damage. *[Dawn](https://www.dawn.com/news/2004699/at-least-20-injured-as-violent-storm-damages-homes-buildings-in-kps-bannu)*
+- Tropical storm Jangmi battered Japan, causing power outages for approximately 60,000 homes. *[Business Recorder](https://www.brecorder.com/news/40423758/tropical-storm-jangmi-batters-japan-cuts-power-to-60000-homes)*
 
 ### Politics
-- Political leaders are ramping up campaigning in Gilgit-Baltistan ahead of the June 7 elections. *[Dawn](https://www.dawn.com/news/2004625/political-bigwigs-attempt-to-sway-gilgit-baltistan-as-electioneering-heats-up-ahead-of-june-7-polls)*
-- Aleema Khan has called for the restoration of the judiciary and free elections as the only acceptable deal. *[Dawn](https://www.dawn.com/news/2004676/imrans-sister-says-only-acceptable-deal-is-restoration-of-judiciary-free-and-fair-elections)*
-- Opposition leader Mehmood Khan Achakzai has been booked for allegedly spreading hatred against state institutions. *[Dawn](https://www.dawn.com/news/2004554/achakzai-booked-for-spreading-hatred)*
-- KP Chief Minister Sohail Afridi addressed political developments regarding Adiala Jail. *[ARY](https://arynews.tv/only-a-message-from-adiala-jail-can-remove-me-cm-kp-sohail-afridi)*
+- The AJK Prime Minister stated that the government will seek political consensus to resolve disputes regarding reserved assembly seats rather than using force. *[Dawn](https://www.dawn.com/news/2004778/ajk-pm-says-govt-will-not-use-force-if-jaac-takes-to-streets)*
+- PTI leaders were expelled from Gilgit-Baltistan ahead of the upcoming general elections. *[Dawn](https://www.dawn.com/news/2004686/pti-leaders-expelled-from-gilgit-baltistan-decry-lack-of-level-playing-field)*
+- PPP Chairman Bilawal Bhutto Zardari campaigned in Skardu, pledging to expand constitutional and economic rights for Gilgit-Baltistan. *[Business Recorder](https://www.brecorder.com/news/40423689/bilawal-addresses-rally-in-skardu-ahead-of-g-b-polls)*
+- PTI has alleged significant electoral malpractice and rigging in the Gilgit-Baltistan region. *[Business Recorder](https://www.brecorder.com/news/40423691/pti-condemns-grave-violations-of-electoral-process-in-g-b)*
+- Budget negotiations continue between the federal government and the PPP amid several unresolved concerns. *[ARY](https://arynews.tv/budget-2026-27-government-and-ppps-agenda)*
 
 ### National
-- Security forces successfully thwarted a suicide attack on a military post in North Waziristan. *[Dawn](https://www.dawn.com/news/2004639/security-forces-thwart-attack-on-military-post-in-north-waziristan-security-sources)*
-- The federal government has approved a new 172km motorway to provide an alternative route to the Karakoram Highway. *[Dawn](https://www.dawn.com/news/2004657/communications-minister-greenlights-172km-motorway-linking-mansehra-to-kaghan-chilas)*
-- NAB has returned Rs6 billion in embezzled assets to the Khyber Pakhtunkhwa government. *[Dawn](https://www.dawn.com/news/2004660/kohistan-corruption-case-nab-returns-rs6bn-in-embezzled-assets-to-kp-govt)*
-- The Lahore High Court ruled that a father cannot avoid his legal and moral obligation to provide child support. *[Dawn](https://www.dawn.com/news/2004533/father-cant-escape-child-support-duties-lhc-judge-rules)*
-- A tragic roof collapse in Shangla, KP, resulted in the deaths of six children. *[Dawn](https://www.dawn.com/news/2004606/6-children-killed-in-roof-collapse-in-kps-shangla)*
-- Reports indicate a 27% surge in militant violence across Pakistan during the month of May. *[Dawn](https://www.dawn.com/news/2004555/militant-violence-surged-27pc-in-may-picss)*
-- Security forces neutralized 17 terrorists during multiple intelligence-based operations in Balochistan. *[Business Recorder](https://www.brecorder.com/news/40423645/pakistan-security-forces-kill-17-terrorists-in-multiple-operations-in-balochistan)*
-- A PIA crew's timely intervention saved a passenger during a mid-air cardiac emergency. *[ARY](https://arynews.tv/timely-action-by-pia-saves-passengers-life)*
-- Reports have surfaced regarding armed individuals harassing the public on Tipu Sultan Road in Karachi. *[ARY](https://arynews.tv/karachi-tipu-sultan-road-incident-video)*
+- Teachers at Karachi University continue to boycott semester examinations, demanding immediate financial relief. *[Dawn](https://www.dawn.com/news/2004735/despite-govt-intervention-karachi-university-teachers-refuse-to-end-exam-boycott)*
+- An 18-year-old gang rape victim in Lahore died following complications from a botched abortion. *[Dawn](https://www.dawn.com/news/2004730/gang-rape-victim-dies-during-botched-abortion-in-lahore)*
+- The Supreme Court upheld the death sentence for a child rapist and murderer, ruling that self-induced intoxication is no excuse for criminal liability. *[Dawn](https://www.dawn.com/news/2004819/sc-upholds-death-sentence-awarded-to-child-rapist-killer)*
+- Security forces killed 17 terrorists during intelligence-based operations in Balochistan following a train bombing in Quetta. *[Dawn](https://www.dawn.com/news/2004690/security-forces-kill-17-terrorists-in-various-districts-of-balochistan-following-quetta-train-bombing-ispr)*
+- The federal government has extended the closing times for markets and restaurants to accommodate summer heat and longer daylight hours. *[Dawn](https://www.dawn.com/news/2004700/federal-govt-extends-closing-times-for-markets-restaurants)*
+- The Sindh cabinet has approved an Rs11.2 billion infrastructure package for Karachi. *[ARY](https://arynews.tv/sindh-cabinet-approves-rs11-2bn-karachi-infrastructure-package)*
+- The FCC ruled that high courts are authorized to issue writs to enforce fundamental rights against any person or regulatory body. *[Business Recorder](https://www.brecorder.com/news/40423690/fcc-rules-higher-courts-authorised-to-issue-writs)*
+- A special court has adjourned the long-standing Toshakhana corruption case involving high-profile political figures. *[Business Recorder](https://www.brecorder.com/news/40423693/toshakhana-corruption-case-special-court-adjourns-hearing)*
+- BA Nasir has been appointed as the Chairperson of the Benami Adjudicating Authority. *[Business Recorder](https://www.brecorder.com/news/40423694/ba-nasir-made-chairperson-of-benami-authority)*
+- The Sindh Education Department is preparing a "golden handshake" scheme to manage surplus teachers through voluntary retirement. *[Business Recorder](https://www.brecorder.com/news/40423697/surplus-teachers-sindh-prepares-golden-handshake-scheme)*
+- Concerns have been raised regarding the poor performance and water supply issues of WASA Hyderabad. *[Business Recorder](https://www.brecorder.com/news/40423701/concern-voiced-over-poor-performance-of-wasa-hyderabad)*
 
 ### International
-- The nationality of four Pakistani farmers murdered in Italy has not yet been confirmed by the Foreign Office. *[Dawn](https://www.dawn.com/news/2004629/nationality-of-deceased-not-confirmed-yet-says-fo-on-reports-of-pakistani-farmers-murder-in-italy)*
-- Donald Trump reportedly expressed intense anger toward Benjamin Netanyahu regarding the escalation in Lebanon. *[Dawn](https://www.dawn.com/news/2004600/trump-loses-his-temper-with-netanyahu-in-expletive-laden-call-on-israels-escalation-in-lebanon-report)*
-- Pakistan and Italy have signed an agreement to abolish visa requirements for diplomatic passport holders. *[Dawn](https://www.dawn.com/news/2004619/pakistan-italy-sign-accord-to-abolish-visas-for-diplomatic-passports)*
-- Pakistan has called for stronger mediation and diplomacy at the UN to prevent further Middle East conflicts. *[Dawn](https://www.dawn.com/news/2004541/the-bridge-between-confrontation-and-peace-pakistan-calls-for-stronger-mediation-efforts-to-prevent-conflicts)*
-- Russian drone and missile strikes on Ukrainian cities resulted in at least 10 deaths. *[Dawn](https://www.dawn.com/news/2004604/russian-drones-missiles-strike-ukraine-in-major-attack-10-dead-dozens-wounded)*
-- US lawmakers are questioning Secretary of State Marco Rubio regarding US foreign policy in the Iran war. *[Business Recorder](https://www.brecorder.com/news/40423644/us-lawmakers-grill-rubio-as-iran-war-enters-fourth-month)*
-- Iran has announced plans for a three-day state funeral for the late supreme leader Ali Khamenei. *[Business Recorder](https://www.brecorder.com/news/40423643/iran-plans-three-day-funeral-for-late-supreme-leader)*
-- The conflict in the Middle East is reportedly strengthening military and trade ties between the UAE and Israel. *[Business Recorder](https://www.brecorder.com/news/40423642/iran-war-strengthening-uae-israel-ties-israeli-official-to-afp)*
-- Kuwait's Foreign Minister commended Pakistan's role in facilitating regional peace between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40423641/iran-us-war-kuwaiti-fm-hails-pakistans-constructive-contribution-to-regional-peace)*
-- Iran is reviewing a proposed agreement with the United States to halt the ongoing war. *[Business Recorder](https://www.brecorder.com/news/40423637/iran-studying-deal-to-halt-war-as-stalemate-persists)*
-- UNICEF warns that Middle East war disruptions are threatening the delivery of lifesaving aid to children. *[Business Recorder](https://www.brecorder.com/news/40423636/iran-war-disruption-threatening-delivery-of-lifesaving-supplies-for-children-un-says)*
-- Venezuela's interim President Delcy Rodriguez will visit India to discuss expanding energy ties. *[Business Recorder](https://www.brecorder.com/news/40423628/venezuelas-rodriguez-to-discuss-energy-ties-during-india-visit-from-june-3-7)*
-- An analytical piece explores the geopolitical implications of the "unravelling" of the American empire. *[Dawn](https://www.dawn.com/news/2003950/the-unravelling-of-the-american-empire)*
+- President Donald Trump appointed a loyalist with no national security experience as the acting director of national intelligence. *[Dawn](https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director)*
+- Iran has indicated a willingness to engage in limited negotiations regarding certain aspects of its nuclear program. *[Dawn](https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war)*
+- Bangladesh's Foreign Minister was elected President of the United Nations General Assembly for its 81st session. *[Dawn](https://www.dawn.com/news/2004697/bangladesh-elected-president-of-un-general-assembly-in-closely-contested-vote)*
+- Eight Muslim and Arab nations have condemned Israeli incursions into the Al-Aqsa Mosque, calling for an immediate halt. *[Dawn](https://www.dawn.com/news/2004689/pakistan-7-other-muslim-countries-condemn-israeli-incursions-into-al-aqsa-mosque-call-for-an-immediate-halt)*
+- Russian missile and drone attacks on Ukraine have resulted in at least 21 to 23 deaths. *[Business Recorder](https://www.brecorder.com/news/40423760/at-least-23-killed-in-russian-attack-ukrainian-president-says-new-assault-possible)*
+- Israeli fire in Gaza has resulted in multiple fatalities according to medical sources. *[ARY](https://arynews.tv/israeli-fire-kills-four-people-in-gaza-medics-say)*
+- Kuwait has resumed airline operations at its international airport. *[ARY](https://arynews.tv/kuwait-resumes-airline-operations-at-international-airport)*
+- A group of eight Muslim and Arab states reaffirmed their rejection of any attempts to alter the legal status of occupied Jerusalem. *[Business Recorder](https://www.brecorder.com/news/40423692/occupied-jerusalem-states-reject-any-bid-to-alter-historical-and-legal-status)*
 
 ### Sports
-- Australia posted 231-9 in their second ODI against Pakistan, led by fifties from Josh Inglis and Cameron Green. *[ARY](https://arynews.tv/green-and-inglis-hit-fifties-as-australia-post-231-9-in-second-odi) / [Business Recorder](https://www.brecorder.com/news/40423646/green-inglis-hit-fifties-as-australia-post-231-9-in-second-odi)*
-- Cristiano Ronaldo is poised to compete in his sixth World Cup at age 41. *[Business Recorder](https://www.brecorder.com/news/40423632/ronaldo-heads-for-sixth-world-cup-with-unfinished-business)*
+- Australia defeated Pakistan by 41 runs in the second ODI to level the three-match series. *[Dawn](https://www.dawn.com/news/2004650/ellis-career-best-figures-help-australia-beat-pakistan-to-level-odi-series)*
+- Pakistani women athletes are calling for better funding, coaching, and facilities to compete effectively on the international stage. *[Dawn](https://www.dawn.com/news/2004836/not-a-level-playing-field)*
 
 ### Health
-- The WHO reports a significant drop in suspected Ebola cases in central Africa. *[Dawn](https://www.dawn.com/news/2004664/who-reports-sharp-drop-in-suspected-ebola-cases-from-906-to-116)*
-- Pakistan's federal cabinet has approved a nationwide track and trace system to eliminate counterfeit medicines. *[Dawn](https://www.dawn.com/news/2004630/federal-cabinet-approves-track-and-trace-system-to-eliminate-counterfeit-medicines)*
+- BankIslami has partnered with Surayya Azeem Waqf Teaching Hospital to improve healthcare access for underserved communities in Punjab. *[Business Recorder](https://www.brecorder.com/news/40423700/bankislami-partners-with-surayya-azeem-waqf-teaching-hospital)*
 
 ### Other
-- Meghan Markle's popularity in the United States has seen a dip in web traffic. *[ARY](https://arynews.tv/meghan-markles-u-s-popularity-dips-as-as-ever-web-traffic-falls)*
-- Jennifer Aniston has shared candid thoughts regarding Matthew Perry and her divorce from Brad Pitt. *[ARY](https://arynews.tv/jennifer-aniston-breaks-silence-on-matthew-perrys-pain-and-brad-pitt-divorce-in-candid-tell-all)*
+- Katy Perry's song "The One That Got Away" has seen a resurgence on the music charts 15 years after its release. *[ARY](https://arynews.tv/katy-perrys-the-one-that-got-away-reclaims-the-charts-15-years-on)*
+- Social media buzz surrounds recent bridal rumors involving Gigi and Dua. *[ARY](https://arynews.tv/sister-in-law-secrets-gigi-teased-over-duas-bridal-buzz)*
 
