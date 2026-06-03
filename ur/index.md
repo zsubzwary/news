@@ -7,50 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 02-Jun-2026 21:11PKT 
+ &lrm; 03-Jun-2026 09:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- آئی ایم ایف (IMF) کی شرائط کی وجہ سے پاکستان میں ترقیاتی اخراجات میں کمی۔ *[Dawn](https://www.dawn.com/news/2004536/budget-2026-27-imf-mandated-curbs-squeeze-development-spending)*
-- بھارت اور امریکہ کے درمیان پہلے مرحلے کے تجارتی معاہدے کے قریب ہونے کی خبر۔ *[Dawn](https://www.dawn.com/news/2004605/india-us-close-to-signing-first-phase-of-trade-deal-indian-minister)*
-- روس کی تیل برآمدات میں اضافہ، یوکرین کے ڈرون حملوں کے باعث خام تیل کی برآمدات بڑھیں۔ *[Business Recorder](https://www.brecorder.com/news/40423640/russias-western-oil-exports-hit-8-month-high-as-drone-strikes-curb-refining)*
-- بھارت نے چاندی کی درآمدات کے قواعد سخت کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423639/india-tightens-silver-import-rules-mandates-prior-approval)*
-- پاکستان کا نیا بجٹ 5 جون کے بجائے 10 جون کو پیش کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40423633/govt-to-announce-budget-on-june-10-instead-of-june-5-says-parliamentarian)*
-- اسرائیلی دفاعی برآمدات ریکارڈ سطح پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40423638/israel-arms-exports-hit-another-all-time-high-ministry)*
-- یورپی لگژری برانڈز امریکی امیر طبقے کو اپنی طرف متوجہ کرنے کی کوشش کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2004646/european-luxury-brands-seek-to-lure-americas-super-rich)*
+- بجلی کی قیمتوں میں 1.74 روپے فی یونٹ اضافے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2004808/electricity-prices-likely-to-rise-by-rs174-per-unit)*
+- پولٹری فیڈ بنانے والوں پر اضافی ٹیکس نہیں ہوگا۔ *[Dawn](https://www.dawn.com/news/2004789/no-extra-tax-on-poultry-feed-makers-rules-fcc)*
+- PIDE نے کم از کم اجرت 45,000 روپے کرنے کی تجویز دی ہے۔ *[Dawn](https://www.dawn.com/news/2004790/pide-proposes-rs45000-minimum-wage)*
+- فیڈرل حکومت نے بازاروں اور ریستورانوں کے اوقات بڑھا دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2004700/federal-govt-extends-closing-times-for-markets-restaurants)*
+- مشرق وسطیٰ کی کشیدگی کی وجہ سے تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[ARY](https://arynews.tv/oil-jumps-on-mideast-missiles-while-ai-bulls-carry-stocks-higher)*
+- مئی میں تیل مارکیٹنگ کمپنیوں (OMCs) کی فروخت میں 23 فیصد کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423695/may-omc-sales-plunge-23pc-yoy-on-higher-fuel-prices)*
+- صارفین کے تحفظ کے لیے بجٹ میں ہمدردانہ پالیسیوں کا مطالبہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423698/cap-seeks-consumer-friendly-policies-in-budget)*
+
+### سائنس اور ٹیکنالوجی
+- NED یونیورسٹی اور IMC نے مصنوعی ذہانت پر مبنی حادثاتی انتظام کے نظام کے لیے معاہدہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40423699/imc-amp-ned-university-sign-agreement-to-establish-umiu-university)*
+
+### موسمیات
+- بنوں میں شدید طوفان کے نتیجے میں 20 افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2004699/at-least-20-injured-as-violent-storm-damages-homes-buildings-in-kps-bannu)*
+- جاپان میں شدید سمندری طوفان سے ہزاروں گھروں کی بجلی منقطع ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40423758/tropical-storm-jangmi-batters-japan-cuts-power-to-60000-homes)*
 
 ### سیاست
-- گلگت بلتستان کے انتخابات کے حوالے سے سیاسی جماعتوں کی مہم جوئی تیز۔ *[Dawn](https://www.dawn.com/news/2004625/political-bigwigs-attempt-to-sway-gilgit-baltistan-as-electioneering-heats-up-ahead-of-june-7-polls)*
-- علیمہ خان کا مطالبہ ہے کہ صرف آزاد عدلیہ کی بحالی اور شفاف انتخابات ہی قابل قبول ڈیل ہیں۔ *[Dawn](https://www.dawn.com/news/2004676/imrans-sister-says-only-acceptable-deal-is-restoration-of-judiciary-free-and-fair-elections)*
-- محمود خان اچکزئی کے خلاف نفرت پھیلانے کے الزام میں مقدمہ درج۔ *[Dawn](https://www.dawn.com/news/2004554/achakzai-booked-for-spreading-hatred)*
+- ٹرمپ نے ایک وفادار ساتھی کو انٹیلی جنس ڈائریکٹر مقرر کر دیا۔ *[Dawn](https://www.dawn.com/news/2004772/trump-names-inexperienced-ally-as-intelligence-director)*
+- آزاد کشمیر کے وزیر اعلیٰ نے کہا کہ JAAC کے احتجاج کی صورت میں طاقت استعمال نہیں کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2004778/ajk-pm-says-govt-will-not-use-force-if-jaac-takes-to-streets)*
+- جی بی انتخابات کے حوالے سے پی ٹی آئی نے بدعنوانی کے الزامات لگائے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423691/pti-condemns-grave-violations-of-electoral-process-in-g-b)*
+- بی اے ناصر کو بینیامی اتھارٹی کا چیئرمین مقرر کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40423694/ba-nasir-made-chairperson-of-benami-authority)*
 
-### قومی
-- شمالی وزیرستان میں سیکورٹی فورسز نے دہشت گردوں کے حملے کو ناکام بنا دیا۔ *[Dawn](https://www.dawn.com/news/2004639/security-forces-thwart-attack-on-military-post-in-north-waziristan-security-sources)*
-- کمونیکیشنز منسٹر نے مانسہرہ سے کگان اور چلاس تک موٹر وے کی تعمیر کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2004657/communications-minister-greenlights-172km-motorway-linking-mansehra-to-kaghan-chilas)*
-- این اے بی (NAB) نے کوہستان کرپشن کیس میں 6 ارب روپے حکومتی خزانے کو واپس کر دیے۔ *[Dawn](https://www.dawn.com/news/2004660/kohistan-corruption-case-nab-returns-rs6bn-in-embezzled-assets-to-kp-govt)*
-- لاہور ہائی کورٹ کا فیصلہ: باپ بچوں کے نان نفقہ کی ذمہ داری سے بچ نہیں سکتا۔ *[Dawn](https://www.dawn.com/news/2004533/father-cant-escape-child-support-duties-lhc-rules)*
-- شانگلہ میں گھر کی چھت گرنے سے 6 بچوں کی ہلاکت۔ *[Dawn](https://www.dawn.com/news/2004606/6-children-killed-in-roof-collapse-in-kps-shangla)*
-- پاکستان میں مئی کے دوران دہشت گردی کے واقعات میں 27 فیصد اضافہ ریکارڈ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2004555/militant-violence-surged-27pc-in-may-picss)*
-- بلوچستان میں متعدد آپریشنز کے دوران 17 دہشت گرد ہلاک۔ *[Business Recorder](https://www.brecorder.com/news/40423645/pakistan-security-forces-kill-17-terrorists-in-multiple-operations-in-balochistan)*
+### ملکی
+- کراچی یونیورسٹی کے اساتذہ نے امتحانات کا بائیکاٹ جاری رکھا ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2004735/despite-govt-intervention-karachi-university-teachers-refuse-to-end-exam-boycott)*
+- لاہور میں ایک 18 سالہ لڑکی کی ناجائز طبی عمل کے دوران موت واقع ہوگئی۔ *[Dawn](https://www.dawn.com/news/2004730/gang-rape-victim-dies-during-botched-abortion-in-lahore)*
+- بلوچستان میں سیکورٹی فورسز نے 17 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2004690/security-forces-kill-17-terrorists-in-various-districts-of-balochistan-following-quetta-train-bombing-ispr)*
+- سپریم کورٹ نے بچے کے ساتھ زیادتی اور قتل کے مجرم کو سزائے موت برقرار رکھی۔ *[Dawn](https://www.dawn.com/news/2004819/sc-upholds-death-sentence-awarded-to-child-rapist-killer)*
+- کوٹلی ستیاں میں آتشزدگی کے نتیجے میں 3,000 ہیکٹر جنگلات تباہ ہو گئے۔ *[Dawn](https://www.dawn.com/news/2004749/devastating-fire-decimates-over-3000-hectares-of-forest-tree-cover-in-kotli-sattian)*
+- سندھ حکومت نے اضافی اساتذہ کے لیے 'گولڈن ہینڈ شیک' اسکیم تیار کی۔ *[Business Recorder](https://www.brecorder.com/news/40423697/surplus-teachers-sindh-prepares-golden-handshake-scheme)*
 
 ### بین الاقوامی
-- اٹلی میں پاکستانی کسانوں کے قتل کے واقعے کی تحقیقات جاری، شہریت کی تصدیق ہونا باقی۔ *[Dawn](https://www.dawn.com/news/2004629/nationality-of-deceased-not-confirmed-yet-says-fo-on-reports-of-pakistani-farmers-murder-in-italy)*
-- پاکستان اور اٹلی کے درمیان سفارتی پاسپورٹ ہولڈرز کے لیے ویزا ختم کرنے کا معاہدہ طے پایا۔ *[Dawn](https://www.dawn.com/news/2004619/pakistan-italy-sign-accord-to-abolish-visas-for-diplomatic-passports)*
-- روس کے ڈرون اور میزائل حملوں میں یوکرین کے کئی شہروں میں 10 افراد جاں بحق۔ *[Dawn](https://www.dawn.com/news/2004604/russian-drones-missiles-strike-ukraine-in-major-attack-10-dead-dozens-wounded)*
-- ایران کی جانب سے مرحوم سپریم لیڈر کے لیے تین روزہ سرکاری جنازے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40423643/iran-plans-three-day-funeral-for-late-supreme-leader)*
-- مشرق وسطیٰ میں تنازعات کے حل کے لیے پاکستان نے عالمی سطح پر ثالثی کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2004541/the-bridge-between-confrontation-and-peace-pakistan-calls-for-stronger-mediation-efforts-to-prevent-conflicts)*
-- ایران اور امریکہ کے درمیان جنگ روکنے کے لیے ممکنہ معاہدے پر غور جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423637/iran-studying-deal-to-halt-war-as-stalemate-persists)*
+- ایران اپنے جوہری پروگرام کے کچھ پہلوؤں پر مذاکرات کے لیے تیار ہے۔ *[Dawn](https://www.dawn.com/news/2004681/iran-willing-to-negotiate-aspects-of-nuclear-programme-rubio-says-amid-escalating-scrutiny-over-war)*
+- بنگلہ دیش کے وزیر خارجہ کو اقوام متحدہ کی جنرل اسمبلی کا صدر منتخب کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2004697/bangladesh-elected-president-of-un-general-assembly-in-closely-contested-vote)*
+- روس کے حملوں میں یوکرین میں 23 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423760/at-least-23-killed-in-russian-attack-ukrainian-president-says-new-assault-possible)*
+- مسلم ممالک نے مقبوضہ بیت المقدس میں اسرائیلی مداخلت کی مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2004689/pakistan-7-other-muslim-countries-condemn-israeli-incursions-into-al-aqsa-mosque-call-for-an-immediate-halt)*
 
 ### کھیل
-- آسٹریلیا اور پاکستان کے درمیان دوسرے او ڈی آئی میں کھلاڑیوں کی شاندار کارکردگی۔ *[ARY](https://arynews.tv/green-and-inglis-hit-fifties-as-australia-post-231-9-in-second-odi)*
-- کرسٹیانو رونالڈو کی 2026 ورلڈ کپ میں شرکت کی امید۔ *[Business Recorder](https://www.brecorder.com/news/40423632/ronaldo-heads-for-sixth-world-cup-with-unfinished-business)*
+- آسٹریلیا نے پاکستان کو ہرا کر ون ڈے سیریز برابر کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2004650/ellis-career-best-figures-help-australia-beat-pakistan-to-level-odi-series)*
+- پاکستانی خواتین کھلاڑیوں نے کھیلوں کے لیے فنڈنگ اور بہتر سہولیات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2004836/not-a-level-playing-field)*
 
-### صحت
-- ڈبلیو ایچ او (WHO) کے مطابق افریقہ میں ایبولہ کے کیسز میں نمایاں کمی۔ *[Dawn](https://www.dawn.com/news/2004664/who-reports-sharp-drop-in-suspected-ebola-cases-from-906-to-116)*
-- وفاقی کابینہ نے جعلی ادویات کے خاتمے کے لیے 'ٹریک اینڈ ٹریس' سسٹم کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2004630/federal-cabinet-approves-track-and-trace-system-to-eliminate-counterfeit-medicines)*
-- یونیسف (UNICEF) کی جانب سے مشرق وسطیٰ کی جنگ کی وجہ سے امدادی سامان کی فراہمی میں رکاوٹوں کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40423636/iran-war-disruption-threatening-delivery-of-lifesaving-supplies-for-children-un-says)*
-
-### موسم
-- این ڈی ایم اے (NDMA) نے شمالی علاقوں میں لینڈ سلائیڈنگ کا الرٹ جاری کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423634/ndma-issues-landslide-alert-for-northern-areas-as-rain-glacier-melt-raise-risks)*
+### دیگر
+- کیٹی پیری کا پرانا گانا دوبارہ چارٹس پر واپس آگیا ہے۔ *[ARY](https://arynews.tv/katy-perrys-the-one-that-got-away-reclaims-the-charts-15-years-on)*
 
