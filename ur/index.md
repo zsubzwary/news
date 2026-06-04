@@ -7,56 +7,67 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 03-Jun-2026 21:10PKT 
+ &lrm; 04-Jun-2026 09:10PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- وزیر اعظم شہباز شریف نے غیر رسمی معیشت کو ٹیکس نیٹ میں لانے کے لیے اقدامات کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004872/in-meeting-with-business-leaders-pm-shehbaz-says-govt-taking-measures-to-bring-informal-economy-into-tax-net)*
-- وفاقی بجٹ کی پیشکش اب 10 جون کو کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2004856/parliamentary-affairs-minister-says-budget-to-be-presented-on-june-10)*
-- بجلی کی قیمتوں میں 1.74 روپے فی یونٹ اضافے کا امکان ہے کیونکہ این پی آر اے نے اضافی ایندھن کے اخراجات کی منظوری پر غور کرنا ہے۔ *[Dawn](https://www.dawn.com/news/2004808/electricity-prices-likely-to-rise-by-rs174-per-unit)*
-- امریکہ نے جبری مشقت کے مسائل پر پاکستان سمیت 60 معیشتوں پر 10 سے 12.5 فیصد تک ٹیرف لگانے کی تجویز دی ہے۔ *[Dawn](https://www.dawn.com/news/2004844/us-proposes-new-tariffs-on-60-economies-including-pakistan-over-failure-to-act-on-forced-labour)* *[Business Recorder](https://www.brecorder.com/news/40423798/us-proposes-tariffs-on-60-economies-including-pakistan-over-forced-labour-concerns)*
-- گرمیوں کے طویل دن اور بڑھتے ہوئے درجہ حرارت کے پیش نظر وزیر اعظم نے دکانوں اور مارکیٹوں کے اوقات میں توسیع کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2004859/pm-shehbaz-approves-extension-in-closing-hours-of-shops-markets)*
-- فیڈرل کانسٹٹیوشنل کورٹ نے فیصلہ دیا ہے کہ پولٹری فیڈ بنانے والوں پر اضافی ٹیکس عائد نہیں کیا جا سکتا۔ *[Dawn](https://www.dawn.com/news/2004789/no-extra-tax-on-poultry-feed-makers-rules-fcc)*
-- مشرق وسطیٰ کی جنگ کے باعث عالمی مارکیٹوں میں غیر یقینی صورتحال اور تیل کی قیمتوں میں اضافے سے گلف کی اسٹاک مارکیٹیں نیچے گر گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40423810/most-gulf-markets-retreat-on-iran-war-jitters)*
-- آئی ایم ایف کے مطابق سعودی معیشت جنگ کے باوجود مستحکم ہے، تاہم 2026 میں ترقی کی شرح 2 فیصد تک گر سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423811/imf-says-saudi-economy-holding-up-during-iran-war-but-growth-could-slow-to-2-in-2026)*
-- بنگلہ دیش نے مشرق وسطیٰ کی جنگ سے پیدا ہونے والے مالیاتی دباؤ کو کم کرنے کے لیے بجلی کی قیمتوں میں 16 فیصد اضافہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423807/bangladesh-raises-electricity-prices-in-latest-mideast-war-related-hike)*
-- بھارتی مرکزی بینک نے ان رپورٹس کی تردید کی ہے کہ اس نے 12 ارب ڈالر کے سونے کے ذخائر فروخت کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423800/indian-central-bank-rebuts-media-report-it-sold-gold-reserves)*
-- امریکی اسٹاک مارکیٹس میں سرمایہ کاروں کی جانب سے منافع وصولی اور جنگ کے خدشات کے باعث معمولی کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40423813/us-stocks-edge-lower-as-investors-consolidate-after-string-of-records)*
+- ریکو ڈک منصوبے کے سیکورٹی اخراجات میں اضافے پر بحث۔ *[Dawn](https://www.dawn.com/news/2005001/reko-diq-security-costs-increase-as-upgrades-discussed)*
+- بھارت کا 2 ارب ڈالر کا ڈرون آرڈر۔ *[Dawn](https://www.dawn.com/news/2005028/india-set-for-2bn-drone-order-in-biggest-buy)*
+- امریکی درآمدات پر 10 فیصد اضافی ڈیوٹی کا پاکستانی برآمد کنندگان پر اثر نہ ہونے کا امکان۔ *[Dawn](https://www.dawn.com/news/2005007/exporters-see-no-impact-of-10pc-us-duty)*
+- وفاقی بجٹ میں 1.7 ٹریلین روپے کے خسارے کے باعث صوبوں سے مالی تعاون کی درخواست۔ *[Dawn](https://www.dawn.com/news/2005018/provinces-asked-to-help-fill-massive-gap-in-budget)*
+- پی ایم ایل این اور پی پی پی کے درمیان بجٹ پر مشاورت جاری۔ *[Dawn](https://www.dawn.com/news/2004970/another-meeting-expected-as-pml-n-ppp-continue-budget-discussions-ahead-of-june-10-presentation)*
+- بجٹ کے اعلان میں تاخیر کے حوالے سے بحث۔ *[Dawn](https://www.dawn.com/news/2005041/budget-delay)*
+- او جی ڈی سی ایل کی سندھ کے ضلع سانگھڑ میں تیل اور گیس کی اہم دریافت۔ *[Dawn](https://www.dawn.com/news/2004950/ogdcl-makes-significant-oil-gas-discovery-in-sindhs-sanghar-district)*
+- امریکی صارفین اور کاروباروں پر بڑھتی ہوئی مہنگائی کا اثر۔ *[ARY](https://arynews.tv/federal-reserve-insights-on-current-economic-trends)*
+- آئی ایم ایف کی جانب سے پاکستان کے پی ایس ڈی پی میں 200 ارب روپے کے اضافے پر اتفاق۔ *[ARY](https://arynews.tv/major-headway-in-virtual-talks-as-imf-agrees-to-rs-200-billion-increase-in-pakistans-psdp)*
+- جماعت اسلامی کے سربراہ کی اقتصادی اصلاحات کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40423914/ji-chief-demands-sweeping-economic-reforms)*
+- سمندری شعبے میں سرمایہ کاری کے مواقع۔ *[Business Recorder](https://www.brecorder.com/news/40423915/ports-logistics-blue-economy-initiatives-maritime-sector-offers-investment-opportunities-minister)*
+- آئی ایم ایف کے قرض کے خلاف درخواست عدالت سے خارج۔ *[Business Recorder](https://www.brecorder.com/news/40423916/petition-against-imf-loan-dismissed)*
+- پی وی ایم اے کی جانب سے سیلز ٹیکس ریفنڈ کی فوری ادائیگی کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40423839/pvma-urges-fbr-to-release-billions-of-rupees-of-st-refunds)*
+- سسٹم لمیٹڈ کے منافع میں کمی کے عوامل۔ *[Business Recorder](https://www.brecorder.com/news/40423840/sys-spells-out-factors-behind-declining-q1-margins)*
+- برآمد کنندگان کی جانب سے فائنل ٹیکس ریجیم کی بحالی کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40423843/nkati-president-demands-govt-restore-ftr)*
 
 ### سائنس اور ٹیکنالوجی
-- اے آئی میوزک اسٹارٹ اپ 'Suno' نے 5.4 بلین ڈالر کی مالیت پر 400 ملین ڈالر کی فنڈنگ حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423812/ai-music-startup-suno-raises-funding-at-54-billion-valuation)*
-- روبلوکس (Roblox) کے کھلاڑیوں کے لیے 'K2' کے مشکل چڑھاؤ کے حوالے سے نئے کوڈز جاری کیے گئے ہیں۔ *[ARY](https://arynews.tv/conquer-k2-from-your-couch-fresh-codes-drop-free-points-for-robloxs-toughest-climb)*
+- اوپن اے آئی کے سی ای او کا اے آئی ماڈلز کی منظوری کے حوالے سے امریکی قانون سازوں کو مشورہ۔ *[ARY](https://arynews.tv/openai-ceo-pushes-for-ai-testing-funding)*
+- گوگل کو برطانیہ میں اشاعتی اداروں کو اے آئی سرچ سے بچنے کا اختیار دینا ہوگا۔ *[ARY](https://arynews.tv/google-must-let-uk-publishers-opt-out-of-ai-search-under-new-rules)*
+- ٹیسلا کی جانب سے آسٹن میں بغیر نگرانی کے چلنے والی روبوٹیکسی کا آغاز۔ *[ARY](https://arynews.tv/tesla-rolls-out-unsupervised-robotaxis-in-austin)*
 
 ### موسم
-- شدید ٹراپیکل طوفان 'Jangmi' نے جاپان کو متاثر کیا، جس سے 60,000 گھروں کی بجلی بند ہوگئی۔ *[Dawn](https://www.dawn.com/news/2004894/tropical-storm-jangmi-batters-japan-cuts-power-to-60000-homes)*
+- پاکستان میں جون سے اگست تک بارشوں میں کمی اور درجہ حرارت میں اضافے کی پیش گوئی۔ *[Dawn](https://www.dawn.com/news/2004951/below-normal-rainfall-above-normal-temperatures-expected-in-most-parts-of-country-from-june-to-august-pmd)*
+- کراچی اور لاہور سمیت مختلف شہروں کی موسمی صورتحال۔ *[Business Recorder](https://www.brecorder.com/news/40423830/the-weather)*
 
 ### سیاست
-- بلاول بھٹو زرداری نے وعدہ کیا ہے کہ اگر پی پی پی گلگت بلتستان کے انتخابات جیتتی ہے تو ڈائمر بھاشا ڈیم کے متاثرین کی آباد کاری کے مسائل فوری حل کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2004941/bilawal-pledges-to-address-diamer-bhasha-dam-resettlement-issues-if-ppp-wins-g-b-polls)*
-- گلگت بلتستان کے چیف الیکشن کمشنر نے مقامی حکومت کے انتخابات 2 اگست کو منعقد کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2004921/gb-local-government-elections-scheduled-for-aug-2-cec-says)*
-- خیبر پختونخوا کے وزیر اعلیٰ نے صوبائی بجٹ سے قبل عمران خان سے ملاقات کے لیے اسلام آباد ہائی کورٹ میں درخواست دائر کی ہے۔ *[Dawn](https://www.dawn.com/news/2004889/kp-cm-moves-ihc-seeking-meeting-with-imran-ahead-of-provincial-budget)*
-- وزیر اعظم شہباز شریف نے چینی سفیر سے ملاقات کے دوران حالیہ معاہدوں (MoUs) پر عمل درآمد کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2004916/pm-shehbaz-stresses-need-to-follow-up-on-recent-mous-during-meeting-with-chinese-envoy)*
+- پولیس آپریشنز کو مرکزی بنانے کے لیے نئی اندرونی سیکورٹی پالیسی کی تیاری۔ *[Dawn](https://www.dawn.com/news/2005034/new-internal-security-policy-to-centralise-police-operations)*
+- مہمود خان اچکزئی کی ایف آئی آر کو چیلنج کرنے کی درخواست۔ *[Dawn](https://www.dawn.com/news/2005016/achakzai-challenges-fir-terms-countrys-issues-political)*
+- وکلاء کی ہڑتال کے دوران کیس لڑنے پر لائسنس معطل کرنے کے خلاف عدالت کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2005033/lawyers-cant-be-suspended-for-arguing-cases-during-strike-fcc)*
+- بلawal بھٹو کا جی بی انتخابات میں کامیابی کی صورت میں ڈیم کے متاثرین کے مسائل حل کرنے کا وعدہ۔ *[Dawn](https://www.dawn.com/news/2004941/bilawal-pledges-to-address-diamer-bhasha-dam-resettlement-issues-if-ppp-wins-gb-polls)*
+- بجلی کے شعبے میں ناقص کارکردگی پر افسران کے خلاف تادیبی کارروائی کا حکم۔ *[ARY](https://arynews.tv/discos-face-disciplinary-actions-for-poor-performance)*
+- سندھ حکومت کی جانب سے کراچی کے لیے ترقیاتی منصوبوں کی منظوری۔ *[Business Recorder](https://www.brecorder.com/news/40423841/sindh-govt-approves-development-projects)*
 
 ### قومی
-- لاہور ہائی کورٹ نے 2020 کے موٹر وے گروپ ریپ کیس میں سزا یافتہ ملزمان کی اپیلیں مسترد کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2004896/2020-motorway-gang-rape-case-lhc-dismisses-convicts-appeals-against-sentences)*
-- کراچی کی عدالت نے مبینہ منشیات فروش ملکہ 'پنکی' کو ضرورت پڑنے پر عدالت میں پیش کرنے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2004888/karachi-court-directs-authorities-to-produce-alleged-drug-baroness-pinky-in-person-when-required)*
-- لاہور میں ایک 18 سالہ لڑکی، جو مبینہ طور پر گروپ ریپ کی متاثرہ تھی، غیر محفوظ طبی عمل کے دوران دم توڑ گئی۔ *[Dawn](https://www.dawn.com/news/2004730/gang-rape-victim-dies-during-botched-abortion-in-lahore)*
-- اسلام آباد پولیس کے 150 اہلکار گلگت بلتستان کے انتخابات کی ذمہ داریوں کے لیے تعینات کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2004880/150-personnel-from-islamabad-polices-security-division-assigned-to-gb-election-duty)*
-- کراچی میں پیٹرول پمپ پر ہونے والی جھگڑے کے نتیجے میں ایک 70 سالہ شخص جاں بحق ہوگیا۔ *[ARY](https://arynews.tv/petrol-pump-scuffle-leads-to-death-of-70-year-old-man-video)*
+- Ipsos سروے: صرف 22 فیصد پاکستانی سمجھتے ہیں کہ ملک صحیح سمت میں جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2004946/2-in-10-pakistanis-believe-country-is-on-right-track-ipsos-survey)*
+- ایم 5 موٹروے پر تیز رفتاری کی وجہ سے گاڑی کی ضبطی۔ *[ARY](https://arynews.tv/motorway-police-crack-down-on-speeding-as-driver-arrested-on-m-5)*
+- این بی پی کا ملازمین کی ذہنی صحت کے لیے اقدام۔ *[Business Recorder](https://www.brecorder.com/news/40423842/nbp-signs-mou-with-charter-for-compassion-pakistan)*
 
 ### بین الاقوامی
-- امریکی صدر ڈونلڈ ٹرمپ نے اسرائیلی وزیراعظم نیتنیاہو کے ساتھ ہونے والی ایک فون کال میں انہیں 'پاگل' کہنے کی تصدیق کی ہے۔ *[Dawn](https://www.dawn.com/news/2004906/i-was-a-little-bit-perturbed-trump-confirms-expletive-laden-phone-call-with-netanyahu)* *[ARY](https://arynews.tv/trump-confirms-he-called-netanyahu-crazy-in-phone-call)*
-- اسرائیل نے مقبوضہ مغربی کنارے میں 2,000 سے زائد نئے گھروں کی توسیع کا منصوبہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/2004930/israel-plans-major-expansion-of-west-bank-settlements-on-occupied-palestinian-land)*
-- خلیجی خطے میں کشیدگی بڑھنے سے کویت کے ایئرپورٹ کو نقصان پہنچا اور امریکہ نے ہرمز کے مقام پر حملے کیے۔ *[Dawn](https://www.dawn.com/news/2004866/hostilities-flare-in-gulf-as-us-iran-talks-at-a-stalemate)* *[ARY](https://arynews.tv/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz)*
-- نئی دہلی کے ایک ہوٹل میں آتشزدگی کے نتیجے میں 21 افراد ہلاک ہو گئے، جن میں 18 غیر ملکی شہری شامل ہیں۔ *[Dawn](https://www.dawn.com/news/2004877/at-least-18-foreign-nationals-among-21-killed-in-delhi-hotel-fire)*
-- ڈونلڈ ٹرمپ نے ایران کے سپریم لیڈر مجتبیٰ خامنہ ای سے ملاقات کرنے کی خواہش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423805/trump-says-would-like-to-meet-iran-leader-khamenei)*
+- امریکی ایوان میں ایران کے خلاف جنگ ختم کرنے کی قرارداد کی منظوری۔ *[Dawn](https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump)*
+- امریکی وزیر خارجہ کا کہنا ہے کہ ایران کے خلاف فوجی آپریشن مکمل ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2004963/rubio-declares-us-operation-against-iran-over-claims-washington-achieved-military-objectives)*
+- ٹرمپ کا نتن یاہو کے ساتھ فون کال اور لبنان کے تنازع پر ناراضگی کا انکشاف۔ *[Dawn](https://www.dawn.com/news/2004906/i-was-a-little-bit-perturbed-trump-confirms-expletive-laden-phone-call-with-netanyahu)*
+- اسرائیل کا مغربی کنارے میں بستیوں کی توسیع کا منصوبہ۔ *[Dawn](https://www.dawn.com/news/2004930/israel-plans-major-expansion-of-west-bank-settlements-on-occupied-palestinian-land)*
+- دہلی کے ایک ہوٹل میں آگ لگنے سے 21 افراد ہلاک، جن میں 18 غیر ملکی شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423919/18-foreign-nationals-among-21-killed-in-delhi-hotel-fire)*
+- لبنان اور غزہ پر اسرائیلی حملوں میں جانی نقصان۔ *[Business Recorder](https://www.brecorder.com/news/40423848/lebanon-says-at-least-9-dead-as-israel-strikes-near-beirut)*
+- یوکرین کے ڈرونز کا سینٹ پیٹرزبرگ میں حملے۔ *[Business Recorder](https://www.brecorder.com/news/40423846/ukrainian-drones-hit-saint-petersburg-as-russian-davos-opens)*
+- اقوام متحدہ کی سلامتی کونسل کے لیے نئے ارکان کا انتخاب۔ *[Business Recorder](https://www.brecorder.com/news/40423847/austria-portugal-trinidad-and-tobago-and-zimbabwe-elected-to-unsc)*
 
 ### کھیل
-- انگلینڈ کے کپتان بین اسٹوکس نے آئی پی ایل کی وجہ سے جوفرا آرچر کی ٹیم سے غیر موجودگی کا دفاع کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423806/england-captain-stokes-defends-archers-ipl-enforced-absence-from-test-side)*
-- پولینڈ کی کھلاڑی ماجا چوالنسکا نے فرینچ اوپن کے سیمی فائنل میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423804/qualifier-chwalinska-reaches-french-open-semi-finals)*
+- ایشین گیمز کے حوالے سے سوریا کمار کے بارے میں خبر۔ *[ARY](https://arynews.tv/suryakumar-out-sooryavanshi-in-for-asian-games)*
+
+### صحت
+- ایبولہ کے پھیلاؤ پر عالمی ادارہ صحت کا بیان۔ *[Dawn](https://www.dawn.com/news/2004961/ebola-had-big-head-start-but-response-catching-up-who)*
+- پاکستان میں تمباکو نوشی کے استعمال میں کمی کا سروے۔ *[Business Recorder](https://www.brecorder.com/news/40423917/tobacco-consumption-declines-survey)*
 
 ### دیگر
-- مائیک عبداللہ اور جیک شارٹ کے درمیان منگنی ختم ہونے کی افواہوں سے سوشل میڈیا پر چرچا ہے۔ *[ARY](https://arynews.tv/mika-abdalla-jake-short-call-off-engagement-amid-off-campus-buzz)*
-- ایک وائرل ویڈیو میں ایک شخص کو بغیر اے سی کے شدید گرمی میں اپنا گھر ٹھنڈا رکھنے کے طریقے دکھائے گئے ہیں۔ *[ARY](https://arynews.tv/viral-man-keeps-his-house-cooler-in-extreme-heat-without-ac)*
-- فلم 'By Any Means' کا ٹریلر جاری کر دیا گیا ہے جو 1960 کی دہائی کے تھرلر پر مبنی ہے۔ *[ARY](https://arynews.tv/by-any-means-trailer-yahya-abdul-mateen-ii-mark-wahlberg)*
+- بن افلیک اور جینیفر گارنر کے تعلقات کے حوالے سے خبر۔ *[ARY](https://arynews.tv/garners-love-triangle-affleck-presence-shakes-relationship)*
+- موسمیاتی تبدیلیوں اور ان کے سیاسی اثرات پر تجزیہ۔ *[Dawn](https://www.dawn.com/news/2005045/weaponising-climate)*
 
