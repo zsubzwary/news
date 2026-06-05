@@ -4,65 +4,63 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Jun-2026 21:05PKT
+Published at: 05-Jun-2026 09:05PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- Prime Minister Shehbaz Sharif has directed the launch of a pilot project for an automated income tax collection system in Islamabad. *[Dawn](https://www.dawn.com/news/2005199/pm-shehbaz-directs-launch-of-pilot-for-proposed-automated-tax-collection-system-in-islamabad)*
-- Security costs for the Reko Diq Copper-Gold Project are increasing as the government and Barrick Mining Corporation discuss necessary upgrades. *[Dawn](https://www.dawn.com/news/2005001/reko-diq-security-costs-increase-as-upgrades-discussed)*
-- Pakistani exporters expressed confidence that a proposed 10% additional US duty on imports will not impact the country's exports. *[Dawn](https://www.dawn.com/news/2005007/exporters-see-no-impact-of-10pc-us-duty)*
-- Petrol prices have surged to Rs500 in a specific province. *[ARY](https://arynews.tv/petrol-price-surges-to-rs500-in-this-province)*
-- Currency markets showed fluctuations in the UK Pound, Omani Riyal, and Kuwaiti Dinar against the Pakistani Rupee. *[ARY](https://arynews.tv/uk-pound-to-pakistani-rupee-rate-today-june-4-2026), [ARY](https://arynews.tv/omani-riyal-to-pakistani-rupee-rate-today-june-4-2026), [ARY](https://arynews.tv/kuwaiti-dinar-to-pakistani-rupee-rate-today-june-4-2026)*
-- India's push for tougher power grid regulations is causing concern among investors regarding clean energy ambitions. *[Business Recorder](https://www.brecorder.com/news/40423984/indias-tougher-grid-rules-unsettle-investors-test-clean-energy-ambitions)*
-- A hiring slump at Reliance Industries may indicate a broader shift toward the adoption of artificial intelligence. *[Business Recorder](https://www.brecorder.com/news/40423983/reliance-hiring-slump-is-calm-before-ai-storm)*
-- Aggressive FX swaps by the Reserve Bank of India have brought hedging costs to a two-month low. *[Business Recorder](https://www.brecorder.com/news/40423982/indian-central-banks-heavy-fx-swaps-drag-premiums-to-2-month-low-ahead-of-policy)*
-- Pakistan faces the challenge of balancing IMF requirements with economic survival ahead of the upcoming federal budget. *[Business Recorder](https://www.brecorder.com/news/40423958/pakistans-tightrope-walk-balancing-imf-demands-against-economic-survival)*
-- Pakistan and Tajikistan have agreed on a three-year roadmap to increase bilateral trade to $200 million. *[Business Recorder](https://www.brecorder.com/news/40423979/pakistan-tajikistan-agree-roadmap-to-boost-bilateral-trade-to-200mn)*
-- The Pakistani government is set to present the federal budget for FY2026-27 on June 10. *[Business Recorder](https://www.brecorder.com/news/40423978/pakistan-govt-to-present-federal-budget-2026-27-on-june-10-official-confirms)*
-- State Bank of Pakistan-held foreign exchange reserves increased by $43 million to $17.19 billion. *[Business Recorder](https://www.brecorder.com/news/40423977/sbp-held-foreign-exchange-reserves-rise-by-43mn-to-179bn)*
-- Overseas investors are shifting toward short-term Indian government bonds ahead of policy changes. *[Business Recorder](https://www.brecorder.com/news/40423973/foreign-investors-pivot-to-short-india-debt-ahead-of-policy)*
-- Sri Lankan shares closed lower for the fourth consecutive session due to broad-based selling. *[Business Recorder](https://www.brecorder.com/news/40423972/sri-lankan-shares-fall-for-fourth-straight-session-on-broad-based-selling)*
+- Government plans to introduce a centralised digital tax model to reduce direct contact between officials and taxpayers. *[Dawn](https://www.dawn.com/news/2005299/govt-eyes-centralised-tax-model-to-curb-official-taxpayer-contact)*
+- A widening trade deficit threatens to offset the recent growth in Pakistan's foreign exchange reserves. *[Dawn](https://www.dawn.com/news/2005286/soaring-trade-gap-emerges-as-black-hole-for-dollars)*
+- Nepra has announced electricity rate reductions for June, July, and August. *[Dawn](https://www.dawn.com/news/2005292/nepra-reduces-electricity-charges-for-three-months)*
+- Prime Minister Shehbaz Sharif has prioritized export-led growth and directed the NTC to facilitate investors. *[Dawn](https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors)*
+- Indian shares are expected to open higher ahead of a key Reserve Bank of India policy decision. *[Business Recorder](https://www.brecorder.com/news/40424114/indian-shares-set-for-firmer-open-ahead-of-high-stakes-rbi-stance)*
+- Asian share markets declined as investors took profits on tech stocks amid stalling US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40424113/stocks-drop-as-ai-rally-pauses-us-iran-peace-talks-stall)*
+- The Japanese yen hit the 160-per-dollar level for the third consecutive session. *[Business Recorder](https://www.brecorder.com/news/40424112/yen-hits-key-160-level-for-third-session-dollar-buoyed-by-gulf-woes)*
+- Gold prices are set for a weekly loss due to Middle East tensions and inflation fears. *[Business Recorder](https://www.brecorder.com/news/40424111/gold-slips-set-for-weekly-loss-on-mideast-tensions-rate-hike-fears)*
+- Oil prices remain stable due to ongoing uncertainty surrounding a US-Iran peace deal. *[Business Recorder](https://www.brecorder.com/news/40424110/oil-little-changed-on-uncertainty-over-us-iran-peace-deal)*
+- The fifth and sixth tranches of the fuel subsidy scheme are scheduled for disbursement this month. *[Business Recorder](https://www.brecorder.com/news/40424071/5th-6th-tranches-of-fuel-subsidy-scheme-to-be-disbursed-this-month)*
+- PCDA has urged the FBR to reduce GST rates and ease compliance to prevent businesses from moving to the informal economy. *[Business Recorder](https://www.brecorder.com/news/40424077/gst-gradual-transition-to-single-digit-taxation-envisaged)*
+- Meezan Bank has surpassed PKR 1 billion in disbursements under the Apna Ghar housing finance programme. *[Business Recorder](https://www.brecorder.com/news/40424079/apna-ghar-programme-meezan-bank-surpasses-rs1bn-disbursements)*
+- FPCCI has called for the inclusion of women in national economic decision-making processes. *[Business Recorder](https://www.brecorder.com/news/40424075/fpcci-calls-for-womens-economic-inclusion-in-decisions)*
 
 ### Science & Technology
-- US company Vast has announced a mission to fly an astronaut to its Haven-1 station in 2027, marking a race to replace the ISS with commercial stations. *[Dawn](https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss)*
-- Nvidia CEO Jensen Huang is visiting South Korea to engage with the country's critical role in the AI memory chip landscape. *[Dawn](https://www.dawn.com/news/2005165/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances)*
-- Engro and Baidu have entered into an MoU to explore AI capabilities and ecosystem development across the region. *[Business Recorder](https://www.brecorder.com/news/40423975/engro-and-baidu-enter-into-an-mou-to-explore-ai-capabilities-and-ecosystem-development-across-the-region)*
+- US company Vast has announced a mission to launch Haven-1, potentially the first commercial space station, by 2027. *[Dawn](https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss)*
+
+### Weather
+- Experts warn that worsening urban heat in Karachi could trigger a significant public health crisis. *[Dawn](https://www.dawn.com/news/2005340/worsening-urban-heat-could-trigger-public-health-meltdown-expert-warns)*
 
 ### Politics
-- Bilawal Bhutto-Zardari urged voters in Gilgit-Baltistan to provide the PPP with a "heavy mandate" to protect the region's rights. *[Dawn](https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights)*
-- The Foreign Office refuted reports that Deputy PM Ishaq Dar shared intelligence regarding Iran's nuclear programme during a meeting with US officials. *[Dawn](https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio)*
+- The Federal Constitutional Court emphasized that public appointments must meet standards of fairness and merit. *[Dawn](https://www.dawn.com/news/2005290/key-public-appointments-must-meet-standards-of-fairness-fcc-rules)*
+- PM Shehbaz Sharif hailed the "special relationship" between Pakistan and the United States during a US anniversary event. *[Dawn](https://www.dawn.com/news/2005211/pm-shehbaz-hails-islamabads-true-and-special-relationship-with-washington-at-event-marking-us-250th-anniversary)*
+- Bilawal Bhutto-Zardari urged Gilgit-Baltistan voters to grant the PPP a heavy mandate to safeguard regional rights. *[Dawn](https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights)*
+- Democratic leaders in the US are seeking Senate support to limit President Trump's war powers regarding Iran. *[Dawn](https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers)*
+- The Foreign Office refuted claims that Deputy PM Ishaq Dar shared intelligence regarding Iran's nuclear programme with the US. *[Dawn](https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio)*
+- PPP leaders have accused opponents of "pre-poll rigging" in the upcoming Gilgit-Baltistan elections. *[Business Recorder](https://www.brecorder.com/news/40424068/gb-elections-ppp-leaders-allege-pre-poll-rigging)*
+- PTI has accused the federal government of political interference and profiling in the Gilgit-Baltistan polls. *[Business Recorder](https://www.brecorder.com/news/40424082/pti-accuses-govt-of-manipulating-gb-polls)*
+- Chinese Consul General Sun Yan highlighted the need for an expanded China-Pakistan security partnership. *[Business Recorder](https://www.brecorder.com/news/40424072/china-pakistan-security-partnership-sought)*
+- The ECP is set to hear the case regarding Murad Saeed's vacated Senate seat on the 16th. *[Business Recorder](https://www.brecorder.com/news/40424066/ecp-to-hear-murad-saeeds-senate-seat-case-on-16th)*
+- The Sindh Governor met with British officials to discuss bilateral cooperation and regional stability. *[Business Recorder](https://www.brecorder.com/news/40424076/governor-uk-hc-discuss-cooperation-regional-stability)*
 
 ### National
-- The Supreme Court dismissed Zahir Jaffer's review petition, upholding his death sentence in the Noor Mukadam murder case. *[Dawn](https://www.dawn.com/news/2005168/noor-mukadam-case-sc-dismisses-zahir-jaffers-review-plea-upholds-death-sentence)*
-- PTI leaders were once again denied permission to meet Imran Khan at Adiala jail, despite court orders. *[Dawn](https://www.dawn.com/news/2005201/pti-leaders-once-again-barred-from-meeting-imran-khan-at-adiala-jail)*
-- The Sindh High Court ordered police to provide protection to a newlywed couple in Jacobabad following village violence. *[Dawn](https://www.dawn.com/news/2005182/shc-orders-protection-for-newlywed-jacobabad-couple-after-angry-relatives-torch-village)*
-- The Federal Constitutional Court ruled that superior courts should issue directions to high courts for deciding cases sparingly. *[Dawn](https://www.dawn.com/news/2005153/superior-courts-should-issue-directions-to-high-courts-for-swiftly-deciding-pending-cases-sparingly-fcc-rules)*
-- The federal government is seeking input for a new internal security policy aimed at centralizing police operations and improving intelligence sharing. *[Dawn](https://www.dawn.com/news/2005034/new-internal-security-policy-to-centralise-police-operations)*
-- Information Minister Ataullah Tarar assured the Christian community of the government's commitment to protecting minority rights. *[Dawn](https://www.dawn.com/news/2005125/govt-committed-to-protecting-rights-of-minorities-info-minister-says-in-meeting-with-delegation-from-christian-community)*
-- Mehmood Khan Achakzai challenged an FIR against him, describing the nation's current issues as political in nature. *[Dawn](https://www.dawn.com/news/2005016/achakzai-challenges-fir-terms-countrys-issues-political)*
-- A 1,500-page challan has been submitted against DSP Usman Haider, naming 71 witnesses in a murder case. *[ARY](https://arynews.tv/dsp-usman-haider-allegations-in-murder-case)*
+- The Islamabad High Court is seeking answers regarding the non-implementation of the Zainab child protection law. *[Dawn](https://www.dawn.com/news/2005300/ihc-seeks-answers-on-action-under-zainab-child-protection-law)*
+- Security forces killed four terrorists during intelligence-based operations in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2005207/security-forces-kill-4-terrorists-in-separate-kp-operations-ispr)*
+- An inquiry at Gomal University has uncovered hundreds of suspicious degrees and financial irregularities. *[Dawn](https://www.dawn.com/news/2005202/inquiry-uncovers-over-500-suspicious-degrees-financial-irregularities-at-kps-gomal-university)*
+- The Supreme Court has upheld the death sentence for Zahir Jaffer in the Noor Mukadam murder case. *[Dawn](https://www.dawn.com/news/2005168/noor-mukadam-case-sc-dismisses-zahir-jaffers-review-plea-upholds-death-sentence)*
+- The CTD has recommended the dismissal of two officers over alleged links to Anmol Pinky. *[ARY](https://arynews.tv/anmol-pinky-ctd-recommends-dismissal-of-two-officers-over-links)*
+- BISP has inaugurated seven new Mobile Registration Vans to assist its massive household registry. *[Business Recorder](https://www.brecorder.com/news/40424067/bisp-chairperson-german-envoy-inaugurate-seven-new-mrvs)*
+- The "PurAzm Pakistan" platform has been launched to expand economic and skill opportunities for youth. *[Business Recorder](https://www.brecorder.com/news/40424065/purazm-pakistan-launched-to-expand-economic-opportunities-for-youth)*
+- Deputy PM Ishaq Dar met with a delegation from the National Defence College of Sri Lanka. *[Business Recorder](https://www.brecorder.com/news/40424073/dar-meets-team-of-defence-college-sri-lanka)*
 
 ### International
-- Iran’s Supreme Leader warned that adversaries are employing "hybrid warfare" to create divisions within the country. *[Dawn](https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-creating-divisions)*
-- The US House of Representatives passed a resolution to prevent President Trump from continuing the war against Iran. *[Dawn](https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump)*
-- Deputy PM Ishaq Dar congratulated the countries elected as non-permanent members of the UNSC for the 2027–2028 term. *[Dawn](https://www.dawn.com/news/2005143/dar-congratulates-countries-elected-as-non-permanent-unsc-members)*
-- North Korean leader Kim Jong Un called for an "exponential" expansion of the country's nuclear arsenal. *[Dawn](https://www.dawn.com/news/2005144/north-koreas-kim-calls-for-exponential-nuclear-expansion-after-inspecting-new-plant)*
-- Israel and Lebanon have agreed to a conditional ceasefire, though Hezbollah's rejection of terms complicates peace efforts. *[Dawn](https://www.dawn.com/news/2005110/israel-lebanon-agree-to-conditional-ceasefire) / [Business Recorder](https://www.brecorder.com/news/40423980/hezbollah-rejection-clouds-lebanon-ceasefire-and-prospects-for-ending-iran-war)*
-- India is set to place a $2 billion order for military drones from domestic firms. *[Dawn](https://www.dawn.com/news/2005028/india-set-for-2bn-drone-order-in-biggest-buy)*
-- Bangladesh reported that it has foiled several attempts by India to force undocumented migrants into the country. *[Business Recorder](https://www.brecorder.com/news/40423976/bangladesh-says-it-foiled-multiple-attempts-by-india-to-force-people-into-the-country)*
-- Donald Trump announced his intention to nominate Todd Blanche as the permanent US Attorney General. *[Business Recorder](https://www.brecorder.com/news/40423969/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general)*
-- Israeli Prime Minister Netanyahu faces increasing political and legal challenges. *[ARY](https://arynews.tv/netanyahu-faces-political-and-legal-challenges-ahead)*
+- A man credited with saving lives during the Bondi Beach shooting in Sydney has been charged with assaulting his father. *[Dawn](https://www.dawn.com/news/2005323/bondi-beach-hero-charged-with-assaulting-father)*
 
 ### Sports
-- Paramount+ has secured a six-year deal to exclusively stream UFC main cards in Canada starting in 2027. *[Business Recorder](https://www.brecorder.com/news/40423987/paramount-to-stream-ufc-main-cards-in-canada-from-2027)*
-- Pakistan dismissed Australia for 157 in their third ODI, led by a three-wicket haul from Shaheen Shah Afridi. *[Business Recorder](https://www.brecorder.com/news/40423985/shaheen-led-pakistan-dismisses-australia-for-157-in-third-odi)*
-- Russian teenager Mirra Andreeva reached her maiden Grand Slam final after defeating Marta Kostyuk at the French Open. *[Business Recorder](https://www.brecorder.com/news/40423981/andreeva-dismisses-kostyuk-to-reach-french-open-final)*
-- Sara Errani and Andrea Vavassori successfully defended their French Open mixed doubles title. *[Business Recorder](https://www.brecorder.com/news/40423970/errani-and-vavassori-retain-french-open-mixed-doubles-title)*
-- Manchester City chairman revealed that Pep Guardiola had repeatedly considered leaving the club during his decade-long tenure. *[Business Recorder](https://www.brecorder.com/news/40423971/guardiola-quit-100-times-before-final-exit-says-man-city-chairman)*
+- Pakistan secured a 2-1 ODI series victory against Australia in Lahore. *[Dawn](https://www.dawn.com/news/2005169/pakistan-upstage-australia-for-2-1-odi-series-win)*
+
+### Health
+- A recent polio vaccination campaign reached over 18.6 million children despite some parental refusals. *[Dawn](https://www.dawn.com/news/2005264/despite-holdouts-polio-drive-still-reaches-millions)*
+- Experts highlight the high prevalence of diabetes and heart disease in Pakistan, calling for better public awareness. *[Dawn](https://www.dawn.com/news/2005329/incomplete-systems-markets)*
 
 ### Other
-- Actor Chris Hemsworth's family was delayed at an airport due to a passport mix-up. *[ARY](https://arynews.tv/chris-hemsworths-passport-mix-up-leaves-family-stuck-at-airport)*
-- Elon Musk's daughter, Vivian, made a notable appearance on a runway. *[ARY](https://arynews.tv/elon-musks-daughter-vivian-rewrites-her-own-runway)*
-- Newlyweds Dua Lipa and Callum Turner arrived in Sicily for their wedding celebrations. *[Business Recorder](https://www.brecorder.com/news/40423986/newlyweds-dua-lipa-and-callum-turner-arrive-in-sicily-for-wedding-celebrations)*
+- The Chief of the Naval Staff has called for urgent, coordinated international action to address climate change. *[Business Recorder](https://www.brecorder.com/news/40424080/naval-chief-for-collective-action-against-climate-change)*
 
