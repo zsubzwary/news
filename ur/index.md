@@ -7,54 +7,57 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 04-Jun-2026 21:11PKT 
+ &lrm; 05-Jun-2026 09:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- اسلام آباد میں خودکار انکم ٹیکس وصولی کے پائلٹ پروجیکٹ کے آغاز کی ہدایت۔ *[Dawn](https://www.dawn.com/news/2005199/pm-shehbaz-directs-launch-of-pilot-for-proposed-automated-tax-collection-system-in-islamabad)*
-- ریکو ڈک منصوبے کے لیے سیکیورٹی کے تقاضوں کو اپ گریڈ کرنے پر غور، جس سے اخراجات میں اضافہ ہو سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2005001/reko-diq-security-costs-increase-as-upgrades-discussed)*
-- برآمد کنندگان کا ماننا ہے کہ امریکہ کی جانب سے لگائے جانے والے 10 فیصد اضافی ڈیوٹی سے پاکستان کی برآمدات پر کوئی اثر نہیں پڑے گا۔ *[Dawn](https://www.dawn.com/news/2005007/exporters-see-no-impact-of-10pc-us-duty)*
-- پاکستان کا وفاقی بجٹ 10 جون کو پیش کیا جائے گا، جبکہ معاشی سروے 9 جون کو جاری ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40423978/pakistan-govt-to-present-federal-budget-2026-27-on-june-10-official-confirms)*
-- اسٹیٹ بینک کے پاس غیر ملکی زر کے ذخائر میں 43 ملین ڈالر کا اضافہ ہو کر یہ 17.19 ارب ڈالر تک پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423977/sbp-held-foreign-exchange-reserves-rise-by-43mn-to-17.9bn)*
-- بھارت میں بجلی کے گرڈ کے سخت قوانین کے باعث سرمایہ کاروں میں تشویش پائی جاتی ہے جو کلین انرجی کے اہداف کو متاثر کر سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423984/indias-tougher-grid-rules-unsettle-investors-test-clean-energy-ambitions)*
-- انڈیا میں ریلائنس انڈسٹریز میں بھرتیوں میں کمی اور اے آئی (AI) کے بڑھتے ہوئے استعمال سے مستقبل میں ملازمتوں کے شعبے میں تبدیلی متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423983/reliance-hiring-slump-is-calm-before-ai-storm)*
-- پاکستان اور تاجکستان نے دوطرفہ تجارت کو 200 ملین ڈالر تک لے جانے کے لیے تین سالہ روڈ میپ پر اتفاق کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423979/pakistan-tajikistan-agree-roadmap-to-boost-bilateral-trade-to-200mn)*
+- حکومت ٹیکس افسران اور ٹیکس دہندگان کے درمیان براہ راست رابطے کو کم کرنے کے لیے ایک مرکزی ڈیجیٹل ٹیکس ماڈل متعارف کرانے کا ارادہ رکھتی ہے۔ *[Dawn](https://www.dawn.com/news/2005299/govt-eyes-centralised-tax-model-to-curb-official-taxpayer-contact)*
+- بڑھتے ہوئے تجارتی خسارے کے باعث ملکی زرِ مبادلہ کے ذخائر پر خطرہ منڈلا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2005286/soaring-trade-gap-emerges-as-black-hole-for-dollars)*
+- نیپرا نے جولائی اور اگست کے لیے بجلی کے نرخوں میں 1.99 روپے فی یونٹ کی کمی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005292/nepra-reduces-electricity-charges-for-three-months)*
+- وزیر اعظم شہباز شریف نے برآمدات پر مبنی ترقی کو اولین ترجیح قرار دیتے ہوئے سرمایہ کاروں کی سہولت کے لیے اقدامات کرنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors)*
+- وال اسٹریٹ میں تیزی دیکھی گئی اور ڈاؤ انڈیکس ریکارڈ سطح پر بند ہوا۔ *[ARY](https://arynews.tv/broadcom-and-its-impact-on-chip-market-trends)*
+- ایشیائی حصص کے بازار امریکی اور ایرانی تعلقات میں کشیدگی کے باعث گرا۔ *[Business Recorder](https://www.brecorder.com/news/40424113/stocks-drop-as-ai-rally-pauses-us-iran-peace-talks-stall)*
+- جاपानी ین ڈالر کے مقابلے میں مزید کمزور ہو کر 160 کی سطح پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424112/yen-hits-key-160-level-for-third-session-dollar-buoyed-by-gulf-woes)*
+- مشرق وسطیٰ میں تناؤ کے باعث سونے کی قیمتوں میں کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40424111/gold-slips-set-for-weekly-loss-on-mideast-tensions-rate-hike-fears)*
+- تیل کی قیمتوں میں امریکی اور ایرانی امن مذاکرات کے غیر یقینی حالات کے باعث معمولی تبدیلی آئی۔ *[Business Recorder](https://www.brecorder.com/news/40424110/oil-little-changed-on-uncertainty-over-us-iran-peace-deal)*
+- حکومت نے این پی ٹی سی کو سرمایہ کاروں کی سہولت فراہم کرنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors)*
+- این ایف پی سی سی نے معاشی فیصلوں میں خواتین کی شمولیت پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424075/fpcci-calls-for-womens-economic-inclusion-in-decisions)*
+- میزان بینک نے اپنا گھر پروگرام کے تحت ایک ارب روپے سے زیادہ کے رہائشی قرضے جاری کر دیے۔ *[Business Recorder](https://www.brecorder.com/news/40424079/apna-ghar-programme-meezan-bank-surpasses-rs1bn-disbursements)*
 
 ### سائنس اور ٹیکنالوجی
-- امریکی کمپنی 'وسٹ' (Vast) نے اگلے سال اپنا پہلا کمرشل اسپیس اسٹیشن لانچ کرنے کے لیے مشن کا آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss)*
-- این ویڈیا (Nvidia) کے سی ای او کا جنوبی کوریا کا دورہ، جہاں اے آئی (AI) کے شعبے میں اہم کردار ادا کرنے والی کمپنیوں سے ملاقاتیں ہوں گی۔ *[Dawn](https://www.dawn.com/news/2005165/nvidia-ceo-mounts-charm-push-in-south-korea-with-tv-talk-show-baseball-appearances)*
-- اینگرو (Engro) اور بائیڈو (Baidu) نے خطے میں اے آئی کی صلاحیتوں کو فروغ دینے کے لیے مفاہمت کی یادداشت پر دستخط کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423975/engro-and-baidu-enter-into-an-mou-to-explore-ai-capabilities-and-ecosystem-development-across-the-region)*
+- امریکی کمپنی 'واسٹ' نے اگلے سال اپنا تجارتی اسپیس اسٹیشن لانچ کرنے کا منصوبہ ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss)*
+
+### موسم
+- کراچی میں بڑھتی ہوئی شہری گرمی عوامی صحت کے لیے سنگین خطرہ بن سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2005340/worsening-urban-heat-could-trigger-public-health-meltdown-expert-warns)*
+- بحریہ کے سربراہ نے موسمیاتی تبدیلیوں کے خلاف عالمی سطح پر متحد کارروائی کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424080/naval-chief-for-collective-action-against-climate-change)*
 
 ### سیاست
-- بلاول بھٹو زرداری نے گلیات بلتستان میں ریلی کے دوران پی پی پی کو بھاری اکثریت دینے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights)*
-- فارن آفس نے ان رپورٹس کی تردید کر دی ہے کہ اسحاق ڈار نے امریکی وزیر خارجہ کے ساتھ ملاقات میں ایران کے ایٹمی پروگرام سے متعلق معلومات شیئر کیں۔ *[Dawn](https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio)*
+- وفاقی آئینی عدالت نے اہم سرکاری عہدوں پر تقرری کے لیے شفافیت اور میرٹ کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2005290/key-public-appointments-must-meet-standards-of-fairness-fcc-rules)*
+- وزیر اعظم شہباز شریف نے پاک امریکہ تعلقات کو دیرینہ اور خصوصی قرار دیا۔ *[Dawn](https://www.dawn.com/news/2005211/pm-shehbaz-hails-islamabads-true-and-special-relationship-with-washington-at-event-marking-us-250th-anniversary)*
+- بی ایل ڈبلیو نے گلگت بلتستان کے انتخابات میں پی پی پی کو بھاری اکثریت دینے کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights)*
+- وفاقی دفتر نے اس رپورٹ کو مسترد کر دیا ہے کہ ایشاق ڈار نے ایران کے ایٹمی پروگرام کے بارے میں معلومات شیئر کیں۔ *[Dawn](https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio)*
+- ای سی پی نے مراد سعید کے سینیٹ کے سیٹ سے متعلق کیس کی سماعت 16 تاریخ کو کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424066/ecp-to-hear-murad-saeeds-senate-seat-case-on-16th)*
+- چین نے پاکستان کے ساتھ سیکورٹی شراکت داری کو مزید بڑھانے پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424072/china-pakistan-security-partnership-sought)*
+- پی ٹی آئی نے گلگت بلتستان کے انتخابات میں حکومتی مداخلت کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424082/pti-accuses-govt-of-manipulating-gb-polls)*
 
 ### قومی
-- سپریم کورٹ نے نور مقدم کیس میں ظہیر جعفر کی نظر ثانی کی درخواست مسترد کرتے ہوئے سزائے موت برقرار رکھی۔ *[Dawn](https://www.dawn.com/news/2005168/noor-mukadam-case-sc-dismisses-zahir-jaffers-review-plea-upholds-death-sentence)*
-- پی ٹی آئی رہنماؤں کو اڈیالہ جیل میں عمران خان سے ملاقات کی اجازت دینے سے ایک بار پھر روک دیا گیا۔ *[Dawn](https://www.dawn.com/news/2005201/pti-leaders-once-again-barred-from-meeting-imran-khan-at-adiala-jail)*
-- سندھ ہائی کورٹ نے جیکب آباد کے ایک نو بیاہتا جوڑے کو تحفظ فراہم کرنے کا حکم دیا۔ *[Dawn](https://www.dawn.com/news/2005182/shc-orders-protection-for-newlywed-jacobabad-couple-after-angry-relatives-torch-village)*
-- وفاق نے پولیس آپریشنز کو مرکزی حیثیت دینے کے لیے ایک نئی اندرونی سیکیورٹی پالیسی پر کام شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2005034/new-internal-security-policy-to-centralise-police-operations)*
-- وزیر اطلاعات نے عیسائی کمیونٹی کے وفد سے ملاقات میں اقلیتوں کے حقوق کے تحفظ کا یقین دلایا۔ *[Dawn](https://www.dawn.com/news/2005125/govt-committed-to-protecting-rights-of-minorities-info-minister-says-in-meeting-with-delegation-from-christian-community)*
-- مہمود خان اچکزئی نے چمن میں اپنے خلاف درج ایف آئی آر کو چیلنج کرتے ہوئے اسے سیاسی قرار دیا۔ *[Dawn](https://www.dawn.com/news/2005016/achakzai-challenges-fir-terms-countrys-issues-political)*
+- اسلام آباد ہائی کورٹ نے زینب الرٹ ایکٹ کے اہم حصوں پر عمل درآمد نہ ہونے پر جواب طلب کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005300/ihc-seeks-answers-on-action-under-zainab-child-protection-law)*
+- سیکیورٹی فورسز نے خیبر پختونخوا میں دو مختلف کارروائیوں میں 4 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2005207/security-forces-kill-4-terrorists-in-separate-kp-operations-ispr)*
+- گومل یونیورسٹی میں مشکوک ڈگریوں اور مالی بے ضابطگیوں کا انکشاف ہوا۔ *[Dawn](https://www.dawn.com/news/2005202/inquiry-uncovers-over-500-suspicious-degrees-financial-irregularities-at-kps-gomal-university)*
+- سی ٹی ڈی نے انمل پنکی سے تعلق رکھنے والے دو افسران کو برطرف کرنے کی سفارش کی ہے۔ *[ARY](https://arynews.tv/anmol-pinky-ctd-recommends-dismissal-of-two-officers-over-links)*
+- بے نظیر انکم سپورٹ پروگرام نے سات نئے موبائل رجسٹریشن وینز کا افتتاح کیا۔ *[Business Recorder](https://www.brecorder.com/news/40424067/bisp-chairperson-german-envoy-inaugurate-seven-new-mrvs)*
+- حکومت نے نوجوانوں کے لیے 'پر عزم پاکستان' پلیٹ فارم کا آغاز کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424065/purazm-pakistan-launched-to-expand-economic-opportunities-for-youth)*
 
 ### بین الاقوامی
-- ایران کے سپریم لیڈر نے کہا ہے کہ دشمن 'ہائبرڈ وارفیئر' کے ذریعے ملک میں تقسیم پیدا کرنے کی کوشش کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2005155/irans-supreme-leader-says-adversaries-using-hybrid-warfare-aimed-at-creating-divisions)*
-- امریکی ایوان کے نمائندوں نے ایران کے خلاف جنگ ختم کرنے کے لیے ایک قرارداد منظور کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2005046/us-house-passes-resolution-calling-for-end-to-war-on-iran-rebuking-trump)*
-- اسرائیل اور لبنان کے درمیان ممکنہ جنگ بندی کے معاہدے پر اتفاق ہوا، تاہم اس کے لیے مکمل آگباری کا خاتمہ ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2005110/israel-lebanon-agree-to-conditional-ceasefire)*
-- شمالی کوریا کے رہنما کم جونگ ان نے ایٹمی ہتھیاروں کی پیداوار میں تیزی لانے کی ہدایت جاری کی ہے۔ *[Dawn](https://www.dawn.com/news/2005144/north-koreas-kim-calls-for-exponential-nuclear-expansion-after-inspecting-new-plant)*
-- بھارت نے ڈرون خریدنے کے لیے 2 ارب ڈالر کا بڑا آرڈر دینے کی تیاری کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2005028/india-set-for-2bn-drone-order-in-biggest-buy)*
-- بنگلہ دیش نے بھارت کی جانب سے غیر قانونی طور پر لوگوں کو ملک میں داخل کرنے کی کوششوں کو ناکام بنانے کا دعویٰ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423976/bangladesh-says-it-foiled-multiple-attempts-by-india-to-force-people-into-the-country)*
-- ڈونلڈ ٹرمپ نے ٹوڈ بلینچ کو امریکی اٹارنی جنرل مقرر کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40423969/trump-says-he-will-nominate-todd-blanche-as-us-attorney-general)*
+- آسٹریلیا کے بانڈی بیچ میں جان بچانے والے ہیرو پر اپنے والد پر حملے کا الزام لگایا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2005323/bondi-beach-hero-charged-with-assaulting-father)*
+- امریکی ڈیموکریٹس نے صدر ٹرمپ کے جنگی اختیارات کو محدود کرنے کے لیے سینیٹ سے تعاون طلب کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers)*
+- شاہ چارلس نے شہزادی للیبیٹ کی سالگرہ کے موقع پر خاموشی توڑ دی۔ *[ARY](https://arynews.tv/king-charles-breaks-silence-on-princess-lilibets-5th-birthday-with-rare-gesture)*
 
 ### کھیل
-- پاکستان نے آسٹریلیا کے خلاف تیسرے ون ڈے میچ میں اسے 157 رنز پر قرار دے دیا۔ *[Business Recorder](https://www.brecorder.com/news/40423985/shaheen-led-pakistan-dismisses-australia-for-157-in-third-odi)*
-- میرہ آندریوا فرینچ اوپن کے فائنل میں پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40423981/andreeva-dismisses-kostyuk-to-reach-french-open-final)*
-- پیپ گوارڈیولا کے مین سٹی سے علیحدگی کے فیصلے پر کلب کے چیئرمین نے اہم انکشافات کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40423971/guardiola-quit-100-times-before-final-exit-says-man-city-chairman)*
-- سارہ ایرانی اور اینڈرییا ویواسوری نے فرینچ اوپن مکسڈ ڈبلز کا ٹائٹل برقرار رکھا۔ *[Business Recorder](https://www.brecorder.com/news/40423970/errani-and-vavassori-retain-french-open-mixed-doubles-title)*
+- پاکستان نے آسٹریلیا کو ون ڈے سیریز میں 2-1 سے شکست دے دی۔ *[Dawn](https://www.dawn.com/news/2005169/pakistan-upstage-australia-for-2-1-odi-series-win)*
 
-### دیگر
-- کرس ہیمسورتھ کی فیملی پاسپورٹ کے مسئلے کی وجہ سے ایئرپورٹ پر پھنس گئی۔ *[ARY](https://arynews.tv/chris-hemsworths-passport-mix-up-leaves-family-stuck-at-airport)*
-- ایلون مسک کی بیٹی ویوین کا رن وے پر نظر آنا۔ *[ARY](https://arynews.tv/elon-musks-daughter-vivian-rewrites-her-own-runway)*
-- مشہور گلوکارہ دعا لیپا اور کالم ٹرنر کی شادی کی تقریبات کے لیے اٹلی کے شہر پیسلی پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40423986/newlyweds-dua-lipa-and-callum-turner-arrive-in-sicily-for-wedding-celebrations)*
+### صحت
+- پولیو ویکسینیشن مہم کے دوران 18.6 ملین سے زائد بچوں تک رسائی حاصل کی گئی۔ *[Dawn](https://www.dawn.com/news/2005264/despite-holdouts-polio-drive-still-reaches-millions)*
+- پاکستان میں ذیابیطس اور امراضِ قلب کی شرح عالمی سطح پر تشویشناک ہے۔ *[Dawn](https://www.dawn.com/news/2005329/incomplete-systems-markets)*
 
