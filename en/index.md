@@ -4,63 +4,72 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 05-Jun-2026 09:05PKT
+Published at: 05-Jun-2026 21:04PKT
 
-Time to read: 5 mins
+Time to read: 6 mins
 
 ### Economy
-- Government plans to introduce a centralised digital tax model to reduce direct contact between officials and taxpayers. *[Dawn](https://www.dawn.com/news/2005299/govt-eyes-centralised-tax-model-to-curb-official-taxpayer-contact)*
-- A widening trade deficit threatens to offset the recent growth in Pakistan's foreign exchange reserves. *[Dawn](https://www.dawn.com/news/2005286/soaring-trade-gap-emerges-as-black-hole-for-dollars)*
-- Nepra has announced electricity rate reductions for June, July, and August. *[Dawn](https://www.dawn.com/news/2005292/nepra-reduces-electricity-charges-for-three-months)*
-- Prime Minister Shehbaz Sharif has prioritized export-led growth and directed the NTC to facilitate investors. *[Dawn](https://www.dawn.com/news/2005209/pm-shehbaz-calls-export-led-growth-top-priority-urges-ntc-to-facilitate-investors)*
-- Indian shares are expected to open higher ahead of a key Reserve Bank of India policy decision. *[Business Recorder](https://www.brecorder.com/news/40424114/indian-shares-set-for-firmer-open-ahead-of-high-stakes-rbi-stance)*
-- Asian share markets declined as investors took profits on tech stocks amid stalling US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40424113/stocks-drop-as-ai-rally-pauses-us-iran-peace-talks-stall)*
-- The Japanese yen hit the 160-per-dollar level for the third consecutive session. *[Business Recorder](https://www.brecorder.com/news/40424112/yen-hits-key-160-level-for-third-session-dollar-buoyed-by-gulf-woes)*
-- Gold prices are set for a weekly loss due to Middle East tensions and inflation fears. *[Business Recorder](https://www.brecorder.com/news/40424111/gold-slips-set-for-weekly-loss-on-mideast-tensions-rate-hike-fears)*
-- Oil prices remain stable due to ongoing uncertainty surrounding a US-Iran peace deal. *[Business Recorder](https://www.brecorder.com/news/40424110/oil-little-changed-on-uncertainty-over-us-iran-peace-deal)*
-- The fifth and sixth tranches of the fuel subsidy scheme are scheduled for disbursement this month. *[Business Recorder](https://www.brecorder.com/news/40424071/5th-6th-tranches-of-fuel-subsidy-scheme-to-be-disbursed-this-month)*
-- PCDA has urged the FBR to reduce GST rates and ease compliance to prevent businesses from moving to the informal economy. *[Business Recorder](https://www.brecorder.com/news/40424077/gst-gradual-transition-to-single-digit-taxation-envisaged)*
-- Meezan Bank has surpassed PKR 1 billion in disbursements under the Apna Ghar housing finance programme. *[Business Recorder](https://www.brecorder.com/news/40424079/apna-ghar-programme-meezan-bank-surpasses-rs1bn-disbursements)*
-- FPCCI has called for the inclusion of women in national economic decision-making processes. *[Business Recorder](https://www.brecorder.com/news/40424075/fpcci-calls-for-womens-economic-inclusion-in-decisions)*
+- The government has launched the ‘Fixed Tax Asaan Scheme’ to bring small traders with annual turnovers up to Rs200 million into the tax net. *[Dawn](https://www.dawn.com/news/2005415/govt-launches-scheme-to-bring-small-shop-owners-into-tax-net)*
+- A new centralised digital tax operating model is planned to reduce direct contact between tax officials and taxpayers to curb collusion. *[Dawn](https://www.dawn.com/news/2005299/govt-eyes-centralised-tax-model-to-curb-official-taxpayer-contact)*
+- A widening trade deficit poses a threat to Pakistan's foreign exchange reserves. *[Dawn](https://www.dawn.com/news/2005286/soaring-trade-gap-emerges-as-black-hole-for-dollars)*
+- Nepra has announced a reduction in electricity charges for three months, including a significant per-unit reduction for July and August. *[Dawn](https://www.dawn.com/news/2005292/nepra-reduces-electricity-charges-for-three-months)*
+- A fixed tax scheme has been introduced for small traders ahead of the 2026-27 budget. *[ARY](https://arynews.tv/fixed-tax-scheme-introduced-for-small-traders-before-budget-2026-27)*
+- Current exchange rates for the Saudi Riyal and Omani Riyal against the Pakistani Rupee show varying trends. *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-june-5-2026) / [ARY](https://arynews.tv/omani-riyal-to-pakistani-rupee-rate-today-june-5-2026)*
+- Indian benchmark bonds rallied following the RBI's decision to pause interest rates. *[Business Recorder](https://www.brecorder.com/news/40424169/indian-bonds-rally-after-rbi-rate-pause-fx-boosting-measures)*
+- Sri Lankan shares continued their losing streak, marking a weekly decline. *[Business Recorder](https://www.brecorder.com/news/40424168/sri-lankan-shares-extend-losing-streak-to-five-sessions-logs-weekly-loss)*
+- India's ICICI Prudential AMC has temporarily restricted subscriptions for its gold ETF. *[Business Recorder](https://www.brecorder.com/news/40424159/indias-icici-prudential-amc-restricts-subscription-in-gold-etf)*
+- To support the Indian rupee, the government has scrapped capital gains tax on foreign investors in government debt. *[Business Recorder](https://www.brecorder.com/news/40424158/india-scraps-capital-gains-tax-on-foreign-investors-in-government-debt-to-support-indian-rupee)*
+- UAE stock markets recorded gains despite the stalling of US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40424164/uae-markets-gain-despite-stalled-us-iran-peace-talks)*
+- The Pakistan Textile Council warned that the country risks missing global supply chain shifts without pro-export budget measures. *[Business Recorder](https://www.brecorder.com/news/40424163/pakistan-risks-missing-global-supply-chain-shift-without-pro-export-budget-measures-ptc)*
+- The Indian rupee achieved its biggest daily gain in two months following RBI currency defense measures. *[Business Recorder](https://www.brecorder.com/news/40424152/indian-rupee-posts-biggest-daily-gain-in-2-months-as-rbi-ramps-up-currency-defence)*
+- Copper prices declined due to diminishing hopes for a peace deal between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40424154/fading-hopes-of-a-us-iran-peace-deal-push-copper-lower)*
+- Analysts suggest India's rupee protection measures could attract approximately $40 billion. *[Business Recorder](https://www.brecorder.com/news/40424151/indias-measures-to-protect-indian-rupee-seen-drawing-about-40-billion-analysts-say)*
+- The State Bank of Pakistan reported Rs34 billion in digital transactions during the "Go Cashless" Eid-ul-Azha campaign. *[Business Recorder](https://www.brecorder.com/news/40424157/eid-ul-azha-2026-sbp-says-go-cashless-campaign-saw-rs34bn-in-digital-transactions)*
+- Telenor is reportedly considering the sale of its controlling stake in Easypaisa Bank. *[Business Recorder](https://www.brecorder.com/news/40424155/telenor-considering-sale-of-pakistans-easypaisa-report)*
+- Indian shares saw slight declines following the RBI's rate pause. *[Business Recorder](https://www.brecorder.com/news/40424149/indian-shares-inch-lower-after-rbi-pause;log-weekly-losses-on-crude-surge-outflows)*
+- Malaysian palm oil futures extended their losses. *[Business Recorder](https://www.brecorder.com/news/40424153/palm-extends-losses-but-still-posts-third-weekly-gain)*
 
 ### Science & Technology
-- US company Vast has announced a mission to launch Haven-1, potentially the first commercial space station, by 2027. *[Dawn](https://www.dawn.com/news/2005177/vast-astronaut-mission-kicks-off-commercial-race-to-replace-iss)*
-
-### Weather
-- Experts warn that worsening urban heat in Karachi could trigger a significant public health crisis. *[Dawn](https://www.dawn.com/news/2005340/worsening-urban-heat-could-trigger-public-health-meltdown-expert-warns)*
+- Debates have emerged regarding the potential massive file size of the upcoming game GTA 6. *[ARY](https://arynews.tv/gta-6-file-size)*
+- A Silicon Valley military startup reported a drone crash resulting in injuries at its facility. *[ARY](https://arynews.tv/drone-crashes-and-severed-fingers-at-a-13-billion-silicon-valley-military-startup)*
 
 ### Politics
-- The Federal Constitutional Court emphasized that public appointments must meet standards of fairness and merit. *[Dawn](https://www.dawn.com/news/2005290/key-public-appointments-must-meet-standards-of-fairness-fcc-rules)*
-- PM Shehbaz Sharif hailed the "special relationship" between Pakistan and the United States during a US anniversary event. *[Dawn](https://www.dawn.com/news/2005211/pm-shehbaz-hails-islamabads-true-and-special-relationship-with-washington-at-event-marking-us-250th-anniversary)*
-- Bilawal Bhutto-Zardari urged Gilgit-Baltistan voters to grant the PPP a heavy mandate to safeguard regional rights. *[Dawn](https://www.dawn.com/news/2005196/at-ghizer-rally-bilawal-urges-voters-to-give-ppp-heavy-mandate-to-safeguard-regions-rights)*
-- Democratic leaders in the US are seeking Senate support to limit President Trump's war powers regarding Iran. *[Dawn](https://www.dawn.com/news/2005214/democrats-seek-senate-republican-support-to-limit-trumps-war-powers)*
-- The Foreign Office refuted claims that Deputy PM Ishaq Dar shared intelligence regarding Iran's nuclear programme with the US. *[Dawn](https://www.dawn.com/news/2005140/fo-rejects-reports-of-dar-sharing-intelligence-on-irans-nuclear-programme-during-meeting-with-rubio)*
-- PPP leaders have accused opponents of "pre-poll rigging" in the upcoming Gilgit-Baltistan elections. *[Business Recorder](https://www.brecorder.com/news/40424068/gb-elections-ppp-leaders-allege-pre-poll-rigging)*
-- PTI has accused the federal government of political interference and profiling in the Gilgit-Baltistan polls. *[Business Recorder](https://www.brecorder.com/news/40424082/pti-accuses-govt-of-manipulating-gb-polls)*
-- Chinese Consul General Sun Yan highlighted the need for an expanded China-Pakistan security partnership. *[Business Recorder](https://www.brecorder.com/news/40424072/china-pakistan-security-partnership-sought)*
-- The ECP is set to hear the case regarding Murad Saeed's vacated Senate seat on the 16th. *[Business Recorder](https://www.brecorder.com/news/40424066/ecp-to-hear-murad-saeeds-senate-seat-case-on-16th)*
-- The Sindh Governor met with British officials to discuss bilateral cooperation and regional stability. *[Business Recorder](https://www.brecorder.com/news/40424076/governor-uk-hc-discuss-cooperation-regional-stability)*
+- PPP Chairman Bilawal Bhutto-Zardari pledged to ensure ownership rights and 18th Amendment protections for Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2005434/bilawal-vows-to-ensure-ownership-rights-18th-amendment-protections-for-gilgit-baltistan)*
+- The Azad Jammu and Kashmir (AJK) Election Commission announced that general elections will be held on July 27. *[Dawn](https://www.dawn.com/news/2005383/election-schedule-for-ajk-announced-polls-to-be-held-on-july-27)*
+- PML-N MPA Saqib Chadhar has secured interim pre-arrest bail in a harassment case involving an actor. *[Dawn](https://www.dawn.com/news/2005395/pml-n-mpa-saqib-chadhar-secures-interim-bail-after-being-booked-for-allegedly-harassing-actor-momina-iqbal)*
 
 ### National
-- The Islamabad High Court is seeking answers regarding the non-implementation of the Zainab child protection law. *[Dawn](https://www.dawn.com/news/2005300/ihc-seeks-answers-on-action-under-zainab-child-protection-law)*
-- Security forces killed four terrorists during intelligence-based operations in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2005207/security-forces-kill-4-terrorists-in-separate-kp-operations-ispr)*
-- An inquiry at Gomal University has uncovered hundreds of suspicious degrees and financial irregularities. *[Dawn](https://www.dawn.com/news/2005202/inquiry-uncovers-over-500-suspicious-degrees-financial-irregularities-at-kps-gomal-university)*
-- The Supreme Court has upheld the death sentence for Zahir Jaffer in the Noor Mukadam murder case. *[Dawn](https://www.dawn.com/news/2005168/noor-mukadam-case-sc-dismisses-zahir-jaffers-review-plea-upholds-death-sentence)*
-- The CTD has recommended the dismissal of two officers over alleged links to Anmol Pinky. *[ARY](https://arynews.tv/anmol-pinky-ctd-recommends-dismissal-of-two-officers-over-links)*
-- BISP has inaugurated seven new Mobile Registration Vans to assist its massive household registry. *[Business Recorder](https://www.brecorder.com/news/40424067/bisp-chairperson-german-envoy-inaugurate-seven-new-mrvs)*
-- The "PurAzm Pakistan" platform has been launched to expand economic and skill opportunities for youth. *[Business Recorder](https://www.brecorder.com/news/40424065/purazm-pakistan-launched-to-expand-economic-opportunities-for-youth)*
-- Deputy PM Ishaq Dar met with a delegation from the National Defence College of Sri Lanka. *[Business Recorder](https://www.brecorder.com/news/40424073/dar-meets-team-of-defence-college-sri-lanka)*
+- The AJK government has issued a travel advisory, urging outsiders to leave the region ahead of JAAC protests. *[Dawn](https://www.dawn.com/news/2005432/ajk-govt-issues-travel-advisory-ahead-of-jaac-protest-asks-visitors-to-leave)*
+- Six terrorists were killed by security forces during an intelligence-based operation in Balochistan's Panjgur district. *[Dawn](https://www.dawn.com/news/2005390/6-terrorists-killed-in-intelligence-based-operation-in-balochistans-panjgur-ispr)*
+- Two sons of a prominent tribal elder were killed in an armed attack in KP's Wana. *[Dawn](https://www.dawn.com/news/2005403/2-sons-of-tribal-elder-killed-as-armed-men-open-fire-in-kps-wana)*
+- A prisoner has been reported missing from Adiala Jail. *[ARY](https://arynews.tv/adiala-jail-prisoner-goes-missing)*
 
 ### International
-- A man credited with saving lives during the Bondi Beach shooting in Sydney has been charged with assaulting his father. *[Dawn](https://www.dawn.com/news/2005323/bondi-beach-hero-charged-with-assaulting-father)*
+- The ex-wife of a Dubai ruler's nephew has been arrested following a custody dispute. *[Dawn](https://www.dawn.com/news/2005445/ex-wife-of-dubai-rulers-nephew-arrested-in-custody-dispute)*
+- Interior Minister Mohsin Naqvi reaffirmed Pakistan's commitment to the "Shanghai spirit" at an SCO meeting in Kyrgyzstan. *[Dawn](https://www.dawn.com/news/2005410/pakistan-remains-committed-to-shanghai-spirit-naqvi-tells-sco-moot)*
+- The founder of India's "Cockroach People's Party" is traveling to New Delhi to lead a protest. *[Dawn](https://www.dawn.com/news/2005402/indias-cockroach-party-chief-flies-to-new-delhi-for-protest)*
+- Trump's legal team has refused to provide financial details to BBC lawyers in a $10 billion defamation case. *[Dawn](https://www.dawn.com/news/2005378/trump-lawyers-deny-bbc-access-to-financial-details-in-10-billion-lawsuit-ft-says)*
+- Chinese President Xi Jinping is scheduled to visit North Korea to strengthen ties with Pyongyang. *[Dawn](https://www.dawn.com/news/2005375/chinas-xi-to-visit-north-korea-as-beijing-seeks-deeper-pyongyang-ties)*
+- Despite US-arranged ceasefires, violence continues in Gaza and Lebanon. *[Dawn](https://www.dawn.com/news/2005429/how-trumps-ceasefires-are-failing-to-stop-middle-east-violence)*
+- A man credited with saving lives during the Bondi Beach shooting has been charged with assaulting his father. *[Dawn](https://www.dawn.com/news/2005323/bondi-beach-hero-charged-with-assaulting-father)*
+- The US Senate has passed $70 billion in funding for ICE. *[ARY](https://arynews.tv/us-senate-passes-70-billion-ice-funding-fails-to-ban-trumps-anti-weaponization-fund)*
+- Iran claims it fired warning missiles and drones at US warships in the Gulf of Oman. *[Business Recorder](https://www.brecorder.com/news/40424167/iran-says-it-fired-warning-missiles-and-drones-at-us-warships-in-gulf-of-oman)*
+- India and the US are moving toward the first tranche of a bilateral trade agreement, expected by mid-July. *[Business Recorder](https://www.brecorder.com/news/40424165/first-tranche-of-us-india-trade-deal-likely-by-mid-july-says-india-trade-minister)*
+- Indian companies have expressed interest in expanding their presence in Venezuela. *[Business Recorder](https://www.brecorder.com/news/40424156/indian-companies-willing-to-deepen-presence-in-venezuela-indias-oil-minister-says)*
+- Iran has reaffirmed its support for Hezbollah, complicating potential peace deals. *[Business Recorder](https://www.brecorder.com/news/40424162/iran-declares-support-for-hezbollah-with-wider-peace-deal-in-doubt)*
+- US forces successfully boarded a sanctioned vessel in the Indian Ocean. *[Business Recorder](https://www.brecorder.com/news/40424160/us-forces-board-sanctioned-vessel-in-indian-ocean-pentagon-says)*
 
 ### Sports
-- Pakistan secured a 2-1 ODI series victory against Australia in Lahore. *[Dawn](https://www.dawn.com/news/2005169/pakistan-upstage-australia-for-2-1-odi-series-win)*
+- Pakistan has declined an invitation to participate in the Asian Senior Fencing Championships in India. *[Dawn](https://www.dawn.com/news/2005348/pakistan-turn-down-invitation-to-participate-in-asian-fencing-event-in-india)*
+- Zverev has advanced to the second French Open final. *[ARY](https://arynews.tv/zverev-eases-past-mensik-to-reach-second-french-open-final)*
+- New Zealand has found hope in the first Test against England following an English collapse. *[ARY](https://arynews.tv/england-collapse-gives-new-zealand-hope-in-first-test)*
+- FIFA has increased payments to clubs that send players to the World Cup. *[ARY](https://arynews.tv/fifa-ups-payments-to-clubs-who-send-players-to-world-cup)*
+- Tottenham Hotspur has signed Andy Robertson on a free transfer. *[Business Recorder](https://www.brecorder.com/news/40424166/spurs-sign-robertson-on-free-transfer-after-liverpool-exit)*
+- Nepal, Malaysia, Hong Kong, and Oman have qualified for the men's cricket competition at the Asian Games. *[Business Recorder](https://www.brecorder.com/news/40424150/nepal-malaysia-hong-kong-and-oman-qualify-for-asian-games)*
 
 ### Health
-- A recent polio vaccination campaign reached over 18.6 million children despite some parental refusals. *[Dawn](https://www.dawn.com/news/2005264/despite-holdouts-polio-drive-still-reaches-millions)*
-- Experts highlight the high prevalence of diabetes and heart disease in Pakistan, calling for better public awareness. *[Dawn](https://www.dawn.com/news/2005329/incomplete-systems-markets)*
+- Experts warn that intensifying urban heat in Karachi could lead to a public health crisis. *[Dawn](https://www.dawn.com/news/2005340/worsening-urban-heat-could-trigger-public-health-meltdown-expert-warns)*
 
 ### Other
-- The Chief of the Naval Staff has called for urgent, coordinated international action to address climate change. *[Business Recorder](https://www.brecorder.com/news/40424080/naval-chief-for-collective-action-against-climate-change)*
+- A Nepali Sherpa, previously presumed dead, was found alive on Mount Everest after six days. *[Dawn](https://www.dawn.com/news/2005411/everest-sherpa-who-was-presumed-dead-found-alive-after-6-days-family-demands-probe-into-rescue-delays)*
 
