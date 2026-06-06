@@ -4,73 +4,65 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 06-Jun-2026 09:04PKT
+Published at: 06-Jun-2026 21:04PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- The Economic Coordination Committee (ECC) approved over Rs40 billion in supplementary grants and a Rs100bn financing facility for PSO. *[Dawn](https://www.dawn.com/news/2005583/budget-2026-27-ecc-expands-bureaucrats-stipend-okays-rs40bn-grants)*
-- Pakistan has invited Saudi investors to participate in the construction of the Sukkur-Hyderabad Motorway (M6) and other highway projects. *[Dawn](https://www.dawn.com/news/2005550/pakistan-pitches-motorways-to-saudi-investors)*
-- The government reduced petrol prices by Rs4 per litre while diesel rates remain unchanged. *[Dawn](https://www.dawn.com/news/2005447/govt-reduces-petrol-price-by-rs4-keeps-diesel-price-unchanged)*
-- Wall Street indices closed significantly lower following a decline in tech stocks and jobs data sparking rate hike fears. *[Dawn](https://www.dawn.com/news/2005508/wall-street-ends-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears)*
-- A new ‘Fixed Tax Asaan Scheme’ has been launched to bring small traders and shopkeepers into the tax net. *[Dawn](https://www.dawn.com/news/2005415/govt-launches-scheme-to-bring-small-shop-owners-into-tax-net)*
-- Discussions continue regarding the religious and practical implications of Islamic banking in Pakistan. *[Dawn](https://www.dawn.com/news/2005594/is-islamic-banking-islamic)*
-- The UK’s FTSE 100 closed higher as data indicated potential softening of inflation pressures. *[ARY](https://arynews.tv/uks-ftse-100-closes-up-as-data-points-to-softer-inflation-pressures-from-us-iran-war)*
-- The FPCCI has urged the government to incorporate its shadow budget recommendations into the upcoming fiscal year. *[Business Recorder](https://www.brecorder.com/news/40424241/govt-urged-to-heed-to-fpccis-recommendations)*
-- The Law Ministry is seeking Rs2 billion for various schemes and projects for the 2026-27 fiscal year. *[Business Recorder](https://www.brecorder.com/news/40424243/law-ministry-seeks-rs2bn-for-fy27-projects)*
-- Punjab Minister Bilal Yasin reviewed the Punjab Revenue Authority’s (PRA) tax collection and digital reform performance. *[Business Recorder](https://www.brecorder.com/news/40424244/minister-reviews-pras-collection-performance)*
-- The establishment of Pakistan’s first coal-based fertilizer plant under CPEC has been hailed as a major agricultural boost. *[Business Recorder](https://www.brecorder.com/news/40424248/pcjcci-hails-first-coal-based-fertilizer-plant-under-cpec)*
-- The Punjab government and Primark have agreed to collaborate on improving quality cotton production. *[Business Recorder](https://www.brecorder.com/news/40424249/quality-cotton-production-punjab-govt-primark-agree-to-collaborate)*
-- The KCCI has called for the immediate restoration of the Final Tax Regime (FTR) for exporters to boost competitiveness. *[Business Recorder](https://www.brecorder.com/news/40424250/restoring-ftr-a-win-win-situation-kcci)*
-- The Tobacco Action Committee (TAC) has demanded tax relief to protect the livelihoods of tobacco farmers. *[Business Recorder](https://www.brecorder.com/news/40424253/tac-demands-tax-burden-ease-for-tobacco-export)*
-- The federal government has proposed an allocation of Rs20 billion for IT and Telecommunication projects in the FY2026-27 budget. *[Business Recorder](https://www.brecorder.com/news/40424184/it-amp-telecom-projects-likely-to-get-rs20bn-in-budget-fy2026-27)*
-- Askari Bank and Verdora Ventures launched a Rs250 million support facility for high-value crop farmers. *[Business Recorder](https://www.brecorder.com/news/40424188/high-value-crop-farmers-askari-bank-and-verdora-ventures-launch-rs250m-support-facility)*
+- Pakistan and Saudi Arabia signed an MoU to explore the development of a 140-acre maritime business district at the Karachi waterfront. *[Dawn](https://www.dawn.com/news/2005638/mou-signed-with-saudi-arabia-local-partners-for-140-acre-karachi-waterfront-development) / [Business Recorder](https://www.brecorder.com/news/40424263/pakistan-signs-mou-with-saudi-local-partners-for-140-acre-karachi-waterfront-development)*
+- The Economic Coordination Committee (ECC) approved over Rs40 billion in supplementary grants and a Rs100 billion financing facility for PSO. *[Dawn](https://www.dawn.com/news/2005583/budget-2026-27-ecc-expands-bureaucrats-stipend-okays-rs40bn-grants)*
+- Gul Ahmed’s Quantum Global Data Centre (QGDC) announced a $230 million investment to develop Pakistan’s largest Tier III data centre. *[Dawn](https://www.dawn.com/news/2005546/gul-ahmed-announces-230m-data-centre) / [Business Recorder](https://www.brecorder.com/news/40424274/gul-ahmed-venture-qgdc-announces-230mn-investment-to-set-up-pakistans-largest-data-centre)*
+- The federal government invited Saudi investors to participate in major transport infrastructure projects, including the Sukkur-Hyderabad Motorway. *[Dawn](https://www.dawn.com/news/2005550/pakistan-pitches-motorways-to-saudi-investors)*
+- The government reduced petrol prices by Rs4 per litre while keeping diesel prices unchanged. *[Dawn](https://www.dawn.com/news/2005447/govt-reduces-petrol-price-by-rs4-keeps-diesel-price-unchanged)*
+- Local gold prices experienced a significant drop, with the price per tola decreasing by Rs12,489. *[Business Recorder](https://www.brecorder.com/news/40424272/gold-price-per-tola-drops-by-rs12489-in-pakistan)*
+- Pakistan’s hydrocarbon reserve life improved to 17 years following new oil and gas discoveries in 2025. *[Business Recorder](https://www.brecorder.com/news/40424271/new-oil-amp-gas-discoveries-boost-pakistans-energy-reserves-in-2025)*
+- Recent IPOs on the Pakistan Stock Exchange (PSX) have delivered an average return of 47%, boosting investor confidence. *[Business Recorder](https://www.brecorder.com/news/40424265/psx-new-ipos-deliver-47-average-return-boosting-investor-confidence)*
+- The SECP has taken action against 36 state-owned entities for failing to comply with statutory filing requirements. *[Business Recorder](https://www.brecorder.com/news/40424262/secp-takes-action-against-36-govt-entities)*
 
 ### Science & Technology
-- Gul Ahmed announced plans to develop Pakistan’s largest Tier III data centre with an initial investment of $230 million. *[Dawn](https://www.dawn.com/news/2005546/gul-ahmed-announces-230m-data-centre)*
-- Airbus is reportedly facing uncertainty regarding the early launch of its larger A220 aircraft. *[ARY](https://arynews.tv/airbus-in-limbo-over-early-launch-of-larger-a220)*
-- Pakistan’s first consumer-focused One-Stop-Shop (OSS) platform for clean energy solutions has been launched. *[Business Recorder](https://www.brecorder.com/news/40424247/pakistans-first-oss-for-clean-energy-launched)*
+- Anthropic has urged AI laboratories to implement a coordinated pause in development to prevent losing control to self-improving AI systems. *[Business Recorder](https://www.brecorder.com/news/40424268/anthropic-urges-ai-labs-to-pause-development-warns-humans-risk-losing-control)*
 
 ### Weather
-- Forecasts for cities including Karachi, Lahore, and Hyderabad indicate temperatures between 36°C and 43°C. *[Business Recorder](https://www.brecorder.com/news/40424183/the-weather)*
+- The Pakistan Meteorological Department (PMD) has issued a heatwave warning for various regions, including Karachi and parts of Khyber Pakhtunkhwa, for the period of June 7 to 12. *[Dawn](https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd) / [Business Recorder](https://www.brecorder.com/news/40424269/pmd-issues-heatwave-warning-for-karachi-next-week)*
 
 ### Politics
-- The Islamabad High Court ruled that the government cannot use undisclosed intelligence reports to deny official postings. *[Dawn](https://www.dawn.com/news/2005576/ihc-rejects-reliance-on-intelligence-reports-for-coveted-postings)*
-- The Balochistan High Court suspended an FIR registered against Mehmood Khan Achakzai. *[Dawn](https://www.dawn.com/news/2005573/bhc-suspends-fir-filed-against-achakzai)*
-- The AJK government has declared the Joint Awami Action Committee (JAAC) a proscribed organization under the anti-terrorism act. *[Dawn](https://www.dawn.com/news/2005462/ajk-govt-bans-joint-awami-action-committee-under-anti-terrorism-act)*
-- Pakistan has rejected India's remarks regarding the upcoming Gilgit-Baltistan elections as baseless. *[Dawn](https://www.dawn.com/news/2005452/pakistan-categorically-rejects-indias-remarks-on-gb-elections-as-baseless)*
-- Election campaigning has officially ended in Gilgit-Baltistan due to a 48-hour pre-poll ban. *[Dawn](https://www.dawn.com/news/2005451/election-campaigning-ends-in-gb-as-48-hour-ban-comes-into-force)*
-- Bilawal Bhutto-Zardari has vowed to ensure ownership rights and 18th Amendment protections for Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2005434/bilawal-vows-to-ensure-ownership-rights-18th-amendment-protections-for-gilgit-baltistan)*
-- PTI-backed candidates and the PPP have raised concerns regarding the transparency and procedures of the GB elections. *[Business Recorder](https://www.brecorder.com/news/40424186/gb-polls-pti-backed-candidates-ppp-raise-concerns-over-procedures)*
+- Prime Minister Shehbaz Sharif met with Interior Minister Mohsin Naqvi to discuss the minister's upcoming visit to Tehran. *[Dawn](https://www.dawn.com/news/2005678/pm-shehbaz-holds-meeting-with-mohsin-naqvi-ahead-of-tehran-visit) / [Business Recorder](https://www.brecorder.com/news/40424280/naqvi-meets-pm-shehbaz-before-tehran-visit)*
+- Senior Sindh Minister Sharjeel Inam Memon criticized the federal government for providing "low priority" to Karachi's infrastructural needs. *[Dawn](https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre)*
 
 ### National
-- Heavy siltation, rather than drying up, is causing the perceived shrinkage of Attabad Lake. *[Dawn](https://www.dawn.com/news/2005575/heavy-silt-deposits-give-illusion-attabad-is-drying-up)*
-- The AJK government has issued a travel advisory and urged visitors to leave the region ahead of JAAC protests. *[Dawn](https://www.dawn.com/news/2005432/ajk-govt-issues-travel-advisory-ahead-of-jaac-protest-asks-visitors-to-leave)*
-- The HEC has issued an alert regarding the validity and quality of overseas courses. *[ARY](https://arynews.tv/hec-issues-alert-over-overseas-courses)*
-- A woman has registered a fraud case against her husband regarding the use of a dowry car. *[ARY](https://arynews.tv/court-decides-on-interim-bail-for-accused-husband)*
-- NAB Lahore has successfully recovered state land worth approximately Rs433 billion from illegal occupants. *[Business Recorder](https://www.brecorder.com/news/40424245/nab-lahore-retrieves-state-land-worth-rs433bn)*
-- A National Police Management Board meeting is scheduled to strengthen inter-provincial intelligence sharing and curb terror financing. *[Business Recorder](https://www.brecorder.com/news/40424246/npmb-moot-on-inter-provincial-intelligence-sharing-scheduled-month-end)*
-- Security forces killed six terrorists during an intelligence-based operation in Panjgur, Balochistan. *[Business Recorder](https://www.brecorder.com/news/40424185/six-terrorists-killed-in-panjgur-ibo)*
-- Punjab Chief Minister Maryam Nawaz Sharif praised the security forces for their success in the Panjgur operation. *[Business Recorder](https://www.brecorder.com/news/40424187/cm-praises-forces)*
+- A female doctor was seriously injured in an acid attack at the Provincial Civil Hospital in Quetta. *[Dawn](https://www.dawn.com/news/2005660/female-doctor-injured-in-acid-attack-at-quetta-hospital-suspect-killed-in-encounter)*
+- Zakhakhel tribesmen in Khyber blocked a major highway to Torkham following targeted killings in the area. *[Dawn](https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings)*
+- The Islamabad High Court ruled that the government cannot deny official postings based on undisclosed intelligence reports. *[Dawn](https://www.dawn.com/news/2005576/ihc-rejects-reliance-on-intelligence-reports-for-coveted-postings)*
+- News surfaced regarding a young girl falling into an open manhole in Lahore. *[ARY](https://arynews.tv/girl-falls-into-open-manhole-in-lahore-video-surfaces)*
+- Details regarding the constituency lists and major candidates for the 2026 Gilgit-Baltistan elections have been released. *[ARY](https://arynews.tv/gilgit-baltistan-election-2026-full-constituency-list-candidates)*
 
 ### International
-- An Italian court has sentenced a Pakistani couple to two years in prison for abusing their daughter. *[Dawn](https://www.dawn.com/news/2005570/italy-jails-pakistani-couple-for-abusing-daughter)*
-- US forces struck Iranian coastal radar sites following drone launches toward the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40424255/us-attacks-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up)*
-- US Congressional efforts are underway to increase oversight of the Pentagon and limit unilateral military action against Iran. *[Dawn](https://www.dawn.com/news/2005463/us-congress-moves-to-tighten-oversight-of-military-affairs)*
-- Republican voices within the US are calling for the withdrawal of troops from Iran. *[Dawn](https://www.dawn.com/news/2005598/trump-rebuked)*
-- The Iranian Consul General expressed a desire for a world free of nuclear weapons. *[Business Recorder](https://www.brecorder.com/news/40424242/iran-wants-to-see-world-free-of-nuclear-weapons-iran-cg)*
-- Details regarding Spain's immigrant regularisation policy have been released. *[ARY](https://arynews.tv/spains-immigrant-regularisation-policy-all-you-need-to-know)*
-- Political tensions are noted regarding Donald Trump’s impact on US-Israel relations. *[ARY](https://arynews.tv/trumps-crazy-rebuke-undercuts-netanyahu-at-a-critical-moment)*
+- Pakistan and India exchanged accusations at the UN Security Council regarding the status of occupied Kashmir. *[Dawn](https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc) / [Business Recorder](https://www.brecorder.com/news/40424273/pakistan-reiterates-kashmir-just-settlement-as-key-to-regional-stability)*
+- Tensions escalated in the Gulf as the US and Iran exchanged strikes, threatening a fragile ceasefire. *[Dawn](https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up)*
+- Pakistan and Russia signed landmark agreements to enhance cooperation against drug trafficking and illegal immigration. *[Dawn](https://www.dawn.com/news/2005617/pakistan-russia-sign-pacts-for-cooperation-against-illegal-immigration-drug-trafficking) / [Business Recorder](https://www.brecorder.com/news/40424264/pakistan-russia-sign-landmark-accords-to-curb-illegal-immigration-narcotics-trafficking)*
+- The "Cockroach Party" led street protests in New Delhi demanding accountability for examination irregularities. *[Dawn](https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party) / [Business Recorder](https://www.brecorder.com/news/40424279/cockroach-youth-group-founder-leads-first-street-protest-after-arrival-in-india)*
+- Due to Israeli restrictions on materials, Gazan fishermen are forced to repair boats using reclaimed door frames and rubble. *[Dawn](https://www.dawn.com/news/2005673/gazan-fishermen-patch-up-dinghies-with-door-frames-to-keep-themselves-afloat)*
+- North Korea announced plans to construct a 10,000-ton destroyer and develop secret underwater weaponry. *[Dawn](https://www.dawn.com/news/2005632/north-korea-to-build-10000-ton-destroyer-state-media-says-before-xi-visit)*
+- An Italian court sentenced a Pakistani couple to two years in prison for the abuse of their daughter. *[Dawn](https://www.dawn.com/news/2005570/italy-jails-pakistani-couple-for-abusing-daughter)*
+- US President Donald Trump issued a pardon to former US Representative Stephen Buyer, who was convicted of securities fraud. *[Business Recorder](https://www.brecorder.com/news/40424278/trump-pardons-former-us-congressman-convicted-of-securities-fraud)*
+- A seven-month-old Palestinian child was killed by Israeli military fire in the West Bank. *[Business Recorder](https://www.brecorder.com/news/40424277/seven-month-old-palestinian-killed-by-israeli-military-laid-to-rest)*
+- US forces intercepted several Iranian ballistic missiles and drones launched toward the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40424261/us-says-iran-fired-seven-ballistic-missiles-toward-kuwait-bahrain)*
+- Iran's Foreign Minister rejected claims that the nation is using Lebanon as a "bargaining chip" in negotiations. *[Business Recorder](https://www.brecorder.com/news/40424260/irans-foreign-minister-says-lebanon-not-a-bargaining-chip-in-war)*
+
+### Sports
+- Mirra Andreeva became the youngest Roland Garros women’s singles champion since 1992 by winning the French Open. *[Dawn](https://www.dawn.com/news/2005681/andreeva-wins-first-grand-slam-title-at-french-open) / [ARY](https://arynews.tv/andreeva-beats-chwalinska-to-win-french-open-title)*
+- 15-year-old Vaibhav Sooryavanshi has been called up to India's T20I squad, with Shreyas Iyer named captain. *[Dawn](https://www.dawn.com/news/2005640/teenage-sensation-vaibhav-sooryavanshi-called-up-to-indias-t20i-squad-shreyas-iyer-named-captain) / [Business Recorder](https://www.brecorder.com/news/40424267/teenage-sensation-sooryavanshi-called-up-to-indias-t20i-squad-iyer-named-captain)*
+- Indian cricketer Virat Kohli will miss the upcoming ODI series against Afghanistan due to injury. *[Business Recorder](https://www.brecorder.com/news/40424276/indias-kohli-out-of-afghanistan-series-due-to-injury)*
+- Saudi Arabia's national team secured a 3-0 friendly victory over Puerto Rico. *[Business Recorder](https://www.brecorder.com/news/40424266/saudi-arabia-beat-puerto-rico-3-0-after-weather-delay-in-first-win-under-donis)*
+- The Ferrari team chief is currently absent due to medical reasons. *[ARY](https://arynews.tv/ferrari-team-chief-absent-for-medical-reasons)*
+- Reports suggest that Sarfaraz may be replaced by a former captain as head coach. *[ARY](https://arynews.tv/sarfaraz-to-be-replaced-by-ex-captain-as-head-coach-report)*
 
 ### Health
-- The first-ever vaccine designed by artificial intelligence has successfully reached human trials. *[Dawn](https://www.dawn.com/news/2005551/first-ever-ai-designed-vaccine-reaches-human-trials)*
-- The concept of "slow medicine" is being highlighted as a patient-centered approach to healthcare. *[Dawn](https://www.dawn.com/news/2005595/slow-and-steady-healing)*
-- A Senate panel has called for a review of the MDCAT policy framework and fee transparency. *[Business Recorder](https://www.brecorder.com/news/40424251/senate-panel-calls-for-mdcat-policy-framework-review)*
+- A second case of flesh-eating screwworm has been confirmed. *[ARY](https://arynews.tv/second-flesh-eating-screwworm-case-confirmed)*
 
 ### Other
-- A rare Indonesian parrot species has been rediscovered in a mountain forest. *[ARY](https://arynews.tv/lorikeet-rediscovery-of-a-rare-parrot-species)*
-- A study warns that biodiversity loss could potentially trigger global debt crises. *[ARY](https://arynews.tv/biodiversity-loss-threatens-global-financial-stability)*
-- The Punjab government has launched an environment observatory project. *[ARY](https://arynews.tv/punjab-launches-environment-observatory-project)*
-- Early drafts of the show 'Euphoria' featured a different ending for the character Zendaya played. *[ARY](https://arynews.tv/zendayas-ending-was-nearly-very-different-in-euphoria)*
-- Pakistan requires an estimated $565.7 billion in investment by 2035 to meet climate commitments. *[Business Recorder](https://www.brecorder.com/news/40424252/stupendous-funds-efforts-required-to-meet-climate-commitments)*
+- Princess Kate and Prince William attended Peter Phillips’ wedding. *[ARY](https://arynews.tv/peter-phillips-wedding-princess-kate-william-steal-spotlight)*
+- Veterans of Call of Duty and Naughty Dog are debuting a new AAA shooter titled "Crossfire." *[ARY](https://arynews.tv/crossfire-revived-cod-naughty-dog-vets-debut-aaa-shooter)*
+- A feature highlighted the legacy of 'Star Trek' icon Nichelle and her impact on diversity at NASA. *[ARY](https://arynews.tv/how-star-trek-icon-nichelle-changed-nasa-inspired-50-years-space)*
+- Season 3 of the series "Lioness" is scheduled to return to Paramount+ on August 2. *[ARY](https://arynews.tv/lioness-season-3-roars-back-august-2-on-paramount)*
 
