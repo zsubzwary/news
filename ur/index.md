@@ -7,61 +7,72 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 06-Jun-2026 21:10PKT 
+ &lrm; 07-Jun-2026 09:10PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- **ای سی سی** نے 40 ارب روپے کے اضافی گرانٹس اور پی ایس او کے لیے 100 ارب روپے کی مالیاتی سہولت کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2005583/budget-2026-27-ecc-expands-bureaucrats-stipend-okays-rs40bn-grants)*
-- گلب احمد گروپ کے وینچر **QGDC** نے پاکستان کا سب سے بڑا ڈیٹا سینٹر بنانے کے لیے 230 ملین ڈالر کی سرمایہ کاری کا اعلان کیا، جو مستقبل میں 600 ملین ڈالر تک جا سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2005546/gul-ahmed-announces-230m-data-centre)*
-- کراچی کے واٹر فرنٹ پر بحری تجارتی ضلع کے فروغ کے لیے سعودی عرب اور مقامی شراکت داروں کے ساتھ **مفاہمت کی یادداشت** پر دستخط کیے گئے۔ *[Dawn](https://www.dawn.com/news/2005638/mou-signed-with-saudi-arabia-local-partners-for-140-acre-karachi-waterfront-development)*
-- حکومت نے عالمی قیمتوں میں تبدیلی کے باعث پیٹرول کی قیمت میں **4 روپے فی لیٹر** کمی کر دی ہے، جبکہ ڈیزل کی قیمت برقرار رکھی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2005447/govt-reduces-petrol-price-by-rs4-keeps-diesel-price-unchanged)*
-- بین الاقوامی مارکیٹ میں گراوٹ کے باعث پاکستان میں **سونے کی قیمت** میں فی تولہ 12,489 روپے کی بڑی کمی ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40424272/gold-price-per-tola-drops-by-rs12489-in-pakistan)*
-- پاکستان نے سعودی سرمایہ کاروں کو **سکھر-حیدرآباد موٹروے (M6)** اور دیگر اہم شاہراہوں کی تعمیر میں سرمایہ کاری کی دعوت دی ہے۔ *[Dawn](https://www.dawn.com/news/2005550/pakistan-pitches-motorways-to-saudi-investors)*
-- 2025 میں نئے تیل اور گیس کے ذخائر کی دریافت سے پاکستان کے **ہائیڈرو کاربن ذخائر** میں بہتری آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424271/new-oil-amp-gas-discoveries-boost-pakistans-energy-reserves-in-2025)*
-- پاکستان اسٹاک ایکسچینج میں نئے **آئی پی اوز (IPOs)** نے سرمایہ کاروں کا اعتماد بڑھاتے ہوئے اوسط 47 فیصد منافع فراہم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40424265/psx-new-ipos-deliver-47-average-return-boosting-investor-confidence)*
-- **ایس ای سی پی (SECP)** نے قانونی تقاضوں کو پورا نہ کرنے پر 36 سرکاری اداروں کے خلاف کارروائی مکمل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424262/secp-takes-action-against-36-govt-entities)*
+- بجٹ 2026-27 میں ڈیموں کے لیے کم فنڈز کی تخصیص سے بڑے آبی اور بجلی کے منصوبوں میں تاخیر کا خدشہ۔ *[Dawn](https://www.dawn.com/news/2005789/analysis-budget-2026-27-can-pakistan-afford-to-delay-its-dams)*
+- کراچی کے ساحلی علاقے کے ترقیاتی منصوبے کے لیے سعودی اور مقامی شراکت داروں کے ساتھ معاہدہ طے پا گیا۔ *[ARY](https://arynews.tv/pak-signs-mou-with-saudi-local-partners-for-140-acre-karachi-waterfront-development-minister)*
+- خیبر پختونخوا کی معاشی صلاحیتوں کو استعمال میں لانے کے لیے عوامی اور نجی شعبے کے اشتراک پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424329/kundi-calls-for-tapping-kps-economic-potential)*
+- گیس لیکج سے ہونے والے حادثات اور مالی نقصان کے پیش نظر حفاظتی اقدامات اور اسمارٹ مانیٹرنگ کی ضرورت پر زور۔ *[Business Recorder](https://www.brecorder.com/news/40424332/gas-leakages-can-result-in-major-accidents-fpcci)*
+- ایکسپورٹ پروسیسنگ زونز (EPZs) میں صنعتوں کے لیے '80/20 سہولت' برقرار رکھنے کا مطالبہ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424333/govt-urged-to-continue-8020-facility-for-industries-in-epzs)*
+- چھوٹے دکانداروں کے لیے متعارف کرائے گئے نئے مقررہ ٹیکس نظام کا خیرمقدم کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424334/ubg-welcomes-fixed-tax-regime-for-shopkeepers)*
+- عالمی ٹیکنالوجی کمپنی 'ہائیسنس' کی پاکستان میں آمد کو ملک کے صنعتی مستقبل کے لیے مثبت قرار دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424337/hisense-launch-reflects-global-confidence-in-paks-industrial-future-haroon)*
+- پی پی پی (PPP) کی اعلیٰ سطح کی جماعت نے وفاقی بجٹ سے قبل حکومت کی معاشی ٹیم سے ملاقات کا پروگرام بنایا۔ *[Business Recorder](https://www.brecorder.com/news/40424338/fy27-budget-key-discussions-zardari-led-ppp-delegation-to-meet-govts-team-today)*
+- کیبنٹ ڈویژن کے پانچ ترقیاتی منصوبوں کے لیے 72 ارب روپے کی تجویز پیش کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424339/budget-2026-27-govt-proposes-rs72bn-for-cabinet-div-projects)*
+- نئے کسٹمز ٹیرف پالیسی کے دوسرے مرحلے سے سیرامک اور شیشہ کی صنعتوں پر منفی اثرات کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40424340/pctps-2nd-phase-to-hit-ceramic-amp-glass-industries-hard-apctma)*
+- نیب نے بحریہ ٹاؤن سے منسلک 4.5 ملین ڈالر کے غیر ملکی بینک اکاؤنٹس منجمد کر دیے۔ *[Business Recorder](https://www.brecorder.com/news/40424342/nab-freezes-usd45m-accounts-linked-to-bahria-town)*
+- ایف ٹیਓ نے ایف بی آر کو سیلز ٹیکس ریٹرن کے سسٹم کے مسائل فوری طور پر حل کرنے کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424344/st-return-fto-orders-fbr-to-rectify-system-errors)*
 
 ### سائنس اور ٹیکنالوجی
-- **اینتھروپک (Anthropic)** نے اے آئی (AI) کے تیزی سے بڑھتے ہوئے خطرات کے پیش نظر ماہرین کو اس کی ترقی پر عارضی وقفے کا مشورہ دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424268/anthropic-urges-ai-labs-to-pause-development-warns-humans-risk-losing-control)*
+- وائٹ ہاؤس کی اے آئی (AI) پالیسی ایڈوائزر کا عہدہ چھوڑنے کا فیصلہ۔ *[ARY](https://arynews.tv/white-house-ai-policy-adviser-krishnan-to-leave-position)*
+- آئی او ایس 27 (iOS 27) کے تحت آئی فون کے نئے فیچرز کے جلد دستیاب ہونے کی امید۔ *[ARY](https://arynews.tv/ios-27-seven-game-changing-iphone-features-coming-soon)*
 
 ### موسم
-- محکمہ موسمیات نے ملک کے مختلف حصوں، بشمول کراچی اور خیبر پختونخوا کے کئی اضلاع میں **شدید گرمی کی لہر** کا انتباہ جاری کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd)*
+- پاکستان کے بڑے حصوں میں 7 سے 12 جون تک شدید گرمی کی لہر کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے وزیر داخلہ محسن نقوی سے ملاقات کی، جس میں **تہران کے دورے** اور ایس سی او کانفرنس کے حوالے سے مشاورت ہوئی۔ *[Dawn](https://www.dawn.com/news/2005678/pm-shehbaz-holds-meeting-with-mohsin-naqvi-ahead-of-tehran-visit)*
-- سینئر صوبائی وزیر شارجیل انعام میمن نے کراچی کو **وفاقی حکومت** کی جانب سے کم ترجیح دیے جانے پر تنقید کی۔ *[Dawn](https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre)*
-- اسلام آباد ہائی کورٹ نے قرار دیا کہ **انٹیلی جنس رپورٹس** کی بنیاد پر کسی کے حقوق سے محروم نہیں کیا جا سکتا۔ *[Dawn](https://www.dawn.com/news/2005576/ihc-rejects-reliance-on-intelligence-reports-for-coveted-postings)*
-- **گلگت بلتستان** کے انتخابات کے لیے حلقہ جات اور اہم امیدواروں کی فہرست جاری کر دی گئی ہے۔ *[ARY](https://arynews.tv/gilgit-baltistan-election-2026-full-constituency-list-candidates)*
+- گلگت بلتستان کی 24 نشستوں کے لیے انتخابات کا عمل شروع ہو گیا۔ *[Dawn](https://www.dawn.com/news/2005670/polling-begins-in-gilgit-baltistan-general-elections-for-24-seats)*
+- پی ٹی آئی کا گلگت بلتستان میں سیکورٹی کی بھاری تعیناتی پر 'پری پول رنگنگ' کا الزام۔ *[Dawn](https://www.dawn.com/news/2005683/pti-alleges-pre-poll-rigging-over-security-deployment-ahead-of-gb-polls)*
+- وزیر اعظم شہباز شریف کی وزیر داخلہ محسن نقوی سے ملاقات، ایران دورے پر مشاورت۔ *[Dawn](https://www.dawn.com/news/2005678/pm-shehbaz-meets-interior-minister-ahead-of-naqvis-iran-visit)*
+- آزاد جموں و کشمیر میں جے اے اے سی (JAAC) پر پابندی کے بعد پولیس کی بڑے پیمانے پر کارروائی۔ *[Dawn](https://www.dawn.com/news/2005788/ajk-govt-cracks-down-on-jaac-after-imposition-of-ban)*
+- بلوچستان میں بی این پی ایم (BNP-M) کی جانب سے ضلع زیہری کے واقعے پر ہڑتال کا اعلان۔ *[Dawn](https://www.dawn.com/news/2005772/bnp-m-announces-strike-over-zehri-incident)*
+- کراچی کو وفاقی سطح پر کم ترجیح دیے جانے پر سندھ کے وزیر کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre)*
+- پی ٹی آئی کی جانب سے آزاد کشمیر حکومت سے جے اے اے سی کے مسئلے پر مذاکرات کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40424328/pti-urges-ajk-govt-to-resolve-jaac-issue-through-dialogue)*
 
 ### قومی
-- کوئٹہ کے سول ہسپتال میں ایک **خاتون ڈاکٹر** پر تیزاب سے حملہ، مشتبہ حملہ آور پولیس کے مقابلے میں ہلاک۔ *[Dawn](https://www.dawn.com/news/2005660/female-doctor-injured-in-acid-attack-at-quetta-hospital-suspect-killed-in-encounter)*
-- خیبر میں ٹارگٹڈ کلنگ کے خلاف غصے میں آئے **قبائلی افراد** نے ٹورخم جانے والی شاہراہ کا راستہ روک دیا۔ *[Dawn](https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings)*
-- پاکستان اور روس کے درمیان **غیر قانونی امیگریشن اور منشیات کی اسمگلنگ** کے خلاف تعاون کے معاہدوں پر دستخط ہوئے۔ *[Dawn](https://www.dawn.com/news/2005617/pakistan-russia-sign-pacts-for-cooperation-against-illegal-immigration-drug-trafficking)*
-- لاہور میں ایک **بچی کھلے مین ہول** میں گر گئی، جس کا ویڈیو سوشل میڈیا پر وائرل ہو گیا۔ *[ARY](https://arynews.tv/girl-falls-into-open-manhole-in-lahore-video-surfaces)*
+- آزاد کشمیر میں جے اے اے سی (JAAC) کے خلاف کارروائی اور پابندی کے بعد کشیدگی۔ *[Dawn](https://www.dawn.com/news/2005802/jaac-ban)*
+- کوئٹہ کے ہسپتال میں خاتون ڈاکٹر پر تیزاب سے حملہ، ملزم ہلاک۔ *[Dawn](https://www.dawn.com/news/2005660/female-doctor-injured-in-acid-attack-at-quetta-hospital-suspect-killed-in-encounter)*
+- خیبر میں ہدف بنائے گئے قتل کے خلاف قبائلیوں کا شاہراہ بند کرنے کا اعلان۔ *[Dawn](https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings)*
+- پاسپورٹ آفس کے نام پر آن لائن دھوکہ دہی سے متعلق الرٹ جاری۔ *[ARY](https://arynews.tv/dgip-warns-over-fake-contact-details-linked-to-passport-office)*
+- کراچی میں پولیو کے خاتمے کے لیے انتظامیہ کی جانب سے کوششوں میں تیزی۔ *[Business Recorder](https://www.brecorder.com/news/40424330/karachi-admin-intensifies-efforts-to-eradicate-polio)*
+- نواز شریف کی سیاسی خدمات پر مبنی نئی کتاب کی لانچنگ۔ *[Business Recorder](https://www.brecorder.com/news/40424336/nehal-praises-book-on-nawaz-sharif)*
 
 ### بین الاقوامی
-- بھارت میں **'کاکروچ پارٹی'** کے زیر قیادت طلبہ نے امتحان میں بے ضابطگیوں کے خلاف احتجاج کیا۔ *[Dawn](https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party)*
-- اقوام متحدہ میں پاکستان اور بھارت کے درمیان **کشمیر کے مسئلے** پر سخت جملوں کا تبادلہ ہوا۔ *[Dawn](https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc)*
-- خلیج میں **امریکہ اور ایران** کے درمیان حملوں کے نتیجے میں کشیدگی میں دوبارہ اضافہ ہو گیا۔ *[Dawn](https://www.dawn.com/news/2005618/us-iran-exchange-strikes-in-gulf-in-latest-flare-up)*
-- شمالی کوریا نے ایک **10,000 ٹن کا تباہ کن جہاز** بنانے کے منصوبے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005632/north-korea-to-build-10000-ton-destroyer-state-media-says-before-xi-visit)*
-- غزہ کے **ماہی گیر** جنگی تباہی کے باعث ملبہ اور دروازوں کے فریموں سے اپنی کشتیاں تیار کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2005673/gazan-fishermen-patch-up-dinghies-with-door-frames-to-keep-themselves-afloat)*
-- امریکی صدر ٹرمپ نے **سکیورٹی فراڈ** کے جرم میں سزا یافتہ سابق کانگریس مین کو معاف کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424278/trump-pardons-former-us-congressman-convicted-of-securities-fraud)*
-- اٹلی میں ایک **پاکستانی جوڑے** کو اپنی بیٹی پر تشدد اور زبردستی شادی کے جرم میں دو سال قید کی سزا سنائی گئی۔ *[Dawn](https://www.dawn.com/news/2005570/italy-jails-pakistani-couple-for-abusing-daughter)*
-- اسرائیلی فوج کے ہاتھوں **سات ماہ کے فلسطینی بچے** کی ہلاکت کے بعد لواحقین نے اسے سپردِ خاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424277/seven-month-old-palestinian-killed-by-israeli-military-laid-to-rest)*
+- محسن نقوی کا ایران دورہ، امریکہ اور ایران کے درمیان تعطل ختم کرنے کے لیے اہم پیغام۔ *[Dawn](https://www.dawn.com/news/2005791/naqvi-takes-cdfs-message-to-tehran-amid-stalemate)*
+- ایران کی جانب سے کویت اور بحرین پر میزائل اور ڈرون حملے، خطے میں کشیدگی میں اضافہ۔ *[Dawn](https://www.dawn.com/news/2005792/us-iran-trade-blows-as-gulf-allies-targeted)*
+- ایران کا آئی اے ای اے (IAEA) کی رپورٹ کو سیاسی دباؤ کا آلہ قرار دینا۔ *[Dawn](https://www.dawn.com/news/2005760/iran-denounces-political-pressure-from-nuclear-watchdog)*
+- اقوام متحدہ نے کشمیر اور فلسطین کے تنازعات کو غیر حل شدہ قرار دیا۔ *[Dawn](https://www.dawn.com/news/2005763/un-affirms-kashmir-and-palestine-are-unresolved-disputes)*
+- اسرائیل اور لبنان کے درمیان کشیدگی، اسرائیلی حملے میں تین فوجی ہلاک۔ *[Dawn](https://www.dawn.com/news/2005762/israeli-strike-kills-three-soldiers-in-south-lebanon)*
+- بھارت میں امتحانوں میں بے ضابطگیوں کے خلاف 'کوکروچ پارٹی' کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party)*
+- اقوام متحدہ میں کشمیر کے مسئلے پر پاکستان اور بھارت کے درمیان لفظی جنگ۔ *[Dawn](https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc)*
+- فرانس اور اس کے اتحادیوں کی جانب سے مغربی کنارے پر اسرائیل پر دباؤ ڈالنے کی کوشش۔ *[ARY](https://arynews.tv/france-allies-eye-national-measures-to-pressure-israel-over-west-bank-diplomats-say)*
+- غزہ میں اسرائیلی حملے میں سات افراد کی شہادت۔ *[ARY](https://arynews.tv/israeli-strike-in-gaza-kills-seven-people-including-two-women-medics-say)*
+- امریکی وزیر دفاع کا یورپ کو ہجرت کے خطرے کے خلاف خبردار کرنا۔ *[Business Recorder](https://www.brecorder.com/news/40424345/hegseth-urges-europe-on-d-day-to-counter-present-day-invasion-on-beaches)*
+- شمالی کوریا کے رہنما کیم جونگ ان کا بحری طاقت کے معائنے کا دورہ۔ *[Business Recorder](https://www.brecorder.com/news/40424346/kim-stresses-stronger-naval-nuclear-deterrent)*
+- یوکرین کے ڈرون حملوں سے روس کے اہم مقامات پر تباہی۔ *[Business Recorder](https://www.brecorder.com/news/40424347/ukraine-fires-wave-of-drones-at-russia)*
+- لاس اینجلس میں فٹ بال ورلڈ کپ کے حوالے سے اسٹेडियम ملازمین کی ہڑتال کا خطرہ۔ *[Dawn](https://www.dawn.com/news/2005694/la-stadium-workers-threaten-strike-ahead-of-fifa-world-cup)*
 
 ### کھیل
-- روس کی **میرا آندریوا** نے فرینچ اوپن جیت کر اپنا پہلا گرینڈ سلیم ٹائٹل حاصل کر لیا۔ *[Dawn](https://www.dawn.com/news/2005681/andreeva-wins-first-grand-slam-title-at-french-open)*
-- بھارت نے نوجوان کھلاڑی **ویبھاو سوریونشی** کو ٹی 20 اسکواڈ میں شامل کیا، جبکہ شریایس ائیئر کو کپتان مقرر کیا گیا۔ *[Dawn](https://www.dawn.com/news/2005640/teenage-sensation-vaibhav-sooryavanshi-called-up-to-indias-t20i-squad-shreyas-iyer-named-captain)*
-- بھارتی کرکٹ اسٹار **وراٹ کوہلی** چوٹ کی وجہ سے افغانستان کے خلاف ون ڈے سیریز سے باہر ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424276/indias-kohli-out-of-afghanistan-series-due-to-injury)*
-- سعودی عرب نے موسم کی رکاوٹوں کے باوجود **پورٹو ریکو** کو 3-0 سے شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40424266/saudi-arabia-beat-puerto-rico-3-0-after-weather-delay-in-first-win-under-donis)*
+- مائرا آندریوا نے فرینچ اوپن جیت کر پہلا گرینڈ Slam ٹائٹل حاصل کر لیا۔ *[Dawn](https://www.dawn.com/news/2005681/andreeva-wins-first-grand-slam-title-at-french-open)*
 
 ### صحت
-- **فلیش ایٹنگ سکروورم** (گوشت کھانے والا کیڑا) کے دوسرے کیس کی تصدیق ہو گئی ہے۔ *[ARY](https://arynews.tv/second-flesh-eating-screwworm-case-confirmed)*
+- کراچی میں پولیو کے خاتمے کے لیے حکام اور عالمی اداروں کی جانب سے مشترکہ کوششیں۔ *[Business Recorder](https://www.brecorder.com/news/40424330/karachi-admin-intensifies-efforts-to-eradicate-polio)*
 
 ### دیگر
-- **پرنس ولیم اور کیٹ** نے پیٹر فلپس کی شادی میں شرکت کی۔ *[ARY](https://arynews.tv/peter-phillips-wedding-princess-kate-william-steal-spotlight)*
-- نئے **AAA شوٹر گیم** 'کراس فائر' کی تیاریوں کا آغاز۔ *[ARY](https://arynews.tv/crossfire-revived-cod-naughty-dog-vets-debut-aaa-shooter)*
-- **لائنسیس (Lioness)** سیزن 3 کا اگست میں ریلیز ہونے کا اعلان۔ *[ARY](https://arynews.tv/lioness-season-3-roars-back-august-2-on-paramount)*
-- نائشیلی نے **ناسا** میں تنوع لانے اور خلائی تحقیق میں اہم کردار ادا کیا۔ *[ARY](https://arynews.tv/how-star-trek-icon-nichelle-changed-nasa-inspired-50-years-space)*
+- پرنسس این کے بیٹے پیٹر کی شادی کی تاریخی تقریب۔ *[ARY](https://arynews.tv/princess-anne-watches-son-peter-remarry-in-historic-church-ceremony)*
+- جیک شارٹ کا مائیکہ عبداللہ سے بریک اپ کے بعد مبینہ توہین آمیز جملے پر معافی مانگنا۔ *[ARY](https://arynews.tv/mika-abdalla-breakup-jake-short-apologizes-derogatory-remark)*
+- انمل پنکی کا تحقیقات کے دوران واٹس ایپ پیغامات سے انکار۔ *[ARY](https://arynews.tv/anmol-pinky-refuses-to-own-whatsapp-voice-notes-during-investigation)*
+- عالمی یومِ ماحول پر ماہرین کی جانب سے شہروں میں ماحولیاتی تباہی کا انتباہ۔ *[Business Recorder](https://www.brecorder.com/news/40424331/environment-day-major-cities-await-an-ecological-disaster-experts)*
 
