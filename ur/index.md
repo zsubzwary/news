@@ -7,72 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 07-Jun-2026 09:10PKT 
+ &lrm; 07-Jun-2026 21:09PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- بجٹ 2026-27 میں ڈیموں کے لیے کم فنڈز کی تخصیص سے بڑے آبی اور بجلی کے منصوبوں میں تاخیر کا خدشہ۔ *[Dawn](https://www.dawn.com/news/2005789/analysis-budget-2026-27-can-pakistan-afford-to-delay-its-dams)*
-- کراچی کے ساحلی علاقے کے ترقیاتی منصوبے کے لیے سعودی اور مقامی شراکت داروں کے ساتھ معاہدہ طے پا گیا۔ *[ARY](https://arynews.tv/pak-signs-mou-with-saudi-local-partners-for-140-acre-karachi-waterfront-development-minister)*
-- خیبر پختونخوا کی معاشی صلاحیتوں کو استعمال میں لانے کے لیے عوامی اور نجی شعبے کے اشتراک پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424329/kundi-calls-for-tapping-kps-economic-potential)*
-- گیس لیکج سے ہونے والے حادثات اور مالی نقصان کے پیش نظر حفاظتی اقدامات اور اسمارٹ مانیٹرنگ کی ضرورت پر زور۔ *[Business Recorder](https://www.brecorder.com/news/40424332/gas-leakages-can-result-in-major-accidents-fpcci)*
-- ایکسپورٹ پروسیسنگ زونز (EPZs) میں صنعتوں کے لیے '80/20 سہولت' برقرار رکھنے کا مطالبہ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424333/govt-urged-to-continue-8020-facility-for-industries-in-epzs)*
-- چھوٹے دکانداروں کے لیے متعارف کرائے گئے نئے مقررہ ٹیکس نظام کا خیرمقدم کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424334/ubg-welcomes-fixed-tax-regime-for-shopkeepers)*
-- عالمی ٹیکنالوجی کمپنی 'ہائیسنس' کی پاکستان میں آمد کو ملک کے صنعتی مستقبل کے لیے مثبت قرار دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424337/hisense-launch-reflects-global-confidence-in-paks-industrial-future-haroon)*
-- پی پی پی (PPP) کی اعلیٰ سطح کی جماعت نے وفاقی بجٹ سے قبل حکومت کی معاشی ٹیم سے ملاقات کا پروگرام بنایا۔ *[Business Recorder](https://www.brecorder.com/news/40424338/fy27-budget-key-discussions-zardari-led-ppp-delegation-to-meet-govts-team-today)*
-- کیبنٹ ڈویژن کے پانچ ترقیاتی منصوبوں کے لیے 72 ارب روپے کی تجویز پیش کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424339/budget-2026-27-govt-proposes-rs72bn-for-cabinet-div-projects)*
-- نئے کسٹمز ٹیرف پالیسی کے دوسرے مرحلے سے سیرامک اور شیشہ کی صنعتوں پر منفی اثرات کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40424340/pctps-2nd-phase-to-hit-ceramic-amp-glass-industries-hard-apctma)*
-- نیب نے بحریہ ٹاؤن سے منسلک 4.5 ملین ڈالر کے غیر ملکی بینک اکاؤنٹس منجمد کر دیے۔ *[Business Recorder](https://www.brecorder.com/news/40424342/nab-freezes-usd45m-accounts-linked-to-bahria-town)*
-- ایف ٹیਓ نے ایف بی آر کو سیلز ٹیکس ریٹرن کے سسٹم کے مسائل فوری طور پر حل کرنے کا حکم دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424344/st-return-fto-orders-fbr-to-rectify-system-errors)*
+- **پولٹری انڈسٹری** کی شرح نمو میں اضافہ ہو رہا ہے، تاہم بڑھتی ہوئی قیمتوں سے صارفین پر بوجھ بڑھ رہا ہے۔ *[Dawn](https://www.dawn.com/news/2005767/poultry-industry-grows-at-consumers-cost)*
+- ٹائل اور گلاس بنانے والے صنعت کار درآمدی ڈیوٹی میں ممکنہ کٹوتیوں کی مخالفت کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2005766/manufacturers-of-tile-glass-oppose-import-duty-cuts)*
+- مشرق وسطیٰ میں جاری تناؤ اور ایندھن کی قیمتوں میں اضافے کے باعث عالمی ایئر لائنز نے اپنے **منافع کے تخمینوں** میں کمی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424391/global-airlines-slash-2026-profit-forecast-on-fuel-shock-from-iran-war)*
+- **اوپیک پلس** نے تیل کی پیداوار میں چوتھی بار اضافے پر اتفاق کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424390/opec-agrees-fourth-oil-quota-hike-since-hormuz-closure)*
+- ایئر لنک کمیونیکیشن نے پاکستان میں **ہائسنس (Hisense)** برانڈ باضابطہ طور پر لانچ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424387/airlink-communication-limited-officially-launches-hisense-in-pakistan-marking-a-new-era-for-consumer-electronics-in-the-country)*
+- اسرائیل کی جنگ کے نتیجے میں ملک کو شدید **معاشی اور سماجی نقصانات** کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2005853/israels-permanent-state-of-war-comes-with-economic-social-costs)*
 
 ### سائنس اور ٹیکنالوجی
-- وائٹ ہاؤس کی اے آئی (AI) پالیسی ایڈوائزر کا عہدہ چھوڑنے کا فیصلہ۔ *[ARY](https://arynews.tv/white-house-ai-policy-adviser-krishnan-to-leave-position)*
-- آئی او ایس 27 (iOS 27) کے تحت آئی فون کے نئے فیچرز کے جلد دستیاب ہونے کی امید۔ *[ARY](https://arynews.tv/ios-27-seven-game-changing-iphone-features-coming-soon)*
-
-### موسم
-- پاکستان کے بڑے حصوں میں 7 سے 12 جون تک شدید گرمی کی لہر کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2005663/large-parts-of-country-set-to-experience-heatwave-conditions-from-june-7-to-12-pmd)*
+- وائٹ ہاؤس کے اے آئی (AI) پالیسی مشیر **شریام کرشن** نے اپنے عہدے سے استعفیٰ دینے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005854/white-house-ai-policy-adviser-krishnan-to-leave-position)*
 
 ### سیاست
-- گلگت بلتستان کی 24 نشستوں کے لیے انتخابات کا عمل شروع ہو گیا۔ *[Dawn](https://www.dawn.com/news/2005670/polling-begins-in-gilgit-baltistan-general-elections-for-24-seats)*
-- پی ٹی آئی کا گلگت بلتستان میں سیکورٹی کی بھاری تعیناتی پر 'پری پول رنگنگ' کا الزام۔ *[Dawn](https://www.dawn.com/news/2005683/pti-alleges-pre-poll-rigging-over-security-deployment-ahead-of-gb-polls)*
-- وزیر اعظم شہباز شریف کی وزیر داخلہ محسن نقوی سے ملاقات، ایران دورے پر مشاورت۔ *[Dawn](https://www.dawn.com/news/2005678/pm-shehbaz-meets-interior-minister-ahead-of-naqvis-iran-visit)*
-- آزاد جموں و کشمیر میں جے اے اے سی (JAAC) پر پابندی کے بعد پولیس کی بڑے پیمانے پر کارروائی۔ *[Dawn](https://www.dawn.com/news/2005788/ajk-govt-cracks-down-on-jaac-after-imposition-of-ban)*
-- بلوچستان میں بی این پی ایم (BNP-M) کی جانب سے ضلع زیہری کے واقعے پر ہڑتال کا اعلان۔ *[Dawn](https://www.dawn.com/news/2005772/bnp-m-announces-strike-over-zehri-incident)*
-- کراچی کو وفاقی سطح پر کم ترجیح دیے جانے پر سندھ کے وزیر کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2005655/sharjeel-laments-low-priority-accorded-to-karachi-by-centre)*
-- پی ٹی آئی کی جانب سے آزاد کشمیر حکومت سے جے اے اے سی کے مسئلے پر مذاکرات کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40424328/pti-urges-ajk-govt-to-resolve-jaac-issue-through-dialogue)*
+- **بلاول بھٹو** نے آزاد کشمیر کی صورتحال پر وزیراعظم شہباز شریف سے ملاقات کا امکان ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005870/bilawal-says-will-meet-pm-shehbaz-over-ajk-situation-issues-to-be-resolved-through-talks)*
+- آزاد کشمیر کی سپریم کورٹ نے **آئینی ترمیم** کے حوالے سے حکومتی موقف کی توثیق کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2005860/constitutional-amendment-not-a-concession-to-be-wrested-says-ajk-sc-on-presidential-reference)*
+- **گلگت بلتستان** کے جنرل الیکشن کے لیے پولنگ کا عمل پرامن طریقے سے مکمل ہو گیا۔ *[Dawn](https://www.dawn.com/news/2005670/polling-concludes-for-gilgit-baltistan-general-elections-on-24-seats)*
 
 ### قومی
-- آزاد کشمیر میں جے اے اے سی (JAAC) کے خلاف کارروائی اور پابندی کے بعد کشیدگی۔ *[Dawn](https://www.dawn.com/news/2005802/jaac-ban)*
-- کوئٹہ کے ہسپتال میں خاتون ڈاکٹر پر تیزاب سے حملہ، ملزم ہلاک۔ *[Dawn](https://www.dawn.com/news/2005660/female-doctor-injured-in-acid-attack-at-quetta-hospital-suspect-killed-in-encounter)*
-- خیبر میں ہدف بنائے گئے قتل کے خلاف قبائلیوں کا شاہراہ بند کرنے کا اعلان۔ *[Dawn](https://www.dawn.com/news/2005658/tribesmen-block-highway-in-kps-khyber-over-targeted-killings)*
-- پاسپورٹ آفس کے نام پر آن لائن دھوکہ دہی سے متعلق الرٹ جاری۔ *[ARY](https://arynews.tv/dgip-warns-over-fake-contact-details-linked-to-passport-office)*
-- کراچی میں پولیو کے خاتمے کے لیے انتظامیہ کی جانب سے کوششوں میں تیزی۔ *[Business Recorder](https://www.brecorder.com/news/40424330/karachi-admin-intensifies-efforts-to-eradicate-polio)*
-- نواز شریف کی سیاسی خدمات پر مبنی نئی کتاب کی لانچنگ۔ *[Business Recorder](https://www.brecorder.com/news/40424336/nehal-praises-book-on-nawaz-sharif)*
+- بلوچستان کے وزیراعلیٰ نے تیزاب حملے کے بعد ایک ڈاکٹر کی مدد کرنے والے شخص کو **سول ایوارڈ** دینے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2005865/balochistan-cm-announces-civil-award-to-be-conferred-on-man-who-helped-female-doctor-after-acid-attack)*
+- احتجاج کے بعد **پشاور تەکرم شاہراہ** کو دوبارہ کھول دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2005858/peshawar-torkham-highway-reopens-after-protests-against-recent-targeted-attack)*
+- ایف آئی اے نے لاہور میں **غیر قانونی کرنسی ایکسچینج** اور کاپی رائٹ کی خلاف ورزیوں پر گرفتاریاں کیں۔ *[Dawn](https://www.dawn.com/news/2005849/fia-arrests-2-in-lahore-over-illegal-currency-exchange-another-2-for-copyright-violations)*
+- ساہیوال میں ایک عورت اور اس کی بیٹی کو شوہر اور بہنوئی نے **آگ کے شعلوں** کی لپیٹ میں لے لیا۔ *[Dawn](https://www.dawn.com/news/2005711/woman-daughter-set-ablaze-by-husband-brother-in-law-in-sahiwal)*
+- سندھ میں **آبپاشی کے پانی کی قلت** تشویشناک حد تک پہنچ گئی ہے، جس سے زراعت متاثر ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2005737/irrigation-water-shortage-in-sindh-reaches-alarming-level)*
+- وزیراعظم شہباز شریف نے **غذائی تحفظ** اور سلامتی کو مضبوط بنانے کے لیے جامع حکمت عملی پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424381/pakistan-pursuing-comprehensive-strategy-to-strengthen-food-security-food-safety-pm-shehbaz)*
 
 ### بین الاقوامی
-- محسن نقوی کا ایران دورہ، امریکہ اور ایران کے درمیان تعطل ختم کرنے کے لیے اہم پیغام۔ *[Dawn](https://www.dawn.com/news/2005791/naqvi-takes-cdfs-message-to-tehran-amid-stalemate)*
-- ایران کی جانب سے کویت اور بحرین پر میزائل اور ڈرون حملے، خطے میں کشیدگی میں اضافہ۔ *[Dawn](https://www.dawn.com/news/2005792/us-iran-trade-blows-as-gulf-allies-targeted)*
-- ایران کا آئی اے ای اے (IAEA) کی رپورٹ کو سیاسی دباؤ کا آلہ قرار دینا۔ *[Dawn](https://www.dawn.com/news/2005760/iran-denounces-political-pressure-from-nuclear-watchdog)*
-- اقوام متحدہ نے کشمیر اور فلسطین کے تنازعات کو غیر حل شدہ قرار دیا۔ *[Dawn](https://www.dawn.com/news/2005763/un-affirms-kashmir-and-palestine-are-unresolved-disputes)*
-- اسرائیل اور لبنان کے درمیان کشیدگی، اسرائیلی حملے میں تین فوجی ہلاک۔ *[Dawn](https://www.dawn.com/news/2005762/israeli-strike-kills-three-soldiers-in-south-lebanon)*
-- بھارت میں امتحانوں میں بے ضابطگیوں کے خلاف 'کوکروچ پارٹی' کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2005616/hundreds-join-protest-led-by-indias-viral-cockroach-party)*
-- اقوام متحدہ میں کشمیر کے مسئلے پر پاکستان اور بھارت کے درمیان لفظی جنگ۔ *[Dawn](https://www.dawn.com/news/2005619/occupied-kashmir-will-never-be-integral-part-of-india-islamabad-slams-new-delhi-for-misleading-unsc)*
-- فرانس اور اس کے اتحادیوں کی جانب سے مغربی کنارے پر اسرائیل پر دباؤ ڈالنے کی کوشش۔ *[ARY](https://arynews.tv/france-allies-eye-national-measures-to-pressure-israel-over-west-bank-diplomats-say)*
-- غزہ میں اسرائیلی حملے میں سات افراد کی شہادت۔ *[ARY](https://arynews.tv/israeli-strike-in-gaza-kills-seven-people-including-two-women-medics-say)*
-- امریکی وزیر دفاع کا یورپ کو ہجرت کے خطرے کے خلاف خبردار کرنا۔ *[Business Recorder](https://www.brecorder.com/news/40424345/hegseth-urges-europe-on-d-day-to-counter-present-day-invasion-on-beaches)*
-- شمالی کوریا کے رہنما کیم جونگ ان کا بحری طاقت کے معائنے کا دورہ۔ *[Business Recorder](https://www.brecorder.com/news/40424346/kim-stresses-stronger-naval-nuclear-deterrent)*
-- یوکرین کے ڈرون حملوں سے روس کے اہم مقامات پر تباہی۔ *[Business Recorder](https://www.brecorder.com/news/40424347/ukraine-fires-wave-of-drones-at-russia)*
-- لاس اینجلس میں فٹ بال ورلڈ کپ کے حوالے سے اسٹेडियम ملازمین کی ہڑتال کا خطرہ۔ *[Dawn](https://www.dawn.com/news/2005694/la-stadium-workers-threaten-strike-ahead-of-fifa-world-cup)*
+- اسرائیل میں ہونے والے **فائرنگ کے حملوں** میں ایک شخص ہلاک اور پانچ دیگر زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2005859/one-killed-5-wounded-in-israel-shooting-attacks-suspect-dead)*
+- شمالی کوریا نے اپنے **ایٹمی پروگرام** کو ناقابلِ گفت و شنید قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2005845/north-korea-nuclear-programme-absolutely-non-negotiable-kim-jong-uns-sister)*
+- امریکہ اور ایران کے درمیان کشیدگی کے دوران **ڈرون حملوں** اور امریکی دفاعی کارروائیوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424388/us-says-shot-down-iran-drones-as-war-reaches-100th-day)*
+- پاکستان نے علاقائی تناؤ کے دوران ایران کو اہم پیغام پہنچانے کے لیے وزیر داخلہ کو **تہران** بھیجا۔ *[Dawn](https://www.dawn.com/news/2005791/naqvi-takes-cdfs-message-to-tehran-amid-stalemate)*
+- اقوام متحدہ نے **کشمیری اور فلسطینی مسائل** کو غیر حل شدہ تنازعات کے طور پر برقرار رکھنے کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2005763/un-affirms-kashmir-and-palestine-are-unresolved-disputes)*
+- یوکرین میں ایک **روسی ڈرون** نے ایٹمی ایندھن کے ذخیرہ کرنے والے مرکز کو نشانہ بنایا۔ *[Business Recorder](https://www.brecorder.com/news/40424384/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says)*
+- چینی صدر شی جن پنگ کا **شمالی کوریا** کا دورہset ہونے والا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424378/with-china-s-xi-in-north-korea-kim-to-project-confidence-defiance)*
 
 ### کھیل
-- مائرا آندریوا نے فرینچ اوپن جیت کر پہلا گرینڈ Slam ٹائٹل حاصل کر لیا۔ *[Dawn](https://www.dawn.com/news/2005681/andreeva-wins-first-grand-slam-title-at-french-open)*
-
-### صحت
-- کراچی میں پولیو کے خاتمے کے لیے حکام اور عالمی اداروں کی جانب سے مشترکہ کوششیں۔ *[Business Recorder](https://www.brecorder.com/news/40424330/karachi-admin-intensifies-efforts-to-eradicate-polio)*
+- بھارت نے افغانستان کے خلاف **ٹیسٹ میچ** میں برتری حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424385/debutant-suthar-takes-three-wickets-as-india-dominate-afghanistan-test)*
+- مِرا اینڈریوا نے **فرانس اوپن** جیت کر ایک نیا ریکارڈ قائم کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424380/a-star-is-born-as-andreeva-eases-into-grand-slam-winners-club)*
+- انگلینڈ نے نیوزی لینڈ کو پہلے **ٹیسٹ** میں شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40424374/england-beat-new-zealand-by-115-runs-in-first-test)*
+- ارجنٹائن کے دفاعی کھلاڑی **لیونارڈو بالیرڈی** انجری کے باعث ورلڈ کپ سے باہر ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40424377/argentinas-balerdi-out-of-world-cup-with-calf-injury)*
 
 ### دیگر
-- پرنسس این کے بیٹے پیٹر کی شادی کی تاریخی تقریب۔ *[ARY](https://arynews.tv/princess-anne-watches-son-peter-remarry-in-historic-church-ceremony)*
-- جیک شارٹ کا مائیکہ عبداللہ سے بریک اپ کے بعد مبینہ توہین آمیز جملے پر معافی مانگنا۔ *[ARY](https://arynews.tv/mika-abdalla-breakup-jake-short-apologizes-derogatory-remark)*
-- انمل پنکی کا تحقیقات کے دوران واٹس ایپ پیغامات سے انکار۔ *[ARY](https://arynews.tv/anmol-pinky-refuses-to-own-whatsapp-voice-notes-during-investigation)*
-- عالمی یومِ ماحول پر ماہرین کی جانب سے شہروں میں ماحولیاتی تباہی کا انتباہ۔ *[Business Recorder](https://www.brecorder.com/news/40424331/environment-day-major-cities-await-an-ecological-disaster-experts)*
+- امریکی گلوکارہ **ایریانہ گرانڈے** نے اپنے ٹور کے آغاز پر جذباتی اظہار کیا۔ *[ARY](https://arynews.tv/ariana-breaks-down-in-tears-during-emotional-eternal-sunshine-tour-kickoff-in-oakland)*
 
