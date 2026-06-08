@@ -4,57 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 08-Jun-2026 09:03PKT
+Published at: 08-Jun-2026 21:05PKT
 
-Time to read: 4 mins
+Time to read: 5 mins
 
 ### Economy
-- The National Economic Council may revise federal and provincial development plans worth Rs4.715 trillion for the next fiscal year. *[Dawn](https://www.dawn.com/news/2006024/budget-2026-27-political-fiscal-reality-to-reshape-uplift-budget-as-nec-meets-today)*
-- The Oil and Gas Regulatory Authority (Ogra) is facing internal disarray following pricing investigations and the resignation of a member. *[Dawn](https://www.dawn.com/news/2006034/ogra-in-disarray-amid-pricing-probe-legal-challenges)*
-- OPEC+ has approved its fourth oil output quota hike in four months, despite supply crises caused by the US-Iran conflict. *[Dawn](https://www.dawn.com/news/2005888/opec-approves-fourth-oil-output-quota-hike-since-hormuz-closure)*
-- Pakistan's widening trade deficit points to deep-seated structural constraints rather than mere cyclical swings. *[Dawn](https://www.dawn.com/news/2005958/digging-deeper-into-deficit)*
-- The Pakistan Institute of Development Economics (PIDE) has called for a National Savings Mobilization Package to combat declining domestic savings. *[Business Recorder](https://www.brecorder.com/news/40424406/budget-fy2026-27-domestic-savings-decline-spurs-call-for-targeted-mobilisation-plan-pide)*
-- KPRA has successfully collected Rs156 million in revenue across the Mardan and Malakand regions. *[Business Recorder](https://www.brecorder.com/news/40424407/mardan-malakand-region-kpra-collects-rs156m-revenue)*
-- The Federation of Pakistan Chambers of Commerce & Industry (FPCCI) has rejected the new Punjab Infrastructure Development Cess, calling it double taxation. *[Business Recorder](https://www.brecorder.com/news/40424415/fpcci-rejects-punjab-infrastructure-development-cess)*
-- Fiscal deficit and illicit trade remain major challenges as the country seeks economic stabilization. *[Business Recorder](https://www.brecorder.com/news/40424411/fiscal-deficit-puts-illicit-trade-under-spotlight)*
-- Efforts to achieve debt re-profiling for CPEC contracts have yet to yield sufficient results. *[Business Recorder](https://www.brecorder.com/news/40424417/cpec-outcome)*
-
-### Science & Technology
-- A top White House artificial intelligence policy adviser, Sriram Krishnan, has announced his departure. *[Dawn](https://www.dawn.com/news/2005854/white-house-ai-policy-adviser-krishnan-to-leave-position)*
-- The Punjab Safe Cities Authority (PSCA) has launched the "CM Punjab QR Panic Button System" to enhance public transport safety. *[Business Recorder](https://www.brecorder.com/news/40424413/psca-introduces-cm-punjab-qr-panic-button-system)*
-- Analysis shows shifting load profiles in the electrical grid due to increased solar generation. *[Business Recorder](https://www.brecorder.com/news/40424401/grid-is-learning-to-compete)*
-
-### Weather
-- Karachi Metropolitan Corporation has launched a citywide operation to clean storm-water drains in preparation for the monsoon season. *[Business Recorder](https://www.brecorder.com/news/40424404/mayor-orders-preparations-ahead-of-monsoon)*
+- The Senate has surrendered Rs1.436 billion to the national exchequer following an austerity drive, exceeding its target by 500%. *[Dawn](https://www.dawn.com/news/2006122/senate-returns-rs143bn-to-exchequer-beats-austerity-target-by-500pc)*
+- The Pakistan Textile Council (PTC) has urged the government to provide 10-year fixed-rate financing and tax relief for exporters in the upcoming budget. *[Business Recorder](https://www.brecorder.com/news/40424530/ptc-seeks-10-year-fixed-rate-financing-tax-relief-for-exporters-in-budget)*
+- Wall Street indexes advanced as chipmakers rebounded and investors reacted to cooling Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40424529/wall-st-gains-as-chips-rebound-middle-east-tensions-ease)*
+- India reported a surprise current account surplus of $7.1 billion for the January-March quarter. *[Business Recorder](https://www.brecorder.com/news/40424521/india-reports-surprise-current-account-surplus-in-jan-march-quarter)*
+- Chicago wheat, corn, and soybean futures all saw declines due to abundant global supplies. *[Business Recorder](https://www.brecorder.com/news/40424522/chicago-wheat-falls-to-two-month-lows-on-ample-supply-corn-and-soybeans-also-down)*
+- Deputy Prime Minister Ishaq Dar chaired a meeting to review Pakistan’s auto policy, focusing on accelerating the transition to electric vehicles. *[Business Recorder](https://www.brecorder.com/news/40424531/dar-chairs-review-of-auto-policy-with-focus-on-accelerating-ev-transition)*
+- Indian government bonds rose despite oil price spikes triggered by Middle East conflicts. *[Business Recorder](https://www.brecorder.com/news/40424523/india-bond-rally-survives-us-iran-war-oil-flare-up-in-rbi-policy-afterglow)*
+- Malaysian palm oil futures increased amid anticipated drops in production output. *[Business Recorder](https://www.brecorder.com/news/40424514/palm-climbs-on-anticipated-output-drop-indonesia-uncertainty-caps-gains)*
+- Wahdat Poultry has begun rearing an additional 100,000 layer birds using proceeds from its recent IPO. *[Business Recorder](https://www.brecorder.com/news/40424517/wahdat-poultry-purchases-100000-birds-through-ipo-proceeds)*
+- The Pakistani Rupee recorded gains against the US Dollar. *[Business Recorder](https://www.brecorder.com/news/40424515/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Pakistan and Mauritius are working to enhance bilateral trade and investment ties. *[Business Recorder](https://www.brecorder.com/news/40424513/pakistan-mauritius-eye-to-enhance-bilateral-trade)*
 
 ### Politics
-- Unofficial Gilgit-Baltistan election results show the PPP leading with 10 seats. *[Dawn](https://www.dawn.com/news/2005670/unofficial-results-show-ppp-leading-the-gb-race-with-victory-on-10-seats)*
-- The PPP held pre-budget meetings with Ishaq Dar to express reservations regarding proposed taxes. *[Dawn](https://www.dawn.com/news/2005897/ppp-shares-tax-related-reservations-in-pre-budget-meeting-with-dar-say-sources)*
-- The AJK Supreme Court ruled that constitutional amendments are not concessions to be demanded from the government. *[Dawn](https://www.dawn.com/news/2005860/constitutional-amendment-not-a-concession-to-be-wrested-says-ajk-sc-on-presidential-reference)*
-- Critiques have emerged regarding the effectiveness and democratic role of Pakistan's parliament. *[Dawn](https://www.dawn.com/news/2005999/is-parliament-effective)*
-- The PPP announced it will field candidates across all union councils in Lahore for upcoming local elections. *[Business Recorder](https://www.brecorder.com/news/40424414/local-bodies-elections-ppp-to-field-candidates-across-all-ucs-of-lahore-faisal)*
+- Prime Minister Shehbaz Sharif has called for restraint in the Middle East to prevent further escalation of violence between Iran and Israel. *[Dawn](https://www.dawn.com/news/2006144/give-peace-a-little-more-chance-pm-shehbaz-calls-for-restraint-after-israel-iran-exchange-attacks)*
+- The PTI has rejected the tentative Gilgit-Baltistan election results, leveling allegations of widespread rigging. *[Dawn](https://www.dawn.com/news/2006146/action-replay-of-2024-elections-pti-ttap-reject-gb-election-results-level-rigging-allegations)*
+- US President Donald Trump walked out of an NBC interview after being confronted with questions regarding unfounded election fraud claims. *[Dawn](https://www.dawn.com/news/2006093/lets-call-it-quits-trump-storms-out-of-tense-rain-plagued-interview-when-confronted-over-election-fraud-claims)*
+- Chinese President Xi Jinping arrived in North Korea, hailing the "invincible friendship" between the two nations. *[Dawn](https://www.dawn.com/news/2006079/chinas-xi-lands-in-north-korea-for-rare-visit-hails-invincible-friendship-with-pyongyang)*
+- BISP Chairperson Senator Rubina Khalid has urged an apology for remarks made by Rana Sanaullah that may have hurt beneficiaries. *[Dawn](https://www.dawn.com/news/2006110/bisp-head-urges-apology-after-rana-sanaullahs-beggar-remarks)*
 
 ### National
-- Clashes in Rawlakot resulted in the martyrdom of four policemen and injuries to 20 others. *[Dawn](https://www.dawn.com/news/2006025/four-cops-martyred-20-injured-as-ajk-protest-spirals)*
-- Security forces killed 27 terrorists during intelligence-based operations in North Waziristan. *[Dawn](https://www.dawn.com/news/2005890/27-terrorists-killed-in-north-waziristan-ibos-ispr)*
-- The Peshawar-Torkham Highway has reopened following protests by Sultan Khel tribesmen. *[Dawn](https://www.dawn.com/news/2005858/peshawar-torkham-highway-reopens-after-protests-against-recent-targeted-attack)*
-- Punjab is moving forward with plans to establish 650 daycare centers for working women. *[Business Recorder](https://www.brecorder.com/news/40424409/promise-of-daycare-centres-being-fulfilled-across-punjab-cm)*
-- The National Seed Policy has been approved to transform Pakistan's agricultural sector. *[Business Recorder](https://www.brecorder.com/news/40424410/uaf-vc-congratulates-minister-on-approval-of-national-seed-policy)*
+- The Supreme Court ruled that "vitriolage" (acid attacks) is a more heinous offense than homicide. *[Dawn](https://www.dawn.com/news/2006139/acid-attack-more-heinous-than-homicide-tool-of-patriarchal-violence-sc)*
+- Pakistan's Foreign Office rejected "unwarranted" and "ill-informed" remarks regarding AJK made by members of the UK diaspora. *[Dawn](https://www.dawn.com/news/2006132/pakistan-rejects-unwarranted-remarks-on-ajk-by-individuals-in-uk)*
+- At least seven civilians were killed during a clash between police and JAAC protesters in Rawalakot, AJK. *[Dawn](https://www.dawn.com/news/2006082/at-least-7-civilians-killed-during-sunday-clash-between-police-jaac-protesters-in-ajks-rawalakot-official)*
+- The water crisis in Sindh and Balochistan is deepening as residents raise concerns over unfair water distribution. *[Dawn](https://www.dawn.com/news/2005909/sindh-balochistan-cry-foul-as-irsa-keeps-mum-over-deepening-water-crisis)*
+- Doctors in Quetta have announced an indefinite strike to protest a heinous acid attack on a female colleague. *[Dawn](https://www.dawn.com/news/2006036/doctors-go-on-strike-in-quetta-over-heinous-acid-attack)*
+- A transport leader was injured and three others, including his son, were killed in an armed attack in Swat. *[Dawn](https://www.dawn.com/news/2006119/transport-leader-injured-in-swat-armed-attack-son-among-3-killed)*
+- Authorities are seeking court permission to record the voice samples of alleged drug baroness Anmol Pinky. *[Dawn](https://www.dawn.com/news/2005920/courts-nod-sought-to-record-pinkys-voice-samples)*
+- Recent CPLC figures reveal alarmingly high crime rates in Karachi for the month of May. *[ARY](https://arynews.tv/staggering-cplc-figures-reveal-alarmingly-high-may-crime-rates-in-karachi)*
 
 ### International
-- South Korea has nominated Han Seong-sook, potentially making her the first woman Prime Minister in 20 years. *[Dawn](https://www.dawn.com/news/2006012/south-korea-names-first-woman-pm-in-20-years)*
-- US national polls indicate Democrats hold a modest lead ahead of the 2026 mid-term elections. *[Dawn](https://www.dawn.com/news/2006017/democrats-hold-early-lead-ahead-of-mid-terms)*
-- Tensions between Israel and Iran have escalated, with Iran launching missile strikes and Israel vowing a forceful response. *[Business Recorder](https://www.brecorder.com/news/40424481/israel-military-chief-vows-to-strike-iran-with-force-as-soon-as-greenlight-is-given)*
-- US President Donald Trump has urged Israeli Prime Minister Netanyahu to avoid retaliating against Iranian missile strikes. *[Business Recorder](https://www.brecorder.com/news/40424482/trump-says-will-urge-netanyahu-not-to-retaliate-against-iranian-missiles-axios)*
-- Iraq and Syria have closed their airspace as a precaution following Iranian missile activity. *[Business Recorder](https://www.brecorder.com/news/40424479/iraq-syria-close-airspace-after-iran-attacks-israel)*
-- North Korea has declared its nuclear weapons programme "absolutely non-negotiable." *[Dawn](https://www.dawn.com/news/2005845/north-korea-nuclear-programme-absolutely-non-negotiable-kim-jong-uns-sister)*
-- Russian drone strikes in Ukraine have damaged a nuclear storage facility in the Chernobyl zone. *[Business Recorder](https://www.brecorder.com/news/40424424/russian-strikes-kill-four-damage-nuclear-storage-facility)*
-- Multiple shooting attacks in Israel resulted in one death and five injuries. *[Dawn](https://www.dawn.com/news/2005859/one-killed-5-wounded-in-israel-shooting-attacks-suspect-dead)*
+- Iran and Israel have both reported a halt in direct military strikes against one another following calls for restraint. *[Business Recorder](https://www.brecorder.com/news/40424526/iran-israel-say-they-have-halted-strikes-on-each-other-for-now)*
+- India has deported nearly 5,000 Bangladeshi citizens following recent political developments in West Bengal. *[Dawn](https://www.dawn.com/news/2006150/india-detains-and-deports-5000-bangladeshis)*
+- A powerful 7.8-magnitude earthquake in the southern Philippines has killed at least 31 people and triggered tsunami warnings. *[Dawn](https://www.dawn.com/news/2006083/major-quake-off-philippines-kills-at-least-31-dozen-still-missing)*
+- The Taliban government has detained several women in Herat during a crackdown on clothing requirements. *[Dawn](https://www.dawn.com/news/2006152/women-detained-in-afghanistans-herat-in-clothing-crackdown)*
+- Houthi rebels have threatened to ban Israel-linked ships from the Red Sea in response to renewed military attacks. *[Dawn](https://www.dawn.com/news/2006141/why-houthis-threatening-red-sea-shipping-could-mean-more-for-the-oil-market-this-time)*
+- A fire was reported on an oil tanker off the coast of Oman; all 24 Indian sailors on board are safe. *[Business Recorder](https://www.brecorder.com/news/40424519/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe)*
+- India is pushing for preferential tariffs as part of negotiations to finalize an interim trade deal with the US. *[Business Recorder](https://www.brecorder.com/news/40424532/india-us-trade-deal-can-be-finalised-after-tariff-probe-concludes-official-says)*
 
-### Health
-- Doctors in Quetta have announced an indefinite strike following a heinous acid attack on a female colleague. *[Dawn](https://www.dawn.com/news/2006036/doctors-go-on-strike-in-quetta-over-heinous-acid-attack)*
-- The Medical Superintendent of Civil Hospital Karachi met with the Karachi Press Club to discuss healthcare challenges for journalists. *[Business Recorder](https://www.brecorder.com/news/40424405/chk-ms-visits-kpc-pledges-better-facilities-for-journalists)*
+### Sports
+- Konate is set to join Real Madrid with a contract running until 2030. *[ARY](https://arynews.tv/konate-to-join-real-madrid-until-2030)*
+- Bangladesh cricket captain Mehidy Hasan Miraz is targeting an ODI upset against a depleted Australian squad. *[Business Recorder](https://www.brecorder.com/news/40424516/bangladesh-seek-odi-upset-against-depleted-australia)*
 
 ### Other
-- The Punjab Horticulture Authority (PHA) has appointed "Tree Officers" to oversee tree protection and regulation. *[Business Recorder](https://www.brecorder.com/news/40424412/pha-appoints-tree-officers)*
+- "Schmigadoon!" won the Tony Award for best musical on Broadway's biggest night. *[Business Recorder](https://www.brecorder.com/news/40424512/schmigadoon-wins-best-musical-on-broadways-biggest-night)*
+- World Oceans Day 2026 emphasizes the importance of sustainable fishing for the stability of marine ecosystems. *[Business Recorder](https://www.brecorder.com/news/40424518/world-oceans-day-fishing-and-the-future-stability-of-marine-ecosystems)*
+- Amy Adams and Javier Bardem are set to star in Apple TV’s new series, ‘Cape Fear.’ *[ARY](https://arynews.tv/amy-adams-javier-bardem-apple-tvs-cape-fear-series)*
 
