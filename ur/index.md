@@ -7,57 +7,60 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 08-Jun-2026 21:11PKT 
+ &lrm; 09-Jun-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- سینیٹ نے سال بھر کی کفایت شعاری کے بعد 1.43 ارب روپے سرکاری خزانے کو واپس کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2006122/senate-returns-rs143bn-to-exchequer-beats-austerity-target-by-500pc)*
-- پاکستان ٹیکسٹائل کونسل نے بجٹ میں 10 سالہ فکسڈ ریٹ فنانسنگ اور برآمد کنندگان کے لیے ٹیکس چھوٹ کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424530/ptc-seeks-10-year-fixed-rate-financing-tax-relief-for-exporters-in-budget)*
-- وال اسٹریٹ کے بڑے انڈیکسوں میں اضافہ ہوا ہے، جس کی وجہ چپس کی صنعت میں بہتری اور مشرق وسطیٰ میں کم ہوتی کشیدگی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424529/wall-st-gains-as-chips-rebound-middle-east-tensions-ease)*
-- بھارت نے جنوری سے مارچ کی سہ ماہی میں غیر متوقع کرنٹ اکاؤنٹ سرپلس رپورٹ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424521/india-reports-surprise-current-account-surplus-in-jan-march-quarter)*
-- پاکستان میں چاندی کی قیمتیں دوبارہ معمول پر آ گئیں۔ *[ARY](https://arynews.tv/silver-rate-today-in-pakistan-june-8-2026)*
-- واہت پولٹری فارم نے آئی پی او سے حاصل ہونے والی رقم سے 100,000 پرندوں کی افزائش کا کام شروع کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424517/wahdat-poultry-purchases-100000-birds-through-ipo-proceeds)*
-- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424515/intra-day-update-rupee-records-gain-against-us-dollar)*
-- مالیشیا میں پام آئل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424514/palm-climbs-on-anticipated-output-drop-indonesia-uncertainty-caps-gains)*
-- پاکستان اور ماریشس نے دوطرفہ تجارت اور سرمایہ کاری کے فروغ کے لیے عزم کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40424513/pakistan-mauritius-eye-to-enhance-bilateral-trade)*
+- نئے مالی سال (2026-27) کا بجٹ 12 جون کو پارلیمنٹ میں پیش کیے جانے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2006338/budget-likely-to-be-announced-on-june-12-says-minister)*
+- پاکستان اور ایران کے درمیان سرحدی تجارت رکنے سے ملک بھر میں ایل پی جی (LPG) کی قلت کا خدشہ پیدا ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2006250/pak-iran-border-trade-halt-to-trigger-lpg-shortages)*
+- وزیر اعظم شہباز شریف نے بجٹ سے قبل زراعت کے شعبے کی ترقی کے لیے اسٹیک ہولڈرز سے مشاورت کی۔ *[Business Recorder](https://www.brecorder.com/news/40424679/pm-shehbaz-consults-agriculture-stakeholders-ahead-of-budget-announces-reform-push)*
+- بھارت میں سونے پر درآمدی ٹیرف میں اضافے سے اسمگلنگ میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424683/indias-gold-tariff-hike-fuels-smuggling-revival-squeezes-banks-and-refiners)*
+- امریکی اسٹاکس میں اضافہ دیکھا گیا کیونکہ تیل کی قیمتوں میں کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424680/us-stocks-rise-as-oil-prices-pull-back)*
+- چین کے اسٹاکس میں دوبارہ بہتری دیکھی گئی جبکہ ہانگ کانگ کے شیئرز مستحکم رہے۔ *[Business Recorder](https://www.brecorder.com/news/40424667/china-stocks-rebound-as-chipmaker-selloff-lures-bargain-hunters-hong-kong-steady)*
+- پاکستان 'انٹرنیشنل نارتھ ساؤتھ ٹرانسپورٹ کارریڈور' (INSTC) میں شامل ہونے اور گوادر کو روس سے منسلک کرنے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424670/pakistan-plans-to-join-instc-eyes-gwadar-link-with-russia)*
+- بھارت کی معیشت پر ایران جنگ کے بڑھتے ہوئے اخراجات کے اثرات پڑ رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424687/indian-economy-government-finances-see-mounting-costs-from-iran-war)*
+
+### سائنس اور ٹیکنالوجی
+- بھارتی مارکیٹ اے آئی (AI) کے میدان میں جنوبی کوریا اور تائیوان سے پیچھے رہ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424686/india-overtaken-as-south-korea-taiwan-ride-ai-wave)*
+- نینٹینڈو نے اپنی مشہور 1998 کی گیم 'زلڈا' کے ری میک کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/zelda-ocarina-of-time-remake-announced-by-nintendo)*
+
+### موسم
+- پاکستان کے مختلف حصوں میں شدید گرمی کی لہر برقرار ہے، جہاں درجہ حرارت 40 ڈگری سینٹی گریڈ سے تجاوز کر گیا۔ *[Dawn](https://www.dawn.com/news/2006384/in-pictures-heatwave-grips-pakistan-as-temperatures-cross-40c)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے مشرق وسطیٰ میں جاری تنازعات کے دوران تمام فریقین سے تحمل کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2006144/give-peace-a-little-more-chance-pm-shehbaz-calls-for-restraint-after-israel-iran-exchange-attacks)*
-- پی ٹی آئی نے گلگت بلتستان کے انتخابی نتائج کو مسترد کرتے ہوئے دھاندلی کے الزامات عائد کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2006146/action-replay-of-2024-elections-pti-ttap-reject-gb-election-results-level-rigging-allegations)*
-- پاکستان نے آزاد جموں و کشمیر کے حوالے سے برطانیہ میں مقیم افراد کے غیر ضروری تبصروں کو مسترد کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2006132/pakistan-rejects-unwarranted-remarks-on-ajk-by-individuals-in-uk)*
-- سپریم کورٹ نے فیصلہ دیا کہ تیزابیت سے حملہ (acid attack) قتل سے بھی زیادہ سنگین جرم ہے۔ *[Dawn](https://www.dawn.com/news/2006139/acid-attack-more-heinous-than-homicide-tool-of-patriarchal-violence-sc)*
-- بی آئی ایس پی (BISP) کی چیئرپرسن نے رانا ثناء اللہ کے بیانات پر معافی کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2006110/bisp-head-urges-apology-after-rana-sanaullahs-beggar-remarks)*
-- ڈونلڈ ٹرمپ نے انتخابی دھاندلی کے الزامات پر این بی سی کے انٹرویو کے دوران گفتگو چھوڑ دی۔ *[Dawn](https://www.dawn.com/news/2006093/lets-call-it-quits-trump-storms-out-of-tense-rain-plagued-interview-when-confronted-over-election-fraud-claims)*
+- گلگت بلتستان الیکشن کمیشن نے پانچ حلقوں میں دوبارہ پولنگ تک نتائج کی منسوخی کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2006362/gb-election-commission-bars-consolidation-of-results-until-re-polling-in-5-constituencies)*
 
-### National
-- آزاد کشمیر کے شہر راولاکوٹ میں پولیس اور مظاہرین کے درمیان تصادم میں 7 شہری جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2006082/at-least-7-civilians-killed-during-sunday-clash-between-police-jaac-protesters-in-ajks-rawalakot-official)*
-- سوات میں مسلح حملہ، جس میں ٹرانسپورٹ لیڈر زخمی اور ان کے بیٹے سمیت تین افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2006119/transport-leader-injured-in-swat-armed-attack-son-among-3-killed)*
-- سندھ اور بلوچستان میں پانی کا بحران شدت اختیار کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2005909/sindh-balochistan-cry-foul-as-irsa-keeps-mum-over-deepening-water-crisis)*
-- کے پی کے کے وزیر خزانہ نے بجٹ کی بگڑتی ہوئی صورتحال پر وارننگ دی۔ *[ARY](https://arynews.tv/kp-finance-minister-warns-budget-situation-worsening)*
-- پی پی پی (PPP) کے بجٹ کی حمایت کرنے کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/ppp-likely-to-back-budget-as-govt-talks-reach-broad-understanding-sources)*
-- کراچی میں کرائم ریٹس کے حوالے سے سی پی ایل سی (CPLC) کے اعداد و شمار تشویشناک ہیں۔ *[ARY](https://arynews.tv/staggering-cplc-figures-reveal-alarmingly-high-may-crime-rates-in-karachi)*
-- پولیس نے منشیات کے کیس میں انمل پنکی کے وائس سیمپلز ریکارڈ کرنے کے لیے عدالت سے اجازت طلب کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2005920/courts-nod-sought-to-record-pinkys-voice-samples)*
+### قومی
+- پشاور کے علاقے حسن خیل میں دہشت گردوں کے حملے کے دوران 6 ایف سی اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2006354/6-personnel-martyred-as-terrorists-bid-to-capture-frontier-constabulary-post-in-peshawar-foiled-sources)*
+- بلوچستان کے علاقے باسمہ میں فوجی آپریشن کے دوران 14 دہشت گرد ہلاک اور ایک سپاہی شہید ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424684/soldier-martyred-14-terrorists-killed-in-balochistan-operation-ispr)*
+- آزاد کشمیر کے شہر مظفر آباد میں JAAC کی ہڑتال کے باعث بازار اور سڑکیں ویران رہیں۔ *[Dawn](https://www.dawn.com/news/2006361/jaac-strike-markets-streets-deserted-in-ajks-muzaffarabad-but-no-demonstrations-held)*
+- جنوبی وزیرستان کی اہم تجارتی شاہراہ 'وانا گومل زم روڈ' کی انتہائی ابتر حالت پر مقامی لوگوں نے شدید تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2006383/south-waziristan-tribal-elders-decry-hardship-as-wana-gomal-zam-road-remains-in-ruins)*
+- ایف آئی اے (FIA) نے بین الاقوامی معیار کے مطابق تحقیقات کے لیے تمام زونز میں FATF ڈیسک قائم کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2006381/fia-establishes-fatf-desks-across-all-zones-to-improve-implementation-of-international-investigation-standards)*
 
-### International
-- ایران اور اسرائیل کے درمیان حملوں کے تبادلے نے مشرق وسطیٰ میں کشیدگی کو مزید بڑھا دیا ہے۔ *[Dawn](https://www.dawn.com/news/2006073/israel-iran-trade-fire-despite-trumps-call-for-restraint)*
-- بھارت نے تقریباً 5,000 بنگلہ دیشی شہریوں کو ملک بدر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2006150/india-detains-and-deports-5000-bangladeshis)*
-- افغانستان کے شہر ہرات میں خواتین پر لباس کے حوالے سے سخت پابندیوں کے دوران گرفتاریوں کا سلسلہ جاری ہے۔ *[Dawn](https://www.dawn.com/news/2006152/women-detained-in-afghanistans-herat-in-clothing-crackdown)*
-- فلپائن میں شدید زلزلے کے نتیجے میں کم از کم 31 افراد ہلاک ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2006083/major-quake-off-philippines-kills-at-least-31-dozen-still-missing)*
-- چینی صدر شی جن پنگ کا شمالی کوریا کا دورہ، انہوں نے دونوں ممالک کی "ناقابل تسخیر دوستی" کو سراہا۔ *[Dawn](https://www.dawn.com/news/2006079/chinas-xi-lands-in-north-korea-for-rare-visit-hails-invincible-friendship-with-pyongyang)*
-- حوثیوں کی جانب سے بحیرہ احمر میں جہازوں کو روکنے کی دھمکیوں سے عالمی توانائی کی منڈی پر اثر پڑ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2006141/why-houthis-threatening-red-sea-shipping-could-mean-more-for-the-oil-market-this-time)*
-- بھارت اور امریکہ کے درمیان تجارتی معاہدے کے حوالے سے مذاکرات جاری ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424532/india-us-trade-deal-can-be-finalised-after-tariff-probe-concludes-official-says)*
-- عمان کے ساحل پر ایک تیل کے ٹینکر میں آگ لگنے کا واقعہ پیش آیا، جس میں تمام بھارتی ملاح محفوظ ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424519/india-says-fire-reported-on-oil-tanker-with-24-indian-sailors-all-crew-safe)*
+### بین الاقوامی
+- بحرین کے کمانڈر نے پاکستان کے چیف آف ڈیفنس فورسز سے ملاقات کی اور دفاعی تعاون پر بات چیت کی۔ *[Dawn](https://www.dawn.com/news/2006391/bahrain-commander-meets-cdf-munir-discusses-strengthening-military-collaboration-ispr)*
+- لبنان کے آرمی کمانڈر نے پاکستان کے چیف آف ڈیفنس فورسز سے ملاقات کی اور علاقائی سلامتی پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/2006324/lebanese-army-commander-calls-on-cdf-munir-discusses-regional-security-environment)*
+- بھارت نے چین کے قریب ہمالیہ میں ایک اہم سٹریٹجک سرنگ کی تکمیل کے قریب ہونے کا دعویٰ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2006369/india-nears-completion-of-strategic-himalayan-tunnel-near-china-border)*
+- افغان سیکیورٹی فورسز نے ہرات میں حجاب کے خلاف احتجاج کرنے والی خواتین پر کارروائی کی، جس میں ایک ہلاکت کی اطلاع ہے۔ *[Dawn](https://www.dawn.com/news/2006373/afghanistan-police-crack-down-on-anti-hijab-protests-in-herat)*
+- امریکہ کے ایک جج نے ٹرمپ انتظامیہ کے H-1B ویزا فیس میں 1 لاکھ ڈالر اضافے کے فیصلے کو بلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2006330/us-judge-blocks-trumps-100000-fee-for-h-1b-visas)*
+- چینی صدر شی جن پنگ نے شمالی کوریا کے دورے کے بعد دونوں ممالک کے درمیان گہرے تعلقات کا ذکر کیا۔ *[Dawn](https://www.dawn.com/news/2006357/chinas-xi-hails-deeper-understanding-at-end-of-north-korea-summit)*
+- فلپائن میں شدید زلزلے کے نتیجے میں ہلاک ہونے والوں کی تعداد 41 تک پہنچ گئی ہے۔ *[Dawn](https://www.dawn.com/news/2006345/outdoor-hospitals-cut-off-communities-as-philippine-quake-toll-hits-41)*
+- اسرائیل نے لبنان کے شہر ٹائر پر بمباری کی، جس میں کم از کم 8 افراد ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40424675/israel-launches-deadly-strikes-on-lebanons-tyre-after-warning)*
+- امریکہ کا ہیلی کاپٹر اسٹریٹ آف ہرمز کے قریب گر گیا، تاہم عملے کو بحال کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2006350/us-helicopter-crew-who-went-down-in-strait-of-hormuz-rescued-by-drone)*
+- پاکستان کے سفیر نے اقوام متحدہ میں کہا کہ بھارت افغانستان میں پاکستان کو غیر مستحکم کرنے کے مقاصد رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2006316/indias-key-objectives-in-afghanistan-solely-driven-by-singular-goal-of-destabilising-pakistan-envoy-tells-unsc)*
 
-### Sports
-- فٹ بال کھلاڑی کونٹے ریال میڈرڈ کے ساتھ معاہدہ کر رہے ہیں۔ *[ARY](https://arynews.tv/konate-to-join-real-madrid-until-2030)*
-- بنگلہ دیشی کرکٹ ٹیم آسٹریلیا کے خلاف ون ڈے سیریز کے لیے تیار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424516/bangladesh-seek-odi-upset-against-depleted-australia)*
-- افغانستان کی کرکٹ ٹیم کی کارکردگی کے حوالے سے کوچ پائبس نے مزید ٹیسٹ کی ضرورت پر زور دیا۔ *[ARY](https://arynews.tv/rusty-afghanistan-need-more-tests-says-coach-pybus)*
+### کھیل
+- آئی سی سی (ICC) نے لاہور کے گڈافی اسٹیڈیم کی پچ کو 'غیر تسلی بخش' قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2006387/icc-rates-lahores-gaddafi-stadium-unsatisfactory-after-slow-pitch-in-pakistan-australia-odi)*
+- انگلینڈ کے کپتان بین اسٹوکس اور ٹیم کے رکن گس اٹکنسن کی کلب واقعے میں تحقیقات کی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2006234/stokes-atkinson-under-probe-for-nightclub-incident)*
+- پاکستان کے ساحلی علاقوں میں سپورٹس اکیڈمیوں کے قیام کا منصوبہ بنایا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424669/pakistan-plans-coastal-sports-academies-under-blue-economy-vision)*
 
-### Health
-- کوئٹہ میں تیزابیت سے ہونے والے حملے کے خلاف ڈاکٹروں نے ہسپتالوں میں ہڑتال کر دی۔ *[Dawn](https://www.dawn.com/news/2006036/doctors-go-on-strike-in-quetta-over-heinous-acid-attack)*
+### صحت
+- پنجاب میں کینسر کے مریضوں کو علاج کے لیے 10 لاکھ روپے کی امداد دی جائے گی۔ *[ARY](https://arynews.tv/cancer-patients-to-get-rs1million-for-treatment-in-punjab)*
+- لاہور میں ایک دل کے سرجن پر 'مفت آپریشن' کے نام پر 10 لاکھ روپے بٹورنے کا الزام لگا ہے۔ *[ARY](https://arynews.tv/lahore-heart-surgeon-charges-1m-for-free-operation)*
 
-### Other
-- ٹونی ایوارڈز میں 'Schmigadoon!' نے بہترین میوزیکل کا ایوارڈ جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40424512/schmigadoon-wins-best-musical-on-broadways-biggest-night)*
-- ورلڈ اوشینز ڈے کے موقع پر سمندری ماحولیاتی نظام کے تحفظ کی اہمیت پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40424518/world-oceans-day-fishing-and-the-future-stability-of-marine-ecosystems)*
+### دیگر
+- اسلام آباد کے راول جھیل پر فلیمنگو پرندوں کے شکار سے ماحولیاتی ماہرین میں تشویش پائی جاتی ہے۔ *[Dawn](https://www.dawn.com/news/2006212/flamingos-killing-at-islamabads-rawal-lake-raises-alarm)*
+- کےٹی پیری نے 2025 کو اپنی زندگی کا مشکل ترین سال قرار دیا۔ *[ARY](https://arynews.tv/katy-perry-reflects-on-orlando-split-calling-2025-the-hardest-year-of-her-life)*
+- جینیفر لوپیز نے اپنے بچوں کے کالج جانے پر جذباتی انداز میں اظہار کیا۔ *[ARY](https://arynews.tv/jennifer-lopez-emotional-over-twins-max-and-emme-leaving-for-college)*
 
