@@ -4,72 +4,58 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Jun-2026 21:05PKT
+Published at: 10-Jun-2026 09:04PKT
 
-Time to read: 6 mins
+Time to read: 5 mins
 
 ### Economy
-- The budget for the 2026-27 fiscal year is expected to be announced on June 12. *[Dawn](https://www.dawn.com/news/2006338/budget-likely-to-be-announced-on-june-12-says-minister)*
-- Criteria for salary raises in the upcoming 2026-27 budget has been determined. *[ARY](https://arynews.tv/budget-2026-27-salary-raise-criteria-decided)*
-- A halt in Pak-Iran border trade through the Gabd-Rimdan crossing is raising concerns over LPG shortages and perishable goods spoilage. *[Dawn](https://www.dawn.com/news/2006250/pak-iran-border-trade-halt-to-trigger-lpg-shortages)*
-- India's economy is facing mounting costs and potential growth slowdowns due to the ongoing Iran war and oil supply disruptions. *[Business Recorder](https://www.brecorder.com/news/40424687/indian-economy-government-finances-see-mounting-costs-from-iran-war)*
-- India's equity market has dropped to seventh globally as South Korea and Taiwan lead the AI-driven market wave. *[Business Recorder](https://www.brecorder.com/news/40424686/india-overtaken-as-south-korea-taiwan-ride-ai-wave)*
-- Increased gold import tariffs in India are reportedly fueling a resurgence in smuggling. *[Business Recorder](https://www.brecorder.com/news/40424683/indias-gold-tariff-hike-fuels-smuggling-revival-squeezes-banks-and-refiners)*
-- US stocks saw a rise following President Trump's remarks suggesting a potential peace deal in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40424680/us-stocks-rise-as-oil-prices-pull-back)*
-- Prime Minister Shehbaz Sharif held consultations with agriculture stakeholders to seek reforms ahead of the federal budget. *[Business Recorder](https://www.brecorder.com/news/40424679/pm-shehbaz-consults-agriculture-stakeholders-ahead-of-budget-announces-reform-push)*
-- The Indian opposition has urged the government to absorb rising crude oil costs to avoid hurting economic growth. *[Business Recorder](https://www.brecorder.com/news/40424678/indias-opposition-urges-government-to-absorb-oil-price-shock-warns-on-growth)*
-- India's fertiliser ministry is seeking to double its subsidy fund due to rising costs stemming from the Iran war. *[Business Recorder](https://www.brecorder.com/news/40424677/indias-fertiliser-ministry-seeks-to-double-subsidy-fund-as-cost-of-iran-war-mounts)*
-- India's 10-year government bond closed at its highest level in seven weeks as oil prices eased. *[Business Recorder](https://www.brecorder.com/news/40424676/india-10-year-bond-logs-best-close-in-7-weeks-as-oil-prices-ease)*
-- The Pakistani Rupee has registered gains against the US Dollar. *[Business Recorder](https://www.brecorder.com/news/40424673/intra-day-update-rupee-records-gain-against-us-dollar)*
-- Malaysian palm oil futures fell to a two-week low due to sluggish export demand. *[Business Recorder](https://www.brecorder.com/news/40424672/palm-falls-to-two-week-low-on-weak-export-demand)*
-- The Indian rupee strengthened following a retreat in global oil prices. *[Business Recorder](https://www.brecorder.com/news/40424671/indian-rupee-gains-as-oil-retreat-soothes-inflow-expectations-erode-weakening-bias)*
-- Pakistan plans to join the International North-South Transport Corridor (INSTC) and link Gwadar Port with Russia. *[Business Recorder](https://www.brecorder.com/news/40424670/pakistan-plans-to-join-instc-eyes-gwadar-link-with-russia)*
-- China's stocks rebounded as bargain hunters targeted the chipmaker sector. *[Business Recorder](https://www.brecorder.com/news/40424667/china-stocks-rebound-as-chipmaker-selloff-lures-bargain-hunters-hong-kong-steady)*
+- **Budget 2026-27** is expected to be presented on Friday, following agreements between federal and provincial governments to implement spending cuts and cover an Rs800bn shortfall. *[Dawn](https://www.dawn.com/news/2006539/budget-2026-27-centre-punjab-sindh-agree-on-spending-cuts)*
+- **Tea prices in Pakistan** may increase due to a proposed 0.8 per cent export levy by the Kenyan government. *[Dawn](https://www.dawn.com/news/2006529-kenyan-export-levy-may-raise-tea-prices)*
+- The **mango industry** is facing challenges as the use of artificial sweeteners in beverages reduces the demand for natural mango-pulp products. *[Dawn](https://www.dawn.com/news/2006524-artificial-sweeteners-hurting-mango-industry)*
+- **Indian shares and the rupee** have faced pressure due to rising tensions in the Middle East and market volatility. *[Business Recorder](https://www.brecorder.com/news/40424801/indian-shares-muted-as-rising-mideast-tensions-weigh)*
+- **Oil prices** rose nearly 1% following US military strikes against targets in Iran. *[Business Recorder](https://www.brecorder.com/news/40424799/oil-rises-nearly-1-as-us-launches-new-strikes-against-iran-supply-tightens)*
+- **Pakistan** aims to join a north-south transport corridor to expand bilateral trade and energy cooperation with Russia. *[Business Recorder](https://www.brecorder.com/news/40424771-pakistan-plans-to-join-north-south-transport-corridor-leghari)*
+- The **Kissan Board Pakistan (KBP)** has called for a five-year National Agricultural Policy to ensure guaranteed returns for farmers. *[Business Recorder](https://www.brecorder.com/news/40424748-kbp-demands-five-year-national-agricultural-policy)*
+- **Punjab** is prioritizing skilled workforce development and has launched the **Parwaaz Card Scheme** to provide interest-free loans to skilled youth. *[Business Recorder](https://www.brecorder.com/news/40424749-punjab-to-prioritise-skilled-workforce-development-minister)*
+- **Punjab Chief Minister** has approved the purchase of 1 million tonnes of wheat from PASSCO to stabilize flour prices. *[Business Recorder](https://www.brecorder.com/news/40424754-punjab-cm-allows-purchase-of-1m-tonnes-of-wheat-from-passco)*
+- **Pakistan and Germany** have identified significant untapped potential for trade diversification and investment expansion. *[Business Recorder](https://www.brecorder.com/news/40424750-pakistan-germany-see-untapped-trade-potential)*
 
 ### Science & Technology
-- India has been overtaken in global market cap rankings by South Korea and Taiwan due to their advancements in AI. *[Business Recorder](https://www.brecorder.com/news/40424686/india-overtaken-as-south-korea-taiwan-ride-ai-wave)*
-- Nintendo has confirmed a remake of the iconic 1998 Zelda title. *[ARY](https://arynews.tv/zelda-ocarina-of-time-remake-announced-by-nintendo)*
-
-### Weather
-- A heatwave is gripping parts of Pakistan, with temperatures exceeding 40°C. *[Dawn](https://www.dawn.com/news/2006384/in-pictures-heatwave-grips-pakistan-as-temperatures-cross-40c)*
+- A **Visa study** shows that 82% of Pakistanis utilize AI tools to assist with their online shopping experiences. *[Dawn](https://www.dawn.com/news/2006530-82pc-pakistanis-use-ai-shopping-finds-visa-study)*
+- Information has been released regarding the **sea drone** used in the rescue of a US helicopter crew. *[ARY](https://arynews.tv/what-is-the-sea-drone-that-rescued-us-helicopter-crew)*
 
 ### Politics
-- The Gilgit-Baltistan Election Commission has barred the consolidation of results in five constituencies until re-polling is completed. *[Dawn](https://www.dawn.com/news/2006362/gb-election-commission-bars-consolidation-of-results-until-re-polling-in-5-constituencies)*
-- A key figure from the JAAC, Syed Faisal Gilani, has distanced himself from the group. *[ARY](https://arynews.tv/jaac-members-leave-amidst-controversy)*
+- **PTI supporters** staged a sit-in near Adiala Jail after family members were denied permission to meet Imran Khan. *[Dawn](https://www.dawn.com/news/2006514-pti-stages-sit-in-after-imrans-sisters-turned-away-from-adiala)*
+- **Islamabad lawyers** are demanding that future appointments to the Islamabad High Court be made from among local lawyers. *[Dawn](https://www.dawn.com/news/2006517-capitals-lawyers-eye-high-court-slots)*
+- **President Zardari** has summoned sessions for the National Assembly and the Senate. *[Dawn](https://www.dawn.com/news/2006413-president-zardari-summons-na-senate-sessions-on-june-10)*
+- A **constitutional and political crisis** is emerging due to disputes between the federal government and provinces over the NFC award. *[Dawn](https://www.dawn.com/news/2006555-centre-vs-provinces)*
+- The **Gilgit-Baltistan Election Commission** has barred the consolidation of election results until re-polling is completed in five constituencies. *[Dawn](https://www.dawn.com/news/2006362-gb-election-commission-bars-consolidation-of-results-until-re-polling-in-5-constituencies)*
+- The **Punjab Assembly** session was criticized by the Speaker due to the absence of several ministers and parliamentary secretaries. *[Business Recorder](https://www.brecorder.com/news/40424753-punjab-pa-session-speaker-irked-by-absence-of-ministers)*
 
 ### National
-- Markets and streets in Muzaffarabad were deserted due to a strike by the newly proscribed Joint Awami Action Committee (JAAC). *[Dawn](https://www.dawn.com/news/2006361/jaac-strike-markets-streets-deserted-in-ajks-muzaffarabad-but-no-demonstrations-held)*
-- The FIA has established FATF desks across all its zones to improve the implementation of international investigation standards. *[Dawn](https://www.dawn.com/news/2006381/fia-establishes-fatf-desks-across-all-zones-to-improve-implementation-of-international-investigation-standards)*
-- Tribal elders in South Waziristan have decried the hardships caused by the dilapidated state of the Wana-Gomal Zam Road. *[Dawn](https://www.dawn.com/news/2006383/south-waziristan-tribal-elders-decry-hardship-as-wana-gomal-zam-road-remains-in-ruins)*
-- Six Frontier Constabulary personnel were martyred during a terrorist attempt to capture a post in Peshawar. *[Dawn](https://www.dawn.com/news/2006354/6-personnel-martyred-as-terrorists-bid-to-capture-frontier-constabulary-post-in-peshawar-foiled-sources)*
-- Security forces killed 14 terrorists during an operation in Balochistan, where one soldier was also martyred. *[Business Recorder](https://www.brecorder.com/news/40424684/soldier-martyred-14-terrorists-killed-in-balochistan-operation-ispr)*
+- **Security operations in Balochistan** resulted in the killing of 14 terrorists and the martyrdom of one soldier in the Naal area. *[Dawn](https://www.dawn.com/news/2006398-soldier-martyred-14-terrorists-killed-during-security-operation-in-balochistans-basima-ispr)*
+- The **FIA** has disciplined over 100 officials for their alleged involvement in human smuggling since the 2023 Greece tragedy. *[Dawn](https://www.dawn.com/news/2006395-fia-disciplines-over-100-officials-over-human-smuggling-links-since-greece-boat-tragedy)*
+- **Protesters clashed with police** in AJK during a general strike that brought cities to a standstill. *[Business Recorder](https://www.brecorder.com/news/40424768-protesters-clash-with-police-in-ajk-as-strike-shutters-cities)*
+- The **Wana-Gomal Zam Road** in South Waziristan is in a state of near collapse due to years of neglect and weather damage. *[Dawn](https://www.dawn.com/news/2006383-south-waziristan-tribal-elders-decry-hardship-as-wana-gomal-zam-road-remains-in-ruins)*
+- **Militants attacked** a checkpoint in Peshawar, martyring six paramilitary personnel and abducting eight others. *[Business Recorder](https://www.brecorder.com/news/40424772-militants-martyr-6-abduct-8-security-personnel-in-peshawar)*
+- The **Passport Department** is set to launch a nationwide doorstep delivery service. *[ARY](https://arynews.tv/passport-department-to-launch-doorstep-delivery-service-nationwide)*
+- A **crime incident** was reported in Karachi's Orangi Town, where a newlywed groom was found dead. *[ARY](https://arynews.tv/karachi-orangi-town-crime-story-june-09-2026)*
 
 ### International
-- The Bahrain National Guard commander met with Pakistan's CDF to discuss strengthening military collaboration. *[Dawn](https://www.dawn.com/news/2006391/bahrain-commander-meets-cdf-munir-discusses-strengthening-military-collaboration-ispr)*
-- India is nearing the completion of a strategic Zojila tunnel in the Himalayas to provide all-weather access to the Ladakh region. *[Dawn](https://www.dawn.com/news/2006369/india-nears-completion-of-strategic-himalayan-tunnel-near-china-border)*
-- Afghan security officials dispersed women's rights protests in Herat, resulting in casualties and arrests. *[Dawn](https://www.dawn.com/news/2006373/afghanistan-police-crack-down-on-anti-hijab-protests-in-herat)*
-- The Lebanese army commander held meetings with Pakistan's CDF to discuss the regional security environment. *[Dawn](https://www.dawn.com/news/2006324/lebanese-army-commander-calls-on-cdf-munir-discusses-regional-security-environment)*
-- A US helicopter crew was rescued by a drone after their Apache gunship went down in the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2006350/us-helicopter-crew-who-went-down-in-strait-of-hormuz-rescued-by-drone)*
-- Pakistan’s envoy to the UN claimed that India's objectives in Afghanistan are driven by a goal to destabilize Pakistan. *[Dawn](https://www.dawn.com/news/2006316/indias-key-objectives-in-afghanistan-solely-driven-by-singular-goal-of-destabilising-pakistan-envoy-tells-unsc)*
-- A US judge has blocked a controversial Trump administration rule that would have imposed a $100,000 fee for H-1B visas. *[Dawn](https://www.dawn.com/news/2006330/us-judge-blocks-trumps-100000-fee-for-h-1b-visas)*
-- Chinese President Xi Jinping completed a visit to North Korea, noting a deeper understanding and expanded cooperation. *[Dawn](https://www.dawn.com/news/2006357/chinas-xi-hails-deeper-understanding-at-end-of-north-korea-summit)*
-- A major earthquake in the Philippines has left 41 dead and thousands displaced. *[Dawn](https://www.dawn.com/news/2006345/outdoor-hospitals-cut-off-communities-as-philippine-quake-toll-hits-41)*
-- Israel launched deadly strikes on the city of Tyre in southern Lebanon. *[Business Recorder](https://www.brecorder.com/news/40424675/israel-launches-deadly-strikes-on-lebanons-tyre-after-warning)*
-- US officials report that ship traffic through the Strait of Hormuz is rising significantly due to the conflict with Iran. *[Business Recorder](https://www.brecorder.com/news/40424682/us-energy-secretary-says-ship-traffic-through-strait-of-hormuz-rising-very-meaningfully)*
+- The **US Pentagon** has accused Chinese companies, including Alibaba, Baidu, and BYD, of aiding China's military. *[Dawn](https://www.dawn.com/news/2006508-pentagon-accuses-byd-baidu-alibaba-of-aiding-chinas-military)*
+- **India** is nearing the completion of the strategic Zojila tunnel in the Himalayas to provide all-weather access to the Ladakh region. *[Dawn](https://www.dawn.com/news/2006369-india-nears-completion-of-strategic-himalayan-tunnel-near-china-border)*
+- **Iran** has reportedly targeted US bases in Kuwait and Bahrain. *[ARY](https://arynews.tv/iran-targets-us-bases-in-kuwait-bahrain)*
+- **France** has banned Israeli Finance Minister Bezalel Smotrich from entering the country as part of coordinated sanctions. *[Business Recorder](https://www.brecorder.com/news/40424767-france-bans-israeli-minister-in-coordinated-sanctions-push)*
+- **Palestinian factions** in Cairo have discussed a proposal for Gaza's armed groups to hand over parts of their arsenals. *[Business Recorder](https://www.brecorder.com/news/40424766-rival-palestinian-factions-discuss-gaza-disarmament)*
 
 ### Sports
-- The ICC rated Lahore's Gaddafi Stadium and Lord's as "unsatisfactory" due to poor pitch conditions. *[Dawn](https://www.dawn.com/news/2006387/icc-rates-lahores-gaddafi-stadium-unsatisfactory-after-slow-pitch-in-pakistan-australia-odi)*
-- England captain Ben Stokes and teammate Gus Atkinson are under investigation for a nightclub incident. *[Dawn](https://www.dawn.com/news/2006234/stokes-atkinson-under-probe-for-nightclub-incident)*
-- Pakistan plans to establish coastal sports academies and cricket training centers as part of its blue economy vision. *[Business Recorder](https://www.brecorder.com/news/40424669/pakistan-plans-coastal-sports-academies-under-blue-economy-vision)*
+- **Somali referee** Omar Abdulkadir Artan will miss his World Cup debut after being denied entry to the United States. *[Dawn](https://www.dawn.com/news/2006410-somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut)*
+- The **ICC** rated Lahore’s Gaddafi Stadium as “unsatisfactory” due to a slow pitch during a recent Pakistan-Australia ODI. *[Dawn](https://www.dawn.com/news/2006387-icc-rates-lahores-gaddafi-stadium-unsatisfactory-after-slow-pitch-in-pakistan-australia-odi)*
 
 ### Health
-- Cancer patients in Punjab are to receive Rs 1 million for medical treatment. *[ARY](https://arynews.tv/cancer-patients-to-get-rs1million-for-treatment-in-punjab)*
-- A Lahore heart surgeon is under scrutiny for allegedly charging 1 million for an operation advertised as "free." *[ARY](https://arynews.tv/lahore-heart-surgeon-charges-1m-for-free-operation)*
+- **Smoking** is estimated to claim 164,000 lives annually in Pakistan, costing the country Rs 422 billion in healthcare and lost productivity. *[Business Recorder](https://www.brecorder.com/news/40424755-smoking-claims-estimated-164000-lives-every-year-in-pakistan-report)*
 
 ### Other
-- Environmentalists have raised alarms following the killing of flamingos at Islamabad's Rawal Lake. *[Dawn](https://www.dawn.com/news/2006212/flamingos-killing-at-islamabads-rawal-lake-raises-alarm)*
-- Katy Perry reflected on 2025 being the hardest year of her life. *[ARY](https://arynews.tv/katy-perry-reflects-on-orlando-split-calling-2025-the-hardest-year-of-her-life)*
-- Dubai is offering single-entry tourist visas within a 48-hour timeframe. *[ARY](https://arynews.tv/dubai-offers-single-entry-visas-to-visitors-within-48-hours)*
-- Jennifer Lopez shared an emotional update regarding her twins leaving for college. *[ARY](https://arynews.tv/jennifer-lopez-emotional-over-twins-max-and-emme-leaving-for-college)*
-- Sonam Kapoor clarified her comments regarding Aishwarya Rai. *[ARY](https://arynews.tv/sonam-kapoor-on-calling-aishwarya-aunty-she-worked-with-my-dad)*
+- **Taylor Swift** appeared at the 'Toy Story 5' premiere. *[ARY](https://arynews.tv/taylor-swift-stuns-in-whimsical-white-minidress-at-toy-story-5-premiere)*
+- **Hugh Jackman** has been cast to play Long John Silver in Ridley Scott’s upcoming 'Treasure Island'. *[ARY](https://arynews.tv/hugh-jackman-to-play-long-john-silver-in-ridley-scotts-treasure-island)*
 
