@@ -7,56 +7,61 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 10-Jun-2026 09:10PKT 
+ &lrm; 11-Jun-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- بجٹ 2026-27 کے لیے وفاقی اور صوبائی حکومتوں نے اخراجات میں کٹوتی پر اتفاق کیا ہے تاکہ 800 ارب روپے کے خسارے کو پورا کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2006539/budget-2026-27-centre-punjab-sindh-agree-on-spending-cuts)*
-- کینیا کی جانب سے چائے پر برآمدی لیوی لگانے کے فیصلے سے پاکستان میں چائے کی قیمتیں بڑھنے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2006529-kenyan-export-levy-may-raise-tea-prices)*
-- مصنوعی مٹھاس کے بڑھتے ہوئے استعمال سے پاکستان میں آم کی صنعت اور قدرتی آم کے گودے کی مصنوعات کی مانگ متاثر ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2006524-artificial-sweeteners-hurting-mango-industry)*
-- مالی سال 2026-27 کا بجٹ 12 جون کو پارلیمنٹ میں پیش کیے جانے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2006338-budget-likely-to-be-announced-on-june-12-says-minister)*
-- نیشنل اکنامک کونسل (NEC) 4.46 ٹریلین روپے کے ترقیاتی بجٹ کا جائزہ لینے کے لیے اجلاس کرے گی۔ *[ARY](https://arynews.tv/nec-meeting-set-to-review-development-budget)*
-- مشرق وسطیٰ میں کشیدگی کے باعث بھارتی اسٹاک مارکیٹ میں استحکام نہیں رہا اور بھارتی روپے کے کمزور ہونے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424801/indian-shares-muted-as-rising-mideast-tensions-weigh)*
-- امریکہ کی جانب سے ایران پر حملوں کے بعد عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424799/oil-rises-nearly-1-as-us-launches-new-strikes-against-iran-supply-tightens)*
-- بحیرہ عمان سے قطری کنٹرول کے تحت ایل این جی (LNG) کے ٹینکروں کی آمد و رفت جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424769-fifth-qatari-controlled-lng-tanker-exits-hormuz)*
-- لاہور ہائی کورٹ نے آئی پی پیز (IPPs) کے کیپیسٹی پیمنٹ میکانزم کو چیلنج کرنے والی درخواست خارج کر دی۔ *[Business Recorder](https://www.brecorder.com/news/40424770-plea-challenging-capacity-payment-mechanism-for-ipps-dismissed)*
-- پاکستان نارتھ ساؤتھ ٹرانسپورٹ کوریڈور میں شامل ہونے کی منصوبہ بندی کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424771-pakistan-plans-to-join-north-south-transport-corridor-leghari)*
-- کسان بورڈ پاکستان نے پانچ سالہ قومی زرعی پالیسی کے نفاذ کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424748-kbp-demands-five-year-national-agricultural-policy)*
-- پنجاب حکومت نوجوانوں کی مہارت بڑھانے کے لیے 'پرواز کارڈ اسکیم' کے ذریعے بلا سود قرضے فراہم کرنے کی تیاری کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424751-psdf-bop-agree-to-launch-parwaaz-card-scheme)*
-- پاکستان اور جرمنی کے درمیان تجارتی شعبے میں وسعت کے لیے وسیع مواقع موجود ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424750-pakistan-germany-see-untapped-trade-potential)*
-- پنجاب کے وزیر اعلیٰ نے گندم کی قیمتوں کو مستحکم کرنے کے لیے PASSCO سے گندم کی خریداری کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424754-punjab-cm-allows-purchase-of-1m-tonnes-of-wheat-from-passco)*
+- مالی سال 26 میں پاکستان کی جی ڈی پی شرح نمو 3.7 فیصد رہی، جو گزشتہ سال سے بہتر ہے لیکن مقررہ ہدف سے کم ہے۔ *[Dawn](https://www.dawn.com/news/2006877/economy-grows-37pc-in-fy26-fastest-in-four-years-but-short-of-target)*
+- نیشنل اکنامک کونسل نے وفاقی اور صوبائی ترقیاتی منصوبوں کے بجٹ میں کٹوتی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2006793/budget-2026-27-nec-trims-uplift-plans-punjab-takes-biggest-hit)*
+- آنے والے بجٹ میں کچھ تنخواہ دار طبقے کے لیے ٹیکس میں ریلیف کا امکان ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2006790/income-tax-may-fall-for-some-salaried-segments)*
+- اسٹیٹ بینک کے پاس غیر ملکی زر مبادلہ کے ذخائر میں 25 ملین ڈالر کا اضافہ ہو کر یہ 17.22 ارب ڈالر تک پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40425061/sbp-held-forex-reserves-rise-by-25mn-to-1722bn)*
+- پاکستان میں بے روزگاری کی شرح بڑھ کر 7.1 فیصد ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425059/economic-survey-pakistans-unemployment-rose-to-71)*
+- پاکستان کا بیرونی قرضہ مالی سال 26 کے دوران بڑھ کر 92.2 ارب ڈالر تک پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425053/pakistans-external-debt-rose-922bn-in-fy26-reveals-economic-survey)*
+- بنگلہ دیش نے 77 ارب ڈالر کا نیا بجٹ پیش کیا ہے جس میں 6.5 فیصد معاشی ترقی کا ہدف رکھا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425057/bangladesh-unveils-77-billion-budget-eyes-6-5-growth)*
+- مشرق وسطیٰ میں بڑھتی ہوئی کشیدگی کے باعث خلیجی ممالک کی اسٹاک مارکیٹوں میں گراوٹ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40425062/most-gulf-markets-dip-amid-fresh-escalation-in-middle-east-conflict)*
+- بھارتی کمپنیوں نے قرضے کے حصول کے لیے مارکیٹ میں تیزی دکھائی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425045/india-sees-3bn-debt-fundraising-rush-as-yields-slump-after-rbi-moves-bankers-say)*
+- سعودی ڈویلپر 'ام القریٰ' نے 50 ارب ریال کا نیا ترقیاتی حکمت عملی کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425049/saudi-developer-umm-al-qura-unveils-sar-50bn-growth-strategy-accelerates-multi-city-expansion-across-western-saudi-arabia)*
+- سری لنکا کے اسٹاک مارکیٹ میں مسلسل گراوٹ کا رجحان برقرار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425047/sri-lankan-shares-extend-decline-as-broad-losses-weigh)*
 
 ### سائنس اور ٹیکنالوجی
-- ایک حالیہ تحقیق کے مطابق پاکستان میں 82 فیصد لوگ خریداری کے لیے مصنوعی ذہانت (AI) کے ٹولز کا استعمال کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2006530-82pc-pakistanis-use-ai-shopping-finds-visa-study)*
+- منگولیا کو دو دہائیوں کے بعد سمگل کیے گئے ڈائنوسار کے ڈھانچے اور فوسلز واپس مل گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2006912/smuggled-dinosaur-fossils-return-to-mongolia-after-two-decades)*
+- بھارتی اسٹارٹ اپ 'SatSure' کو مصنوعی ذہانت کے ذریعے زمین کے مشاہدے کے ماڈلز بنانے کے لیے گرانٹ ملی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425042/indias-satsure-bags-2-6-million-grant-to-build-ai-powered-earth-observation-models)*
+
+### موسم
+- امریکی ایجنسی NOAA کے مطابق 'ایل نینو' کے موسمیاتی رجحان کا آغاز ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2006917/weather-pattern-el-nino-has-begun-says-us-agency-noaa)*
+- کراچی میں شدید گرمی کی لہر، محسوس ہونے والا درجہ حرارت 54 ڈگری سیلسیس تک پہنچ گیا۔ *[Dawn](https://www.dawn.com/news/2006711/karachi-sizzles-as-feels-like-temperature-climbs-to-54c)*
 
 ### سیاست
-- عمران خان کی فیملی کو جیل میں ملاقات سے روکنے پر پی ٹی آئی کے کارکنوں نے احتجاجی دھرنا دیا۔ *[Dawn](https://www.dawn.com/news/2006514-pti-stages-sit-in-after-imrans-sisters-turned-away-from-adiala)*
-- اسلام آباد کے وکلاء نے اسلام آباد ہائی کورٹ میں تقرریوں کے لیے مقامی وکلاء کو ترجیح دینے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2006517-capitals-lawyers-eye-high-court-slots)*
-- صدر زرداری نے قومی اسمبلی اور سینٹ کے اجلاس طلب کر لیے ہیں۔ *[Dawn](https://www.dawn.com/news/2006413-president-zardari-summons-na-senate-sessions-on-june-10)*
-- گلگت بلتستان الیکشن کمیشن نے پانچ حلقوں میں دوبارہ پولنگ تک نتائج کی تصدیق روک دی ہے۔ *[Dawn](https://www.dawn.com/news/2006362-gb-election-commission-bars-consolidation-of-results-until-re-polling-in-5-constituencies)*
-- پنجاب اسمبلی کے اجلاس میں وزراء کی غیر موجودگی پر سپیکر نے سخت برہمی کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40424753-punjab-pa-session-speaker-irked-by-absence-of-ministers)*
-- پنجاب میں حکومتی اداروں میں اصلاحات اور میرٹ کی بنیاد پر بھرتیوں کے عمل پر زور دیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424752-cm-spearheading-comprehensive-institutional-reforms-azma)*
+- دفاعی وزیر خواجہ آصف نے مطالبہ کیا کہ آزاد کشمیر کے ووٹرز کو چاہیے کہ وہ ریفیوجی نشستوں کا فیصلہ خود کریں۔ *[Dawn](https://www.dawn.com/news/2006895/khawaja-asif-urges-jaac-to-let-ajk-voters-decide-fate-of-refugee-seats)*
+- قومی اسمبلی میں پی ٹی آئی کے ایم این اے اقبال آفریدی کو بدتمیزی کے الزام میں معطل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2006911/na-suspends-pti-mna-iqbal-afridi-for-budget-session-over-alleged-misconduct-with-staff-police)*
+- پیپلز پارٹی اور مسلم لیگ ن کے وفود نے گلگت بلتستان میں حکومت بنانے کے حوالے سے مشاورت کی۔ *[Dawn](https://www.dawn.com/news/2006848/ppp-pml-n-delegations-discuss-formula-to-form-gb-govt-at-gilgit-huddle)*
+- سینٹ کو بتایا گیا کہ آزاد کشمیر کی ریفیوجی نشستیں ختم نہیں کی جا سکتیں۔ *[Dawn](https://www.dawn.com/news/2006772/ajk-refugee-seats-cannot-be-abolished-senate-told)*
 
 ### قومی
-- بلوچستان کے ضلع باسمہ میں سکیورٹی آپریشن کے دوران ایک سپاہی شہید اور 14 دہشت گرد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2006398-soldier-martyred-14-terrorists-killed-during-security-operation-in-balochistans-basima-ispr)*
-- بحرین کے کمانڈر نے پاکستان کے چیف آف ڈیفنس فورسز سے ملاقات کی اور فوجی تعاون بڑھانے پر بات چیت کی۔ *[Dawn](https://www.dawn.com/news/2006391-bahrain-commander-meets-cdf-munir-discusses-strengthening-military-collaboration-ispr)*
-- ایف آئی اے نے انسانی اسمگلنگ میں ملوث ہونے پر 100 سے زائد افسران کے خلاف تادیبی کارروائی کی۔ *[Dawn](https://www.dawn.com/news/2006395-fia-disciplines-over-100-officials-over-human-smuggling-links-since-greece-boat-tragedy)*
-- آزاد جموں و کشمیر میں ہڑتال اور پولیس کے ساتھ جھڑپوں کے نتیجے میں کشیدگی پیدا ہوئی۔ *[Dawn](https://www.dawn.com/news/2006540-sedition-cases-head-money-against-jaac-leaders-ordered)*
-- جنوبی وزیرستان کے قبائلی رہنماؤں نے تباہ حال سڑکوں کی وجہ سے ہونے والی مشکلات پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2006383-south-waziristan-tribal-elders-decry-hardship-as-wana-gomal-zam-road-remains-in-ruins)*
-- پشاور میں ٹی ٹی پی کے دہشت گردوں نے چیک پوسٹ پر حملہ کر کے 6 اہلکاروں کو شہید اور 8 کو اغوا کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40424772-militants-martyr-6-abduct-8-security-personnel-in-peshawar)*
-- بلوچستان کے ضلع خضدار میں سکیورٹی فورسز نے ایک آپریشن میں 14 دہشت گردوں کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40424747-security-forces-kill-14-terrorists-in-khuzdar)*
+- فیڈرل کانسٹٹیوشنل کورٹ نے مارگلہ ہلز میں ریسٹورنٹوں کی مسماری کے سپریم کورٹ کے فیصلے پر سوالات اٹھائے۔ *[Dawn](https://www.dawn.com/news/2006896/fcc-rev-cda-monal)*
+- سپریم کورٹ نے عمران خان کے خلاف دی گئی 10 ارب روپے کی ہتک آمیز دعوے کی سماعت میں ان کے دفاع کا حق بحال کر دیا۔ *[Dawn](https://www.dawn.com/news/2006907/sc-sets-aside-order-closing-imrans-right-to-defence-in-rs10bn-defamation-suit-by-pm-shehbaz)*
+- وزیراعظم شہباز شریف نے پاکستان ریلوے کی اصلاحات کے لیے ایک جامع روڈ میپ منظور کیا۔ *[Dawn](https://www.dawn.com/news/2006902/pm-shehbaz-approves-strategic-roadmap-for-comprehensive-reforms-in-pakistan-railways)*
+- پنجاب کی جانب سے پانی کے زیادہ استعمال کے باعث سندھ اور بلوچستان میں پانی کی شدید قلت کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2006698/punjab-draws-excess-water-as-sindh-and-balochistan-face-severe-shortages)*
+- وزیراعظم نے 'اپنا گھر اسکیم' کے تحت درخواستوں پر تیزی سے کارروائی کرنے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40425056/pm-shehbaz-directs-faster-processing-of-apna-ghar-scheme-applications)*
 
 ### بین الاقوامی
-- امریکہ نے چینی کمپنیوں (BYD، Baidu، Alibaba) پر چینی فوج کی مدد کرنے کا الزام عائد کیا ہے۔ *[Dawn](https://www.dawn.com/news/2006508-pentagon-accuses-byd-baidu-alibaba-of-aiding-chinas-military)*
-- بھارت نے چین کی سرحد کے قریب ہمالیہ میں ایک اہم سٹریٹجک سرنگ کی تعمیر مکمل کرنے کے قریب کامیابی حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2006369-india-nears-completion-of-strategic-himalayan-tunnel-near-china-border)*
-- غزہ میں مسلح گروپوں کی غیر مسلح کرنے کے حوالے سے فلسطینی دھڑوں کے درمیان بات چیت ہوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424766-rival-palestinian-factions-discuss-gaza-disarmament)*
-- فرانس نے فلسطینیوں کے خلاف تشدد کے مرتکب ہونے پر اسرائیلی وزیر پر پابندی عائد کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40424767-france-bans-israeli-minister-in-coordinated-sanctions-push)*
+- پاکستان کے دفتر خارجہ نے بھارت کی جانب سے پانی روکنے کی کسی بھی کوشش پر سخت ردعمل کا انتباہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2006857/any-attempt-to-block-water-will-have-far-reaching-consequences-warns-fo-after-indian-ministers-remarks)*
+- امریکہ اور ایران کے درمیان جنگی صورتحال میں اضافہ، دونوں ممالک نے ایک دوسرے پر حملے کیے۔ *[Dawn](https://www.dawn.com/news/2006839/us-iran-hit-each-other-again-as-hopes-for-quick-peace-deal-fade)*
+- ڈونلڈ ٹرمپ نے ایران کے تیل اور گیس کے انفراسٹرکچر پر کنٹرول حاصل کرنے کے ارادے کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425055/trump-says-us-will-hit-iran-very-hard-take-control-of-energy-infrastructure)*
+- بھارت نے امریکی حملوں کے بعد بحری جہازوں پر حملوں کو روکنے کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425054/india-demands-end-to-us-attacks-on-ships-after-three-sailors-killed)*
+- یوکے نے رائن ایئر (Ryanair) کے خلاف بچوں کے ساتھ بیٹھنے کے لیے فیس وصول کرنے پر تحقیقات شروع کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2006872/uk-probes-ryanair-over-fees-for-parents-to-sit-with-children)*
+- بھارت کی ریاست منی پور میں مسلح افراد کے حملوں میں دو افراد جاں بحق ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40425036/two-killed-in-attacks-by-armed-men-in-indias-restive-manipur-state-police-say)*
+- اقوام متحدہ میں پاکستان نے بین الثقافتی مکالمے کی اہمیت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2006840/at-un-pakistan-terms-inter-civilisation-dialogue-key-to-addressing-contemporary-challenges)*
 
 ### کھیل
-- صومالی ریفری کو امریکہ داخل ہونے سے روک دیا گیا جس کی وجہ سے وہ ورلڈ کپ میں حصہ نہیں لے سکیں گے۔ *[Dawn](https://www.dawn.com/news/2006410-somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut)*
-- آئی سی سی نے لاہور کے گڈافی اسٹیڈیم کی پچ کو "غیر تسلی بخش" قرار دے دیا۔ *[Dawn](https://www.dawn.com/news/2006387-icc-rates-lahores-gaddafi-stadium-unsatisfactory-after-slow-pitch-in-pakistan-australia-odi)*
+- پاکستان نے افغانستان کو ہرا کر فٹ بال ٹورنامنٹ کا ٹائٹل جیتا۔ *[Dawn](https://www.dawn.com/news/2006723/pakistan-down-afghanistan-to-win-a-trophy-after-74-years)*
+- فیفا ورلڈ کپ کا آغاز ہو رہا ہے جس میں 48 ٹیمیں حصہ لے رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2006874/fifa-world-cup-set-for-kickoff-after-high-ticket-prices-visa-issues-dog-buildup)*
+- بنگلہ دیش نے آسٹریلیا کو ہرا کر تاریخی ون ڈے سیریز جیت لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425058/bangladesh-stun-australia-to-claim-maiden-odi-series-win)*
+- ومبلڈن نے انعامات کی رقم میں 20 فیصد اضافے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425048/wimbledon-announces-record-20-rise-in-prize-money)*
+- صومالی ریفری عمر آرٹن کو یو ای ایف اے سپر کپ کی آفیشلیٹنگ کے لیے نامزد کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425060/somali-referee-banned-by-us-to-officiate-uefa-super-cup)*
 
-### صحت
-- رپورٹ کے مطابق پاکستان میں تمباکو نوشی کے باعث سالانہ 164,000 اموات ہو رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40424755-smoking-claims-estimated-164000-lives-every-year-in-pakistan-report)*
+### دیگر
+- دس سالہ امریکی فیشن ڈیزائنر میکس الیگزینڈر نے عالمی سطح پر اپنی پہچان بنائی۔ *[Business Recorder](https://www.brecorder.com/news/40425052/ten-year-old-american-fashion-designer-shuttles-between-school-and-runways)*
+- برطانوی شاہی خاندان کے بچوں کے لیے سخت سکیورٹی کے اقدامات کا اعلان۔ *[ARY](https://arynews.tv/king-charles-grandkids-archie-and-lilibet-face-tight-security-on-royal-visits)*
 
