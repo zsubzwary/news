@@ -4,55 +4,46 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Jun-2026 09:05PKT
+Published at: 12-Jun-2026 21:04PKT
 
-Time to read: 5 mins
+Time to read: 3 mins
 
 ### Economy
-- The Pakistan Economic Survey 2025-26 reports a GDP growth of 3.7%, the fastest in four years, though it fell short of the 4.2% target. *[Dawn](https://www.dawn.com/news/2006877/economy-grows-37pc-in-fy26-fastest-in-four-years-but-short-of-target)*
-- Indigenous energy sources, including hydel, renewable, and nuclear, have overtaken thermal power in installed generation capacity for the first time. *[Dawn](https://www.dawn.com/news/2007211/indigenous-energy-sources-overtake-thermal-power)*
-- Pakistan's digital economy is expanding, with the 5G spectrum auction raising $509.6 million and broadband penetration reaching 64.2%. *[Dawn](https://www.dawn.com/news/2007210/economic-survey-2025-26-digital-economy-grows-as-it-sector-posts-gains)*
-- The federal budget for the 2026-27 fiscal year is scheduled to be unveiled today by Finance Minister Muhammad Aurangzeb. *[Business Recorder](https://www.brecorder.com/news/40425176/pakistan-to-announce-fy2026-27-budget-today)*
-- The Indian rupee is expected to rise following a drop in oil prices linked to hopes for a breakthrough in Iran-US negotiations. *[Business Recorder](https://www.brecorder.com/news/40425174/rupee-set-to-jump-after-oil-sinks-on-iran-us-breakthrough-hopes)*
-- Global stocks have rallied on Middle East peace hopes, and SpaceX has made history with a record-breaking $75 billion IPO. *[Business Recorder](https://www.brecorder.com/news/40425172/stocks-extend-rally-on-gulf-breakthrough-hopes-oil-near-two-month-lows)*
-- The Punjab Revenue Authority (PRA) reported a significant increase in tax collections, gathering over Rs33.7 billion in May 2026. *[Business Recorder](https://www.brecorder.com/news/40425135/pras-collects-over-rs337bn-in-may)*
-- Spanish companies have been invited to explore investment opportunities within Pakistan's power sector, focusing on transmission and digitalization. *[Business Recorder](https://www.brecorder.com/news/40425131/leghari-invites-spanish-companies-to-invest-in-power-sector)*
+- Pakistan's government has unveiled a **Rs18.8 trillion budget** for FY2026-27, targeting 4% GDP growth, implementing income tax cuts for certain earners, and proposing a 10% increase in the minimum wage. *[Dawn](https://www.dawn.com/news/2007283/govt-unveils-rs188tr-budget-for-fy2026-27-gdp-growth-targeted-at-4pc)*
+- The **Economic Survey 2025-26** reveals that the national poverty rate has surged to 28.9%, pushing approximately 27 million additional people into financial distress. *[Dawn](https://www.dawn.com/news/2007204/economic-survey-2026-27-poverty-surges-7pc-pushing-27m-people-into-financial-distress)*
+- President Zardari has approved the necessary legal formalities to proceed with the **privatization of Pakistan International Airlines (PIA)**. *[Dawn](https://www.dawn.com/news/2007262/president-zardari-approves-bill-fulfilling-all-legal-formalities-for-pias-privatisation)*
+- Elon Musk has become the world's first **trillionaire** following the SpaceX IPO. *[Dawn](https://www.dawn.com/news/2007278/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire)*
+- Global market updates include volatility in the **S&P 500**, surges in **UAE and Sri Lankan shares**, and news regarding **India's inflation** and fuel purchase curbs. *[Business Recorder](https://www.brecorder.com/news/40425241/sampp-500-volatile-in-choppy-trading-mideast-deal-spacex-debut-in-focus)* / *[Business Recorder](https://www.brecorder.com/news/40425232/uae-shares-hit-two-month-high-as-hopes-grow-for-iran-us-deal)* / *[Business Recorder](https://www.brecorder.com/news/40425226/indias-inflation-accelerates-to-3.93-in-may-remains-a-tad-below-rbi-target)*
+
+### Science & Technology
+- **Meta** reported widespread outages affecting access to Facebook and Instagram services for thousands of users. *[Dawn](https://www.dawn.com/news/2007342/metas-social-networks-down-for-thousands-of-users)*
 
 ### Weather
-- Pakistan recorded its second-warmest year in 65 years in 2025, heightening systemic risks and flood potential. *[Dawn](https://www.dawn.com/news/2007224/pakistan-experiences-back-to-back-warmest-years)*
-- The US NOAA agency has confirmed the arrival of the El Nino weather pattern, which is expected to intensify by the end of the year. *[Dawn](https://www.dawn.com/news/2006917/weather-pattern-el-nino-has-begun-says-us-agency-noaa)*
+- Pakistan has recorded its **second-warmest year in 65 years** in 2025, raising concerns regarding extreme heat and systemic environmental risks. *[Dawn](https://www.dawn.com/news/2007224/pakistan-experiences-back-to-back-warmest-years)*
 
 ### Politics
-- The Supreme Court has restored the right of defense for Imran Khan in a Rs10 billion defamation case filed by Prime Minister Shehbaz Sharif. *[Business Recorder](https://www.brecorder.com/news/40425129/right-of-defence-restored-ik-gets-sc-relief-in-pm-defamation-case)*
-- National Assembly Speaker Ayaz Sadiq has suspended PTI MNA Iqbal Afridi for the duration of the budget session due to repeated misconduct. *[Business Recorder](https://www.brecorder.com/news/40425137/speaker-suspends-pti-mnas-membership)*
-- PTI-led opposition parties have threatened nationwide protests if ex-premier Imran Khan is denied his preferred medical treatment. *[Business Recorder](https://www.brecorder.com/news/40425132/ik-medical-treatment-opposition-threatens-protest-during-budget-session)*
-- The PPP has firmly rejected any proposals to place Karachi under federal administration, citing the importance of provincial autonomy. *[Business Recorder](https://www.brecorder.com/news/40425134/ppp-rejects-proposal-for-federal-control-of-karachi)*
-- PTI has dismissed the government's Economic Survey as a "politically motivated document" that misrepresents the true economic state. *[Business Recorder](https://www.brecorder.com/news/40425136/pti-terms-economic-survey-politically-motivated-document)*
-- The Islamabad High Court reissued a notice to PTI Chairman Gohar Ali Khan regarding the closure of Imran Khan’s social media account. *[Dawn](https://www.dawn.com/news/2007201/ptis-gohar-ali-khan-summoned-over-imrans-social-media-activity)*
-- The Chief Election Commissioner stated that the final notification for the Gilgit-Baltistan election results will be issued within 14 days. *[Dawn](https://www.dawn.com/news/2007059/gb-election-results-taking-time-to-be-finalised-but-notification-to-be-issued-within-14-days-cec)*
-- Defence Minister Khawaja Asif urged the JAAC to allow voters to decide the fate of the 12 refugee seats in AJK. *[Dawn](https://www.dawn.com/news/2006895/khawaja-asif-urges-jaac-to-let-ajk-voters-decide-fate-of-refugee-seats)*
-- The Khyber Pakhtunkhwa government reported a victory in safeguarding provincial financial rights during a National Economic Council meeting. *[Business Recorder](https://www.brecorder.com/news/40425130/kp-govt-secures-major-victory-for-provincial-rights-at-nec-minister)*
+- Prime Minister Shehbaz Sharif emphasized the critical need for **strong national security** during a federal cabinet meeting to approve the national budget. *[Dawn](https://www.dawn.com/news/2007306/pm-shehbaz-stresses-importance-of-strong-security-ahead-of-budget-presentation)*
+- The PML-N has announced its decision to support the **PPP in forming the government** in Gilgit-Baltistan. *[Business Recorder](https://www.brecorder.com/news/40425244/pm-shehbaz-invites-majority-party-ppp-to-form-govt-in-gb)*
 
 ### National
-- The first Hangor-class submarine has arrived at Karachi Port, marking a major milestone in the Pakistan Navy’s modernization. *[Dawn](https://www.dawn.com/news/2007071/first-hangor-class-submarine-arrives-at-karachi-port)*
-- Chief of Defence Forces Syed Asim Munir met with the Turkish Land Forces commander to discuss enhanced bilateral defense cooperation. *[Dawn](https://www.dawn.com/news/2007045/cdf-munir-discusses-enhanced-defence-cooperation-with-turkish-land-forces-commander)*
-- The Federal Constitutional Court (FCC) reviewed its institutional performance and progress during its first six months of operation. *[Business Recorder](https://www.brecorder.com/news/40425126/full-court-meeting-reviews-fccs-first-six-months-performance)*
-- Prime Minister Shehbaz Sharif and the CDF attended the funeral of the martyrs of a recent MI-17 helicopter crash in Muzaffarabad. *[Business Recorder](https://www.brecorder.com/news/40425121/pm-cdf-attend-funeral-of-mi-17-helicopter-crash-martyrs)*
-- A strike in Azad Jammu and Kashmir (AJK) led to clashes with law enforcement, resulting in one death and four injuries. *[Dawn](https://www.dawn.com/news/2007228/ajk-remains-shut-for-third-straight-day)*
-- The FCC has raised questions regarding a Supreme Court judgment that allowed for the demolition of restaurants in Margalla Hills National Park. *[Dawn](https://www.dawn.com/news/2006896/fcc-rev-cda-monal)*
-- The MD of Pakistan State Oil (PSO) met with the SAPM for Digital Media to discuss digital transformation and public service delivery. *[Business Recorder](https://www.brecorder.com/news/40425122/pso-md-extends-hajj-greetings-to-sapm-fahd)*
+- Former senator **Taj Muhammad Afridi** passed away following a fatal vehicle accident on the M-1 motorway. *[Dawn](https://www.dawn.com/news/2007313/former-senator-taj-afridi-dies-in-m-1-motorway-crash)*
+- The **Supreme Court** has lifted austerity measures, including reduced fuel allocations and four-day work weeks, previously implemented due to petroleum supply disruptions. *[Dawn](https://www.dawn.com/news/2007324/supreme-court-to-lift-austerity-measures-from-june-15)*
+- The **Pakistan Army team** clinched first position at an international military drill competition held in the United Kingdom. *[Dawn](https://www.dawn.com/news/2007266/pakistan-secures-top-position-at-international-military-drill-competition-in-uk-ispr)*
+- Security incidents reported include **targeted killings** of policemen in Bannu and a **thwarted suicide attack** in Lakki Marwat that resulted in the death of a child. *[Dawn](https://www.dawn.com/news/2007254/2-policemen-martyred-in-separate-targeted-attacks-in-bannu)* / *[Business Recorder](https://www.brecorder.com/news/40425231/child-martyred-five-injured-as-suicide-attack-bid-foiled-in-lakki-marwat)*
+- Eleven individuals were arrested in Karachi for participating in a rally supporting MQM founder **Altaf Hussain**. *[Dawn](https://www.dawn.com/news/2007280/11-arrested-in-karachi-for-slogans-flags-supporting-mqm-founder-altaf-hussain)*
 
 ### International
-- US President Donald Trump has unveiled a significant Iran deal, with signing expected to take place in Europe. *[Dawn](https://www.dawn.com/news/2007227/trump-unveils-great-iran-deal-signing-expected-in-europe)*
-- The Foreign Office warned that any attempt by India to block Pakistan's water supply could be treated as an act of war. *[Dawn](https://www.dawn.com/news/2006857/any-attempt-to-block-water-will-have-far-reaching-consequences-warns-fo-after-indian-ministers-remarks)*
-- Thailand's eldest princess, Bajrakitiyabha Narendira Debyavati, has died at age 47 following a long illness. *[Business Recorder](https://www.brecorder.com/news/40425175/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says)*
-- A Ukrainian attack on Russia's Bryansk border region resulted in two deaths and ten injuries. *[Business Recorder](https://www.brecorder.com/news/40425173/two-killed-10-injured-in-ukraine-attack-on-russias-border-bryansk-region-governor-says)*
-- Deputy PM Ishaq Dar held discussions with the Foreign Ministers of Türkiye and Egypt regarding the Middle East situation. *[Business Recorder](https://www.brecorder.com/news/40425120/dar-talks-to-fms-of-turkiye-amp-egypt-on-me-situation)*
+- **India and Bangladesh** have agreed to enhance cooperation through coordinated border patrols and intelligence sharing to manage migrant tensions. *[Dawn](https://www.dawn.com/news/2007264/bangladesh-india-to-coordinate-patrols-on-border-share-intelligence-amid-migrant-tensions)*
+- Diplomatic tensions persist regarding a **proposed memorandum** to end the conflict in the Gulf, with U.S. President Trump criticizing terms perceived to favor Iran. *[Business Recorder](https://www.brecorder.com/news/40425245/trump-bristles-over-memorandum-text-that-appears-to-favour-iran)*
+- Investigators are still analyzing evidence from the **Air India Boeing 787 crash** one year after the disaster. *[Business Recorder](https://www.brecorder.com/news/40425238/air-india-crash-one-year-on-no-final-report-timeline-as-families-seek-answers)*
 
 ### Sports
-- Mexico secured a 2-0 victory against South Africa to officially kick off the 2026 FIFA World Cup. *[Dawn](https://www.dawn.com/news/2007165/mexico-beat-south-africa-2-0-to-kick-off-2026-fifa-world-cup)*
-- Shakira performed at the 2026 World Cup kickoff ceremony in Mexico. *[ARY](https://arynews.tv/world-cup-2026-shakira-lights-up-mexico-as-tournament-kicks-off-with-bang)*
+- New Zealand cricket stalwart **Kane Williamson** has announced his retirement from international cricket. *[Business Recorder](https://www.brecorder.com/news/40425233/new-zealands-williamson-retires-from-internationals-after-stellar-16-year-career)*
 
 ### Health
-- The 2025-26 Economic Survey highlighted progress in Pakistan's health and nutrition sectors, noting improvements in life expectancy and immunization coverage. *[Business Recorder](https://www.brecorder.com/news/40425128/economic-survey-health-and-nutrition-sectors-post-strong-progress)*
+- The **WHO** reports that Ebola is spreading into new areas within northeast DR Congo. *[ARY](https://arynews.tv/ebola-spreading-into-new-areas-in-northeast-dr-congo-who)*
+
+### Other
+- British pop art pioneer **David Hockney** has passed away in London. *[ARY](https://arynews.tv/david-hockney-impact-on-modern-art)*
+- **Taylor Swift** has become the youngest woman ever inducted into the Songwriters Hall of Fame. *[Business Recorder](https://www.brecorder.com/news/40425236/taylor-swift-becomes-youngest-woman-in-songwriters-hall-of-fame)*
 
