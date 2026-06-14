@@ -7,50 +7,57 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 12-Jun-2026 21:09PKT 
+ &lrm; 14-Jun-2026 09:32PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- حکومت نے مالی سال 2026-27 کے لیے 18.8 ٹریلین روپے کا بجٹ پیش کیا ہے، جس میں جی ڈی پی کی 4 فیصد ترقی کا ہدف مقرر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2007283/govt-unveils-rs188tr-budget-for-fy2026-27-gdp-growth-targeted-at-4pc)*
-- معاشی سروے 2025-26 کے مطابق، ملک میں غربت کی شرح میں 7 فیصد اضافہ ہوا ہے، جس کے نتیجے میں 27 ملین اضافی افراد مالی مشکلات کا شکار ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2007204/economic-survey-2026-27-poverty-surges-7pc-pushing-27m-people-into-financial-distress)*
-- صدر آصف علی زرداری نے پاکستان انٹرنیشنل ایئر لائنز (PIA) کی نجکاری کے لیے ضروری قانونی تقاضے پورے کرتے ہوئے بل منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2007262/president-zardari-approves-bill-fulfilling-all-legal-formalities-for-pias-privatisation)*
-- اسپیس ایکس (SpaceX) کے آئی پی او کے بعد ایلون مسک دنیا کے پہلے ٹریلینئر بن گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2007278/spacex-ipo-makes-elon-musk-the-worlds-first-trillionaire)*
-- بجٹ کے تحت سرکاری ملازمین کی تنخواہوں میں 7 فیصد اور پنشن میں بھی اضافہ کیا گیا ہے، جبکہ کم از کم اجرت میں 10 فیصد اضافے کی تجویز دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2007283/govt-unveils-rs188tr-budget-for-fy2026-27-gdp-growth-targeted-at-4pc)*
-- بھارت میں مہنگائی کی شرح مئی میں بڑھ کر 3.93 فیصد ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425226/indias-inflation-accelerates-to-393-in-may-remains-a-tad-below-rbi-target)*
-- متحدہ عرب امارات کے اسٹاک مارکیٹ میں تیزی دیکھی گئی ہے کیونکہ خطے میں ایران-امریکہ معاہدے کی امیدیں بڑھ رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40425232/uae-shares-hit-two-month-high-as-hopes-grow-for-iran-us-deal)*
+- وزیر خزانہ محمد اورنگزیب نے مجوزہ بجٹ 2026-27 کو معاشی ترقی کے لیے ایک اہم پیش رفت قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2007563/finance-minister-terms-proposed-fy27-budget-as-significant-progress-in-path-to-economic-growth)*
+- وفاقی بجٹ میں عوامی ریلیف اور آئی ایم ایف کے اہداف کے درمیان توازن پیدا کرنے کی کوشش کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2007490/budget-2026-27-govt-balances-relief-and-imf-diktat)*
+- کسان اتحاد اور پی ٹی آئی کے کسان ونگ نے بجٹ کو "کسان مخالف" قرار دیتے ہوئے مسترد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40425403/kissan-ittehad-rejects-budget-warns-of-protests)*
+- پاکستان ٹیکسٹائل ایکسپورٹرز ایسوسی ایشن (PTEA) نے بجٹ کو متوازن اور ترقی پسند قرار دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425397/ptea-says-its-a-balanced-growth-oriented-budget)*
+- چینی کمپنی ڈورٹ راک کور پنجاب کے شمسی توانائی کے شعبے میں سرمایہ کاری کرنے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425398/chinese-co-announces-investment)*
+- کابینہ کی کمیٹی نے پاکستان انٹرنیشنل ایئر لائنز (PIACL) کی نجکاری کے عمل کا جائزہ لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425390/ccop-reviews-piacl-divestment-closing-progress)*
+- پنجاب اسکلز ڈیولپمنٹ فنڈ اور بینک آف پنجاب نے بیرون ملک ملازمت کے لیے 'پرواز کارڈ' اسکیم کا آغاز کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425395/psdf-bop-ink-deal-to-launch-parwaaz-card)*
+- تاجروں نے نئی تجویز کردہ اسکیم سے فکسڈ ٹیکس کا حصہ ختم کرنے کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425396/traders-seek-removal-of-fixed-tax-component-from-newly-proposed-scheme)*
+- پولٹری ایسوسی ایشن نے خبردار کیا ہے کہ بجٹ میں ریلیف نہ دینے سے خوراک کی قیمتیں بڑھ سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40425400/failure-to-provide-fiscal-relief-to-poultry-sector-could-lead-to-higher-food-prices-ppa)*
+- فنانس بل 2026 میں وراثت میں ملنے والی جائیداد کی لاگت کی نئی تعریف تجویز کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425399/new-definition-of-cost-of-immovable-property-received-thru-inheritance-proposed)*
 
 ### سائنس اور ٹیکنالوجی
-- میٹا (Meta) کی سماجی نیٹ ورک سروسز بشمول فیس بک اور انسٹاگرام میں تکنیکی خرابی کے باعث صارفین کو دشواری کا سامنا کرنا پڑ رہا ہے۔ *[Dawn](https://www.dawn.com/news/2007342/metas-social-networks-down-for-thousands-of-users)*
-
-### موسم
-- پاکستان میں لگاتار گرم سال گزر رہے ہیں؛ 2025 پاکستان کے گزشتہ 65 سالوں میں سے دوسرا گرم ترین سال رہا ہے۔ *[Dawn](https://www.dawn.com/news/2007224/pakistan-experiences-back-to-back-warmest-years)*
+- امریکی حکومت کے حکم کے بعد اینتھروپک نے اپنے جدید ترین اے آئی ماڈلز (Fable 5 اور Mythos 5) تک غیر ملکیوں کی رسائی بند کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2007564/anthropic-disables-fable-5-mythos-5-models-after-us-order-limiting-foreign-access)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے بجٹ کی منظوری کے موقع پر ملک کی مضبوط سیکیورٹی کی اہمیت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2007306/pm-shehbaz-stresses-importance-of-strong-security-ahead-of-budget-presentation)*
-- ایم کیو ایم پی کے ایک وفد نے وزیراعظم سے ملاقات کی اور کراچی کے ترقیاتی منصوبوں کے لیے 20 ارب روپے کی فراہمی کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2007301/mqm-p-delegation-calls-on-pm-shehbaz-ahead-of-budget-party-leader-says-rs20bn-allocation-sought-for-karachi-projects)*
-- وزیراعظم شہباز شریف نے پیپلز پارٹی (PPP) کو گلگت بلتستان میں حکومت بنانے کی دعوت دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425244/pm-shehbaz-invites-majority-party-ppp-to-form-govt-in-gb)*
-- امریکی صدر ڈونلڈ ٹرمپ نے ایران کے حوالے سے مجوزہ امن معاہدے کے مسودے پر تنقید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425245/trump-bristles-over-memorandum-text-that-appears-to-favour-iran)*
+- قومی اسمبلی میں نئے مالی سال کے وفاقی بجٹ پر بحث کا باقاعدہ آغاز ہو گیا۔ *[Dawn](https://www.dawn.com/news/2007679/budget-2026-27-govt-slammed-over-provincial-freeze-as-budget-debate-opens)*
+- سپریم جوڈیشل کونسل نے ججوں کو پیشگی اجازت کے ساتھ سیاسی یا سفارتی تقریبات میں شرکت کی اجازت دے دی۔ *[Dawn](https://www.dawn.com/news/2007584/sjc-allows-judges-to-attend-political-diplomatic-functions-with-prior-approval)*
+- اسپیکر قومی اسمبلی سردار ایازاق نے ارکان اسمبلی کے تحفظ کا عہد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425392/ayaz-vows-protection-to-mps)*
 
-### قومی خبریں
-- سابق سینیٹر تاج محمد آفریدی ایم ون موٹروے پر ایک حادثے میں جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007313/former-senator-taj-afridi-dies-in-m-1-motorway-crash)*
-- سپریم کورٹ نے ایران-امریکہ تنازع کے باعث نافذ کردہ کفایت شعاری کے اقدامات کو 15 جون سے ختم کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007324/supreme-court-to-lift-austerity-measures-from-june-15)*
-- پاکستان آرمی کی ٹیم نے برطانیہ میں ہونے والے بین الاقوامی فوجی ڈرل مقابلے میں پہلی پوزیشن حاصل کی۔ *[Dawn](https://www.dawn.com/news/2007266/pakistan-secures-top-position-at-international-military-drill-competition-in-uk-ispr)*
-- بنوں میں دہشت گردوں کے علیحدہ علیحدہ نشانہ بنانے کے حملوں میں دو پولیس اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007254/2-policemen-martyred-in-separate-targeted-attacks-in-bannu)*
-- لکی مروت میں ایک مسجد کے قریب خودکش حملے کی کوشش ناکام بنا دی گئی، جس میں ایک بچہ شہید ہوا جبکہ پانچ زخمی ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40425231/child-martyred-five-injured-as-suicide-attack-bid-foiled-in-lakki-marwat)*
-- کراچی میں ایم کیو ایم کے بانی الطاف حسین کے حق میں نعرے بازی اور جھنڈے لہرانے کے الزام میں 11 افراد کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2007280/11-arrested-in-karachi-for-slogans-flags-supporting-mqm-founder-altaf-hussain)*
+### قومی
+- سیکیورٹی فورسز نے شمالی وزیرستان میں دہشت گردوں کے خلاف کارروائی کرتے ہوئے 21 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2007676/21-terrorists-killed-in-north-waziristan-in-72-hours-ispr)*
+- آزاد جموں و کشمیر میں جے اے اے سی کے مظاہرین کی ہڑتال اور احتجاج کا سلسلہ جاری ہے۔ *[Dawn](https://www.dawn.com/news/2007661/partial-strike-persists-across-ajk-as-jaac-sit-ins-continue)*
+- این سی سی آئی اے نے پنجاب میں خواتین کو ہراساں کرنے اور بلیک میل کرنے کے 10 ملزمان کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2007598/nccia-prioritises-cases-of-blackmail-harassment-of-women-arrests-10-in-punjab)*
+- لاڑکانہ پولیس نے دو نوعمر بچوں کی زبردستی شادی کا واقعہ روکا۔ *[Dawn](https://www.dawn.com/news/2007596/police-in-larkana-stop-forced-child-marriage-of-two-teenagers)*
+- گلگت بلتستان الیکشن کمیشن نے انتخابات سے متعلق شکایات کا فیصلہ کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425391/g-b-elections-related-complaints-to-be-decided-tomorrow-cec)*
+- اسلام آباد میں گزشتہ ہفتے دوران واردات، اغوا اور چوری سمیت 35 سے زائد بڑے جرائم رپورٹ ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40425402/ict-witnesses-over-35-incidents-of-major-crimes)*
+- ایل ڈی اے نے ڈیٹا دربار توسیع اور بھٹی چوک انڈر پاس کے کاموں میں تیزی لانے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425407/lda-orders-fast-execution-of-expansion-works)*
 
 ### بین الاقوامی
-- بنگلہ دیش اور بھارت نے سرحد پر باہمی تعاون اور انٹیلی جنس شیئرنگ کے لیے اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007264/bangladesh-india-to-coordinate-patrols-on-border-share-intelligence-amid-migrant-tensions)*
-- بھارتی حکام نے گزشتہ سال ہونے والے ایئر انڈیا بوئنگ 787 کے حادثے کی تحقیقات جاری رکھی ہوئی ہیں، تاہم حتمی رپورٹ کے لیے کوئی وقت مقرر نہیں کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425238/air-india-crash-one-year-on-no-final-report-timeline-as-families-seek-answers)*
+- امریکہ اور ایران کے درمیان امن معاہدے کے فریم ورک کی حتمی شکل تیار ہو رہی ہے، تاہم دستخط کی تاریخ پر اختلاف موجود ہے۔ *[Dawn](https://www.dawn.com/news/2007680/islamabad-mou-nears-finalisation-as-us-iran-clash-on-signing-date)*
+- اسرائیل نے لبنان میں جنگ بندی کی خلاف ورزی کرتے ہوئے فضائی حملے کیے جن میں پانچ افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007658/five-killed-in-air-strikes-as-israel-flouts-lebanon-ceasefire)*
+- امریکی صدر ٹرمپ جی 7 سربراہی اجلاس میں مشرق وسطیٰ کے رہنماؤں سے ملاقات کریں گے۔ *[Dawn](https://www.dawn.com/news/2007657/trump-to-meet-middle-east-leaders-at-g7-summit)*
+- بھارت میں بھارتی فضائیہ کا طیارہ گرنے سے پانچ فوجی اہلکار ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007557/five-dead-after-indian-air-force-transport-plane-crashes-in-remote-northeast)*
+- امریکہ اور وینزویلا کے مشترکہ آپریشن میں ایک بین الاقوامی گینگ کا سربراہ ہلاک ہو گیا۔ *[Dawn](https://www.dawn.com/news/2007609/us-venezuela-joint-operation-kills-leader-of-tren-de-aragua-gang)*
+- امریکی عدالت کے فیصلے کے بعد واشنٹن کے آرٹس سینٹر سے ڈونلڈ ٹرمپ کا نام ہٹا دیا گیا۔ *[Dawn](https://www.dawn.com/news/2007605/trumps-name-removed-from-washington-arts-center)*
 
 ### کھیل
-- نیوزی لینڈ کے مشہور کرکٹر کین ولیمسن نے بین الاقوامی کرکٹ سے ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425233/new-zealands-williamson-retires-from-internationals-after-stellar-16-year-career)*
+- پاکستان فٹ بال ٹیم کو پہلی بار فیفا ایس ای اے این سی اےں کپ کے لیے مدعو کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2007678/pakistan-secures-entry-to-first-fifa-asean-cup)*
+- این بی اے میں، نکاس نے اسپرس کو ہرا کر 53 سال بعد پہلا ٹائٹل جیت لیا ہے۔ *[ARY](https://arynews.tv/knicks-beat-spurs-to-claim-first-nba-title-in-53-years)*
+- ورلڈ کپ سے متعلق مختلف خبریں: سکاٹ لینڈ کی جیت اور پرتگال و برازیل کے کھلاڑیوں کے بیانات۔ *[ARY](https://arynews.tv/portugal-talented-but-not-world-cup-favourites-says-vitinha)*
+- پنجاب میں 'یوتھ کرکٹ سپر لیگ' کا باقاعدہ آغاز ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425408/youth-cricket-super-league)*
 
 ### صحت
-- عالمی ادارہ صحت (WHO) کے مطابق، جمہوری جمہوریہ کانگو کے شمال مشرقی علاقوں میں ایبولا پھیل رہا ہے۔ *[ARY](https://arynews.tv/ebola-spreading-into-new-areas-in-northeast-dr-congo-who)*
+- وزیراعلیٰ پنجاب نے بین الاقوامی البرٹیم (Albinism) آگاہی کے دن پر اس طبقے کے حقوق کے تحفظ پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40425393/intl-albinism-awareness-day-cm-calls-for-protection-of-rights-of-persons-with-albinism)*
 
 ### دیگر
-- برطانوی پاپ آرٹ کے بانی ڈیوڈ ہاکنی کا لندن میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/david-hockney-impact-on-modern-art)*
-- گلوکارہ ٹیلر سوئفٹ 'Songwriters Hall of Fame' میں شامل ہونے والی سب سے کم عمر خاتون بن گئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40425236/taylor-swift-becomes-youngest-woman-in-songwriters-hall-of-fame)*
+- ایل سی سی آئی نے مذہبی رواداری اور ہم آہنگی کے فروغ کے لیے سیمینار کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425394/lcci-holds-seminar-to-promote-religious-tolerance)*
+- مشہور اداکارہ الزبتھ اولسن کے شوہر کے بارے میں معلومات شیئر کی گئیں۔ *[ARY](https://arynews.tv/elizabeth-olsen-robbie-arnett-marriage-music-and-family-life)*
 
