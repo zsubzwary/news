@@ -7,53 +7,56 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 15-Jun-2026 09:09PKT 
+ &lrm; 15-Jun-2026 21:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- اگلے مالی سال کے بجٹ کے لیے عالمی تیل کی قیمتوں میں اضافہ اور دیگر مالیاتی خطرات کے بارے میں وزارت خزانہ نے خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007935/budget-2026-27-multiple-risks-looms-over-next-year-budget-finance-ministry-warns)*
-- امریکہ اور ایران کے درمیان ممکنہ امن معاہدے کے بعد عالمی منڈیوں میں سونے کی قیمتوں میں 2 فیصد اضافہ ہوا جبکہ تیل کی قیمتیں گر گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40425581/gold-rises-2-after-us-iran-reach-peace-deal)*
-- امریکہ اور ایران کے معاہدے کے نتیجے میں عالمی مارکیٹوں میں ڈالر کی قیمت میں کمی اور ایشیائی حصص میں تیزی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40425580/shares-surge-oil-skids-in-asia-on-gulf-deal)*
-- سینٹ کی مالیاتی کمیٹی نے غیر ملکی اثاثوں پر کیپیٹل ویلیو ٹیکس (CVT) ختم کرنے کی تجویز منظور کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425557/proposal-seeking-abolishment-of-cvt-on-foreign-assets-approved)*
-- وزیر خزانہ نے ٹیکس مشینری میں کرپشن کے خاتمے کے لیے 'فیس لیس سسٹم' (Faceless System) کے نفاذ کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425558/aurangzeb-tells-senate-body-faceless-system-to-end-corruption-of-tax-machinery)*
-- پاکستان ٹیکسٹائل کونسل (PTC) نے برآمدات پر عائد لیوی کو حتمی انکم ٹیکس کے طور پر تسلیم کرنے کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425556/ptc-seeks-final-tax-status-for-export-levy)*
+- اسٹیٹ بینک آف پاکستان نے پالیسی ریٹ کو 11.5 فیصد پر برقرار رکھنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2008043/central-bank-keeps-policy-rate-unchanged-at-115pc)*
+- امریکہ اور ایران کے درمیان جنگ بندی کے معاہدے کے بعد پاکستان اسٹاک ایکسچینج کا KSE-100 انڈیکس 4,000 سے زائد پوائنٹس کے اضافے کے ساتھ بند ہوا۔ *[Dawn](https://www.dawn.com/news/2008001/kse-100-rallies-by-over-4000-points-after-us-iran-reach-preliminary-agreement)*
+- امریکہ اور ایران کے درمیان ابتدائی معاہدے کے نتیجے میں عالمی مارکیٹ میں تیل کی قیمتوں میں نمایاں کمی واقع ہوئی۔ *[Dawn](https://www.dawn.com/news/2007998/oil-prices-slip-to-their-lowest-since-march-as-us-iran-reach-preliminary-agreement-to-reopen-hormuz)*
+- حکومت نے بجٹ 2026-27 کے حوالے سے عالمی تیل کی قیمتوں میں اضافے اور قرضوں کی ادائیگی جیسے کئی معاشی خطرات سے خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007935/budget-2026-27-multiple-risks-looms-over-next-year-budget-finance-ministry-warns)*
+- بھارت کا بیلنس آف پیمنٹ اپریل میں کیپٹل آؤٹ فلو کی وجہ سے خسارے میں چلا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425651/india-posts-balance-of-payments-deficit-in-april-on-foreign-portfolio-outflows)*
+- سری لنکا کی معیشت سال 2026 کی پہلی سہ ماہی میں 5.1 فیصد کے દરે بڑھی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425647/sri-lankas-economy-grew-51-in-first-quarter-of-2026)*
+- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں بہتری دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40425635/rupee-registers-gain-against-us-dollar)*
 
 ### سائنس اور ٹیکنالوجی
-- پنجاب حکومت نے شہری فضائی آلودگی پر قابو پانے کے لیے 'لیکوڈ ٹری' (Liquid Tree) منصوبے کو وسعت دینے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007783/punjab-expands-liquid-tree-project-to-tackle-urban-pollution)*
+- بھارتی کمپنی HCLTech نے آرٹیفیشل انٹیلی جنس اسٹارٹ اپ Sarvam AI میں 10.5 فیصد اسٹیک خریدنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425649/indias-hcltech-to-buy-105-stake-in-sarvam-ai-valuing-startup-at-15-billion)*
+- اسپیس ایکس (SpaceX) کے ممکنہ آئی پی او (IPO) کو 2026 کی سب سے بڑی تجارتی کہانی قرار دیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425639/spacex-ipo-spcx-why-this-could-be-the-biggest-trading-story-of-2026)*
 
 ### موسم
-- خیبرپختونخوا اور پنجاب میں مون سون کی بارشوں اور گرج چمک کے باعث 10 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007939/death-toll-reaches-10-as-rains-ravage-kp-punjab)*
-- پاکستان میں موسمیاتی تبدیلیوں کے بڑھتے ہوئے اثرات اور گلیشیئرز کے پگھلنے کے حوالے سے تشویش کا اظہار۔ *[Dawn](https://www.dawn.com/news/2007955/climate-choices)*
+- محکمہ موسمیات نے ستمبر تک ملک کے بیشتر حصوں میں کم بارش اور زیادہ درجہ حرارت کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2008039/pmd-forecasts-below-normal-rainfall-high-temperatures-across-most-of-country-until-september)*
+- مون سون کی شدید بارشوں کے باعث خیبر پختونخوا اور پنجاب میں کم از کم 10 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007939/death-toll-reaches-10-as-rains-ravage-kp-punjab)*
 
 ### سیاست
-- پیپلز پارٹی نے آزاد جموں و کشمیر (AJK) کے انتخابات کو خطے کے امن سے جوڑتے ہوئے احتجاج ختم کرنے پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2007938/ppp-links-ajk-election-to-peace-in-region)*
-- تحریک انصاف (PTI) نے وزیر اعظم کے 'چارٹر آف اکانومی' (Charter of Economy) کے تجویز کردہ منصوبے کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2007934/pti-rules-out-cod-style-charter-of-economy)*
-- وزیر اطلاعات نے اپوزیشن کو 'چارٹر آف اکانومی' پر دستخط کرنے کی دعوت دی اور بجٹ کا دفاع کیا۔ *[Dawn](https://www.dawn.com/news/2007773/info-minister-invites-opposition-to-sign-charter-of-economy-defends-proposed-fy27-budget)*
+- پیپلز پارٹی (PPP) نے وفاقی بجٹ کے حوالے سے حکومت کے اقدامات پر شدید تحفظات کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/budget-2026-27-ppp-raises-strong-reservations-with-govt)*
+- سینیٹ میں ارکان نے بڑھتے ہوئے قرضوں اور معاشی استحکام کے لیے واضح لائحہ عمل کی کمی پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2008081/senators-raise-alarm-over-rising-debt-amid-lack-of-roadmap-for-economic-stability)*
 
 ### قومی
-- چکوال میں پولیس مقابلے کے دوران بچی کی ہلاکت پر بین الاقوامی سطح پر ردعمل اور تحقیقات۔ *[Dawn](https://www.dawn.com/news/2007933/chakwal-encounter-gets-international-scrutiny)*
-- سندھ میں فصلوں کے نقصان کے بعد انڈس رور سسٹم اتھارٹی (Irsa) نے پانی کے بہاؤ میں اضافہ کر دیا۔ *[Dawn](https://www.dawn.com/news/2007931/irsa-increases-flows-to-sindh-after-crop-damage)*
-- بلوچستان میں محرم الحرام کے دوران امن و امان برقرار رکھنے کے لیے جامع سیکورٹی پلان تیار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2007929/security-plan-finalised-for-majalis-processions-in-balochistan)*
-- ایف آئی اے نے ملتان ایئرپورٹ پر جعلی این او سی کے ذریعے بیرون ملک سفر کرنے کی کوشش کو ناکام بنا دیا۔ *[Dawn](https://www.dawn.com/news/2007804/fia-foils-alleged-attempt-to-travel-abroad-using-fake-noc-in-multan)*
-- خیبرپختونخوا کے وزیر توانائی نے وفاقی اداروں کو بجلی کے مسائل کے حل کے لیے عوامی جوابدہ بنانے کا عزم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425551/kp-to-make-federal-entities-responsible-to-public-at-all-costs)*
+- آسٹریلوی وزیر اعظم نے پنجاب کے ضلع چکوال میں پولیس مقابلے میں ایک بچی کی موت پر شفاف تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2008075/australian-pm-calls-for-transparent-inquiry-into-killing-of-girl-by-ccd-in-punjabs-chakwal)*
+- گلگت بلتستان الیکشن کمیشن نے مقامی حکومتوں کے انتخابات 27 ستمبر تک ملتوی کر دیے۔ *[Dawn](https://www.dawn.com/news/2008068/gb-election-commission-postpones-local-bodies-polls-to-sept-27-due-to-muharram)*
+- مردان کے قریب پاک فضائیہ کا ٹرینر طیارہ گرنے کے نتیجے میں دونوں پائلٹ شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2008006/paf-trainer-aircraft-crashes-near-mardan-both-pilots-martyred)*
+- سیکیورٹی خدشات کے پیش نظر جنوبی وزیرستان کے مختلف علاقوں میں دفعہ 144 نافذ کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2008024/section-144-imposed-in-several-areas-of-upper-lower-south-waziristan-amid-security-concerns)*
+- سابق وزیراعظم عمران خان کو آنکھ کے علاج کے لیے پی ایم ایس (PIMS) ہسپتال لے جایا گیا۔ *[Dawn](https://www.dawn.com/news/2008012/imran-taken-to-pims-for-follow-up-treatment-undergoes-fifth-eye-procedure)*
+- حکومت نے لاہور میں تاریخی ایونگ ہال کی مسماری کی خبروں کی تردید کرتے ہوئے اسے محفوظ رکھنے کا عزم ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007868/ewing-hall-controversy-deepens-as-govt-denies-reports-of-demolition)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے درمیان جنگ کے خاتمے کے لیے ایک ابتدائی ڈھانچے پر اتفاق ہو گیا ہے، جس کی دستخطی تقریب جمعہ کو ہوگی۔ *[Dawn](https://www.dawn.com/news/2007972/us-iran-reach-preliminary-agreement-to-end-war-signing-set-for-friday)*
-- برازیل کے شہر ریو ڈی جنیرو میں دو ہیلی کاپٹروں کے آپس میں ٹکرانے سے امریکی گلوکار اولیور ٹری سمیت چھ افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007914/choppers-collide-mid-air-six-die-in-western-rio-de-janeiro)*
-- غزہ میں اسرائیلی حملوں کے نتیجے میں کم از کم چھ فلسطینی شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007916/israeli-forces-kill-six-in-gaza-amid-efforts-to-salvage-truce)*
-- یوکرین پر روسی حملوں کے دوران کیف میں ایک تاریخی خانقاہ کو آگ لگ گئی اور کئی زخمی ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40425583/nearly-three-dozen-injured-historic-monastery-on-fire-as-ukraine-faces-major-russian-attacks)*
-- کویت نے نئے فرمان کے ذریعے 2,193 افراد کی شہریت منسوخ کر دی۔ *[ARY](https://arynews.tv/kuwait-revokes-citizenship-of-2193-in-new-decrees)*
+- پاکستان ستمبر میں شنگھائی تعاون تنظیم (SCO) کی سربراہی سنبھالے گا۔ *[Dawn](https://www.dawn.com/news/2008079/pakistan-to-assume-chairmanship-of-sco-council-of-heads-of-states-in-september)*
+- برطانیہ کی عدالت نے فلسطین ایکشن گروپ پر دہشت گردی کی بنیاد پر پابندی کو قانونی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008071/uk-court-upholds-britains-ban-on-palestine-action-group)*
+- امریکہ اور ایران کے درمیان جنگ ختم کرنے کے لیے ایک ابتدائی فریم ورک پر اتفاق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2007972/us-iran-reach-preliminary-agreement-to-end-war-signing-set-for-friday)*
+- پاکستان جنیوا میں ہونے والی امریکہ اور ایران کے درمیان امن معاہدے کی تقریب کی میزبانی کرے گا۔ *[Dawn](https://www.dawn.com/news/2008010/pm-shehbaz-says-pakistan-to-host-signing-ceremony-of-us-iran-agreement-in-geneva)*
+- عمان نے کرنسی نوٹوں کی تبدیلی کے لیے ڈیڈ لائن کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/oman-announces-deadline-for-currency-note-replacement)*
 
 ### کھیل
-- ورلڈ کپ کے گروپ E کے میچ میں جرمنی نےデビュー کرنے والی ٹیم کریکاؤ (Curacao) کو 7-1 سے شکست دی۔ *[Dawn](https://www.dawn.com/news/2007821/germany-hammer-world-cup-debutants-curacao-after-early-scare)*
-- فٹ بال ورلڈ کپ کے میچ میں جاپان اور نیدرلینڈز کے درمیان مقابلہ ڈرا رہا۔ *[ARY](https://arynews.tv/japan-snatch-draw-with-netherlands)*
+- ماوریزیو سری (Maurizio Sarri) کو اٹلانٹا کا نیا ہیڈ کوچ مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425657/sarri-returns-to-dugout-with-atalanta-after-lazio-departure)*
+- سری لنکا کے خلاف سپر اوور میں شکست کے بعد میدان میں کھلاڑیوں کے درمیان جھڑپ دیکھنے میں آئی۔ *[ARY](https://arynews.tv/vaibhav-sooryavanshi-in-on-field-clash-after-super-over-loss-to-sri-lanka-a)*
+- ووئلوز (Wolves) نے سیزر پییکوٹو کو اپنا نیا ہیڈ کوچ مقرر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425655/wolves-appoint-peixoto-as-new-boss)*
 
 ### صحت
-- کراچی میں ایم پکس (Mpox) کے 11ویں کیس کی تصدیق کر دی گئی ہے۔ *[ARY](https://arynews.tv/mpox-cases-in-karachi-june-15-2026)*
-- پنجاب پولیس نے عالمی یومِ خون عطیہ کرنے والوں کے موقع پر خون عطیہ کرنے کے مشن میں فعال کردار ادا کرنے کا عہد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425554/blood-donation-punjab-police-vow-to-play-proactive-role)*
+- نارا آرگینکس (Nara Organics) نے بیبی فارمولا مصنوعات کی واپسی (Recall) کا الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/nara-organics-baby-formula-maker-issues-recall-alert)*
 
 ### دیگر
-- نیویارک میں باسکٹ بال ٹیم 'نکس' کی جیت کے جشن کے دوران افراتفری کے واقعات ہوئے جن میں ایک بس کو آگ لگا دی گئی۔ *[Dawn](https://www.dawn.com/news/2007778/fifa-world-cup-bus-set-alight-as-chaotic-celebrations-erupt-in-nycs-manhattan-after-knicks-win)*
-- گلوکارہ دعا لیپا اور کالم ٹرنر اٹلی میں اپنی ہنی مون کی تعطیلات انجوائے کر رہے ہیں۔ *[ARY](https://arynews.tv/newlyweds-dua-lipa-callum-turner-enjoy-sun-soaked-honeymoon-in-italy)*
+- پاکستان میں محرم الحرام کے آغاز کی تاریخ کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/muharram-commencement-date-announced-in-pakistan)*
+- جون 2026 کے 200 روپے کے پرائز بانڈ کے نتائج کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/200-prize-bond-results-june-2026-announced)*
+- اسٹیون اسپیلبرگ کی نئی فلم 'ڈسکلوژر ڈے' امریکی باکس آفس پر پہلے نمبر پر رہی۔ *[Business Recorder](https://www.brecorder.com/news/40425653/spielbergs-disclosure-day-debuts-atop-n-america-box-office)*
 
