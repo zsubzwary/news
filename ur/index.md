@@ -7,56 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 15-Jun-2026 21:10PKT 
+ &lrm; 16-Jun-2026 09:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- اسٹیٹ بینک آف پاکستان نے پالیسی ریٹ کو 11.5 فیصد پر برقرار رکھنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2008043/central-bank-keeps-policy-rate-unchanged-at-115pc)*
-- امریکہ اور ایران کے درمیان جنگ بندی کے معاہدے کے بعد پاکستان اسٹاک ایکسچینج کا KSE-100 انڈیکس 4,000 سے زائد پوائنٹس کے اضافے کے ساتھ بند ہوا۔ *[Dawn](https://www.dawn.com/news/2008001/kse-100-rallies-by-over-4000-points-after-us-iran-reach-preliminary-agreement)*
-- امریکہ اور ایران کے درمیان ابتدائی معاہدے کے نتیجے میں عالمی مارکیٹ میں تیل کی قیمتوں میں نمایاں کمی واقع ہوئی۔ *[Dawn](https://www.dawn.com/news/2007998/oil-prices-slip-to-their-lowest-since-march-as-us-iran-reach-preliminary-agreement-to-reopen-hormuz)*
-- حکومت نے بجٹ 2026-27 کے حوالے سے عالمی تیل کی قیمتوں میں اضافے اور قرضوں کی ادائیگی جیسے کئی معاشی خطرات سے خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007935/budget-2026-27-multiple-risks-looms-over-next-year-budget-finance-ministry-warns)*
-- بھارت کا بیلنس آف پیمنٹ اپریل میں کیپٹل آؤٹ فلو کی وجہ سے خسارے میں چلا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425651/india-posts-balance-of-payments-deficit-in-april-on-foreign-portfolio-outflows)*
-- سری لنکا کی معیشت سال 2026 کی پہلی سہ ماہی میں 5.1 فیصد کے દરે بڑھی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425647/sri-lankas-economy-grew-51-in-first-quarter-of-2026)*
-- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں بہتری دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40425635/rupee-registers-gain-against-us-dollar)*
-
-### سائنس اور ٹیکنالوجی
-- بھارتی کمپنی HCLTech نے آرٹیفیشل انٹیلی جنس اسٹارٹ اپ Sarvam AI میں 10.5 فیصد اسٹیک خریدنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425649/indias-hcltech-to-buy-105-stake-in-sarvam-ai-valuing-startup-at-15-billion)*
-- اسپیس ایکس (SpaceX) کے ممکنہ آئی پی او (IPO) کو 2026 کی سب سے بڑی تجارتی کہانی قرار دیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425639/spacex-ipo-spcx-why-this-could-be-the-biggest-trading-story-of-2026)*
+- سینیٹ کی کمیٹی نے سوشل میڈیا سے حاصل ہونے والی آمدنی پر 5 فیصد ٹیکس لگانے کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2008234/budget-2026-27-senate-panel-backs-5pc-tax-on-earnings-from-social-media)*
+- بجٹ 2026-27 کے دوران ریکارڈ 3.6 ٹریلین روپے کے اضافی اخراجات سامنے آئے ہیں، جو حکومتی کفایت شعاری کے دعووں کے برعکس ہیں۔ *[Dawn](https://www.dawn.com/news/2008210/budget-2026-27-record-rs36tr-overspending-belies-govts-austerity-claims)*
+- اسٹیٹ بینک کی پالیسی ریٹ میں تبدیلی نہ کرنے پر کاروباری حلقوں نے مایوسی کا اظہار کیا اور صنعتی بحالی کے لیے ریٹ کم کرنے کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2008208/business-circles-disappointed-over-sbp-rate-pause)*
+- پنجاب حکومت آج 5.3 ٹریلین روپے کا ٹیکس فری بجٹ پیش کرے گی۔ *[Dawn](https://www.dawn.com/news/2008199/budget-2026-27-punjab-to-unveil-rs53tr-tax-free-budget-today)*
+- سینیٹرز نے بڑھتے ہوئے قرضوں اور معاشی استحکام کے لیے واضح روڈ میپ کی عدم موجودگی پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2008081/senators-raise-alarm-over-rising-debt-amid-lack-of-roadmap-for-economic-stability)*
+- جولائی سے اپریل تک کی مدت میں بڑے پیمانے کی مینوفیکچرنگ (LSM) سیکٹر میں 6.44 فیصد اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40425693/jul-apr-lsm-posts-644pc-growth-yoy)*
+- ایکسپورٹس (برآمدات) گزشتہ پانچ سالوں سے تقریباً ایک ہی سطح پر برقرار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40425694/exports-stay-largely-flat-in-5-years-aurangzeb)*
 
 ### موسم
-- محکمہ موسمیات نے ستمبر تک ملک کے بیشتر حصوں میں کم بارش اور زیادہ درجہ حرارت کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2008039/pmd-forecasts-below-normal-rainfall-high-temperatures-across-most-of-country-until-september)*
-- مون سون کی شدید بارشوں کے باعث خیبر پختونخوا اور پنجاب میں کم از کم 10 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2007939/death-toll-reaches-10-as-rains-ravage-kp-punjab)*
+- محکمہ موسمیات نے ستمبر تک ملک کے بیشتر حصوں میں معمول سے کم بارش اور زیادہ درجہ حرارت کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2008039/pmd-forecasts-below-normal-rainfall-high-temperatures-across-most-of-country-until-september)*
 
 ### سیاست
-- پیپلز پارٹی (PPP) نے وفاقی بجٹ کے حوالے سے حکومت کے اقدامات پر شدید تحفظات کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/budget-2026-27-ppp-raises-strong-reservations-with-govt)*
-- سینیٹ میں ارکان نے بڑھتے ہوئے قرضوں اور معاشی استحکام کے لیے واضح لائحہ عمل کی کمی پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2008081/senators-raise-alarm-over-rising-debt-amid-lack-of-roadmap-for-economic-stability)*
+- برطانوی پارلیمنٹ کے رکن نے افغانستان سے ہونے والے حملوں کے خلاف پاکستان کے دفاعی حقوق کی حمایت کی۔ *[Dawn](https://www.dawn.com/news/2008233/uk-mp-backs-pakistans-response-to-attacks-from-afghanistan)*
+- پاکستان ستمبر میں شنگھائی تعاون تنظیم (SCO) کی سربراہی سنبھالے گا۔ *[Dawn](https://www.dawn.com/news/2008079/pakistan-to-assume-chairmanship-of-sco-council-of-heads-of-states-in-september)*
+- پنجاب کی وزیر اعلیٰ مریم نواز نے ایران اور امریکہ کے درمیان ہونے والے امن معاہدے کا خیر مقدم کرتے ہوئے پاکستان کے سفارتی کردار کو سراہا۔ *[Business Recorder](https://www.brecorder.com/news/40425718/iran-us-peace-deal-cm-lauds-pakistans-diplomatic-role)*
+- قومی اسمبلی میں وفاقی بجٹ پر بحث کے دوران اپوزیشن نے بڑھتی ہوئی مہنگائی اور معاشی بدانتظامی پر حکومت پر کڑی تنقید کی۔ *[Business Recorder](https://www.brecorder.com/news/40425720/opposition-assails-govt-for-growing-economic-mismanagement)*
 
 ### قومی
-- آسٹریلوی وزیر اعظم نے پنجاب کے ضلع چکوال میں پولیس مقابلے میں ایک بچی کی موت پر شفاف تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2008075/australian-pm-calls-for-transparent-inquiry-into-killing-of-girl-by-ccd-in-punjabs-chakwal)*
-- گلگت بلتستان الیکشن کمیشن نے مقامی حکومتوں کے انتخابات 27 ستمبر تک ملتوی کر دیے۔ *[Dawn](https://www.dawn.com/news/2008068/gb-election-commission-postpones-local-bodies-polls-to-sept-27-due-to-muharram)*
-- مردان کے قریب پاک فضائیہ کا ٹرینر طیارہ گرنے کے نتیجے میں دونوں پائلٹ شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2008006/paf-trainer-aircraft-crashes-near-mardan-both-pilots-martyred)*
-- سیکیورٹی خدشات کے پیش نظر جنوبی وزیرستان کے مختلف علاقوں میں دفعہ 144 نافذ کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2008024/section-144-imposed-in-several-areas-of-upper-lower-south-waziristan-amid-security-concerns)*
-- سابق وزیراعظم عمران خان کو آنکھ کے علاج کے لیے پی ایم ایس (PIMS) ہسپتال لے جایا گیا۔ *[Dawn](https://www.dawn.com/news/2008012/imran-taken-to-pims-for-follow-up-treatment-undergoes-fifth-eye-procedure)*
-- حکومت نے لاہور میں تاریخی ایونگ ہال کی مسماری کی خبروں کی تردید کرتے ہوئے اسے محفوظ رکھنے کا عزم ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2007868/ewing-hall-controversy-deepens-as-govt-denies-reports-of-demolition)*
+- آزاد کشمیر میں JAAC کا احتجاج اور ہڑتال جاری ہے، جس سے تجارتی سرگرمیاں متاثر ہوئی ہیں۔ *[Dawn](https://www.dawn.com/news/2008215/jaac-protest-in-rawalakot-dwindles-as-shutter-down-strike-continues-across-ajk)*
+- سپریم کورٹ کے جج نے منشیات کے مقدمات میں معصوم افراد اور سیاستدانوں کو جھوٹے مقدمات میں پھنسانے پر تشویش کا اظہار کرتے ہوئے سخت حفاظتی اقدامات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2008218/sc-judge-advocates-stricter-safeguards-in-drug-cases)*
+- آسٹریلوی وزیراعظم نے پنجاب کے علاقے چکوال میں پولیس کی فائرنگ سے بچی کی ہلاکت پر شفاف تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2008075/australian-pm-calls-for-transparent-inquiry-into-killing-of-girl-by-ccd-in-punjabs-chakwal)*
+- پاکستان میں بچوں کی مزدوری کا بحران شدت اختیار کر رہا ہے، جہاں تقریباً 8.6 ملین بچے اس کا شکار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40425706/a-nation-failing-its-children)*
+- خانیوال میں نامعلوم حملہ آوروں کی فائرنگ سے چار افراد جاں بحق ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40425717/four-shot-dead)*
+- کراچی میں 300 ملین روپے کی ڈکیتی کے کیس میں کیش وین کا ڈرائیور گرفتار کر لیا گیا۔ *[ARY](https://arynews.tv/karachi-rs300-mln-robbery-cash-van-driver-arrested)*
 
 ### بین الاقوامی
-- پاکستان ستمبر میں شنگھائی تعاون تنظیم (SCO) کی سربراہی سنبھالے گا۔ *[Dawn](https://www.dawn.com/news/2008079/pakistan-to-assume-chairmanship-of-sco-council-of-heads-of-states-in-september)*
-- برطانیہ کی عدالت نے فلسطین ایکشن گروپ پر دہشت گردی کی بنیاد پر پابندی کو قانونی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008071/uk-court-upholds-britains-ban-on-palestine-action-group)*
-- امریکہ اور ایران کے درمیان جنگ ختم کرنے کے لیے ایک ابتدائی فریم ورک پر اتفاق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2007972/us-iran-reach-preliminary-agreement-to-end-war-signing-set-for-friday)*
-- پاکستان جنیوا میں ہونے والی امریکہ اور ایران کے درمیان امن معاہدے کی تقریب کی میزبانی کرے گا۔ *[Dawn](https://www.dawn.com/news/2008010/pm-shehbaz-says-pakistan-to-host-signing-ceremony-of-us-iran-agreement-in-geneva)*
-- عمان نے کرنسی نوٹوں کی تبدیلی کے لیے ڈیڈ لائن کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/oman-announces-deadline-for-currency-note-replacement)*
+- اقوام متحدہ کی سلامتی کونسل نے افغانستان میں اقوام متحدہ کے مشن (UNAMA) کی مدت جون 2027 تک بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/2008103/security-council-extends-un-mission-in-afghanistan-mandate-till-june-2027-flags-security-concerns)*
+- ایران اور امریکہ کے درمیان جنگ بندی اور امن معاہدے کے حوالے سے پیش رفت ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2008241/a-new-deal)*
+- برطانوی عدالت نے 'پالسٹائن ایکشن' گروپ پر پابندی کے فیصلے کو قانونی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008071/uk-court-upholds-britains-ban-on-palestine-action-group)*
+- امریکی فضائیہ کا بی-52 بمبار طیارہ حادثے کا شکار ہوا جس میں عملے کے تمام 8 ارکان ہلاک ہو گئے۔ *[ARY](https://arynews.tv/us-air-force-b-52-bomber-crashes-in-flames-killing-all-8-crew-aboard)*
+- نیپال کے وزیر خارجہ نے چین کا دورہ کیا جہاں انہوں نے چینی حکام سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40425769/nepals-foreign-minister-visits-china-after-first-calling-on-regional-rival-india)*
 
 ### کھیل
-- ماوریزیو سری (Maurizio Sarri) کو اٹلانٹا کا نیا ہیڈ کوچ مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425657/sarri-returns-to-dugout-with-atalanta-after-lazio-departure)*
-- سری لنکا کے خلاف سپر اوور میں شکست کے بعد میدان میں کھلاڑیوں کے درمیان جھڑپ دیکھنے میں آئی۔ *[ARY](https://arynews.tv/vaibhav-sooryavanshi-in-on-field-clash-after-super-over-loss-to-sri-lanka-a)*
-- ووئلوز (Wolves) نے سیزر پییکوٹو کو اپنا نیا ہیڈ کوچ مقرر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40425655/wolves-appoint-peixoto-as-new-boss)*
+- ورلڈ کپ میں ایران اور نیوزی لینڈ کا مقابلہ 2-2 کے برابر رہا۔ *[Dawn](https://www.dawn.com/news/2008261/iran-begin-fraught-world-cup-with-2-2-new-zealand-draw)*
+- پی سی بی نے کھلاڑیوں کے لیے نئے کنٹریکٹ فریم ورک کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008083/pcb-unveils-new-framework-for-awarding-central-contracts-from-next-fiscal-year)*
+- ورلڈ کپ کے گروپ ایچ میں اسپین کا مقابلہ کیپ ورڈے سے 0-0 کے برابر رہا۔ *[Dawn](https://www.dawn.com/news/2008115/spain-held-0-0-by-world-cup-debutants-cape-verde)*
 
 ### صحت
-- نارا آرگینکس (Nara Organics) نے بیبی فارمولا مصنوعات کی واپسی (Recall) کا الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/nara-organics-baby-formula-maker-issues-recall-alert)*
+- پنجاب حکومت نے لاہور کے سروسز ہسپتال میں 'پریزن بلاک' کا افتتاح کیا۔ *[Business Recorder](https://www.brecorder.com/news/40425713/minister-inaugurates-prison-block-at-services-hospital)*
 
 ### دیگر
-- پاکستان میں محرم الحرام کے آغاز کی تاریخ کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/muharram-commencement-date-announced-in-pakistan)*
-- جون 2026 کے 200 روپے کے پرائز بانڈ کے نتائج کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/200-prize-bond-results-june-2026-announced)*
-- اسٹیون اسپیلبرگ کی نئی فلم 'ڈسکلوژر ڈے' امریکی باکس آفس پر پہلے نمبر پر رہی۔ *[Business Recorder](https://www.brecorder.com/news/40425653/spielbergs-disclosure-day-debuts-atop-n-america-box-office)*
+- پاکستان میں چاند نظر نہ آنے کے باعث محرم الحرام کا پہلا دن 17 جون کو ہوگا۔ *[Dawn](https://www.dawn.com/news/2008058/muharram-moon-not-sighted-in-pakistan-ashura-to-fall-on-june-26)*
 
