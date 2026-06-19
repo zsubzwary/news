@@ -4,48 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-Jun-2026 09:05PKT
+Published at: 19-Jun-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Senator Sherry Rehman warned of "shocking" climate budget cuts, noting that funding has dropped from Rs3.5bn to Rs2.48bn. *[Dawn](https://www.dawn.com/news/2008996/budget-2026-27-shocking-climate-budget-cut-draws-warning-from-sherry-rehman)*
-- The FBR informed a Senate panel that annual tobacco tax theft is approximately Rs40 billion, significantly lower than the previously claimed $1 billion. *[Dawn](https://www.dawn.com/news/2009023/fbr-tells-senate-panel-tobacco-tax-theft-is-rs40bn-not-1bn)*
-- The Khyber Pakhtunkhwa government is set to unveil a Rs2.15 trillion tax-free budget, which includes a 7% raise for government workers. *[Dawn](https://www.dawn.com/news/2008995/kp-to-unveil-rs215tr-tax-free-budget-today)*
-- The Balochistan budget for 2026-27 has faced intense debate from lawmakers, and financial documents were withheld from the press for the first time. *[Dawn](https://www.dawn.com/news/2009013/balochistan-budget-2026-27-press-shut-out-as-balochistan-budget-draws-mpas-ire)*
-- Critics have noted that recent budgets fail to sufficiently address the needs of fixed-income groups during periods of high inflation. *[Dawn](https://www.dawn.com/news/2009039/they-dont-really-care)*
-- Apple has officially launched its flagship store on the Daraz Pakistan e-commerce platform in partnership with GNext. *[Dawn](https://www.dawn.com/news/2008918/apple-launches-official-flagship-store-on-e-commerce-platform-daraz-pakistan)*
-- Khawaja Asif remarked that the closure of Pakistan Steel Mills in 1991 could have saved the country billions. *[ARY](https://arynews.tv/khawaja-asif-pakistan-steel-mills-should-have-been-shut-earlier)*
+- Prime Minister Shehbaz Sharif announced a reduction in petrol prices by Rs74 and diesel by Rs67, following a decline in international oil prices. *[Dawn](https://www.dawn.com/news/2009236/pm-shehbaz-announces-reduction-in-prices-of-petrol-by-rs74-diesel-by-rs67)*
+- Khyber Pakhtunkhwa Chief Minister Sohail Afridi presented a Rs2.17 trillion provincial budget for FY2026-27, noting an estimated fiscal deficit of Rs48 billion. *[Dawn](https://www.dawn.com/news/2009164/fy2026-27-kp-cm-presents-rs217tr-budget-with-estimated-fiscal-deficit-of-rs48bn)*
+- The federal government has assured the PTI that the Finance Minister will discuss extending tax exemptions for the merged Fata and Pata regions with the IMF. *[Dawn](https://www.dawn.com/news/2009230/finmin-to-discuss-extension-of-fata-tax-exemptions-with-imf-says-sanaullah-after-pti-govt-meeting)*
+- The Pakistan Stock Exchange (PSX) benchmark KSE-100 tumbled by over 2,400 points due to market uncertainty regarding US-Iran peace talks. *[Dawn](https://www.dawn.com/news/2009125/psx-tumbles-over-2400-points-on-back-of-uncertainty-over-us-iran-talks)*
+- Gold and silver prices in Pakistan have experienced a significant plunge. *[ARY](https://arynews.tv/gold-and-silver-prices-plunge-in-pakistan)*
+- Khyber Pakhtunkhwa is taking the lead in provincial policy by raising the minimum wage. *[ARY](https://arynews.tv/kp-takes-lead-in-raising-minimum-wage)*
+
+### Science & Technology
+- An Indian health authority is investigating liquid discharge from a Tata Electronics iPhone components factory following complaints of soil contamination and skin issues from local farmers. *[Dawn](https://www.dawn.com/news/2009131/tatas-iphone-parts-factory-in-indias-tamil-nadu-faces-health-probe-after-farmers-contamination-complaints)*
 
 ### Politics
-- Bilawal Bhutto-Zardari stated that the federal government is committed to protecting provincial allocations under the 7th National Finance Commission (NFC) award. *[Dawn](https://www.dawn.com/news/2008864/centre-committed-not-to-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal)*
+- Labour's Andy Burnham won a parliamentary seat in northern England, potentially positioning him to challenge British Prime Minister Keir Starmer. *[Dawn](https://www.dawn.com/news/2009089/labours-andy-burnham-wins-uk-parliament-seat-paving-way-for-bid-to-oust-pm-starmer)*
+- A PPP MPA has formally demanded the creation of a Saraiki province during a session of the Punjab Assembly. *[ARY](https://arynews.tv/saraiki-province-demand-in-punjab-assembly)*
 
 ### National
-- Punjab police and the Crime Control Department admitted "criminal negligence" regarding the shooting of a nine-year-old girl in Chakwal. *[Dawn](https://www.dawn.com/news/2008924/punjab-police-ccd-admit-mistake-in-girls-killing-in-chakwal-assure-incident-will-not-be-covered-up)*
-- A citywide transport strike in Karachi has caused significant commuter distress as operators protest against electronic traffic challans and heavy fines. *[Dawn](https://www.dawn.com/news/2009067/commuters-suffer-as-transporters-hold-strike)*
-- The Supreme Court of Pakistan has signed an agreement to integrate digital payment solutions into judicial processes. *[Dawn](https://www.dawn.com/news/2009017/judicial-processes-go-cashless)*
-- PTI leaders were once again denied permission to meet incarcerated former Prime Minister Imran Khan at Adiala jail. *[Dawn](https://www.dawn.com/news/2009012/pti-leaders-denied-meeting-with-imran)*
-- The Islamabad High Court has referred a petition filed by KP leaders regarding budget consultation meetings with Imran Khan to the Chief Justice. *[Dawn](https://www.dawn.com/news/2008905/ihc-refers-afridis-petition-seeking-meeting-with-imran-for-provincial-budget-consultations-to-chief-justice)*
-- A debate continues regarding the Margalla Hills National Park, balancing the needs of conservation against tourism and economic activity. *[Dawn](https://www.dawn.com/news/2009037/mhnp-conservation-vs-absolutism)*
+- The Gilgit-Baltistan Supreme Appellate Court has suspended election results for three constituencies, delaying the formation of the regional government. *[Dawn](https://www.dawn.com/news/2009242/gbs-supreme-appellate-court-suspends-election-results-for-candidates-of-3-constituencies)*
+- The Pakistani government has decided to transition fully from machine-readable passports to e-passports to improve security and reduce fraud. *[Dawn](https://www.dawn.com/news/2009117/pakistan-to-fully-shift-to-e-passports)*
+- The Lahore High Court disposed of a petition seeking to transfer the investigation of a nine-year-old girl's killing in Chakwal to the FIA. *[Dawn](https://www.dawn.com/news/2009138/girls-killing-in-chakwal-lhc-disposes-of-petition-seeking-cases-transfer-to-fia)*
+- Punjab police and the Crime Control Department (CCD) admitted "criminal negligence" in the fatal shooting of a young girl in Chakwal, promising no cover-up. *[Dawn](https://www.dawn.com/news/2008924/punjab-police-ccd-admit-mistake-in-girls-killing-in-chakwal-assure-incident-will-not-be-covered-up)*
+- Power shutdown schedules have been released for various areas within Khyber Pakhtunkhwa. *[ARY](https://arynews.tv/electricity-shutdown-schedule-for-khyber-pakhtunkhwa)*
+- Pakistan has introduced a new Private Hajj Policy featuring major reforms for the 2027-2030 period. *[ARY](https://arynews.tv/private-hajj-policy-2027-2030-what-you-need-to-know)*
+- NADRA has announced plans to block the CNICs of certain individuals. *[ARY](https://arynews.tv/nadra-to-block-cnics-of-these-people)*
 
 ### International
-- US Vice President JD Vance criticized Israeli lawmakers for their opposition to the memorandum of understanding between Washington and Tehran. *[Dawn](https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal)*
-- Prime Minister Shehbaz Sharif highlighted that the Islamabad MoU will play a significant role in the rebuilding of Iran. *[Dawn](https://www.dawn.com/news/2008902/landmark-islamabad-mou-to-go-a-long-way-in-rebuilding-iran-pm-shehbaz-tells-pezeshkian)*
-- A digital agreement has been reached regarding the Iran-US memorandum of understanding, with PM Shehbaz Sharif acting as a mediator. *[Dawn](https://www.dawn.com/news/2009029/digital-deal)*
-- Pakistan has criticized 17 Indian projects on the Indus River System, labeling them tools for "hydro-hegemony." *[Dawn](https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony)*
-- Ukraine launched its largest drone attack on Moscow in years, targeting an oil refinery and causing fires and casualties. *[Dawn](https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years)*
+- Deputy Prime Minister and Foreign Minister Ishaq Dar is set to attend the 4th R-4 foreign ministers' meeting in Cairo, Egypt. *[Dawn](https://www.dawn.com/news/2009239/fm-dar-to-attend-r-4-foreign-ministers-meeting-in-cairo-on-june-21-fo)*
+- The Pakistani information ministry has refuted claims by the Afghan Taliban regarding drone strikes on terrorist camps in border areas. *[Dawn](https://www.dawn.com/news/2009136/info-ministry-refutes-afghan-talibans-claim-of-strikes-in-border-areas)*
+- US-Iran peace talks in Geneva have been postponed after US Vice President JD Vance cancelled his travel plans. *[Dawn](https://www.dawn.com/news/2009110/us-iran-peace-talks-in-geneva-postponed)*
+- Pakistan has urged the UN Security Council to address India's "brazen violations" of the Indus Waters Treaty, citing threats to water security. *[Dawn](https://www.dawn.com/news/2009090/dar-writes-to-unsc-president-highlights-indias-brazen-violations-of-indus-waters-treaty)*
+- US Vice President JD Vance issued a rebuke to Israeli lawmakers who criticized the recent US-Iran memorandum of understanding. *[Dawn](https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal)*
+- Italian Prime Minister Meloni has dismissed claims made by Donald Trump regarding her allegedly requesting a photo from him. *[ARY](https://arynews.tv/italys-meloni-says-trump-totally-invented-story-that-she-begged-him-for-photo)*
 
 ### Sports
-- Co-hosts Mexico have secured a spot in the World Cup knockout rounds following a 1-0 victory over South Korea. *[Dawn](https://www.dawn.com/news/2009051/co-hosts-mexico-first-team-into-world-cup-knockout-rounds)*
-- South Africa remains in the hunt for the World Cup knockout stages after a 1-1 draw with the Czech Republic. *[Dawn](https://www.dawn.com/news/2008926/south-africa-hold-czechs-keep-world-cup-knockout-dream-alive)*
-- Canada defeated Qatar in a FIFA World Cup Group B match. *[ARY](https://arynews.tv/canada-thrash-qatar-in-world-cup-group-b)*
-- Sweden manager Graham Potter is looking for redemption at the upcoming World Cup. *[ARY](https://arynews.tv/sweden-boss-potter-eyes-redemption-at-world-cup)*
-- Switzerland moved closer to the World Cup last 32 after a victory over Bosnia-Herzegovina. *[ARY](https://arynews.tv/switzerland-beat-bosnia-herzegovina-to-close-on-world-cup-last-32)*
-- Cucurella described a move to Real Madrid as a "huge step up." *[ARY](https://arynews.tv/real-madrid-move-huge-step-up-says-cucurella)*
-- England legend Botham criticized Stokes for breaking curfew. *[ARY](https://arynews.tv/england-great-botham-slams-stokes-for-breaking-curfew)*
+- A French appeals court has confirmed that Moroccan footballer Achraf Hakimi will stand trial for an alleged 2023 rape. *[Dawn](https://www.dawn.com/news/2009144/french-court-confirms-morocco-and-psg-player-hakimi-to-stand-trial-on-rape-charge)*
+- England footballer Harry Kane highlighted the "Wonderwall" moment with fans as one of his career highlights. *[ARY](https://arynews.tv/kane-says-england-fans-wonderwall-moment-ranks-among-his-best)*
+- Records regarding refereeing concerns from previous tournaments have been broken heading into the 2026 World Cup. *[ARY](https://arynews.tv/world-cup-2026-referee-terror-records-from-earlier-tournaments-broken)*
+
+### Health
+- Australia has detected its first suspected mainland case of H5N1 bird flu in a migratory bird in Western Australia. *[Dawn](https://www.dawn.com/news/2009162/australia-last-continent-without-h5-bird-flu-detects-first-suspected-case)*
+- The recent hantavirus outbreak on a cruise ship has provided significant lessons regarding global health alerts and quarantine protocols. *[Dawn](https://www.dawn.com/news/2009161/what-did-we-learn-from-the-hantavirus-cruise-ship-scare)*
 
 ### Other
-- Taylor Swift shared insights into the "hectic day" she spent creating a song for *Toy Story 5*. *[ARY](https://arynews.tv/taylor-swift-shares-hectic-day-she-created-toy-story-5-song)*
-- Sydney Sweeney shared a romantic birthday post for her boyfriend, Scooter Braun. *[ARY](https://arynews.tv/sydney-sweeney-gushes-over-bf-scooter-braun-in-romantic-birthday-post)*
-- Meghan Markle’s planned return to the UK for Invictus has reportedly caused tension within the Royal Family. *[ARY](https://arynews.tv/meghan-to-return-to-uk-for-invictus-with-prince-archie-and-lilibet-as-royals-furious)*
+- A feature explores the history of a leopard's remains discovered in the Margallah Hills of Islamabad. *[Dawn](https://www.dawn.com/news/2009152/the-leopard-princess-of-islamabad)*
+- Reports suggest Oscar winner Anne Hathaway may be expecting her third child. *[ARY](https://arynews.tv/anne-hathaway-pregnant-actor-expecting-third-child)*
 
