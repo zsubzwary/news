@@ -7,51 +7,45 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Jun-2026 09:11PKT 
+ &lrm; 19-Jun-2026 21:09PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- ایف بی آر نے سینٹ کمیٹی کو بتایا کہ تمباکو کے شعبے میں سالانہ ٹیکس چوری کا تخمینہ 40 ارب روپے ہے، جو کہ حکومتی دعوے (ایک ارب ڈالر) سے کہیں کم ہے۔ *[Dawn](https://www.dawn.com/news/2009023/fbr-tells-senate-panel-tobacco-tax-theft-is-rs40bn-not-1bn)*
-- خیبر پختونخوا حکومت آج 2.15 ٹریلین روپے کا ٹیکس فری بجٹ پیش کرنے والی ہے، جس میں سرکاری ملازمین کی تنخواہوں میں 7 فیصد اضافہ شامل ہے۔ *[Dawn](https://www.dawn.com/news/2008995/kp-to-unveil-rs215tr-tax-free-budget-today)*
-- بلوچستان میں بجٹ بحث کے دوران سخت تلخ کلامی ہوئی اور پہلی بار بجٹ کے دستاویزات صحافیوں اور عوام سے چھپا لیے گئے۔ *[Dawn](https://www.dawn.com/news/2009013/balochistan-budget-2026-27-press-shut-out-as-balochistan-budget-draws-mpas-ire)*
-- بجٹ کے حوالے سے ایک تجزیے میں کہا گیا کہ بڑھتی ہوئی مہنگائی اور ٹیکسوں کے بوجھ کے باوجود بجٹ عام آدمی کی ضروریات کو نظر انداز کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2009039/they-dont-really-care)*
-- خواجہ آصف کا کہنا ہے کہ اگر 1991 میں پاکستان اسٹیل ملز کو بروقت بند کر دیا جاتا تو ملک کے اربوں روپے بچ سکتے تھے۔ *[ARY](https://arynews.tv/khawaja-asif-pakistan-steel-mills-should-have-been-shut-earlier)*
+- وزیر اعظم شہباز شریف نے پیٹرول کی قیمتوں میں 74 روپے اور ڈیزل کی قیمتوں میں 67 روپے کمی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2009236/pm-shehbaz-announces-reduction-in-prices-of-petrol-by-rs74-diesel-by-rs67)*
+- خیبر پختونخوا کے وزیر اعلیٰ نے مالی سال 2026-27 کے لیے 2.17 ٹریلین روپے کا بجٹ پیش کیا، جس میں 48 ارب روپے کے مالیاتی خسارے کا تخمینہ لگایا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2009164/fy2026-27-kp-cm-presents-rs217tr-budget-with-estimated-fiscal-deficit-of-rs48bn)*
+- امریکہ اور ایران کے درمیان مذاکرات میں تاخیر کے باعث پاکستان اسٹاک ایکسچینج (PSX) کے انڈیکس میں 2,400 سے زائد پوائنٹس کی بڑی گراوٹ ہوئی۔ *[Dawn](https://www.dawn.com/news/2009125/psx-tumbles-over-2400-points-on-back-of-uncertainty-over-us-iran-talks)*
+- پاکستان میں سونے اور چاندی کی قیمتوں میں بھی بڑی کمی دیکھی گئی۔ *[ARY](https://arynews.tv/gold-and-silver-prices-plunge-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- ایپل نے پاکستان میں جی نیکسٹ (GNext) کے اشتراک سے دراز (Daraz) پر اپنا آفیشل فلیگ شپ اسٹور لانچ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008918/apple-launches-official-flagship-store-on-e-commerce-platform-daraz-pakistan)*
+- بھارت میں ایپل کے سپلائر ٹاٹا کی آئی فون پارٹس فیکٹری کے گرد ماحول کو آلودہ کرنے کے الزامات پر طبی تحقیقات کا آغاز کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2009131/tatas-iphone-parts-factory-in-indias-tamil-nadu-faces-health-probe-after-farmers-contamination-complaints)*
 
 ### سیاست
-- سینات کی قائمہ کمیٹی کی چیئرپرسن شیری رحمان نے موسمیاتی تبدیلیوں کے بجٹ میں کمی پر تشویش کا اظہار کرتے ہوئے اسے "خطرناک" قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008996/budget-2026-27-shocking-climate-budget-cut-draws-warning-from-sherry-rehman)*
-- پی ٹی آئی (PTI) رہنماؤں کو ایک بار پھر اڈیالہ جیل میں عمران خان سے ملاقات کی اجازت دینے سے انکار کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2009012/pti-leaders-denied-meeting-with-imran)*
-- اسلام آباد ہائی کورٹ نے کے پی کے وزیر اعلیٰ کی جانب سے عمران خان سے بجٹ مشاورت کے لیے ملاقات کی درخواست کو چیف جسٹس کے حوالے کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008905/ihc-refers-afridis-petition-seeking-meeting-with-imran-for-provincial-budget-consultations-to-chief-justice)*
-- بلاول بھٹو زرداری کا کہنا ہے کہ وفاق نے وعدہ کیا ہے کہ صوبوں کے ترقیاتی فنڈز میں مزید کمی نہیں کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2008864/centre-committed-not-to-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal)*
+- وفاقی وزیر رانا ثناء اللہ نے یقین دہانی کرائی ہے کہ حکومت ایف اے ٹی اے (FATA) کے علاقوں کے لیے ٹیکس چھوٹ کے معاملے پر آئی ایم ایف (IMF) سے بات کرے گی۔ *[Dawn](https://www.dawn.com/news/2009230/finmin-to-discuss-extension-of-fata-tax-exemptions-with-imf-says-sanaullah-after-pti-govt-meeting)*
+- گلگت بلتستان کی سپریم اپیلٹ کورٹ نے تین حلقوں کے انتخابی نتائج معطل کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2009242/gbs-supreme-appellate-court-suspends-election-results-for-candidates-of-3-constituencies)*
+- پنجاب اسمبلی میں پی پی پی (PPP) کے رکن اسمبلی نے سرائیکی صوبہ بنانے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/saraiki-province-demand-in-punjab-assembly)*
 
 ### قومی
-- پنجاب پولیس اور سی سی ڈی نے چکوال میں ایک بچی کے قتل کے واقعے میں "مجرمانہ غفلت" تسلیم کرتے ہوئے کہا ہے کہ اس معاملے کو دبایا نہیں جائے گا۔ *[Dawn](https://www.dawn.com/news/2008924/punjab-police-ccd-admit-mistake-in-girls-killing-in-chakwal-assure-incident-will-not-be-covered-up)*
-- کراچی میں ٹرانسپورٹرز کی شہر گیر ہڑتال کے باعث شہریوں کو شدید مشکلات کا سامنا کرنا پڑ رہا ہے۔ *[Dawn](https://www.dawn.com/news/2009067/commuters-suffer-as-transporters-hold-strike)*
-- سپریم کورٹ آف پاکستان نے عدالتی عمل کو ڈیجیٹل ادائیگیوں کے ذریعے "کیش لیس" بنانے کے لیے اسٹیٹ بینک اور 1LINK کے ساتھ معاہدہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2009017/judicial-processes-go-cashless)*
-- مارگلہ ہلز نیشنل پارک کے تحفظ اور وہاں تجارتی سرگرمیوں کے حوالے سے بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2009037/mhnp-conservation-vs-absolutism)*
+- حکومت نے مشین ریڈ ایبل پاسپورٹس کے بجائے مکمل طور پر ای-پاسپورٹس (e-passports) پر منتقل ہونے کا فیصلہ کیا ہے تاکہ دھوکہ دہی کا خاتمہ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2009117/pakistan-to-fully-shift-to-e-passports)*
+- چکوال میں بچی کے قتل کے کیس میں لاہور ہائی کورٹ نے درخواست دائر کرنے والے خاندان کی درخواست خارج کر دی، جبکہ پنجاب پولیس نے اس واقعے کو 'مجرمانہ غفلت' قرار دے کر معافی مانگی ہے۔ *[Dawn](https://www.dawn.com/news/2009138/girls-killing-in-chakwal-lhc-disposes-of-petition-seeking-cases-transfer-to-fia)* اور *[Dawn](https://www.dawn.com/news/2008924/punjab-police-ccd-admit-mistake-in-girls-killing-in-chakwal-assure-incident-will-not-be-covered-up)*
 
 ### بین الاقوامی
-- امریکی نائب صدر جے ڈی وینس نے ایران کے ساتھ ہونے والے معاہدے پر اسرائیلی تنقید کرنے والوں کو سخت جواب دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal)*
-- وزیر اعظم شہباز شریف نے ایران کے صدر سے فون پر بات کرتے ہوئے کہا کہ واشنگٹن اور تہران کے درمیان معاہدہ ایران کی تعمیر نو میں اہم ہوگا۔ *[Dawn](https://www.dawn.com/news/2008902/landmark-islamabad-mou-to-go-a-long-way-in-rebuilding-iran-pm-shehbaz-tells-pezeshkian)*
-- پاکستان نے سندھ کے دریاؤں پر بھارت کے 17 منصوبوں کو "ہائیڈرو ہیجمنی" کا ذریعہ قرار دیتے ہوئے شدید مخالفت کی ہے۔ *[Dawn](https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony)*
-- یوکرین نے ماسکو میں ایک بڑے آئل ریفائنری پر ڈرون کے ذریعے بڑا حملہ کیا جس سے آگ لگ گئی۔ *[Dawn](https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years)*
-- ایران اور امریکہ کے درمیان ہونے والے معاہدے کی بنیاد پر ڈیجیٹل طور پر دستخط مکمل ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2009029/digital-deal)*
-- امریکی نائب صدر نے ایران کے ساتھ امن مذاکرات کے سلسلے میں اپنا دورہ منسوخ کر دیا ہے۔ *[ARY](https://arynews.tv/jd-vance-cancels-trip-for-peace-talks-with-iran)*
+- نائب وزیر اعظم اسحاق ڈار مصر کے شہر قاہرہ میں ہونے والے آر-4 (R-4) ممالک کے وزرائے خارجہ کے اجلاس میں شرکت کریں گے۔ *[Dawn](https://www.dawn.com/news/2009239/fm-dar-to-attend-r-4-foreign-ministers-meeting-in-cairo-on-june-21-fo)*
+- معلومات መروکاری نے افغان طالبان کے ان الزامات کی تردید کی ہے کہ انہوں نے سرحد کے علاقوں میں دہشت گردوں کے کیمپوں کو نشانہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/2009136/info-ministry-refutes-afghan-talibans-claim-of-strikes-in-border-areas)*
+- امریکہ اور ایران کے درمیان جنیوا میں ہونے والے امن مذاکرات امریکی نائب صدر کے سفر منسوخ ہونے کی وجہ سے ملتوی کر دیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2009110/us-iran-peace-talks-in-geneva-postponed)*
+- اسحاق ڈار نے اقوام متحدہ کی سلامتی کونسل کو خط لکھ کر سندھ طاس معاہدے کی خلاف ورزیوں پر بھارت کو تنبیہ کی ہے۔ *[Dawn](https://www.dawn.com/news/2009090/dar-writes-to-unsc-president-highlights-indias-brazen-violations-of-indus-waters-treaty)*
+- برطانیہ میں اینڈی برنہم کی کامیابی نے وزیراعظم اسٹارمر کے خلاف سیاسی چیلنج کے راستے کھول دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2009089/labours-andy-burnham-wins-uk-parliament-seat-paving-way-for-bid-to-oust-pm-starmer)*
+- امریکی نائب صدر جے ڈی وینس نے ایران کے ساتھ معاہدے پر اسرائیل کی تنقید کرنے والوں کو سخت جواب دیا ہے۔ *[Dawn](https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal)*
 
 ### کھیل
-- میکسیکو نے جنوبی کوریا کو ہرا کر ورلڈ کپ کے ناک آؤٹ مرحلے میں پہنچنے والی پہلی ٹیم ہونے کا اعزاز حاصل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2009051/co-hosts-mexico-first-team-into-world-cup-knockout-rounds)*
-- جنوبی افریقہ نے چیک جمہوریہ کے خلاف ڈرا کے ساتھ اپنے ورلڈ کپ کے خواب کو زندہ رکھا ہے۔ *[Dawn](https://www.dawn.com/news/2008926/south-africa-hold-czechs-keep-world-cup-knockout-dream-alive)*
-- ورلڈ کپ کے گروپ بی میں کینیڈا نے قطر کو شکست دے دی ہے۔ *[ARY](https://arynews.tv/canada-thrash-qatar-in-world-cup-group-b)*
-- سویڈن کے سربراہ پیٹر نے ورلڈ کپ میں اپنی ٹیم کی بہتری کے عزم کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/sweden-boss-potter-eyes-redemption-at-world-cup)*
-- سوئٹزرلینڈ نے بوسنیا ہرزیگووینا کو شکست دے کر ورلڈ کپ کے آخری 32 کے مرحلے میں جگہ بنانے کے قریب کامیابی حاصل کی۔ *[ARY](https://arynews.tv/switzerland-beat-bosnia-herzegovina-to-close-on-world-cup-last-32)*
-- ککوریلا نے ریئل میڈرڈ کی طرف سے منتقلی کو ایک بڑا قدم قرار دیا ہے۔ *[ARY](https://arynews.tv/real-madrid-move-huge-step-up-says-cucurella)*
-- انگلش کرکٹ کے عظیم کھلاڑی بوتھم نے اسٹوکس کی کرفیو توڑنے پر تنقید کی ہے۔ *[ARY](https://arynews.tv/england-great-botham-slams-stokes-for-breaking-curfew)*
+- مراکشی فٹ بالر اشرف حکیمی کے خلاف زیادتی کے الزامات پر فرانسیسی عدالت نے ٹرائل کا فیصلہ برقرار رکھا ہے۔ *[Dawn](https://www.dawn.com/news/2009144/french-court-confirms-morocco-and-psg-player-hakimi-to-stand-trial-on-rape-charge)*
+- انگلینڈ کے فٹ بالر ہیری کیین نے انگلینڈ کے مداحوں کے ساتھ اپنے بہترین تجربات کا ذکر کیا۔ *[ARY](https://arynews.tv/kane-says-england-fans-wonderwall-moment-ranks-among-his-best)*
+
+### صحت
+- آسٹریلیا میں H5N1 برڈ فلو کا پہلا مشکوک کیس دریافت کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2009162/australia-last-continent-without-h5-bird-flu-detects-first-suspected-case)*
+- کروز شپ پر ہنٹا وائرس (Hantavirus) کے پھیلاؤ کے خطرے سے متعلق عالمی صحت کے حوالے سے اہم اسباق سامنے آئے ہیں۔ *[Dawn](https://www.dawn.com/news/2009161/what-did-we-learn-from-the-hantavirus-cruise-ship-scare)*
 
 ### دیگر
--テイलर سوئفت نے 'ٹائے اسٹوری 5' کے لیے گانا تخلیق کرنے کے بارے میں اپنے تجربات شیئر کیے۔ *[ARY](https://arynews.tv/taylor-swift-shares-hectic-day-she-created-toy-story-5-song)*
-- شینی سوئینی نے اپنے بوائے فرینڈ سکوٹر براؤن کے لیے سالگرہ کی پوسٹ شیئر کی ہے۔ *[ARY](https://arynews.tv/sydney-sweeney-gushes-over-bf-scooter-braun-in-romantic-birthday-post)*
-- میگن مارکل کے برطانیہ واپسی کے حوالے سے شاہی خاندان میں تشویش پائی جا رہی ہے۔ *[ARY](https://arynews.tv/meghan-to-return-to-uk-for-invictus-with-prince-archie-and-lilibet-as-royals-furious)*
+- اسلام آباد کے مارگلہ ہلز میں ایک چیتے کی ہڈی اور پنجہ دریافت ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2009152/the-leopard-princess-of-islamabad)*
+- اداکارہ این ہیتھ وے کے تیسرے بچے کی پیدائش سے متعلق خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/anne-hathaway-pregnant-actor-expecting-third-child)*
 
