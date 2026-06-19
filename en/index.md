@@ -4,41 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 18-Jun-2026 09:04PKT
+Published at: 19-Jun-2026 09:05PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- The **federal budget debate** in the National Assembly has seen intense disagreements between ruling and opposition lawmakers as the session nears its conclusion. *[Dawn](https://www.dawn.com/news/2008679/budget-2026-27-budget-debate-nearly-devolves-into-fisticuffs)*
-- Balochistan has announced a **Rs1.09 trillion surplus budget**, which includes significant allocations for education and health but features cuts in development spending. *[Dawn](https://www.dawn.com/news/2008696/balochistan-rolls-out-rs1.09tr-surplus-budget)*
-- The Sindh government unveiled a **Rs3.56 trillion tax-free budget** for the 2026-27 fiscal year, including a minimum wage increase to Rs43,000. *[Dawn](https://www.dawn.com/news/2008710/sindh-budget-2026-27-sindh-unveils-rs356tr-budget-with-rs369bn-deficit)*
-- Critics have pointed out that Pakistan's **climate finance** remains inadequate because many climate policies are not formally approved or notified to allow for budget allocations. *[Dawn](https://www.dawn.com/news/2008724/policies-without-budget)*
-
-### Weather
-- Suparco has identified **130 potentially dangerous glacial lakes** using satellite imagery, warning that accelerating glacial melt due to climate change poses risks to downstream populations. *[Dawn](https://www.dawn.com/news/2008714/suparco-puts-130-glacial-lakes-on-danger-watch)*
+- Senator Sherry Rehman warned of "shocking" climate budget cuts, noting that funding has dropped from Rs3.5bn to Rs2.48bn. *[Dawn](https://www.dawn.com/news/2008996/budget-2026-27-shocking-climate-budget-cut-draws-warning-from-sherry-rehman)*
+- The FBR informed a Senate panel that annual tobacco tax theft is approximately Rs40 billion, significantly lower than the previously claimed $1 billion. *[Dawn](https://www.dawn.com/news/2009023/fbr-tells-senate-panel-tobacco-tax-theft-is-rs40bn-not-1bn)*
+- The Khyber Pakhtunkhwa government is set to unveil a Rs2.15 trillion tax-free budget, which includes a 7% raise for government workers. *[Dawn](https://www.dawn.com/news/2008995/kp-to-unveil-rs215tr-tax-free-budget-today)*
+- The Balochistan budget for 2026-27 has faced intense debate from lawmakers, and financial documents were withheld from the press for the first time. *[Dawn](https://www.dawn.com/news/2009013/balochistan-budget-2026-27-press-shut-out-as-balochistan-budget-draws-mpas-ire)*
+- Critics have noted that recent budgets fail to sufficiently address the needs of fixed-income groups during periods of high inflation. *[Dawn](https://www.dawn.com/news/2009039/they-dont-really-care)*
+- Apple has officially launched its flagship store on the Daraz Pakistan e-commerce platform in partnership with GNext. *[Dawn](https://www.dawn.com/news/2008918/apple-launches-official-flagship-store-on-e-commerce-platform-daraz-pakistan)*
+- Khawaja Asif remarked that the closure of Pakistan Steel Mills in 1991 could have saved the country billions. *[ARY](https://arynews.tv/khawaja-asif-pakistan-steel-mills-should-have-been-shut-earlier)*
 
 ### Politics
-- PPP Chairman Bilawal Bhutto-Zardari has agreed to join the **budget debate** following a meeting with Prime Minister Shehbaz Sharif to discuss provincial-central collaboration. *[Dawn](https://www.dawn.com/news/2008715/bilawal-agrees-to-join-budget-debate-after-meeting-with-pm-shehbaz)*
-- PML-N President Nawaz Sharif has called on protesters in **Azad Jammu and Kashmir (AJK)** to end sit-ins and engage in meaningful dialogue with the government. *[Dawn](https://www.dawn.com/news/2008589/nawaz-urges-ajk-to-end-protests-sit-ins-and-engage-in-meaningful-dialogue-with-govt)*
-- A PPP lawmaker has formally called for the creation of a **separate South Punjab province** during a Senate budget debate. *[Dawn](https://www.dawn.com/news/2008601/ppp-lawmaker-calls-for-separate-south-punjab-province-in-senate)*
-- The TTAP has rejected claims from the PTI leadership regarding a lack of notice for a large-scale demonstration outside **Adiala jail**. *[Dawn](https://www.dawn.com/news/2008602/ttap-rejects-pti-claims-of-no-prior-notice-for-10000-strong-demonstration-outside-adiala-jail)*
-- The PPP has secured **11 seats in Gilgit-Baltistan** after the Chief Election Commissioner resolved several pending election petitions. *[Dawn](https://www.dawn.com/news/2008559/ppp-secures-11-seats-as-gb-election-chief-decides-remaining-election-petitions)*
+- Bilawal Bhutto-Zardari stated that the federal government is committed to protecting provincial allocations under the 7th National Finance Commission (NFC) award. *[Dawn](https://www.dawn.com/news/2008864/centre-committed-not-to-ask-for-further-sacrifices-after-freeze-on-provinces-development-funds-bilawal)*
 
 ### National
-- The **Federal Constitutional Court (FCC)** has established new safeguards to ensure the rigorous enforcement of women's inheritance rights. *[Dawn](https://www.dawn.com/news/2008674/fcc-lays-down-safeguards-to-protect-womens-inheritance-rights)*
-- The **Supreme Court** is set to hear petitions regarding former Prime Minister Imran Khan’s access to his legal team and family while in custody. *[Dawn](https://www.dawn.com/news/2008677/sc-to-hear-pleas-on-imrans-access-to-lawyers-family-today)*
-- An autopsy report confirmed that a **nine-year-old girl** killed in a shooting in Chakwal sustained multiple gunshot wounds. *[Dawn](https://www.dawn.com/news/2008638/autopsy-report-of-nine-year-old-girl-killed-in-chakwal-ccd-shooting-reveals-multiple-bullet-wounds)*
+- Punjab police and the Crime Control Department admitted "criminal negligence" regarding the shooting of a nine-year-old girl in Chakwal. *[Dawn](https://www.dawn.com/news/2008924/punjab-police-ccd-admit-mistake-in-girls-killing-in-chakwal-assure-incident-will-not-be-covered-up)*
+- A citywide transport strike in Karachi has caused significant commuter distress as operators protest against electronic traffic challans and heavy fines. *[Dawn](https://www.dawn.com/news/2009067/commuters-suffer-as-transporters-hold-strike)*
+- The Supreme Court of Pakistan has signed an agreement to integrate digital payment solutions into judicial processes. *[Dawn](https://www.dawn.com/news/2009017/judicial-processes-go-cashless)*
+- PTI leaders were once again denied permission to meet incarcerated former Prime Minister Imran Khan at Adiala jail. *[Dawn](https://www.dawn.com/news/2009012/pti-leaders-denied-meeting-with-imran)*
+- The Islamabad High Court has referred a petition filed by KP leaders regarding budget consultation meetings with Imran Khan to the Chief Justice. *[Dawn](https://www.dawn.com/news/2008905/ihc-refers-afridis-petition-seeking-meeting-with-imran-for-provincial-budget-consultations-to-chief-justice)*
+- A debate continues regarding the Margalla Hills National Park, balancing the needs of conservation against tourism and economic activity. *[Dawn](https://www.dawn.com/news/2009037/mhnp-conservation-vs-absolutism)*
 
 ### International
-- Efforts are underway by Israeli officials and right-wing groups, with alleged U.S. involvement, to change the **status quo of the Al-Aqsa Mosque** compound. *[Dawn](https://www.dawn.com/news/2008678/move-afoot-to-change-al-aqsas-status)*
-- The United States has presented a **14-point interim agreement** with Iran intended to halt conflict and reopen the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2008644/us-official-unveils-14-point-iran-agreement-to-halt-conflict-and-reopen-strait-of-hormuz)*
-- Pakistan has extended its **airspace ban** on all Indian civilian and military aircraft until July 24, 2026. *[Dawn](https://www.dawn.com/news/2008630/paa-extends-airspace-ban-on-indian-aircraft-until-july-24)*
-- Commentary suggests that the winding down of conflict in Iran may redefine **regional power dynamics** and the role of Pakistan. *[Dawn](https://www.dawn.com/news/2008723/after-the-war)*
+- US Vice President JD Vance criticized Israeli lawmakers for their opposition to the memorandum of understanding between Washington and Tehran. *[Dawn](https://www.dawn.com/news/2008928/wake-up-us-vp-vance-rebukes-israeli-critics-of-iran-deal)*
+- Prime Minister Shehbaz Sharif highlighted that the Islamabad MoU will play a significant role in the rebuilding of Iran. *[Dawn](https://www.dawn.com/news/2008902/landmark-islamabad-mou-to-go-a-long-way-in-rebuilding-iran-pm-shehbaz-tells-pezeshkian)*
+- A digital agreement has been reached regarding the Iran-US memorandum of understanding, with PM Shehbaz Sharif acting as a mediator. *[Dawn](https://www.dawn.com/news/2009029/digital-deal)*
+- Pakistan has criticized 17 Indian projects on the Indus River System, labeling them tools for "hydro-hegemony." *[Dawn](https://www.dawn.com/news/2008889/pakistan-assails-17-indian-projects-on-indus-waterways-calls-them-tools-for-hydro-hegemony)*
+- Ukraine launched its largest drone attack on Moscow in years, targeting an oil refinery and causing fires and casualties. *[Dawn](https://www.dawn.com/news/2008917/ukraine-sets-moscow-refinery-ablaze-in-biggest-attack-in-years)*
 
 ### Sports
-- Portugal's World Cup campaign began with a **1-1 draw against DR Congo**, with Cristiano Ronaldo playing a limited role in the match. *[Dawn](https://www.dawn.com/news/2008645/ronaldo-fails-to-shine-as-dr-congo-earn-historic-world-cup-point)*
-- Ghanaian midfielder **Thomas Partey** was denied entry into Canada for the World Cup due to ongoing legal challenges in the UK. *[Dawn](https://www.dawn.com/news/2008646/ghanas-partey-loses-bid-to-enter-canada-for-world-cup)*
+- Co-hosts Mexico have secured a spot in the World Cup knockout rounds following a 1-0 victory over South Korea. *[Dawn](https://www.dawn.com/news/2009051/co-hosts-mexico-first-team-into-world-cup-knockout-rounds)*
+- South Africa remains in the hunt for the World Cup knockout stages after a 1-1 draw with the Czech Republic. *[Dawn](https://www.dawn.com/news/2008926/south-africa-hold-czechs-keep-world-cup-knockout-dream-alive)*
+- Canada defeated Qatar in a FIFA World Cup Group B match. *[ARY](https://arynews.tv/canada-thrash-qatar-in-world-cup-group-b)*
+- Sweden manager Graham Potter is looking for redemption at the upcoming World Cup. *[ARY](https://arynews.tv/sweden-boss-potter-eyes-redemption-at-world-cup)*
+- Switzerland moved closer to the World Cup last 32 after a victory over Bosnia-Herzegovina. *[ARY](https://arynews.tv/switzerland-beat-bosnia-herzegovina-to-close-on-world-cup-last-32)*
+- Cucurella described a move to Real Madrid as a "huge step up." *[ARY](https://arynews.tv/real-madrid-move-huge-step-up-says-cucurella)*
+- England legend Botham criticized Stokes for breaking curfew. *[ARY](https://arynews.tv/england-great-botham-slams-stokes-for-breaking-curfew)*
 
 ### Other
-- Recent observations highlight the danger of **hate speech** and its role in inciting physical violence against various communities. *[Dawn](https://www.dawn.com/news/2008720/words-that-wound)*
+- Taylor Swift shared insights into the "hectic day" she spent creating a song for *Toy Story 5*. *[ARY](https://arynews.tv/taylor-swift-shares-hectic-day-she-created-toy-story-5-song)*
+- Sydney Sweeney shared a romantic birthday post for her boyfriend, Scooter Braun. *[ARY](https://arynews.tv/sydney-sweeney-gushes-over-bf-scooter-braun-in-romantic-birthday-post)*
+- Meghan Markle’s planned return to the UK for Invictus has reportedly caused tension within the Royal Family. *[ARY](https://arynews.tv/meghan-to-return-to-uk-for-invictus-with-prince-archie-and-lilibet-as-royals-furious)*
 
