@@ -4,51 +4,39 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Jun-2026 09:05PKT
+Published at: 20-Jun-2026 21:03PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- The NA panel rejected the FBR's proposal to access bank account data due to fears of misuse, while proposing a 41% levy on luxury vehicles above 3,000cc. *[Dawn](https://www.dawn.com/news/2009395/budget-2026-27-na-panel-rejects-fbr-bid-to-access-bank-account-data)*
-- The government aims to privatize three electricity distribution companies (Discos) by offering 18-20% returns to investors. *[Dawn](https://www.dawn.com/news/2009365/govt-offers-20pc-returns-to-woo-buyers)*
-- Prime Minister Shehbaz Sharif announced a reduction in fuel prices, cutting petrol by Rs74 and diesel by Rs67. *[Dawn](https://www.dawn.com/news/2009236/pm-shehbaz-announces-reduction-in-prices-of-petrol-by-rs74-diesel-by-rs67)* *[ARY](https://arynews.tv/inside-the-fuel-price-cut-govt-slashes-petrol-levy-raises-tax-on-diesel)*
-- The Finance Minister intends to discuss extending tax exemptions for the merged FATA and Pata regions with the IMF. *[Dawn](https://www.dawn.com/news/2009230/finmin-to-discuss-extension-of-fata-tax-exemptions-with-imf-says-sanaullah-after-pti-govt-meeting)*
-- Analysis suggests Pakistan's continuous cycle of IMF programmes is driven by a narrow tax base and weak institutions. *[Dawn](https://www.dawn.com/news/2009410/inefficient-by-design)*
+- Finance Minister Muhammad Aurangzeb stated that the **FY27 budget** aims to accelerate the sustainable growth seen over the last two years. *[Dawn](https://www.dawn.com/news/2009454/budget-fy27-sets-the-foundation-to-accelerate-sustainable-growth-seen-in-past-2-years-aurangzeb)*
+- A parliamentary committee rejected a proposal by the **FBR** to access citizens' bank account data, citing concerns over potential misuse. *[Dawn](https://www.dawn.com/news/2009395/budget-2026-27-na-panel-rejects-fbr-bid-to-access-bank-account-data)*
 
 ### Politics
-- KP Chief Minister Muhammad Sohail Afridi announced a Rs2.17 trillion budget, stating that no grants will be provided to the federal government without a meeting with Imran Khan. *[Dawn](https://www.dawn.com/news/2009393/kp-budget-2026-27-no-funds-for-centre-sans-imran-meeting-says-afridi)*
+- The IT ministry clarified that proposed **telecommunication law amendments** do not include provisions for the compulsory acquisition of private land. *[Dawn](https://www.dawn.com/news/2009478/it-ministry-clarifies-proposed-telecom-law-amendments-do-not-mandate-acquisition-of-private-land)*
+- The **Supreme Court** ruled that judges who compromise their integrity or erode public confidence in the judiciary should be removed from service. *[Dawn](https://www.dawn.com/news/2009391/judges-who-lose-public-trust-should-be-removed-sc)*
 
 ### National
-- Azad Jammu and Kashmir (AJK) authorities placed 147 JAAC activists and supporters on the Fourth Schedule amid an ongoing region-wide strike. *[Dawn](https://www.dawn.com/news/2009385/ajk-puts-147-jaac-activists-supporters-on-fourth-schedule)*
-- The Supreme Court ruled that judges should be removed from service if their conduct compromises judicial integrity or erodes public confidence. *[Dawn](https://www.dawn.com/news/2009391/judges-who-lose-public-trust-should-be-removed-sc)*
-- The Judicial Commission of Pakistan (JCP) approved new rules governing interviews for judicial appointments. *[Dawn](https://www.dawn.com/news/2009389/jcp-approves-interview-rules-for-judicial-appointments)*
-- The Gilgit-Baltistan Supreme Appellate Court suspended election results for three constituencies, delaying the formation of the provincial government. *[Dawn](https://www.dawn.com/news/2009242/gbs-supreme-appellate-court-suspends-election-results-for-candidates-of-3-constituencies)*
-- Families of 10 Pakistani sailors held hostage by Somali pirates for two months continue to protest the government's perceived apathy. *[Dawn](https://www.dawn.com/news/2009343/two-months-on-fate-of-10-pakistani-sailors-held-by-somali-pirates-hangs-in-balance)*
+- A **public transport strike** in Karachi continues after failed negotiations between transporters and police regarding electronic traffic fines. *[Dawn](https://www.dawn.com/news/2009488/talks-between-transporters-police-break-down-as-karachi-strike-enters-third-day)*
+- An anti-terrorism court acquitted **Shah Mahmood Qureshi** but sentenced four other PTI leaders to 10 years in prison in connection with the May 9 riots. *[Dawn](https://www.dawn.com/news/2009472/may-9-riots-lahore-atc-acquits-shah-mahmood-qureshi-sentences-4-leaders-others-to-10-years)*
+- **PPP supporters** blocked the Karakoram Highway in Chilas to protest alleged irregularities in the GBA-16 election results. *[Dawn](https://www.dawn.com/news/2009496/ppp-supporters-block-karakoram-highway-in-chilas-allege-illegal-gba-16-election-result)*
+- Seven people were killed and three injured in **back-to-back explosions** in the Bannu district of KP. *[Dawn](https://www.dawn.com/news/2009439/7-dead-3-injured-in-back-to-back-blasts-in-kps-bannu)*
+- The **QS World University Rankings 2027** highlighted regional disparities in Pakistan's higher education, with QAU remaining the country's top institution. *[Dawn](https://www.dawn.com/news/2009327/qs-university-rankings-expose-regional-disparities-in-pakistans-higher-education)*
 
 ### International
-- Indian authorities are investigating allegations of embezzlement related to the Ram Mandir temple in Uttar Pradesh. *[Dawn](https://www.dawn.com/news/2009368/india-probes-graft-charges-at-temple-built-on-babri-mosque)*
-- The US Pentagon has requested $80 billion to cover costs for the Iran war and other non-war-related expenses. *[Dawn](https://www.dawn.com/news/2009367/pentagon-needs-80bn-for-iran-war--other-bills-wsj-reports)*
-- PM Shehbaz and the Saudi Crown Prince discussed the importance of diplomacy and vigilance in the ongoing Iran-US peace process. *[Dawn](https://www.dawn.com/news/2009269/pm-shehbaz-saudi-crown-prince-discuss-iran-us-talks-stress-peace-process-must-not-be-undermined)*
-- Italy expressed outrage after US President Donald Trump made mocking comments regarding Prime Minister Giorgia Meloni. *[Dawn](https://www.dawn.com/news/2009272/outrage-in-italy-after-trump-says-meloni-begged-for-photo-op)*
-- The Indus Waters Treaty continues to demonstrate resilience despite ongoing legal "lawfare" between India and Pakistan. *[Dawn](https://www.dawn.com/news/2009409/winning-the-indus-lawfare)*
-- Pakistan has been recognized as a significant diplomatic player in facilitating the US-Iran peace process. *[Dawn](https://www.dawn.com/news/2009413/pakistans-moment)*
-- Foreign Minister Ishaq Dar is scheduled to attend the 4th meeting of the R-4 group of countries in Cairo. *[Dawn](https://www.dawn.com/news/2009239/fm-dar-to-attend-r-4-foreign-ministers-meeting-in-cairo-on-june-21-fo)*
-
-### Weather
-- Heavy rainfall caused a landslide in Attock's Jand area, resulting in the temporary suspension of train services. *[Dawn](https://www.dawn.com/news/2009275/passengers-stranded-for-hours-after-landslide-halts-train-services-in-attocks-jand-area)*
-
-### Health
-- The Balochistan government is making arrangements to send acid attack victim Dr. Mahnoor Nasar abroad for medical treatment. *[Dawn](https://www.dawn.com/news/2009386/acid-attack-victim-mahnoor-to-get-treatment-abroad)*
+- Technical-level **US-Iran talks** are scheduled to held in Switzerland following a peace memorandum signed in Islamabad. *[Dawn](https://www.dawn.com/news/2009504/technical-level-talks-between-iran-us-scheduled-for-tomorrow-in-switzerland-fo)*
+- A fatal **train crash** near Bedford, UK, has left one person dead and nine others in critical condition. *[Dawn](https://www.dawn.com/news/2009486/nine-people-remain-in-critical-condition-after-fatal-uk-train-crash)*
+- US President **Donald Trump** credited Pakistan for providing significant assistance in reaching the US-Iran peace deal. *[Dawn](https://www.dawn.com/news/2009455/trump-says-pakistan-really-helped-us-with-iran-deal)*
+- Deputy PM **Ishaq Dar** arrived in Cairo for a quadrilateral meeting with foreign ministers from Egypt, Saudi Arabia, and Turkiye. *[Dawn](https://www.dawn.com/news/2009459/dar-arrives-in-cairo-for-quadrilateral-foreign-ministers-meeting-fo)*
+- President Trump unveiled a new **Air Force One replacement**, a luxury aircraft gifted by Qatar. *[Dawn](https://www.dawn.com/news/2009437/flying-white-house-trump-unveils-qatar-gifted-air-force-one-replacement)*
+- **Bangladesh PM** Tarique Rahman is set to embark on his first foreign tour, visiting Malaysia and China. *[Dawn](https://www.dawn.com/news/2009465/bangladesh-pm-to-visit-malaysia-china-on-first-foreign-tour)*
+- The **Bolivian President** declared a state of emergency following weeks of protests demanding his resignation. *[Dawn](https://www.dawn.com/news/2009469/bolivian-president-declares-state-of-emergency-after-weeks-of-protests-demanding-his-resignation)*
+- Indian authorities are investigating **alleged graft** at the Ram Mandir temple in Uttar Pradesh. *[Dawn](https://www.dawn.com/news/2009368/india-probes-graft-charges-at-temple-built-on-babri-mosque)*
+- Analysis suggests Pakistan may be able to reap significant diplomatic and economic **dividends** following its role in the US-Iran peace agreement. *[Dawn](https://www.dawn.com/news/2009462/pakistan-successfully-brokered-peace-between-the-us-and-iran-can-it-now-reap-the-dividend)*
 
 ### Sports
-- New Zealand maintains its semi-final hopes in the T20 championship. *[ARY](https://arynews.tv/defending-t20-champions-new-zealand-keep-semis-hopes-alive)*
-- Morocco defeated Scotland, moving closer to the World Cup knockout rounds. *[ARY](https://arynews.tv/morocco-beat-scotland-to-close-on-world-cup-knockouts)*
-- New Zealand built a significant lead against England following a century by Nicholls. *[ARY](https://arynews.tv/new-zealand-punish-england-as-nicholls-century-builds-huge-lead)*
-- Canadian star Kone is set to miss the remainder of the World Cup due to surgery. *[ARY](https://arynews.tv/canada-star-kone-to-miss-rest-of-world-cup-after-surgery-team)*
-- Zverev has advanced to a semi-final against Fritz at the Halle Open. *[ARY](https://arynews.tv/zverev-sets-up-fritz-semi-at-halle-open)*
-- The USA reached the World Cup knockout rounds after defeating Australia. *[ARY](https://arynews.tv/usa-down-australia-to-reach-world-cup-knockout-rounds)*
-- Portugal's Dias addressed the mounting criticism surrounding Cristiano Ronaldo during the World Cup. *[ARY](https://arynews.tv/portugal-tuning-out-noise-as-ronaldo-criticism-mounts-at-world-cup-dias)*
+- **World Cup players** have reported difficulties playing on the innovative grass surfaces used during the tournament. *[Dawn](https://www.dawn.com/news/2009329/pitch-not-perfect-world-cup-players-find-weirdness-underfoot-on-innovative-grass)*
 
-### Other
-- Medical school hopefuls in India are facing significant anxiety ahead of their second attempt at the NEET exam. *[ARY](https://arynews.tv/neet-india-students-beset-with-anxiety-ahead-of-second-attempt)*
+### Health
+- Officials in **northeastern Congo** fear a rapid spread of Ebola after dozens of deaths were reported in a civilian camp. *[Dawn](https://www.dawn.com/news/2009502/dozens-of-deaths-at-congo-camp-suggest-ebola-could-be-spreading-fast)*
 
