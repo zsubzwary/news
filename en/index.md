@@ -4,51 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-Jun-2026 09:05PKT
+Published at: 21-Jun-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The federal budget for FY27 shows reduced allocations for most climate-related sectors, with the exception of disaster management. *[Dawn](https://www.dawn.com/news/2009607/climate-action-takes-a-backseat-in-federal-budget-fy27)*
-- The Balochistan Assembly has passed a supplementary budget exceeding Rs119 billion for the 2025-26 fiscal year without debate. *[Dawn](https://www.dawn.com/news/2009604/balochistan-budget-2026-27-balochistan-passes-rs119bn-suppl-budget-without-debate)*
-- Following a reduction in fuel prices spurred by a US-Iran deal, the Senate has terminated all fuel conservation and austerity measures. *[Dawn](https://www.dawn.com/news/2009516/senate-ends-fuel-conservation-austerity-measures-after-fuel-prices-ease)*
-- Finance Minister Muhammad Aurangzeb asserted that the FY27 budget will build upon the sustainable growth seen over the last two years. *[Dawn](https://www.dawn.com/news/2009454/budget-fy27-sets-the-foundation-to-accelerate-sustainable-growth-seen-in-past-2-years-aurangzeb)*
-- China's growing homegrown foie gras industry is emerging as a new rival to France. *[ARY](https://arynews.tv/foie-gras-production-a-growing-industry-in-china)*
-- Japan is aiming to achieve $2.3 trillion in public-private investment by 2040. *[ARY](https://arynews.tv/japan-to-target-2-3-trillion-public-private-investment-by-2040)*
+- Pakistan aims to train and deploy 300,000 to 400,000 workers for projects related to the FIFA World Cup 2034 in Saudi Arabia. *[Dawn](https://www.dawn.com/news/2009709/pakistan-targets-400000-trained-workers-for-fifa-world-cup-2034-hosted-by-saudi-arabia)*
+- Despite ongoing Middle East conflicts, over 300,000 Pakistanis migrated to Middle Eastern states like Saudi Arabia and the UAE between January and May. *[Dawn](https://www.dawn.com/news/2009573/middle-east-conflict-fails-to-deter-gulf-job-exodus)*
+- Pakistan's mango exports are projected to shrink by up to 30% due to the lingering impacts of the Middle East war. *[Dawn](https://www.dawn.com/news/2009699/pakistans-mango-exports-may-shrink-up-to-30pc-as-middle-east-war-impacts-linger)*
+- The Pakistan Telecommunication (Amendment) Bill 2026 has been deferred by the Senate Standing Committee on IT and Telecom following "exploitative" criticisms. *[Dawn](https://www.dawn.com/news/2009575/exploitative-telecom-bill-deferred)*
+- Allocations for climate action in Pakistan's FY27 federal budget have decreased across almost all categories, except for disaster management. *[Dawn](https://www.dawn.com/news/2009607/climate-action-takes-a-backseat-in-federal-budget-fy27)*
+- The Balochistan Assembly approved a supplementary budget of over Rs119 billion for the 2025-26 fiscal year without debate. *[Dawn](https://www.dawn.com/news/2009604/balochistan-budget-2026-27-balochistan-passes-rs119bn-suppl-budget-without-debate)*
+
+### Science & Technology
+- Upcoming iOS 27 updates are expected to introduce significant new AI features for users. *[ARY](https://arynews.tv/ios-27-introduces-ai-features-for-users)*
+- Possible pricing for the highly anticipated GTA 6 has reportedly appeared on a Portuguese website. *[ARY](https://arynews.tv/gta-6-prices-appear-to-have-been-listed-on-a-portuguese-website)*
 
 ### Weather
-- A severe heatwave is sweeping across Europe, prompting France to restrict alcohol consumption and causing warnings across Germany and Spain. *[Dawn](https://www.dawn.com/news/2009530/europe-swelters-under-heatwave-france-restricts-alcohol-consumption)*
+- The NDMA has issued a nationwide alert warning of thunderstorms, heavy rainfall, and potential flooding over the next 12 to 24 hours. *[Dawn](https://www.dawn.com/news/2009704/ndma-warns-of-critical-24-hour-weather-window-nationwide)*
 
 ### Politics
-- The PTI has criticized the government's fiscal policies, labeling them as "anti-farmer" and "anti-poor." *[Dawn](https://www.dawn.com/news/2009605/pti-slams-govt-for-anti-poor-fiscal-policies)*
-- The PPP has announced it will lead the Gilgit-Baltistan government through a power-sharing agreement with the PML-N. *[Dawn](https://www.dawn.com/news/2009532/ppp-to-lead-gb-govt-under-power-sharing-deal-with-pml-n)*
+- UK Prime Minister Keir Starmer is reportedly weighing his political future following a recent by-election victory by rival Andy Burnham. *[Dawn](https://www.dawn.com/news/2009758/uk-pm-starmer-mulling-political-realities-senior-minister)*
+- The PPP has announced Advocate Amjad Hussain as its candidate for the post of Gilgit-Baltistan chief minister. *[Dawn](https://www.dawn.com/news/2009695/ppp-chairman-gives-the-nod-to-advocate-amjad-hussain-for-post-of-gb-chief-minister)*
+- A parliamentary committee has raised concerns regarding the proposed carbon levy in the upcoming budget. *[Dawn](https://www.dawn.com/news/2009576/budget-2026-27-na-panel-questions-climate-levy)*
 
 ### National
-- The Judicial Commission of Pakistan has initiated the process to fill 10 vacant additional judge positions in the Lahore High Court. *[Dawn](https://www.dawn.com/news/2009606/judicial-commission-of-pakistan-initiates-process-to-fill-high-court-vacancies)*
-- The IT ministry clarified that proposed amendments to telecommunication laws do not include the compulsory acquisition of private land. *[Dawn](https://www.dawn.com/news/2009478/it-ministry-clarifies-proposed-telecom-law-amendments-do-not-mandate-acquisition-of-private-land)*
-- A public transport strike in Karachi has entered its third day after talks between transporters and police failed. *[Dawn](https://www.dawn.com/news/2009488/talks-between-transporters-police-break-down-as-karachi-strike-enters-third-day)*
-- An anti-terrorism court in Lahore acquitted Shah Mahmood Qureshi but sentenced four other PTI leaders to 10 years in prison for the May 9 riots. *[Dawn](https://www.dawn.com/news/2009472/may-9-riots-lahore-atc-acquits-shah-mahmood-qureshi-sentences-4-leaders-others-to-10-years)*
-- PPP supporters blocked the Karakoram Highway in Chilas to protest alleged illegal election results in the GBA-16 constituency. *[Dawn](https://www.dawn.com/news/2009496/ppp-supporters-block-karakoram-highway-in-chilas-allege-illegal-gba-16-election-result)*
-- Seven people were killed and three injured in two separate explosions in the Bannu district of KP. *[Dawn](https://www.dawn.com/news/2009439/7-dead-3-injured-in-back-to-back-blasts-in-kps-bannu)*
-- A court in Quetta sentenced the father and maternal uncle of a 14-year-old girl to life imprisonment for her murder. *[Dawn](https://www.dawn.com/news/2009600/life-term-for-father-uncle-over-girls-murder)*
+- The Judicial Commission of Pakistan has begun the process to fill 10 vacant additional judge positions in the Lahore High Court. *[Dawn](https://www.dawn.com/news/2009606/judicial-commission-of-pakistan-initiates-process-to-fill-high-court-vacancies)*
+- The Pakistan Maritime Security Agency (PMSA) is coordinating the repatriation and humanitarian assistance of eight Iranian nationals rescued at sea. *[Dawn](https://www.dawn.com/news/2009751/pmsa-begins-repatriation-humanitarian-assistance-of-8-iranian-nationals-rescued-at-sea)*
+- A court has granted police additional time to file a final charge sheet against alleged cocaine dealer Anmol Pinky. *[Dawn](https://www.dawn.com/news/2009635/police-get-more-time-to-file-final-charge-sheet-against-alleged-cocaine-dealer-anmol-pinky)*
 
 ### International
-- PM Shehbaz Sharif and CDF Asim Munir have departed for Switzerland to attend technical-level talks between Iran and the United States. *[Dawn](https://www.dawn.com/news/2009504/pm-shehbaz-cdf-asim-munir-depart-for-switzerland-to-attend-iran-us-talks)*
-- Israeli strikes in Lebanon have killed at least 20 people, straining a recent ceasefire agreement. *[Dawn](https://www.dawn.com/news/2009582/at-least-20-killed-as-israel-continues-attacks-in-lebanon)*
-- Israeli airstrikes in Gaza killed at least 11 people, including a journalist, despite ongoing efforts to maintain a ceasefire. *[Dawn](https://www.dawn.com/news/2009579/journalist-among-11-killed-in-israels-assault-on-gaza)*
-- Counter-terrorism officers in Scotland are investigating suspected anti-Muslim violent attacks in Edinburgh. *[Dawn](https://www.dawn.com/news/2009523/counter-terror-cops-probe-suspected-anti-muslim-attacks-in-edinburgh)*
-- Italian Prime Minister Giorgia Meloni has responded to diplomatic criticisms from US President Donald Trump. *[Dawn](https://www.dawn.com/news/2009521/meloni-hits-back-as-trump-escalates-g7-photo-spat)*
-- Nine people remain in critical condition following a fatal train collision near Bedford, UK. *[Dawn](https://www.dawn.com/news/2009486/nine-people-remain-in-critical-condition-after-fatal-uk-train-crash)*
-- Reports indicate that UK Prime Minister Keir Starmer may be prepared to resign. *[ARY](https://arynews.tv/keir-starmer-uk-pm-ready-to-quit-says-reports)*
+- Technical-level talks between the US and Iran have commenced in Switzerland to address the Islamabad Memorandum of Understanding. *[Dawn](https://www.dawn.com/news/2009504/peace-requires-give-and-take-vance-shehbaz-amp-al-thani-address-summit-opening-ceremony-ahead-of-talks-in-burgenstock)*
+- Pakistan, Saudi Arabia, Turkiye, and Egypt have emphasized the importance of a swift conclusion to the current phase of US-Iran negotiations. *[Dawn](https://www.dawn.com/news/2009729/pakistan-saudi-arabia-turkiye-egypt-stress-importance-of-swift-conclusion-to-current-phase-of-us-iran-talks)*
+- Israeli airstrikes in Gaza have killed at least 11 people, including a journalist, despite the presence of a ceasefire. *[Dawn](https://www.dawn.com/news/2009579/journalist-among-11-killed-in-israels-assault-on-gaza)*
+- Israeli strikes in Lebanon have killed at least 20 people, highlighting the fragility of the recent ceasefire with Hezbollah. *[Dawn](https://www.dawn.com/news/2009582/at-least-20-killed-as-israel-continues-attacks-in-lebanon)*
+- A man has been charged in connection with suspected anti-Muslim attacks in Edinburgh, UK. *[Dawn](https://www.dawn.com/news/2009681/man-charged-over-suspected-anti-muslim-attacks-in-uks-edinburgh)*
+- Deputy PM Ishaq Dar revealed that there will be no transit fees in the Strait of Hormuz for the next 60 days. *[ARY](https://arynews.tv/us-iran-relations-no-fees-in-strait-of-hormuz)*
 
 ### Sports
-- Spain expresses readiness to respond strongly in upcoming competitions. *[ARY](https://arynews.tv/fired-up-spain-ready-to-hit-back-says-de-la-fuente)*
-- Malaga has secured La Liga promotion after defeating Almeria in a play-off. *[ARY](https://arynews.tv/malaga-defeat-almeria-in-play-off-to-win-la-liga-promotion)*
-- Germany has reached the last 32 of the World Cup by defeating Ivory Coast. *[ARY](https://arynews.tv/germany-beat-ivory-coast-to-reach-world-cup-last-32)*
-
-### Health
-- An experimental heart drug may also show potential in helping to heal kidneys. *[ARY](https://arynews.tv/ebola-and-its-long-term-effects-on-health)*
+- Japan secured a dominant 4-0 victory over Tunisia in the 1,000th match in World Cup history. *[Dawn](https://www.dawn.com/news/2009696/japan-rout-tunisia-4-0-as-ueda-shines-in-world-cups-1000th-match)*
 
 ### Other
-- The UN has stated that children are bearing the disproportionate brunt of various climate hazards. *[ARY](https://arynews.tv/climate-focus-children-bearing-brunt-of-climate-hazards-un-says)*
+- Dua Lipa’s wedding dress in Sicily featured an elaborate design with 480,000 beads and 25,000 feathers. *[ARY](https://arynews.tv/dua-lipas-sicily-couture-wedding-dress-dazzles-with-480000-beads-and-25000-feathers)*
+- Meghan Markle’s potential return to the UK continues to draw media attention. *[ARY](https://arynews.tv/meghan-markles-desperate-wish-for-respect-unfulfilled-as-uk-return-looms)*
+- Taylor Swift's presence in Rhode Island has sparked rumors regarding a bachelorette party. *[ARY](https://arynews.tv/taylor-swifts-rhode-island-lights-up-with-fireworks-amid-bachelorette-buzz)*
+- Reese Witherspoon expressed her excitement regarding the *Legally Blonde* prequel, *Elle*. *[ARY](https://arynews.tv/reese-witherspoon-calls-legally-blonde-prequel-elle-a-dream-come-true)*
+- Erling Haaland reportedly confused Monroe with actress Sydney Sweeney. *[ARY](https://arynews.tv/i-was-thinking-of-her-haaland-mistakes-monroe-for-sydney-sweeney)*
+- Information was provided on how to check UAE visa status online. *[ARY](https://arynews.tv/how-to-check-your-uae-visa-status-online)*
 
