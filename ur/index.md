@@ -7,55 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Jun-2026 09:10PKT 
+ &lrm; 21-Jun-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- وفاقی بجٹ FY27 میں موسمیاتی تبدیلیوں سے نمٹنے کے لیے مختص فنڈز میں کمی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2009607/climate-action-takes-a-backseat-in-federal-budget-fy27)*
-- بلوچستان اسمبلی نے 119 ارب روپے کا ضمنی بجٹ بغیر کسی بحث کے منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2009604/balochistan-budget-2026-27-balochistan-passes-rs119bn-suppl-budget-without-debate)*
-- پی ٹی آئی نے حکومت کی مالیاتی پالیسیوں کو غریب اور کسان دشمن قرار دیتے ہوئے سخت تنقید کی ہے۔ *[Dawn](https://www.dawn.com/news/2009605/pti-slams-govt-for-anti-poor-fiscal-policies)*
-- ایندھن کی قیمتوں میں کمی کے بعد سینیٹ نے کفایت شعاری کے تمام اقدامات ختم کر دیے۔ *[Dawn](https://www.dawn.com/news/2009516/senate-ends-fuel-conservation-austerity-measures-after-fuel-prices-ease)*
-- وزیر خزانہ محمد اورنگزیب کا کہنا ہے کہ بجٹ FY27 پائیدار ترقی کی بنیاد فراہم کرے گا۔ *[Dawn](https://www.dawn.com/news/2009454/budget-fy27-sets-the-foundation-to-accelerate-sustainable-growth-seen-in-past-2-years-aurangzeb)*
-- جاپان نے 2040 تک 2.3 ٹریلین ڈالر کی عوامی-نجیتی سرمایہ کاری کا ہدف مقرر کیا ہے۔ *[ARY](https://arynews.tv/japan-to-target-2-3-trillion-public-private-investment-by-2040)*
+- پاکستان فیفا ورلڈ کپ 2034 کے لیے 3 سے 4 لاکھ تربیت یافتہ ورکرز تیار کرنے کا ہدف رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2009709/pakistan-targets-400000-trained-workers-for-fifa-world-cup-2034-hosted-by-saudi-arabia)*
+- مشرق وسطیٰ میں جاری تنازعات کے باعث پاکستان کی آم برآمدات میں 30 فیصد تک کمی کا خدشہ ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2009699/pakistans-mango-exports-may-shrink-up-to-30pc-as-middle-east-war-impacts-linger)*
+- نئے مالیاتی سال کے وفاقی بجٹ میں موسمیاتی تبدیلیوں کے حوالے سے مختص کردہ فنڈز میں کمی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2009607/climate-action-takes-a-backseat-in-federal-budget-fy27)*
+- پاکستان ٹیلی کمیونیکیشن (ترمیم) بل 2026 کو سینیٹ کی متعلقہ کمیٹی نے مؤخر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009575/exploitative-telecom-bill-deferred)*
+- بلوچستان اسمبلی نے 119 ارب روپے کا سپلیمنٹری بجٹ بغیر کسی بحث کے منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2009604/balochistan-budget-2026-27-balochistan-passes-rs119bn-suppl-budget-without-debate)*
+- پارلیمانی کمیٹی نے بجٹ میں مجوزہ کاربن لیوی پر سوالات اٹھائے ہیں۔ *[Dawn](https://www.dawn.com/news/2009576/budget-2026-27-na-panel-questions-climate-levy)*
+- مشرق وسطیٰ میں جنگ کے باوجود پاکستانی ورکرز کی سعودی عرب اور متحدہ عرب امارات جانے کی شرح میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2009573/middle-east-conflict-fails-to-deter-gulf-job-exodus)*
 
 ### سائنس اور ٹیکنالوجی
-- آئی ٹی وزارت نے واضح کیا ہے کہ مجوزہ ٹیلی کام قانون نجی زمین کے حصول کا مطالبہ نہیں کرتا۔ *[Dawn](https://www.dawn.com/news/2009478/it-ministry-clarifies-proposed-telecom-law-amendments-do-not-mandate-acquisition-of-private-land)*
+- iOS 27 میں نئے مصنوعی ذہانت (AI) کے فیچرز متعارف کرائے جانے کے امکانات ہیں۔ *[ARY](https://arynews.tv/ios-27-introduces-ai-features-for-users)*
+- ایک پرتگالی ویب سائٹ پر مشہور گیم GTA 6 کی قیمتوں کے حوالے سے معلومات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/gta-6-prices-appear-to-have-been-listed-on-a-portuguese-website)*
 
 ### موسم
-- یورپ میں شدید گرمی کی لہر کے باعث فرانس میں الکحل کے استعمال پر جزوی پابندی لگا دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2009530/europe-swelters-under-heatwave-france-restricts-alcohol-consumption)*
+- این ڈی ایم اے نے ملک بھر میں اگلے 24 گھنٹوں کے دوران شدید بارشوں، طوفان اور سیلابی صورتحال کا الرٹ جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009704/ndma-warns-of-critical-24-hour-weather-window-nationwide)*
 
 ### سیاست
-- پیپلز پارٹی اور مسلم لیگ ن کے درمیان معاہدے کے تحت گلگت بلتستان میں پی پی پی حکومت بنائے گی۔ *[Dawn](https://www.dawn.com/news/2009532/ppp-to-lead-gb-govt-under-power-sharing-deal-with-pml-n)*
-- جوڈیشل کمیشن نے لاہور ہائی کورٹ میں خالی اسامیوں کو پُر کرنے کا عمل شروع کر دیا۔ *[Dawn](https://www.dawn.com/news/2009606/judicial-commission-of-pakistan-initiates-process-to-fill-high-court-vacancies)*
-- لاہور اے ٹی سی نے 9 مئی کے فسادات کے کیس میں شاہ محمود قریشی کو بری اور دیگر رہنماؤں کو 10 سال قید کی سزا سنائی۔ *[Dawn](https://www.dawn.com/news/2009472/may-9-riots-lahore-atc-acquits-shah-mahmood-qureshi-sentences-4-leaders-others-to-10-years)*
-- کراچی میں ٹرانسپورٹرز کی ہڑتال تیسرے دن بھی جاری رہی کیونکہ پولیس کے ساتھ مذاکرات ناکام ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009488/talks-between-transporters-police-break-down-as-karachi-strike-enters-third-day)*
-- جی بی اے 16 کے الیکشن کے نتائج کے خلاف احتجاج کے دوران پی پی پی کے حامیوں نے شاہراہ قراقرم کو بلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2009496/ppp-supporters-block-karakoram-highway-in-chilas-allege-illegal-gba-16-election-result)*
+- برطانوی وزیراعظم کیئر اسٹارمر کو سیاسی دباؤ اور لیبر پارٹی کے اندر قیادت کے چیلنجز کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2009758/uk-pm-starmer-mulling-political-realities-senior-minister)*
 
 ### قومی
-- بنوں کے علاقے میں دو دھماکوں کے نتیجے میں 7 افراد ہلاک اور 3 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009439/7-dead-3-injured-in-back-to-back-blasts-in-kps-bannu)*
-- کوئٹہ کی عدالت نے ایک لڑکی کے قتل کے الزام میں اس کے باپ اور ماموں کو عمر قید کی سزا سنائی۔ *[Dawn](https://www.dawn.com/news/2009600/life-term-for-father-uncle-over-girls-murder)*
+- پیپلز پارٹی نے گلگت بلتستان کے چیف منسٹر کے لیے ایڈووکیٹ امجد حسین کے نام کی حمایت کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2009695/ppp-chairman-gives-the-nod-to-advocate-amjad-hussain-for-post-of-gb-chief-minister)*
+- پاکستان میری ٹائم سیکیورٹی ایجنسی نے سمندر سے ریسکیو کیے گئے 8 ایرانی شہریوں کی واپسی اور انسانی امداد کا عمل شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009751/pmsa-begins-repatriation-humanitarian-assistance-of-8-iranian-nationals-rescued-at-sea)*
+- جوڈیشل کمیشن آف پاکستان نے ہائی کورٹ میں خالی اسامیوں کو پُر کرنے کے لیے نامزدگیوں کا عمل شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009606/judicial-commission-of-pakistan-initiates-process-to-fill-high-court-vacancies)*
+- عدالت نے مبینہ کوکین ڈیلر انمل پنکی کے خلاف حتمی چارج شیٹ فائل کرنے کے لیے پولیس کو مزید وقت دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009635/police-get-more-time-to-file-final-charge-sheet-against-alleged-cocaine-dealer-anmol-pinky)*
 
 ### بین الاقوامی
-- وزیراعظم شہباز شریف اور سی ڈی ایف عاصم منیر ایران اور امریکہ کے درمیان مذاکرات میں شرکت کے لیے سوئٹزرلینڈ روانہ ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009504/pm-shehbaz-cdf-asim-munir-depart-for-switzerland-to-attend-iran-us-talks)*
-- ایران کا وفد امریکہ کے ساتھ مذاکرات کے لیے سوئٹزرلینڈ پہنچ چکا ہے۔ *[ARY](https://arynews.tv/iranian-delegation-arrives-in-switzerland-for-us-talks)*
-- امریکی سیاست دان جے ڈی وینس بھی ایران مذاکرات کے لیے سوئٹزرلینڈ روانہ ہو گئے۔ *[ARY](https://arynews.tv/jd-vance-departs-washington-for-iran-talks-in-switzerland)*
-- لبنان میں اسرائیلی حملوں کے نتیجے میں کم از کم 20 افراد ہلاک ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2009582/at-least-20-killed-as-israel-continues-attacks-in-lebanon)*
-- غزہ میں اسرائیلی حملوں میں ایک صحافی سمیت 11 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009579/journalist-among-11-killed-in-israels-assault-on-gaza)*
-- اطالوی وزیراعظم جولیا میلونی اور ڈونلڈ ٹرمپ کے درمیان سفارتی تنازع شدت اختیار کر گیا ہے۔ *[Dawn](https://www.dawn.com/news/2009521/meloni-hits-back-as-trump-escalates-g7-photo-spat)*
-- برطانیہ کے بیڈفورڈ کے قریب ٹرین حادثے میں ایک ڈرائیور ہلاک اور نو افراد کی حالت تشویشناک ہے۔ *[Dawn](https://www.dawn.com/news/2009486/nine-people-remain-in-critical-condition-after-fatal-uk-train-crash)*
-- ایڈنبرا میں مسلمانوں کے خلاف تشدد کے واقعات کی تحقیقات کے لیے دہشت گردی مخالف پولیس متحرک ہو گئی۔ *[Dawn](https://www.dawn.com/news/2009523/counter-terror-cops-probe-suspected-anti-muslim-attacks-in-edinburgh)*
-- برطانوی وزیراعظم کیئر اسٹارمر کے استعفیٰ دینے کی خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/keir-starmer-uk-pm-ready-to-quit-says-reports)*
+- امریکہ اور ایران کے درمیان سوئٹزرلینڈ میں تکنیکی مذاکرات کا آغاز ہو گیا ہے تاکہ معاہدے کی تفصیلات طے کی جا سکیں۔ *[Dawn](https://www.dawn.com/news/2009504/peace-requires-give-and-take-vance-shehbaz-amp-al-thani-address-summit-opening-ceremony-ahead-of-talks-in-burgenstock)*
+- غزہ میں اسرائیلی حملوں کے نتیجے میں کم از کم 11 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009579/journalist-among-11-killed-in-israels-assault-on-gaza)*
+- لبنان میں اسرائیلی حملوں کے نتیجے میں کم از کم 20 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009582/at-least-20-killed-as-israel-continues-attacks-in-lebanon)*
+- سکاٹ لینڈ کے شہر ایڈنبرگ میں مسلم مخالف حملوں کے سلسلے میں ایک شخص پر فرد جرم عائد کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2009681/man-charged-over-suspected-anti-muslim-attacks-in-uks-edinburgh)*
+- ہرمز کے مقام پر 60 دنوں کے لیے کوئی ٹرانزٹ فیس نہیں لی جائے گی۔ *[ARY](https://arynews.tv/us-iran-relations-no-fees-in-strait-of-hormuz)*
 
 ### کھیل
-- سپین کی فٹ بال ٹیم کا سخت ردعمل دینے کے لیے تیار ہونے کا بیان سامنے آیا ہے۔ *[ARY](https://arynews.tv/fired-up-spain-ready-to-hit-back-says-de-la-fuente)*
-- مالگا نے المیریا کو شکست دے کر لالیگا میں ترقی حاصل کر لی ہے۔ *[ARY](https://arynews.tv/malaga-defeat-almeria-in-play-off-to-win-la-liga-promotion)*
-- جرمنی نے آئیوری کوسٹ کو ہرا کر ورلڈ کپ کے آخری 32 میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/germany-beat-ivory-coast-to-reach-world-cup-last-32)*
-
-### صحت
-- ایک تجرباتی دل کی دوا گردوں کے علاج میں بھی مددگار ثابت ہو سکتی ہے۔ *[ARY](https://arynews.tv/ebola-and-its-long-term-effects-on-health)*
+- ورلڈ کپ کے 1000ویں میچ میں جاپان نے تیونس کو 4-0 سے شکست دے دی۔ *[Dawn](https://www.dawn.com/news/2009696/japan-rout-tunisia-4-0-as-ueda-shines-in-world-cups-1000th-match)*
+- فٹ بال اسٹار ہالینڈ کی ایک بیان کردہ بات سوشل میڈیا پر زیر بحث ہے۔ *[ARY](https://arynews.tv/i-was-thinking-of-her-haaland-mistakes-monroe-for-sydney-sweeney)*
 
 ### دیگر
-- اقوام متحدہ کے مطابق موسمیاتی خطرات کا سب سے زیادہ اثر بچوں پر پڑ رہا ہے۔ *[ARY](https://arynews.tv/climate-focus-children-bearing-brunt-of-climate-hazards-un-says)*
-- چین میں 'فوئی گراس' کی پیداوار ایک تیزی سے بڑھتی ہوئی صنعت بن رہی ہے۔ *[ARY](https://arynews.tv/foie-gras-production-a-growing-industry-in-china)*
+- یو اے ای ویزا کے اسٹیٹس کو آن لائن چیک کرنے کے طریقہ کار کے بارے میں معلومات۔ *[ARY](https://arynews.tv/how-to-check-your-uae-visa-status-online)*
+- مشہور شخصیات جیسے دوہ لیپا، میگن مارکل اور ٹیلر سوئفٹ سے متعلق مختلف خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/dua-lipas-sicily-couture-wedding-dress-dazzles-with-480000-beads-and-25000-feathers)*
 
