@@ -4,51 +4,47 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-Jun-2026 21:03PKT
+Published at: 22-Jun-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan aims to train and deploy 300,000 to 400,000 workers for projects related to the FIFA World Cup 2034 in Saudi Arabia. *[Dawn](https://www.dawn.com/news/2009709/pakistan-targets-400000-trained-workers-for-fifa-world-cup-2034-hosted-by-saudi-arabia)*
-- Despite ongoing Middle East conflicts, over 300,000 Pakistanis migrated to Middle Eastern states like Saudi Arabia and the UAE between January and May. *[Dawn](https://www.dawn.com/news/2009573/middle-east-conflict-fails-to-deter-gulf-job-exodus)*
-- Pakistan's mango exports are projected to shrink by up to 30% due to the lingering impacts of the Middle East war. *[Dawn](https://www.dawn.com/news/2009699/pakistans-mango-exports-may-shrink-up-to-30pc-as-middle-east-war-impacts-linger)*
-- The Pakistan Telecommunication (Amendment) Bill 2026 has been deferred by the Senate Standing Committee on IT and Telecom following "exploitative" criticisms. *[Dawn](https://www.dawn.com/news/2009575/exploitative-telecom-bill-deferred)*
-- Allocations for climate action in Pakistan's FY27 federal budget have decreased across almost all categories, except for disaster management. *[Dawn](https://www.dawn.com/news/2009607/climate-action-takes-a-backseat-in-federal-budget-fy27)*
-- The Balochistan Assembly approved a supplementary budget of over Rs119 billion for the 2025-26 fiscal year without debate. *[Dawn](https://www.dawn.com/news/2009604/balochistan-budget-2026-27-balochistan-passes-rs119bn-suppl-budget-without-debate)*
-
-### Science & Technology
-- Upcoming iOS 27 updates are expected to introduce significant new AI features for users. *[ARY](https://arynews.tv/ios-27-introduces-ai-features-for-users)*
-- Possible pricing for the highly anticipated GTA 6 has reportedly appeared on a Portuguese website. *[ARY](https://arynews.tv/gta-6-prices-appear-to-have-been-listed-on-a-portuguese-website)*
+- Pakistan International Airlines (PIA) is set to be formally handed over to new owners this month, with airport privatization and electricity distribution company sales also in progress. *[Dawn](https://www.dawn.com/news/2009876/pia-to-be-handed-over-to-new-owners-this-month)*
+- A parliamentary committee has raised concerns regarding mobile phone taxation and electric vehicle policies in the 2026-27 budget. *[Dawn](https://www.dawn.com/news/2009874/budget-2026-27-na-body-questions-mobile-taxes-ev-policy)*
+- The oil industry has protested a unilateral 18–20% cut in fuel prices, warning of massive losses and potential bankruptcy for some companies. *[Dawn](https://www.dawn.com/news/2009904/oil-industry-cries-out-over-unilateral-cut-in-fuel-prices)*
+- Critics have noted that the Balochistan budget is heavily focused on non-development expenditures, causing public dissatisfaction. *[Dawn](https://www.dawn.com/news/2009887/a-budget-of-non-development-expenditures)*
+- Pakistan aims to train and deploy up to 400,000 workers for projects related to the FIFA World Cup 2034 in Saudi Arabia. *[Dawn](https://www.dawn.com/news/2009709/pakistan-targets-400000-trained-workers-for-fifa-world-cup-2034-hosted-by-saudi-arabia)*
+- Oil prices experienced a dip following the conclusion of US-Iran talks in Switzerland. *[ARY](https://arynews.tv/oil-slips-after-us-iran-conclude-talks-in-switzerland)*
 
 ### Weather
-- The NDMA has issued a nationwide alert warning of thunderstorms, heavy rainfall, and potential flooding over the next 12 to 24 hours. *[Dawn](https://www.dawn.com/news/2009704/ndma-warns-of-critical-24-hour-weather-window-nationwide)*
+- The NDMA has issued a nationwide alert warning of thunderstorms, heavy rainfall, and potential urban flooding over the next 24 hours. *[Dawn](https://www.dawn.com/news/2009704/ndma-warns-of-critical-24-hour-weather-window-nationwide)*
 
 ### Politics
-- UK Prime Minister Keir Starmer is reportedly weighing his political future following a recent by-election victory by rival Andy Burnham. *[Dawn](https://www.dawn.com/news/2009758/uk-pm-starmer-mulling-political-realities-senior-minister)*
-- The PPP has announced Advocate Amjad Hussain as its candidate for the post of Gilgit-Baltistan chief minister. *[Dawn](https://www.dawn.com/news/2009695/ppp-chairman-gives-the-nod-to-advocate-amjad-hussain-for-post-of-gb-chief-minister)*
-- A parliamentary committee has raised concerns regarding the proposed carbon levy in the upcoming budget. *[Dawn](https://www.dawn.com/news/2009576/budget-2026-27-na-panel-questions-climate-levy)*
+- National Assembly Speaker Ayaz Sadiq has restored the airing of PTI members' speeches on NA TV and social media platforms. *[Dawn](https://www.dawn.com/news/2009909/na-speaker-ayaz-sadiq-restores-airing-of-pti-speeches)*
+- The opposition alliance TTAP has demanded the removal of the IT Minister following the passage of a controversial telecommunication bill. *[Dawn](https://www.dawn.com/news/2009775/ttap-demands-removal-of-it-minister-over-anti-people-telecommunication-bill)*
+- PPP has nominated Advocate Amjad Hussain to serve as the Chief Minister of Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2009695/ppp-chairman-gives-the-nod-to-advocate-amjad-hussain-for-post-of-gb-chief-minister)*
 
 ### National
-- The Judicial Commission of Pakistan has begun the process to fill 10 vacant additional judge positions in the Lahore High Court. *[Dawn](https://www.dawn.com/news/2009606/judicial-commission-of-pakistan-initiates-process-to-fill-high-court-vacancies)*
-- The Pakistan Maritime Security Agency (PMSA) is coordinating the repatriation and humanitarian assistance of eight Iranian nationals rescued at sea. *[Dawn](https://www.dawn.com/news/2009751/pmsa-begins-repatriation-humanitarian-assistance-of-8-iranian-nationals-rescued-at-sea)*
-- A court has granted police additional time to file a final charge sheet against alleged cocaine dealer Anmol Pinky. *[Dawn](https://www.dawn.com/news/2009635/police-get-more-time-to-file-final-charge-sheet-against-alleged-cocaine-dealer-anmol-pinky)*
+- Fourteen people, mostly women, were injured in a vehicle crash outside a tent in Karachi's DHA area. *[Dawn](https://www.dawn.com/news/2009853/14-hurt-after-vehicle-crashes-into-tent-outside-dha-imambargah-in-karachi)*
+- The government has reinstated normal speed limits on motorways (120km/h for cars) and national highways. *[Dawn](https://www.dawn.com/news/2009907/normal-speed-limits-reinstated-on-motorways-highways)*
 
 ### International
-- Technical-level talks between the US and Iran have commenced in Switzerland to address the Islamabad Memorandum of Understanding. *[Dawn](https://www.dawn.com/news/2009504/peace-requires-give-and-take-vance-shehbaz-amp-al-thani-address-summit-opening-ceremony-ahead-of-talks-in-burgenstock)*
-- Pakistan, Saudi Arabia, Turkiye, and Egypt have emphasized the importance of a swift conclusion to the current phase of US-Iran negotiations. *[Dawn](https://www.dawn.com/news/2009729/pakistan-saudi-arabia-turkiye-egypt-stress-importance-of-swift-conclusion-to-current-phase-of-us-iran-talks)*
-- Israeli airstrikes in Gaza have killed at least 11 people, including a journalist, despite the presence of a ceasefire. *[Dawn](https://www.dawn.com/news/2009579/journalist-among-11-killed-in-israels-assault-on-gaza)*
-- Israeli strikes in Lebanon have killed at least 20 people, highlighting the fragility of the recent ceasefire with Hezbollah. *[Dawn](https://www.dawn.com/news/2009582/at-least-20-killed-as-israel-continues-attacks-in-lebanon)*
-- A man has been charged in connection with suspected anti-Muslim attacks in Edinburgh, UK. *[Dawn](https://www.dawn.com/news/2009681/man-charged-over-suspected-anti-muslim-attacks-in-uks-edinburgh)*
-- Deputy PM Ishaq Dar revealed that there will be no transit fees in the Strait of Hormuz for the next 60 days. *[ARY](https://arynews.tv/us-iran-relations-no-fees-in-strait-of-hormuz)*
+- The US and Iran have agreed on a 60-day roadmap toward a final peace deal, including a communication line to prevent incidents in the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2009504/us-iran-make-encouraging-progress-after-hours-long-talks-in-burgenstock-agree-on-roadmap-to-reach-final-peace-deal-in-60-days)*
+- An explosion caused by a technical accident at a factory in Ras Laffan, Qatar, has left over 50 people injured and 18 missing. *[Dawn](https://www.dawn.com/news/2009790/over-50-injured-18-missing-after-technical-accident-causes-explosion-at-qatar-factory)*
+- Pakistan, Saudi Arabia, Turkiye, and Egypt have called for a swift conclusion to the current phase of US-Iran negotiations. *[Dawn](https://www.dawn.com/news/2009729/pakistan-saudi-arabia-turkiye-egypt-stress-importance-of-swift-conclusion-to-current-phase-of-us-iran-talks)*
+- UK Prime Minister Keir Starmer is reportedly weighing his political future amid potential leadership challenges. *[Dawn](https://www.dawn.com/news/2009758/uk-pm-starmer-mulling-political-realities-senior-minister)*
 
 ### Sports
-- Japan secured a dominant 4-0 victory over Tunisia in the 1,000th match in World Cup history. *[Dawn](https://www.dawn.com/news/2009696/japan-rout-tunisia-4-0-as-ueda-shines-in-world-cups-1000th-match)*
+- Iran secured a scoreless draw against Belgium in a World Cup encounter. *[Dawn](https://www.dawn.com/news/2009791/iran-frustrate-star-studded-belgium-to-steal-another-world-cup-point)*
+- Lionel Messi is aiming for a World Cup record as Argentina prepares to face Austria. *[ARY](https://arynews.tv/timeless-messi-eyes-world-cup-record-as-argentina-face-austria)*
+- Serena Williams has been granted a singles wildcard for Wimbledon. *[ARY](https://arynews.tv/serena-williams-given-wimbledon-singles-wildcard)*
+- Kylian Mbappe is preparing for a significant 100th cap. *[ARY](https://arynews.tv/mbappe-ready-for-special-100th-cap)*
+- Curacao has made World Cup history following a significant performance by goalkeeper Room. *[ARY](https://arynews.tv/fifteen-saves-one-point-room-leads-curacao-to-world-cup-history)*
+- The recent victory in the Diamond Jubilee tournament has renewed interest in the future of Pakistani football. *[Dawn](https://www.dawn.com/news/2009896/future-of-pakistani-football)*
 
 ### Other
-- Dua Lipa’s wedding dress in Sicily featured an elaborate design with 480,000 beads and 25,000 feathers. *[ARY](https://arynews.tv/dua-lipas-sicily-couture-wedding-dress-dazzles-with-480000-beads-and-25000-feathers)*
-- Meghan Markle’s potential return to the UK continues to draw media attention. *[ARY](https://arynews.tv/meghan-markles-desperate-wish-for-respect-unfulfilled-as-uk-return-looms)*
-- Taylor Swift's presence in Rhode Island has sparked rumors regarding a bachelorette party. *[ARY](https://arynews.tv/taylor-swifts-rhode-island-lights-up-with-fireworks-amid-bachelorette-buzz)*
-- Reese Witherspoon expressed her excitement regarding the *Legally Blonde* prequel, *Elle*. *[ARY](https://arynews.tv/reese-witherspoon-calls-legally-blonde-prequel-elle-a-dream-come-true)*
-- Erling Haaland reportedly confused Monroe with actress Sydney Sweeney. *[ARY](https://arynews.tv/i-was-thinking-of-her-haaland-mistakes-monroe-for-sydney-sweeney)*
-- Information was provided on how to check UAE visa status online. *[ARY](https://arynews.tv/how-to-check-your-uae-visa-status-online)*
+- An opinion piece discusses the transformation of geopolitical communication from formal state statements to decentralized digital channels. *[Dawn](https://www.dawn.com/news/2009928/the-end-of-one-way-communication)*
+- Jelly Roll has landed a hosting gig on 'Jimmy Kimmel Live!' amidst news of his divorce. *[ARY](https://arynews.tv/jelly-roll-lands-jimmy-kimmel-live-hosting-gig-amid-divorce)*
+- Nicole Kidman honored Keith Urban on the first Father's Day since their split. *[ARY](https://arynews.tv/nicole-kidman-honors-keith-urban-on-first-fathers-day-since-their-split)*
+- Actress Isabel Hodgins is taking maternity leave, leading to the departure of her character Victoria Sugden from *Emmerdale*. *[ARY](https://arynews.tv/emmerdales-victoria-sugden-exits-as-actress-isabel-hodgins-takes-maternity-leave)*
 
