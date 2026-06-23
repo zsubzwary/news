@@ -7,57 +7,59 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 23-Jun-2026 09:11PKT 
+ &lrm; 23-Jun-2026 21:12PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- 2026-27 کے بجٹ کی منظوری کے آخری مراحل جاری ہیں اور وفاقی وزارتوں کے لیے گرانٹس کے مطالبات منظور کر لیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2010148/budget-2026-27-budget-approval-in-final-stages-as-grants-finalised)*
-- فنانس بل 2026 میں اہم ترامیم کی منظوری دی گئی ہے، جن میں موبائل فون امپورٹ پر قسطوں میں ٹیکس وصولی اور الیکٹرک گاڑیوں پر ڈیوٹی میں چھوٹ شامل ہے۔ *[Dawn](https://www.dawn.com/news/2010135/budget-2026-27-na-panel-proposes-30-major-changes-to-finance-bill)*
-- عالمی مارکیٹوں میں تیل کی قیمتوں میں اتار چڑھاؤ اور امریکی فیڈرل ریزرو کی پالیسیوں کے حوالے سے سرمایہ کاروں کی توجہ مرکوز ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426910/oil-gains-after-selloff-awaits-progress-on-strait-of-hormuz-flows)*
-- سونے کی قیمتیں امریکی اور ایرانی تعلقات کی صورتحال اور فیڈرل ریزرو کے فیصلے کے انتظار میں مستحکم رہیں۔ *[Business Recorder](https://www.brecorder.com/news/40426909/gold-steady-as-investors-focus-on-us-iran-peace-talks)*
-- چین اسٹور ایسوسی ایشن آف پاکستان نے وارننگ دی ہے کہ سیلز ٹیکس کے تیسرے شیڈول میں توسیع سے صارفین پر ٹیکس کا بوجھ بڑھے گا۔ *[Business Recorder](https://www.brecorder.com/news/40426903/cap-warns-third-schedule-expansion-will-overtax-consumers)*
+- قومی اسمبلی نے اپوزیشن کے احتجاج اور بائیکاٹ کے باوجود مالی سال 2026-27 کا بجٹ منظور کر لیا۔ *[Dawn](https://www.dawn.com/news/2010249/na-passes-budget-for-fy2026-27-following-opposition-walkout)*
+- کراچی گیٹ وے ٹرمینل (KGTL) نے کراچی پورٹ میں 100 ملین ڈالر تک کی نئی سرمایہ کاری کا منصوبہ بنایا ہے تاکہ خطے میں شپنگ کے فوائد حاصل کیے جا سکیں۔ *[Dawn](https://www.dawn.com/news/2010285/kgtl-plans-up-to-100m-more-investment-in-karachi-port-after-cargo-surge-from-iran-war)*
+- ٹیکس چوری روکنے کے لیے ریسٹورنٹس، میرج ہالز اور فارم ہاؤسز کی نگرانی کی جائے گی۔ *[ARY](https://arynews.tv/restaurants-marriage-halls-farm-houses-to-be-monitored)*
+- پاکستان نے موبائل فونز پر درآمدی ڈیوٹی میں کٹوتی کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/pakistan-announces-import-duty-cut-on-mobile-phones)*
+- خلیجی ممالک میں تیل کے ٹینکروں کے کرایوں میں اضافہ ہو گیا ہے کیونکہ مشرق وسطیٰ میں پیداوار بڑھ رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426989/gulf-oil-tanker-rates-nearly-double-as-middle-east-producers-ramp-up-exports)*
+- سلیکٹ ٹیکنالوجیز نے پاکستان اسٹاک ایکسچینج میں آئی پی او کے ذریعے 3.02 ارب روپے جمع کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40426986/ipo-at-psx-select-technologies-mobilises-rs302bn-through-selling-8888mn-shares)*
+- انڈیا نے انڈین ریلوے فنانس کارپوریشن میں 2 فیصد تک کا حصہ فروخت کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426984/india-to-sell-up-to-2-stake-in-indian-railway-finance-corp)*
+- وال اسٹریٹ میں ٹیکنالوجی سیکٹر کی فروخت اور فیڈرل ریزرو کے حوالے سے خدشات کے باعث گراوٹ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40426983/wall-st-tumbles-on-tech-selloff-as-concerns-about-hawkish-fed-ai-spending-mount)*
+- عالمی تجارتی تنظیم (WTO) نے انڈیا کے سولر ٹیرف کے معاملے کی تحقیقات کے لیے ایک پینل تشکیل دینے پر اتفاق کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426980/wto-body-agrees-to-examine-indian-solar-tariffs-official-says)*
+- انڈیا کی جانب سے امریکہ سے ایل پی جی (LPG) کی درآمدات جون میں 10 لاکھ میٹرک ٹن سے تجاوز کر سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426967/indias-lpg-imports-from-us-set-to-cross-1-million-tons-in-june-sources-say)*
+- انڈین ریజర్ဗ بینک نے مقامی بینکوں کو بیرون ملک کرنسی ڈپازٹس کے عوض قرضے دینے کی اجازت دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426973/indias-rbi-to-allow-domestic-banks-to-extend-loans-against-overseas-fx-deposits)*
 
 ### سائنس اور ٹیکنالوجی
-- ویکیپیڈیا کے بانی نے کہا ہے کہ مصنوعی ذہانت (AI) کی غلطیاں فراہم کرنے کے خدشات کی وجہ سے اسے براہ راست ایڈیٹنگ کی اجازت نہیں دی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40426885/wikipedia-wont-let-ai-edit-articles-cofounder)*
-- فلکیات دانوں کے مطابق ایک بین النجمی دمکش (comet) ہمارے نظام شمسی سے کہیں زیادہ پرانی ہو سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426887/interstellar-comet-likely-far-older-than-solar-system-astronomers)*
-- برطانیہ میں سوشل میڈیا کمپنیوں کو معتبر خبروں کو ترجیح دینے پر مجبور کرنے کے لیے قانون سازی پر غور کیا جا رہا ہے۔ *[ARY](https://arynews.tv/uk-considers-forcing-social-media-firms-to-prioritise-trusted-news)*
+- فائیو آئیز اسٹیلٹیلیئنس نے خبردار کیا ہے کہ مصنوعی ذہانت (AI) سائبر سیکیورٹی کے اصولوں کو چند ماہ میں پیچھے چھوڑ سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2010237/five-eyes-spy-alliance-warns-ai-can-outpace-cybersecurity-norms-in-months-not-years)*
+- میٹا نے بھارتی اسٹارٹ اپ کے بانی کنال شاہ کو واٹس ایپ کا نیا سربراہ مقرر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010231/indian-startup-head-kunal-shah-appointed-as-new-whatsapp-boss)*
+- کراچی کے ساحلوں پر ہر سال مون سون کے دوران ہزاروں سیپ (seashells) کا جمع ہونا ایک قدرتی عمل ہے۔ *[Dawn](https://www.dawn.com/news/2010282/every-monsoon-thousands-of-seashells-wash-up-on-karachis-shores-heres-why)*
 
 ### موسم
-- فرانس میں شدید گرمی کی لہر کے نتیجے میں تین افراد کی موت اور 13 ڈوبنے کے واقعات پیش آئے۔ *[ARY](https://arynews.tv/france-heatwave-sees-three-deaths-13-drownings)*
-- برطانیہ میں جون کے مہینے کے ممکنہ ریکارڈ توڑنے والے درجہ حرارت کی پیشگوئی کی گئی ہے۔ *[ARY](https://arynews.tv/heatwave-hits-uk-with-record-temperatures)*
+- یورپ میں شدید گرمی کی لہر کے دوران فرانس میں 40 افراد ڈوب کر ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2010275/40-drown-in-france-as-people-seek-relief-from-europes-heatwave)*
 
 ### سیاست
-- پنجاب اسمبلی میں بجٹ مباحثے کے دوران حکومت اور اپوزیشن کے درمیان شدید بحث دیکھنے میں آئی۔ *[Business Recorder](https://www.brecorder.com/news/40426908/treasury-members-defend-punjab-govts-achievements)*
-- پی ٹی آئی کے اہم رہنما عمران خان سے ملاقات کے لیے کوششیں جاری رکھے ہوئے ہیں۔ *[Dawn](https://www.dawn.com/news/2010145/pti-bigwigs-gohar-ali-khan-salman-akram-raja-eye-meeting-with-imran)*
-- کشمیر پارلیمانی کمیٹی کے چیئرمین نے آزاد کشمیر کی صورتحال پر بحث کے لیے اپوزیشن لیڈر سے ملاقات کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2010065/kashmir-parliamentary-committee-chairman-requests-meeting-with-achakzai-to-discuss-ajk-situation)*
+- وزیر اعظم شہباز شریف نے ایران کے صدر مسعود Pezeshkian کے ساتھ مشترکہ پریس بریفنگ کی۔ *[Dawn](https://www.dawn.com/news/2010220/pm-shehbaz-addresses-joint-statement-with-iran-president)*
+- الیکشن کمیشن نے مقامی حکومتوں کے انتخابات کے ڈیٹا میں تاخیر پر خیبر پختونخوا اور اسلام آباد کے حکام کو طلب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010298/ecp-summons-kp-islamabad-officials-on-july-1-over-delay-in-local-govt-polls-data)*
+- اے جے کے حکومت نے JAAC کے رہنماؤں کے لیے کسی بھی قسم کی عام معافی سے انکار کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010274/ajk-govt-rules-out-blanket-amnesty-for-proscribed-jaac-leaders)*
+- پی ٹی آئی کے رہنما عمران خان سے ملاقات کی کوشش کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010145/pti-bigwigs-gohar-ali-khan-salman-akram-raja-eye-meeting-with-imran)*
+- آزاد جموں و کشمیر کے انتخابات کے لیے 1,241 امیدواروں نے نامزدگی کے کاغذات جمع کرائے ہیں۔ *[ARY](https://arynews.tv/ajk-election-2026-breakdown-of-candidates-by-division)*
 
 ### قومی
-- اسلام آباد میں ایرانی صدر کے دورے کے پیش نظر سیکورٹی کے پیش نظر بس ٹرمینلز بند کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2010082/bus-terminals-in-islamabad-closed-ahead-of-iranian-presidents-arrival)*
-- جسٹس منیب اختر نے سپریم کورٹ کے عبوری چیف جسٹس کے طور پر حلف اٹھایا۔ *[Dawn](https://www.dawn.com/news/2010162/justice-munib-akhtar-takes-oath-as-acting-cjp)*
-- گلگت بلتستان اسمبلی نے پی پی پی کے رکن امجد حسین کو وزیر اعلیٰ منتخب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2009973/ppps-amjad-hussain-elected-as-gb-chief-minister-after-members-take-oath)*
-- پنجاب میں مون سون سے قبل سیلاب سے بچنے کے لیے 27 بڑے واٹر اسٹوریج ٹینکوں کی تعمیر کو تیز کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426906/construction-of-27-mega-water-storage-tanks-fast-tracked)*
-- کراچی کے ڈی ایچ اے میں ہونے والے حادثے کے سلسلے میں ڈرائیور کے خلاف دہشت گردی کا مقدمہ درج کیا گیا۔ *[Dawn](https://www.dawn.com/news/2010047/police-register-terrorism-case-against-driver-in-karachis-dha-imambargah-car-crash)*
-- بلوچستان کی مہرنگ بلوچ اور دیگر رہنماؤں کو گودر کے واقعے میں دہشت گردی کے جرم میں عمر قید کی سزا سنائی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40426881/mahrang-sentenced-to-life-in-prison)*
+- سرگودھا پولیس نے 7 سالہ بچی کے قتل کیس میں 4 مشتبہ افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case)*
+- سندھ حکومت نے کراچی میں کار حادثے میں زخمی ہونے والے افراد کے طبی اخراجات اٹھانے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010227/sindh-govt-to-bear-medical-expenses-of-injured-persons-after-car-rams-into-tent-outside-imambargah-in-karachi)*
+- بالڈیا فیکٹری کیس کے اہم ملزمان زبیر چھاری اور رحمان بھولا کو رہا کر دیا گیا۔ *[ARY](https://arynews.tv/baldia-factory-fire-accused-walks-freely-after-14-years)*
+- کے الیکٹرک نے لوڈشیڈنگ سے استثنیٰ کے مخصوص دنوں کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/k-electric-announces-loadshedding-exemption-on-these-days)*
 
 ### بین الاقوامی
-- قطر کے ایل این جی پلانٹ میں فنی خرابی کے باعث دھماکے میں پاکستانی اور ہندوستانی شہری سمیت 13 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009790/pakistani-indian-nationals-among-13-dead-after-technical-malfunction-at-qatar-lng-plant)*
-- ایرانی صدر مسعود Pezeshkian کا پاکستان کا سرکاری دورہ متوقع ہے۔ *[Dawn](https://www.dawn.com/news/2010038/iran-president-masoud-pezeshkian-to-visit-pakistan-on-tuesday-fo)*
-- برطانیہ کے وزیراعظم کیئر اسٹارمر نے استعفیٰ دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2009971/uk-pm-starmer-announces-resignation-amid-mounting-pressure-says-will-give-successor-full-unequivocal-support)*
-- افغان طالبان حکومت نے داڑھی کی لمبائی کے مسئلے پر امدادی کارکنوں کو حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010140/taliban-govt-detains-aid-workers-over-beard-length)*
-- بھارت کے شہر لکھنؤ میں آگ لگنے کے واقعے میں 14 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2010034/14-killed-in-fire-at-building-in-indias-lucknow)*
-- کینیڈا کے شہر مونٹریال میں فائرنگ کے نتیجے میں ایک پولیس افسر سمیت تین افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40426886/shooting-in-montreal-leaves-three-dead-including-suspect)*
+- اقوام متحدہ کے انکوائری کمیشن نے اسرائیل پر غزہ میں بچوں کو جان بوجھ کر نشانہ بنانے اور نسل کشی کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2010272/israels-deliberate-targeting-of-children-part-of-ongoing-gaza-genocide-un-probe)*
+- امریکہ اور ایران کے درمیان سوئٹزرلینڈ میں ہونے والے مذاکرات اسرائیل کے لبنان پر حملوں کی وجہ سے متاثر ہو سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/2010236/dar-says-us-iran-talks-in-switzerland-could-have-happened-earlier-if-not-for-israels-attacks-on-lebanon)*
+- شمالی کوریا کے رہنما کم جونگ ان نے ملک کے جوہری دفاعی موقف پر زور دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010233/north-koreas-kim-jong-un-says-country-will-exercise-its-position-as-nuclear-state)*
+- قطر کے ایل این جی پلانٹ میں فنی خرابی کے نتیجے میں ہونے والے دھماکے میں پاکستانی اور بھارتی شہریوں سمیت 13 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2009790/pakistani-indian-nationals-among-13-dead-after-technical-malfunction-at-qatar-lng-plant)*
+- طالبان حکومت نے لحمیے کے معیار پر عمل نہ کرنے پر تقریباً 20 امدادی کارکنوں کو حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010140/taliban-govt-detains-aid-workers-over-beard-length)*
+- روس کے میزائل حملے میں یوکرین کے شہر کریوی ریح میں تین افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40426981/russian-attack-kills-three-in-ukraines-kryvyi-rih-official-says)*
 
 ### کھیل
-- لیونل میسی نے ورلڈ کپ میں تاریخی کارکردگی دکھاتے ہوئے ارجنٹائن کو اگلے مرحلے میں پہنچا دیا۔ *[Dawn](https://www.dawn.com/news/2010067/magic-messi-makes-fifa-world-cup-history-to-send-argentina-into-last-32)*
-- فرانس کی ٹیم کائل مبپے کی شاندار کارکردگی کی بدولت ورلڈ کپ کے اگلے مرحلے میں داخل ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40426915/mbappe-double-sends-france-into-knockout-rounds-after-lengthy-weather-delay)*
-- ایلواریز نے ایٹلیٹو سے رخصت ہونے کی صورت میں اسے سب کے لیے بہتر قرار دیا۔ *[ARY](https://arynews.tv/alvarez-says-best-for-everyone-if-he-leaves-atletico)*
-
-### صحت
-- کراچی میں فضائی آلودگی کے خطرناک حد تک بڑھنے سے عوامی صحت کو شدید خطرات لاحق ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010125/breathing-in-karachi-comes-with-a-warning-as-air-quality-deteriorates)*
+- سرینا ولیمز کی ومبلڈن میں واپسی سے ٹورنامنٹ کے مرکز میں رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426987/serenas-return-puts-familiar-force-at-centre-of-wimbledon)*
+- پی جی اے ٹور (PGA Tour) نے 2028 سے دو مرحلوں پر مشتمل نیا مقابلہ جاتی ماڈل متعارف کرانے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426982/pga-tour-announces-two-tier-competitive-model-from-2028re)*
+- بارسلونا نے مصری حملہ آور عبدالحکیم کو تین سال کے معاہدے پر سائن کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426979/barcelona-sign-egypt-forward-abdelkarim-until-2029)*
+- جرمنی کا مقابلہ شام کے روز ایکواڈور سے ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40426978/germany-go-for-three-out-of-three-against-ecuador-to-keep-up-winning-momentum)*
 
 ### دیگر
-- سید بابر علی اور سردار ہرچاران سنگھ برار کی برسوں پرانی دوستی کی یاد میں ایک تقریب منعقد ہوئی۔ *[Dawn](https://www.dawn.com/news/2010096/syed-babar-ali-and-sardar-harcharan-singh-brar-a-lifelong-school-friendship-that-transcended-borders-faiths)*
-- لیام پین کی وفات کے برسوں بعد ان کی دولت کا وارث مل گیا ہے۔ *[ARY](https://arynews.tv/liam-paynes-whopping-fortune-finally-finds-an-heir-years-after-his-death)*
-- اولیویا روڈریگو نے خواتین کے لیے خصوصی موسیقی کے میلے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/olivia-rodrigo-announces-her-own-all-women-music-festival)*
+- یو اے ای گرین ویزا کے لیے درخواست دینے کا طریقہ کار۔ *[ARY](https://arynews.tv/how-to-apply-for-uae-green-visa-2)*
+- ماریا کیری نے کلائیو ڈیوس کی وفات پر خاموشی توڑ دی ہے۔ *[ARY](https://arynews.tv/mariah-carey-tribute-to-clive-davis)*
 
