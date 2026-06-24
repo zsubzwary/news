@@ -4,71 +4,69 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-Jun-2026 09:06PKT
+Published at: 24-Jun-2026 21:06PKT
 
 Time to read: 6 mins
 
 ### Economy
-- The Petroleum Division assured oil-marketing companies that upcoming price adjustments will be based on actual import premiums to minimize losses. *[Dawn](https://www.dawn.com/news/2010419/weekly-oil-pricing-mechanism-to-stay)*
-- Karachi Gateway Terminal Ltd (KGTL) plans to invest up to **$100 million** over five years to expand Karachi port facilities following a cargo surge. *[Dawn](https://www.dawn.com/news/2010285/kgtl-plans-up-to-100m-more-investment-in-karachi-port-after-cargo-surge-from-iran-war)*
-- Pakistan has approved the strategic **‘White Oil Pipeline’** project. *[ARY](https://arynews.tv/pakistan-approves-strategic-white-oil-pipeline-project)*
-- The Bank of Korea is increasing its monitoring of financial stability risks, particularly **household debt** and leveraged stock investments. *[Business Recorder](https://www.brecorder.com/news/40427114/bank-of-korea-board-member-raises-concerns-about-house-prices-leveraged-stock-investments)*
-- The **Indian rupee** is expected to decline as the US dollar hits a one-year high due to Federal Reserve rate hike expectations. *[Business Recorder](https://www.brecorder.com/news/40427111/indian-rupee-to-slide-after-dollar-powers-to-over-1-year-high-on-fed-hike-bets-risk-off)*
-- Indian shares are projected to open muted as expectations of tighter US Federal Reserve policy offset relief from lower oil prices. *[Business Recorder](https://www.brecorder.com/news/40427109/indian-shares-likely-to-open-muted-as-us-rate-hike-bets-offset-oil-relief)*
-- **Gold prices** have slipped as betting on US interest rate hikes bolstered the dollar. *[Business Recorder](https://www.brecorder.com/news/40427108/gold-slips-as-fed-rate-hike-expectations-buoy-dollar)*
-- Oil prices continue to decline amid expectations of smoother crude flows through the **Strait of Hormuz**. *[Business Recorder](https://www.brecorder.com/news/40427107/oil-prices-extend-decline-on-expectations-of-smoother-crude-flows-via-hormuz)*
-- The FPCCI expressed grave concern over the **curtailment of wind power plants**, which is causing significant revenue losses and threatening green energy investors. *[Business Recorder](https://www.brecorder.com/news/40427089/concern-expressed-over-curtailment-of-wind-power-plants)*
-- LESCO has surpassed a milestone of over **135,000 active net metering connections**, contributing a cumulative capacity exceeding 2,000 megawatts. *[Business Recorder](https://www.brecorder.com/news/40427090/lesco-achieves-net-metering-with-135837-connections)*
+- Startup Revora raised $2 million in seed funding to develop an AI operating platform for e-commerce merchants. *[Dawn](https://www.dawn.com/news/2010565/startup-revora-raises-2m-in-seed-funding-to-build-ai-platform-for-e-commerce-merchants)*
+- The Pakistan oil industry has warned of potential fuel supply risks following recent petrol and diesel price cuts. *[ARY](https://arynews.tv/petrol-diesel-price-cuts-fuel-supply-risks)*
+- The PTA has formally opened applications for Mobile Virtual Network Operator (MVNO) licenses, with an upfront fee of $140,000. *[Business Recorder](https://www.brecorder.com/news/40427161/pta-invites-bids-for-mobile-virtual-network-licences)*
+- Barclays has upgraded Pakistan’s dollar bonds to "overweight," citing improved oil market prospects and economic stability. *[Business Recorder](https://www.brecorder.com/news/40427160/barclays-upgraded-pakistan-debt-to-overweight-on-oil-outlook-bloomberg)*
+- Major Gulf equity markets closed lower due to uncertainty regarding the US-Iran accord and persistent interest rate concerns. *[Business Recorder](https://www.brecorder.com/news/40427158/most-gulf-markets-ease-as-caution-lingers-rate-concerns-persist)*
+- India and the US reported constructive progress in trade talks, though a final deal has not yet been reached. *[Business Recorder](https://www.brecorder.com/news/40427155/india-hails-progress-in-us-trade-talks-but-no-deal-yet)*
+- India’s central bank issued revised rules regarding how banks must compute their foreign exchange risk exposure. *[Business Recorder](https://www.brecorder.com/news/40427154/indias-central-bank-issues-revised-rules-on-banks-computation-of-fx-risk-exposure)*
+- Sri Lankan shares fell, dragged down by declines in real estate and consumer discretionary stocks. *[Business Recorder](https://www.brecorder.com/news/40427150/real-estate-consumer-discretionary-stocks-drag-sri-lankan-shares-lower)*
+- India’s financial crime agency flagged suspected foreign exchange violations and missing records at Rajesh Exports. *[Business Recorder](https://www.brecorder.com/news/40427149/india-financial-crime-agency-flags-forex-breaches-missing-records-at-rajesh-exports)*
+- Indian reinsurer GIC Re plans to reduce its overseas property risk exposure due to rising climate-related losses. *[Business Recorder](https://www.brecorder.com/news/40427147/indias-gic-re-plans-to-reduce-share-of-overseas-property-risk-as-climate-losses-rise)*
+- The Pakistani rupee recorded gains against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40427137/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Global oil supply is expected to increase as more tankers exit the Strait of Hormuz following the US-Iran interim deal. *[Business Recorder](https://www.brecorder.com/news/40427146/more-stranded-oil-tankers-exit-hormuz-adding-to-global-supply)*
+- Malaysian palm oil futures declined, tracking losses in rival edible oils. *[Business Recorder](https://www.brecorder.com/news/40427145/palm-oil-falls-tracking-rival-edible-oils-as-crude-retreats)*
+- The Indian rupee remained stable against the dollar, supported by likely central bank intervention. *[Business Recorder](https://www.brecorder.com/news/40427144/indian-rupee-cushioned-by-central-bank-hand-even-as-dollar-strength-dents-asia-fx)*
 
 ### Science & Technology
-- China's **LineShine** supercomputer has taken the top spot in the world's fastest supercomputer rankings, ending a decade of US dominance. *[Dawn](https://www.dawn.com/news/2010462/china-tops-worlds-fastest-supercomputer-ranking)*
-- The National Accountability Bureau (NAB) is launching a sovereign **AI-powered investigation system** to probe financial and white-collar crimes. *[Dawn](https://www.dawn.com/news/2010341/nab-to-launch-ai-based-investigation-system-to-probe-financial-crimes-white-collar-offences)*
-- Iran reported that its **card-based banking system** was hit by a cyberattack targeting three different lenders. *[ARY](https://arynews.tv/iran-says-card-based-banking-hit-by-cyberattack-on-three-lenders)*
+- Kaspersky warned FIFA World Cup fans to be cautious of hundreds of fake websites used for scams and data theft. *[Dawn](https://www.dawn.com/news/2010558/cybersecurity-company-flags-hundreds-of-fake-websites-targeting-fifa-world-cup-fans)*
+- A fire at a New Delhi data center has caused extensive damage and potential data loss for clients, including Google Cloud. *[Business Recorder](https://www.brecorder.com/news/40427159/stt-tata-delhi-data-centre-fire-leaves-clients-fearing-decades-of-data-lost-google-hit)*
+
+### Weather
+- A severe heatwave in Europe has caused record-breaking temperatures and major power outages in France. *[Dawn](https://www.dawn.com/news/2010494/major-power-outage-in-france-as-europe-wilts-under-record-heat)*
+- A deadly 'Omega' heatwave continues to grip Europe. *[ARY](https://arynews.tv/deadly-omega-heatwave-grips-europe)*
 
 ### Politics
-- The US Senate passed a symbolic resolution calling for an end to President Trump’s hostilities with **Iran**. *[Dawn](https://www.dawn.com/news/2010451/us-congress-passes-symbolic-iran-war-rebuke-to-trump)*
-- Outgoing UK Prime Minister **Keir Starmer** pledged an orderly transition of power as Labour MPs begin considering leadership bids. *[Dawn](https://www.dawn.com/news/2010421/starmer-vows-orderly-transition-as-labour-mps-mull-leadership-bids)*
-- The Election Commission of Pakistan (ECP) has summoned officials from **KP and Islamabad** over delays in submitting data for local government elections. *[Dawn](https://www.dawn.com/news/2010298/ecp-summons-kp-islamabad-officials-on-july-1-over-delay-in-local-govt-polls-data) / [Business Recorder](https://www.brecorder.com/news/40427099/islamabad-kp-ecp-summons-officials-over-delay-in-lg-polls)*
-- The National Assembly passed the **budget for FY2026-27** following a walkout by the opposition. *[Dawn](https://www.dawn.com/news/2010249/na-passes-budget-for-fy2026-27-following-opposition-walkout)*
-- The **PTI** has officially rejected the newly passed Finance Bill, labeling it "anti-people." *[Business Recorder](https://www.brecorder.com/news/40427100/pti-rejects-finance-bill)*
-- Pakistan has demanded that the **Taliban** take urgent action to prevent terrorist groups from using Afghan territory for activities against other countries. *[Business Recorder](https://www.brecorder.com/news/40427098/terrorists-groups-operating-in-afghanistan-pakistan-demands-taliban-take-urgent-action)*
-- The **Punjab Assembly Speaker** rebuked ministers and bureaucrats for their lack of familiarity with parliamentary rules during the budget session. *[Business Recorder](https://www.brecorder.com/news/40427096/punjab-assembly-budget-session-speaker-rebukes-ministers-bureaucracy-over-ignorance-of-rules)*
-- Defence Minister Khawaja Asif defended his remarks regarding the political situation in **Azad Jammu and Kashmir (AJK)**. *[Business Recorder](https://www.brecorder.com/news/40427097/asif-defends-remarks-on-political-situation-in-ajk)*
+- Defence Minister Khawaja Asif faced criticism in the National Assembly regarding statements made about people in Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2010500/khawaja-asif-comes-under-fire-in-na-for-sweeping-statement-regarding-kashmiris)*
+- Law Minister Azam Nazeer Tarar clarified that the proposed telecom bill will not infringe on private premises without consent. *[Dawn](https://www.dawn.com/news/2010461/telecom-bill-wont-infringe-on-private-rights-minister)*
+- MQM-P's Farooq Sattar warned of the potential formation of a Karachi 'action committee' if party demands are ignored. *[ARY](https://arynews.tv/farooq-sattar-hints-at-karachi-based-action-committee)*
 
 ### National
-- Law Minister Azam Nazeer Tarar stated that the proposed **telecom bill** will not infringe on the rights of private citizens. *[Dawn](https://www.dawn.com/news/2010461/telecom-bill-wont-infringe-on-private-rights-minister)*
-- The Pakistan Psychiatric Society is challenging a court ruling that declared the **decriminalization of suicide attempts** repugnant to Islamic injunctions. *[Dawn](https://www.dawn.com/news/2010455/psychiatrists-challenge-fsc-ruling-on-suicide-attempts)*
-- Karachi Traffic Police have issued a **traffic plan** and alternative routes for the upcoming Muharram processions. *[Dawn](https://www.dawn.com/news/2010289/karachi-police-issue-traffic-plan-for-muharram-8-10-processions)*
-- PTI leaders expressed outrage after being denied meetings with **Imran Khan** at Adiala jail. *[Dawn](https://www.dawn.com/news/2010336/pti-rails-against-adiala-jail-admin-after-another-meeting-with-imran-denied)*
-- Sargodha police have arrested four suspects in connection with the **murder of a seven-year-old girl**. *[Dawn](https://www.dawn.com/news/2010300/sargodha-police-arrest-4-suspects-in-7-year-old-girls-murder-case)*
-- The AJK government has ruled out any **blanket amnesty** for leaders of the proscribed Joint Awami Action Committee (JAAC). *[Dawn](https://www.dawn.com/news/2010274/ajk-govt-rules-out-blanket-amnesty-for-proscribed-jaac-leaders)*
-- The Lahore High Court rejected a **bail plea for a teacher** accused of sexually assaulting an underage student. *[Business Recorder](https://www.brecorder.com/news/40427092/lhc-rejects-teachers-bail-plea)*
-- Punjab Local Government Minister Zeeshan Rafique praised the **‘Maryum’s Sohna Punjab’** initiative for its progress in urban development. *[Business Recorder](https://www.brecorder.com/news/40427093/minister-praises-maryums-sohna-punjab-initiative)*
+- A French mountaineer died following an avalanche while attempting to scale the K-6 peak in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2010554/french-mountaineer-dies-as-avalanche-hits-gbs-k-6-peak)*
+- Chief of Defence Forces Asim Munir met with Libyan military leadership to emphasize strengthening bilateral defense ties. *[Dawn](https://www.dawn.com/news/2010538/cdf-munir-libyan-military-leader-stress-importance-of-strengthening-bilateral-defence-ties)*
+- Eight police personnel, including a station house officer, were kidnapped by armed men in Upper South Waziristan. *[Dawn](https://www.dawn.com/news/2010551/sho-among-8-cops-kidnapped-by-armed-men-in-upper-south-waziristan-police)*
+- Families in KP's Bara district have been forced to flee their homes due to ongoing fighting between security forces and terrorists. *[Dawn](https://www.dawn.com/news/2010505/caught-in-fighting-between-security-forces-and-terrorists-residents-in-kps-bara-are-forced-to-leave-their-homes)*
+- Six most-wanted terrorists were killed during a counter-terrorism operation in the hilly areas of Lower Dir. *[Dawn](https://www.dawn.com/news/2010484/6-most-wanted-terrorists-killed-in-lower-dir-operation-ctd)*
+- Unidentified miscreants blew up a government girls' primary school in Lower South Waziristan. *[Dawn](https://www.dawn.com/news/2010497/girls-primary-school-blown-up-by-unidentified-miscreants-in-kps-lower-south-waziristan)*
+- Two miners were killed in a coal mine collapse in Balochistan. *[ARY](https://arynews.tv/two-miners-killed-in-balochistan-coal-mine-collapse)*
+- New DNA evidence has emerged in the murder investigation of a toddler in Karachi. *[ARY](https://arynews.tv/karachi-toddler-kulsoom-case-dna-evidence-reveals-key-clues)*
+- Islamabad's Shakarparian area is experiencing a loss of green cover due to expanding urban development. *[Business Recorder](https://www.brecorder.com/news/40426990/from-green-haven-to-concrete-zone-shakarparians-slow-disappearance)*
+- Government employees are scheduled to receive their salaries on a specific upcoming date. *[ARY](https://arynews.tv/govt-employees-to-get-salary-on-this-date)*
 
 ### International
-- Former Israeli PM Naftali Bennett admitted that Israel **smuggled Starlink receivers** into Iran to assist anti-government protesters. *[Dawn](https://www.dawn.com/news/2010445/israel-smuggled-starlink-system-into-iran-ex-pm-admits)*
-- Iran’s President Masoud Pezeshkian called for a new **regional security structure** among Muslim nations. *[Dawn](https://www.dawn.com/news/2010220/hands-of-friendship-iran-president-calls-for-new-regional-security-structure-among-muslim-nations)*
-- The UN Security Council adopted a resolution to strengthen accountability for **crimes against UN peacekeepers**. *[Dawn](https://www.dawn.com/news/2010420/153-states-back-move-to-tackle-crimes-against-un-peacekeepers)*
-- Victims of the 2024 **Kenya police violence** have dismissed government compensation promises as a "smokescreen." *[Dawn](https://www.dawn.com/news/2010332/victims-of-2024-kenya-police-violence-say-compensation-promise-a-smokescreen)*
-- Pakistan and Qatar successfully hosted a summit to mediate between the **US and Iran**. *[Dawn](https://www.dawn.com/news/2010436/trouble-at-home)*
-- Ukrainian strikes caused power outages in the Russian-held city of **Sevastopol**. *[Business Recorder](https://www.brecorder.com/news/40427113/russian-held-sevastopol-without-power-after-ukraine-strikes-moscow-installed-governor-says)*
+- The US-Iran peace process has gained momentum through the Islamabad Memorandum of Understanding and ongoing diplomatic coordination between Pakistan, Qatar, and Iran. *[Dawn](https://www.dawn.com/news/2010545/pm-shehbaz-qatari-emir-express-satisfaction-at-positive-progress-of-us-iran-talks-agree-to-sustain-momentum)*
+- US Secretary of State Marco Rubio has begun a Gulf tour to reassure allies regarding the implications of the US-Iran deal. *[Business Recorder](https://www.brecorder.com/news/40427151/rubio-starts-gulf-tour-as-allies-sceptical-about-iran-deal-seek-answers)*
+- The US Senate passed a symbolic resolution calling for an end to the hostilities between the US and Iran. *[Dawn](https://www.dawn.com/news/2010451/us-congress-passes-symbolic-iran-war-rebuke-to-trump)*
+- President Trump stated that Iran has provided assurances that no fees or tolls will be charged to ships in the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40427153/trump-says-assured-by-iran-no-tolls-to-be-charged-at-hormuz)*
+- The IAEA confirmed that nuclear inspections in Iran will proceed following the interim peace accord. *[Business Recorder](https://www.brecorder.com/news/40427148/iaea-chief-says-iran-inspections-will-go-ahead-working-on-modalities)*
+- US forces conducted an airstrike in northwestern Syria that killed a senior Islamic State leader. *[Business Recorder](https://www.brecorder.com/news/40427157/us-forces-killed-islamic-state-leader-in-syria-airstrike-central-command-says)*
+- US-India relations face tension following criticism from India's ruling party over a road named after Donald Trump in Hyderabad. *[Dawn](https://www.dawn.com/news/2010513/outrageous-indian-tech-hub-names-road-for-trump-drawing-criticism-from-modis-party)*
+- US Vice President JD Vance commented on the complexities of South Asian diplomacy involving India and Pakistan. *[Dawn](https://www.dawn.com/news/2010503/why-modis-strategy-to-isolate-pakistan-backfired)*
+- A man who gained fame for disarming a gunman at Bondi Beach has pleaded not guilty to assaulting his father. *[Dawn](https://www.dawn.com/news/2010486/man-who-rose-to-fame-after-disarming-bondi-beach-attacker-denies-assaulting-father)*
+- A new book has released claims regarding Donald Trump's relationship with an aide. *[ARY](https://arynews.tv/new-book-exposes-trumps-claims-about-aide-natalie-harp-loves-him-like-his-wife)*
+- Bill Gates has named individuals in testimony related to the Epstein blackmail case. *[ARY](https://arynews.tv/bill-gates-names-3-women-in-epstein-blackmail-testimony-including-russian-player)*
+- Millions of Americans are facing the loss of food stamps following cuts under the Trump administration. *[ARY](https://arynews.tv/millions-lose-food-stamps-under-trump-cuts-arizona-is-hardest-hit)*
 
 ### Sports
-- Ben Stokes has been urged to use recent **curfew controversies** as motivation to defeat New Zealand. *[ARY](https://arynews.tv/stokes-urged-to-use-curfew-controversy-as-fuel-to-beat-new-zealand)*
-- Panama has been eliminated from the **World Cup** following a defeat to Croatia. *[ARY](https://arynews.tv/panama-out-of-world-cup-after-defeat-to-croatia)*
-- England and Ghana are nearing qualification for the **World Cup last 32** following a draw. *[ARY](https://arynews.tv/england-ghana-close-in-on-world-cup-last-32-after-draw)*
-- Australia defeated Pakistan in the **Women’s T20 World Cup**. *[ARY](https://arynews.tv/australia-crush-pakistan-in-womens-t20-world-cup)*
-- The US has eased rules regarding the **Iranian team** for Game 3 of the World Cup. *[ARY](https://arynews.tv/us-eases-rules-on-iran-team-for-game-3-of-world-cup)*
-- **Cristiano Ronaldo** made history by becoming the first player to score in six different World Cups. *[ARY](https://arynews.tv/ronaldo-delights-in-silencing-attacks-after-making-world-cup-history) / [Business Recorder](https://www.brecorder.com/news/40427110/im-back-record-breaker-ronaldo-fires-portugal-to-5-0-win-over-uzbekistan)*
-- Naomi Osaka has reached the last eight in **Bad Homburg**. *[ARY](https://arynews.tv/osaka-overcomes-dip-to-reach-bad-homburg-last-eight)*
-- The **Moroccan squad** is reportedly supporting player Achraf Hakimi amidst an impending trial. *[ARY](https://arynews.tv/morocco-squad-supporting-hakimi-despite-impending-rape-trial)*
-
-### Health
-- Australian authorities have increased **bird flu** surveillance following confirmed cases in migratory seabirds. *[Business Recorder](https://www.brecorder.com/news/40427112/australia-ramps-up-bird-flu-surveillance-testing-after-first-mainland-cases-reported)*
-- Nestlé Pakistan, PCSIR, and PSFST commemorated **World Food Safety Day** to promote a stronger food safety ecosystem. *[Business Recorder](https://www.brecorder.com/news/40427095/nestle-pakistan-pcsir-and-psfst-marks-world-food-safety-day)*
+- Senegal's goalkeeper Edouard Mendy has been ruled out of the World Cup match against Iraq due to a knee injury. *[Business Recorder](https://www.brecorder.com/news/40427156/senegal-keeper-mendy-out-of-world-cup-clash-with-iraq-due-to-knee-injury)*
 
 ### Other
-- An editorial suggests Pakistan must better **sequence investments** between universities and vocational training to drive growth. *[Dawn](https://www.dawn.com/news/2010435/sequencing-skills-and-degrees)*
-- Social experts called for simpler access to public services for **widows** on International Widows Day. *[Business Recorder](https://www.brecorder.com/news/40427091/international-widows-day-marked)*
-- Mobilink Bank and the Depilex Smileagain Foundation provided **electric scooters** to female survivors of burn violence. *[Business Recorder](https://www.brecorder.com/news/40427094/25-scooters-to-female-survivors-of-burn-violence-mobilink-bank-depilex-smileagain-foundation-collaborate)*
+- A graphical interpretation explores the cultural soundscapes of Muharram mourning processions. *[Dawn](https://www.dawn.com/news/2009513/soundscapes-of-muharram)*
+- Hints suggest that the second season of the Apple TV+ series 'Sugar' will feature a darker tone. *[ARY](https://arynews.tv/farrell-hints-that-season-2-of-sugar-will-be-darker-deadlier-on-apple-tv)*
 
