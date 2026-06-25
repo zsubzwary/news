@@ -7,57 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 24-Jun-2026 21:12PKT 
+ &lrm; 25-Jun-2026 09:10PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- اسٹارٹ اپ 'ریووورا' نے ای کامرس کے لیے اے آئی پلیٹ فارم تیار کرنے کے لیے 2 ملین ڈالر کی فنڈنگ حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2010565/startup-revora-raises-2m-in-seed-funding-to-build-ai-platform-for-e-commerce-merchants)*
-- پی ٹی اے نے ملک بھر میں موبائل ورچوئل نیٹ ورک آپریٹرز کے لائسنس کے لیے درخواستیں طلب کر لی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427161/pta-invites-bids-for-mobile-virtual-network-licences)*
-- بارکلیز نے تیل کی بہتر صورتحال کا حوالہ دیتے ہوئے پاکستان کے قرضوں کی درجہ بندی میں بہتری کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427160/barclays-upgraded-pakistan-debt-to-overweight-on-oil-outlook-bloomberg)*
-- پیٹرول اور ڈیزل کی قیمتوں میں کمی کے بعد پاکستان کی تیل کی صنعت نے سپلائی کے خطرات کا خدشہ ظاہر کیا ہے۔ *[ARY](https://arynews.tv/petrol-diesel-price-cuts-fuel-supply-risks)*
-- خلیجی مارکیٹوں میں امریکی-ایرانی معاہدے کی غیر یقینی صورتحال اور شرح سود کے خدشات کے باعث کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427158/most-gulf-markets-ease-as-caution-lingers-rate-concerns-persist)*
-- بھارتی روپیہ امریکی ڈالر کی مضبوطی کے باوجود مرکزی بینک کے اقدامات سے مستحکم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40427144/indian-rupee-cushioned-by-central-bank-hand-even-as-dollar-strength-dents-asia-fx)*
-- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں مستحکم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40427137/intra-day-update-rupee-records-gain-against-us-dollar)*
-- بھارت اور امریکہ کے درمیان تجارتی مذاکرات میں پیش رفت ہوئی ہے لیکن ابھی تک کوئی حتمی معاہدہ نہیں ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40427155/india-hails-progress-in-us-trade-talks-but-no-deal-yet)*
+- آڈیٹر جنرل کی رپورٹ میں ایف بی آر کی جانب سے سپر ٹیکس کے ممکنہ فوائد سے فائدہ نہ اٹھانے اور دیگر مالیاتی بے قاعدگیوں کا انکشاف کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010659/fbr-didnt-capitalise-on-super-tax-potential-audit-finds)*
+- ایران کے ساتھ تجارت کو باقاعدہ بنانے کے لیے تفتان میں نیا لینڈ کسٹمز اسٹیشن قائم کرنے کا نوٹیفیکیشن جاری کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010633/taftan-formalised-for-trade-with-iran)*
+- بارکلیز نے تیل کی مارکیٹ کے بہتر منظر نامے کے باعث پاکستان کے سونوری ڈیٹ کو 'اوور ویٹ' تک اپ گریڈ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010586/barclays-upgrades-pakistans-sovereign-debt-to-overweight-on-improved-oil-market-outlook-report)*
+- خیبر پختونخوا اسمبلی نے مالی سال 2026-27 کے لیے 2.17 ٹریلین روپے کا بجٹ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010593/cm-afridi-vows-peace-in-fy27-as-kp-assembly-passes-rs217tr-budget)*
+- قومی اسمبلی نے مالی سال 2024-25 اور 2025-26 کے لیے مختلف زرائع سے ضمنی بجٹ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010552/na-approves-over-rs500bn-in-supplementary-budget-for-fy25-rs475bn-for-fy26)*
+- وفاقی ٹیکس اخراجات کا تخمینہ مالی سال 2024-25 کے لیے 2,352.81 ارب روپے لگایا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427215/fy2024-25-total-federal-tax-expenditure-estimated-at-rs235281bn)*
 
 ### سائنس اور ٹیکنالوجی
-- نئی دہلی میں ڈیٹا سینٹر میں آگ لگنے سے گوگل کی خدمات متاثر ہوئیں اور ڈیٹا کے ضائع ہونے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427159/stt-tata-delhi-data-centre-fire-leaves-clients-fearing-decades-of-data-lost-google-hit)*
-- سائبر سیکیورٹی کمپنی کیسپرسکی نے فٹ بال ورلڈ کپ کے مداحوں کو جعلی ویب سائٹس سے ہوشیار رہنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2010558/cybersecurity-company-flags-hundreds-of-fake-websites-targeting-fifa-world-cup-fans)*
-
-### موسم
-- یورپ میں شدید گرمی کی لہر کے باعث فرانس میں بجلی کا بڑا ذخیرہ ختم ہو گیا۔ *[Dawn](https://www.dawn.com/news/2010494/major-power-outage-in-france-as-europe-wilts-under-record-heat)*
-- یورپ میں خطرناک 'اومیگا' گرمی کی لہر کا سامنا ہے۔ *[ARY](https://arynews.tv/deadly-omega-heatwave-grips-europe)*
+- اقوام متحدہ کے ایک ادارے نے خودکار گاڑیوں (self-driving cars) کے لیے پہلے عالمی حفاظتی قوانین منظور کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427203/first-global-rules-adopted-for-self-driving-cars-un)*
+- دہلی میں ڈیٹا سینٹر میں آگ لگنے سے گوگل سمیت متعدد کمپنیوں کے ڈیٹا کے ضائع ہونے کا خدشہ پیدا ہو گیا ہے۔ *[ARY](https://arynews.tv/google-faces-data-challenges-after-recent-fire)*
 
 ### سیاست
-- وزیر دفاع خواجہ آصف کے کشمیر کے حوالے سے بیان پر قومی اسمبلی میں اعتراضات اٹھائے گئے۔ *[Dawn](https://www.dawn.com/news/2010500/khawaja-asif-comes-under-fire-in-na-for-sweeping-statement-regarding-kashmiris)*
-- وزیراعظم شہباز شریف اور قطری امیر نے امریکہ اور ایران کے درمیان جاری امن مذاکرات کی حمایت کی۔ *[Dawn](https://www.dawn.com/news/2010545/pm-shehbaz-qatari-emir-express-satisfaction-at-positive-progress-of-us-iran-talks-agree-to-sustain-momentum)*
-- امریکی سینیٹ نے صدر ٹرمپ کو ایران کے ساتھ جنگ ختم کرنے کا مطالبہ کرنے والی قرارداد منظور کی۔ *[Dawn](https://www.dawn.com/news/2010451/us-congress-passes-symbolic-iran-war-rebuke-to-trump)*
-- امریکی وزیر خارجہ مارکو روبیو نے خلیجی ممالک کا دورہ شروع کر کے ایران کے ساتھ معاہدے پر وضاحتیں فراہم کرنے کی کوشش کی۔ *[Business Recorder](https://www.brecorder.com/news/40427151/rubio-starts-gulf-tour-as-allies-sceptical-about-iran-deal-seek-answers)*
-- وزیر داخلہ محسن نقوی نے ایرانی ہم منصب سے ملاقات میں مشرق وسطیٰ میں امن کی کوششوں پر بات کی۔ *[Dawn](https://www.dawn.com/news/2010487/pakistan-will-continue-its-efforts-for-lasting-peace-in-the-middle-east-naqvi-tells-iranian-counterpart)*
+- وزیراعظم کے بنائے ہوئے کمیٹی نے متنازع ٹیلی کام بل میں اہم تبدیلیوں کی سفارش کی ہے تاکہ اسے کاروبار کے لیے سازگار بنایا جا سکے۔ *[Dawn](https://www.dawn.com/news/2010642/law-minister-led-panel-suggests-major-changes-to-language-of-telecom-bill)*
+- اسلام آباد ہائی کورٹ 29 جون کو عمران خان اور بشریٰ بی بی کی 190 ملین پاؤنڈ کیس میں اپیلوں پر سماعت کرے گی۔ *[Dawn](https://www.dawn.com/news/2010641/ihc-to-hear-imrans-ps190m-case-appeal-on-june-29)*
+- آزاد جموں و کشمیر کے انتخابات کے لیے کاغذات جمع کرانے والوں کی تعداد میں 30 فیصد اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2010646/nominations-surge-as-1265-file-papers-for-ajk-elections)*
+- وزیراعظم شہباز شریف نے قطر کے امیر کا شکریہ ادا کیا ہے جس نے ایران اور امریکہ کے درمیان ہونے والے معاہدے میں اہم کردار ادا کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427207/islamabad-mou-pm-thanks-qatari-emir-for-steadfast-support)*
+- قومی اسمبلی میں وزیر دفاع خواجہ آصف کے آزاد کشمیر کے حوالے سے بیانات پر سیاسی تنازع پیدا ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427205/asifs-rawalakot-remarks-spark-storm-in-na)*
 
 ### قومی
-- صوبہ خیبر پختونخوا کے ضلع لوئر دیر میں چھ دہشت گردوں کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2010484/6-most-wanted-terrorists-killed-in-lower-dir-operation-ctd)*
-- وزیرستان میں آٹھ پولیس اہلکاروں، بشمول ایس ایچ او، کو مسلح افراد نے اغوا کر لیا۔ *[Dawn](https://www.dawn.com/news/2010551/sho-among-8-cops-kidnapped-by-armed-men-in-upper-south-waziristan-police)*
-- خیبر پختونخوا کے علاقے بارہ میں لڑائی کے باعث خاندان گھر چھوڑنے پر مجبور ہیں۔ *[Dawn](https://www.dawn.com/news/2010505/caught-in-fighting-between-security-forces-and-terrorists-residents-in-kps-bara-are-forced-to-leave-their-homes)*
-- جنوبی وزیرستان میں ایک سرکاری لڑکیوں کے پرائمری اسکول کو دھماکے سے اڑا دیا گیا۔ *[Dawn](https://www.dawn.com/news/2010497/girls-primary-school-blown-up-by-unidentified-miscreants-in-kps-lower-south-waziristan)*
-- بلوچستان کے کوئلہ کان میں مکان گرنے سے دو کان کن ہلاک ہو گئے۔ *[ARY](https://arynews.tv/two-miners-killed-in-balochistan-coal-mine-collapse)*
-- کراچی میں کلسوم نامی بچی کے قتل کیس میں ڈی این اے شواہد نے اہم معلومات فراہم کی ہیں۔ *[ARY](https://arynews.tv/karachi-toddler-kulsoom-case-dna-evidence-reveals-key-clues)*
-- اسلام آباد کا علاقہ شکر پڑیاں شہری ترقی کی وجہ سے تیزی سے سکڑ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40426990/from-green-haven-to-concrete-zone-shakarparians-slow-disappearance)*
-- چیف آف ڈیفنس اسٹاف نے لیبیا کے فوجی رہنما سے ملاقات میں دفاعی تعلقات مضبوط کرنے پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2010538/cdf-munir-libyan-military-leader-stress-importance-of-strengthening-bilateral-defence-ties)*
+- کراچی کے علاقے قوید آباد میں ایک تین سالہ بچی کی ہولناک قتل و غارت سے علاقے میں شدید غم و غصہ پایا جاتا ہے۔ *[Dawn](https://www.dawn.com/news/2010607/horror-in-karachis-quaidabad-after-3-year-olds-body-found-dumped-outside-her-home)*
+- خنجراب پاس کے قریب چین سے موبائل فون اسمگل کرنے کی ایک بڑی کوشش ناکام کر دی گئی۔ *[Dawn](https://www.dawn.com/news/2010637/mobile-phone-smuggling-at-khunjerab-pass-foiled)*
+- جی بی کے علاقے میں ایک فرانسیسی کوہ پیما برفانی تودے (avalanche) کی زد میں آکر جاں بحق ہو گیا۔ *[Dawn](https://www.dawn.com/news/2010554/french-mountaineer-dies-as-avalanche-hits-gbs-k-6-peak)*
+- آڈیٹر جنرل نے بی آئی ایس پی کے حوالے سے رپورٹ میں بتایا ہے کہ 261 مستحقین کے شریک حیات غیر ملکی سفر کے باوجود وظائف وصول کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427201/foreign-travel-261-spouses-of-bisp-beneficiaries-continue-to-receive-payments-agp)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے درمیان اسلام آباد مفاہمت پر عالمی سطح پر توجہ مرکوز ہے۔ *[Dawn](https://www.dawn.com/news/2010496/islamabad-mou-lucerne-summit-between-us-and-iran-reaffirm-faith-in-dialogue-diplomacy-fo)*
-- بھارتی شہر حیدرآباد میں ایک سڑک کا نام ڈونلڈ ٹرمپ کے نام پر رکھا گیا جس پر تنقید کی گئی۔ *[Dawn](https://www.dawn.com/news/2010513/outrageous-indian-tech-hub-names-road-for-trump-drawing-criticism-from-modis-party)*
-- امریکی افواج نے شام میں اسلامک اسٹیٹ کے ایک اہم لیڈر کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40427157/us-forces-killed-islamic-state-leader-in-syria-airstrike-central-command-says)*
-- صدر ٹرمپ کا دعویٰ ہے کہ ایران نے یقین دلایا ہے کہ ہرمز کے مقام پر کوئی ٹیکس نہیں لیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40427153/trump-says-assured-by-iran-no-tolls-to-be-charged-at-hormuz)*
-- آئی اے ای اے کے سربراہ نے ایران میں معائنہ شروع کرنے کی تصدیق کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427148/iaea-chief-says-iran-inspections-will-go-ahead-working-on-modalities)*
+- وینزویلا میں دو بڑے زلزلوں کے بعد ہنگامی حالت نافذ کر دی گئی ہے اور امدادی کام جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010737/emergency-declared-rescue-work-underway-after-twin-quakes-rock-venezuela)*
+- پاکستان نے ایران کے ساتھ تجارتی پیش رفت کو بین الاقوامی پابندیوں میں نرمی سے جوڑ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010661/pakistan-links-iran-trade-prospects-to-sanctions-relief)*
+- امریکی وزیر خارجہ مارکو روبیو نے خلیجی ممالک کے رہنماؤں سے ملاقات کر کے ان کی سیکورٹی کے حوالے سے یقین دہانی کرائی ہے۔ *[Dawn](https://www.dawn.com/news/2010623/uae-kuwait-assured-of-us-commitment-to-gulf-states-security)*
+- بحیرہ عمان میں پھنسے ہوئے جہازوں کو نکالنے کے لیے اقوام متحدہ کے ایک نئے منصوبے کے تحت جہازوں کی آمد و رفت شروع ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427209/un-evacuation-scheme-ships-start-sailing-through-hormuz)*
 
 ### کھیل
-- سینیگال کے گول کیپر ایڈورڈ مینڈی گھٹنے کی چوٹ کے باعث ورلڈ کپ میچ سے باہر ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40427156/senegal-keeper-mendy-out-of-world-cup-clash-with-iraq-due-to-knee-injury)*
+- ورلڈ کپ کے سلسلے میں مراکش نے ہیٹی کو شکست دے کر اپنی پوزیشن مضبوط رکھی ہے۔ *[ARY](https://arynews.tv/morocco-overcome-haiti-to-maintain-world-cup-momentum)*
+- برازیل نے سکاٹ لینڈ کو ہرا دیا، جس میں نیمار کی واپسی ایک اہم موڑ رہی۔ *[ARY](https://arynews.tv/neymar-returns-as-brazil-beat-scotland)*
+- انگلینڈ نے ٹی 20 ورلڈ کپ کے سیمی فائنل میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/wyatt-hodge-stars-as-england-ease-into-t20-world-cup-semi-finals)*
+
+### صحت
+- پاکستان نے وائرل ہیپاٹائٹس کے خلاف عالمی سطح پر سخت اقدامات کے لیے اقوام متحدہ میں آواز اٹھائی ہے۔ *[Dawn](https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings)*
+- برطانیہ میں ایک تحقیقاتی رپورٹ کے مطابق میٹرنٹی سکینڈل کے باعث 150 سے زائد شیر خوار بچوں کی موت ہوئی۔ *[Dawn](https://www.dawn.com/news/2010576/over-150-baby-deaths-linked-to-uk-maternity-scandal-probe)*
 
 ### دیگر
-- گلگت بلتستان میں برفانی تودہ گرنے سے فرانس کے ایک کوہ پیما کی موت ہوگئی۔ *[Dawn](https://www.dawn.com/news/2010554/french-mountaineer-dies-as-avalanche-hits-gbs-k-6-peak)*
-- محرم الحرام کے حوالے سے خصوصی مذہبی رپورٹ۔ *[Dawn](https://www.dawn.com/news/2009513/soundscapes-of-muharram)*
-- آسٹریلیا کے ہیرو احمد آل احمد پر اپنے والد پر تشدد کا الزام لگا ہے۔ *[Dawn](https://www.dawn.com/news/2010486/man-who-rose-to-fame-after-disarming-bondi-beach-attacker-denies-assaulting-father)*
+- ٹیکساس میں سیلاب کے نتیجے میں ہونے والی ہلاکتوں اور تنازعات کے بعد ایک کیمپ نے دیوالیہ ہونے کے لیے درخواست دے دی ہے۔ *[ARY](https://arynews.tv/camp-mystic-files-for-bankruptcy-amid-controversy)*
 
