@@ -7,50 +7,55 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Jun-2026 09:10PKT 
+ &lrm; 25-Jun-2026 21:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- آڈیٹر جنرل کی رپورٹ میں ایف بی آر کی جانب سے سپر ٹیکس کے ممکنہ فوائد سے فائدہ نہ اٹھانے اور دیگر مالیاتی بے قاعدگیوں کا انکشاف کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010659/fbr-didnt-capitalise-on-super-tax-potential-audit-finds)*
-- ایران کے ساتھ تجارت کو باقاعدہ بنانے کے لیے تفتان میں نیا لینڈ کسٹمز اسٹیشن قائم کرنے کا نوٹیفیکیشن جاری کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010633/taftan-formalised-for-trade-with-iran)*
-- بارکلیز نے تیل کی مارکیٹ کے بہتر منظر نامے کے باعث پاکستان کے سونوری ڈیٹ کو 'اوور ویٹ' تک اپ گریڈ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010586/barclays-upgrades-pakistans-sovereign-debt-to-overweight-on-improved-oil-market-outlook-report)*
-- خیبر پختونخوا اسمبلی نے مالی سال 2026-27 کے لیے 2.17 ٹریلین روپے کا بجٹ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010593/cm-afridi-vows-peace-in-fy27-as-kp-assembly-passes-rs217tr-budget)*
-- قومی اسمبلی نے مالی سال 2024-25 اور 2025-26 کے لیے مختلف زرائع سے ضمنی بجٹ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2010552/na-approves-over-rs500bn-in-supplementary-budget-for-fy25-rs475bn-for-fy26)*
-- وفاقی ٹیکس اخراجات کا تخمینہ مالی سال 2024-25 کے لیے 2,352.81 ارب روپے لگایا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427215/fy2024-25-total-federal-tax-expenditure-estimated-at-rs235281bn)*
+- امیر ممالک کو امیگریشن سے بڑے معاشی فوائد حاصل ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010809/wealthy-nations-reap-huge-benefits-from-immigration-study-finds)*
+- پاکستان میں پیٹرول کی قیمتوں میں مزید کمی کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-rana-sanaullah-signals-further-reduction)*
+- امریکی اسٹاک مارکیٹ میں مائیکرون کے بہترین نتائج کے بعد اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427290/us-stocks-mostly-up-as-micron-jumps-inflation-rises)*
+- ایپل نے میموری اور اسٹوریج چپس کی بڑھتی ہوئی قیمتوں کی وجہ سے آئی پیڈ اور میک بک کی قیمتوں میں اضافہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427289/apple-raises-prices-of-macbooks-ipads-as-memory-costs-skyrocket)*
+- امریکہ میں مہنگائی کے اعداد و شمار کے بعد ڈالر کی قدر میں کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427288/dollar-eases-from-13-month-high-after-data-burst)*
+- بھارت نے صنعتی شعبے کے لیے ایل پی جی (LPG) کی فراہمی میں اضافہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427287/india-raises-lpg-supplies-to-industries-government-says)*
+- بھارت اور امریکہ کے درمیان تجارتی معاہدے کے حوالے سے بات چیت قریب ترین سطح پر پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427284/india-says-very-close-to-trade-deal-with-us)*
+- چین کے ذریعے ہانگ کانگ میں سونے کی خالص درآمدات میں ماہانہ بنیادوں پر 38 فیصد کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427281/chinas-net-gold-imports-via-hong-kong-fell-38-month-on-month-in-may)*
+- سپین کی پہلی سہ ماہی جی ڈی پی میں 0.6 فیصد اضافہ رپورٹ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427271/spains-q1-gdp-quarterly-growth-confirmed-at-06)*
+- ایمیزون نے بھارت میں مصنوعی ذہانت (AI) کے شعبے میں 13 ارب ڈالر کی اضافی سرمایہ کاری کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010789/amazon-pledges-additional-13bn-in-india-ai-investment)*
 
 ### سائنس اور ٹیکنالوجی
-- اقوام متحدہ کے ایک ادارے نے خودکار گاڑیوں (self-driving cars) کے لیے پہلے عالمی حفاظتی قوانین منظور کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427203/first-global-rules-adopted-for-self-driving-cars-un)*
-- دہلی میں ڈیٹا سینٹر میں آگ لگنے سے گوگل سمیت متعدد کمپنیوں کے ڈیٹا کے ضائع ہونے کا خدشہ پیدا ہو گیا ہے۔ *[ARY](https://arynews.tv/google-faces-data-challenges-after-recent-fire)*
+- ایمیزون بھارت میں کلاؤڈ اور اے آئی انفراسٹرکچر کو وسعت دینے کے لیے بڑی سرمایہ کاری کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2010789/amazon-pledges-additional-13bn-in-india-ai-investment)*
+- گیمنگ کمپنی راک اسٹار نے **GTA 6** کی پری آرڈر تاریخ اور قیمتوں کے بارے میں تفصیلات جاری کر دی ہیں۔ *[ARY](https://arynews.tv/rockstar-locks-in-gta-6-pre-order-date-pricing-and-launch-details)*
 
 ### سیاست
-- وزیراعظم کے بنائے ہوئے کمیٹی نے متنازع ٹیلی کام بل میں اہم تبدیلیوں کی سفارش کی ہے تاکہ اسے کاروبار کے لیے سازگار بنایا جا سکے۔ *[Dawn](https://www.dawn.com/news/2010642/law-minister-led-panel-suggests-major-changes-to-language-of-telecom-bill)*
-- اسلام آباد ہائی کورٹ 29 جون کو عمران خان اور بشریٰ بی بی کی 190 ملین پاؤنڈ کیس میں اپیلوں پر سماعت کرے گی۔ *[Dawn](https://www.dawn.com/news/2010641/ihc-to-hear-imrans-ps190m-case-appeal-on-june-29)*
-- آزاد جموں و کشمیر کے انتخابات کے لیے کاغذات جمع کرانے والوں کی تعداد میں 30 فیصد اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2010646/nominations-surge-as-1265-file-papers-for-ajk-elections)*
-- وزیراعظم شہباز شریف نے قطر کے امیر کا شکریہ ادا کیا ہے جس نے ایران اور امریکہ کے درمیان ہونے والے معاہدے میں اہم کردار ادا کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427207/islamabad-mou-pm-thanks-qatari-emir-for-steadfast-support)*
-- قومی اسمبلی میں وزیر دفاع خواجہ آصف کے آزاد کشمیر کے حوالے سے بیانات پر سیاسی تنازع پیدا ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427205/asifs-rawalakot-remarks-spark-storm-in-na)*
+- ڈپٹی وزیراعظم اسحاق ڈار کا کہنا ہے کہ پاکستان اب امریکہ اور ایران کے درمیان ثالثی کے کردار کی وجہ سے عالمی سطح پر ایک **'امن پسند ملک'** کے طور پر پہچانا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2010763/dar-says-world-now-recognises-pakistan-as-a-peacemaker-for-role-in-us-iran-mediation)*
+- امریکی صدر ڈونلڈ ٹرمپ اور ایک ریپبلکن سینیٹر کے درمیان ایران جنگ کے حوالے سے تلخ بحث ہوئی۔ *[Dawn](https://www.dawn.com/news/2010746/trump-republican-senator-engage-in-shouting-match-over-iran-war)*
 
 ### قومی
-- کراچی کے علاقے قوید آباد میں ایک تین سالہ بچی کی ہولناک قتل و غارت سے علاقے میں شدید غم و غصہ پایا جاتا ہے۔ *[Dawn](https://www.dawn.com/news/2010607/horror-in-karachis-quaidabad-after-3-year-olds-body-found-dumped-outside-her-home)*
-- خنجراب پاس کے قریب چین سے موبائل فون اسمگل کرنے کی ایک بڑی کوشش ناکام کر دی گئی۔ *[Dawn](https://www.dawn.com/news/2010637/mobile-phone-smuggling-at-khunjerab-pass-foiled)*
-- جی بی کے علاقے میں ایک فرانسیسی کوہ پیما برفانی تودے (avalanche) کی زد میں آکر جاں بحق ہو گیا۔ *[Dawn](https://www.dawn.com/news/2010554/french-mountaineer-dies-as-avalanche-hits-gbs-k-6-peak)*
-- آڈیٹر جنرل نے بی آئی ایس پی کے حوالے سے رپورٹ میں بتایا ہے کہ 261 مستحقین کے شریک حیات غیر ملکی سفر کے باوجود وظائف وصول کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427201/foreign-travel-261-spouses-of-bisp-beneficiaries-continue-to-receive-payments-agp)*
+- کراچی کے علاقے قوید آباد میں تین سالہ بچی کے ریپ اور قتل کے ہولناک واقعے کی اعلیٰ سطح پر تحقیقات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-horrific-rape-murder-of-3-year-old-girl-in-karachis-quaidabad)*
+- ملک بھر میں محرم الحرام کی 9 تاریخ کے حوالے سے سخت حفاظتی انتظامات کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements)*
+- اے جے کے پولیس چیف نے غلط معلومات اور مصنوعی ذہانت سے تیار کردہ مواد کے پھیلاؤ کے خلاف خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010823/ajk-police-chief-warns-against-disinformation-amid-standoff-denies-curbs-on-goods-transport)*
+- بنوں میں اغوا کیے گئے پانچ افراد، جن میں ایک پولیس کانسٹیبل بھی شامل ہے، بحفاظت رہا کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2010804/five-abducted-individuals-including-police-constable-safely-return-home-in-bannu)*
+- پنجاب حکومت نے **'پروارز کارڈ'** کے تحت 135 ہنر مند نوجوانوں کا پہلا بیج سعودی عرب روانہ کر دیا۔ *[Dawn](https://www.dawn.com/news/2010698/parwaz-card-initiative-135-skilled-youths-leave-for-ksa-to-start-jobs)*
+- پاکستان اور آزاد کشمیر کی حکومت نے بی بی سی کی رپورٹ کو مسترد کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-azad-kashmir-government-dismiss-bbc-report)*
 
 ### بین الاقوامی
-- وینزویلا میں دو بڑے زلزلوں کے بعد ہنگامی حالت نافذ کر دی گئی ہے اور امدادی کام جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010737/emergency-declared-rescue-work-underway-after-twin-quakes-rock-venezuela)*
-- پاکستان نے ایران کے ساتھ تجارتی پیش رفت کو بین الاقوامی پابندیوں میں نرمی سے جوڑ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010661/pakistan-links-iran-trade-prospects-to-sanctions-relief)*
-- امریکی وزیر خارجہ مارکو روبیو نے خلیجی ممالک کے رہنماؤں سے ملاقات کر کے ان کی سیکورٹی کے حوالے سے یقین دہانی کرائی ہے۔ *[Dawn](https://www.dawn.com/news/2010623/uae-kuwait-assured-of-us-commitment-to-gulf-states-security)*
-- بحیرہ عمان میں پھنسے ہوئے جہازوں کو نکالنے کے لیے اقوام متحدہ کے ایک نئے منصوبے کے تحت جہازوں کی آمد و رفت شروع ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427209/un-evacuation-scheme-ships-start-sailing-through-hormuz)*
+- وینزویلا میں دو طاقتور زلزلوں کے نتیجے میں ہزاروں افراد کے ہلاک ہونے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams)*
+- امریکی وزیر خارجہ مارکو روبیو نے خلیجی ممالک کو یقین دلایا کہ ایران کے ساتھ کوئی بھی معاہدہ ان کے مفادات کے تحفظ کو یقینی بنائے گا۔ *[Dawn](https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour)*
+- پاکستان اور چین نے سلامتی کونسل کی قراردادوں پر عملدرآمد کو یقینی بنانے کے لیے ایک مشترکہ اجلاس منعقد کیا۔ *[Dawn](https://www.dawn.com/news/2010761/pakistan-china-organise-unsc-meeting-on-steps-to-ensure-implementation-of-resolutions)*
+- لبنان میں جنگ بندی کے باوجود بے گھر ہونے والے لوگوں کو اب بھی اپنے تباہ شدہ گھروں کی واپسی میں مشکلات کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2010810/truce-brings-no-relief-for-displaced-from-lebanons-destroyed-occupied-towns)*
+- پاکستان اور ایران نے تجارتی روابط بڑھانے کے لیے سڑک اور ریلوے لائنوں کو مضبوط بنانے پر اتفاق کیا۔ *[ARY](https://arynews.tv/pakistan-iran-agree-to-strengthen-road-rail-links)*
+- بھارت نے بنگلہ دیش کے شہریوں کے لیے سیاحتی ویزوں کا سلسلہ دوبارہ شروع کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427283/india-to-resume-bangladeshi-tourist-visas)*
 
 ### کھیل
-- ورلڈ کپ کے سلسلے میں مراکش نے ہیٹی کو شکست دے کر اپنی پوزیشن مضبوط رکھی ہے۔ *[ARY](https://arynews.tv/morocco-overcome-haiti-to-maintain-world-cup-momentum)*
-- برازیل نے سکاٹ لینڈ کو ہرا دیا، جس میں نیمار کی واپسی ایک اہم موڑ رہی۔ *[ARY](https://arynews.tv/neymar-returns-as-brazil-beat-scotland)*
-- انگلینڈ نے ٹی 20 ورلڈ کپ کے سیمی فائنل میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/wyatt-hodge-stars-as-england-ease-into-t20-world-cup-semi-finals)*
+- فیفا نے تیسرے فریق کے مداخلت کے باعث نیپال کو فٹ بال سے معطل کر دیا ہے۔ *[ARY](https://arynews.tv/fifa-suspends-nepal-over-third-party-interference)*
+- فٹ بال اسٹار لیونل میسی کی سالگرہ کے موقع پر ارجنٹائن میں بھرپور جشن منایا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427275/argentina-sings-collective-happy-birthday-to-messi)*
+- میکسیکو نے چیک جمہوریہ کو شکست دے کر ورلڈ کپ کے اگلے مرحلے میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427273/mexico-stay-perfect-and-bounce-czechs-out-of-world-cup-with-3-0-win)*
+- مراکش نے ہیٹی کو شکست دے کر ورلڈ کپ کے آخری 32 میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427272/morocco-earn-comeback-win-over-haiti-to-reach-last-32-as-group-runners-up)*
 
 ### صحت
-- پاکستان نے وائرل ہیپاٹائٹس کے خلاف عالمی سطح پر سخت اقدامات کے لیے اقوام متحدہ میں آواز اٹھائی ہے۔ *[Dawn](https://www.dawn.com/news/2010592/pakistan-pushes-for-global-action-against-hepatitis-amid-alarming-who-findings)*
-- برطانیہ میں ایک تحقیقاتی رپورٹ کے مطابق میٹرنٹی سکینڈل کے باعث 150 سے زائد شیر خوار بچوں کی موت ہوئی۔ *[Dawn](https://www.dawn.com/news/2010576/over-150-baby-deaths-linked-to-uk-maternity-scandal-probe)*
+- پاکستان میں بچوں کے لیے مخصوص پہلے **'چائلڈ فرینڈلی میڈیکو لیگل کلینک'** کا آغاز کیا گیا ہے تاکہ بچوں کے قانونی مسائل کو بہتر طریقے سے حل کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2010785/pakistans-legal-system-isnt-built-for-children-this-clinic-is-trying-to-change-that)*
 
 ### دیگر
-- ٹیکساس میں سیلاب کے نتیجے میں ہونے والی ہلاکتوں اور تنازعات کے بعد ایک کیمپ نے دیوالیہ ہونے کے لیے درخواست دے دی ہے۔ *[ARY](https://arynews.tv/camp-mystic-files-for-bankruptcy-amid-controversy)*
+- شہزادہ ہیری کی نئی ویڈیو سے برطانوی شاہی خاندان کے اندر تناؤ بڑھنے کا خدشہ ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/harry-new-video-reignites-palace-tensions-as-camilla-cautions-king-charles)*
 
