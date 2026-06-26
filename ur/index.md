@@ -7,55 +7,70 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Jun-2026 21:10PKT 
+ &lrm; 26-Jun-2026 09:11PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- امیر ممالک کو امیگریشن سے بڑے معاشی فوائد حاصل ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010809/wealthy-nations-reap-huge-benefits-from-immigration-study-finds)*
-- پاکستان میں پیٹرول کی قیمتوں میں مزید کمی کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-rana-sanaullah-signals-further-reduction)*
-- امریکی اسٹاک مارکیٹ میں مائیکرون کے بہترین نتائج کے بعد اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427290/us-stocks-mostly-up-as-micron-jumps-inflation-rises)*
-- ایپل نے میموری اور اسٹوریج چپس کی بڑھتی ہوئی قیمتوں کی وجہ سے آئی پیڈ اور میک بک کی قیمتوں میں اضافہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427289/apple-raises-prices-of-macbooks-ipads-as-memory-costs-skyrocket)*
-- امریکہ میں مہنگائی کے اعداد و شمار کے بعد ڈالر کی قدر میں کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427288/dollar-eases-from-13-month-high-after-data-burst)*
-- بھارت نے صنعتی شعبے کے لیے ایل پی جی (LPG) کی فراہمی میں اضافہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427287/india-raises-lpg-supplies-to-industries-government-says)*
-- بھارت اور امریکہ کے درمیان تجارتی معاہدے کے حوالے سے بات چیت قریب ترین سطح پر پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427284/india-says-very-close-to-trade-deal-with-us)*
-- چین کے ذریعے ہانگ کانگ میں سونے کی خالص درآمدات میں ماہانہ بنیادوں پر 38 فیصد کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427281/chinas-net-gold-imports-via-hong-kong-fell-38-month-on-month-in-may)*
-- سپین کی پہلی سہ ماہی جی ڈی پی میں 0.6 فیصد اضافہ رپورٹ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427271/spains-q1-gdp-quarterly-growth-confirmed-at-06)*
-- ایمیزون نے بھارت میں مصنوعی ذہانت (AI) کے شعبے میں 13 ارب ڈالر کی اضافی سرمایہ کاری کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010789/amazon-pledges-additional-13bn-in-india-ai-investment)*
+- پاکستان ممکنہ طور پر ایرانی خام تیل کی سپلائی دوبارہ حاصل کرنے کی کوشش کر سکتا ہے، جس سے مقامی ریفائنریوں کو فائدہ پہنچ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2010876/iranian-oil-option-returns-for-pakistan)*
+- وزارت تجارت نے استعمال شدہ گاڑیوں کی درآمد کے حوالے سے نئی ہدایات اور رعایتیں جاری کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2010874/15000-used-cars-get-clearance-window)*
+- مصنوعی ذہانت (AI) کی وجہ سے بڑھتی ہوئی لاگت کے باعث ایپل نے میک بکس اور آئی پیڈ کی قیمتوں میں اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010845/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai)*
+- ایل سی سی آئی نے فنانس بل 2026 میں مجوزہ ترامیم کے حوالے سے ایک خصوصی اجلاس منعقد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427320/post-budget-analysis-lcci-holds-session-on-finance-bill-amendments)*
+- وفاقی اور پنجاب حکومتوں نے نئے مالی سال کے لیے بجٹ پیش کر دیے ہیں، جن میں اخراجات میں اضافہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427321/federal-punjab-govts-budgets-show-increase-in-outlays-at-both-levels)*
+- جے پی مورگن نے ڈگ پیٹنو اور ٹرائے روربگ کو کمپنی کا نیا کو-پریزیڈنٹ مقرر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427351/jpmorgan-names-petno-rohrbaugh-co-presidents)*
+- مشرق وسطیٰ میں بحری جہاز پر حملے کے بعد تیل کی قیمتوں میں 2 فیصد اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427354/oil-prices-climb-2pc-on-new-supply-worries)*
+- کسٹمز حکام نے کاربن سٹیل سیم لیس پائپوں کی درآمد کے لیے نئی ویلیو مقرر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427324/carbon-steel-seamless-pipes-new-customs-values-fixed)*
+- ایک حالیہ تحقیق کے مطابق، ہجرت پذیر ممالک کو معاشی طور پر بڑے فوائد حاصل ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010809/wealthy-nations-reap-huge-benefits-from-immigration-study-finds)*
 
 ### سائنس اور ٹیکنالوجی
-- ایمیزون بھارت میں کلاؤڈ اور اے آئی انفراسٹرکچر کو وسعت دینے کے لیے بڑی سرمایہ کاری کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2010789/amazon-pledges-additional-13bn-in-india-ai-investment)*
-- گیمنگ کمپنی راک اسٹار نے **GTA 6** کی پری آرڈر تاریخ اور قیمتوں کے بارے میں تفصیلات جاری کر دی ہیں۔ *[ARY](https://arynews.tv/rockstar-locks-in-gta-6-pre-order-date-pricing-and-launch-details)*
+- اینتھروپک نے چینی کمپنی علی بابا پر اپنے 'Claude' اے آئی ماڈل کی صلاحیتیں چوری کرنے کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2010879/anthropic-accuses-alibaba-of-mass-ai-capability-theft)*
+
+### موسمیات
+- وینزویلا میں دو طاقتور زلزلوں نے تباہی مچا دی ہے، جس کے نتیجے میں ہزاروں اموات کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams)*
 
 ### سیاست
-- ڈپٹی وزیراعظم اسحاق ڈار کا کہنا ہے کہ پاکستان اب امریکہ اور ایران کے درمیان ثالثی کے کردار کی وجہ سے عالمی سطح پر ایک **'امن پسند ملک'** کے طور پر پہچانا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2010763/dar-says-world-now-recognises-pakistan-as-a-peacemaker-for-role-in-us-iran-mediation)*
-- امریکی صدر ڈونلڈ ٹرمپ اور ایک ریپبلکن سینیٹر کے درمیان ایران جنگ کے حوالے سے تلخ بحث ہوئی۔ *[Dawn](https://www.dawn.com/news/2010746/trump-republican-senator-engage-in-shouting-match-over-iran-war)*
+- پیپلز پارٹی نے اعلان کیا ہے کہ سندھ میں مقامی حکومت کے انتخابات 2027 میں منعقد کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2010924/local-govt-polls-to-be-held-in-sindh-next-year-ppp)*
+- پیپلز پارٹی اور مسلم لیگ ن کے درمیان سیاسی شراکت داری کو 'مصلحت کا نکاح' قرار دیا گیا۔ *[ARY](https://arynews.tv/ppp-pml-n-partnership-is-a-marriage-of-convenience)*
+- پیپلز پارٹی نے آزاد کشمیر کے انتخابات کے لیے 17 رکنی پارلیمانی بورڈ تشکیل دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427325/ajk-elections-ppp-forms-17-member-parliamentary-board)*
+- آزاد کشمیر حکومت نے تمام مسائل مذاکرات اور ڈائیلاگ کے ذریعے حل کرنے کی آمادگی کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427326/ajk-govt-says-ready-to-resolve-issues-through-dialogue)*
+- نائب وزیراعظم اسحاق ڈار نے کہا کہ پاکستان نے ایران اور امریکہ کے درمیان ثالثی کر کے امن کا کردار ادا کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427318/pakistan-emerges-as-peacemaker-in-the-world-dar)*
 
 ### قومی
-- کراچی کے علاقے قوید آباد میں تین سالہ بچی کے ریپ اور قتل کے ہولناک واقعے کی اعلیٰ سطح پر تحقیقات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-horrific-rape-murder-of-3-year-old-girl-in-karachis-quaidabad)*
-- ملک بھر میں محرم الحرام کی 9 تاریخ کے حوالے سے سخت حفاظتی انتظامات کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2010752/country-observes-muharram-9-amid-tight-security-arrangements)*
-- اے جے کے پولیس چیف نے غلط معلومات اور مصنوعی ذہانت سے تیار کردہ مواد کے پھیلاؤ کے خلاف خبردار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2010823/ajk-police-chief-warns-against-disinformation-amid-standoff-denies-curbs-on-goods-transport)*
-- بنوں میں اغوا کیے گئے پانچ افراد، جن میں ایک پولیس کانسٹیبل بھی شامل ہے، بحفاظت رہا کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2010804/five-abducted-individuals-including-police-constable-safely-return-home-in-bannu)*
-- پنجاب حکومت نے **'پروارز کارڈ'** کے تحت 135 ہنر مند نوجوانوں کا پہلا بیج سعودی عرب روانہ کر دیا۔ *[Dawn](https://www.dawn.com/news/2010698/parwaz-card-initiative-135-skilled-youths-leave-for-ksa-to-start-jobs)*
-- پاکستان اور آزاد کشمیر کی حکومت نے بی بی سی کی رپورٹ کو مسترد کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-azad-kashmir-government-dismiss-bbc-report)*
+- کراچی کے علاقے قوید آباد میں تین سالہ بچی کے ریپ اور قتل کی اعلیٰ سطح پر تحقیقات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-rape-murder-of-3-year-old-girl-in-karachis-quaidabad)*
+- سرگودھا میں سات سالہ بچی کے قتل کی ابتدائی پوسٹ مارٹم رپورٹ میں ریپ کا امکان ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010828/preliminary-postmortem-report-of-7-year-old-girl-in-sargodha-indicates-possibility-of-rape-police)*
+- یومِ عاشورہ کے موقع پر ملک بھر میں امن و امان برقرار رکھنے کے لیے سخت حفاظتی انتظامات کیے گئے۔ *[Dawn](https://www.dawn.com/news/2010752/countrywide-muharram-9-processions-conclude-peacefully-amid-strict-security)*
+- آزاد کشمیر پولیس نے شہریوں کو غلط معلومات اور اے آئی سے تیار کردہ مواد سے بچنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2010823/ajk-police-chief-warns-against-disinformation-amid-standoff-denies-curbs-on-goods-transport)*
+- وزارت اطلاعات نے بی بی سی اردو کے خلاف جھوٹی خبریں شائع کرنے پر رسمی احتجاج اور شکایت درج کرائی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427315/ministry-lodges-formal-complaint-with-bbc-urdu)*
+- لاہور ہائی کورٹ نے فیصلہ دیا کہ بچوں کے نفقہ (خرچے) کے حقوق ماں کے بجائے خود بچے کے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427347/rights-of-maintenance-belong-to-the-child-not-to-the-mother)*
+- کراچی واٹر اینڈ سیوریج کارپوریشن نے عاشورہ کے موقع پر پانی کی بلا تعطل فراہمی کے انتظامات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427314/kwsc-completes-arrangements-for-ashura)*
+- سندھ پولیس نے دو ملزمان کے خلاف ریڈ وارنٹ جاری کر دیے ہیں۔ *[ARY](https://arynews.tv/ig-sindh-says-red-warrants-issued-for-hammad-and-lakho)*
 
 ### بین الاقوامی
-- وینزویلا میں دو طاقتور زلزلوں کے نتیجے میں ہزاروں افراد کے ہلاک ہونے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams)*
-- امریکی وزیر خارجہ مارکو روبیو نے خلیجی ممالک کو یقین دلایا کہ ایران کے ساتھ کوئی بھی معاہدہ ان کے مفادات کے تحفظ کو یقینی بنائے گا۔ *[Dawn](https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour)*
-- پاکستان اور چین نے سلامتی کونسل کی قراردادوں پر عملدرآمد کو یقینی بنانے کے لیے ایک مشترکہ اجلاس منعقد کیا۔ *[Dawn](https://www.dawn.com/news/2010761/pakistan-china-organise-unsc-meeting-on-steps-to-ensure-implementation-of-resolutions)*
-- لبنان میں جنگ بندی کے باوجود بے گھر ہونے والے لوگوں کو اب بھی اپنے تباہ شدہ گھروں کی واپسی میں مشکلات کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2010810/truce-brings-no-relief-for-displaced-from-lebanons-destroyed-occupied-towns)*
-- پاکستان اور ایران نے تجارتی روابط بڑھانے کے لیے سڑک اور ریلوے لائنوں کو مضبوط بنانے پر اتفاق کیا۔ *[ARY](https://arynews.tv/pakistan-iran-agree-to-strengthen-road-rail-links)*
-- بھارت نے بنگلہ دیش کے شہریوں کے لیے سیاحتی ویزوں کا سلسلہ دوبارہ شروع کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427283/india-to-resume-bangladeshi-tourist-visas)*
+- امریکی سینیٹ نے ایران کے خلاف جنگی اختیارات کی قرارداد کو مسترد کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010880/us-senate-reverses-course-on-presidents-war-powers)*
+- امریکی سپریم کورٹ نے پناہ گزینوں کے حوالے سے ٹرمپ انتظامیہ کی پالیسی کی حمایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2010837/us-supreme-court-sides-with-trump-in-asylum-processing-case)*
+- سویڈش وزیر نے یورپی یونین کے اجلاس میں اپنے بچے کو ساتھ لے کر ایک نئی روایت قائم کی۔ *[Dawn](https://www.dawn.com/news/2010887/swedish-minister-breaks-ground-by-bringing-baby-to-eu-talks)*
+- امریکی وزیر خارجہ مارکو روبیو نے مشرق وسطیٰ کے ممالک کو ایران کے ساتھ کسی بھی معاہدے میں ان کے مفادات کے تحفظ کا یقین دلایا۔ *[Dawn](https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour)*
+- فرانسیسی صدر میکرون اور اطالوی وزیراعظم میلونی کے درمیان تعلقات مضبوط کرنے کے لیے ملاقات طے پائی۔ *[Dawn](https://www.dawn.com/news/2010799/need-each-other-frances-macron-to-host-italys-meloni-after-trump-rift)*
+- پاکستان نے وینزویلا میں زلزلے کے نتیجے میں ہونے والے جانی و مالی نقصان پر ہمدردی کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427345/pakistan-expresses-solidarity-with-venezuela)*
+- بحیرہ عمان میں بحری جہاز پر حملے کے بعد اقوام متحدہ نے ہرمز سروے کا منصوبہ روک دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427355/un-pauses-hormuz-evacuation-plan-after-ship-attack)*
+- فرانسیسی عدالت نے ٹوٹل انرجیز کو اپنے صارفین کے کاربن اخراج کا حساب دینے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427348/court-orders-totalenergies-to-account-for-clients-emissions)*
+- امریکی سپریم کورٹ نے Roundup کینسر کے مقدمات کے حوالے سے اہم فیصلہ سنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427349/us-supreme-court-scales-back-roundup-cancer-lawsuits)*
 
 ### کھیل
-- فیفا نے تیسرے فریق کے مداخلت کے باعث نیپال کو فٹ بال سے معطل کر دیا ہے۔ *[ARY](https://arynews.tv/fifa-suspends-nepal-over-third-party-interference)*
-- فٹ بال اسٹار لیونل میسی کی سالگرہ کے موقع پر ارجنٹائن میں بھرپور جشن منایا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427275/argentina-sings-collective-happy-birthday-to-messi)*
-- میکسیکو نے چیک جمہوریہ کو شکست دے کر ورلڈ کپ کے اگلے مرحلے میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427273/mexico-stay-perfect-and-bounce-czechs-out-of-world-cup-with-3-0-win)*
-- مراکش نے ہیٹی کو شکست دے کر ورلڈ کپ کے آخری 32 میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427272/morocco-earn-comeback-win-over-haiti-to-reach-last-32-as-group-runners-up)*
+- پیپے کی قیادت میں آئیوری کوسٹ ورلڈ کپ کے اگلے مرحلے میں پہنچ گئی ہے۔ *[ARY](https://arynews.tv/pepe-steers-ivory-coast-into-world-cup-last-32-as-curacao-go-home)*
+- دی سلوا کی شاندار سنچری نے سری لنکا کو پہلا ٹیسٹ جیتنے میں مدد دی۔ *[ARY](https://arynews.tv/de-silva-century-rescues-sri-lanka-in-first-test)*
+- ایک سنسنی خیز میچ میں ایکواڈور نے جرمنی کو شکست دے کر ورلڈ کپ کے اگلے مرحلے میں جگہ بنا لی۔ *[ARY](https://arynews.tv/ecuador-stun-germany-to-reach-world-cup-last-32)*
+- می ویڈر اور زامبیدیس کے درمیان ہونے والا باکسنگ مقابلہ منسوخ ہو گیا۔ *[ARY](https://arynews.tv/mayweathers-athens-fight-with-zambidis-is-off-report)*
+- ایلونسی نے کہا کہ وہ ایسٹن مارٹن کے ساتھ وابستہ ہیں لیکن دیگر آپشنز بھی کھلا رکھے ہوئے ہیں۔ *[ARY](https://arynews.tv/alonso-committed-to-aston-martin-but-keeping-options-open)*
+- کرکٹ: لیتھم اور کونوے نے رنز بنائے جبکہ اسٹوکس نے اہم بریک تھرو حاصل کیا۔ *[ARY](https://arynews.tv/latham-conway-pile-on-the-runs-before-stokes-breakthrough)*
 
 ### صحت
-- پاکستان میں بچوں کے لیے مخصوص پہلے **'چائلڈ فرینڈلی میڈیکو لیگل کلینک'** کا آغاز کیا گیا ہے تاکہ بچوں کے قانونی مسائل کو بہتر طریقے سے حل کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2010785/pakistans-legal-system-isnt-built-for-children-this-clinic-is-trying-to-change-that)*
+- آڈٹ رپورٹ میں محکمہ صحت کے مختلف شعبوں میں 3.41 ارب روپے کی بے ضابطگیوں کا انکشاف ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2010834/audit-report-identifies-rs341bn-worth-of-irregularities-in-health-sector)*
+- پنجاب حکومت نے ایک مخصوص دوا کے استعمال کے حوالے سے عوام کے لیے الرٹ جاری کر دیا ہے۔ *[ARY](https://arynews.tv/do-not-use-this-medicine-punjab-issues-alert)*
+- پنجاب میں غیر ملکی ڈاکٹروں کے ذریعے علاج کے لیے 'ڈائسپورا ڈاکٹر لوکم پروگرام' کی منظوری دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427319/cm-approves-ddlp-foreign-specialists-to-treat-patients-in-punjab-hospitals)*
+- خیبرپختونخوا میں عوامی صحت کے ہنگامی حالات سے نمٹنے کے حوالے سے ایک اہم تحقیق مکمل کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427327/public-health-emergencies-scholar-defends-his-doctoral-thesis)*
 
 ### دیگر
-- شہزادہ ہیری کی نئی ویڈیو سے برطانوی شاہی خاندان کے اندر تناؤ بڑھنے کا خدشہ ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/harry-new-video-reignites-palace-tensions-as-camilla-cautions-king-charles)*
+- شہزادہ جارج ایٹن اسکول جانے کے لیے تیار ہیں۔ *[ARY](https://arynews.tv/prince-george-heads-to-eton-after-years-of-research-by-william-kate)*
+- یومِ عاشورہ کی تاریخی اہمیت اور اس کے پیغام پر روشنی ڈالی گئی۔ *[Dawn](https://www.dawn.com/news/2010908/lamp-of-guidance)*
 
