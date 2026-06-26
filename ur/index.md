@@ -7,70 +7,63 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 26-Jun-2026 09:11PKT 
+ &lrm; 26-Jun-2026 21:10PKT 
 
 پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- پاکستان ممکنہ طور پر ایرانی خام تیل کی سپلائی دوبارہ حاصل کرنے کی کوشش کر سکتا ہے، جس سے مقامی ریفائنریوں کو فائدہ پہنچ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2010876/iranian-oil-option-returns-for-pakistan)*
-- وزارت تجارت نے استعمال شدہ گاڑیوں کی درآمد کے حوالے سے نئی ہدایات اور رعایتیں جاری کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2010874/15000-used-cars-get-clearance-window)*
-- مصنوعی ذہانت (AI) کی وجہ سے بڑھتی ہوئی لاگت کے باعث ایپل نے میک بکس اور آئی پیڈ کی قیمتوں میں اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010845/apple-raises-prices-for-macbooks-and-ipads-as-costs-soar-over-ai)*
-- ایل سی سی آئی نے فنانس بل 2026 میں مجوزہ ترامیم کے حوالے سے ایک خصوصی اجلاس منعقد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427320/post-budget-analysis-lcci-holds-session-on-finance-bill-amendments)*
-- وفاقی اور پنجاب حکومتوں نے نئے مالی سال کے لیے بجٹ پیش کر دیے ہیں، جن میں اخراجات میں اضافہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427321/federal-punjab-govts-budgets-show-increase-in-outlays-at-both-levels)*
-- جے پی مورگن نے ڈگ پیٹنو اور ٹرائے روربگ کو کمپنی کا نیا کو-پریزیڈنٹ مقرر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427351/jpmorgan-names-petno-rohrbaugh-co-presidents)*
-- مشرق وسطیٰ میں بحری جہاز پر حملے کے بعد تیل کی قیمتوں میں 2 فیصد اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427354/oil-prices-climb-2pc-on-new-supply-worries)*
-- کسٹمز حکام نے کاربن سٹیل سیم لیس پائپوں کی درآمد کے لیے نئی ویلیو مقرر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427324/carbon-steel-seamless-pipes-new-customs-values-fixed)*
-- ایک حالیہ تحقیق کے مطابق، ہجرت پذیر ممالک کو معاشی طور پر بڑے فوائد حاصل ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2010809/wealthy-nations-reap-huge-benefits-from-immigration-study-finds)*
+- گومل زم ہائیڈرو پاور اسٹیشن آٹھ سال کے وقفے کے بعد اپنی مکمل 17.4 میگاواٹ کی صلاحیت کے ساتھ دوبارہ بحال کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2011038/gomal-zam-hydropower-station-restored-to-full-capacity-after-eight-years)*
+- صدر آصف علی زرداری نے مالی سال 2026-27 کے لیے 18.8 ٹریلین روپے کے بجٹ پر دستخط کر دیے۔ *[Dawn](https://www.dawn.com/news/2010986/president-zardari-gives-assent-to-finance-bill-outlining-rs188tr-budget-for-fy2026-27)*
+- امریکہ کی جانب سے ایران پر پابندیوں میں نرمی کے بعد پاکستان کے لیے دوبارہ ایرانی خام تیل حاصل کرنے کے امکانات پیدا ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2010876/iranian-oil-option-returns-for-pakistan)*
+- وزارت تجارت نے استعمال شدہ گاڑیوں کی درآمد کے حوالے سے کلیئرنس کی راہ ہموار کرنے کے لیے نئی ہدایات جاری کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2010874/15000-used-cars-get-clearance-window)*
+- ووکس ویگن (Volkswagen) کمپنی ممکنہ طور پر 1 لاکھ ملازمتیں ختم کرنے اور چار پلانٹس بند کرنے پر غور کر رہی ہے۔ *[ARY](https://arynews.tv/volkswagen-weighs-up-to-100000-job-cuts-four-plant-closures-in-overhaul-sources-say)*
+- بھارت کے ریگولیٹر نے انیل امبانی اور ان کے گروپ کی جانب سے کمپنی کے فنڈز کے غلط استعمال کے الزامات پر تصفیہ کی درخواست مسترد کر دی۔ *[Business Recorder](https://www.brecorder.com/news/40427407/india-regulator-rejects-anil-ambani-settlement-request-over-reliance-infrastructure)*
+- بھارت نے چین، جاپان اور روس سے آنے والے اسٹیل کی قیمتوں میں غیر قانونی کمی (dumping) کے خلاف تحقیقات شروع کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427406/india-opens-steel-dumping-probe-into-china-japan-russia)*
+- 'واچز آف سوئٹزرلینڈ' نے عالمی مارکیٹ کی مندی کے پیش نظر اپنے 2028 کے ترقیاتی اہداف کو چھوڑنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427401/watches-of-switzerland-to-ditch-2028-growth-target-bloomberg-news-reports)*
+- عالمی معیشت کے اشارے کے طور پر استعمال ہونے والی تانبے (Copper) کی قیمتوں میں استحکام دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427400/copper-steadies-as-weaker-dollar-low-inventories-lend-support)*
+- بھارتی تعلیمی گروپ 'بائی ججز' (Byju's) کے قرض دہندگان کمپنی میں 30 فیصد حصص حاصل کرنے کے لیے مذاکرات کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427399/byjus-lenders-seek-30-stake-in-indian-education-group-in-settlement-sources-say)*
+- آئی ٹی اور مواصلاتی خدمات کے اسٹاک کی وجہ سے سری لنکا کے حصص میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40427398/it-and-communication-services-stocks-lift-sri-lankan-shares-higher)*
+- تیل کی قیمتوں میں کمی کے باعث دبئی کے اسٹاک انڈیکس میں گراوٹ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427397/dubai-index-falls-on-weaker-oil-prices-abu-dhabi-flat)*
 
 ### سائنس اور ٹیکنالوجی
-- اینتھروپک نے چینی کمپنی علی بابا پر اپنے 'Claude' اے آئی ماڈل کی صلاحیتیں چوری کرنے کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2010879/anthropic-accuses-alibaba-of-mass-ai-capability-theft)*
+- ایپل کے سپلائر 'ٹاٹا الیکٹرانکس' نے ڈیٹا چوری کے واقعے کے بعد اپنے اندرونی کنٹرول کو سخت کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427392/apple-supplier-tata-tightens-internal-controls-after-data-breach-sources-say)*
 
-### موسمیات
-- وینزویلا میں دو طاقتور زلزلوں نے تباہی مچا دی ہے، جس کے نتیجے میں ہزاروں اموات کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2010737/thousands-feared-dead-in-venezuela-after-two-major-earthquakes-world-sends-aid-rescue-teams)*
+### موسم
+- یورپ میں شدید گرمی کی لہر (heatwave) کے باعث کئی ممالک میں الرٹ جاری کر دیا گیا ہے، جس سے فرانس میں الکحل پر پابندی اور جرمنی میں سڑکیں پھٹنے کا خدشہ ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011043/europe-on-high-alert-as-killer-heat-spreads)*
+- نئی دہلی کے غریب علاقوں میں گرمی کی شدت سے لوگوں کی زندگی اجیرن ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2011030/summer-is-getting-unbearable-tracking-heat-in-one-of-new-delhis-poorest-areas)*
+- بلوچستان کے علاقے کوہلو میں 5.1 شدت کا زلزلہ محسوس کیا گیا۔ *[Dawn](https://www.dawn.com/news/2011046/51-magnitude-quake-jolts-parts-of-balochistan)*
+- فلپائن کے جنوبی حصے میں 6.6 شدت کا زلزلہ آیا، تاہم سونامی کا کوئی خطرہ نہیں بتایا گیا۔ *[ARY](https://arynews.tv/magnitude-6-6-earthquake-strikes-southern-philippines-no-tsunami-alert-raised)*
 
 ### سیاست
-- پیپلز پارٹی نے اعلان کیا ہے کہ سندھ میں مقامی حکومت کے انتخابات 2027 میں منعقد کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2010924/local-govt-polls-to-be-held-in-sindh-next-year-ppp)*
-- پیپلز پارٹی اور مسلم لیگ ن کے درمیان سیاسی شراکت داری کو 'مصلحت کا نکاح' قرار دیا گیا۔ *[ARY](https://arynews.tv/ppp-pml-n-partnership-is-a-marriage-of-convenience)*
-- پیپلز پارٹی نے آزاد کشمیر کے انتخابات کے لیے 17 رکنی پارلیمانی بورڈ تشکیل دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427325/ajk-elections-ppp-forms-17-member-parliamentary-board)*
-- آزاد کشمیر حکومت نے تمام مسائل مذاکرات اور ڈائیلاگ کے ذریعے حل کرنے کی آمادگی کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427326/ajk-govt-says-ready-to-resolve-issues-through-dialogue)*
-- نائب وزیراعظم اسحاق ڈار نے کہا کہ پاکستان نے ایران اور امریکہ کے درمیان ثالثی کر کے امن کا کردار ادا کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427318/pakistan-emerges-as-peacemaker-in-the-world-dar)*
+- سویڈن کی وزیرِ ماحول نے یورپی یونین کے اجلاس میں اپنے شیر خوار بچے کو ساتھ لانے کے ذریعے ایک نئی مثال قائم کی۔ *[Dawn](https://www.dawn.com/news/2010887/swedish-minister-breaks-ground-by-bringing-baby-to-eu-talks)*
+- امریکی سینٹ نے ایران کے خلاف جنگی اختیارات کی قرارداد کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2010880/us-senate-reverses-course-on-presidents-war-powers)*
+- سابق امریکی مشیر جان بولٹن نے classified دستاویزات کے غلط استعمال کے الزام میں جرم کا اقرار کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427404/trump-adviser-turned-critic-john-bolton-pleads-guilty-to-mishandling-classified-documents)*
+- بھارتی پولیس نے رام مندر میں عطیات کی خورد برد کے الزام میں آٹھ افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011019/indian-authorities-arrest-staff-accused-of-theft-from-temple-built-on-site-of-razed-babri-mosque)*
 
 ### قومی
-- کراچی کے علاقے قوید آباد میں تین سالہ بچی کے ریپ اور قتل کی اعلیٰ سطح پر تحقیقات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2010824/police-launch-high-level-probe-into-rape-murder-of-3-year-old-girl-in-karachis-quaidabad)*
-- سرگودھا میں سات سالہ بچی کے قتل کی ابتدائی پوسٹ مارٹم رپورٹ میں ریپ کا امکان ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2010828/preliminary-postmortem-report-of-7-year-old-girl-in-sargodha-indicates-possibility-of-rape-police)*
-- یومِ عاشورہ کے موقع پر ملک بھر میں امن و امان برقرار رکھنے کے لیے سخت حفاظتی انتظامات کیے گئے۔ *[Dawn](https://www.dawn.com/news/2010752/countrywide-muharram-9-processions-conclude-peacefully-amid-strict-security)*
-- آزاد کشمیر پولیس نے شہریوں کو غلط معلومات اور اے آئی سے تیار کردہ مواد سے بچنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2010823/ajk-police-chief-warns-against-disinformation-amid-standoff-denies-curbs-on-goods-transport)*
-- وزارت اطلاعات نے بی بی سی اردو کے خلاف جھوٹی خبریں شائع کرنے پر رسمی احتجاج اور شکایت درج کرائی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427315/ministry-lodges-formal-complaint-with-bbc-urdu)*
-- لاہور ہائی کورٹ نے فیصلہ دیا کہ بچوں کے نفقہ (خرچے) کے حقوق ماں کے بجائے خود بچے کے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427347/rights-of-maintenance-belong-to-the-child-not-to-the-mother)*
-- کراچی واٹر اینڈ سیوریج کارپوریشن نے عاشورہ کے موقع پر پانی کی بلا تعطل فراہمی کے انتظامات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427314/kwsc-completes-arrangements-for-ashura)*
-- سندھ پولیس نے دو ملزمان کے خلاف ریڈ وارنٹ جاری کر دیے ہیں۔ *[ARY](https://arynews.tv/ig-sindh-says-red-warrants-issued-for-hammad-and-lakho)*
+- پاکستان بھر میں یومِ عاشورہ کے موقع پر مذہبی جلوسوں کے لیے سخت حفاظتی انتظامات کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2011005/mourners-observe-ashura-across-the-country-amid-elaborate-security-arrangements)*
+- خیبر پختونخوا کے علاقے بنوں میں ایک ایمبولینس پر فائرنگ کے نتیجے میں چار افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011011/four-bodies-bearing-bullet-wounds-found-inside-ambulance-in-kps-bannu)*
+- آزاد کشمیر کے علاقے بھمبر میں فائرنگ کے واقعے میں ایک پولیس اہلکار ہلاک اور ایک زخمی ہو گیا۔ *[ARY](https://arynews.tv/cop-killed-another-injured-in-firing-incident-in-ajk-bhimber)*
+- لاہور ہائی کورٹ نے پرائیویٹ ہاؤسنگ سوسائٹی کے رہائشیوں کو ویلفیئر ایسوسی ایشن بنانے پر ہراساں نہ کرنے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010948/court-orders-protection-of-private-housing-societys-residents)*
+- پیپلز پارٹی (PPP) کا کہنا ہے کہ سندھ میں مقامی حکومت کے انتخابات 2027 میں ہوں گے۔ *[Dawn](https://www.dawn.com/news/2010924/local-govt-polls-to-be-held-in-sindh-next-year-ppp)*
+- وزیراعظم شہباز شریف نے مقبوضہ کشمیر اور فلسطین میں تشدد کے شکار لوگوں کے ساتھ یکجہتی کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427402/pakistan-reaffirms-unwavering-solidarity-with-victims-of-torture-in-iiojk-pm-shehbaz)*
+- انسانی نیزہ (placenta) کی غیر قانونی اسمگلنگ کیس میں ایف آئی اے نے مشتبہ افراد کا 4 روزہ ریمانڈ حاصل کر لیا ہے۔ *[ARY](https://arynews.tv/illegal-human-placenta-smuggling-case-court-grants-fia-4-day-remand-of-suspects)*
 
 ### بین الاقوامی
-- امریکی سینیٹ نے ایران کے خلاف جنگی اختیارات کی قرارداد کو مسترد کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2010880/us-senate-reverses-course-on-presidents-war-powers)*
-- امریکی سپریم کورٹ نے پناہ گزینوں کے حوالے سے ٹرمپ انتظامیہ کی پالیسی کی حمایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2010837/us-supreme-court-sides-with-trump-in-asylum-processing-case)*
-- سویڈش وزیر نے یورپی یونین کے اجلاس میں اپنے بچے کو ساتھ لے کر ایک نئی روایت قائم کی۔ *[Dawn](https://www.dawn.com/news/2010887/swedish-minister-breaks-ground-by-bringing-baby-to-eu-talks)*
-- امریکی وزیر خارجہ مارکو روبیو نے مشرق وسطیٰ کے ممالک کو ایران کے ساتھ کسی بھی معاہدے میں ان کے مفادات کے تحفظ کا یقین دلایا۔ *[Dawn](https://www.dawn.com/news/2010780/any-us-iran-deal-will-ensure-security-of-gulf-allies-rubio-assures-gcc-nations-during-mideast-tour)*
-- فرانسیسی صدر میکرون اور اطالوی وزیراعظم میلونی کے درمیان تعلقات مضبوط کرنے کے لیے ملاقات طے پائی۔ *[Dawn](https://www.dawn.com/news/2010799/need-each-other-frances-macron-to-host-italys-meloni-after-trump-rift)*
-- پاکستان نے وینزویلا میں زلزلے کے نتیجے میں ہونے والے جانی و مالی نقصان پر ہمدردی کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427345/pakistan-expresses-solidarity-with-venezuela)*
-- بحیرہ عمان میں بحری جہاز پر حملے کے بعد اقوام متحدہ نے ہرمز سروے کا منصوبہ روک دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427355/un-pauses-hormuz-evacuation-plan-after-ship-attack)*
-- فرانسیسی عدالت نے ٹوٹل انرجیز کو اپنے صارفین کے کاربن اخراج کا حساب دینے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427348/court-orders-totalenergies-to-account-for-clients-emissions)*
-- امریکی سپریم کورٹ نے Roundup کینسر کے مقدمات کے حوالے سے اہم فیصلہ سنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427349/us-supreme-court-scales-back-roundup-cancer-lawsuits)*
+- امریکہ کی طرف سے ضبط کیے گئے ایرانی ٹینکر کے 22 عملے کے ارکان پاکستان پہنچ گئے۔ *[Dawn](https://www.dawn.com/news/2011061/another-group-of-iranian-sailors-from-vessel-seized-by-us-arrives-in-pakistan)*
+- وینزویلا میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد بڑھ کر 589 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2010996/foreign-rescue-teams-start-arriving-in-quake-hit-venezuela-as-death-toll-climbs-to-589)*
+- بیجنگ کی بلند ترین عمارت 'CITIC Tower' سے ایک چھوٹا طیارہ ٹکرا گیا۔ *[Dawn](https://www.dawn.com/news/2011060/small-aircraft-crashes-into-beijings-tallest-building-eyewitnesses-say)*
+- ایران نے امریکہ اور خلیجی ممالک کے مشترکہ بیان کو مداخلت پسندانہ قرار دیتے ہوئے مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2011035/tehran-rejects-us-gcc-statement-citing-iran-threats-as-interventionist-provocative)*
+- اسرائیل نے جنوبی لبنان کے علاقے منصوری کے رہائشیوں کو علاقہ چھوڑنے کا حکم دے دیا۔ *[Business Recorder](https://www.brecorder.com/news/40427396/israel-drops-leaflets-over-south-lebanon-town-ordering-residents-to-leave)*
+- بحیرہ عرب کے تنگ راستے (Strait of Hormuz) میں بحری جہاز پر حملے کے بعد آمد و رفت سست ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427393/traffic-through-strait-of-hormuz-slows-after-attack-on-ship)*
 
 ### کھیل
-- پیپے کی قیادت میں آئیوری کوسٹ ورلڈ کپ کے اگلے مرحلے میں پہنچ گئی ہے۔ *[ARY](https://arynews.tv/pepe-steers-ivory-coast-into-world-cup-last-32-as-curacao-go-home)*
-- دی سلوا کی شاندار سنچری نے سری لنکا کو پہلا ٹیسٹ جیتنے میں مدد دی۔ *[ARY](https://arynews.tv/de-silva-century-rescues-sri-lanka-in-first-test)*
-- ایک سنسنی خیز میچ میں ایکواڈور نے جرمنی کو شکست دے کر ورلڈ کپ کے اگلے مرحلے میں جگہ بنا لی۔ *[ARY](https://arynews.tv/ecuador-stun-germany-to-reach-world-cup-last-32)*
-- می ویڈر اور زامبیدیس کے درمیان ہونے والا باکسنگ مقابلہ منسوخ ہو گیا۔ *[ARY](https://arynews.tv/mayweathers-athens-fight-with-zambidis-is-off-report)*
-- ایلونسی نے کہا کہ وہ ایسٹن مارٹن کے ساتھ وابستہ ہیں لیکن دیگر آپشنز بھی کھلا رکھے ہوئے ہیں۔ *[ARY](https://arynews.tv/alonso-committed-to-aston-martin-but-keeping-options-open)*
-- کرکٹ: لیتھم اور کونوے نے رنز بنائے جبکہ اسٹوکس نے اہم بریک تھرو حاصل کیا۔ *[ARY](https://arynews.tv/latham-conway-pile-on-the-runs-before-stokes-breakthrough)*
-
-### صحت
-- آڈٹ رپورٹ میں محکمہ صحت کے مختلف شعبوں میں 3.41 ارب روپے کی بے ضابطگیوں کا انکشاف ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2010834/audit-report-identifies-rs341bn-worth-of-irregularities-in-health-sector)*
-- پنجاب حکومت نے ایک مخصوص دوا کے استعمال کے حوالے سے عوام کے لیے الرٹ جاری کر دیا ہے۔ *[ARY](https://arynews.tv/do-not-use-this-medicine-punjab-issues-alert)*
-- پنجاب میں غیر ملکی ڈاکٹروں کے ذریعے علاج کے لیے 'ڈائسپورا ڈاکٹر لوکم پروگرام' کی منظوری دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427319/cm-approves-ddlp-foreign-specialists-to-treat-patients-in-punjab-hospitals)*
-- خیبرپختونخوا میں عوامی صحت کے ہنگامی حالات سے نمٹنے کے حوالے سے ایک اہم تحقیق مکمل کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427327/public-health-emergencies-scholar-defends-his-doctoral-thesis)*
+- آسٹریلیا نے پیرگو کے ساتھ برابر کا مقابلہ کرنے کے بعد فٹ بال ورلڈ کپ کے اگلے مرحلے میں جگہ بنا لی ہے۔ *[Dawn](https://www.dawn.com/news/2010997/australia-reach-fifa-world-cup-knockout-phase-after-goalless-draw-with-paraguay)*
+- جرمنی ورلڈ کپ کے گروپ مرحلے سے باہر ہو گئی ہے، جو کہ ٹیم کے لیے ایک وارننگ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427405/germany-loss-is-timely-warning-ahead-of-world-cup-knockout-stage)*
+- ایکشن سے بھرپور کھیل کے بعد ایکواڈور ورلڈ کپ کے ناک آؤٹ مرحلے میں پہنچنے میں کامیاب ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427386/ecuador-beccacece-wake-from-world-cup-nightmare)*
+- ومبلڈن ٹینس کے حوالے سے جنک السنر اور سرینا ولیمز کی واپسی کے حوالے سے خبریں گردش کر رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427390/shaken-sinner-seeks-wimbledon-reset-as-djokovic-zverev-sniff-opportunity)*
 
 ### دیگر
-- شہزادہ جارج ایٹن اسکول جانے کے لیے تیار ہیں۔ *[ARY](https://arynews.tv/prince-george-heads-to-eton-after-years-of-research-by-william-kate)*
-- یومِ عاشورہ کی تاریخی اہمیت اور اس کے پیغام پر روشنی ڈالی گئی۔ *[Dawn](https://www.dawn.com/news/2010908/lamp-of-guidance)*
+- مشہور ہالی ووڈ اداکارہ این بلتھ 98 سال کی عمر میں انتقال کر گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40427389/ann-blyth-film-star-of-1940s-50s-famed-for-mildred-pierce-dies-at-98)*
+- فرانس میں گرمی کی لہر کے دوران لوئی ویٹن (Louis Vuitton) کے شو پر تنقید کی جا رہی ہے۔ *[ARY](https://arynews.tv/louis-vitton-show-draws-scrutiny-amid-france-heatwave)*
 
