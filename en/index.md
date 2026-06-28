@@ -4,58 +4,61 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 28-Jun-2026 09:04PKT
+Published at: 28-Jun-2026 21:04PKT
 
 Time to read: 5 mins
 
 ### Economy
-- **Gwadar** remains a key geoeconomic focus for Pakistan, though the port and its economic zone await further investment. *[Dawn](https://www.dawn.com/news/2011286/dreaming-of-connectivity)*
-- The government has kept **petrol and diesel prices** unchanged. *[Dawn](https://www.dawn.com/news/2011121/minister-says-govt-not-giving-preference-to-any-sector-after-petrol-diesel-prices-kept-unchanged)*
-- Jamaat-i-Islami criticized the decision to maintain high fuel prices despite declining global rates, accusing the government of favoring **oil marketing companies**. *[Business Recorder](https://www.brecorder.com/news/40427513/hafiz-naeem-accuses-govt-of-serving-oil-firms)*
-- **Bolivia** has officially ended its 15-year dollar peg. *[ARY](https://arynews.tv/bolivia-ends-15-year-dollar-peg)*
-- The **FPCCI** is set to assume the chairmanship of the **SCO Business Council** for the year 2027. *[Business Recorder](https://www.brecorder.com/news/40427516/pakistan-to-assume-chairmanship-of-sco-business-council)*
-- Concerns have been raised regarding the sealing of the historic **Cotton Exchange Building**, which threatens the cotton trade. *[Business Recorder](https://www.brecorder.com/news/40427517/rehan-expresses-concern-over-sealing-of-cotton-exchange-building)*
-- Essential kitchen items, including rice and eggs, are seeing **upward price trends** in Islamabad. *[Business Recorder](https://www.brecorder.com/news/40427454/islamabad-prices-of-essential-kitchen-items-show-upward-trend)*
-- **SMEDA** and various chambers are celebrating **World MSME Day** with initiatives to uplift small and medium enterprises. *[Business Recorder](https://www.brecorder.com/news/40427455/kp-smeda-celebrates-world-msme-day)* | *[Business Recorder](https://www.brecorder.com/news/40427457/smeda-lcci-discuss-msmes-uplift-measures)*
-- The **Pakistan Business Forum** is advocating for the revival of the **Iran-Pakistan gas pipeline** to boost regional prosperity. *[Business Recorder](https://www.brecorder.com/news/40427458/pbf-pushes-for-revival-of-iran-pakistan-gas-pipeline)*
-- The **FBR** has issued a new regulatory framework for cargo transportation to and from **Iran**. *[Business Recorder](https://www.brecorder.com/news/40427464/fbr-issues-framework-of-cargo-transportation-to-and-from-iran)*
-- Jamaat-i-Islami has presented a **Rs300 billion shadow budget** for the Karachi Metropolitan Corporation. *[Business Recorder](https://www.brecorder.com/news/40427465/ji-presents-rs300bn-shadow-budget-for-kmc)*
-- Agriculture officials in Punjab are making efforts to reach assigned **cotton production targets**. *[Business Recorder](https://www.brecorder.com/news/40427468/efforts-being-made-to-achieve-cotton-production-target-sahoo)*
+- Pakistan is considering the purchase of cheaper Iranian oil and gas to potentially save between $170 million and $340 million in import costs. *[Dawn](https://www.dawn.com/news/2011414/pakistan-mulling-purchase-of-cheaper-oil-gas-from-iran-petroleum-minister)*
+- The Karachi Port Trust (KPT) has achieved its highest annual cargo handling volume in its 138-year history, aided by global shipping diversions. *[Dawn](https://www.dawn.com/news/2011398/karachi-port-trust-sets-cargo-handling-record-in-138-year-history-maritime-minister)*
+- Sindh Chief Minister Syed Murad Ali Shah defended the province's Rs3.652 trillion budget, highlighting a Rs720bn development plan. *[Business Recorder](https://www.brecorder.com/news/40427545/sindh-assembly-concludes-budget-debate-as-cm-outlines-rs720bn-development-plan)*
 
 ### Science & Technology
-- **Australia** is doubling financial penalties for social media platforms that fail to comply with its ban on social media use for under-16s. *[Dawn](https://www.dawn.com/news/2011172/australia-to-double-fine-on-platforms-for-flouting-teen-social-media-ban)* | *[ARY](https://arynews.tv/australia-toughens-kids-social-media-ban)*
+- Google has reportedly placed limits on Meta's access to its Gemini AI models due to insufficient computing capacity. *[Dawn](https://www.dawn.com/news/2011390/google-limits-metas-use-of-its-gemini-ai-models-report)*
+- Austria has proposed that the European Union host Anthropic to prevent US-led restrictions from cutting off Europe from advanced AI innovation. *[Business Recorder](https://www.brecorder.com/news/40427550/austria-urges-europe-to-host-anthropic-following-us-curbs-on-ai-access)*
+- Australian AI infrastructure company Firmus Technologies has signed a strategic partnership with Nvidia to provide cost-effective computing power to AI firms. *[Business Recorder](https://www.brecorder.com/news/40427543/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia)*
+- New updates to WhatsApp are expected to change how users interact with Meta AI via new side-chat features. *[ARY](https://arynews.tv/whatsapp-introduces-new-side-chat-with-meta-ai)*
 
 ### Weather
-- Cloudburst-induced **floods** have caused extensive damage in Diamer’s Thore Valley. *[Dawn](https://www.dawn.com/news/2011243/cloudburst-induced-floods-wreak-havoc-in-diamers-thore-valley)*
-- A **5.9-magnitude earthquake** in Afghanistan caused tremors across much of Pakistan. *[Dawn](https://www.dawn.com/news/2011273/tremors-felt-across-most-parts-of-pakistan)*
-- The **PMD** has issued a **GLOF alert** for Gilgit-Baltistan and KP due to soaring temperatures accelerating glacial melt. *[Dawn](https://www.dawn.com/news/2011118/pmd-issues-glof-alert-for-gb-kp-amid-soaring-temperatures)*
-- In **Italy**, heatwaves are causing seawater to threaten farmland near the Po River. *[ARY](https://arynews.tv/po-river-impact-of-heatwave-on-water-flow)*
-- Massive **earthquakes** in **Venezuela** have resulted in nearly 1,500 deaths. *[Dawn](https://www.dawn.com/news/2011171/venezuela-quakes-kill-almost-1500-with-millions-more-in-need)*
+- Cloudburst-induced floods in the Thore Valley of Diamer have caused extensive damage to homes and farmland, displacing dozens of families. *[Dawn](https://www.dawn.com/news/2011243/cloudburst-induced-floods-wreak-havoc-in-diamers-thore-valley)*
+- A 4.1 magnitude earthquake struck the Algarve region of southern Portugal, though no immediate damage was reported. *[Business Recorder](https://www.brecorder.com/news/40427547-earthquake-of-magnitude-41-strikes-southern-portugal)*
+- A record-breaking heatwave is gripping Europe, with France reporting approximately 1,000 excess deaths. *[Business Recorder](https://www.brecorder.com/news/40427539-record-heatwave-grips-europe-as-france-warns-death-toll-set-to-rise)*
+- Three firefighters were killed and two injured while responding to the Snyder wildfire on the Utah-Colorado border. *[Business Recorder](https://www.brecorder.com/news/40427538-three-firefighters-killed-2-injured-in-snyder-wildfire-on-utah-colorado-border)*
+- Devastating twin earthquakes in Venezuela have resulted in over 1,400 deaths, with thousands still missing. *[Business Recorder](https://www.brecorder.com/news/40427533-thirty-three-people-rescued-thousands-still-missing-after-venezuela-quakes)*
 
 ### Politics
-- An **AGP audit report** has identified significant financial irregularities within the Ministry of Interior and Narcotics Control. *[Dawn](https://www.dawn.com/news/2011270/interior-ministry-tops-agp-audit-irregularities)*
-- The **Supreme Court** has cautioned lower courts to interpret property disputes in the context of modern, rapidly escalating real estate prices. *[Dawn](https://www.dawn.com/news/2011267/supreme-court-cautions-courts-on-property-disputes-amid-soaring-prices)*
-- **Aleema Khan** has challenged the alleged solitary confinement of **Imran Khan** before the Islamabad High Court. *[Dawn](https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc)*
-- **PTI** has expressed strong opposition to the proposed **Punjab Anti-Social Behaviour Bill**, alleging it threatens civil liberties. *[Business Recorder](https://www.brecorder.com/news/40427462/anti-social-behaviour-bill-punjab-govts-proposed-law-seeks-to-weaken-civil-liberties-pti)*
-- The **UK Foreign Secretary** expressed appreciation for Pakistan's role in mediating peace efforts in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40427459/cooper-appreciates-paks-efforts-for-peace)*
+- President Donald Trump unveiled a limited-edition US passport featuring his image to commemorate the country's 250th anniversary. *[Dawn](https://www.dawn.com/news/2011242/trump-unveils-new-us-passport-with-his-image)*
+- Pakistan and the EU have called for the upholding of the Middle East ceasefire and the maintenance of diplomatic dialogue. *[Business Recorder](https://www.brecorder.com/news/40427531-pakistan-eu-call-for-upholding-middle-east-ceasefire-maintaining-dialogue)*
 
 ### National
-- A terrorist attack on a **Sindh Rangers** headquarters in Karachi left three personnel martyred and three terrorists dead. *[Dawn](https://www.dawn.com/news/2011178/3-sindh-rangers-personnel-martyred-during-attack-on-local-headquarters-in-karachis-gulistan-i-jauhar-sindh-ig)* | *[Business Recorder](https://www.brecorder.com/news/40427520/three-rangers-personnel-martyred-four-injured-as-karachi-camp-attack-foiled-says-ispr)*
-- Intelligence operations in **Balochistan** resulted in the killing of eight terrorists. *[Dawn](https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr)*
-- Karachi Mayor **Murtaza Wahab** announced a new barcode system to track water tankers and combat the illegal tanker mafia. *[Business Recorder](https://www.brecorder.com/news/40427514/murtaza-announces-barcode-system-for-water-tankers)*
-- The body of a **Pakistani fisherman** who died in an Indian jail was returned and laid to rest in Karachi. *[Business Recorder](https://www.brecorder.com/news/40427515/pak-fisherman-die-in-indian-jail-laid-to-rest-in-keamari)*
-- **Rescue 1122** deployed over 1,200 personnel and numerous medical camps across Sindh during **Muharram**. *[Business Recorder](https://www.brecorder.com/news/40427518/rescue-1122-deploys-over-1200-emergency-personnel-during-muharram)*
-- The **FIA** has secured physical remand for suspects involved in a **human placenta smuggling** case. *[Business Recorder](https://www.brecorder.com/news/40427456/smuggling-of-human-placentas-case-court-grants-fia-remand-of-suspects)*
-- The **Punjab Chief Minister** has pledged justice for the family of a young girl, Muntaha, following a violent incident in Sargodha. *[Business Recorder](https://www.brecorder.com/news/40427467/cm-punjab-stands-with-family-of-young-muntaha-pledges-justice)*
+- The PPP has asserted that provincial autonomy must be protected from interference regarding the proposed 28th constitutional amendment. *[Dawn](https://www.dawn.com/news/2011411/provincial-autonomy-must-remain-free-from-interference-nothing-in-black-and-white-on-28th-amendment-yet-ppp)*
+- Three security personnel were martyred during a foiled terrorist attack on a Pakistan Rangers facility in Karachi. *[Dawn](https://www.dawn.com/news/2011178/3-personnel-martyred-as-attack-on-rangers-facility-in-karachi-foiled-ispr)*
+- Pemra has suspended Geo News' transmission for 15 days for airing content deemed liable to hurt religious sentiments. *[Dawn](https://www.dawn.com/news/2011377/pemra-suspends-geo-news-transmission-for-15-days)*
+- A child was killed and a woman injured in a suspected quadcopter drone attack in the Bajaur district of KP. *[Dawn](https://www.dawn.com/news/2011415/child-killed-woman-injured-in-suspected-quadcopter-attack-in-kps-bajaur-police-sources)*
+- An angry mob vandalized a shop in Sargodha following a high-profile murder case. *[Dawn](https://www.dawn.com/news/2011300/mob-vandalises-suspects-shop-in-murder-case)*
+- The Auditor General of Pakistan identified significant financial irregularities in the Ministry of Interior and Narcotics Control. *[Dawn](https://www.dawn.com/news/2011270/interior-ministry-tops-agp-audit-irregularities)*
+- A government school from Sindh has been named among the top 10 finalists globally for the World’s Best School Prizes 2026. *[Dawn](https://www.dawn.com/news/2011207/govt-school-in-hyderabad-among-top-10-finalists-for-worlds-best-school-prizes)*
+- A 14-year-old seminary student died in Lahore following physical abuse at a madrassa. *[Dawn](https://www.dawn.com/news/2011295/seminary-student-dies-of-torture-in-lahore)*
+- Police investigation continues into the Ketan Agarwal murder case, with recent efforts to recreate the crime scene. *[ARY](https://arynews.tv/ketan-agarwal-murder-case-siya-goyal-taken-to-lohagad-fort-to-recreate-crime-scene-with-a-dummy)*
 
 ### International
-- Israeli air strikes hit **southern Lebanon** despite a recently signed peace deal. *[Dawn](https://www.dawn.com/news/2011244/lebanon-hit-by-israel-again-despite-signing-peace-deal)*
-- Military strikes exchanged between the **US and Iran** have placed a fragile Middle East ceasefire in jeopardy. *[Dawn](https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire)* | *[ARY](https://arynews.tv/us-iran-continue-attacks-recriminations-over-peace-deal)*
-- Direct flights between the **UAE and Iran** are scheduled to resume on July 1. *[Dawn](https://www.dawn.com/news/2011240/uae-iran-to-resume-flights-from-july-1-official-says)*
-- The **UK** is set to expand its **refugee sponsorship schemes** to include community organizations and employers. *[Dawn](https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes)*
-- **Donald Trump** has unveiled a limited-edition US passport featuring his likeness. *[Dawn](https://www.dawn.com/news/2011242/trump-unveils-new-us-passport-with-his-image)*
-- **PM Shehbaz Sharif** accused India of utilizing covert tactics and proxies to undermine stability in Pakistan. *[Dawn](https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz)*
+- Tensions between the US and Iran are escalating following tit-for-tat strikes and accusations of ceasefire violations in the Gulf. *[Dawn](https://www.dawn.com/news/2011386/after-tit-for-tat-strikes-by-us-and-iran-araghchi-says-any-challenge-to-hormuz-routes-will-increase-tensions)*
+- A helicopter crash belonging to Saudi Aramco in Ras Tanura killed 14 Saudi citizens; an investigation is underway. *[Dawn](https://www.dawn.com/news/2011406/aramco-helicopter-crash-kills-14-in-saudi-arabia)*
+- Fugitive former Bangladesh Prime Minister Sheikh Hasina has vowed to return to Dhaka later this year. *[Dawn](https://www.dawn.com/news/2011401/bangladeshs-fugitive-ex-pm-sheikh-hasina-says-will-return-to-dhaka-this-year)*
+- A civilian aircraft carrying skydivers crashed in northeastern France, killing all 11 people on board. *[Dawn](https://www.dawn.com/news/2011407/civilian-plane-crash-kills-11-in-france-local-authorities)*
 
 ### Sports
-- Recent **World Cup** updates include: Portugal drawing with Colombia, Croatia securing a spot in the last 32, England winning their group, and reports of Uruguay's charter flight being canceled following their exit. *[ARY](https://arynews.tv/portugal-draw-with-world-cup-group-k-winners-colombia)* | *[ARY](https://arynews.tv/croatia-battle-past-ghana-to-sew-up-world-cup-last-32-spot)* | *[ARY](https://arynews.tv/england-win-world-cup-group-croatia-and-ghana-through)* | *[ARY](https://arynews.tv/uruguay-body-reportedly-cancels-charter-flight-following-world-cup-exit)*
+- England Test captain Ben Stokes has announced his retirement from international cricket. *[Dawn](https://www.dawn.com/news/2011416/england-test-captain-ben-stokes-to-retire-from-international-cricket)*
+- Lionel Messi scored his sixth goal of the tournament as Argentina defeated Jordan 3-1 in the FIFA World Cup. *[Dawn](https://www.dawn.com/news/2011368/messi-scores-again-as-argentina-beat-jordan-head-into-fifa-world-cup-last-32-on-a-high)*
+- The FIFA World Cup group stage concluded with DR Congo advancing to the knockout rounds while Iran was eliminated. *[Dawn](https://www.dawn.com/news/2011372/dr-congo-advance-but-iran-out-as-wild-world-cup-group-stage-wraps)*
+- Ticket prices for the World Cup match between Portugal and Croatia in Toronto have skyrocketed to an average of over $3,000. *[Business Recorder](https://www.brecorder.com/news/40427548-ticket-prices-skyrocket-for-portugal-game-against-croatia-in-toronto)*
+- Wimbledon begins with defending champion Jannik Sinner facing a title defense. *[Business Recorder](https://www.brecorder.com/news/40427537-sinner-begins-wimbledon-defence-sabalenka-seeks-first-title)*
+- Rumors have surfaced regarding a secret wedding between cricketer Hardik Pandya and Mahieka Sharma. *[ARY](https://arynews.tv/hardik-pandya-mahieka-sharma-spark-secret-wedding-rumors)*
+
+### Other
+- Leaks suggest that "cult favorite" players like Pato and Balotelli may appear in the EA FC 27 Hall of Fame. *[ARY](https://arynews.tv/ea-fc-27-hall-of-fame-rarity-leak-cult-favorites-pato-balotelli-sturridge-more-rumored)*
+- Rockstar Games has indicated that GTA 6 will utilize a digital-first launch strategy. *[ARY](https://arynews.tv/gta-6-will-be-all-digital-for-launch-and-beyond-rockstar-insists-on-code-in-box-version)*
+- The adaptation of "Every Year After" has been released on Prime Video. *[ARY](https://arynews.tv/every-year-after-released-on-prime-video-fans-excited-for-long-awaited-adaptation)*
+- Rome is hosting a four-day event to celebrate the 80th anniversary of the iconic Vespa scooter. *[Business Recorder](https://www.brecorder.com/news/40427546-vespa-riders-take-to-roads-in-rome-to-mark-80th-birthday)*
+- Mandopop star Jolin Tsai won Album of the Year at Taiwan's Golden Melody Awards. *[Business Recorder](https://www.brecorder.com/news/40427544-mandopop-megastar-jolin-tsai-wins-best-album-at-taiwans-annual-music-awards)*
 
