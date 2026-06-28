@@ -7,59 +7,57 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 28-Jun-2026 09:10PKT 
+ &lrm; 28-Jun-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- حکومت نے پیٹرول اور ہائی سپیڈ ڈیزل کی قیمتوں میں کوئی تبدیلی نہ کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011121/minister-says-govt-not-giving-preference-to-any-sector-after-petrol-diesel-prices-kept-unchanged)*
-- پاکستان 2027 میں ایس سی او (SCO) بزنس کونسل کی سربراہی سنبھالے گا۔ *[Business Recorder](https://www.brecorder.com/news/40427516/pakistan-to-assume-chairmanship-of-sco-business-council)*
-- بولیویا نے اپنے ملک میں 15 سالہ ڈالر پیگ کا خاتمہ کر دیا ہے۔ *[ARY](https://arynews.tv/bolivia-ends-15-year-dollar-peg)*
-- وفاقی بورڈ آف ریونیو نے ایران کے ساتھ کارگو کی ترسیل کے لیے نیا ریگولیٹری فریم ورک جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427464/fbr-issues-framework-of-cargo-transportation-to-and-from-iran)*
-- اسلام آباد میں اشیائے خوردونوش کی قیمتوں میں اضافے کا رجحان دیکھا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427454/islamabad-prices-of-essential-kitchen-items-show-upward-trend)*
-- کراچی کے میئر نے شہر میں پانی کے ٹینکرز کے لیے بارکوڈ پر مبنی ٹریکنگ سسٹم متعارف کرانے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427514/murtaza-announces-barcode-system-for-water-tankers)*
-- پاکستان بزنس فورم نے ایران-پاکستان گیس پائپ لائن کے احیاء کے لیے زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427458/pbf-pushes-for-revival-of-iran-pakistan-gas-pipeline)*
-- پنجاب میں کپاس کی پیداوار کے اہداف حاصل کرنے کے لیے مختلف اقدامات کیے جا رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427468/efforts-being-made-to-achieve-cotton-production-target-sahoo)*
-- کراچی کی کمرس کی تنظیموں نے تاریخی کاٹن ایکسچینج بلڈنگ کے قبضے پر تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427457/rehan-expresses-concern-over-sealing-of-cotton-exchange-building)*
+- پاکستان ایران سے سستا تیل اور گیس خریدنے پر غور کر رہا ہے تاکہ درآمدی اخراجات میں بچت ہو سکے۔ *[Dawn](https://www.dawn.com/news/2011414/pakistan-mulling-purchase-of-cheaper-oil-gas-from-iran-petroleum-minister)*
+- کراچی پورٹ ٹرسٹ نے اپنی 138 سالہ تاریخ میں سالانہ کارگو ہینڈلنگ کا ریکارڈ قائم کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011398/karachi-port-trust-sets-cargo-handling-record-in-138-year-history-maritime-minister)*
+- سندھ اسمبلی میں بجٹ بحث کا اختتام ہوا، جہاں وزیراعلیٰ نے 720 ارب روپے کے ترقیاتی منصوبوں کا خاکہ پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427545/sindh-assembly-concludes-budget-debate-as-cm-outlines-rs720bn-development-plan)*
 
 ### سائنس اور ٹیکنالوجی
-- آسٹریلیا نے سوشل میڈیا پر کم عمر بچوں کی پابندی کی خلاف ورزی کرنے والے پلیٹ فارمز پر جرمانے کو دوگنا کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011172/australia-to-double-fine-on-platforms-for-flouting-teen-social-media-ban)*
+- گوگل نے میٹا کی جانب سے اپنے جیمنائی (Gemini) اے آئی ماڈلز کے استعمال پر پابندیاں لگا دی ہیں۔ *[Dawn](https://www.dawn.com/news/2011390/google-limits-metas-use-of-its-gemini-ai-models-report)*
+- آسٹریا نے یورپی یونین کو مشورہ دیا ہے کہ وہ امریکی پابندیوں کے جواب میں 'اینتھروپک' (Anthropic) کو یورپ میں میزبان بنائے۔ *[Business Recorder](https://www.brecorder.com/news/40427550/austria-urges-europe-to-host-anthropic-following-us-curbs-on-ai-access)*
+- آسٹریلیا کی فرمس ٹیکنالوجیز نے این ویڈیا (Nvidia) کے ساتھ اے آئی انفراسٹرکچر کے لیے ایک تزویراتی شراکت داری کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427543/australias-firmus-technologies-strikes-ai-access-deal-with-nvidia)*
+- واٹس ایپ کے ممکنہ نئے اپ ڈیٹ سے میٹا اے آئی کے استعمال کا طریقہ کار تبدیل ہو سکتا ہے۔ *[ARY](https://arynews.tv/whatsapp-introduces-new-side-chat-with-meta-ai)*
 
 ### موسم
-- گلگت بلتستان کی تھورے ویلی میں بادل پھٹنے سے آنے والے سیلاب سے شدید تباہی ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2011243/cloudburst-induced-floods-wreak-havoc-in-diamers-thore-valley)*
-- محکمہ موسمیات نے گلگت بلتستان اور خیبر پختونخوا میں گلیشیائی جھیلوں کے پھٹنے (GLOF) کا الرٹ جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011118/pmd-issues-glof-alert-for-gb-kp-amid-soaring-temperatures)*
-- افغانستان میں زلزلے کے باعث پاکستان کے متعدد علاقوں میں لرزہ محسوس کیا گیا۔ *[Dawn](https://www.dawn.com/news/2011273/tremors-felt-across-most-parts-of-pakistan)*
-- وینزویلا میں زلزلوں کے نتیجے میں 1,430 افراد ہلاک ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2011171/venezuela-quakes-kill-almost-1500-with-millions-more-in-need)*
+- یورپ میں شدید گرمی کی لہر جاری ہے، جس کے باعث فرانس میں ہزار سے زائد اضافی اموات رپورٹ ہوئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427539/record-heatwave-grips-europe-as-france-warns-death-toll-set-to-rise)*
+- یوٹیہ اور کولوراڈو کی سرحد پر جنگل کی آگ (wildfire) کے نتیجے میں تین فائر فائٹرز ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40427538/three-firefighters-killed-2-injured-in-snyder-wildfire-on-utah-colorado-border)*
+- وینزویلا میں زلزلوں کے باعث ہلاکتوں کی تعداد 1400 سے تجاوز کر گئی ہے جبکہ ہزاروں افراد اب بھی لاپتہ ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427533/thirty-three-people-rescued-thousands-still-missing-after-venezuela-quakes)*
+- پرتگال کے علاقے الگوار میں 4.1 شدت کا زلزلہ محسوس کیا گیا، تاہم کسی جانی یا مالی نقصان کی اطلاع نہیں ملی۔ *[Business Recorder](https://www.brecorder.com/news/40427547/earthquake-of-magnitude-41-strikes-southern-portugal)*
+- ڈیمر کے تھور ویلی میں بادل پھٹنے (cloudburst) سے آنے والے سیلاب نے بڑے پیمانے پر تباہی مچائی ہے۔ *[Dawn](https://www.dawn.com/news/2011243/cloudburst-induced-floods-wreak-havoc-in-diamers-thore-valley)*
 
 ### سیاست
-- وفاقی وزارتِ داخلہ کے آڈٹ میں سنگین مالی بے ضابطگیوں کا انکشاف ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2011270/interior-ministry-tops-agp-audit-irregularities)*
-- علیمہ خان نے عمران خان کی تنہائی میں قید کے خلاف عدالت میں چیلنج دائر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc)*
-- وزیر اعظم شہباز شریف نے بھارت پر پاکستان کے امن کو سبوتاژ کرنے کے لیے پراکسیز کے استعمال کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz)*
-- پی ٹی آئی نے پنجاب حکومت کے مجوزہ 'اینٹی سوشل بیہیویئر بل' کی سخت مخالفت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427462/anti-social-behaviour-bill-punjab-govts-proposed-law-seeks-to-weaken-civil-liberties-pti)*
-- برطانیہ نے علاقائی استحکام کے لیے پاکستان کی کوششوں کو سراہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427459/cooper-appreciates-paks-efforts-for-peace)*
-- جماعت اسلامی نے کراچی میونسپل کارپوریشن کے لیے 300 ارب روپے کا 'شیڈو بجٹ' پیش کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427465/ji-presents-rs300bn-shadow-budget-for-kmc)*
+- ایران کے وزیر خارجہ نے خبردار کیا ہے کہ ہرمز کے راستوں میں کسی بھی قسم کی مداخلت سے خطے میں کشیدگی میں اضافہ ہوگا۔ *[Dawn](https://www.dawn.com/news/2011386/after-tit-for-tat-strikes-by-us-and-iran-araghchi-says-any-challenge-to-hormuz-routes-will-increase-tensions)*
+- پاکستان پیپلز پارٹی نے 28 ویں آئینی ترمیم پر تحفظات کا اظہار کرتے ہوئے صوبائی خودمختاری کے تحفظ پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2011411/provincial-autonomy-must-remain-free-from-interference-nothing-in-black-and-white-on-28th-amendment-yet-ppp)*
+- ڈونلڈ ٹرمپ نے امریکہ کی 250 ویں سالگرہ کے موقع پر اپنی تصویر کے ساتھ ایک نیا خصوصی پاسپورٹ متعارف کرایا ہے۔ *[Dawn](https://www.dawn.com/news/2011242/trump-unveils-new-us-passport-with-his-image)*
+- بنگلہ دیش کی سابق وزیراعظم شیخ حسیہ نے اسی سال ڈھاکہ واپسی کا عزم ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011401/bangladeshs-fugitive-ex-pm-sheikh-hasina-says-will-return-to-dhaka-this-year)*
+- پاکستان اور یورپی یونین نے مشرق وسطیٰ میں جنگ بندی برقرار رکھنے اور مذاکرات کے ذریعے مسائل حل کرنے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40427531/pakistan-eu-call-for-upholding-middle-east-ceasefire-maintaining-dialogue)*
 
 ### قومی
-- کراچی کے گلیستانِ جوہر میں رینجرز کے ہیڈ کوارٹر پر حملے میں تین اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011178/3-sindh-rangers-personnel-martyred-during-attack-on-local-headquarters-in-karachis-gulistan-i-jauhar-sindh-ig)*
-- بلوچستان میں دہشت گردوں کے خلاف آپریشن کے دوران 8 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr)*
-- سپریم کورٹ نے جائیداد کے تنازعات کے فیصلے میں معاشی حقیقتوں کو مدنظر رکھنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2011267/supreme-court-cautions-courts-on-property-disputes-amid-soaring-prices)*
-- مظفرآباد میں تاجروں اور ٹرانسپورٹرز نے مارکیٹوں اور نقل و حمل کے معمولات بحال کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011175/traders-to-resume-business-activities-in-muzaffarabad-distance-themselves-from-jaac)*
-- بھارت کی جیل میں دم توڑنے والے پاکستانی ماہی گیر کی میت کراچی پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427515/pak-fisherman-die-in-indian-jail-laid-to-rest-in-keamari)*
-- انسانی اعضاء کی اسمگلنگ کے کیس میں ایف آئی اے کو پانچ ملزمان کا ریمانڈ مل گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427456/smuggling-of-human-placentas-case-court-grants-fia-remand-of-suspects)*
-- وزیراعلیٰ پنجاب نے بچی منتہا کے معاملے میں انصاف فراہم کرنے کا عہد کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427467/cm-punjab-stands-with-family-of-young-muntaha-pledges-justice)*
+- کراچی میں رینجرز کی تنصیب پر دہشت گردانہ حملہ ناکام ہو گیا، جس میں 3 اہلکار شہید ہوئے۔ *[Dawn](https://www.dawn.com/news/2011178/3-personnel-martyred-as-attack-on-rangers-facility-in-karachi-foiled-ispr)*
+- پیمرا نے مذہبی جذبات مجروح کرنے پر جی او نیوز کا لائسنس 15 دن کے لیے معطل کر دیا۔ *[Dawn](https://www.dawn.com/news/2011377/pemra-suspends-geo-news-transmission-for-15-days)*
+- باجوڑ میں کوڈکواٹر ڈرون حملے کے نتیجے میں ایک بچے کی موت اور ایک خاتون زخمی ہوگئی۔ *[Dawn](https://www.dawn.com/news/2011415/child-killed-woman-injured-in-suspected-quadcopter-attack-in-kps-bajaur-police-sources)*
+- سرگودھا میں ایک قتل کے کیس کے سلسلے میں مشتبہ شخص کی دکان پر غصہ مجمع نے حملہ کر کے توڑ پھوڑ کی۔ *[Dawn](https://www.dawn.com/news/2011300/mob-vandalises-suspects-shop-in-murder-case)*
+- آڈیٹر جنرل کی رپورٹ میں وزارت داخلہ میں بڑے مالیاتی بے ضابطگیوں اور طریقہ کار کی خلاف ورزیوں کا انکشاف کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011270/interior-ministry-tops-agp-audit-irregularities)*
+- لاہور میں ایک مدرسے کے طالب علم کی تشدد کے باعث موت واقع ہوگئی۔ *[Dawn](https://www.dawn.com/news/2011295/seminary-student-dies-of-torture-in-lahore)*
 
 ### بین الاقوامی
-- ڈونلڈ ٹرمپ نے اپنی تصویر پر مشتمل نیا امریکی پاسپورٹ پیش کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011242/trump-unveils-new-us-passport-with-his-image)*
-- امن معاہدے کے باوجود اسرائیل نے لبنان پر فضائی حملے جاری رکھے ہیں۔ *[Dawn](https://www.dawn.com/news/2011244/lebanon-hit-by-israel-again-despite-signing-peace-deal)*
-- متحدہ عرب امارات اور ایران کے درمیان پروازیں یکم جولائی سے دوبارہ شروع ہوں گی۔ *[Dawn](https://www.dawn.com/news/2011240/uae-iran-to-resume-flights-from-july-1-official-says)*
-- برطانیہ نے پناہ گزینوں کے لیے نئے قانونی راستے کھولنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes)*
-- امریکہ اور ایران کے درمیان فوجی حملوں نے خطے میں کشیدگی پیدا کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire)*
+- سعودی عرب میں آرامکو کا ہیلی کاپٹر گرنے سے 14 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011406/aramco-helicopter-crash-kills-14-in-saudi-arabia)*
+- فرانس میں ایک سولین طیارے کے گرنے سے 11 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011407/civilian-plane-crash-kills-11-in-france-local-authorities)*
+- ایران اور امریکہ کے درمیان کشیدگی میں اضافہ ہو رہا ہے اور دونوں ممالک ایک دوسرے پر حملوں کے ذمہ دار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427532/iran-us-continue-escalating-attacks-recriminations-over-peace-deal)*
 
 ### کھیل
-- فٹ بال ورلڈ کپ میں پرتگال اور کولمبیا کا مقابلہ برابر رہا۔ *[ARY](https://arynews.tv/portugal-draw-with-world-cup-group-k-winners-colombia)*
-- کرکٹ/فٹ بال ورلڈ کپ کے مختلف مقابلوں میں انگلینڈ اور کروشیا نے کامیابی حاصل کی۔ *[ARY](https://arynews.tv/england-win-world-cup-group-croatia-and-ghana-through)*
-- فٹ بال ورلڈ کپ سے ٹیموں کے باہر ہونے کے بعد یوگو سوا کے ادارے نے چارٹر فلائٹ منسوخ کر دی۔ *[ARY](https://arynews.tv/uruguay-body-reportedly-cancels-charter-flight-following-world-cup-exit)*
+- انگلینڈ کے ٹیسٹ کپتان بین اسٹوکس نے بین الاقوامی کرکٹ سے ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011416/england-test-captain-ben-stokes-to-retire-from-international-cricket)*
+- فٹ بال ورلڈ کپ میں لیونل میسی نے جوڈان کے خلاف میچ میں گول کر کے اپنی فارم برقرار رکھی۔ *[Dawn](https://www.dawn.com/news/2011368/messi-scores-again-as-argentina-beat-jordan-head-into-fifa-world-cup-last-32-on-a-high)*
+- ویمبلڈن کے ٹورنامنٹ کا آغاز ہو رہا ہے جہاں جانک سنر اپنے ٹائٹل کا دفاع کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40427537/sinner-begins-wimbledon-defence-sabalenka-seeks-first-title)*
+- ورلڈ کپ کے گروپ مرحلے کے اختتام پر جمہوریہ کانگو کو اگلے مرحلے کے لیے کوالیفائی کرنے میں کامیابی ملی۔ *[Dawn](https://www.dawn.com/news/2011372/dr-congo-advance-but-iran-out-as-wild-world-cup-group-stage-wraps)*
+- ورلڈ کپ کے دوران پرتگال اور کروشیا کے میچ کے ٹکٹوں کی قیمتیں آسمان سے باتیں کر رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427548/ticket-prices-skyrocket-for-portugal-game-against-croatia-in-toronto)*
 
 ### دیگر
-- محرم الحرام کے دوران ریسکیو 1122 نے سندھ بھر میں 1,200 سے زائد طبی عملہ تعینات کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427518/rescue-1122-deploys-over-1200-emergency-personnel-during-muharram)*
+- سندھ کے ایک سرکاری اسکول نے عالمی سطح پر بہترین اسکولوں کے ٹاپ 10 فائنلسٹ میں جگہ بنائی ہے۔ *[Dawn](https://www.dawn.com/news/2011207/govt-school-in-hyderabad-among-top-10-finalists-for-worlds-best-school-prizes)*
+- ٹائیوان کے میوزک ایوارڈز میں جولن تسائی نے بہترین ایلبم کا اعزاز حاصل کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427544/mandopop-megastar-jolin-tsai-wins-best-album-at-taiwans-annual-music-awards)*
+- گیمنگ کی دنیا میں 'GTA 6' کی لانچنگ کے حوالے سے خبر ہے کہ یہ مکمل طور پر ڈیجیٹل ہوگی۔ *[ARY](https://arynews.tv/gta-6-will-be-all-digital-for-launch-and-beyond-rockstar-insists-on-code-in-box-version)*
 
