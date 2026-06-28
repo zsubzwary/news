@@ -7,58 +7,59 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 27-Jun-2026 21:11PKT 
+ &lrm; 28-Jun-2026 09:10PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
-### معاشیات
-- پاکستان میں چاندی کی قیمتوں میں تبدیلی۔ *[ARY](https://arynews.tv/silver-rate-today-in-pakistan-june-27-2026)*
-- سونے کی قیمتوں میں کمی۔ *[Business Recorder](https://www.brecorder.com/news/40427433/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- حکومت کی جانب سے پٹرول اور ڈیزل کی قیمتوں کو برقرار رکھنے کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2011121/minister-says-govt-not-giving-preference-to-any-sector-after-petrol-diesel-prices-kept-unchanged)*
-- پاکستان کے عوامی قرضوں کی شرح میں کمی۔ *[Business Recorder](https://www.brecorder.com/news/40427429/pakistans-public-debt-growth-eases-to-5-in-fy26-says-finance-advisor)*
-- عالمی بینک کی جانب سے بنگلہ دیش کے لیے 1.1 ارب ڈالر کے ایمرجنسی فنانسنگ کی منظوری۔ *[Business Recorder](https://www.brecorder.com/news/40427430/world-bank-approves-11-billion-emergency-financing-for-bangladesh)*
-- پاکستان 2027 میں ایس سی او (SCO) بزنس کونسل کی سربراہی سنبھالے گا۔ *[Business Recorder](https://www.brecorder.com/news/40427434/pakistan-to-assume-sco-business-councils-chair-in-2027)*
-- ایچ ڈی ایف سی (HDFC) بینک کا اپنے سابق چیئرمین کے دعووں کی تردید۔ *[Business Recorder](https://www.brecorder.com/news/40427424/indias-hdfc-bank-says-legal-review-finds-no-basis-for-ex-chairs-claims)*
+### معیشت
+- حکومت نے پیٹرول اور ہائی سپیڈ ڈیزل کی قیمتوں میں کوئی تبدیلی نہ کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011121/minister-says-govt-not-giving-preference-to-any-sector-after-petrol-diesel-prices-kept-unchanged)*
+- پاکستان 2027 میں ایس سی او (SCO) بزنس کونسل کی سربراہی سنبھالے گا۔ *[Business Recorder](https://www.brecorder.com/news/40427516/pakistan-to-assume-chairmanship-of-sco-business-council)*
+- بولیویا نے اپنے ملک میں 15 سالہ ڈالر پیگ کا خاتمہ کر دیا ہے۔ *[ARY](https://arynews.tv/bolivia-ends-15-year-dollar-peg)*
+- وفاقی بورڈ آف ریونیو نے ایران کے ساتھ کارگو کی ترسیل کے لیے نیا ریگولیٹری فریم ورک جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427464/fbr-issues-framework-of-cargo-transportation-to-and-from-iran)*
+- اسلام آباد میں اشیائے خوردونوش کی قیمتوں میں اضافے کا رجحان دیکھا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427454/islamabad-prices-of-essential-kitchen-items-show-upward-trend)*
+- کراچی کے میئر نے شہر میں پانی کے ٹینکرز کے لیے بارکوڈ پر مبنی ٹریکنگ سسٹم متعارف کرانے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427514/murtaza-announces-barcode-system-for-water-tankers)*
+- پاکستان بزنس فورم نے ایران-پاکستان گیس پائپ لائن کے احیاء کے لیے زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427458/pbf-pushes-for-revival-of-iran-pakistan-gas-pipeline)*
+- پنجاب میں کپاس کی پیداوار کے اہداف حاصل کرنے کے لیے مختلف اقدامات کیے جا رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40427468/efforts-being-made-to-achieve-cotton-production-target-sahoo)*
+- کراچی کی کمرس کی تنظیموں نے تاریخی کاٹن ایکسچینج بلڈنگ کے قبضے پر تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427457/rehan-expresses-concern-over-sealing-of-cotton-exchange-building)*
 
 ### سائنس اور ٹیکنالوجی
-- امریکی حکومت کی جانب سے اینتھروپک (Anthropic) کو 'میتھوس 5' اے آئی ماڈل کے استعمال کی اجازت۔ *[Dawn](https://www.dawn.com/news/2011100/us-allows-anthropic-to-release-mythos-ai-to-trusted-organisations)*
-- اسمارٹ فونز کے ذریعے زلزلے کے خطرات سے قبل آگاہی کا نظام۔ *[Dawn](https://www.dawn.com/news/2011159/how-some-venezuelans-smartphones-warned-of-quake)*
-- حکومت کی جانب سے ایک محفوظ اور خصوصی مواصلاتی نیٹ ورک کے قیام کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2010920/govt-eyes-secure-comms-to-prevent-critical-leaks)*
+- آسٹریلیا نے سوشل میڈیا پر کم عمر بچوں کی پابندی کی خلاف ورزی کرنے والے پلیٹ فارمز پر جرمانے کو دوگنا کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011172/australia-to-double-fine-on-platforms-for-flouting-teen-social-media-ban)*
 
 ### موسم
-- گلگت بلتستان اور خیبرپختونخوا میں گلیشیائی جھیلوں کے پھٹنے (GLOF) کا الرٹ۔ *[Dawn](https://www.dawn.com/news/2011118/pmd-issues-glof-alert-for-gb-kp-amid-soaring-temperatures)*
-- جرمنی اور اٹلی میں شدید گرمی کی لہر کا سامنا۔ *[Dawn](https://www.dawn.com/news/2011145/germany-hit-by-record-temperatures-as-european-heatwave-moves-east)*
+- گلگت بلتستان کی تھورے ویلی میں بادل پھٹنے سے آنے والے سیلاب سے شدید تباہی ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2011243/cloudburst-induced-floods-wreak-havoc-in-diamers-thore-valley)*
+- محکمہ موسمیات نے گلگت بلتستان اور خیبر پختونخوا میں گلیشیائی جھیلوں کے پھٹنے (GLOF) کا الرٹ جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011118/pmd-issues-glof-alert-for-gb-kp-amid-soaring-temperatures)*
+- افغانستان میں زلزلے کے باعث پاکستان کے متعدد علاقوں میں لرزہ محسوس کیا گیا۔ *[Dawn](https://www.dawn.com/news/2011273/tremors-felt-across-most-parts-of-pakistan)*
+- وینزویلا میں زلزلوں کے نتیجے میں 1,430 افراد ہلاک ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2011171/venezuela-quakes-kill-almost-1500-with-millions-more-in-need)*
 
 ### سیاست
-- عمران خان کی تنہائی میں قید کے خلاف عدالت میں قانونی چیلنج۔ *[Dawn](https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc)*
-- وزیراعظم شہباز شریف کا بھارت کی جانب سے پاکستان میں عدم استحکام پیدا کرنے کی کوششوں پر بیان۔ *[Dawn](https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz)*
-- پاکستان کے علاقائی اور عالمی امن کے لیے پرامن کردار پر زور۔ *[Business Recorder](https://www.brecorder.com/news/40427431/pakistan-committed-to-regional-global-peace-says-pm-shehbaz)*
+- وفاقی وزارتِ داخلہ کے آڈٹ میں سنگین مالی بے ضابطگیوں کا انکشاف ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2011270/interior-ministry-tops-agp-audit-irregularities)*
+- علیمہ خان نے عمران خان کی تنہائی میں قید کے خلاف عدالت میں چیلنج دائر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011160/aleema-challenges-pti-founder-imran-khans-solitary-confinement-before-ihc)*
+- وزیر اعظم شہباز شریف نے بھارت پر پاکستان کے امن کو سبوتاژ کرنے کے لیے پراکسیز کے استعمال کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2011102/india-increasingly-resorting-to-covert-tactics-proxies-to-undermine-peace-in-pakistan-pm-shehbaz)*
+- پی ٹی آئی نے پنجاب حکومت کے مجوزہ 'اینٹی سوشل بیہیویئر بل' کی سخت مخالفت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427462/anti-social-behaviour-bill-punjab-govts-proposed-law-seeks-to-weaken-civil-liberties-pti)*
+- برطانیہ نے علاقائی استحکام کے لیے پاکستان کی کوششوں کو سراہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427459/cooper-appreciates-paks-efforts-for-peace)*
+- جماعت اسلامی نے کراچی میونسپل کارپوریشن کے لیے 300 ارب روپے کا 'شیڈو بجٹ' پیش کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427465/ji-presents-rs300bn-shadow-budget-for-kmc)*
 
 ### قومی
-- کراچی کے علاقے گلستانِ جوہر میں فائرنگ اور دھماکے کی رپورٹ۔ *[Dawn](https://www.dawn.com/news/2011178/heavy-firing-explosion-reported-in-karachis-gulistan-i-jauhar)*
-- پنجاب، خیبرپختونخوا اور اسلام آباد میں زلزلے کے جھٹکے محسوس کیے گئے۔ *[Dawn](https://www.dawn.com/news/2011136/tremors-felt-in-punjab-kp-hours-after-quakes-in-balochistan)*
-- بلوچستان میں دہشت گردوں کے خلاف کامیاب آپریشن، 8 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr)*
-- سرگودھا میں ایک لڑکے کے ساتھ درندگی اور اسے زندہ دفن کرنے کے الزام میں دو افراد گرفتار۔ *[Dawn](https://www.dawn.com/news/2011110/2-arrested-for-allegedly-sexually-assaulting-teenage-boy-burying-him-alive-for-not-keeping-quiet-in-sargodha)*
+- کراچی کے گلیستانِ جوہر میں رینجرز کے ہیڈ کوارٹر پر حملے میں تین اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011178/3-sindh-rangers-personnel-martyred-during-attack-on-local-headquarters-in-karachis-gulistan-i-jauhar-sindh-ig)*
+- بلوچستان میں دہشت گردوں کے خلاف آپریشن کے دوران 8 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2011113/8-terrorists-killed-in-high-tempo-intelligence-operations-in-balochistan-ispr)*
+- سپریم کورٹ نے جائیداد کے تنازعات کے فیصلے میں معاشی حقیقتوں کو مدنظر رکھنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2011267/supreme-court-cautions-courts-on-property-disputes-amid-soaring-prices)*
+- مظفرآباد میں تاجروں اور ٹرانسپورٹرز نے مارکیٹوں اور نقل و حمل کے معمولات بحال کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011175/traders-to-resume-business-activities-in-muzaffarabad-distance-themselves-from-jaac)*
+- بھارت کی جیل میں دم توڑنے والے پاکستانی ماہی گیر کی میت کراچی پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40427515/pak-fisherman-die-in-indian-jail-laid-to-rest-in-keamari)*
+- انسانی اعضاء کی اسمگلنگ کے کیس میں ایف آئی اے کو پانچ ملزمان کا ریمانڈ مل گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427456/smuggling-of-human-placentas-case-court-grants-fia-remand-of-suspects)*
+- وزیراعلیٰ پنجاب نے بچی منتہا کے معاملے میں انصاف فراہم کرنے کا عہد کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427467/cm-punjab-stands-with-family-of-young-muntaha-pledges-justice)*
 
 ### بین الاقوامی
-- وینزویلا میں زلزلوں سے ہونے والی جانی و مالی تباہی اور امدادی کارروائیاں۔ *[Dawn](https://www.dawn.com/news/2011171/venezuela-welcomes-1600-foreign-rescuers-in-urgent-search-for-quake-survivors)*
-- امریکہ اور ایران کے درمیان فوجی حملوں کا تبادلہ۔ *[Dawn](https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire)*
-- برطانیہ میں پناہ گزینوں کے لیے نئے قانونی راستے فراہم کرنے کا اعلان۔ *[Dawn](https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes)*
-- آسٹریلیا میں سوشل میڈیا پر پابندی کی خلاف ورزی پر بھاری جرمانے کا قانون۔ *[Dawn](https://www.dawn.com/news/2011172/australia-to-double-fine-on-platforms-for-flouting-teen-social-media-ban)*
-- ہز بولہ کا اسرائیل اور لبنان کے درمیان امریکی ثالثی کے ذریعے ہونے والے امن معاہدے کو مسترد کرنا۔ *[Business Recorder](https://www.brecorder.com/news/40427438/hezbollah-rejects-us-brokered-israel-lebanon-security-deal-as-surrender)*
-- چین کے بیجنگ میں طیارے کا حادثہ جس میں ایک پائلٹ ہلاک ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40427436/beijing-investigating-rare-light-aircraft-crash-which-killed-pilot-injured-13)*
-- ڈونلڈ ٹرمپ کے ممکنہ بھارت کے دورے کے حوالے سے خبریں۔ *[Business Recorder](https://www.brecorder.com/news/40427425/trump-likely-to-visit-india-early-next-year-rubio-tells-indias-ians)*
+- ڈونلڈ ٹرمپ نے اپنی تصویر پر مشتمل نیا امریکی پاسپورٹ پیش کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011242/trump-unveils-new-us-passport-with-his-image)*
+- امن معاہدے کے باوجود اسرائیل نے لبنان پر فضائی حملے جاری رکھے ہیں۔ *[Dawn](https://www.dawn.com/news/2011244/lebanon-hit-by-israel-again-despite-signing-peace-deal)*
+- متحدہ عرب امارات اور ایران کے درمیان پروازیں یکم جولائی سے دوبارہ شروع ہوں گی۔ *[Dawn](https://www.dawn.com/news/2011240/uae-iran-to-resume-flights-from-july-1-official-says)*
+- برطانیہ نے پناہ گزینوں کے لیے نئے قانونی راستے کھولنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011157/uk-to-expand-refugee-sponsorship-schemes)*
+- امریکہ اور ایران کے درمیان فوجی حملوں نے خطے میں کشیدگی پیدا کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2011094/us-and-iran-trade-strikes-putting-fresh-strain-on-mideast-ceasefire)*
 
 ### کھیل
-- فیفا ورلڈ کپ میں ایران اور مصر کے درمیان میچ کا نتیجہ۔ *[Dawn](https://www.dawn.com/news/2011109/iran-wait-on-fifa-world-cup-progress-after-late-goal-disallowed-in-egypt-draw)*
-- لیونل میسی کا ورلڈ کپ کے میچ میں بنچ پر رہنے کا فیصلہ۔ *[Business Recorder](https://www.brecorder.com/news/40427421/messi-to-start-dead-rubber-world-cup-group-match-on-bench)*
-- مصر کے کوچ کا محمد صلاح کی فٹنس کے حوالے سے بیان۔ *[Business Recorder](https://www.brecorder.com/news/40427423/egypt-to-assess-salah-after-he-asked-to-be-substituted-says-coach)*
-
-### صحت
-- ہننا براؤن کا پی ایم او ایس (PMOS) کے علاج میں افادیت کا دعویٰ۔ *[ARY](https://arynews.tv/hannah-brown-credits-glp-1-for-pmos-relief)*
+- فٹ بال ورلڈ کپ میں پرتگال اور کولمبیا کا مقابلہ برابر رہا۔ *[ARY](https://arynews.tv/portugal-draw-with-world-cup-group-k-winners-colombia)*
+- کرکٹ/فٹ بال ورلڈ کپ کے مختلف مقابلوں میں انگلینڈ اور کروشیا نے کامیابی حاصل کی۔ *[ARY](https://arynews.tv/england-win-world-cup-group-croatia-and-ghana-through)*
+- فٹ بال ورلڈ کپ سے ٹیموں کے باہر ہونے کے بعد یوگو سوا کے ادارے نے چارٹر فلائٹ منسوخ کر دی۔ *[ARY](https://arynews.tv/uruguay-body-reportedly-cancels-charter-flight-following-world-cup-exit)*
 
 ### دیگر
-- برطانیہ کی ٹک ٹاکر کا دبئی میں مقدمہ۔ *[Dawn](https://www.dawn.com/news/2010992/uk-tiktok-influencer-faces-death-penalty-in-dubai)*
-- برطانوی شاہی خاندان کے حوالے سے خبریں۔ *[ARY](https://arynews.tv/kate-and-prince-georges-sweet-armed-forces-day-trip-to-raf-coningsby)*
-- گیمنگ سے متعلق نئی اپڈیٹ۔ *[ARY](https://arynews.tv/forza-horizon-6-arashiyama-run-smash-bamboo-for-season-points)*
+- محرم الحرام کے دوران ریسکیو 1122 نے سندھ بھر میں 1,200 سے زائد طبی عملہ تعینات کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427518/rescue-1122-deploys-over-1200-emergency-personnel-during-muharram)*
 
