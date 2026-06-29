@@ -7,50 +7,39 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Jun-2026 09:10PKT 
+ &lrm; 29-Jun-2026 21:09PKT 
 
 پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- ریکو ڈک منصوبہ (ML-3) کے لیے 390 ملین ڈالر کے قرض کے ذریعے مالی معاونت حاصل کی جائے گی۔ *[Dawn](https://www.dawn.com/news/2011499/390m-reko-diq-bridge-loan-for-ml-3)*
-- پاکستان ایران سے سستا تیل اور گیس خریدنے کے امکانات پر غور کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011414/pakistan-mulling-purchase-of-cheaper-oil-gas-from-iran-petroleum-minister)*
-- مشرق وسطیٰ میں امریکہ اور ایران کے درمیان کشیدگی کے باعث عالمی سطح پر تیل کی قیمتوں میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40427649/oil-climbs-following-renewed-us-iran-strikes-in-middle-east)*
-- سندھ اسمبلی نے 3.562 ٹریلین روپے کا بجٹ منظور کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427586/sindh-assembly-passes-rs3562trn-budget-for-fy2026-27)*
-- پاکستان کا 2030 تک سعودی عرب میں 10 لاکھ ورکرز بھیجنے کا ہدف ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427568/govt-plans-to-deploy-1-million-workers-to-saudi-arabia-by-2030)*
-- رپورٹ کے مطابق پاکستان پانی کی قلت کے لحاظ سے دنیا کا 14واں بڑا ملک بن گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40427567/pakistan-14th-most-water-scarce-country-report)*
-- ایف بی آر نے ٹیکس وصولی کے حوالے سے سوشل میڈیا پر گردش کرنے والی خبروں کی تردید کر دی۔ *[Business Recorder](https://www.brecorder.com/news/40427565/finance-act-2026-fbr-denied-powers-to-recover-taxes-from-bank-accounts-without-notice)*
+- حکومت نے پی آئی اے (PIA) کا انتظامی کنٹرول عارف حبیب گروپ کے کنسورشیم کو باقاعدہ طور پر منتقل کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011655/govt-formally-transfers-management-control-of-pia-to-arif-habib-led-consortium)*
+- او جی ڈی سی ایل (OGDCL) نے سندھ کے ضلع سانگھاڑ میں نئے تیل کے کنویں سے پیداوار کا کامیاب آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011656/ogdcl-commences-oil-production-from-well-in-sindhs-sanghar-district)*
 
 ### موسم
-- وینزویلا میں آنے والے شدید زلزلے کے باعث اب تک 1,450 افراد جاں بحق ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2011493/with-time-running-out-venezuelans-comb-rubble-for-survivors)*
+- محکمہ موسمیات نے پیش گوئی کی ہے کہ جولائی کے پہلے ہفتے سے ملک بھر میں مون سون کی بارشوں کا سلسلہ شروع ہو جائے گا۔ *[Dawn](https://www.dawn.com/news/2011619/pmd-forecasts-nationwide-monsoon-rainfall-from-first-week-of-july)*
 
 ### سیاست
-- آزاد کشمیر کے انتخابات کے لیے پیپلز پارٹی نے اپنے امیدواروں کے نام جاری کر دیے۔ *[Business Recorder](https://www.brecorder.com/news/40427564/ppp-names-candidates-for-ajk-polls)*
-- گلگت بلتستان کے نئے وزیر اعلیٰ کا حلف اٹھانے کی تقریب ملتوی ہوگئی ہے۔ *[Dawn](https://www.dawn.com/news/2011512/gb-cms-swearing-in-postponed-due-to-party-chiefs-unavailability)*
-- پنجاب اسمبلی میں اینٹی سوشل بیہیویئر بل کی منظوری پر بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2011434/punjab-assembly-speaker-surprised-by-committees-approval-of-anti-social-behaviour-bill-says-not-aware-it-was-laid)*
-- پیپلز پارٹی نے صوبائی خودمختاری کے تحفظ اور 28ویں آئینی ترمیم کے حوالے سے تحفظات کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2011411/provincial-autonomy-must-remain-free-from-interference-nothing-in-black-and-white-on-28th-amendment-yet-ppp)*
+- آزاد کشمیر سپریم کورٹ نے پی ٹی آئی (PTI) کی پارٹی رجسٹریشن کے معاملے میں ہائی کورٹ کے حکم پر 2 جولائی تک التوا لگا دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011636/ajk-sc-suspends-high-court-order-granting-interim-relief-to-pti-in-party-registration-case-until-july-2)*
+- معلومات وزیر نے زور دے کر کہا کہ سندھ طاس معاہدے (IWT) کو یکطرفہ طور پر ختم یا تبدیل نہیں کیا جا سکتا۔ *[Dawn](https://www.dawn.com/news/2011621/water-is-our-red-line-info-minister-says-iwt-cannot-be-unilaterally-revoked-or-amended-remains-in-force)*
+- پنجاب اسمبلی کے سپیکر نے 'اینٹی سوشل بیہیویئر بل' کی کمیٹی سے منظوری پر حیرت کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011434/punjab-assembly-speaker-surprised-by-committees-approval-of-anti-social-behaviour-bill-says-not-aware-it-was-laid)*
 
 ### قومی
-- پاک افغان سرحد پر سیکیورٹی فورسز کے آپریشن میں 29 دہشت گرد مارے گئے۔ *[Dawn](https://www.dawn.com/news/2011438/security-forces-kill-29-terrorists-in-ground-ops-air-strikes-along-pak-afghan-border-info-minister)*
-- کراچی میں رینجرز کیمپ پر دہشت گردانہ حملے کے دوران 3 اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011178/3-personnel-martyred-as-attack-on-rangers-facility-in-karachi-foiled-ispr)*
-- وزارت داخلہ نے 10 جولائی سے غیر قانونی افغان باشندوں کی گرفتاری کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011435/interior-ministry-issues-directive-to-arrest-afghan-nationals-without-valid-visas-from-july-10)*
-- شیخوپورہ میں منشیات سے لدا ایک ڈرون کریش ہوگیا ہے جس پر پولیس تحقیقات کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2011431/drone-carrying-illegal-drugs-crashes-in-sheikhupura-police)*
+- اسلام آباد ہائی کورٹ نے القاعدر ٹرسٹ کیس میں عمران خان اور بشریٰ بی بی کے دفاع کو دلائل کے لیے دو ہفتوں کا وقت دیا۔ *[Dawn](https://www.dawn.com/news/2011631/al-qadir-trust-case-ihc-gives-defence-two-weeks-to-begin-arguments-in-imran-bushras-appeals)*
+- سیکیورٹی فورسز نے پاک افغان سرحد پر آپریشن کے دوران 29 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2011438/security-forces-kill-29-terrorists-in-ground-ops-air-strikes-along-pak-afghan-border-info-minister)*
+- سپریم جوڈیشل کونسل نے ایک آئی ایچ سی جج کے خلاف ہٹ اینڈ رن کیس میں اثر و رسوخ کے الزامات کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2011599/sjc-dismisses-complaint-against-ihc-judge-for-influencing-hit-and-run-case-involving-his-son)*
+- بنوں میں نامعلوم مسلح افراد کی فائرنگ کے نتیجے میں ایک پولیس کانسٹیبل شہید ہو گیا۔ *[Dawn](https://www.dawn.com/news/2011607/cop-martyred-after-unidentified-assailants-open-fire-in-kps-bannu)*
+- کراچی کے رینجرز کیمپ پر دہشت گردانہ حملے کے بعد دفتر خارجہ نے افغان ایلچی کو طلب کر کے سخت احتجاج درج کرایا ہے۔ *[Dawn](https://www.dawn.com/news/2011624/fo-summons-afghan-envoy-issues-strong-demarche-over-terrorist-attack-on-karachi-rangers-camp)*
 
 ### بین الاقوامی
-- امریکہ مشرق وسطیٰ میں اپنے فوجی اڈوں کی جگہ تبدیل کرنے پر غور کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011497/us-weighs-shifting-gulf-bases-after-strikes)*
-- ایران اور امریکہ کے درمیان کشیدگی کم کرنے اور مذاکرات کی بحالی کا معاہدہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40427648/iran-and-us-agree-to-halt-attacks-and-renew-talks-axios-reports)*
-- سعودی عرب میں آرامکو کا ہیلی کاپٹر کریش، 14 افراد جاں بحق۔ *[Dawn](https://www.dawn.com/news/2011406/aramco-helicopter-crash-kills-14-in-saudi-arabia)*
-- ایران کے سپریم لیڈر نے امریکہ اور اسرائیل کے خلاف قانونی کارروائی کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2011424/irans-supreme-leader-says-legal-cases-must-be-pursued-against-us-israel-over-child-killings-war-crimes)*
-- پاکستان نے جمہوریہ کانگو میں امن کے لیے کیے گئے وعدوں پر عمل درآمد پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40427570/eastern-dr-congo-peace-accords-pakistan-pushes-for-early-implementation)*
-- تنظیمِ اسلامی تعاون (OIC) نے مسئلہ کشمیر کے پرامن حل کے لیے اپنی وابستگی کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40427569/oic-for-kashmir-dispute-resolution-in-line-with-un-resolutions)*
+- جرمنی کے ایک یوتھ ویلفیئر سینٹر میں فائرنگ کے واقعے میں پانچ افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011651/five-dead-in-shooting-at-german-youth-welfare-centre-police)*
+- وینزویلا میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد 1,450 سے تجاوز کر گئی ہے اور امدادی کارروائیاں جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2011646/venezuela-search-teams-scramble-as-hope-fades-of-finding-quake-survivors)*
+- صدر اردگان نے نٹو (NATO) سربراہی اجلاس سے قبل کہا کہ ترکیہ کو یورپی سلامتی کے ڈھانچے میں شامل کیا جانا چاہیے۔ *[Dawn](https://www.dawn.com/news/2011640/turkiye-must-be-included-in-europe-security-structures-erdogan-ahead-of-nato-summit)*
+- ایران اور امریکہ کے درمیان خلیج میں حالیہ کشیدگی کے بعد مذاکرات کی بحالی پر اتفاق ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2011596/iran-and-us-agree-to-halt-attacks-and-renew-talks-us-official-says)*
+- تجزیہ کاروں کے مطابق اسرائیل اور لبنان کے درمیان ممکنہ امن معاہدہ جنگ کے خاتمے کے بجائے مستقل تعطل کا باعث بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2011664/israel-lebanon-deal-may-entrench-stalemate-rather-than-end-war-analysts-say)*
+- آذربائیجان نے اسرائیل کی جانب سے آرمینیاں کے نسل کشی کے اعتراف پر سخت ردعمل کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011620/azerbaijan-slams-ally-israels-recognition-of-armenian-genocide)*
+- آسٹریلیا اور وانواٹو کے درمیان ایک نئے معاہدے پر دستخط ہوئے ہیں جس کے تحت اس جزیرے پر کسی غیر ملکی فوجی اڈے کے قیام پر پابندی ہوگی۔ *[Dawn](https://www.dawn.com/news/2011604/australia-vanuatu-sign-deal-barring-foreign-military-base-on-pacific-island)*
+- روس یوکرین کے مشرقی دفاعی قلعوں میں اپنی پیش قدمی تیز کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011644/russia-pounds-on-the-gates-of-ukraines-fortress-belt)*
 
 ### کھیل
-- انگلینڈ کے ٹیسٹ کپتان بین اسٹوکس نے بین الاقوامی کرکٹ سے ریٹائرمنٹ کا اعلان کر دیا۔ *[Dawn](https://www.dawn.com/news/2011416/england-test-captain-ben-stokes-to-retire-from-international-cricket)*
-- آئرلینڈ نے بھارت کو ٹی ٹونٹی سیریز میں ہرا دیا۔ *[ARY](https://arynews.tv/ireland-stun-india-2-0-in-t20-series-with-thrilling-one-run-win)*
-
-### صحت
-- ماہرینِ قلب نے بلڈ پریشر، کولیسٹرول اور شوگر کے باقاعدہ معائنے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40427585/cardiologists-urge-people-to-monitor-blood-pressure-cholesterol-and-blood-sugar-levels-regularly)*
-
-### دیگر
-- BET ایوارڈز 2026 میں مختلف گلوکاروں نے اعزازات حاصل کیے۔ *[ARY](https://arynews.tv/bet-awards-2026-cardi-b-doechii-sza-and-kehlani-win-big)*
-- کراچی میں شہری مقامات کے استعمال اور ان کی اہمیت پر بحث۔ *[Dawn](https://www.dawn.com/news/2011521/the-ecology-of-civic-spaces)*
+- پاکستانی پیشہ ور گیمر ارسلان 'اش' نے لاس ویگاس میں ٹیکن (Tekken) ٹورنامنٹ جیت کر اپنا آٹھواں ایوو (Evo) ٹائٹل حاصل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011647/pro-gamer-arslan-ash-bags-8th-evo-title-at-tekken-tournament-in-las-vegas)*
 
