@@ -7,39 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Jun-2026 21:09PKT 
+ &lrm; 30-Jun-2026 09:11PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے پی آئی اے (PIA) کا انتظامی کنٹرول عارف حبیب گروپ کے کنسورشیم کو باقاعدہ طور پر منتقل کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011655/govt-formally-transfers-management-control-of-pia-to-arif-habib-led-consortium)*
-- او جی ڈی سی ایل (OGDCL) نے سندھ کے ضلع سانگھاڑ میں نئے تیل کے کنویں سے پیداوار کا کامیاب آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011656/ogdcl-commences-oil-production-from-well-in-sindhs-sanghar-district)*
+- خلیجی خطے کی کشیدگی پاکستان کے معاشی حالات، بانڈز اور براہ راست غیر ملکی سرمایہ کاری کو متاثر کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook)*
+- پیٹرولیم مصنوعات کی قیمتوں کو مستحکم کرنے کے لیے ایک نیا فنڈ قائم کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011806/fund-created-to-mitigate-oil-price-shocks)*
+- آزاد کشمیر اسمبلی نے مالی سال 2026-27 کے لیے 286 ارب روپے کا بجٹ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011771/budget-2026-27-ajk-assembly-passes-rs286bn-budget-for-fy27)*
+- پی آئی اے کے انتظام و کنٹرول کا اختیار باضابطہ طور پر عارف حبیب کنسورشیم کے حوالے کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011655/govt-formally-transfers-management-control-of-pia-to-arif-habib-led-consortium)*
+- او جی ڈی سی ایل نے سندھ کے ضلع سانگھڑ میں تیل کی پیداوار کامیابی سے شروع کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2011656/ogdcl-commences-oil-production-from-well-in-sindhs-sanghar-district)*
+
+### سائنس اور ٹیکنالوجی
+- آئی ٹی وزارت نے عوامی مشاورت کے لیے ڈیٹا گورننس پالیسی 2026 کا مسودہ جاری کر دیا۔ *[Dawn](https://www.dawn.com/news/2011804/it-ministry-unveils-draft-data-governance-policy)*
+- واٹس ایپ صارفین کی رازداری کے تحفظ کے لیے یوزر نیم کی سہولت فراہم کرنے جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011777/whatsapp-messenger-to-offer-usernames)*
 
 ### موسم
-- محکمہ موسمیات نے پیش گوئی کی ہے کہ جولائی کے پہلے ہفتے سے ملک بھر میں مون سون کی بارشوں کا سلسلہ شروع ہو جائے گا۔ *[Dawn](https://www.dawn.com/news/2011619/pmd-forecasts-nationwide-monsoon-rainfall-from-first-week-of-july)*
+- محکمہ موسمیات نے جولائی کے پہلے ہفتے سے ملک بھر میں مون سون بارشوں کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2011619/pmd-forecasts-nationwide-monsoon-rainfall-from-first-week-of-july)*
 
 ### سیاست
-- آزاد کشمیر سپریم کورٹ نے پی ٹی آئی (PTI) کی پارٹی رجسٹریشن کے معاملے میں ہائی کورٹ کے حکم پر 2 جولائی تک التوا لگا دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011636/ajk-sc-suspends-high-court-order-granting-interim-relief-to-pti-in-party-registration-case-until-july-2)*
-- معلومات وزیر نے زور دے کر کہا کہ سندھ طاس معاہدے (IWT) کو یکطرفہ طور پر ختم یا تبدیل نہیں کیا جا سکتا۔ *[Dawn](https://www.dawn.com/news/2011621/water-is-our-red-line-info-minister-says-iwt-cannot-be-unilaterally-revoked-or-amended-remains-in-force)*
-- پنجاب اسمبلی کے سپیکر نے 'اینٹی سوشل بیہیویئر بل' کی کمیٹی سے منظوری پر حیرت کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011434/punjab-assembly-speaker-surprised-by-committees-approval-of-anti-social-behaviour-bill-says-not-aware-it-was-laid)*
+- پنجاب اسمبلی میں متنازعہ بل پر سخت بحث ہوئی جسے آزادی اظہار کے خلاف قرار دیا گیا۔ *[Dawn](https://www.dawn.com/news/2011722/controversial-bill-to-be-last-nail-in-coffin-of-freedom-of-expression-opposition)*
+- جماعت اسلامی کے سربراہ نے آزاد کشمیر کے بحران کے حل کے لیے مذاکرات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2011672/dialogue-only-solution-to-ajk-crisis-govt-should-avoid-use-of-force-ji-chief)*
 
 ### قومی
-- اسلام آباد ہائی کورٹ نے القاعدر ٹرسٹ کیس میں عمران خان اور بشریٰ بی بی کے دفاع کو دلائل کے لیے دو ہفتوں کا وقت دیا۔ *[Dawn](https://www.dawn.com/news/2011631/al-qadir-trust-case-ihc-gives-defence-two-weeks-to-begin-arguments-in-imran-bushras-appeals)*
-- سیکیورٹی فورسز نے پاک افغان سرحد پر آپریشن کے دوران 29 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2011438/security-forces-kill-29-terrorists-in-ground-ops-air-strikes-along-pak-afghan-border-info-minister)*
-- سپریم جوڈیشل کونسل نے ایک آئی ایچ سی جج کے خلاف ہٹ اینڈ رن کیس میں اثر و رسوخ کے الزامات کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2011599/sjc-dismisses-complaint-against-ihc-judge-for-influencing-hit-and-run-case-involving-his-son)*
-- بنوں میں نامعلوم مسلح افراد کی فائرنگ کے نتیجے میں ایک پولیس کانسٹیبل شہید ہو گیا۔ *[Dawn](https://www.dawn.com/news/2011607/cop-martyred-after-unidentified-assailants-open-fire-in-kps-bannu)*
-- کراچی کے رینجرز کیمپ پر دہشت گردانہ حملے کے بعد دفتر خارجہ نے افغان ایلچی کو طلب کر کے سخت احتجاج درج کرایا ہے۔ *[Dawn](https://www.dawn.com/news/2011624/fo-summons-afghan-envoy-issues-strong-demarche-over-terrorist-attack-on-karachi-rangers-camp)*
+- سپریم کورٹ کا فیصلہ: دلہن کے زیورات اور شادی کے تحائف اس کی اپنی ملکیت ہیں، شوہر یا سسرال ان پر دعویٰ نہیں کر سکتے۔ *[Dawn](https://www.dawn.com/news/2011800/hands-off-brides-jewellery-wedding-gifts-supreme-court-says)*
+- وزیراعظم شہباز شریف نے زراعت کے شعبے میں بڑی اصلاحات اور نئی پالیسی سازی کی ہدایت کی۔ *[Dawn](https://www.dawn.com/news/2011799/pm-shehbaz-directs-major-overhaul-of-agriculture-sector)*
+- راولپنڈی کے علاقے سیہلہ میں قیدیوں کی وین سے 14 قیدی فرار ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011666/as-many-as-14-prisoners-escape-from-prison-van-while-being-transferred-to-rawalpindis-adiala-jail)*
 
 ### بین الاقوامی
-- جرمنی کے ایک یوتھ ویلفیئر سینٹر میں فائرنگ کے واقعے میں پانچ افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011651/five-dead-in-shooting-at-german-youth-welfare-centre-police)*
-- وینزویلا میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد 1,450 سے تجاوز کر گئی ہے اور امدادی کارروائیاں جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2011646/venezuela-search-teams-scramble-as-hope-fades-of-finding-quake-survivors)*
-- صدر اردگان نے نٹو (NATO) سربراہی اجلاس سے قبل کہا کہ ترکیہ کو یورپی سلامتی کے ڈھانچے میں شامل کیا جانا چاہیے۔ *[Dawn](https://www.dawn.com/news/2011640/turkiye-must-be-included-in-europe-security-structures-erdogan-ahead-of-nato-summit)*
-- ایران اور امریکہ کے درمیان خلیج میں حالیہ کشیدگی کے بعد مذاکرات کی بحالی پر اتفاق ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2011596/iran-and-us-agree-to-halt-attacks-and-renew-talks-us-official-says)*
-- تجزیہ کاروں کے مطابق اسرائیل اور لبنان کے درمیان ممکنہ امن معاہدہ جنگ کے خاتمے کے بجائے مستقل تعطل کا باعث بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2011664/israel-lebanon-deal-may-entrench-stalemate-rather-than-end-war-analysts-say)*
-- آذربائیجان نے اسرائیل کی جانب سے آرمینیاں کے نسل کشی کے اعتراف پر سخت ردعمل کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011620/azerbaijan-slams-ally-israels-recognition-of-armenian-genocide)*
-- آسٹریلیا اور وانواٹو کے درمیان ایک نئے معاہدے پر دستخط ہوئے ہیں جس کے تحت اس جزیرے پر کسی غیر ملکی فوجی اڈے کے قیام پر پابندی ہوگی۔ *[Dawn](https://www.dawn.com/news/2011604/australia-vanuatu-sign-deal-barring-foreign-military-base-on-pacific-island)*
-- روس یوکرین کے مشرقی دفاعی قلعوں میں اپنی پیش قدمی تیز کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011644/russia-pounds-on-the-gates-of-ukraines-fortress-belt)*
+- JKLF سربراہ یسین ملک کا نام 36 سال پرانے قتل کیس میں شامل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2011769/jklf-chief-mohammad-yasin-malik-implicated-in-35-year-old-murder-case)*
+- اقوام متحدہ کی سلامتی کونسل کو دو ریاستی حل کے لیے خطرات سے آگاہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2011770/unsc-warned-of-threat-to-two-state-solution)*
+- وزیراعظم شہباز شریف مشرق وسطیٰ جنگ کے خاتمے کی کوششوں کے لیے ایران اور ترکی کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2011670/pm-shehbaz-to-visit-iran-turkiye-as-part-of-mediation-efforts-to-end-middle-east-war-sources)*
+- جرمنی کے ایک ویلفیئر سینٹر میں فائرنگ کے نتیجے میں 6 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2011651/six-killed-in-german-family-tragedy-shooting-police)*
+- وینزویلا میں شدید زلزلوں کے نتیجے میں ہلاکتوں کی تعداد 1,719 تک پہنچ گئی۔ *[Dawn](https://www.dawn.com/news/2011646/at-least-1719-dead-in-venezuela-twin-earthquakes-as-hope-fades-of-finding-survivors)*
+- غزہ میں اسرائیلی حملوں کے نتیجے میں 5 افراد ہلاک ہو گئے۔ *[ARY](https://arynews.tv/gaza-health-officials-say-israeli-strikes-kill-five)*
+- ڈونلڈ ٹرمپ قطر کے تحفے میں ملے طیارے میں اس ہفتے اپنا پہلا سفر کریں گے۔ *[ARY](https://arynews.tv/donald-trump-to-make-first-flight-on-qatar-gifted-jet-this-week)*
 
 ### کھیل
-- پاکستانی پیشہ ور گیمر ارسلان 'اش' نے لاس ویگاس میں ٹیکن (Tekken) ٹورنامنٹ جیت کر اپنا آٹھواں ایوو (Evo) ٹائٹل حاصل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011647/pro-gamer-arslan-ash-bags-8th-evo-title-at-tekken-tournament-in-las-vegas)*
+- برازیل نے جاپان کو ہرا کر ورلڈ کپ کے آخری 16 میں جگہ بنا لی۔ *[Dawn](https://www.dawn.com/news/2011683/martinelli-scores-in-95th-minute-to-send-brazil-into-world-cup-last-16)*
+- پاکستانی گیمر ارسلان اش نے لاس ویگاس میں تکن کا آٹھواں ایوو ٹائٹل جیت لیا۔ *[Dawn](https://www.dawn.com/news/2011647/pro-gamer-arslan-ash-bags-8th-evo-title-at-tekken-tournament-in-las-vegas)*
+- مراکش نے ہالینڈ کو پنالٹیوں پر ہرا کر ورلڈ کپ کے آخری 16 میں رسائی حاصل کی۔ *[ARY](https://arynews.tv/morocco-beat-netherlands-on-penalties-to-reach-world-cup-last-16)*
+- جنوبی کوریا کے کھلاڑی سون نے ٹیم کی جلد انخلا پر مداحوں سے معذرت کی۔ *[ARY](https://arynews.tv/son-apologises-to-fans-after-south-koreas-early-world-cup-exit)*
+- پیراگوئے نے جرمنی کو پنالٹیوں پر شکست دی۔ *[ARY](https://arynews.tv/germany-v-paraguay-world-cup-last-32)*
+- جوکووچ نے ومبلڈن کے پہلے راؤنڈ میں کامیابی حاصل کی۔ *[ARY](https://arynews.tv/djokovic-battles-past-wu-in-challenging-wimbledon-first-round)*
+- لیوانڈوفسکی کا شکاگو فائر کے ساتھ معاہدہ ہو گیا۔ *[ARY](https://arynews.tv/chicago-fire-announce-signing-of-lewandowski)*
+- میڈوکے کا کہنا ہے کہ وہ انگلینڈ کے لیے ورلڈ کپ میں گیم چینجر ثابت ہو سکتے ہیں۔ *[ARY](https://arynews.tv/madueke-says-he-can-be-englands-world-cup-game-changer)*
+
+### دیگر
+- ایریانا گرانڈے کے ٹور کے اعلان سے مداحوں میں مایوسی پائی جاتی ہے۔ *[ARY](https://arynews.tv/ariana-grande-disappoints-fans-with-new-tour-announcement)*
+- بین افلیک اپنے بچے کے ساتھ نجی موقع پر نظر آئے۔ *[ARY](https://arynews.tv/ben-affleck-enjoys-rare-outing-with-kid-fin)*
 
