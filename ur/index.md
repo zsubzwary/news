@@ -7,50 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-Jun-2026 21:08PKT 
+ &lrm; 01-Jul-2026 09:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- خلیجی خطے کی کشیدگی پاکستان کے مقامی بانڈ اور اسٹاک مارکیٹ کے ساتھ ساتھ غیر ملکی براہ راست سرمایہ کاری کو متاثر کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook)*
-- ویزا اور ماسٹر کارڈ نے مل کر ایک نیا عالمی سٹیبل کوائن لانچ کر دیا ہے۔ *[ARY](https://arynews.tv/open-usd-visa-mastercard-jointly-launch-new-global-stablecoin)*
-- 10 کروڑ روپے سے زائد کی بینک ٹرانزیکشنز کی رپورٹنگ لازمی قرار دی گئی ہے۔ *[ARY](https://arynews.tv/bank-transactions-above-rs-100-million-to-be-reported)*
-- پاکستان میں سیمنٹ کی موجودہ قیمتوں کی تفصیلات جاری کر دی گئی ہیں۔ *[ARY](https://arynews.tv/cement-price-today-in-pakistan-june-30-2026)*
-
-### سائنس اور ٹیکنالوجی
-- ناسا ایک روبوٹک مشن کے ذریعے پرانے ہو رہے 'سوئفٹ' (Swift) اسپیس ٹیلی اسکوپ کو بچانے کی منصوبہ بندی کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011969/nasa-plans-robotic-mission-to-save-ageing-space-telescope)*
-- بھارتی سپلائر 'ٹاٹا الیکٹرانکس' کے ڈیٹا لیک سے ایپل آئی فون 18 پرو کے اجزاء اور تصاویر افشا ہو گئی ہیں۔ *[Dawn](https://www.dawn.com/news/2011837/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-indian-suppliers-data-leak)*
-- وزارت آئی ٹی نے ڈیٹا گورننس پالیسی 2026 کا مسودہ عوامی مشاورت کے لیے جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011804/it-ministry-unveils-draft-data-governance-policy)*
-- رپورٹ کے مطابق، 2025 میں عالمی کاربن اخراج میں اضافے کی بڑی وجہ امریکہ رہا ہے۔ *[Dawn](https://www.dawn.com/news/2011852/us-leads-global-co2-emissions-increase-in-2025-report-finds)*
-
-### موسم اور قدرتی آفات
-- وینزویلا میں شدید زلزلوں کے بعد امدادی کارروائیاں جاری ہیں، جہاں اب تک 1,700 سے زائد افراد ہلاک ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2011865/venezuela-rescuers-in-final-push-to-find-survivors-as-families-mourn)*
+- حکومت نے فیصلہ کیا ہے کہ جنوری 2028 سے تمام نئے سرکاری قرضے شریعت کے مطابق ہوں گے۔ *[Dawn](https://www.dawn.com/news/2012065/new-govt-loans-to-be-shariah-compliant-from-2028)*
+- کراچی میں پانی کے ٹینکروں کے نرخوں میں اضافے کا امکان ہے کیونکہ یوٹیلیٹی کارپوریشن نئے نرخوں پر غور کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2012051/karachiites-in-for-price-shock-as-kwsc-set-to-hike-bowser-charges)*
+- بحر ہرمز کے دوبارہ کھلنے اور ভূ سیاسی تناؤ میں کمی کے بعد حکومت کو نئے مالی سال میں مہنگائی میں کمی کی توقع ہے۔ *[Dawn](https://www.dawn.com/news/2011978/govt-expects-easing-inflationary-pressure-in-new-fiscal-year-following-reopening-of-strait-of-hormuz)*
+- ایران کی جانب سے امریکی ایلچیوں سے ملاقات سے انکار کے بعد عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ ہوا۔ *[ARY](https://arynews.tv/oil-ticks-higher-after-irans-refusal-to-meet-us-envoys)*
 
 ### سیاست
-- اسلام آباد ہائی کورٹ نے عمران خان اور بشریٰ بی بی کی مبینہ تنہائی میں قید کے خلاف درخواستوں پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011965/ihc-reserves-verdict-on-maintainability-of-petitions-against-imran-bushras-alleged-solitary-confinement)*
-- الیکشن کمیشن نے خیبر پختونخوا میں سینٹ کے ضمنی انتخاب کے شیڈول کی معطلی کے کیس پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2011875/ecp-reserves-verdict-on-suspension-of-senate-by-poll-schedule-for-murad-saeeds-seat)*
-- سینیٹ کے اپوزیشن لیڈر نے بھارا کہو کے ایس ایچ او کے خلاف بدتمیزی پر پریویلیج موشن دائر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011841/senate-opposition-leader-files-privilege-motion-against-bhara-kahu-sho-over-discourteous-conduct)*
-- وزیر اطلاعات عطا اللہ تارڑ نے دہشت گردوں کے لیے 'ملیشینٹس' کے لفظ کے استعمال پر سخت اعتراض کیا ہے۔ *[Dawn](https://www.dawn.com/news/2011827/terrorists-must-not-be-called-by-any-other-name-says-info-minister)*
-- بھارت میں 'کاکروچ جنتا پارٹی' کے مظاہرین وزیر تعلیم کے استعفے کا مطالبہ کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle)*
-- قطر میں امریکی اور ایرانی وفود کے درمیان مذاکرات کے حوالے سے اہم پیش رفت متوقع ہے۔ *[Dawn](https://www.dawn.com/news/2011970/talks-in-qatar-after-us-iran-deal-what-we-know)*
-- امریکی صدر ٹرمپ کو پیدائشی شہریت کے معاملے پر سپریم کورٹ میں شکست کا سامنا کرنا پڑا۔ *[ARY](https://arynews.tv/trump-loses-supreme-court-battle-over-birthright-citizenship)*
+- پنجاب اسمبلی کے سپیکر نے پنجاب کنٹرول آف ہیبیچوئل آفینڈرز بل پر شدید مخالفت کے بعد اس پر نظر ثانی کی ہدایت دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2012019/pa-to-return-controversial-bill-to-govt-for-changes)*
+- پیپلز پارٹی اور جمعیت افلاس پاکستان آزاد جموں و کشمیر کے آئندہ عام انتخابات میں مشترکہ طور پر حصہ لیں گی۔ *[Dawn](https://www.dawn.com/news/2011985/ppp-jui-f-announce-they-will-jointly-contest-upcoming-ajk-elections)*
 
 ### قومی
-- لاہور کے علاقے کہنا میں ایک نجی ٹیوشن سینٹر کی چھت گرنے کے نتیجے میں 14 بچوں کی ہلاکت ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2011968/14-children-dead-in-lahore-tuition-centre-roof-collapse-police)*
-- راولپنڈی میں پولیس وین سے 14 قیدیوں کے فرار ہونے پر مقدمہ درج کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011866/case-registered-against-14-prisoners-who-escaped-from-prison-van-bound-for-rawalpindis-adiala-jail)*
-- پاکستان پہلی بار انٹرنیشنل اولیو کونسل (IOC) کا مستقل رکن بن گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011967/pakistan-becomes-permanent-member-of-international-olive-council)*
-- سپریم کورٹ نے فیصلہ دیا ہے کہ شادی کے وقت دلہن کو دیے گئے زیورات پر صرف اس کا حق ہے اور شوہر یا سسرال والے اس پر دعویٰ نہیں کر سکتے۔ *[Dawn](https://www.dawn.com/news/2011800/hands-off-bride-s-jewellery-wedding-gifts-supreme-court-says)*
+- بلوچستان میں افغانستان سے آنے والے چار ابتدائی ڈرونز کو پاکستانی فضائی دفاعی نظام نے کامیابی سے مار گرایا۔ *[Dawn](https://www.dawn.com/news/2012077/4-drones-from-afghanistan-downed-ispr)*
+- جے اے اے سی کے رہنما شوکت نواز میر کی گرفتاری کے حوالے سے حکام کی خاموشی نے انتشار پیدا کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2012066/official-silence-fuels-confusion-on-arrest-of-jaac-leader-shaukat-nawaz-mir)*
+- وزیراعظم شہباز شریف نے کہا کہ پائیدار ترقی کے لیے آبادی اور دستیاب وسائل کے درمیان توازن برقرار رکھنا ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2012079/balance-between-population-and-resources-must-for-progress-pm-shehbaz)*
+- سینٹ کمیٹی نے کوئٹہ کے مہنگے فضائی کرایوں اور کراچی ایئرپورٹ کی ناقص سہولیات پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2012080/senate-panel-seeks-action-on-high-quetta-air-fares)*
+- گھریلو تشدد کے ایک کیس میں ملزم کی بریت کے خلاف سپریم کورٹ میں اپیل دائر کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2011996/petitioner-approaches-sc-to-overturn-ihcs-acquittal-of-accused-in-domestic-violence-case)*
+- لاہور کے کاہنہ علاقے میں ایک نجی ٹیوشن سینٹر کی چھت گرنے کے نتیجے میں 14 بچوں کی موت ہو گئی۔ *[Dawn](https://www.dawn.com/news/2011968/14-children-dead-in-lahore-tuition-centre-roof-collapse-police)*
+- سوشل میڈیا پر سیلاب اور لینڈ سلائیڈنگ کی ویڈیوز کے پھیلاؤ کے باعث گلگت بلتستان کے سیاحت کے سفر کے حوالے سے خدشات پیدا ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2012075/whats-really-happening-on-the-road-to-gilgit-baltistan)*
+- راولپنڈی میں پولیس وین سے 14 قیدیوں کے فرار ہونے کے واقعے پر مقدمہ درج کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011866/case-registered-against-14-prisoners-who-escaped-from-prison-van-bound-for-rawalpindis-adiala-jail)*
 
 ### بین الاقوامی
-- سندھ کے کمشنر نے دریائے چناب میں اتار چڑھاؤ کے حوالے سے بھارتی ہم منصب کو کئی بار خطوط لکھے لیکن کوئی جواب موصول نہیں ہوا۔ *[Dawn](https://www.dawn.com/news/2011838/indus-commissioner-says-he-wrote-to-indian-counterpart-4-times-over-chenab-fluctuations-but-no-reply-so-far)*
-- پول کے مطابق، امریکی عوام اب بھی غیر ملکی امداد کی حمایت کرتے ہیں۔ *[Dawn](https://www.dawn.com/news/2011844/a-year-after-usaid-shutdown-americans-still-back-foreign-development-aid-poll-shows)*
-- کشمیری رہنما محمد یاسین ملک کو 35 سال پرانے قتل کے کیس میں ملوث قرار دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011769/jklf-chief-mohammad-yasin-malik-implicated-in-35-year-old-murder-case)*
+- جنوبی ایشیا کے رہنماؤں سے مطالبہ کیا گیا ہے کہ وہ دشمنی کے بجائے مذاکرات اور تعاون کا راستہ اختیار کریں۔ *[Dawn](https://www.dawn.com/news/2012083/south-asian-leaders-urged-to-choose-talks-over-hostility)*
+- امریکی سپریم کورٹ نے پیدائشی شہریت کی پابندیوں کے حوالے سے صدر ٹرمپ کی درخواست کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2012111/supreme-court-spurns-trump-on-birthright-citizenship)*
+- پاکستان کے انڈس کمشنر نے چناب دریا کے بہاؤ میں اتار چڑھاؤ کے حوالے سے بھارتی ہم منصب کو کئی بار خطوط لکھے لیکن کوئی جواب موصول نہیں ہوا۔ *[Dawn](https://www.dawn.com/news/2011838/indus-commissioner-says-he-wrote-to-indian-counterpart-4-times-over-chenab-fluctuations-but-no-reply-so-far)*
+- پاکستان پہلی بار بین الاقوامی زیتون کونسل کا مستقل رکن بن گیا ہے۔ *[Dawn](https://www.dawn.com/news/2011967/pakistan-becomes-permanent-member-of-international-olive-council)*
+- بھارت میں 'کاکروچ جنتا پارٹی' کے کارکنوں نے وزیر تعلیم کے استعفے کے لیے احتجاجی دھرنا شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle)*
+- ایران آیت اللہ علی خامنہ ای کے جنازے کی تیاریاں کر رہا ہے۔ *[ARY](https://arynews.tv/iran-prepares-for-ayatollah-ali-khameneis-funeral)*
+
+### موسم
+- امریکہ کے وسطی اور مشرقی شہروں میں شدید گرمی کی لہر کا سامنا ہے جس سے کروڑوں لوگ متاثر ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2011990/tens-of-millions-swelter-as-heat-wave-blasts-us)*
 
 ### کھیل
-- فیفا ورلڈ کپ کے کوارٹر فائنل میں برازیل کی کامیابی پر کراچی کے علاقے لیاری میں فٹ بال کا جنون عروج پر ہے۔ *[Dawn](https://www.dawn.com/news/2011964/in-pictures-football-frenzy-at-fever-pitch-in-lyari-as-brazil-advances-to-the-world-cup-quarterfinals)*
+- ارلنگ ہالینڈ کے بہترین کھیل کی بدولت ناروے ورلڈ کپ کے آخری 16 میں پہنچ کر برازیل کے خلاف مقابلہ کرے گی۔ *[Dawn](https://www.dawn.com/news/2011993/haaland-scores-winner-to-send-norway-into-last-16-brazil-clash)*
+- بارش کے باعث میکسیکو اور ایکواڈور کے درمیان ورلڈ کپ کا میچ تاخیر کا شکار ہو گیا۔ *[ARY](https://arynews.tv/mexico-v-ecuador-world-cup-last-32)*
+- ٹوخیل نے انگلینڈ کے ورلڈ کپ کے حوالے سے بلند توقعات کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/tuchel-refuses-to-dampen-england-world-cup-expectations)*
+- کوچ کومن ورلڈ کپ سے باہر ہونے کے بعد نیدرلینڈز کے کوچ کے عہدے سے مستعفی ہو گئے۔ *[ARY](https://arynews.tv/koeman-steps-down-as-netherlands-coach-after-world-cup-exit)*
+- فرانس نے سویڈن کو شکست دے کر ورلڈ کپ کے آخری 16 میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/france-beat-sweden-to-move-into-world-cup-last-16)*
+- سرینا ولیمز کو ویمبلڈن کے اپنے پہلے سنگلز میچ میں شکست کا سامنا کرنا پڑا۔ *[ARY](https://arynews.tv/serena-beaten-at-wimbledon-in-first-singles-match-in-four-years)*
 
 ### دیگر
-- اداکارہ سمانتھا رتھ پرابھو کا حالیہ بیان سوشل میڈیا پر وائرل ہو رہا ہے۔ *[ARY](https://arynews.tv/samantha-ruth-prabhus-latest-statement-goes-viral)*
-- شہزادی میگن مارکل نے برطانیہ میں سیکیورٹی کے حوالے سے جاری تنازع پر خاموشی توڑ دی۔ *[ARY](https://arynews.tv/meghan-markle-finally-speaks-out-about-uk-security-row-with-prince-harry)*
-- فلم 'اسکیری مووی' نے دنیا بھر میں 1 بلین ڈالر سے زائد کی کمائی کر لی ہے۔ *[ARY](https://arynews.tv/scary-movie-crosses-1-billion-worldwide-wayans-brothers-tease-sequel-plans)*
+- ٹیلر فرانکی پال کے قانونی مسائل جاری ہیں کیونکہ ان کے سابق شوہر نے حکم امتناع کے لیے درخواست دی ہے۔ *[ARY](https://arynews.tv/taylor-frankie-pauls-ex-husband-files-for-restraining-order)*
+- این ہیتھ وے نے اپنے نئے دورے کا آغاز ایک منفرد انداز میں کیا۔ *[ARY](https://arynews.tv/anne-hathaway-kicks-off-the-odyssey-tour)*
+- ٹیموتھی چلامیٹ اور سیلینا گومز کی نئی فلم کا ٹریلر جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/timothee-chalamet-selena-gomez-share-love-story-in-not-alone-trailer)*
 
