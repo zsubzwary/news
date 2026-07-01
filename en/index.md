@@ -4,39 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 30-Jun-2026 21:03PKT
+Published at: 01-Jul-2026 09:04PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- Regional instability in the **Gulf** continues to negatively impact Pakistan’s domestic bond and equity markets, as well as foreign direct investment. *[Dawn](https://www.dawn.com/news/2011767/gulf-turmoil-hurting-pakistans-economic-outlook)*
+- New government loans are set to become **Shariah-compliant** starting January 1, 2028, as part of a strategy for a Riba-free financial system. *[Dawn](https://www.dawn.com/news/2012065/new-govt-loans-to-be-shariah-compliant-from-2028)*
+- Karachi residents face potential **price hikes for water tankers** as the KWSC reviews charges due to rising fuel costs. *[Dawn](https://www.dawn.com/news/2012051/karachiites-in-for-price-shock-as-kwsc-set-to-hike-bowser-charges)*
+- The government expects **inflationary pressures to ease** in the new fiscal year following the reopening of the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2011978/govt-expects-easing-inflationary-pressure-in-new-fiscal-year-following-reopening-of-strait-of-hormuz)*
+- **Oil prices have ticked higher** due to dimming ceasefire hopes following Iran's refusal to meet US envoys. *[ARY](https://arynews.tv/oil-ticks-higher-after-irans-refusal-to-meet-us-envoys)*
 
-### Science & Technology
-- **NASA** is planning a robotic rescue mission to attempt to save the aging **Swift space telescope** from burning up in the atmosphere. *[Dawn](https://www.dawn.com/news/2011969/nasa-plans-robotic-mission-to-save-ageing-space-telescope)*
-- A data leak from Indian supplier **Tata Electronics** has exposed sensitive component lists, supplier details, and photos of upcoming **Apple iPhone 18 Pro** models. *[Dawn](https://www.dawn.com/news/2011837/apple-iphone-18-pro-supplier-list-parts-and-photos-exposed-in-indian-suppliers-data-leak)*
-- The **United States** accounted for approximately one-third of the rise in global carbon emissions in 2025, driven by an increase in coal consumption. *[Dawn](https://www.dawn.com/news/2011852/us-leads-global-co2-emissions-increase-in-2025-report-finds)*
-- The Ministry of Information Technology and Telecommunication has released a **draft Data Governance Policy 2026** to manage government data as a strategic national asset. *[Dawn](https://www.dawn.com/news/2011804/it-ministry-unveils-draft-data-governance-policy)*
+### Weather
+- **Tens of millions of Americans** are experiencing extreme heat waves, with temperatures expected to exceed 38 degrees Celsius. *[Dawn](https://www.dawn.com/news/2011990/tens-of-millions-swelter-as-heat-wave-blasts-us)*
 
 ### Politics
-- The **Islamabad High Court (IHC)** has reserved its verdict regarding petitions challenging the alleged solitary confinement of Imran Khan and Bushra Bibi. *[Dawn](https://www.dawn.com/news/2011965/ihc-reserves-verdict-on-maintainability-of-petitions-against-imran-bushras-alleged-solitary-confinement)*
-- Information Minister Attaullah Tarar criticized the use of the term **"militants"** to describe terrorists, specifically regarding a recent attack in Karachi. *[Dawn](https://www.dawn.com/news/2011827/terrorists-must-not-be-called-by-any-other-name-says-info-minister)*
-- The **Election Commission of Pakistan (ECP)** has reserved its verdict on the case regarding the suspension of the Senate by-election schedule for Murad Saeed’s seat. *[Dawn](https://www.dawn.com/news/2011875/ecp-reserves-verdict-on-suspension-of-senate-by-poll-schedule-for-murad-saeeds-seat)*
-- Senate Opposition Leader Allama Raja Nasir Abbas filed a **privilege motion** against the SHO of Bhara Kahu over "discourteous" conduct. *[Dawn](https://www.dawn.com/news/2011841/senate-opposition-leader-files-privilege-motion-against-bhara-kahu-sho-over-discourteous-conduct)*
+- The Punjab Assembly Speaker has directed the **reconsideration and redrafting** of the Punjab Control of Habitual Offenders and Anti-Social Behaviour Bill 2026. *[Dawn](https://www.dawn.com/news/2012019/pa-to-return-controversial-bill-to-govt-for-changes)*
+- Prime Minister Shehbaz Sharif emphasized that **balancing population with available resources** is critical for national progress. *[Dawn](https://www.dawn.com/news/2012079/balance-between-population-and-resources-must-for-progress-pm-shehbaz)*
+- The **PPP and JUI-F** have announced they will jointly contest the upcoming general elections in Azad Jammu and Kashmir (AJK). *[Dawn](https://www.dawn.com/news/2011985/ppp-jui-f-announce-they-will-jointly-contest-upcoming-ajk-elections)*
 
 ### National
-- At least **14 children died** and several others were injured following the collapse of a private tuition center roof in Lahore. *[Dawn](https://www.dawn.com/news/2011968/14-children-dead-in-lahore-tuition-centre-roof-collapse-police)*
-- An FIR has been registered against **14 prisoners** who escaped from a police van bound for Adiala jail after using red chilli powder against officers. *[Dawn](https://www.dawn.com/news/2011866/case-registered-against-14-prisoners-who-escaped-from-prison-van-bound-for-rawalpindis-adiala-jail)*
-- The **Supreme Court** ruled that gold ornaments gifted to a bride are her absolute property and cannot be legally claimed by her husband or in-laws. *[Dawn](https://www.dawn.com/news/2011800/hands-off-bride-jewellery-wedding-gifts-supreme-court-says)*
+- Pakistan's security forces **neutralized four drones** launched from Afghanistan into Balochistan. *[Dawn](https://www.dawn.com/news/2012077/4-drones-from-afghanistan-downed-ispr)*
+- Confusion remains over the **reported arrest of JAAC leader** Shaukat Nawaz Mir in Muzaffarabad. *[Dawn](https://www.dawn.com/news/2012066/official-silence-fuels-confusion-on-arrest-of-jaac-leader-shaukat-nawaz-mir)*
+- A Senate panel has sought action regarding **inflated airfares on the Quetta route** and poor facilities at Karachi’s airport. *[Dawn](https://www.dawn.com/news/2012080/senate-panel-seeks-action-on-high-quetta-air-fares)*
+- The **Supreme Court** has been approached to overturn an acquittal in a domestic violence case. *[Dawn](https://www.dawn.com/news/2011996/petitioner-approaches-sc-to-overturn-ihcs-acquittal-of-accused-in-domestic-violence-case)*
+- **Fourteen children died** after the roof of a private tuition center collapsed in Lahore. *[Dawn](https://www.dawn.com/news/2011968/14-children-dead-in-lahore-tuition-centre-roof-collapse-police)*
+- Social media reports of floods and landslides are causing **tourist skepticism** regarding travel to Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2012075/whats-really-happening-on-the-road-to-gilgit-baltistan)*
+- A case has been registered against **14 prisoners who escaped** from a police van in Rawalpindi. *[Dawn](https://www.dawn.com/news/2011866/case-registered-against-14-prisoners-who-escaped-from-prison-van-bound-for-rawalpindis-adiala-jail)*
 
 ### International
-- The Pakistan Commissioner for Indus Waters reported that India has failed to respond to four communications regarding **Chenab River fluctuations** since last April. *[Dawn](https://www.dawn.com/news/2011838/indus-commissioner-says-he-wrote-to-indian-counterpart-4-times-over-chenab-fluctuations-but-no-reply-so-far)*
-- Protests by India's **Cockroach Janta Party** continue in Delhi, seeking the resignation of the education minister amidst potential cabinet reshuffles. *[Dawn](https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle)*
-- **Pakistan** has officially become a permanent member of the International Olive Council (IOC). *[Dawn](https://www.dawn.com/news/2011967/pakistan-becomes-permanent-member-of-international-olive-council)*
-- Rescuers are conducting a final push to find survivors following massive **earthquakes in Venezuela** that have killed over 1,700 people. *[Dawn](https://www.dawn.com/news/2011865/venezuela-rescuers-in-final-push-to-find-survivors-as-families-mourn)*
-- A new poll indicates that most **Americans** still support foreign development aid despite the previous shutdown of USAID. *[Dawn](https://www.dawn.com/news/2011844/a-year-after-usaid-shutdown-americans-still-back-foreign-development-aid-poll-shows)*
-- US envoys and Qatari mediators are meeting in **Doha** to discuss negotiations with Iran following a recent memorandum of understanding to halt the Middle East war. *[Dawn](https://www.dawn.com/news/2011970/talks-in-qatar-after-us-iran-deal-what-we-know)*
-- JKLF chief **Mohammad Yasin Malik** has been implicated in a 35-year-old murder case in Srinagar, India. *[Dawn](https://www.dawn.com/news/2011769/jklf-chief-mohammad-yasin-malik-implicated-in-35-year-old-murder-case)*
+- Civil society representatives from **Pakistan and India** have called for renewed dialogue to restore peace in South Asia. *[Dawn](https://www.dawn.com/news/2012083/south-asian-leaders-urged-to-choose-talks-over-hostility)*
+- The **US Supreme Court rejected** President Trump’s bid to restrict birthright citizenship. *[Dawn](https://www.dawn.com/news/2012111/supreme-court-spurns-trump-on-birthright-citizenship)*
+- The Indus commissioner reported **no response from India** regarding fluctuations in the Chenab River. *[Dawn](https://www.dawn.com/news/2011838/indus-commissioner-says-he-wrote-to-indian-counterpart-4-times-over-chenab-fluctuations-but-no-reply-so-far)*
+- **Pakistan has become a permanent member** of the International Olive Council. *[Dawn](https://www.dawn.com/news/2011967/pakistan-becomes-permanent-member-of-international-olive-council)*
+- Protests by **India's Cockroach Janta Party** continue in demand of the education minister's resignation. *[Dawn](https://www.dawn.com/news/2011878/indias-cockroach-party-seeking-education-ministers-ouster-awaits-cabinet-reshuffle)*
+- **Iran is preparing** for the funeral of Ayatollah Ali Khamenei. *[ARY](https://arynews.tv/iran-prepares-for-ayatollah-ali-khameneis-funeral)*
 
 ### Sports
-- Football fans in Karachi's **Lyari** neighborhood celebrated as **Brazil** advanced to the FIFA World Cup quarterfinals after defeating Japan. *[Dawn](https://www.dawn.com/news/2011964/in-pictures-football-frenzy-at-fever-pitch-in-lyari-as-brazil-advances-to-the-world-cup-quarterfinals)*
+- **Erling Haaland scored a late winner** to send Norway into a World Cup last-16 clash against Brazil. *[Dawn](https://www.dawn.com/news/2011993/haaland-scores-winner-to-send-norway-into-last-16-brazil-clash)*
+- A **World Cup match between Mexico and Ecuador** was delayed due to rain. *[ARY](https://arynews.tv/mexico-v-ecuador-world-cup-last-32)*
+- **Thomas Tuchel** expressed high expectations for England's World Cup performance. *[ARY](https://arynews.tv/tuchel-refuses-to-dampen-england-world-cup-expectations)*
+- **Koeman has stepped down** as the Netherlands coach following their World Cup exit. *[ARY](https://arynews.tv/koeman-steps-down-as-netherlands-coach-after-world-cup-exit)*
+- **France defeated Sweden** to secure a spot in the World Cup last-16. *[ARY](https://arynews.tv/france-beat-sweden-to-move-into-world-cup-last-16)*
+- **Serena Williams** competed in her first Wimbledon singles match in four years. *[ARY](https://arynews.tv/serena-beaten-at-wimbledon-in-first-singles-match-in-four-years)*
+
+### Other
+- **Taylor Frankie Paul** faces ongoing legal troubles as her ex-husband files for a restraining order. *[ARY](https://arynews.tv/taylor-frankie-pauls-ex-husband-files-for-restraining-order)*
+- **Anne Hathaway** has kicked off her ‘The Odyssey’ tour. *[ARY](https://arynews.tv/anne-hathaway-kicks-off-the-odyssey-tour)*
+- A new trailer for **'Not Alone'** featuring Timothée Chalamet and Selena Gomez has been released. *[ARY](https://arynews.tv/timothee-chalamet-selena-gomez-share-love-story-in-not-alone-trailer)*
 
