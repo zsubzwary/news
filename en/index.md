@@ -4,53 +4,54 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 01-Jul-2026 21:05PKT
+Published at: 03-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The World Bank reported that Pakistan has made **meaningful progress in fiscal federalism** since 2010, though deviations from international norms remain. *[Dawn](https://www.dawn.com/news/2012199/pakistan-made-meaningful-progress-in-fiscal-federalism-but-deviations-remain-wb)*
-- The Pakistan Stock Exchange (PSX) KSE-100 index gained over **3,700 points** on the first day of the new fiscal year. *[Dawn](https://www.dawn.com/news/2012187/psx-kicks-off-fy27-with-positive-momentum-gaining-3700-points)*
-- Pakistan's **consumer inflation rate eased slightly to 11.1%** in June, driven by lower energy and essential food prices. *[Dawn](https://www.dawn.com/news/2012196/consumer-inflation-rate-eases-slightly-to-111pc-in-june-due-to-lower-energy-food-prices-pbs)*
-- The World Bank approved a **$70 million loan** for the Connected Punjab Programme to enhance digital infrastructure and broadband access. *[Dawn](https://www.dawn.com/news/2012188/world-bank-approves-70m-loan-for-connected-punjab-programme-aimed-improving-digital-infrastructure)*
-- There are concerns that new **auto policies may make hybrid cars more expensive** in Pakistan. *[ARY](https://arynews.tv/auto-policy-to-make-hybrid-cars-expensive-in-pakistan)*
+- Pakistan's unified agriculture income tax regime shows a significant gap between policy goals and actual revenue collection. *[Dawn](https://www.dawn.com/news/2012584/analysis-agriculture-tax-reform-stalls-at-the-farm-gate)*
+- The government has approved the supply of 175,000 tonnes of fresh indigenous wheat to the Pakistan Army. *[Dawn](https://www.dawn.com/news/2012610/army-to-get-local-wheat)*
+- The State Bank of Pakistan has abolished remittance incentives for banks under the Sohni Dharti Remittance Programme (SDRP) following IMF considerations. *[Dawn](https://www.dawn.com/news/2012606/remittance-incentives-to-banks-abolished-as-imf-steps-in)*
+- Bitget Wallet has launched a new crypto card in the South Asian market. *[ARY](https://arynews.tv/bitget-wallet-launches-crypto-card-in-south-asia)*
 
 ### Science & Technology
-- Sony announced that **PlayStation will phase out physical disc production** for consoles starting in January 2028. *[Dawn](https://www.dawn.com/news/2012204/playstation-to-phase-out-physical-disc-production-for-consoles-from-january-2028)*
-- A UN report highlights that while **AI offers enormous potential benefits**, it also poses significant global risks. *[Dawn](https://www.dawn.com/news/2012170/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai)*
+- India is investigating a data breach at Tata Electronics that exposed sensitive documents related to unreleased Apple iPhone 18 Pro models. *[Dawn](https://www.dawn.com/news/2012695/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets)*
+- The Pakistan Telecommunication Authority (PTA) reported that internet services have returned to normal following the resolution of a submarine cable fault. *[Dawn](https://www.dawn.com/news/2012653/pta-says-submarine-cable-fault-resolved-internet-services-back-to-normal)*
+- Tesla has begun rolling out its robotaxi service in Miami. *[ARY](https://arynews.tv/tesla-rolls-out-robotaxi-service-in-miami)*
 
 ### Weather
-- Lahore’s Allama Iqbal International Airport will implement **3-hour daily runway closures** from July 5 to September 15 due to increased bird activity during the monsoon season. *[Dawn](https://www.dawn.com/news/2012158/lahore-airport-runways-to-be-closed-for-3-hours-daily-from-july-5-sept-15-due-to-risk-of-increased-bird-activity)*
+- The United Nations warns that El Niño is set to develop into a strong event between July and September, increasing the risk of extreme weather worldwide. *[Dawn](https://www.dawn.com/news/2012656/el-nino-to-develop-into-strong-event-between-july-and-september-un-warns)*
 
 ### Politics
-- The Election Commission of Pakistan (ECP) has summoned Islamabad's chief commissioner regarding **delays in local government polls** attributed to federal non-assistance. *[Dawn](https://www.dawn.com/news/2012205/ecp-notes-centres-non-assistance-among-reasons-for-delay-in-islamabad-lg-polls-summons-chief-commissioner)*
+- A Senate Standing Committee has called for an investigation into alleged corruption and irregularities in foreign-funded power sector projects. *[Dawn](https://www.dawn.com/news/2012588/senate-panel-calls-for-probe-into-foreign-funded-power-projects)*
+- A court has ordered re-polling for the GBA-17 seat in the 2026 Gilgit-Baltistan elections. *[ARY](https://arynews.tv/gb-elections-2026-court-orders-re-polling-in-gba-17)*
 
 ### National
-- Pakistan witnessed a **decline in overall anti-state violence** during June, despite several high-profile attacks. *[Dawn](https://www.dawn.com/news/2012198/high-profile-attacks-persist-in-june-despite-overall-decline-in-terrorism-picss)*
-- Police have booked a contractor and tuition centre owners in Lahore following a **roof collapse that claimed 14 lives**. *[Dawn](https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives)*
-- The NCCIA is establishing a **special cell in Punjab** to ensure swift investigation into cybercrime cases involving women and children. *[Dawn](https://www.dawn.com/news/2012168/nccia-to-set-up-special-cell-in-punjab-for-swift-probe-into-cases-involving-women-children)*
-- One person was killed and six others injured in a **suspected drone strike** on the outskirts of Peshawar. *[Dawn](https://www.dawn.com/news/2012136/1-killed-6-others-injured-in-suspected-drone-strike-in-peshawar-ouskirts)*
-- A heavy traffic accident involving a **dumper and a truck in Karachi** resulted in two deaths. *[ARY](https://arynews.tv/heavy-traffic-menace-dumper-and-truck-crash-claim-2-lives-in-karachi)*
-- Five people died after a **tourist boat capsized** on Saifullah Lake in Swat. *[ARY](https://arynews.tv/five-dead-as-tourist-boat-capsizes-on-saifullah-lake-in-swat)*
-- A **fire broke out** at Karachi’s Cooperative Market. *[ARY](https://arynews.tv/cooperative-market-fire-july-1-2026)*
-- The **NIPA Hydrant has been sealed** again following orders from the Chief Minister. *[ARY](https://arynews.tv/nipa-hydrant-sealed-again-following-chief-ministers-orders)*
-- A three-year-old boy faces a long recovery after being **thrown into a crocodile pit**. *[ARY](https://arynews.tv/boy-3-thrown-into-crocodile-pit-faces-long-road-to-recovery-after-family-issue-update)*
-- PESCO reports that relatives of a KP MPA are allegedly **forcing high-loss feeders** at Bannu grid stations. *[ARY](https://arynews.tv/bannu-grid-operations-under-allegations-of-force)*
+- Forty people were killed and eight injured when a passenger bus fell into a ravine near the Balochistan-KP border. *[Dawn](https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border)*
+- The FIA has arrested five individuals in Islamabad for their alleged involvement in a syndicate smuggling human placenta to produce anti-ageing injections. *[Dawn](https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report)*
+- The Islamabad High Court has suspended a National Highway Authority notification that imposed a 50% additional toll on vehicles without M-Tags. *[Dawn](https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag)*
+- Lahore police have obtained physical remand of four suspects arrested for the alleged abduction and sexual assault of two foreign women. *[Dawn](https://www.dawn.com/news/2012674/lahore-police-get-custody-of-4-suspects-arrested-for-alleged-abduction-sexual-assault-of-two-foreign-women)*
+- Punjab Chief Minister Maryam Nawaz has urged parents to prioritize child safety following recent tragic incidents in Sargodha and Lahore. *[Dawn](https://www.dawn.com/news/2012678/maryam-tells-parents-to-ensure-childrens-safety-avoid-leaving-them-unattended)*
+- Two police officers were martyred during a terrorist attack by Fitna al Khawarij on a patrol in the Mohmand district of KP. *[Dawn](https://www.dawn.com/news/2012651/2-cops-martyred-as-police-patrol-comes-under-attack-in-kps-mohmand)*
+- An eyewitness in Zhob claims a driver intentionally caused a vehicle to plunge into a ravine during a recent accident. *[ARY](https://arynews.tv/zhob-accident-eyewitness-claims-angry-driver-intentionally-plunged-vehicle-into-ravine)*
 
 ### International
-- President Trump stated that the **US is "getting along well" with Iran** as indirect talks begin in Qatar. *[Dawn](https://www.dawn.com/news/2012207/trump-says-us-getting-along-well-with-iran-as-both-countries-hold-indirect-talks-in-qatar)*
-- President Trump completed his **first flight on the new Air Force One**, a luxury jet gifted by Qatar. *[Dawn](https://www.dawn.com/news/2012219/excited-trump-takes-first-flight-on-qatar-gifted-air-force-one)*
-- The US and Israel have signed an agreement to build a **permanent American embassy in Jerusalem**. *[Dawn](https://www.dawn.com/news/2012209/us-israel-sign-agreement-to-build-permanent-american-embassy-in-jerusalem)*
-- Pakistan has **rejected India's statement** regarding strikes against terrorist infrastructure along the Afghan border. *[Dawn](https://www.dawn.com/news/2012159/pakistan-rejects-indias-preposterous-statement-on-strikes-against-terrorist-infrastructure-along-afghan-border)*
-- The Indian opposition has demanded the **resignation of the Defence Minister** over allegations of lying about soldier deaths during a 2025 conflict. *[Dawn](https://www.dawn.com/news/2012157/indian-opposition-demands-defence-ministers-resignation-for-lying-about-soldiers-deaths-in-2025-conflict-with-pakistan)*
-- Pakistan is calling for the **release and repatriation of 97 prisoners** who have completed their sentences in Indian jails. *[Dawn](https://www.dawn.com/news/2012186/pakistan-calls-for-release-repatriation-of-97-prisoners-who-have-completed-sentences-in-indian-jails)*
-- Ukrainian drone teams are conducting **highly secretive long-range strikes** against Russian military targets. *[Dawn](https://www.dawn.com/news/2012216/the-secret-lives-of-ukraines-deep-strike-drone-team)*
-- President Trump has opted to **prioritize diplomatic negotiations** with Iran despite being briefed on military options. *[Dawn](https://www.dawn.com/news/2012148/trump-briefed-on-military-options-against-iran-but-sticks-to-diplomatic-negotiations-for-now-report)*
+- Prime Minister Shehbaz Sharif and CDF Asim Munir paid their respects to the assassinated Iranian supreme leader, Ayatollah Ali Khamenei. *[Dawn](https://www.dawn.com/news/2012668/pm-shehbaz-cdf-munir-pay-respects-to-irans-assassinated-supreme-leader-khamenei)*
+- India has approved the purchase of $5.46 billion worth of military equipment, including missiles and drones. *[Dawn](https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment)*
+- The United States has reiterated its support for Pakistan's right to defend itself against terrorist attacks. *[Dawn](https://www.dawn.com/news/2012657/us-backs-pakistans-right-to-self-defence-after-un-votes-on-global-counterterrorism-strategy)*
+- Reports mark 1,000 days of devastation in Gaza, noting that over 90% of the enclave has been destroyed. *[Dawn](https://www.dawn.com/news/2012709/1000-days-of-genocide-a-tally-of-devastation-in-gaza)*
+- Israeli settlers have reportedly seized a Palestinian family's under-construction home in the West Bank. *[Dawn](https://www.dawn.com/news/2012689/in-the-west-bank-israeli-settlers-take-over-palestinians-under-construction-dream-home)*
+- The SFJ commended Pakistan's efforts in repairing a historic gurdwara while criticizing India's record on Sikh heritage. *[ARY](https://arynews.tv/sfj-commends-pakistan-for-ordering-repairs-to-125-year-old-gurdwara-criticizes-indias-sikh-heritage-record)*
 
 ### Sports
-- Haider CC has clinched the **Pakistan domestic Red Ball Championship** title. *[ARY](https://arynews.tv/ali-imran-zaidi-pakistan-domestic-red-ball-championship-title)*
+- An analysis of Mohamed Salah's career highlights his role in leading Egypt to the FIFA World Cup knockout stage for the first time. *[Dawn](https://www.dawn.com/news/2012705/the-king-without-a-crown-mohamed-salahs-quest-for-global-recognition)*
+
+### Health
+- Prime Minister Shehbaz Sharif has ordered a ban on the production and use of substandard syringes to curb the spread of infectious diseases like HIV and Hepatitis C. *[Dawn](https://www.dawn.com/news/2012694/pm-orders-ban-on-production-use-of-substandard-syringes-to-curb-spread-of-infectious-diseases)*
 
 ### Other
-- Actress **Anna Dawson**, known for her role in *Keeping Up Appearances*, has passed away at age 88. *[ARY](https://arynews.tv/anna-dawson-keeping-up-appearances-star-who-played-violet-dies-aged-88)*
-- Asim Azhar has **restored Hania Aamir's Instagram posts**. *[ARY](https://arynews.tv/asim-azhar-restores-hania-aamir-instagram-posts)*
+- Prince William made a debut appearance on the 'New Heights' podcast hosted by Travis and Jason Kelce. *[ARY](https://arynews.tv/prince-william-makes-debut-on-travis-jason-kelces-podcast)*
+- Dubai police have issued a warning regarding the burn risks associated with a viral "microwave slime" trend. *[ARY](https://arynews.tv/dubai-police-warn-of-burn-risks-from-viral-microwave-slime-trend)*
+- A review of the film *Alpha* suggests that while the movie has muscle, it lacks "soul." *[ARY](https://arynews.tv/alpha-review-alia-bhatt-and-sharvari-bring-the-muscle-but-yrf-forgets-to-bring-a-soul)*
+- An FIR has been filed against the ex-husband of Anmol Pinky in Lahore. *[ARY](https://arynews.tv/anmol-pinky-ex-husband-faces-fir-in-lahore)*
 
