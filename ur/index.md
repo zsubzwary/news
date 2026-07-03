@@ -7,53 +7,55 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-Jul-2026 21:11PKT 
+ &lrm; 03-Jul-2026 21:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان اسٹاک ایکسچینج کے انڈیکس میں 3,700 سے زائد پوائنٹس کا اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2012187/psx-kicks-off-fy27-with-positive-momentum-gaining-3700-points)*
-- توانائی اور خوراک کی قیمتوں میں کمی کی وجہ سے جون میں مہنگائی کی شرح 11.1 فیصد رہی۔ *[Dawn](https://www.dawn.com/news/2012196/consumer-inflation-rate-eases-slightly-to-111pc-in-june-due-to-lower-energy-food-prices-pbs)*
-- ورلڈ بینک کے مطابق پاکستان نے مالیاتی وفاق میں اہم پیش رفت کی ہے تاہم کچھ خامیاں ابھی باقی ہیں۔ *[Dawn](https://www.dawn.com/news/2012199/pakistan-made-meaningful-progress-in-fiscal-federalism-but-deviations-remain-wb)*
-- ورلڈ بینک نے پنجاب میں ڈیجیٹل انفراسٹرکچر کی بہتری کے لیے 70 ملین ڈالر کے قرض کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2012188/world-bank-approves-70m-loan-for-connected-punjab-programme-aimed-at-improving-digital-infrastructure)*
-- نئی آٹو پالیسی کے باعث پاکستان میں ہائبرڈ کاریں مہنگی ہو سکتی ہیں۔ *[ARY](https://arynews.tv/auto-policy-to-make-hybrid-cars-expensive-in-pakistan)*
+- اسلام آباد ہائی کورٹ نے ایم ٹیگ نہ ہونے پر گاڑیوں پر 50 فیصد اضافی ٹول ٹیکس لگانے کے حکومتی نوٹیفیکیشن کی معطلی کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag)*
+- پاکستان میں زرعی ٹیکس اصلاحات کے پہلے سال میں حکومتی پالیسی اور ٹیکس وصولی کے درمیان بڑا فرق سامنے آیا ہے۔ *[Dawn](https://www.dawn.com/news/2012584/analysis-agriculture-tax-reform-stalls-at-the-farm-gate)*
+- اقتصادی رابطہ کمیٹی نے پاک فوج کی فراہمی کے لیے 175,000 ٹن مقامی گندم کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2012610/army-to-get-local-wheat)*
+- اسٹیٹ بینک نے آئی ایم ایف کے مشورے پر بینکوں کو ترسیلات زر بڑھانے کے لیے دی جانے والی مراعات ختم کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2012606/remittance-incentives-to-banks-abolished-as-imf-steps-in)*
 
 ### سائنس اور ٹیکنالوجی
-- سونی نے اعلان کیا ہے کہ جنوری 2028 سے پلے اسٹیشن کے لیے فزیکل ڈسک کی تیاری بند کر دی جائے گی۔ *[Dawn](https://www.dawn.com/news/2012204/playstation-to-phase-out-physical-disc-production-for-consoles-from-january-2028)*
-- اقوام متحدہ کی رپورٹ کے مطابق مصنوعی ذہانت (AI) کے بے پناہ فوائد اور بڑے خطرات دونوں موجود ہیں۔ *[Dawn](https://www.dawn.com/news/2012170/un-report-sees-enormous-potential-benefits-and-big-risks-from-ai)*
-
-### سیاست
-- الیکشن کمیشن نے اسلام آباد میں مقامی حکومتوں کے انتخابات میں تاخیر پر وفاقی حکومت کی عدم تعاون پر نوٹس لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012205/ecp-notes-centres-non-assistance-among-reasons-for-delay-in-islamabad-lg-polls-summons-chief-commissioner)*
-
-### قومی خبریں
-- پاکستان میں جون کے دوران دہشت گردی کے واقعات میں مجموعی کمی دیکھی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2012198/high-profile-attacks-persist-in-june-despite-overall-decline-in-terrorism-picss)*
-- لاہور میں ایک ٹیوشن سینٹر کی چھت گرنے سے 14 بچوں کی ہلاکت، پولیس نے ٹھیکیدار اور مالکان کے خلاف مقدمہ درج کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012147/lahore-police-book-tuition-centre-owners-contractor-after-roof-collapse-claims-14-lives)*
-- این سی سی آئی اے پنجاب میں خواتین اور بچوں سے متعلق سائبر کرائم کی فوری تحقیقات کے لیے خصوصی سیل قائم کرے گا۔ *[Dawn](https://www.dawn.com/news/2012168/nccia-to-set-up-special-cell-in-punjab-for-swift-probe-into-cases-involving-women-children)*
-- پشاور کے مضافات میں ڈرون حملے میں ایک خاتون سمیت ایک شخص ہلاک اور چھ دیگر زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2012136/1-killed-6-others-injured-in-suspected-drone-strike-in-peshawar-ouskirts)*
-- کراچی میں ڈمپٹر اور ٹرک کے تصادم سے 2 افراد جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/heavy-traffic-menace-dumper-and-truck-crash-claim-2-lives-in-karachi)*
-- سوات میں سائف اللہ جھیل پر سیاحتی کشتی الٹنے سے 5 افراد ہلاک ہو گئے۔ *[ARY](https://arynews.tv/five-dead-as-tourist-boat-capsizes-on-saifullah-lake-in-swat)*
-- کراچی کے کوآپریٹو مارکیٹ میں آگ لگ گئی۔ *[ARY](https://arynews.tv/cooperative-market-fire-july-1-2026)*
-- وزیر اعلیٰ کے احکامات پر نپا ہائیڈرنٹ دوبارہ سیل کر دیا گیا۔ *[ARY](https://arynews.tv/nipa-hydrant-sealed-again-following-chief-ministers-orders)*
-- کے پی کے بنوں میں بجلی کے گرڈ اسٹیشنوں پر بجلی کے لوڈ کے حوالے سے الزامات لگ رہے ہیں۔ *[ARY](https://arynews.tv/bannu-grid-operations-under-allegations-of-force)*
-
-### بین الاقوامی خبریں
-- صدر ٹرمپ نے کہا ہے کہ امریکہ اور ایران کے درمیان تعلقات بہتر ہو رہے ہیں اور قطر میں بالواسطہ مذاکرات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2012207/trump-says-us-getting-along-well-with-iran-as-both-countries-hold-indirect-talks-in-qatar)*
-- صدر ٹرمپ نے قطر کے تحفے میں ملنے والے نئے ایئر فورس ون طیارے میں اپنی پہلی پرواز کا تجربہ کیا۔ *[Dawn](https://www.dawn.com/news/2012219/excited-trump-takes-first-flight-on-qatar-gifted-air-force-one)*
-- امریکہ اور اسرائیل نے یروشلم میں مستقل امریکی سفارت خانے کی تعمیر کے معاہدے پر دستخط کیے۔ *[Dawn](https://www.dawn.com/news/2012209/us-israel-sign-agreement-to-build-permanent-american-embassy-in-jerusalem)*
-- پاکستان نے افغان سرحد پر دہشت گردوں کے ٹھکانوں پر حملوں کے حوالے سے بھارت کے بیانات کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2012159/pakistan-rejects-indias-preposterous-statement-on-strikes-against-terrorist-infrastructure-along-afghan-border)*
-- پاکستان نے بھارت میں قید 97 پاکستانی قیدیوں کی رہائی اور وطن واپسی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012186/pakistan-calls-for-release-repatriation-of-97-prisoners-who-have-completed-sentences-in-indian-jails)*
-- یوکرینی فوجی روس کے فوجی مقامات اور آئل ریفائنریوں پر ڈرون حملوں کے لیے خفیہ طریقے سے کام کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2012216/the-secret-lives-of-ukraines-deep-strike-drone-team)*
-- صدر ٹرمپ کو ایران کے خلاف فوجی آپشنز سے آگاہ کیا گیا ہے لیکن وہ فی الحال سفارت کاری کو ترجیح دے رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2012148/trump-briefed-on-military-options-against-iran-but-sticks-to-diplomatic-negotiations-for-now-report)*
-- بھارتی اپوزیشن نے دفاعی وزیر سے 2025 کے تنازع کے دوران جھوٹ بولنے پر استعفیٰ کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012157/indian-opposition-demands-defence-ministers-resignation-for-lying-about-soldiers-deaths-in-2025-conflict-with-pakistan)*
+- بھارت ٹاٹا الیکٹرانکس میں ہونے والے ڈیٹا لیک کی تحقیقات کر رہا ہے جس سے ایپل آئی فون کے خفیہ دستاویزات منظر عام پر آ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2012695/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets)*
+- پی ٹی اے کے مطابق سمندری کیبل کا مسئلہ حل ہو گیا ہے اور ملک میں انٹرنیٹ سروسز معمول پر آگئی ہیں۔ *[Dawn](https://www.dawn.com/news/2012653/pta-says-submarine-cable-fault-resolved-internet-services-back-to-normal)*
+- ٹیسلا نے میامی میں اپنی روبوٹیکسی (خودکار ٹیکسی) سروس کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/tesla-rolls-out-robotaxi-service-in-miami)*
+- بٹ گیٹ والٹ نے جنوبی ایشیا میں اپنا کرپٹو کارڈ لانچ کر دیا ہے۔ *[ARY](https://arynews.tv/bitget-wallet-launches-crypto-card-in-south-asia)*
 
 ### موسم
-- مون سون کے دوران پرندوں کی بڑھتی ہوئی سرگرمیوں کے پیش نظر لاہور ایئرپورٹ کے رن ویز روزانہ 3 گھنٹے کے لیے بند رہیں گے۔ *[Dawn](https://www.dawn.com/news/2012158/lahore-airport-runways-to-be-closed-for-3-hours-daily-from-july-5-sept-15-due-to-risk-of-increased-bird-activity)*
+- اقوام متحدہ کے موسمیاتی ادارے نے خبردار کیا ہے کہ جولائی سے ستمبر کے درمیان ایل نینو ایک طاقتور ایونٹ بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2012656/el-nino-to-develop-into-strong-event-between-july-and-september-un-warns)*
+
+### سیاست
+- سینیٹ کی قائمہ کمیٹی نے بجلی کے شعبے میں غیر ملکی فنڈڈ منصوبوں میں کرپشن کے الزامات کی تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012588/senate-panel-calls-for-probe-into-foreign-funded-power-projects)*
+- پنجاب کی وزیراعلیٰ مریم نواز نے بچوں کی حفاظت کے حوالے سے والدین کو الرٹ رہنے اور بچوں کو اکیلا نہ چھوڑنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2012678/maryam-tells-parents-to-ensure-childrens-safety-avoid-leaving-them-unattended)*
+
+### قومی
+- بلوچستان اور خیبر پختونخوا کے سرحدی علاقے میں بس حادثے کے نتیجے میں 40 افراد جاں بحق اور 8 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border)*
+- ایف آئی اے نے اسلام آباد میں انسانی پیچ (placenta) کی اسمگلنگ کے ایک گروہ کو پکڑ لیا ہے جو اینٹی ایجنگ انجکشن بنانے کے لیے اس کا استعمال کرتے تھے۔ *[Dawn](https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report)*
+- لاہور پولیس نے دو غیر ملکی خواتین کے اغوا اور جنسی زیادتی کے کیس میں چار ملزمان کو حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012674/lahore-police-get-custody-of-4-suspects-arrested-for-alleged-abduction-sexual-assault-of-two-foreign-women)*
+- خیبر پختونخوا کے ضلع مومنڈ میں دہشت گردوں کے حملے میں دو پولیس اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2012651/2-cops-martyred-as-police-patrol-comes-under-attack-in-kps-mohmand)*
+- عدالت نے گلگت بلتستان کے حلقہ جی بی اے-17 میں دوبارہ پولنگ کا حکم دے دیا ہے۔ *[ARY](https://arynews.tv/gb-elections-2026-court-orders-re-polling-in-gba-17)*
+- ژوب میں ہونے والے حادثے کے حوالے سے ایک عینی شاہد نے دعویٰ کیا ہے کہ ڈرائیور نے جان بوجھ کر گاڑی کھائی میں گرائی۔ *[ARY](https://arynews.tv/zhob-accident-eyewitness-claims-angry-driver-intentionally-plunged-vehicle-into-ravine)*
+
+### بین الاقوامی
+- وزیراعظم شہباز شریف اور سی ڈی ایف عاصم منیر نے ایران کے مقتول سپریم لیڈر کے جنازے میں شرکت کی اور تعزیت پیش کی۔ *[Dawn](https://www.dawn.com/news/2012668/pm-shehbaz-cdf-munir-pay-respects-to-irans-assassinated-supreme-leader-khamenei)*
+- بھارت نے دفاعی افواج کے لیے 5.46 ارب ڈالر مالیت کے فوجی ساز و سامان کی خریداری کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment)*
+- امریکہ نے دہشت گردی کے خلاف پاکستان کے دفاع کے حق کی حمایت کا اعادہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012657/us-backs-pakistans-right-to-self-defence-after-un-votes-on-global-counterterrorism-strategy)*
+- غزہ میں اسرائیلی بمباری کے 1,000 دن مکمل ہونے پر بڑے پیمانے پر تباہی اور جانی نقصان کی رپورٹ جاری کی گئی۔ *[Dawn](https://www.dawn.com/news/2012709/1000-days-of-genocide-a-tally-of-devastation-in-gaza)*
+- مغربی کنارے میں اسرائیلی آباد کاروں نے ایک فلسطینی خاندان کے زیر تعمیر گھر پر قبضہ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012689/in-the-west-bank-israeli-settlers-take-over-palestinians-under-construction-dream-home)*
+- کویت نے عوامی ہاؤسنگ درخواستوں کے لیے آخری تاریخ مقرر کر دی ہے۔ *[ARY](https://arynews.tv/kuwait-sets-deadline-for-public-housing-applications)*
+- ایس ایف جے نے پاکستان میں گردوارے کی مرمت پر تعریف کی اور بھارت کے ریکارڈ پر تنقید کی۔ *[ARY](https://arynews.tv/sfj-commends-pakistan-for-ordering-repairs-to-125-year-old-gurdwara-criticizes-indias-sikh-heritage-record)*
 
 ### کھیل
-- حیدر سی سی نے پاکستان کا مقامی ریڈ بال چیمپئن شپ ٹائٹل جیت لیا ہے۔ *[ARY](https://arynews.tv/ali-imran-zaidi-pakistan-domestic-red-ball-championship-title)*
+- محمد صلاح کی عالمی سطح پر پہچان اور ان کی فٹ بال کی کامیابیوں کا تجزیہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2012705/the-king-without-a-crown-mohamed-salahs-quest-for-global-recognition)*
+
+### صحت
+- وزیراعظم شہباز شریف نے انفیکشن کے پھیلاؤ کو روکنے کے لیے ناقص سرنجوں کی تیاری اور استعمال پر پابندی کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2012694/pm-orders-ban-on-production-use-of-substandard-syringes-to-curb-spread-of-infectious-diseases)*
 
 ### دیگر
-- مشہور اداکارہ اینا ڈازن کا 88 سال کی عمر میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/anna-dawson-keeping-up-appearances-star-who-played-violet-dies-aged-88)*
-- اسیم اظھر نے ہانیہ عامر کی انسٹاگرام پوسٹس بحال کر دیں۔ *[ARY](https://arynews.tv/asim-azhar-restores-hania-aamir-instagram-posts)*
-- مگرمچھ کے گڑھے میں پھینکے گئے 3 سالہ بچے کی حالت تشویشناک ہے۔ *[ARY](https://arynews.tv/boy-3-thrown-into-crocodile-pit-faces-long-road-to-recovery-after-family-issue-update)*
+- شہزادہ ولیم نے مشہور پوڈ کاسٹ 'نی ہیٹس' میں شرکت کی۔ *[ARY](https://arynews.tv/prince-william-makes-debut-on-travis-jason-kelces-podcast)*
+- فلم 'الفا' کا ریویو: فلم میں اداکاری تو ہے مگر کہانی میں روح کی کمی محسوس ہوئی۔ *[ARY](https://arynews.tv/alpha-review-alia-bhatt-and-sharvari-bring-the-muscle-but-yrf-forgets-to-bring-a-soul)*
+- مائیکرو ویو سلائم کے وائرل ٹرینڈ سے ہونے والے جلنے کے خطرات پر پولیس نے الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/dubai-police-warn-of-burn-risks-from-viral-microwave-slime-trend)*
+- انمل پنکی کے سابق شوہر کے خلاف لاہور میں ایف آئی آر درج کر لی گئی ہے۔ *[ARY](https://arynews.tv/anmol-pinky-ex-husband-faces-fir-in-lahore)*
 
