@@ -7,55 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 03-Jul-2026 21:10PKT 
+ &lrm; 05-Jul-2026 21:10PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- اسلام آباد ہائی کورٹ نے ایم ٹیگ نہ ہونے پر گاڑیوں پر 50 فیصد اضافی ٹول ٹیکس لگانے کے حکومتی نوٹیفیکیشن کی معطلی کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2012713/ihc-suspends-national-highway-authority-notification-to-impose-50pc-additional-toll-on-vehicles-without-m-tag)*
-- پاکستان میں زرعی ٹیکس اصلاحات کے پہلے سال میں حکومتی پالیسی اور ٹیکس وصولی کے درمیان بڑا فرق سامنے آیا ہے۔ *[Dawn](https://www.dawn.com/news/2012584/analysis-agriculture-tax-reform-stalls-at-the-farm-gate)*
-- اقتصادی رابطہ کمیٹی نے پاک فوج کی فراہمی کے لیے 175,000 ٹن مقامی گندم کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2012610/army-to-get-local-wheat)*
-- اسٹیٹ بینک نے آئی ایم ایف کے مشورے پر بینکوں کو ترسیلات زر بڑھانے کے لیے دی جانے والی مراعات ختم کر دی ہیں۔ *[Dawn](https://www.dawn.com/news/2012606/remittance-incentives-to-banks-abolished-as-imf-steps-in)*
+- **اوپیک پلس** نے اگست سے تیل کی پیداوار میں مزید اضافے کی منظوری دے دی ہے تاکہ عالمی سپلائی میں اضافہ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover)*
+- **بھارت** مشرق وسطیٰ کی جنگ کے نتیجے میں پیدا ہونے والی توانائی کی قلت کے پیش نظر ملک میں تیل کی تلاش کے شعبے کو وسعت دینے کا ارادہ رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2013136/india-eyes-oil-exploration-expansion-after-middle-east-war-shortages)*
+- وزیراعظم شہباز شریف نے کہا ہے کہ **پاک-ترکی معاشی شراکت داری** اب ایک نئے مرحلے میں داخل ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2012929/two-hearts-with-one-soul-pm-shehbaz-says-pak-turkiye-economic-partnership-entering-a-new-phase)*
+- **عراق اور ہالیبرٹن** نے بصرہ کے اہم تیل کے میدانوں کی ترقی کے لیے ایک معاہدہ طے کر لیا ہے۔ *[ARY](https://arynews.tv/iraq-halliburton-sign-deal-to-develop-key-basra-oil-fields)*
+- **بٹ کوائن** کی قیمت میکرو ڈیٹا اور ٹیکس قوانین کے اثرات کے درمیان 62 ہزار ڈالر کے قریب برقرار ہے۔ *[ARY](https://arynews.tv/bitcoin-clings-to-62k-as-macro-data-tax-rules-and-capital-flows-converge)*
+- **سعودی عرب** نے 4.60 فیصد منافع کے ساتھ جولائی کے لیے 'صک' (Sukuk) کے اجرا کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-opens-july-sah-savings-sukuk-issuance-with-4-60-return)*
 
 ### سائنس اور ٹیکنالوجی
-- بھارت ٹاٹا الیکٹرانکس میں ہونے والے ڈیٹا لیک کی تحقیقات کر رہا ہے جس سے ایپل آئی فون کے خفیہ دستاویزات منظر عام پر آ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2012695/india-investigating-tata-data-leak-that-exposed-apple-iphone-secrets)*
-- پی ٹی اے کے مطابق سمندری کیبل کا مسئلہ حل ہو گیا ہے اور ملک میں انٹرنیٹ سروسز معمول پر آگئی ہیں۔ *[Dawn](https://www.dawn.com/news/2012653/pta-says-submarine-cable-fault-resolved-internet-services-back-to-normal)*
-- ٹیسلا نے میامی میں اپنی روبوٹیکسی (خودکار ٹیکسی) سروس کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/tesla-rolls-out-robotaxi-service-in-miami)*
-- بٹ گیٹ والٹ نے جنوبی ایشیا میں اپنا کرپٹو کارڈ لانچ کر دیا ہے۔ *[ARY](https://arynews.tv/bitget-wallet-launches-crypto-card-in-south-asia)*
+- **کال آف ڈیوٹی: بلیک آپس 1 اور 2** کی پی ایس 5 (PS5) پر ریلیز کی تاریخ بہت قریب ہو سکتی ہے۔ *[ARY](https://arynews.tv/call-of-duty-black-ops-1-2-ps5-release-date-could-be-days-away)*
 
 ### موسم
-- اقوام متحدہ کے موسمیاتی ادارے نے خبردار کیا ہے کہ جولائی سے ستمبر کے درمیان ایل نینو ایک طاقتور ایونٹ بن سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2012656/el-nino-to-develop-into-strong-event-between-july-and-september-un-warns)*
+- حکومت نے موسم کی پیشگوئی اور آفات سے نمٹنے کے لیے **محکمہ موسمیات** کو 1.6 ارب روپے مختص کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2013152/what-initiatives-has-the-govt-planned-for-fy27-to-boost-weather-forecasting-early-warning-systems)*
 
 ### سیاست
-- سینیٹ کی قائمہ کمیٹی نے بجلی کے شعبے میں غیر ملکی فنڈڈ منصوبوں میں کرپشن کے الزامات کی تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012588/senate-panel-calls-for-probe-into-foreign-funded-power-projects)*
-- پنجاب کی وزیراعلیٰ مریم نواز نے بچوں کی حفاظت کے حوالے سے والدین کو الرٹ رہنے اور بچوں کو اکیلا نہ چھوڑنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2012678/maryam-tells-parents-to-ensure-childrens-safety-avoid-leaving-them-unattended)*
+- امریکی صدر **ڈونلڈ ٹرمپ** نے امریکہ کی 250 ویں سالگرہ کے موقع پر اپنے سیاسی مخالفین پر سخت تنقید کی۔ *[Dawn](https://www.dawn.com/news/2013124/trump-hails-us-blasts-communists-in-250th-anniversary-speech)*
+- **ترکی** نے امریکی صدر کے دورہ ترکی کے موقع پر لڑاکا طیاروں کے انجن حاصل کرنے کے امکانات کو تقویت دی ہے۔ *[Dawn](https://www.dawn.com/news/2013133/turkiye-eyes-f110-fighter-jet-engines-as-trump-comes-to-town)*
+- **ڈونلڈ ٹرمپ** نے یوکرین اور روس کے درمیان امن معاہدے میں مدد کرنے کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/trump-offers-to-help-putin-find-deal-with-ukraine-also-speaks-with-zelenskiy)*
+- **آزاد کشمیر الیکشن کمیشن** نے انتخابات کے لیے امیدواروں کی حتمی فہرستیں جاری کر دی ہیں۔ *[ARY](https://arynews.tv/election-commission-issues-final-lists-of-candidates-for-ajk-elections)*
 
 ### قومی
-- بلوچستان اور خیبر پختونخوا کے سرحدی علاقے میں بس حادثے کے نتیجے میں 40 افراد جاں بحق اور 8 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2012664/40-killed-8-injured-as-passenger-bus-falls-into-ravine-near-balochistan-kp-border)*
-- ایف آئی اے نے اسلام آباد میں انسانی پیچ (placenta) کی اسمگلنگ کے ایک گروہ کو پکڑ لیا ہے جو اینٹی ایجنگ انجکشن بنانے کے لیے اس کا استعمال کرتے تھے۔ *[Dawn](https://www.dawn.com/news/2012727/fia-arrests-five-in-islamabad-for-alleged-smuggling-of-human-placenta-report)*
-- لاہور پولیس نے دو غیر ملکی خواتین کے اغوا اور جنسی زیادتی کے کیس میں چار ملزمان کو حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012674/lahore-police-get-custody-of-4-suspects-arrested-for-alleged-abduction-sexual-assault-of-two-foreign-women)*
-- خیبر پختونخوا کے ضلع مومنڈ میں دہشت گردوں کے حملے میں دو پولیس اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2012651/2-cops-martyred-as-police-patrol-comes-under-attack-in-kps-mohmand)*
-- عدالت نے گلگت بلتستان کے حلقہ جی بی اے-17 میں دوبارہ پولنگ کا حکم دے دیا ہے۔ *[ARY](https://arynews.tv/gb-elections-2026-court-orders-re-polling-in-gba-17)*
-- ژوب میں ہونے والے حادثے کے حوالے سے ایک عینی شاہد نے دعویٰ کیا ہے کہ ڈرائیور نے جان بوجھ کر گاڑی کھائی میں گرائی۔ *[ARY](https://arynews.tv/zhob-accident-eyewitness-claims-angry-driver-intentionally-plunged-vehicle-into-ravine)*
+- پولیس کو حکم دیا گیا ہے کہ **غیر ملکی خواتین کے اغوا** کے کیس میں وزیر سے منسلک مشتبہ شخص کے ساتھ بھی کسی بھی دوسرے مجرم کی طرح سلوک کیا جائے۔ *[Dawn](https://www.dawn.com/news/2013143/foreign-women-abduction-case-police-ordered-to-treat-minister-linked-suspect-like-any-other-criminal)*
+- **بلوچستان** میں مختلف واقعات میں 8 قبائلیوں اور ایک لڑکی کی ہلاکت واقع ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2013156/8-tribesmen-young-girl-killed-in-separate-incidents-in-balochistan)*
+- پاک فوج کی قیادت نے **کیرنل شیر خان** کی 27 ویں شہادت کی برسی پر انہیں خراج عقیدت پیش کیا۔ *[Dawn](https://www.dawn.com/news/2013139/hero-of-kargil-military-top-brass-pays-tribute-to-karnal-sher-khan-on-27th-martyrdom-anniversary)*
+- کراچی میں **گل پلازہ آگ** کے واقعے میں 11 سالہ لڑکے پر مقدمہ چلایا جائے گا۔ *[Dawn](https://www.dawn.com/news/2012992/11-year-old-to-face-trial-for-igniting-gul-plaza-fire-in-karachi)*
+- **جنوبی وزیرستان** میں کوڈکॉप्टर حملے میں 3 لڑکیاں ہلاک اور 4 دیگر افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2013122/3-girls-killed-4-injured-in-suspected-quadcopter-attack-in-lower-south-waziristan)*
+- **اسلام آباد ہائی کورٹ** نے ججز کی خالی اسامیوں کے لیے تین نامزدگیاں فائنل کر لی ہیں۔ *[Dawn](https://www.dawn.com/news/2013054/ihc-finalises-three-nominees-for-judges-vacancies)*
+- **لاہور ہائی کورٹ** میں آئینی بنچوں کی تشکیل میں تاخیر کے خلاف ایک آئینی درخواست دائر کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013072/lhc-moved-over-delay-in-setting-up-constitutional-benches)*
+- **شیرانی بس حادثے** کے معاملے میں پولیس نے ڈرائیور اور بس کمپنی کے مالکان کے خلاف ایف آئی آر درج کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2013053/dead-driver-bus-owners-booked-in-sherani-bus-crash-case)*
+- **آزاد کشمیر** میں جے اے اے سی (JAAC) کے احتجاجی مظاہرے جاری ہیں، تاہم طویل مارچ کا امکان نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2013051/no-long-marches-likely-as-jaac-eyes-fresh-demos-in-ajk)*
+- **آزاد کشمیر** میں پولیس کے چار اہلکار مبینہ طور پر جے اے اے سی کے ارکان کے ہاتھوں اغوا کر لیے گئے۔ *[ARY](https://arynews.tv/ajk-police-personnel-allegedly-abducted-by-jaac)*
+- **غیر ملکی خواتین** نے پاکستان کے دورے کے دوران اغوا، بھتہ خوری اور زیادتی کے بارے میں عدالتی بیان ریکارڈ کرایا۔ *[Dawn](https://www.dawn.com/news/2012950/two-foreign-women-detail-multi-day-ordeal-of-alleged-kidnapping-extortion-assault-during-pakistan-visit)*
 
 ### بین الاقوامی
-- وزیراعظم شہباز شریف اور سی ڈی ایف عاصم منیر نے ایران کے مقتول سپریم لیڈر کے جنازے میں شرکت کی اور تعزیت پیش کی۔ *[Dawn](https://www.dawn.com/news/2012668/pm-shehbaz-cdf-munir-pay-respects-to-irans-assassinated-supreme-leader-khamenei)*
-- بھارت نے دفاعی افواج کے لیے 5.46 ارب ڈالر مالیت کے فوجی ساز و سامان کی خریداری کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2012724/india-approves-buying-546-billion-in-military-equipment)*
-- امریکہ نے دہشت گردی کے خلاف پاکستان کے دفاع کے حق کی حمایت کا اعادہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2012657/us-backs-pakistans-right-to-self-defence-after-un-votes-on-global-counterterrorism-strategy)*
-- غزہ میں اسرائیلی بمباری کے 1,000 دن مکمل ہونے پر بڑے پیمانے پر تباہی اور جانی نقصان کی رپورٹ جاری کی گئی۔ *[Dawn](https://www.dawn.com/news/2012709/1000-days-of-genocide-a-tally-of-devastation-in-gaza)*
-- مغربی کنارے میں اسرائیلی آباد کاروں نے ایک فلسطینی خاندان کے زیر تعمیر گھر پر قبضہ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2012689/in-the-west-bank-israeli-settlers-take-over-palestinians-under-construction-dream-home)*
-- کویت نے عوامی ہاؤسنگ درخواستوں کے لیے آخری تاریخ مقرر کر دی ہے۔ *[ARY](https://arynews.tv/kuwait-sets-deadline-for-public-housing-applications)*
-- ایس ایف جے نے پاکستان میں گردوارے کی مرمت پر تعریف کی اور بھارت کے ریکارڈ پر تنقید کی۔ *[ARY](https://arynews.tv/sfj-commends-pakistan-for-ordering-repairs-to-125-year-old-gurdwara-criticizes-indias-sikh-heritage-record)*
+- **وینزویلا** میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد بڑھ کر تقریباً 3,000 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013149/venezuela-quake-death-toll-rises-to-nearly-3000-foreign-rescue-teams-begin-winding-down-operations)*
+- **اسلام آباد** امریکہ اور ایران کے درمیان تکنیکی مذاکرات کی میزبانی کے لیے اہم مرکز بن رہا ہے۔ *[Dawn](https://www.dawn.com/news/2013076/islamabad-frontrunner-to-host-us-iran-talks)*
+- **ایران کے سپریم لیڈر** کی تدفین کے موقع پر ان کے تین بیٹوں نے شرکت کی۔ *[ARY](https://arynews.tv/ayatollah-ali-khamenei-funeral-mojtaba-khamenei-absent)*
 
 ### کھیل
-- محمد صلاح کی عالمی سطح پر پہچان اور ان کی فٹ بال کی کامیابیوں کا تجزیہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2012705/the-king-without-a-crown-mohamed-salahs-quest-for-global-recognition)*
-
-### صحت
-- وزیراعظم شہباز شریف نے انفیکشن کے پھیلاؤ کو روکنے کے لیے ناقص سرنجوں کی تیاری اور استعمال پر پابندی کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2012694/pm-orders-ban-on-production-use-of-substandard-syringes-to-curb-spread-of-infectious-diseases)*
+- **بابر اعظم** کو ویسٹ انڈیز اور انگلینڈ کے دوروں کے لیے ٹیسٹ اسکواڈ کا کپتان مقرر کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2013127/babar-azam-named-captain-of-west-indies-england-test-squads)*
 
 ### دیگر
-- شہزادہ ولیم نے مشہور پوڈ کاسٹ 'نی ہیٹس' میں شرکت کی۔ *[ARY](https://arynews.tv/prince-william-makes-debut-on-travis-jason-kelces-podcast)*
-- فلم 'الفا' کا ریویو: فلم میں اداکاری تو ہے مگر کہانی میں روح کی کمی محسوس ہوئی۔ *[ARY](https://arynews.tv/alpha-review-alia-bhatt-and-sharvari-bring-the-muscle-but-yrf-forgets-to-bring-a-soul)*
-- مائیکرو ویو سلائم کے وائرل ٹرینڈ سے ہونے والے جلنے کے خطرات پر پولیس نے الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/dubai-police-warn-of-burn-risks-from-viral-microwave-slime-trend)*
-- انمل پنکی کے سابق شوہر کے خلاف لاہور میں ایف آئی آر درج کر لی گئی ہے۔ *[ARY](https://arynews.tv/anmol-pinky-ex-husband-faces-fir-in-lahore)*
+- کراچی کے ایک نجی چڑیا گھر سے حالت زار میں موجود **شیر کو ریسکیو** کر کے سینکچری منتقل کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2012996/lion-kept-at-private-karachi-zoo-in-poor-condition-rescued-moved-to-sanctuary)*
+- اداکار **عامر خان** نے گوری سپریٹ سے تیسری بار شادی کر لی ہے۔ *[ARY](https://arynews.tv/aamir-khan-ties-the-knot-with-gauri-spratt-for-the-third-time)*
+- ایک **نومولود بچے** کو مردہ قرار دے کر ڈیتھ سرٹیفکیٹ جاری کر دیا گیا، جبکہ وہ بعد میں زندہ پایا گیا۔ *[ARY](https://arynews.tv/newborn-declared-dead-death-certificate-issued)*
 
