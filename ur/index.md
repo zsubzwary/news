@@ -7,53 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 05-Jul-2026 21:10PKT 
+ &lrm; 06-Jul-2026 09:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- **اوپیک پلس** نے اگست سے تیل کی پیداوار میں مزید اضافے کی منظوری دے دی ہے تاکہ عالمی سپلائی میں اضافہ کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover)*
-- **بھارت** مشرق وسطیٰ کی جنگ کے نتیجے میں پیدا ہونے والی توانائی کی قلت کے پیش نظر ملک میں تیل کی تلاش کے شعبے کو وسعت دینے کا ارادہ رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2013136/india-eyes-oil-exploration-expansion-after-middle-east-war-shortages)*
-- وزیراعظم شہباز شریف نے کہا ہے کہ **پاک-ترکی معاشی شراکت داری** اب ایک نئے مرحلے میں داخل ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2012929/two-hearts-with-one-soul-pm-shehbaz-says-pak-turkiye-economic-partnership-entering-a-new-phase)*
-- **عراق اور ہالیبرٹن** نے بصرہ کے اہم تیل کے میدانوں کی ترقی کے لیے ایک معاہدہ طے کر لیا ہے۔ *[ARY](https://arynews.tv/iraq-halliburton-sign-deal-to-develop-key-basra-oil-fields)*
-- **بٹ کوائن** کی قیمت میکرو ڈیٹا اور ٹیکس قوانین کے اثرات کے درمیان 62 ہزار ڈالر کے قریب برقرار ہے۔ *[ARY](https://arynews.tv/bitcoin-clings-to-62k-as-macro-data-tax-rules-and-capital-flows-converge)*
-- **سعودی عرب** نے 4.60 فیصد منافع کے ساتھ جولائی کے لیے 'صک' (Sukuk) کے اجرا کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-opens-july-sah-savings-sukuk-issuance-with-4-60-return)*
+- اوگرا نے جون کے لیے آر ایل این جی (RLNG) کی قیمتوں میں تقریباً 15 فیصد اضافے کا نوٹیفیکیشن جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2013262/ogra-notifies-15pc-increase-in-regasified-liquefied-natural-gas-price-for-june)*
+- احسن اقبال نے بیرون ملک مقیم پاکستانیوں سے ملک کی ترقی کے لیے مختلف شعبوں میں سرمایہ کاری کرنے کی اپیل کی ہے۔ *[Dawn](https://www.dawn.com/news/2013272/ahsan-iqbal-urges-diaspora-to-invest-in-their-countrys-growth)*
+- نیشنل ہائی وے اتھارٹی نے اسلام آباد-لاہور موٹروے (M-2) پر ٹول ٹیکس میں 7 فیصد اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2013174/nha-increases-toll-tax-on-islamabad-lahore-m-2-motorway-by-7pc)*
+- عالمی بینک نے پاکستان میں مالیاتی وفاق کو مضبوط بنانے کے حوالے سے ایک رپورٹ جاری کی ہے۔ *[Dawn](https://www.dawn.com/news/2013286/world-bank-and-fiscal-distribution)*
+- اوپیک پلس (OPEC+) نے اگست سے تیل کی پیداوار میں مزید اضافے کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2013159/opec-approves-further-oil-output-increase-as-hormuz-exports-start-to-recover)*
+- پاسو چیری ایگزیبیشن کے ذریعے ہنزہ کے کاروباری افراد کو اپنے مصنوعات دکھانے کا موقع ملا جس سے دو ملین روپے سے زائد کی معاشی سرگرمی ہوئی۔ *[Dawn](https://www.dawn.com/news/2013267/passu-cherry-show-gives-hunza-entrepreneurs-a-stage-to-showcase-wares)*
 
 ### سائنس اور ٹیکنالوجی
-- **کال آف ڈیوٹی: بلیک آپس 1 اور 2** کی پی ایس 5 (PS5) پر ریلیز کی تاریخ بہت قریب ہو سکتی ہے۔ *[ARY](https://arynews.tv/call-of-duty-black-ops-1-2-ps5-release-date-could-be-days-away)*
-
-### موسم
-- حکومت نے موسم کی پیشگوئی اور آفات سے نمٹنے کے لیے **محکمہ موسمیات** کو 1.6 ارب روپے مختص کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2013152/what-initiatives-has-the-govt-planned-for-fy27-to-boost-weather-forecasting-early-warning-systems)*
-
-### سیاست
-- امریکی صدر **ڈونلڈ ٹرمپ** نے امریکہ کی 250 ویں سالگرہ کے موقع پر اپنے سیاسی مخالفین پر سخت تنقید کی۔ *[Dawn](https://www.dawn.com/news/2013124/trump-hails-us-blasts-communists-in-250th-anniversary-speech)*
-- **ترکی** نے امریکی صدر کے دورہ ترکی کے موقع پر لڑاکا طیاروں کے انجن حاصل کرنے کے امکانات کو تقویت دی ہے۔ *[Dawn](https://www.dawn.com/news/2013133/turkiye-eyes-f110-fighter-jet-engines-as-trump-comes-to-town)*
-- **ڈونلڈ ٹرمپ** نے یوکرین اور روس کے درمیان امن معاہدے میں مدد کرنے کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/trump-offers-to-help-putin-find-deal-with-ukraine-also-speaks-with-zelenskiy)*
-- **آزاد کشمیر الیکشن کمیشن** نے انتخابات کے لیے امیدواروں کی حتمی فہرستیں جاری کر دی ہیں۔ *[ARY](https://arynews.tv/election-commission-issues-final-lists-of-candidates-for-ajk-elections)*
+- آئی ٹی وزیر نے کہا ہے کہ موجودہ قوانین 5G جیسی جدید ٹیکنالوجی کے لیے کافی نہیں ہیں اور نئے ٹیلی کام بل کی ضرورت ہے۔ *[Dawn](https://www.dawn.com/news/2013161/it-minister-stresses-proposed-telecom-bill-needed-as-existing-laws-insufficient-for-5g-other-modern-tech)*
 
 ### قومی
-- پولیس کو حکم دیا گیا ہے کہ **غیر ملکی خواتین کے اغوا** کے کیس میں وزیر سے منسلک مشتبہ شخص کے ساتھ بھی کسی بھی دوسرے مجرم کی طرح سلوک کیا جائے۔ *[Dawn](https://www.dawn.com/news/2013143/foreign-women-abduction-case-police-ordered-to-treat-minister-linked-suspect-like-any-other-criminal)*
-- **بلوچستان** میں مختلف واقعات میں 8 قبائلیوں اور ایک لڑکی کی ہلاکت واقع ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2013156/8-tribesmen-young-girl-killed-in-separate-incidents-in-balochistan)*
-- پاک فوج کی قیادت نے **کیرنل شیر خان** کی 27 ویں شہادت کی برسی پر انہیں خراج عقیدت پیش کیا۔ *[Dawn](https://www.dawn.com/news/2013139/hero-of-kargil-military-top-brass-pays-tribute-to-karnal-sher-khan-on-27th-martyrdom-anniversary)*
-- کراچی میں **گل پلازہ آگ** کے واقعے میں 11 سالہ لڑکے پر مقدمہ چلایا جائے گا۔ *[Dawn](https://www.dawn.com/news/2012992/11-year-old-to-face-trial-for-igniting-gul-plaza-fire-in-karachi)*
-- **جنوبی وزیرستان** میں کوڈکॉप्टर حملے میں 3 لڑکیاں ہلاک اور 4 دیگر افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2013122/3-girls-killed-4-injured-in-suspected-quadcopter-attack-in-lower-south-waziristan)*
-- **اسلام آباد ہائی کورٹ** نے ججز کی خالی اسامیوں کے لیے تین نامزدگیاں فائنل کر لی ہیں۔ *[Dawn](https://www.dawn.com/news/2013054/ihc-finalises-three-nominees-for-judges-vacancies)*
-- **لاہور ہائی کورٹ** میں آئینی بنچوں کی تشکیل میں تاخیر کے خلاف ایک آئینی درخواست دائر کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013072/lhc-moved-over-delay-in-setting-up-constitutional-benches)*
-- **شیرانی بس حادثے** کے معاملے میں پولیس نے ڈرائیور اور بس کمپنی کے مالکان کے خلاف ایف آئی آر درج کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2013053/dead-driver-bus-owners-booked-in-sherani-bus-crash-case)*
-- **آزاد کشمیر** میں جے اے اے سی (JAAC) کے احتجاجی مظاہرے جاری ہیں، تاہم طویل مارچ کا امکان نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2013051/no-long-marches-likely-as-jaac-eyes-fresh-demos-in-ajk)*
-- **آزاد کشمیر** میں پولیس کے چار اہلکار مبینہ طور پر جے اے اے سی کے ارکان کے ہاتھوں اغوا کر لیے گئے۔ *[ARY](https://arynews.tv/ajk-police-personnel-allegedly-abducted-by-jaac)*
-- **غیر ملکی خواتین** نے پاکستان کے دورے کے دوران اغوا، بھتہ خوری اور زیادتی کے بارے میں عدالتی بیان ریکارڈ کرایا۔ *[Dawn](https://www.dawn.com/news/2012950/two-foreign-women-detail-multi-day-ordeal-of-alleged-kidnapping-extortion-assault-during-pakistan-visit)*
+- آزاد جموں و کشمیر میں احتجاج کے دوران مظاہرین اور قانون نافذ کرنے والے اداروں کے درمیان جھڑپیں ہوئیں۔ *[Dawn](https://www.dawn.com/news/2013177/clashes-reported-from-ajk-as-jaac-holds-demonstrations)*
+- گلگت بلتستان کے وزیر اعلیٰ منتخب عہدہ لینے کے لیے تیار ہیں اور پیپلز پارٹی کے سربراہ بلاول بھٹو اس تقریب میں شرکت کریں گے۔ *[Dawn](https://www.dawn.com/news/2013260/cm-elect-to-take-oath-today-as-ppp-chief-bilawal-arrives-in-gilgit-baltistan)*
+- پولیس کو حکم دیا گیا ہے کہ غیر ملکی خواتین کے اغوا کیس میں وزیر سے وابستہ مشتبہ شخص کے ساتھ بھی کسی بھی دوسرے مجرم کی طرح سختی سے معاملہ کیا جائے۔ *[Dawn](https://www.dawn.com/news/2013143/foreign-women-abduction-case-police-ordered-to-treat-minister-linked-suspect-like-any-other-criminal)*
+- پی اے ایف افسر کو قتل کرنے والا مشتبہ شخص واقعہ کے نو گھنٹوں کے اندر گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2013169/suspect-who-shot-paf-officer-dead-arrested-within-9-hours-islamabad-ig)*
+- بلوچستان میں الگ الگ واقعات میں آٹھ قبائلی اور ایک بچی ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2013156/8-tribesmen-young-girl-killed-in-separate-incidents-in-balochistan)*
 
 ### بین الاقوامی
-- **وینزویلا** میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد بڑھ کر تقریباً 3,000 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013149/venezuela-quake-death-toll-rises-to-nearly-3000-foreign-rescue-teams-begin-winding-down-operations)*
-- **اسلام آباد** امریکہ اور ایران کے درمیان تکنیکی مذاکرات کی میزبانی کے لیے اہم مرکز بن رہا ہے۔ *[Dawn](https://www.dawn.com/news/2013076/islamabad-frontrunner-to-host-us-iran-talks)*
-- **ایران کے سپریم لیڈر** کی تدفین کے موقع پر ان کے تین بیٹوں نے شرکت کی۔ *[ARY](https://arynews.tv/ayatollah-ali-khamenei-funeral-mojtaba-khamenei-absent)*
+- نیتن یاہو کا دعویٰ ہے کہ لبنان کے بعض مسیحی دیہاتوں نے حزب اللہ سے بچنے کے لیے اسرائیل میں ضم ہونے کی خواہش ظاہر کی ہے۔ *[Dawn](https://www.dawn.com/news/2013293/netanyahu-claims-christians-in-lebanon-sought-israeli-annexation)*
+- سندھ کے پانی کے حوالے سے پاک بھارت پانی کا معاہدہ (IWT) ایک اہم دوراہے پر کھڑا ہے۔ *[Dawn](https://www.dawn.com/news/2013273/comment-indus-waters-treaty-at-a-strategic-crossroads-part-i)*
+- یوکرین کے شہر کییو پر روسی حملے میں سات افراد ہلاک ہو گئے ہیں۔ *[ARY](https://arynews.tv/russian-attack-on-kyiv-kills-seven-hits-apartments-other-buildings)*
 
 ### کھیل
-- **بابر اعظم** کو ویسٹ انڈیز اور انگلینڈ کے دوروں کے لیے ٹیسٹ اسکواڈ کا کپتان مقرر کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2013127/babar-azam-named-captain-of-west-indies-england-test-squads)*
+- انگلینڈ نے میکسیکو کو شکست دے کر فٹ بال ورلڈ کپ کے کوارٹر فائنل میں جگہ بنا لی ہے۔ *[Dawn](https://www.dawn.com/news/2013329/ten-man-england-survive-mexico-comeback-to-reach-fifa-world-cup-quarter-finals)* *[ARY](https://arynews.tv/bellingham-powers-10-man-england-into-world-cup-quarters)*
+- امریکی صدر ٹرمپ کی مداخلت کے بعد فیفا نے کھلاڑی بالوگون کو ورلڈ کپ میچ کھیلنے کی اجازت دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2013238/fifa-makes-unprecedented-u-turn-following-trump-intervention-to-clear-balogun-for-us-belgium-world-cup-clash)* *[ARY](https://arynews.tv/fifa-clear-us-star-balogun-to-play-in-world-cup-after-trump-call)*
+- النرويج نے برازیل کو ہرا کر ورلڈ کپ کے کوارٹر فائنل میں رسائی حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2013250/haaland-knocks-brazil-out-of-fifa-world-cup-as-norway-reach-quarters)* *[ARY](https://arynews.tv/haaland-shines-as-norway-knock-out-brazil)*
+- نوواک جوکوچ نے ومبلڈن میں ریکارڈ توڑتے ہوئے کوارٹر فائنل میں جگہ بنائی ہے۔ *[Dawn](https://www.dawn.com/news/2013167/djokovic-makes-wimbledon-history-to-reach-quarter-finals)*
+- بابر اعظم کو ویسٹ انڈیز اور انگلینڈ کے دوروں کے لیے ٹیسٹ ٹیم کا کپتان مقرر کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2013127/babar-azam-named-captain-of-west-indies-england-test-squads)*
+- نیمار نے بین الاقوامی فٹ بال سے ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/neymar-retires-from-international-football-after-brazils-world-cup-exit)*
+- شاہین آفریدی کو ٹیم سے نکالے جانے کی اصل وجہ سامنے آگئی ہے۔ *[ARY](https://arynews.tv/shaheen-afridi-dropped-the-real-reason-revealed)*
+
+### صحت
+- کراچی کے ولیکا ہسپتال میں کم از کم 78 بچے ایچ آئی وی (HIV) سے متاثر پائے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2013230/sindh-minister-confirms-78-children-infected-with-hiv-at-karachis-valika-hospital)*
 
 ### دیگر
-- کراچی کے ایک نجی چڑیا گھر سے حالت زار میں موجود **شیر کو ریسکیو** کر کے سینکچری منتقل کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2012996/lion-kept-at-private-karachi-zoo-in-poor-condition-rescued-moved-to-sanctuary)*
-- اداکار **عامر خان** نے گوری سپریٹ سے تیسری بار شادی کر لی ہے۔ *[ARY](https://arynews.tv/aamir-khan-ties-the-knot-with-gauri-spratt-for-the-third-time)*
-- ایک **نومولود بچے** کو مردہ قرار دے کر ڈیتھ سرٹیفکیٹ جاری کر دیا گیا، جبکہ وہ بعد میں زندہ پایا گیا۔ *[ARY](https://arynews.tv/newborn-declared-dead-death-certificate-issued)*
+- لیام ہیمسورتھ اور گبریلا بروکس نے ٹیلر سوفت کی شادی میں شرکت کی۔ *[ARY](https://arynews.tv/liam-hemsworth-gabriella-brooks-enjoy-at-taylor-swift-wedding)*
+- ایڈم سینڈلر نے ٹیلر سوفت اور ٹریوس کیلسی کو شادی کے حوالے سے مشورہ دیا۔ *[ARY](https://arynews.tv/adam-sandler-gives-sweet-marriage-tip-to-taylor-swift-travis-kelce)*
+- شہزادہ ہیری اور میگن مارکل کے دوست نے کنگ چارلس سے ملاقات کے بارے میں بات کی۔ *[ARY](https://arynews.tv/prince-harry-meghan-markles-friend-speaks-on-archie-and-lilibet-meeting-king-charles)*
 
