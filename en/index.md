@@ -4,50 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 06-Jul-2026 21:04PKT
+Published at: 07-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- **Microsoft** is cutting approximately 4,800 jobs, including a major restructuring of its Xbox division which involves shedding 3,200 gaming jobs and reviewing game studios. *[Dawn](https://www.dawn.com/news/2013405/microsoft-cuts-4800-jobs-as-it-revamps-xbox)*
-
-### Science & Technology
-- New guidance has been released on how users can **reserve, edit, and delete** their WhatsApp usernames. *[ARY](https://arynews.tv/whatsapp-usernames-how-to-reserve-edit-and-delete-yours)*
+- The Pakistan Stock Exchange (PSX) ended a five-day bullish streak, falling by over 1,100 points. *[Dawn](https://www.dawn.com/news/2013602/psx-snaps-5-day-bullish-streak-falls-by-over-1100-points)*
+- China's markets are increasingly seen as a source of diversification for investors, breaking away from global volatility trends. *[Dawn](https://www.dawn.com/news/2013620/china-breaks-step-with-global-markets-and-investors-buy-in)*
+- Prime Minister Shehbaz Sharif has called for a comprehensive strategy to enhance access to financing for small and medium-sized enterprises (SMEs). *[Dawn](https://www.dawn.com/news/2013571/pm-shehbaz-calls-for-comprehensive-strategy-to-boost-smes-access-to-financing)*
+- New regulations have been introduced regarding bank deposit profit rules in Pakistan. *[ARY](https://arynews.tv/bank-deposit-profit-rules-revised-in-pakistan)*
 
 ### Weather
-- The **Pakistan Meteorological Department (PMD)** has forecasted rain, windstorms, and thunderstorms across most of the country (except Sindh), raising concerns about potential urban flooding in Punjab and Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2013377/rain-thunderstorms-forecast-for-northern-central-parts-of-country-pmd)*
+- Experts warn that the current **El Nino** phenomenon is likely to become a record-breaker, increasing the risk of global droughts and floods. *[Dawn](https://www.dawn.com/news/2013607/this-years-el-nino-likely-to-become-record-breaker-top-expert)*
 
 ### Politics
-- **Amjad Hussain** of the PPP has been sworn in as the Chief Minister of Gilgit-Baltistan following the party's success in recent elections. *[Dawn](https://www.dawn.com/news/2013368/ppps-amjad-hussain-sworn-in-as-gb-chief-minister)*
+- Jamaat-i-Islami (JI) has announced nationwide protests for July 10 against the government's "extortionary" petroleum levy. *[Dawn](https://www.dawn.com/news/2013604/ji-chief-announces-countrywide-protests-against-extortionary-petroleum-levy-on-friday)*
+- The Election Commission of Pakistan (ECP) has issued warnings to KP and Islamabad authorities over delays in local government elections. *[Dawn](https://www.dawn.com/news/2013591/ecp-warns-kp-islamabad-again-over-delays-in-local-govt-polls)*
+- The Islamabad High Court granted a final adjournment to Imran Khan's counsel in the £190 million corruption case. *[Dawn](https://www.dawn.com/news/2013578/ihc-grants-final-adjournment-to-imrans-counsel-in-ps190m-corruption-case)*
 
 ### National
-- The **Pakistan Army** has affirmed its commitment to ensuring the availability of Pakistan's water share despite ongoing Indus Waters Treaty violations by India. *[Dawn](https://www.dawn.com/news/2013406/army-top-brass-affirms-commitment-to-take-all-measures-necessary-to-ensure-availability-of-pakistans-water-share)*
-- **NAB** has taken possession of Karachi's Bahria Icon Tower as part of an ongoing anti-money laundering investigation into property tycoon Malik Riaz. *[Dawn](https://www.dawn.com/news/2013398/nab-takes-possession-of-karachis-bahria-icon-tower-amid-investigation-against-property-tycoon-malik-riaz)*
-- State institutions claim to have evidence of **Indian funding** being used to mobilize the banned Joint Awami Action Committee (JAAC) in Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2013391/state-institutions-have-evidence-of-indian-funding-behind-jaacs-agenda-in-ajk-official)*
-- An additional district and sessions judge has granted **interim bail** to five accused, including an 11-year-old, in connection with the deadly Gul Plaza blaze in Karachi. *[Dawn](https://www.dawn.com/news/2013384/11-year-old-boy-4-others-accused-in-karachis-gul-plaza-blaze-granted-interim-bail)*
-- **President Asif Ali Zardari** has arrived in Kyrgyzstan for a four-day official visit at the invitation of the Kyrgyz President. *[Dawn](https://www.dawn.com/news/2013361/president-zardari-arrives-in-kyrgyzstan-for-4-day-official-visit)*
-- Lahore police have obtained five-day physical remand for three more suspects involved in the **abduction and sexual assault** of two foreign women. *[Dawn](https://www.dawn.com/news/2013365/foreigners-abduction-sexual-assault-case-lahore-police-get-custody-of-3-more-suspects-for-5-days)*
-- The **Supreme Court** has issued notices regarding pleas for an early hearing in the controversial social media posts case involving Imaan and Hadi. *[Dawn](https://www.dawn.com/news/2013353/sc-issues-notices-on-imaan-hadis-pleas-for-early-hearing-of-appeal-against-ihc-decision-in-social-media-posts-case)*
-- The Prime Minister and President paid tribute to **PAF Group Captain Asim Tariq**, who sacrificed his life while attempting to save a woman from abduction. *[Dawn](https://www.dawn.com/news/2013345/pm-president-pay-tribute-to-paf-officer-who-sacrificed-his-life-to-save-woman-from-alleged-abduction)*
-- The **Pakistan Army** has warned that India-backed proxies will face a decisive response. *[ARY](https://arynews.tv/pakistan-army-issues-warning-over-india-backed-terror-groups)*
-- **Balochistan** has become the first province to launch its own self-funded passenger train service. *[ARY](https://arynews.tv/balochistan-becomes-first-province-to-launch-self-funded-passenger-train-service)*
-- **Bilawal Bhutto** has urged all political parties to contest the AJK elections and present their manifestos. *[ARY](https://arynews.tv/bilawal-bhutto-asks-all-parties-to-contest-ajk-elections)*
-- The **Punjab government** is offering financial assistance of Rs. 0.25 million for agricultural land. *[ARY](https://arynews.tv/punjab-offers-financial-help-for-agricultural-land)*
+- The federal cabinet has approved a new **Haj Policy for 2027–2030** to improve operational efficiency and pilgrim services. *[Dawn](https://www.dawn.com/news/2013624/cabinet-approves-new-haj-policy-aimed-at-improving-pilgrim-services)*
+- PAF Group Captain Asim Tariq was laid to rest with full military honours after sacrificing his life to save a woman in distress. *[Dawn](https://www.dawn.com/news/2013616/paf-officer-who-sacrificed-his-life-saving-woman-in-distress-laid-to-rest-with-military-honours-ispr)*
+- Nine policemen were martyred during a terrorist attack on a police post in the Ziarat district of Balochistan. *[Dawn](https://www.dawn.com/news/2013564/9-cops-martyred-in-terrorist-attack-on-police-post-in-ziarat)*
+- The Sindh Counter-terrorism Department (CTD) thwarted a major terrorist plot in Karachi by arresting two BLA terrorists. *[Dawn](https://www.dawn.com/news/2013573/major-terrorist-plot-in-karachi-thwarted-as-2-bla-terrorists-arrested-sindh-ctd)*
+- A quadcopter attack in the Bannu district of KP resulted in one death and four injuries. *[Dawn](https://www.dawn.com/news/2013585/one-killed-4-injured-in-quadcopter-attack-in-kps-bannu-police)*
+- Physical altercations broke out between PTI workers during a sit-in at a Gorakhpur checkpoint. *[ARY](https://arynews.tv/pti-workers-fight-during-rawalpindi-sit-in)*
 
 ### International
-- **Hamas** has announced the dissolution of its governing body in Gaza, clearing the way for a technocratic committee to implement civilian rule. *[Dawn](https://www.dawn.com/news/2013378/hamas-announces-dissolution-of-gaza-governing-body)*
-- A deadly **prison riot in Sri Lanka** involving drug gangs has resulted in 26 deaths and over 100 injuries. *[Dawn](https://www.dawn.com/news/2013390/sri-lanka-prison-riot-kills-26-wounds-more-than-100)*
-- Millions gathered in Tehran for the **funeral procession** of the assassinated Iranian Supreme Leader, Ayatollah Ali Khamenei. *[Dawn](https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran)*
-- Six people, including five children, were killed in a **building collapse in Mumbai** following torrential monsoon rains. *[Dawn](https://www.dawn.com/news/2013366/5-children-among-6-killed-in-mumbai-building-collapse-as-torrential-rain-batters-city)*
-- **China** has conducted a missile test-fire from a submarine in the Pacific Ocean, causing alarm among regional powers. *[Dawn](https://www.dawn.com/news/2013349/china-says-test-fired-missile-in-pacific-ocean-alarming-regional-powers)*
-- **Kuwait** has announced water supply suspensions in several areas and intensified market inspections for food and cosmetics. *[ARY](https://arynews.tv/kuwait-announces-water-supply-suspension-in-these-areas)* / *[ARY](https://arynews.tv/kuwait-intensified-market-inspections-explained)*
+- US President Donald Trump stated he intends to lift sanctions on Turkiye and will decide on the sale of F-35 stealth jets. *[Dawn](https://www.dawn.com/news/2013605/trump-says-he-will-lift-turkiye-sanctions-decide-on-selling-f-35s)*
+- The leadership of the trust running India's grand Ram temple has been reshuffled following a donation theft scandal. *[Dawn](https://www.dawn.com/news/2013595/temple-built-on-site-of-demolished-babri-mosque-reshuffles-leadership-after-donation-theft-scandal)*
+- Italy's Prime Minister Giorgia Meloni is seeking to stabilize bilateral ties with the US following a personal feud with Donald Trump. *[Dawn](https://www.dawn.com/news/2013601/italys-meloni-seeks-to-avoid-escalation-after-trump-revives-personal-feud)*
+- Pakistan and Kyrgyzstan have reaffirmed their commitment to deepening bilateral trade and economic cooperation. *[Dawn](https://www.dawn.com/news/2013582/pakistan-kyrgyzstan-reaffirm-commitment-to-boosting-bilateral-ties-stress-importance-of-deepening-trade)*
+- Two bombs exploded in Damascus, Syria, injuring 18 people during French President Emmanuel Macron's visit. *[Dawn](https://www.dawn.com/news/2013577/syria-says-18-wounded-in-damascus-blasts-during-french-president-macrons-visit)*
+- India is expected to supply BrahMos and Astra missiles to Indonesia in a deal valued at approximately $630 million. *[Dawn](https://www.dawn.com/news/2013570/indonesia-to-buy-brahmos-missiles-indian-govt-official-says-as-modi-kicks-off-2-day-jakarta-visit)*
+- Pakistan has reportedly begun acting as a mediator between rival power centers in Libya. *[Dawn](https://www.dawn.com/news/2013507/pakistan-taking-on-mantle-of-mediation-for-war-torn-libya)*
+- An oil tanker was struck by an unknown projectile near the Strait of Hormuz, causing a fire. *[Dawn](https://www.dawn.com/news/2013561/oil-tanker-hit-by-unknown-projectile-in-strait-of-hormuz-region-says-maritime-agency)*
 
 ### Sports
-- **US President Donald Trump** requested a review of a red card issued to USA striker Folarin Balogun, highlighting political interference in FIFA matters. *[Dawn](https://www.dawn.com/news/2013381/trump-says-he-asked-fifa-chief-to-review-red-card-foul)*
-- A historical timeline has been compiled detailing various instances where **politics has intruded** on the FIFA World Cup. *[Dawn](https://www.dawn.com/news/2013402/a-timeline-of-when-politics-intruded-on-the-fifa-world-cup-pitch)*
-- Brazilian footballer **Neymar Jr.** has signaled a possible farewell to the Brazilian national team following a World Cup defeat to Norway. *[Dawn](https://www.dawn.com/news/2013350/its-over-neymar-signals-brazil-farewell-after-shock-fifa-world-cup-defeat-to-norway)*
-- The **BCCI** has announced its squad for the 2026 Zimbabwe T20I series, notably leaving out Sanju Samson. *[ARY](https://arynews.tv/bcci-announce-2026-zimbabwe-t20i-series-squad-sanju-samson-left-out)*
+- The Spanish Embassy sparked social media tension by trolling Portugal using a reference to Lamine Yamal's brother. *[ARY](https://arynews.tv/spanish-embassy-trolls-portugal-using-yamals-little-brother)*
+- A Paraguayan Senator has threatened footballer Kylian Mbappé with a lawsuit regarding 'gender violence.' *[ARY](https://arynews.tv/paraguayan-senator-threatens-mbappe-with-lawsuit-over-gender-violence)*
+- Internet personality IShowSpeed reacted strongly to trolls regarding Messi and Ronaldo following the World Cup. *[ARY](https://arynews.tv/ishowspeed-loses-it-after-messi-supporter-trolls-ronaldo-post-world-cup-exit)*
+- The Norwegian team is facing challenges from a sickness bug ahead of their match against England. *[ARY](https://arynews.tv/norway-in-trouble-sickness-bug-strikes-before-england-game)*
+
+### Health
+- The obesity and diabetes drug **HRS-7535** has successfully met its main goals in late-stage clinical trials. *[ARY](https://arynews.tv/hrs-7535-obesity-diabetes-drug-meets-main-goal-of-late-stage-trials)*
+- Residents in Karachi are on high alert following a third death this year linked to **Naegleria**. *[ARY](https://arynews.tv/karachi-third-naegleria-death-of-the-year-sparks-alarm-among-citizens)*
 
 ### Other
-- Recent speculation regarding **Taylor Swift's wedding** has renewed public interest in Karlie Kloss. *[ARY](https://arynews.tv/taylor-swifts-wedding-fuels-new-buzz-around-karlie-kloss)*
+- Actor Tom Holland wore a custom suit featuring a secret message at 'The Odyssey' premiere. *[ARY](https://arynews.tv/tom-holland-wears-custom-secret-message-suit-at-the-odyssey-premiere)*
+- Speculation has arisen regarding whether Will Smith and Jada Pinkett Smith might rekindle their relationship. *[ARY](https://arynews.tv/will-smith-jada-pinkett-smith-rekindle-relationship-after-years-of-separation)*
 
