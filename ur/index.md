@@ -7,49 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 06-Jul-2026 21:09PKT 
+ &lrm; 08-Jul-2026 21:11PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- **مائیکروسافٹ** نے ایکس باکس (Xbox) کے شعبے میں ڈھانچے کی تبدیلی اور اخراجات کم کرنے کے لیے 4,800 ملازمتیں ختم کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2013405/microsoft-cuts-4800-jobs-as-it-revamps-xbox)*
-- **نیب** نے پراپرٹی ٹائیکون ملک ریاض کے خلاف منی لانڈرنگ کی تحقیقات کے دوران کراچی کے مشہور **بحریہ آئیکن ٹاور** کا قبضہ لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2013398/nab-takes-possession-of-karachis-bahria-icon-tower-amid-investigation-against-property-tycoon-malik-riaz)*
-- **پنجاب حکومت** زرعی زمین کے حوالے سے مالی امداد کے حصول کے لیے نئی اسکیم پیش کر رہی ہے۔ *[ARY](https://arynews.tv/punjab-offers-financial-help-for-agricultural-land)*
+- امریکی صدر ٹرمپ کے ایران سے متعلق بیانات کے بعد پاکستان اسٹاک ایکسچینج میں 4,600 سے زائد پوائنٹس کی بڑی گراوٹ۔ *[Dawn](https://www.dawn.com/news/2013847/psx-tumbles-by-over-4600-points-after-trumps-comments-on-iran)*
+- ایران پر امریکی حملوں کے باعث عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ۔ *[Dawn](https://www.dawn.com/news/2013812/oil-rises-as-us-strikes-on-iran-raise-fears-over-shaky-truce)*
+- پاکستان میں بجلی کی قیمتوں میں اضافہ۔ *[ARY](https://arynews.tv/electricity-prices-increased-in-pakistan-2)*
+- پاکستان میں موجودہ کرنسی کے نرخ۔ *[ARY](https://arynews.tv/currency-rates-in-pakistan-today-usd-sar-aed-and-cad)*
 
 ### سائنس اور ٹیکنالوجی
-- **واٹس ایپ** صارفین کے لیے نئے یوزر نیم کو ریزرو کرنے، ایڈٹ کرنے اور ڈیلیٹ کرنے کے طریقہ کار کے بارے میں معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/whatsapp-usernames-how-to-reserve-edit-and-delete-yours)*
-
-### موسم
-- **پاکستان میٹرولوجیکل ڈیپارٹمنٹ (PMD)** کے مطابق ملک کے شمالی اور وسطی حصوں میں بارش اور گرج چمک کے ساتھ طوفان آنے کی پیش گوئی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013377/rain-thunderstorms-forecast-for-northern-central-parts-of-country-pmd)*
+- چین کی جانب سے امریکی AI ٹول 'کلاڈ کوڈ' میں سیکیورٹی کے خطرات کا انتباہ۔ *[Dawn](https://www.dawn.com/news/2013866/china-warns-of-security-backdoor-in-anthropic-ai-coding-tool)*
+- گوگل پکسل 11 سیریز سے متعلق معلومات اور قیمتوں کا لیک ہونا۔ *[ARY](https://arynews.tv/google-pixel-11-series-launch-date-prices-storage-options-leaked)*
 
 ### سیاست
-- **امجد حسین** نے گلگت بلتستان کے نئے وزیر اعلیٰ کے طور پر حلف اٹھا لیا ہے۔ *[Dawn](https://www.dawn.com/news/2013368/ppps-amjad-hussain-sworn-in-as-gb-chief-minister)*
-- **بلاول بھٹو** نے تمام سیاسی جماعتوں سے آزاد جموں و کشمیر کے انتخابات میں حصہ لینے اور اپنے منشور پیش کرنے کی اپیل کی ہے۔ *[ARY](https://arynews.tv/bilawal-bhutto-asks-all-parties-to-contest-ajk-elections)*
-- **سپریم کورٹ** نے سوشل میڈیا پوسٹس کے حوالے سے مقدمے میں جلد سماعت کی درخواستوں پر نوٹس جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2013353/sc-issues-notices-on-imaan-hadis-pleas-for-early-hearing-of-appeal-against-ihc-decision-in-social-media-posts-case)*
+- تلال چوہدری کا خیبر پختونخوا میں ایم پی اے کے بڑھتے ہوئے مراعات پر پی ٹی آئی کو نشانہ بنانا۔ *[Dawn](https://www.dawn.com/news/2013853/tallal-chaudhry-taunts-pti-over-pledges-to-end-vip-culture-after-kp-expands-lawmakers-privileges)*
+- پاک امریکہ تعلقات کے لیے 'آف شور بیلنسنگ' کے نظریے پر تجزیہ۔ *[Dawn](https://www.dawn.com/news/2013892/offshore-balancing-a-blueprint-for-pak-us-ties)*
 
 ### قومی
-- **پاک فوج** کے اعلیٰ حکام نے سندھ طاس معاہدے کے تحت پاکستان کے پانی کے حصص کی فراہمی کو یقینی بنانے کے لیے تمام ضروری اقدامات کرنے کا عہد کیا ہے۔ *[Dawn](https://www.dawn.com/news/2013406/army-top-brass-affirms-commitment-to-take-all-measures-necessary-to-ensure-availability-of-pakistans-water-share)*
-- **آزاد جموں و کشمیر** میں پابند تنظیم JAAC کے ایجنڈے کے پیچھے بھارتی فنڈنگ کے بارے میں سرکاری اداروں کے پاس شواہد موجود ہیں۔ *[Dawn](https://www.dawn.com/news/2013391/state-institutions-have-evidence-of-indian-funding-behind-jaacs-agenda-in-ajk-official)*
-- **گُل پلازہ آگ** کے واقعے میں نامزد پانچ ملزمان کو عبوری ضمانت دے دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013384/11-year-old-boy-4-others-accused-in-karachis-gul-plaza-blaze-granted-interim-bail)*
-- **صدر آصف علی زرداری** چار روزہ سرکاری دورے پر کرغزستان پہنچ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2013361/president-zardari-arrives-in-kyrgyzstan-for-4-day-official-visit)*
-- **لاہور پولیس** نے دو غیر ملکی خواتین کے اغوا اور جنسی زیادتی کے کیس میں مزید تین مشتبہ افراد کو پانچ روزہ ریمانڈ پر حراست میں لے لیا ہے۔ *[Dawn](https://www.dawn.com/news/2013365/foreigners-abduction-sexual-assault-case-lahore-police-get-custody-of-3-more-suspects-for-5-days)*
-- **وزیراعظم اور صدر** نے ایک خاتون کو اغوا سے بچاتے ہوئے جان قربان کرنے والے پی اے ایف افسر گروپ کیپٹن عاصم طارق کو خراج تحسین پیش کیا ہے۔ *[Dawn](https://www.dawn.com/news/2013345/pm-president-pay-tribute-to-paf-officer-who-sacrificed-his-life-to-save-woman-from-alleged-abduction)*
-- **پاک فوج** نے بھارت کی حمایت یافتہ دہشت گرد گروہوں کے خلاف فیصلہ کن کارروائی کا انتباہ کیا ہے۔ *[ARY](https://arynews.tv/pakistan-army-issues-warning-over-india-backed-terror-groups)*
-- **بلوچستان** ملک کا پہلا صوبہ بن گیا ہے جس نے خود ساختہ مسافر ٹرین سروس شروع کی ہے۔ *[ARY](https://arynews.tv/balochistan-becomes-first-province-to-launch-self-funded-passenger-train-service)*
+- بلوچستان میں دہشت گردی کے حالیہ حملوں میں 38 سکیورٹی اہلکار شہید اور 54 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2013868/38-security-personnel-martyred-54-terrorists-neutralised-in-recent-balochistan-attacks-dg-ispr)*
+- اورمرا کے قریب گمشدہ کارگو جہاز کا ملبہ کامیابی سے تلاش کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2013836/wreckage-of-missing-cargo-plane-located-off-ormara-paa)*
+- یوٹیوبر ریحان طارق کو توہینِ مذہب اور سائبر کرائم کے الزامات میں چھ روزہ ریمانڈ پر پولیس کے حوالے کیا گیا۔ *[Dawn](https://www.dawn.com/news/2013901/youtuber-rehan-tariq-handed-over-to-nccia-on-six-day-physical-remand-over-blasphemy-peca-charges)*
+- امریکی قونصل خانے لاہور اور کراچی میں 20 جولائی سے اپنی خدمات دوبارہ شروع کریں گے۔ *[Dawn](https://www.dawn.com/news/2013906/us-consulates-in-lahore-karachi-set-to-resume-consular-services-from-july-20)*
+- زیارت میں پولیس چوکی پر دہشت گردی کے حملے کے بعد ایس پی کو معطل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2013827/ziarat-sp-suspended-following-terrorist-attack-on-police-post-committee-formed-to-probe-incident)*
+- چکوال حادثے میں بچی کی ہلاکت کے حوالے سے والد کا پولیس پر فائرنگ کا الزام۔ *[Dawn](https://www.dawn.com/news/2013815/chakwal-ccd-incident-victims-father-alleges-robbers-did-not-fire-police-forced-him-to-sign-blank-paper)*
+- غیر ملکی خواتین کے اغوا اور زیادتی کے کیس میں ملزمان کا ریمانڈ مزید پانچ روز کے لیے بڑھا دیا۔ *[Dawn](https://www.dawn.com/news/2013835/foreigners-abduction-sexual-assault-case-4-suspects-physical-remand-extended-by-5-days)*
+- کراچی کو دنیا کے کم ترین رہنے کے قابل شہروں میں شامل قرار دیا گیا۔ *[Dawn](https://www.dawn.com/news/2013664/karachi-ranked-among-least-liveable-cities-in-the-world)*
+- گروپ کیپٹن عاصم طارق کے قتل کے کیس میں واردات سے متعلق نئی تفصیلات سامنے آئیں۔ *[ARY](https://arynews.tv/group-captain-asim-case-woman-whatsapp-chat-with-killer-out)*
+- فیلڈ مارشل کا سرحد پار سے آنے والی دہشت گردی کے خلاف سخت کارروائی کا عزم۔ *[ARY](https://arynews.tv/terrorism-emanating-from-across-borders-to-be-crushed-with-full-might-of-the-state-field-marshal)*
 
 ### بین الاقوامی
-- **حماس** نے غزہ میں گزشتہ دو دہائیوں سے جاری اپنی حکومتی باڈی کو ختم کرنے کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2013378/hamas-announces-dissolution-of-gaza-governing-body)*
-- **سری لنکا** کی ایک جیل میں ہونے والے فسادات میں 26 افراد ہلاک اور 100 سے زائد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2013390/sri-lanka-prison-riot-kills-26-wounds-more-than-100)*
-- **ایران** میں مرحوم سپریم لیڈر آیت اللہ علی خامنہ ای کے جنازے میں لاکھوں افراد نے شرکت کی۔ *[Dawn](https://www.dawn.com/news/2013346/millions-gather-as-funeral-procession-of-irans-assassinated-supreme-leader-begins-in-tehran)*
-- **چین** نے بحر الکاہل میں میزائل کا کامیاب تجربہ کیا ہے، جس سے علاقائی ممالک میں تشویش پھیل گئی ہے۔ *[Dawn](https://www.dawn.com/news/2013349/china-says-test-fired-missile-in-pacific-ocean-alarming-regional-powers)*
-- **ممبئی** میں شدید بارشوں کے باعث ایک عمارت گرنے سے 6 افراد ہلاک ہو گئے، جن میں 5 بچے شامل ہیں۔ *[Dawn](https://www.dawn.com/news/2013366/5-children-among-6-killed-in-mumbai-building-collapse-as-torrential-rain-batters-city)*
-- **کویت** میں پانی کی فراہمی کی معطلی اور مارکیٹ میں اشیائے خوردونوش و کاسمیٹکس کے حوالے سے سخت معائنے کا اعلان کیا گیا ہے۔ *[ARY](https://arynews.tv/kuwait-announces-water-supply-suspension-in-these-areas)*
+- ایران کی جانب سے کویت اور بحرین میں امریکی فوجی اڈوں پر میزائل اور ڈرون حملے، کئی سہولیات کو نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/2013772/iran-guards-say-american-bases-in-kuwait-bahrain-hit-after-us-unleashes-new-wave-of-strikes)*
+- اقوام متحدہ کی جانب سے غزہ کے ڈاکٹر کی فوری رہائی کا مطالبہ۔ *[Dawn](https://www.dawn.com/news/2013872/un-inquiry-urges-release-of-gaza-doctor-held-by-israel-since-december-2024)*
+- بھارت سے منسلک منظم جرائم کے خلاف بین الاقوامی آپریشن میں 24 افراد کی گرفتاری۔ *[Dawn](https://www.dawn.com/news/2013811/international-sting-arrests-24-over-india-based-organised-crime)*
+- خور مفتی میں ایل این جی ٹینکر پر حملے کے بعد دھماکے کا خطرہ پیدا ہو گیا۔ *[Dawn](https://www.dawn.com/news/2013879/what-are-the-risks-of-an-lng-tanker-explosion)*
+- پاکستان اور چین کے درمیان دہشت گردی کے خلاف تعاون بڑھانے پر اتفاق۔ *[Dawn](https://www.dawn.com/news/2013843/islamabad-beijing-agree-to-boost-counterterrorism-cooperation-as-naqvi-meets-chinese-counterpart)*
+- کویت میں میزائل اور ڈرون کے اس拦截 اور بجلی کی لائنوں کو پہنچنے والے نقصان کی اطلاع۔ *[ARY](https://arynews.tv/kuwait-claims-intercepted-two-ballistic-missiles-13-drones)*
 
 ### کھیل
-- امریکی صدر **ڈونلڈ ٹرمپ** نے فیفا کے چیف سے فٹ بال میچ کے دوران ایک ریڈ کارڈ کے فیصلے پر نظرثانی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2013381/trump-says-he-asked-fifa-chief-to-review-red-card-foul)*
-- برازیل کے اسٹار فٹ بالر **نیمار** نے ناروے کے خلاف ورلڈ کپ میں شکست کے بعد برازیل کے لیے اپنی ممکنہ واپسی کے حوالے سے اشارہ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2013350/its-over-neymar-signals-brazil-farewell-after-shock-fifa-world-cup-defeat-to-norway)*
-- **BCCI** نے زمبابو کے خلاف ٹی ٹوئنٹی سیریز کے لیے اسکواڈ کا اعلان کر دیا ہے جس میں سنجو سیمسن کو شامل نہیں کیا گیا۔ *[ARY](https://arynews.tv/bcci-announce-2026-zimbabwe-t20i-series-squad-sanju-samson-left-out)*
+- لیونل میسی کی پنالٹی کی کمزوری اور ورلڈ کپ کے سفر کا تجزیہ۔ *[Dawn](https://www.dawn.com/news/2013903/messi-world-cup-magic-masks-familiar-penalty-frailty)*
+- فیفا کے 'کراسڈ آرمز' (X) سگنل کی وضاحت۔ *[ARY](https://arynews.tv/what-is-fifas-crossed-arms-x-signal-and-why-was-egypts-coach-booked-for-it)*
 
 ### دیگر
-- **ٹیلر سوئفٹ** کی شادی کے حوالے سے سوشل میڈیا پر نئی بحث چھڑ گئی ہے۔ *[ARY](https://arynews.tv/taylor-swifts-wedding-fuels-new-buzz-around-karlie-kloss)*
+- عبدالستار ایدھی کی عظیم زندگی کو خراجِ تحسین۔ *[Dawn](https://www.dawn.com/news/1269733/edhi-a-life-less-ordinary)*
+- دلجیت دوسانجھ کی فلم 'ستلج' کا ریویو۔ *[ARY](https://arynews.tv/satluj-diljit-dosanjh-review-2026)*
+- کونر مرفی کی ویڈیو کا وائرل ہونا۔ *[ARY](https://arynews.tv/connor-murphys-last-clip-goes-viral-before-drowning)*
 
