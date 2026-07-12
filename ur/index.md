@@ -7,49 +7,55 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 11-Jul-2026 09:10PKT 
+ &lrm; 12-Jul-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے پیٹرول کی قیمت میں 13.18 روپے اور ڈیزل کی قیمت میں 13.80 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2014423/govt-raises-petrol-price-by-rs1318-diesel-by-rs1380)*
-- نیلم جہلم ہائیڈرو پاور پروجیکٹ کے مارچ 2028 تک بجلی کی پیداوار دوبارہ شروع کرنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2014508/neelum-jhelum-set-to-resume-generation-by-march-2028)*
-- اسلام آباد انٹرنیشنل ایئرپورٹ کے آپریشنز کو آؤٹ سورس کرنے کے لیے ایشین ڈویلپمنٹ بینک (ADB) کے مشاورتی کردار کی منظوری دے دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2014398/privatisation-commission-approves-adbs-advisory-role-in-outsourcing-islamabad-airport-operations)*
-- پاکستان میں مٹی کے تیل (کیروسین) کی قیمتوں میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/kerosene-oil-price-increased-in-pakistan)*
+- **جی ایس ٹی میں اضافے کے بعد ہائبرڈ گاڑیوں کی قیمتوں میں اضافہ ہو گیا ہے، جس سے ٹویوٹا اور ہونڈا جیسی کمپنیوں نے ریٹ بڑھا دیے ہیں۔** *[Dawn](https://www.dawn.com/news/2014767/gst-hike-pushes-up-hybrid-vehicle-prices)*
+- **عراقی وزیراعظم کا واشنگٹن کا دورہ، جس کے دوران تیل اور گیس کے شعبے میں اہم معاہدوں کی توقع ہے۔** *[Dawn](https://www.dawn.com/news/2014882/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected)*
+- **وفاقی حکومت نے ملک میں گندم کی قلت کے تمام امکانات کو مسترد کر دیا ہے۔** *[Dawn](https://www.dawn.com/news/2014768/govt-rules-out-wheat-shortage-in-country)*
 
 ### سائنس اور ٹیکنالوجی
-- چین نے سمندری پلیٹ فارم پر راکٹ بوسٹر ریکوری سسٹم کا کامیاب تجربہ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2014393/china-successfully-tests-sea-based-rocket-booster-recovery-system)*
+- **کویت میں قدرتی آفات سے نمٹنے کے لیے نئے اسمارٹ سینسر نیٹ ورک کا قیام۔** *[ARY](https://arynews.tv/new-smart-sensor-network-to-strengthen-kuwaits-disaster-readiness)*
 
 ### موسم
-- محکمہ موسمیات نے ملک کے بالائی علاقوں میں ویک اینڈ پر بارش اور تیز ہواؤں کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2014379/rain-predicted-in-countrys-upper-regions-over-the-weekend)*
+- **بنگلہ دیش میں مون سون کی بارشوں، سیلاب اور لینڈ سلائیڈنگ کے نتیجے میں 50 افراد ہلاک اور ہزاروں بے گھر ہو گئے۔** *[Dawn](https://www.dawn.com/news/2014896/bangladesh-monsoon-death-toll-hits-50-thousands-displaced)*
 
 ### سیاست
-- سینیٹ کی کمیٹی نے سابق قانون سازوں کے بچوں کے لیے بلیو پاسپورٹ کے استعمال کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2014537/senate-body-clears-blue-passport-for-ex-legislators-kids)*
-- آزاد کشمیر کے وزیراعظم نے مشترکہ عوامی ایکشن کمیٹی (JAAC) کے پلیٹ فارم کے غلط استعمال پر تنبیہ کا خیر مقدم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2014513/ajk-pm-welcomes-rebuke-to-those-misusing-jaac-platform)*
-- خیبر پختونخوا حکومت نے قانون سازوں کو خصوصی اختیارات دینے والے قانون کی متنازعہ شقیں واپس لینے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2014416/kp-govt-decides-to-withdraw-controversial-clauses-from-law-granting-expanded-privileges-to-lawmakers)*
+- **جماعت اسلامی نے آزاد جموں و کشمیر میں حکومت اور JAAC کے درمیان مذاکرات کے لیے 'کشمیر امن جرگہ' بنانے کا فیصلہ کیا ہے۔** *[Dawn](https://www.dawn.com/news/2014888/ji-to-form-kashmir-peace-jirga-to-facilitate-dialogue-between-govt-jaac)*
+- **سینیٹ کمیٹی کی جانب سے سابق قانون سازوں کے بچوں کو 'بلیو پاسپورٹ' دینے کے مجوزہ بل پر سوشل میڈیا پر تنقید۔** *[Dawn](https://www.dawn.com/news/2014879/shameful-proposed-bill-allowing-blue-passports-for-ex-legislators-kids-comes-under-scrutiny-on-social-media)*
+- **ایران نے اقوام متحدہ کی سلامتی کونسل میں پاکستان کے موقف (ووٹ سے گریز) پر شکریہ ادا کیا۔** *[Dawn](https://www.dawn.com/news/2014760/iran-thanks-pakistan-for-abstention-at-unsc-meeting)*
 
-### قومی
-- کوئٹہ میں سیکیورٹی فورسز نے دہشت گردوں کے خلاف بڑے آپریشن میں متعدد دہشت گرد ہلاک کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2014542/troops-join-fc-police-to-hunt-down-terrorists-in-quetta)*
-- ہنا اورک ویلی سے اغوا شدہ قبائلیوں کی واپسی کے بعد کوئٹہ میں احتجاج ختم کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2014539/quetta-sit-in-ends-after-abducted-tribesmen-return-home)*
-- سپریم کورٹ نے تعلیمی اداروں میں ہراساں کرنے کے واقعات کو روکنے کے لیے جامع رہنما اصول جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2014538/sc-lays-down-guidelines-to-curb-harassment-in-educational-institutions)*
-- کراچی کے ایک نجی اسکول کو غیر قانونی فیسوں میں اضافے کو واپس لینے کا حکم دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2014384/private-school-in-karachi-ordered-to-reverse-unlawful-fee-hikes)*
-- بحیرہ عرب میں گرے ہوئے کارگو طیارے کے عملے کی تلاش کا کام جاری ہے۔ *[Dawn](https://www.dawn.com/news/2014365/more-wreckage-of-crashed-cargo-plane-found-search-for-crew-ongoing-paa)*
-- ایران اور عراق کے زائرین کو نئی زیارت مینجمنٹ پالیسی پر عمل کرنے کی ہدایت کی گئی ہے۔ *[ARY](https://arynews.tv/pilgrims-advised-to-follow-ziyarat-management-policy)*
+### قومی خبریں
+- **بلوچستان میں جاری 'آپریشن شبان' کے دوران مزید 7 دہشت گرد ہلاک، اب تک مجموعی تعداد 71 ہو گئی۔** *[Dawn](https://www.dawn.com/news/2014844/7-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media)*
+- **بلوچستان کے ضلع واشک میں مسلح افراد نے پنجاب سے تعلق رکھنے والے 5 مزدوروں کو ہلاک کر دیا۔** *[Dawn](https://www.dawn.com/news/2014893/5-workers-from-punjab-gunned-down-in-balochistans-washuk-dc)*
+- **لاہور میں بجلی کے بلوں کی وصولی کے لیے لیسکو کے عملے پر صارفین کو ہراساں کرنے کے الزامات۔** *[Dawn](https://www.dawn.com/news/2014726/lesco-teams-harassing-consumers-for-recovery-of-bills)*
+- **آزاد جموں و کشمیر کے ضلع پونچھ میں مظاہرین اور قانون نافذ کرنے والے اداروں کے درمیان جھڑپوں میں ایک شخص ہلاک۔** *[Dawn](https://www.dawn.com/news/2014762/one-dies-amid-fierce-clashes-in-ajks-poonch)*
+- **پیمرا کے حکم پر جیاو نیوز کی نشریات 15 دن کے بعد بحال، مستقبل میں خلاف ورزی پر لائسنس منسوخی کی وارننگ۔** *[Dawn](https://www.dawn.com/news/2014653/geo-news-resumes-transmission-after-15-day-suspension-warned-of-licence-cancellation-over-future-violations)*
+- **ٹریفک پولیس کی جانب سے گاڑیوں کے خلاف خصوصی کریک ڈاؤن کا آغاز۔** *[ARY](https://arynews.tv/traffic-police-to-seize-vehicles-in-special-sunday-crackdown)*
+- **اسلام آباد کے ایک ذہنی صحت مرکز میں نوجوان مریض کو تشدد کا نشانہ بنا کر قتل کرنے کا الزام۔** *[ARY](https://arynews.tv/young-patient-allegedly-tortured-to-death-at-islamabad-mental-health-center)*
 
 ### بین الاقوامی
-- امریکی صدر ٹرمپ کے قطر کے تحفے میں ملے طیارے کے حوالے سے سیکیورٹی خدشات سامنے آ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2014518/security-concerns-swirl-over-trumps-qatar-gifted-plane)*
-- وزیراعظم شہباز شریف نے مشرق وسطیٰ میں تناؤ کو کم کرنے اور امن برقرار رکھنے پر زور دیا ہے۔ *[Dawn](https://www.dawn.com/news/2014422/pm-shehbaz-calls-on-iran-other-parties-not-to-jeopardise-hard-earned-peace-gains)*
-- سندھ طاس معاہدے کے حوالے سے بھارت کے اقدامات پر قانونی بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2014553/abeyance-without-proof)*
-- کویت نے مقیم افراد کے لیے نئی ڈیجیٹل سروس کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/kuwait-launches-new-digital-service-for-expat)*
+- **ایران اور امریکہ کے درمیان کشیدگی میں اضافہ؛ ایران کا خلیج ہرمز کو بند کرنے کا دعویٰ۔** *[Dawn](https://www.dawn.com/news/2014807/tehran-says-strait-of-hormuz-shut-as-us-launches-fresh-strikes-on-iran-gulf-states-hit)*
+- **امریکی سینیٹر لنڈسے گراہم کا 71 برس کی عمر میں انتقال۔** *[Dawn](https://www.dawn.com/news/2014843/trumps-critic-turned-ally-us-senator-lindsey-graham-dies-at-71)*
+- **قطر کے سابق امیر شیخ حمد بن خلیفہ آل ثانی کا انتقال۔** *[Dawn](https://www.dawn.com/news/2014840/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74)*
+- **پاکستان کے نائب وزیراعظم اسحاق ڈار کی ایرانی وزیر خارجہ سے فون پر بات، خطے میں کشیدگی کم کرنے پر زور۔** *[Dawn](https://www.dawn.com/news/2014857/dar-holds-phone-call-with-iranian-fm-amid-latest-attacks-in-mideast-calls-for-de-escalation-and-restraint)*
+- **برطانیہ کی جانب سے امیگریشن قوانین میں سختی، ورک اور اسٹڈی ویزا متاثر ہوں گے۔** *[ARY](https://arynews.tv/uk-tightens-immigration-rules-affecting-work-study-family-visas)*
 
 ### کھیل
-- سپین نے بیلجیم کو ہرا کر فیفا ورلڈ کپ کے سیمی فائنل میں جگہ بنا لی ہے۔ *[Dawn](https://www.dawn.com/news/2014466/merino-strikes-late-as-spain-beat-belgium-to-set-up-france-fifa-world-cup-semi)* / *[ARY](https://arynews.tv/spain-defeat-belgium-reach-world-cup-semi-finals)*
-- ومبلڈن ٹینس میں جوکووچ کی شکست اور سنر کی کامیابی سے متعلق خبریں رپورٹ ہوئی ہیں۔ *[ARY](https://arynews.tv/sinner-salutes-true-inspiration-djokovic-after-ending-rivals-wimbledon-bid)*
-- بھارتی کھلاڑی منڈھنا نے لارڈز میں ہونے والے پہلے خواتین کے ٹیسٹ میچ میں حصہ لیا۔ *[ARY](https://arynews.tv/indias-mandhana-stars-in-inaugural-womens-test-at-lords)*
+- **ٹی ٹوئنٹی ورلڈ کپ کے بعد بھارت کی بیٹنگ لائن پر ماہرین کے سوالات۔** *[Dawn](https://www.dawn.com/news/2014865/indias-batting-under-the-microscope-after-t20-defeats-by-england-ireland)*
+- **ارجنٹینا نے سوئٹزرلینڈ کو شکست دے کر فٹ بال ورلڈ کپ کے سیمی فائنل میں انگلینڈ کے خلاف مقابلہ کرنے کا موقع پایا۔** *[Dawn](https://www.dawn.com/news/2014832/argentina-sink-10-man-swiss-to-set-up-blockbuster-fifa-world-cup-semi-final-against-england)*
+
+### صحت
+- **پاکستانی ڈاکٹر ڈاکٹر عائشہ ایمیان کو بین الاقوامی ذہنی صحت تنظیم (IACAPAP) کا صدر منتخب کر لیا گیا۔** *[Dawn](https://www.dawn.com/news/2014695/pakistani-doctor-elected-president-of-leading-mental-health-body)*
+- **ترکیہ میں سی-سیکشن (C-section) کے ذریعے پیدائش کرانے پر 100 سے زائد ڈاکٹروں پر جرمانہ۔** *[Dawn](https://www.dawn.com/news/2014756/turkiye-fines-over-100-doctors-for-caesarean-deliveries)*
 
 ### دیگر
-- مفتی تقی عثمانی نے کرپٹو کرنسی کے ذریعے خریداری کو اسلامی قانون کے تحت ناجائز قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2014389/mufti-taqi-usmani-declares-crypto-based-purchases-impermissible-under-islamic-law)*
-- عالمی یومِ آبادی کے موقع پر انسانی ترقی اور نوجوانوں کے حقوق پر توجہ مرکوز کرنے کی ضرورت پر زور دیا گیا۔ *[Dawn](https://www.dawn.com/news/2014554/unlocking-human-development)*
-- اداکار انتھونی ہاپکنز نے بطور موسیقار ایک اہم ریکارڈ ڈیل پر دستخط کر دیے۔ *[ARY](https://arynews.tv/actor-anthony-hopkins-signs-record-deal-as-a-composer)*
-- برطانوی شاہی خاندان کے فلاحی میچ نے ایک ملین پاؤنڈ جمع کیے ہیں۔ *[ARY](https://arynews.tv/princess-catherine-cheers-on-prince-william-as-royal-charity-polo-match-raises-1m)*
+- **مایا ہوک نے اپنی اداکاری کے خواب کے لیے جیسفر لارنس اور 'دی ہنگر گیمز' کا کریڈٹ دیا۔** *[ARY](https://arynews.tv/maya-hawke-credits-jennifer-lawrence-the-hunger-games)*
+- **فیفا ورلڈ کپ کے موقع پر ڈوا لیپا اور کالم ٹرنر کا خاص لمحہ۔** *[ARY](https://arynews.tv/dua-lipa-callum-turner-share-special-moment-at-fifa-world-cup)*
+- **برکلن بیکم کی جانب سے سوشل میڈیا پر پراسرار پیغام۔** *[ARY](https://arynews.tv/brooklyn-beckham-posts-cryptic-message-as-parents-celebrate-world-cup-win)*
+- **ایڈم سینڈلر کی ٹیلر سوئفٹ اور ٹریوس کیلسی کی شادی میں آفیشی ایٹ کرنے کی وجہ۔** *[ARY](https://arynews.tv/why-adam-sandler-officiated-taylor-swift-and-travis-kelces-wedding)*
+- **شیخار سومن کے عامر خان کے بارے میں تبصرے وائرل۔** *[ARY](https://arynews.tv/shekhar-sumans-comments-on-aamir-khan-go-viral)*
+- **ڈارک سولز (Dark Souls) کے مداحوں کے لیے نئی اور غیر متوقع چیز پیش کی گئی۔** *[ARY](https://arynews.tv/dark-souls-3-collectible-abyss-watchers-figure)*
 
