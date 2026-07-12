@@ -4,44 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Jul-2026 09:04PKT
+Published at: 12-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- An increase in General Sales Tax (GST) on hybrid vehicles to 25% has led local assemblers like Toyota and Honda to raise prices by over Rs1.3m. *[Dawn](https://www.dawn.com/news/2014767/gst-hike-pushes-up-hybrid-vehicle-prices)*
-- Pakistan and the United States have made significant progress in negotiations regarding a proposed reciprocal trade agreement. *[Dawn](https://www.dawn.com/news/2014597/pakistan-us-make-significant-progress-in-talks-on-proposed-reciprocal-trade-agreement)*
-- Gwadar Port successfully completed its first commercial bunkering (ship refueling) operation in collaboration with several global and local entities. *[Dawn](https://www.dawn.com/news/2014650/gwadar-port-carries-out-first-successful-bunkering-operation)*
-- Deputy Prime Minister Ishaq Dar emphasized that Pakistan's geographical location is a key asset that can drive economic benefits through improved connectivity. *[Dawn](https://www.dawn.com/news/2014758/pakistans-location-an-asset-that-needs-to-be-explored-dar)*
-- The Chairman of the Pakistan Virtual Assets Regulatory Authority held discussions with religious scholars regarding the Shariah status of digital assets. *[Dawn](https://www.dawn.com/news/2014640/crypto-czar-holds-constructive-discussion-with-mufti-taqi-usmani-on-shariah-status-of-digital-assets)*
+- The increase in general sales tax (GST) on hybrid vehicles to 25% has led local assemblers to raise prices. *[Dawn](https://www.dawn.com/news/2014767/gst-hike-pushes-up-hybrid-vehicle-prices)*
+- The federal government has ruled out a wheat shortage, noting that production targets have been met. *[Dawn](https://www.dawn.com/news/2014768/govt-rules-out-wheat-shortage-in-country)*
+
+### Science & Technology
+- A new smart sensor network is being implemented to enhance disaster readiness in Kuwait. *[ARY](https://arynews.tv/new-smart-sensor-network-to-strengthen-kuwaits-disaster-readiness)*
 
 ### Weather
-- The Pakistan Meteorological Department has warned of Glacial Lake Outburst Flood (GLOF) risks in Gilgit-Baltistan and Khyber Pakhtunkhwa due to rising temperatures and new weather systems. *[Dawn](https://www.dawn.com/news/2014776/gb-moves-to-establish-glaciers-protection-authority)*
+- Monsoon-driven flash floods and landslides in Bangladesh have caused at least 50 deaths and the displacement of thousands. *[Dawn](https://www.dawn.com/news/2014896/bangladesh-monsoon-death-toll-hits-50-thousands-displaced)*
 
 ### Politics
-- The US has launched multiple strikes on Iran following an attack on a container ship in the Strait of Hormuz; Iran's IRGC has responded by announcing the closure of the strait. *[Dawn](https://www.dawn.com/news/2014807/us-launches-new-strikes-on-iran-after-container-ship-hit-in-hormuz-irgc-announces-closure-of-vital-strait)* *[ARY](https://arynews.tv/us-launches-more-strikes-on-iran-12-july-2026)*
-- Iran’s Supreme Leader Mojtaba Khamenei has vowed revenge against the US and Israel following the assassination of his father. *[Dawn](https://www.dawn.com/news/2014642/irans-supreme-leader-mojtaba-khamenei-vows-revenge-for-assassinated-father)*
-- US Democratic lawmaker Ro Khanna was detained by Israeli settlers during a visit to the West Bank. *[Dawn](https://www.dawn.com/news/2014620/us-democrat-ro-khanna-detained-by-israeli-settlers-during-west-bank-visit)*
-- India and New Zealand have announced a new strategic partnership focused on defense and security. *[Dawn](https://www.dawn.com/news/2014582/new-zealand-india-strike-milestone-strategic-partnership-encompassing-defence-and-security)*
-- Russia has conducted strikes in Ukraine that killed eight people, prompting President Zelenskyy to call for faster weapons deliveries. *[ARY](https://arynews.tv/russian-strikes-kill-eight-wound-dozens-in-ukraine)*
-- Iran expressed gratitude to Pakistan for its decision to abstain from a UN Security Council vote regarding Iran's nuclear program. *[Dawn](https://www.dawn.com/news/2014760/iran-thanks-pakistan-for-abstention-at-unsc-meeting)*
+- Jamaat-i-Islami has decided to form a "grand" Kashmir peace jirga to facilitate dialogue between the AJK government and the JAAC. *[Dawn](https://www.dawn.com/news/2014888/ji-to-form-kashmir-peace-jirga-to-facilitate-dialogue-between-govt-jaac)*
+- Deputy Prime Minister Ishaq Dar held a call with the Iranian Foreign Minister to call for regional de-escalation. *[Dawn](https://www.dawn.com/news/2014857/dar-holds-phone-call-with-iranian-fm-amid-latest-attacks-in-mideast-calls-for-de-escalation-and-restraint)*
+- A proposed bill allowing "blue passports" for children of ex-legislators is facing significant criticism on social media. *[Dawn](https://www.dawn.com/news/2014879/shameful-proposed-bill-allowing-blue-passports-for-ex-legislators-kids-comes-under-scrutiny-on-social-media)*
 
 ### National
-- One person was killed and several others injured during fierce clashes between protesters and law enforcement in AJK's Poonch. *[Dawn](https://www.dawn.com/news/2014762/one-dies-amid-fierce-clashes-in-ajks-poonch)*
-- The Judicial Commission of Pakistan is preparing to select three judges for the Islamabad High Court (IHC) amid political sensitivity. *[Dawn](https://www.dawn.com/news/2014778/tough-contest-ahead-as-judicial-commission-of-pakistan-set-to-fill-ihc-slots)*
-- The Balochistan government is restructuring administrative units, including splitting the Quetta district into East and West Quetta. *[Dawn](https://www.dawn.com/news/2014627/quetta-split-into-two-districts-as-balochistan-undergoes-administrative-restructuring)*
-- Islamabad is hosting the 9th OIC Ministerial Conference focused on the socio-economic and political empowerment of women. *[Dawn](https://www.dawn.com/news/2014617/islamabad-to-host-2-day-oic-moot-on-women-empowerment-from-sunday)*
-- On World Population Day, Prime Minister Shehbaz Sharif pledged responsible population planning to manage Pakistan's rapid demographic growth. *[Dawn](https://www.dawn.com/news/2014604/on-world-population-day-govt-pledges-responsible-planning-to-tackle-alarming-demographic-boom)*
-- The Gilgit-Baltistan government has announced the establishment of a Glaciers Protection Authority. *[Dawn](https://www.dawn.com/news/2014776/gb-moves-to-establish-glaciers-protection-authority)*
+- Security forces in Balochistan have killed seven more terrorists during Operation Shaban, bringing the total to 71. *[Dawn](https://www.dawn.com/news/2014844/7-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media)*
+- Five workers from Punjab were gunned down by armed men in the Washuk district of Balochistan. *[Dawn](https://www.dawn.com/news/2014893/5-workers-from-punjab-gunned-down-in-balochistans-washuk-dc)*
+- Consumers in Lahore have reported harassment by Lesco officials regarding the unlawful recovery of electricity bills. *[Dawn](https://www.dawn.com/news/2014726/lesco-teams-harassing-consumers-for-recovery-of-bills)*
+- Fierce clashes in AJK's Poonch district resulted in at least one death and several injuries. *[Dawn](https://www.dawn.com/news/2014762/one-dies-amid-fierce-clashes-in-ajks-poonch)*
 - Geo News has resumed transmission following a 15-day suspension ordered by Pemra. *[Dawn](https://www.dawn.com/news/2014653/geo-news-resumes-transmission-after-15-day-suspension-warned-of-licence-cancellation-over-future-violations)*
+- Traffic police are set to conduct a special crackdown involving the seizure of vehicles. *[ARY](https://arynews.tv/traffic-police-to-seize-vehicles-in-special-sunday-crackdown)*
+- A young patient was allegedly tortured to death at a mental health center in Islamabad. *[ARY](https://arynews.tv/young-patient-allegedly-tortured-to-death-at-islamabad-mental-health-center)*
+
+### International
+- Tensions in the Middle East have escalated as the US launches strikes on Iran and Tehran closes the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2014807/tehran-says-strait-of-hormuz-shut-as-us-launches-fresh-strikes-on-iran-gulf-states-hit)*
+- Prominent US Senator Lindsey Graham has passed away at the age of 71. *[Dawn](https://www.dawn.com/news/2014843/trumps-critic-turned-ally-us-senator-lindsey-graham-dies-at-71)*
+- The former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, has died at age 74. *[Dawn](https://www.dawn.com/news/2014840/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74)*
+- Iraq's Prime Minister is scheduled to visit Washington to discuss strategic ties and potential oil and gas deals. *[Dawn](https://www.dawn.com/news/2014882/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected)*
+- Iran thanked Pakistan for abstaining from a UN Security Council vote regarding its nuclear programme. *[Dawn](https://www.dawn.com/news/2014760/iran-thanks-pakistan-for-abstention-at-unsc-meeting)*
+- The UK has introduced tighter immigration rules affecting work, study, and family visas. *[ARY](https://arynews.tv/uk-tightens-immigration-rules-affecting-work-study-family-visas)*
 
 ### Sports
-- England reached the World Cup semi-finals after a 2-1 victory over Norway, driven by two goals from Jude Bellingham. *[Dawn](https://www.dawn.com/news/2014797/bellingham-double-fires-england-past-norway-into-world-cup-semis)* *[ARY](https://arynews.tv/england-v-norway-fifa-world-cup-quarter-final)*
-- Argentina defeated Switzerland to advance to the World Cup semi-finals. *[ARY](https://arynews.tv/argentina-v-switzerland-world-cup-quarter-final)*
-- FIFA stated there is no evidence that a cable interfered with Jude Bellingham's decisive goal. *[ARY](https://arynews.tv/no-evidence-ball-hit-cable-for-bellingham-world-cup-goal-fifa)*
-- Other sports updates include Noskova's Wimbledon inspiration, Paolo Maldini receiving a key role with the Italian FA, and England women's player Knight announcing her retirement. *[ARY](https://arynews.tv/noskovas-glimpse-of-wimbledon-trophy-inspired-title-glory)* *[ARY](https://arynews.tv/italy-icon-maldini-gets-key-role-with-italian-fa)* *[ARY](https://arynews.tv/knight-to-retire-from-england-womens-duty-after-lords-test)*
+- India's batting performance is under scrutiny following T20 series defeats by England and Ireland. *[Dawn](https://www.dawn.com/news/2014865/indias-batting-under-the-microscope-after-t20-defeats-by-england-ireland)*
+- Argentina has advanced to the FIFA World Cup semi-final to face England after defeating Switzerland. *[Dawn](https://www.dawn.com/news/2014832/argentina-sink-10-man-swiss-to-set-up-blockbuster-fifa-world-cup-semi-final-against-england)*
+
+### Health
+- Pakistani doctor Dr. Ayesha I. Mian has been elected president of the International Association for Child and Adolescent Psychiatry and Allied Professions. *[Dawn](https://www.dawn.com/news/2014695/pakistani-doctor-elected-president-of-leading-mental-health-body)*
+- The Turkish health ministry has fined over 100 doctors for high rates of Caesarean deliveries. *[Dawn](https://www.dawn.com/news/2014756/turkiye-fines-over-100-doctors-for-caesarean-deliveries)*
 
 ### Other
-- A speedboat accident off Phu Quoc island in Vietnam resulted in the deaths of at least 15 Indian tourists. *[Dawn](https://www.dawn.com/news/2014632/speedboat-accident-in-southern-vietnam-kills-15-indian-tourists)*
-- Ariana Grande has exited the production of *American Horror Story* season 13. *[ARY](https://arynews.tv/ariana-grande-exits-american-horror-story-season-13)*
+- Actress Maya Hawke has credited Jennifer Lawrence and *The Hunger Games* for inspiring her acting career. *[ARY](https://arynews.tv/maya-hawke-credits-jennifer-lawrence-the-hunger-games)*
+- Dua Lipa and Callum Turner were seen sharing a moment at the FIFA World Cup. *[ARY](https://arynews.tv/dua-lipa-callum-turner-share-special-moment-at-fifa-world-cup)*
+- Brooklyn Beckham posted a cryptic message as his parents celebrated a World Cup win. *[ARY](https://arynews.tv/brooklyn-beckham-posts-cryptic-message-as-parents-celebrate-world-cup-win)*
+- Adam Sandler reportedly officiated the wedding of Taylor Swift and Travis Kelce. *[ARY](https://arynews.tv/why-adam-sandler-officiated-taylor-swift-and-travis-kelces-wedding)*
+- Shekhar Suman's comments regarding Aamir Khan have gone viral. *[ARY](https://arynews.tv/shekhar-sumans-comments-on-aamir-khan-go-viral)*
+- A new collectible figure has been released for fans of *Dark Souls 3*. *[ARY](https://arynews.tv/dark-souls-3-collectible-abyss-watchers-figure)*
 
