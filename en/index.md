@@ -4,55 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Jul-2026 21:04PKT
+Published at: 13-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The increase in general sales tax (GST) on hybrid vehicles to 25% has led local assemblers to raise prices. *[Dawn](https://www.dawn.com/news/2014767/gst-hike-pushes-up-hybrid-vehicle-prices)*
-- The federal government has ruled out a wheat shortage, noting that production targets have been met. *[Dawn](https://www.dawn.com/news/2014768/govt-rules-out-wheat-shortage-in-country)*
+- The Pakistan Stock Exchange (PSX) opened the week with a significant decline, with the benchmark index dropping 2,300 points due to Middle East tensions. *[Dawn](https://www.dawn.com/news/2015074/psx-opens-week-in-the-red-as-middle-east-hostilities-spark-risk-off-market-mood)*
+- Oil prices rose by over 3% as military strikes between the US and Iran raised concerns regarding shipments through the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015089/oil-jumps-3pc-as-new-strikes-by-us-iran-threaten-hormuz-shipments)*
+- Volkswagen CEO has signaled the potential for an additional 50,000 job cuts. *[ARY](https://arynews.tv/volkswagen-ceo-flags-50000-extra-job-cuts-to-staff)*
+- The Higher Education Commission (HEC) has ordered the release of Rs 507.6 million for FUUAST financial relief for the 2026-27 fiscal year. *[ARY](https://arynews.tv/fuuast-financial-relief-hec-orders-release-of-rs-507-6-million-for-fy-2026-27)*
 
 ### Science & Technology
-- A new smart sensor network is being implemented to enhance disaster readiness in Kuwait. *[ARY](https://arynews.tv/new-smart-sensor-network-to-strengthen-kuwaits-disaster-readiness)*
-
-### Weather
-- Monsoon-driven flash floods and landslides in Bangladesh have caused at least 50 deaths and the displacement of thousands. *[Dawn](https://www.dawn.com/news/2014896/bangladesh-monsoon-death-toll-hits-50-thousands-displaced)*
+- A new "Easter egg" in the *Assassin’s Creed* series may provide clues regarding the setting of the next game. *[ARY](https://arynews.tv/new-assassins-creed-easter-egg-may-reveal-where-the-next-game-is-set)*
+- The PTA has issued new guidelines to help users protect their personal data and devices from cybercrime. *[ARY](https://arynews.tv/pta-recommendations-for-protecting-personal-data)*
 
 ### Politics
-- Jamaat-i-Islami has decided to form a "grand" Kashmir peace jirga to facilitate dialogue between the AJK government and the JAAC. *[Dawn](https://www.dawn.com/news/2014888/ji-to-form-kashmir-peace-jirga-to-facilitate-dialogue-between-govt-jaac)*
-- Deputy Prime Minister Ishaq Dar held a call with the Iranian Foreign Minister to call for regional de-escalation. *[Dawn](https://www.dawn.com/news/2014857/dar-holds-phone-call-with-iranian-fm-amid-latest-attacks-in-mideast-calls-for-de-escalation-and-restraint)*
-- A proposed bill allowing "blue passports" for children of ex-legislators is facing significant criticism on social media. *[Dawn](https://www.dawn.com/news/2014879/shameful-proposed-bill-allowing-blue-passports-for-ex-legislators-kids-comes-under-scrutiny-on-social-media)*
+- Former PM Imran Khan and Bushra Bibi are challenging the Supreme Court registrar's decision regarding their petitions in the Al-Qadir Trust case. *[Dawn](https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions)*
+- Prime Minister Shehbaz Sharif met with Qatari Emir Sheikh Tamim bin Hamad Al Thani in Doha to offer condolences for the late former emir. *[Dawn](https://www.dawn.com/news/2015072/pm-shehbaz-meets-qatari-leader-sheikh-tamim-condoles-death-of-ex-emir-sheikh-hamad)*
+- During the OIC Ministerial Conference on Women, Law Minister Azam Nazeer Tarar called for men's active engagement to promote gender equality. *[Dawn](https://www.dawn.com/news/2015100/at-oic-moot-on-women-minister-says-mens-active-engagement-needed-to-promote-equality)*
+- A Lahore court has extended the pre-arrest bail of PML-N MPA Saqib Chadhar in a harassment case involving a television actress. *[Dawn](https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal)*
+- Candidates from the PPP and IPP successfully retained their seats during re-polling in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2014969/ppp-ipp-men-retain-seats-in-gb-re-polling)*
 
 ### National
-- Security forces in Balochistan have killed seven more terrorists during Operation Shaban, bringing the total to 71. *[Dawn](https://www.dawn.com/news/2014844/7-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media)*
-- Five workers from Punjab were gunned down by armed men in the Washuk district of Balochistan. *[Dawn](https://www.dawn.com/news/2014893/5-workers-from-punjab-gunned-down-in-balochistans-washuk-dc)*
-- Consumers in Lahore have reported harassment by Lesco officials regarding the unlawful recovery of electricity bills. *[Dawn](https://www.dawn.com/news/2014726/lesco-teams-harassing-consumers-for-recovery-of-bills)*
-- Fierce clashes in AJK's Poonch district resulted in at least one death and several injuries. *[Dawn](https://www.dawn.com/news/2014762/one-dies-amid-fierce-clashes-in-ajks-poonch)*
-- Geo News has resumed transmission following a 15-day suspension ordered by Pemra. *[Dawn](https://www.dawn.com/news/2014653/geo-news-resumes-transmission-after-15-day-suspension-warned-of-licence-cancellation-over-future-violations)*
-- Traffic police are set to conduct a special crackdown involving the seizure of vehicles. *[ARY](https://arynews.tv/traffic-police-to-seize-vehicles-in-special-sunday-crackdown)*
-- A young patient was allegedly tortured to death at a mental health center in Islamabad. *[ARY](https://arynews.tv/young-patient-allegedly-tortured-to-death-at-islamabad-mental-health-center)*
+- Chief of Defence Forces Asim Munir arrived in Turkiye for a two-day official visit to hold meetings with military and political leadership. *[Dawn](https://www.dawn.com/news/2015119/cdf-munir-arrives-in-turkiye-on-2-day-official-visit-state-media)*
+- A young doctor was shot and killed during a robbery near Karachi's Teen Talwar. *[Dawn](https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police)*
+- The Federal Constitutional Court has set aside a Supreme Court judgment that previously allowed for the demolition of restaurants in Margalla Hills National Park. *[Dawn](https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park)*
+- Security forces killed eight more terrorists during the ongoing Operation Shaban in Balochistan, bringing the total killed to 79. *[Dawn](https://www.dawn.com/news/2015092/8-more-terrorists-killed-during-ongoing-operation-shaban-in-balochistan-state-media)*
+- A court in Lahore extended the physical remand of four suspects involved in the alleged kidnapping and rape of two foreign women. *[Dawn](https://www.dawn.com/news/2015121/court-extends-physical-remand-of-suspects-in-alleged-kidnapping-rape-of-two-foreign-women)*
+- Two police officers were martyred in a suspected IED attack targeting an armored vehicle in Khyber Pakhtunkhwa's Tank district. *[Dawn](https://www.dawn.com/news/2015111/2-cops-martyred-as-many-injured-in-suspected-ied-attack-in-kps-tank-police-sources)*
+- The Sindh High Court has acquitted a man who had been serving a life sentence in connection with a 2017 university student suicide case. *[Dawn](https://www.dawn.com/news/2015114/shc-acquits-man-in-university-students-2017-suicide-case)*
+- An inquiry committee identified contractors, consultants, and Wapda as responsible for the cofferdam collapse at the Tarbela-5 Hydropower Project. *[Dawn](https://www.dawn.com/news/2014942/stakeholders-blamed-for-tarbela-5-cofferdam-collapse)*
+- Funeral prayers were held in absentia in Karachi for a flight engineer who died in a cargo plane crash in the Arabian Sea. *[Dawn](https://www.dawn.com/news/2014949/funeral-prayers-in-absentia-held-in-karachi-for-engineer-of-crashed-cargo-plane)*
+- Approximately 70 medical students have returned home after being stranded in Afghanistan due to border restrictions. *[Dawn](https://www.dawn.com/news/2014933/70-students-return-home-after-being-stranded-in-afghanistan)*
+- The remains of a child missing since the 2005 earthquake were recovered in Mansehra after 21 years. *[ARY](https://arynews.tv/2005-earthquake-family-finds-missing-child-remains)*
+- Abid Sher Ali has criticized the deteriorating condition of road infrastructure in Karachi. *[ARY](https://arynews.tv/abid-sher-ali-slams-karachi-road-infrastructure)*
 
 ### International
-- Tensions in the Middle East have escalated as the US launches strikes on Iran and Tehran closes the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2014807/tehran-says-strait-of-hormuz-shut-as-us-launches-fresh-strikes-on-iran-gulf-states-hit)*
-- Prominent US Senator Lindsey Graham has passed away at the age of 71. *[Dawn](https://www.dawn.com/news/2014843/trumps-critic-turned-ally-us-senator-lindsey-graham-dies-at-71)*
-- The former Emir of Qatar, Sheikh Hamad bin Khalifa Al Thani, has died at age 74. *[Dawn](https://www.dawn.com/news/2014840/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-at-74)*
-- Iraq's Prime Minister is scheduled to visit Washington to discuss strategic ties and potential oil and gas deals. *[Dawn](https://www.dawn.com/news/2014882/iraqi-prime-minister-to-visit-washington-on-monday-oil-and-gas-deals-expected)*
-- Iran thanked Pakistan for abstaining from a UN Security Council vote regarding its nuclear programme. *[Dawn](https://www.dawn.com/news/2014760/iran-thanks-pakistan-for-abstention-at-unsc-meeting)*
-- The UK has introduced tighter immigration rules affecting work, study, and family visas. *[ARY](https://arynews.tv/uk-tightens-immigration-rules-affecting-work-study-family-visas)*
-
-### Sports
-- India's batting performance is under scrutiny following T20 series defeats by England and Ireland. *[Dawn](https://www.dawn.com/news/2014865/indias-batting-under-the-microscope-after-t20-defeats-by-england-ireland)*
-- Argentina has advanced to the FIFA World Cup semi-final to face England after defeating Switzerland. *[Dawn](https://www.dawn.com/news/2014832/argentina-sink-10-man-swiss-to-set-up-blockbuster-fifa-world-cup-semi-final-against-england)*
-
-### Health
-- Pakistani doctor Dr. Ayesha I. Mian has been elected president of the International Association for Child and Adolescent Psychiatry and Allied Professions. *[Dawn](https://www.dawn.com/news/2014695/pakistani-doctor-elected-president-of-leading-mental-health-body)*
-- The Turkish health ministry has fined over 100 doctors for high rates of Caesarean deliveries. *[Dawn](https://www.dawn.com/news/2014756/turkiye-fines-over-100-doctors-for-caesarean-deliveries)*
+- Heavy US and Iranian attacks have disrupted the Middle East, with fighting over the Strait of Hormuz threatening peace efforts. *[Dawn](https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire)*
+- Ousted Bangladeshi Prime Minister Sheikh Hasina faces potential imprisonment should she return to Bangladesh from exile. *[Dawn](https://www.dawn.com/news/2015140/ousted-pm-hasina-faces-prison-on-return-to-bangladesh-minister-says)*
+- The European Parliament adopted a resolution condemning alleged human rights violations against minority communities in Pakistan. *[Dawn](https://www.dawn.com/news/2015142/eu-parliaments-resolution-a-flawed-ritual-not-pakistans-reality)*
+- Germany has released its 2026 visa-free list, which includes 62 countries outside the Schengen/EU zone. *[ARY](https://arynews.tv/germanys-2026-visa-free-list-is-out-62-countries-outside-schengen-eu-can-enter-without-a-visa)*
 
 ### Other
-- Actress Maya Hawke has credited Jennifer Lawrence and *The Hunger Games* for inspiring her acting career. *[ARY](https://arynews.tv/maya-hawke-credits-jennifer-lawrence-the-hunger-games)*
-- Dua Lipa and Callum Turner were seen sharing a moment at the FIFA World Cup. *[ARY](https://arynews.tv/dua-lipa-callum-turner-share-special-moment-at-fifa-world-cup)*
-- Brooklyn Beckham posted a cryptic message as his parents celebrated a World Cup win. *[ARY](https://arynews.tv/brooklyn-beckham-posts-cryptic-message-as-parents-celebrate-world-cup-win)*
-- Adam Sandler reportedly officiated the wedding of Taylor Swift and Travis Kelce. *[ARY](https://arynews.tv/why-adam-sandler-officiated-taylor-swift-and-travis-kelces-wedding)*
-- Shekhar Suman's comments regarding Aamir Khan have gone viral. *[ARY](https://arynews.tv/shekhar-sumans-comments-on-aamir-khan-go-viral)*
-- A new collectible figure has been released for fans of *Dark Souls 3*. *[ARY](https://arynews.tv/dark-souls-3-collectible-abyss-watchers-figure)*
+- Octavia Spencer and Hannah Waddingham are set to star in Prime Video’s new production, ‘Ride or Die’. *[ARY](https://arynews.tv/octavia-spencer-and-hannah-waddingham-spark-career-shift-in-prime-videos-ride-or-die)*
+- Athlete Greg Rutherford shared photos on social media regarding his daughter's injury in the hospital. *[ARY](https://arynews.tv/greg-rutherford-posts-daughters-painful-injury-in-hospital-photos)*
+- Amber Davies demanded the removal of a disruptive theatergoer during a performance of ‘Legally Blonde’. *[ARY](https://arynews.tv/amber-davies-demands-removal-of-selfish-theatregoer-during-legally-blonde-performance)*
 
