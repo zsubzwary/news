@@ -4,49 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 13-Jul-2026 21:04PKT
+Published at: 14-Jul-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Pakistan Stock Exchange (PSX) opened the week with a significant decline, with the benchmark index dropping 2,300 points due to Middle East tensions. *[Dawn](https://www.dawn.com/news/2015074/psx-opens-week-in-the-red-as-middle-east-hostilities-spark-risk-off-market-mood)*
-- Oil prices rose by over 3% as military strikes between the US and Iran raised concerns regarding shipments through the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015089/oil-jumps-3pc-as-new-strikes-by-us-iran-threaten-hormuz-shipments)*
-- Volkswagen CEO has signaled the potential for an additional 50,000 job cuts. *[ARY](https://arynews.tv/volkswagen-ceo-flags-50000-extra-job-cuts-to-staff)*
-- The Higher Education Commission (HEC) has ordered the release of Rs 507.6 million for FUUAST financial relief for the 2026-27 fiscal year. *[ARY](https://arynews.tv/fuuast-financial-relief-hec-orders-release-of-rs-507-6-million-for-fy-2026-27)*
+- A National Assembly sub-committee identified a lack of regulatory authority and lithium battery policies as major hurdles for Pakistan's e-bike rollout. *[Dawn](https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan)*
+- The government has made Battery Energy Storage Systems (BESS) mandatory for upcoming 800MW power auctions to stabilize the electricity supply. *[Dawn](https://www.dawn.com/news/2015260/battery-storage-made-mandatory-for-power-auctions)*
+- Gilgit-Baltistan has unveiled a Rs20.48 billion interim budget for the first quarter of the 2026-27 fiscal year. *[Dawn](https://www.dawn.com/news/2015297/gb-unveils-rs2048bn-first-quarter-budget)*
+- Oil prices rose by 9% to a one-month high following US threats to blockade the Iranian coastline. *[ARY](https://arynews.tv/oil-prices-rise-as-us-announces-strait-of-hormuz-blockade)*
 
-### Science & Technology
-- A new "Easter egg" in the *Assassin’s Creed* series may provide clues regarding the setting of the next game. *[ARY](https://arynews.tv/new-assassins-creed-easter-egg-may-reveal-where-the-next-game-is-set)*
-- The PTA has issued new guidelines to help users protect their personal data and devices from cybercrime. *[ARY](https://arynews.tv/pta-recommendations-for-protecting-personal-data)*
+### Weather
+- Flash floods triggered by heavy rainfall have caused widespread destruction in the Diamer district of Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2015286/floods-wreak-havoc-on-diamer)*
 
 ### Politics
-- Former PM Imran Khan and Bushra Bibi are challenging the Supreme Court registrar's decision regarding their petitions in the Al-Qadir Trust case. *[Dawn](https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions)*
-- Prime Minister Shehbaz Sharif met with Qatari Emir Sheikh Tamim bin Hamad Al Thani in Doha to offer condolences for the late former emir. *[Dawn](https://www.dawn.com/news/2015072/pm-shehbaz-meets-qatari-leader-sheikh-tamim-condoles-death-of-ex-emir-sheikh-hamad)*
-- During the OIC Ministerial Conference on Women, Law Minister Azam Nazeer Tarar called for men's active engagement to promote gender equality. *[Dawn](https://www.dawn.com/news/2015100/at-oic-moot-on-women-minister-says-mens-active-engagement-needed-to-promote-equality)*
-- A Lahore court has extended the pre-arrest bail of PML-N MPA Saqib Chadhar in a harassment case involving a television actress. *[Dawn](https://www.dawn.com/news/2015108/lahore-court-extends-pre-arrest-bail-of-pml-n-mpa-accused-of-harassing-television-actress-momina-iqbal)*
-- Candidates from the PPP and IPP successfully retained their seats during re-polling in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2014969/ppp-ipp-men-retain-seats-in-gb-re-polling)*
+- The Khyber Pakhtunkhwa Assembly Speaker has referred controversial legislation regarding expanded lawmakers' privileges to a standing committee for review. *[Dawn](https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-mpas-privileges-to-committee-for-review)*
+- Imran Khan and Bushra Bibi have challenged the Supreme Court registrar's decision to refuse their petitions regarding the Al-Qadir Trust case. *[Dawn](https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions)*
 
 ### National
-- Chief of Defence Forces Asim Munir arrived in Turkiye for a two-day official visit to hold meetings with military and political leadership. *[Dawn](https://www.dawn.com/news/2015119/cdf-munir-arrives-in-turkiye-on-2-day-official-visit-state-media)*
-- A young doctor was shot and killed during a robbery near Karachi's Teen Talwar. *[Dawn](https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police)*
-- The Federal Constitutional Court has set aside a Supreme Court judgment that previously allowed for the demolition of restaurants in Margalla Hills National Park. *[Dawn](https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park)*
-- Security forces killed eight more terrorists during the ongoing Operation Shaban in Balochistan, bringing the total killed to 79. *[Dawn](https://www.dawn.com/news/2015092/8-more-terrorists-killed-during-ongoing-operation-shaban-in-balochistan-state-media)*
-- A court in Lahore extended the physical remand of four suspects involved in the alleged kidnapping and rape of two foreign women. *[Dawn](https://www.dawn.com/news/2015121/court-extends-physical-remand-of-suspects-in-alleged-kidnapping-rape-of-two-foreign-women)*
-- Two police officers were martyred in a suspected IED attack targeting an armored vehicle in Khyber Pakhtunkhwa's Tank district. *[Dawn](https://www.dawn.com/news/2015111/2-cops-martyred-as-many-injured-in-suspected-ied-attack-in-kps-tank-police-sources)*
-- The Sindh High Court has acquitted a man who had been serving a life sentence in connection with a 2017 university student suicide case. *[Dawn](https://www.dawn.com/news/2015114/shc-acquits-man-in-university-students-2017-suicide-case)*
-- An inquiry committee identified contractors, consultants, and Wapda as responsible for the cofferdam collapse at the Tarbela-5 Hydropower Project. *[Dawn](https://www.dawn.com/news/2014942/stakeholders-blamed-for-tarbela-5-cofferdam-collapse)*
-- Funeral prayers were held in absentia in Karachi for a flight engineer who died in a cargo plane crash in the Arabian Sea. *[Dawn](https://www.dawn.com/news/2014949/funeral-prayers-in-absentia-held-in-karachi-for-engineer-of-crashed-cargo-plane)*
-- Approximately 70 medical students have returned home after being stranded in Afghanistan due to border restrictions. *[Dawn](https://www.dawn.com/news/2014933/70-students-return-home-after-being-stranded-in-afghanistan)*
-- The remains of a child missing since the 2005 earthquake were recovered in Mansehra after 21 years. *[ARY](https://arynews.tv/2005-earthquake-family-finds-missing-child-remains)*
-- Abid Sher Ali has criticized the deteriorating condition of road infrastructure in Karachi. *[ARY](https://arynews.tv/abid-sher-ali-slams-karachi-road-infrastructure)*
+- The PTI has announced support for Aleema Khan's "long march" but expressed fears regarding potential "false-flag" operations. *[Dawn](https://www.dawn.com/news/2015276/pti-backs-aleemas-march-call-fears-false-flag)*
+- The Federal Constitutional Court has directed the contractor of the Nai Gaj Dam to complete the work under the original contract terms. *[Dawn](https://www.dawn.com/news/2015293/fcc-clears-hurdles-to-completion-of-nai-gaj-dam)*
+- The Federal Constitutional Court set aside a Supreme Court judgment that had allowed for the demolition of restaurants in Margalla Hills National Park. *[Dawn](https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park)*
+- A young doctor was shot dead during a robbery attempt near Karachi's Teen Talwar. *[Dawn](https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police)*
+- Pakistani customs authorities have allowed 26 World Food Programme containers to enter Afghanistan via the Torkham border. *[Dawn](https://www.dawn.com/news/2015160/pakistan-allows-26-world-food-programme-containers-to-enter-afghanistan-via-torkham)*
+- A 9-year-old girl tragically drowned at a water park in Lahore. *[ARY](https://arynews.tv/9-year-old-girl-dies-after-drowning-at-water-park-in-lahore)*
+- The PAA has issued new travel security guidelines for staff stationed in Balochistan. *[ARY](https://arynews.tv/paa-issues-travel-security-guidelines-for-staff-stationed-in-balochistan)*
 
 ### International
-- Heavy US and Iranian attacks have disrupted the Middle East, with fighting over the Strait of Hormuz threatening peace efforts. *[Dawn](https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire)*
-- Ousted Bangladeshi Prime Minister Sheikh Hasina faces potential imprisonment should she return to Bangladesh from exile. *[Dawn](https://www.dawn.com/news/2015140/ousted-pm-hasina-faces-prison-on-return-to-bangladesh-minister-says)*
-- The European Parliament adopted a resolution condemning alleged human rights violations against minority communities in Pakistan. *[Dawn](https://www.dawn.com/news/2015142/eu-parliaments-resolution-a-flawed-ritual-not-pakistans-reality)*
-- Germany has released its 2026 visa-free list, which includes 62 countries outside the Schengen/EU zone. *[ARY](https://arynews.tv/germanys-2026-visa-free-list-is-out-62-countries-outside-schengen-eu-can-enter-without-a-visa)*
+- The UK government plans to change laws to allow the deportation of a convicted grooming gang ringleader. *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
+- UN special rapporteurs are seeking clarification from India regarding allegations of mass voter deletions. *[Dawn](https://www.dawn.com/news/2015273/un-scrutinises-india-over-mass-voter-deletions)*
+- Increased hostilities between the US and Iran over the Strait of Hormuz have rocked the Middle East. *[Dawn](https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire)*
+- Yemen's Houthis targeted Saudi Arabia following allegations of Saudi attacks on Sanaa airport. *[Dawn](https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia)*
+- US Secretary of State Marco Rubio accused the International Criminal Court of waging war against American sovereignty. *[Dawn](https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us)*
+- US lawmakers are demanding the Pentagon release findings from its probe into an Iranian school strike. *[ARY](https://arynews.tv/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike)*
+
+### Sports
+- Erling Haaland has returned to Norway following his exit from the World Cup. *[ARY](https://arynews.tv/erling-haaland-returns-home-with-unusual-souvenir-after-world-cup)*
+- An astrologer has predicted a penalty shootout for the upcoming Argentina vs England match. *[ARY](https://arynews.tv/argentina-vs-england-astrologer-predicts-penalty-shootout-decider-and-issues-warning-for-messi)*
+
+### Health
+- Investigations have linked safety lapses at a government hospital to several HIV cases, prompting a province-wide review in Sindh. *[Dawn](https://www.dawn.com/news/2015223/safety-lapses-at-govt-hospital-linked-to-hiv-cases-sindh-cm-told)*
 
 ### Other
-- Octavia Spencer and Hannah Waddingham are set to star in Prime Video’s new production, ‘Ride or Die’. *[ARY](https://arynews.tv/octavia-spencer-and-hannah-waddingham-spark-career-shift-in-prime-videos-ride-or-die)*
-- Athlete Greg Rutherford shared photos on social media regarding his daughter's injury in the hospital. *[ARY](https://arynews.tv/greg-rutherford-posts-daughters-painful-injury-in-hospital-photos)*
-- Amber Davies demanded the removal of a disruptive theatergoer during a performance of ‘Legally Blonde’. *[ARY](https://arynews.tv/amber-davies-demands-removal-of-selfish-theatregoer-during-legally-blonde-performance)*
+- Kim Kardashian's children were seen bonding with Lewis Hamilton during a recent getaway. *[ARY](https://arynews.tv/kim-kardashians-kids-bond-with-her-bf-lewis-hamilton)*
+- Broadway actor Josh Grisetti has passed away at the age of 44. *[ARY](https://arynews.tv/josh-grisetti-broadway-actor-dies-at-44)*
+- Reports suggest that Sydney Sweeney and Scooter Braun are considering a fast elopement. *[ARY](https://arynews.tv/sydney-sweeney-and-scooter-braun-considering-fast-elopement-sources-say)*
+- Marvel has released a first look at Robert Downey Jr. in his role as Doctor Doom. *[ARY](https://arynews.tv/marvel-gives-fans-first-look-at-robert-downey-jr-s-doctor-doom)*
 
