@@ -4,50 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Jul-2026 09:04PKT
+Published at: 14-Jul-2026 21:05PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- A National Assembly sub-committee identified a lack of regulatory authority and lithium battery policies as major hurdles for Pakistan's e-bike rollout. *[Dawn](https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan)*
-- The government has made Battery Energy Storage Systems (BESS) mandatory for upcoming 800MW power auctions to stabilize the electricity supply. *[Dawn](https://www.dawn.com/news/2015260/battery-storage-made-mandatory-for-power-auctions)*
-- Gilgit-Baltistan has unveiled a Rs20.48 billion interim budget for the first quarter of the 2026-27 fiscal year. *[Dawn](https://www.dawn.com/news/2015297/gb-unveils-rs2048bn-first-quarter-budget)*
-- Oil prices rose by 9% to a one-month high following US threats to blockade the Iranian coastline. *[ARY](https://arynews.tv/oil-prices-rise-as-us-announces-strait-of-hormuz-blockade)*
+- India plans to prohibit the import of goods produced with forced labor to avoid potential US tariffs. *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
+- Prime Minister Shehbaz Sharif has directed that foreign remittances be fully digitized to promote a cashless economy. *[Dawn](https://www.dawn.com/news/2015382/pm-shehbaz-directs-remittances-from-abroad-be-fully-digitised)*
+- The Pakistan Stock Exchange (PSX) benchmark index suffered a massive loss of over 6,400 points due to renewed US-Iran fighting. *[Dawn](https://www.dawn.com/news/2015331/bloodbath-at-psx-as-kse-100-loses-6400-points-over-renewed-us-iran-fighting)*
+- Flour sellers have agreed to reduce prices. *[ARY](https://arynews.tv/flour-sellers-agree-to-reduce-prices)*
+- The Iranian rial continues to be traded in Pakistan despite the ongoing Iran-US conflict. *[ARY](https://arynews.tv/iranian-rial-rate-against-pakistani-rupee-and-usd-july-14-2026)*
+- Plans are being made to reform the petrol price determination system in Pakistan. *[ARY](https://arynews.tv/petrol-price-determination-system-to-be-reformed-in-pakistan)*
 
-### Weather
-- Flash floods triggered by heavy rainfall have caused widespread destruction in the Diamer district of Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2015286/floods-wreak-havoc-on-diamer)*
+### Science & Technology
+- New York has imposed a one-year moratorium on the construction of large new data centers due to resource concerns. *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
+- The upcoming Apple iPhone 18 Pro Max is rumored to feature significant upgrades to its battery and display. *[ARY](https://arynews.tv/apple-iphone-18-pro-max-tipped-to-launch-in-september-with-major-display-and-battery-upgrades)*
 
 ### Politics
-- The Khyber Pakhtunkhwa Assembly Speaker has referred controversial legislation regarding expanded lawmakers' privileges to a standing committee for review. *[Dawn](https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-mpas-privileges-to-committee-for-review)*
-- Imran Khan and Bushra Bibi have challenged the Supreme Court registrar's decision to refuse their petitions regarding the Al-Qadir Trust case. *[Dawn](https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions)*
+- Andy Burnham has secured the backing of the UK's largest union, strengthening his lead in the Labour leadership contest. *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
+- The UK government plans to change laws to facilitate the deportation of a convicted grooming gang ringleader. *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
 
 ### National
-- The PTI has announced support for Aleema Khan's "long march" but expressed fears regarding potential "false-flag" operations. *[Dawn](https://www.dawn.com/news/2015276/pti-backs-aleemas-march-call-fears-false-flag)*
-- The Federal Constitutional Court has directed the contractor of the Nai Gaj Dam to complete the work under the original contract terms. *[Dawn](https://www.dawn.com/news/2015293/fcc-clears-hurdles-to-completion-of-nai-gaj-dam)*
-- The Federal Constitutional Court set aside a Supreme Court judgment that had allowed for the demolition of restaurants in Margalla Hills National Park. *[Dawn](https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park)*
-- A young doctor was shot dead during a robbery attempt near Karachi's Teen Talwar. *[Dawn](https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police)*
-- Pakistani customs authorities have allowed 26 World Food Programme containers to enter Afghanistan via the Torkham border. *[Dawn](https://www.dawn.com/news/2015160/pakistan-allows-26-world-food-programme-containers-to-enter-afghanistan-via-torkham)*
-- A 9-year-old girl tragically drowned at a water park in Lahore. *[ARY](https://arynews.tv/9-year-old-girl-dies-after-drowning-at-water-park-in-lahore)*
-- The PAA has issued new travel security guidelines for staff stationed in Balochistan. *[ARY](https://arynews.tv/paa-issues-travel-security-guidelines-for-staff-stationed-in-balochistan)*
+- The AJK government is conducting operations to reopen routes blocked by the banned JAAC. *[Dawn](https://www.dawn.com/news/2015416/ajk-govt-says-operation-under-way-to-reopen-routes-blocked-by-banned-jaac)*
+- The Election Commission of Pakistan is consulting with the KP government to finalize dates for local government elections. *[Dawn](https://www.dawn.com/news/2015399/ecp-starts-consultations-with-kp-govt-to-fix-date-for-lg-polls-in-23-districts)*
+- Four more terrorists were killed during the ongoing Operation Shaban in Balochistan, bringing the total to 83. *[Dawn](https://www.dawn.com/news/2015356/4-more-terrorists-killed-in-ongoing-operation-shaban-in-balochistan-state-media)*
+- Government ministers rebuked Maulana Fazlur Rehman for "insensitive" remarks regarding military personnel. *[Dawn](https://www.dawn.com/news/2015349/diminished-martyrs-sacrifices-ministers-rebuke-fazl-over-insensitive-remarks-about-military-personnel)*
+- Police arrested the mastermind of the Karachi Rangers camp attack, alleging the culprits were trained in Afghanistan. *[Dawn](https://www.dawn.com/news/2015342/police-say-mastermind-of-rangers-camp-attack-in-karachi-arrested-culprits-trained-in-afghanistan)*
+- Karachi continues to rank poorly on the Global Liveability Index, placing 170th out of 173 cities. *[Dawn](https://www.dawn.com/news/2015422/in-pictures-why-karachi-continues-to-rank-among-the-least-liveable-cities-in-the-world)*
 
 ### International
-- The UK government plans to change laws to allow the deportation of a convicted grooming gang ringleader. *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
-- UN special rapporteurs are seeking clarification from India regarding allegations of mass voter deletions. *[Dawn](https://www.dawn.com/news/2015273/un-scrutinises-india-over-mass-voter-deletions)*
-- Increased hostilities between the US and Iran over the Strait of Hormuz have rocked the Middle East. *[Dawn](https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire)*
-- Yemen's Houthis targeted Saudi Arabia following allegations of Saudi attacks on Sanaa airport. *[Dawn](https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia)*
-- US Secretary of State Marco Rubio accused the International Criminal Court of waging war against American sovereignty. *[Dawn](https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us)*
-- US lawmakers are demanding the Pentagon release findings from its probe into an Iranian school strike. *[ARY](https://arynews.tv/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike)*
+- CDF Asim Munir is visiting Turkiye to strengthen strategic and defense cooperation. *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
+- PM Shehbaz Sharif reaffirmed Pakistan's support for Saudi Arabia's security following Houthi attacks. *[Dawn](https://www.dawn.com/news/2015391/after-houthi-attacks-on-saudi-arabia-pm-shehbaz-reaffirms-pakistans-support-for-kingdoms-security)*
+- WFP aid vehicles have begun entering Afghanistan via the Torkham border. *[Dawn](https://www.dawn.com/news/2015404/21-of-26-wfp-vehicles-carrying-aid-enter-afghanistan-via-torkham-border)*
+- The United States has launched its third consecutive night of strikes on Iran. *[Dawn](https://www.dawn.com/news/2015335/us-launches-third-night-of-strikes-on-iran-irgc-targets-american-assets-in-bahrain-and-jordan)*
+- France held its largest-ever Bastille Day parade, showcasing military power and unity with allies. *[Dawn](https://www.dawn.com/news/2015412/in-pictures-france-flaunts-firepower-unity-with-allies-in-bastille-day-parade)*
+- The death of US Senator Lindsey Graham raises concerns regarding the future of US support for Ukraine. *[Dawn](https://www.dawn.com/news/2015401/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him)*
+- FBI Director Kash Patel hosted Pakistan's Interior Minister to discuss critical regional security partnerships. *[Dawn](https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership)*
+- Pakistan expressed solidarity with Saudi Arabia at the UN Security Council regarding the situation in Yemen. *[Dawn](https://www.dawn.com/news/2015330/pakistan-expresses-solidarity-with-saudi-arabia-at-unsc-condemns-houthi-attacks-on-kingdom)*
 
 ### Sports
-- Erling Haaland has returned to Norway following his exit from the World Cup. *[ARY](https://arynews.tv/erling-haaland-returns-home-with-unusual-souvenir-after-world-cup)*
-- An astrologer has predicted a penalty shootout for the upcoming Argentina vs England match. *[ARY](https://arynews.tv/argentina-vs-england-astrologer-predicts-penalty-shootout-decider-and-issues-warning-for-messi)*
+- Roberto Baggio has named Lionel Messi as the greatest of all time (GOAT). *[ARY](https://arynews.tv/roberto-baggio-chooses-messi-over-maradona-marco-materazzi-disagrees)*
+- Hugo Lloris discussed the "destiny" of the matchup between Mbappe and Messi. *[ARY](https://arynews.tv/it-felt-like-destiny-hugo-lloris-on-mbappe-vs-messi-final)*
+- Hugo Lloris revealed tactical commands used by France to stop Messi during the 2018 World Cup. *[ARY](https://arynews.tv/how-france-stopped-messi-in-2018-hugo-lloris-reveals-deschamps-command-to-ngolo-kante)*
 
 ### Health
-- Investigations have linked safety lapses at a government hospital to several HIV cases, prompting a province-wide review in Sindh. *[Dawn](https://www.dawn.com/news/2015223/safety-lapses-at-govt-hospital-linked-to-hiv-cases-sindh-cm-told)*
+- Experts are urging parents to maintain open communication with children regarding mental health and body safety. *[ARY](https://arynews.tv/children-encouraging-open-communication)*
 
 ### Other
-- Kim Kardashian's children were seen bonding with Lewis Hamilton during a recent getaway. *[ARY](https://arynews.tv/kim-kardashians-kids-bond-with-her-bf-lewis-hamilton)*
-- Broadway actor Josh Grisetti has passed away at the age of 44. *[ARY](https://arynews.tv/josh-grisetti-broadway-actor-dies-at-44)*
-- Reports suggest that Sydney Sweeney and Scooter Braun are considering a fast elopement. *[ARY](https://arynews.tv/sydney-sweeney-and-scooter-braun-considering-fast-elopement-sources-say)*
-- Marvel has released a first look at Robert Downey Jr. in his role as Doctor Doom. *[ARY](https://arynews.tv/marvel-gives-fans-first-look-at-robert-downey-jr-s-doctor-doom)*
+- Cillian Murphy paid tribute to his late *Peaky Blinders* co-star, Sam Neill. *[ARY](https://arynews.tv/cillian-murphy-honors-late-peaky-blinders-co-star-sam-neill)*
 
