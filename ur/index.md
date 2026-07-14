@@ -7,51 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 14-Jul-2026 09:09PKT 
+ &lrm; 14-Jul-2026 21:11PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان میں ای-بائیک کے پھیلاؤ میں ریگولیٹری اتھارٹی کی کمی اور لیتھیم بیٹری پالیسی کا نہ ہونا بڑی رکاوٹیں ثابت ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan)*
-- بجلی کی فراہمی کو مستحکم کرنے کے لیے حکومت نے پاور نیلامی میں بیٹری اسٹوریج سسٹم (BESS) کو لازمی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015260/battery-storage-made-mandatory-for-power-auctions)*
-- گلگت بلتستان حکومت نے مالی سال 2026-27 کی پہلی سہ ماہی کے لیے 20.48 ارب روپے کا عبوری بجٹ پیش کر دیا۔ *[Dawn](https://www.dawn.com/news/2015297/gb-unveils-rs2048bn-first-quarter-budget)*
-- ایران کے ساحلی علاقے کی ممکنہ ناکہ بندی کے خدشات کے باعث عالمی مارکیٹ میں تیل کی قیمتوں میں 9 فیصد اضافہ دیکھا گیا۔ *[ARY](https://arynews.tv/oil-prices-rise-as-us-announces-strait-of-hormuz-blockade)*
+- وزیر اعظم شہباز شریف نے بیرون ملک سے بھیجی جانے والی ترسیلات زر کو مکمل طور پر ڈیجیٹل بنانے کی ہدایت کی ہے تاکہ کیش لیس معیشت کا خواب پورا کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2015382/pm-shehbaz-directs-remittances-from-abroad-be-fully-digitised)*
+- امریکہ اور ایران کے درمیان حالیہ جنگی صورتحال کے باعث پاکستان اسٹاک ایکسچینج کے انڈیکس میں 6,400 سے زائد پوائنٹس کا بڑا زوال ریکارڈ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2015331/bloodbath-at-psx-as-kse-100-loses-6400-points-over-renewed-us-iran-fighting)*
+- آٹے کے فروشوں نے قیمتوں میں کمی کرنے پر اتفاق کر لیا ہے۔ *[ARY](https://arynews.tv/flour-sellers-agree-to-reduce-prices)*
+- ایران اور امریکہ کے درمیان تناؤ کے باوجود پاکستان میں ایرانی ریال کی فروخت جاری ہے۔ *[ARY](https://arynews.tv/iranian-rial-rate-against-pakistani-rupee-and-usd-july-14-2026)*
+- پاکستان میں پیٹرول کی قیمتوں کے تعین کے موجودہ نظام میں اصلاحات لانے کا منصوبہ بنایا جا رہا ہے۔ *[ARY](https://arynews.tv/petrol-price-determination-system-to-be-reformed-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- ای-موٹر سائیکلوں کے لیے جامع لیتھیم بیٹری پالیسی کی عدم موجودگی سے ملک میں ناقص معیار کی بیٹریوں کی فروخت کو فروغ مل رہا ہے۔ *[Dawn](https://www.dawn.com/news/2015282/na-panel-flags-key-hurdles-to-e-bike-rollout-in-pakistan)*
-
-### موسم
-- شدید بارشوں اور موسمیاتی تبدیلیوں کے نتیجے میں پیدا ہونے والے سیلاب نے ضلع دیامر میں بڑے پیمانے پر تباہی مچائی، جس سے مکانات، فصلیں اور اہم شاہراہیں متاثر ہوئیں۔ *[Dawn](https://www.dawn.com/news/2015286/floods-wreak-havoc-on-diamer)*
-
-### سیاست
-- پی ٹی آئی نے علیمہ خان کی جانب سے کال کی گئی "لانگ مارچ" کی حمایت کی ہے، تاہم پارٹی کو اس کے 'فالس فلیگ' آپریشن یا کسی بڑے واقعے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2015276/pti-backs-aleemas-march-call-fears-false-flag)*
-- خیبر پختونخوا اسمبلی کے اسپیکر نے قانون سازوں کے اختیارات اور مراعات میں اضافے سے متعلق متنازع قانون سازی کو نظرثانی کے لیے کمیٹی کو بھیج دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015167/kp-assembly-speaker-refers-controversial-legislation-expanding-mpas-privileges-to-committee-for-review)*
-- سابق وزیراعظم عمران خان اور بشریٰ بی بی نے القادر ٹرسٹ کیس میں سپریم کورٹ کے رجسٹرار کے فیصلے کے خلاف چیلنج دائر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015127/al-qadir-trust-case-imran-bushra-challenge-sc-registrars-refusal-to-entertain-their-petitions)*
+- نیویارک نے مصنوعی ذہانت (AI) کے ڈیٹا سینٹرز کے اثرات کے پیش نظر ان کی تعمیر پر ایک سال کی پابندی عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
+- ایپل آئی فون 18 پرو میکس کے ستمبر میں بڑے ڈسپلے اور بیٹری اپ گریڈ کے ساتھ لانچ ہونے کی توقعات ہیں۔ *[ARY](https://arynews.tv/apple-iphone-18-pro-max-tipped-to-launch-in-september-with-major-display-and-battery-upgrades)*
 
 ### قومی
-- سندھ کے ایک سرکاری ہسپتال میں حفاظتی کوتاہیوں کی وجہ سے ایچ آئی وی (HIV) کیسز سامنے آئے ہیں، جس پر وزیر اعلیٰ نے صوبہ بھر میں انفیکشن کنٹرول کے اقدامات کا جائزہ لینے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015223/safety-lapses-at-govt-hospital-linked-to-hiv-cases-sindh-cm-told)*
-- فیڈرل کانسٹٹیوشنل کورٹ نے نائی گاج ڈیم کے تنازعے میں فیصلہ دیتے ہوئے ٹھیکیدار کو اصل معاہدے کے تحت کام مکمل کرنے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2015293/fcc-clears-hurdles-to-completion-of-nai-gaj-dam)*
-- فیڈرل کانسٹٹیوشنل کورٹ نے مارگلہ ہلز نیشنل پارک میں ریسٹورنٹس کی مسماری کے حوالے سے سپریم کورٹ کے گزشتہ فیصلے کو کالعدم قرار دے دیا۔ *[Dawn](https://www.dawn.com/news/2015144/fcc-sets-aside-sc-judgment-that-allowed-demolition-of-restaurants-in-margalla-hills-national-park)*
-- کراچی کے علاقے ٹین تلوار کے قریب ڈکیتی کے دوران ایک نوجوان ڈاکٹر کو گولی مار کر شہید کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2015139/young-doctor-shot-dead-in-robbery-near-karachis-teen-talwar-police)*
-- پاکستان نے ٹورخم بارڈر کے ذریعے افغانستان میں ورلڈ فوڈ پروگرام کے 26 کنٹینرز گزارنے کی اجازت دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2015160/pakistan-allows-26-world-food-programme-containers-to-enter-afghanistan-via-torkham)*
-- پی اے اے نے بلوچستان میں تعینات عملے کے لیے سفر کے حفاظتی رہنما اصول جاری کر دیے ہیں۔ *[ARY](https://arynews.tv/paa-issues-travel-security-guidelines-for-staff-stationed-in-balochistan)*
+- آزاد جموں و کشمیر کی حکومت نے پابندی شدہ جماعت JAAC کے ذریعے بند کیے گئے راستوں کو کھولنے کے لیے آپریشن شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015416/ajk-govt-says-operation-under-way-to-reopen-routes-blocked-by-banned-jaac)*
+- چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر ترکی کے سرکاری دورے پر ہیں جس کا مقصد دفاعی تعاون کو مضبوط بنانا ہے۔ *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
+- الیکشن کمیشن نے خیبر پختونخوا کے 23 اضلاع میں مقامی حکومت کے انتخابات کے لیے مشاورت کا عمل شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015399/ecp-starts-consultations-with-kp-govt-to-fix-date-for-lg-polls-in-23-districts)*
+- بلوچستان میں جاری 'آپریشن شان' کے دوران 4 مزید دہشت گرد ہلاک ہو گئے، جس سے اب تک ہلاک ہونے والوں کی تعداد 83 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2015356/4-more-terrorists-killed-in-ongoing-operation-shaban-in-balochistan-state-media)*
+- حکومتی وزراء نے مولانا فضل الرحمان کی سیکورٹی اہلکاروں کے حوالے سے مبینہ غیر حساس گفتگو پر شدید ردعمل کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015349/diminished-martyrs-sacrifices-ministers-rebuke-fazl-over-insensitive-remarks-about-military-personnel)*
+- کراچی میں رینجرز کیمپ پر حملے کے ماسٹر مائنڈ کو گرفتار کر لیا گیا ہے، جس کے بارے میں کہا گیا ہے کہ دہشت گردوں کو افغانستان سے تربیت ملی تھی۔ *[Dawn](https://www.dawn.com/news/2015342/police-say-mastermind-of-rangers-camp-attack-in-karachi-arrested-culprits-trained-in-afghanistan)*
+- کراچی کو دنیا کے کم سے کم رہنے کے قابل شہروں میں 170ویں نمبر پر قرار دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2015422/in-pictures-why-karachi-continues-to-rank-among-the-least-liveable-cities-in-the-world)*
+- امریکی ایف بی آئی کے ڈائریکٹر نے پاکستان کے وزیر داخلہ محسن نقوی کی میزبانی کی اور علاقائی مفادات کے تحفظ میں پاکستان کے ساتھ شراکت داری کو اہم قرار دیا۔ *[Dawn](https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership)*
 
 ### بین الاقوامی
-- برطانیہ میں قانون میں تبدیلی کی تجویز دی گئی ہے تاکہ گرومنگ گینگ کے سربراہ شبیر احمد کو ملک بدر کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
-- اقوام متحدہ کے خصوصی نمائندوں نے بھارت میں بڑے پیمانے پر ووٹرز (بشمول مسلمانوں) کے نام فہرست سے نکالنے پر وضاحت طلب کی ہے۔ *[Dawn](https://www.dawn.com/news/2015273/un-scrutinises-india-over-mass-voter-deletions)*
-- مشرق وسطیٰ میں امریکہ اور ایران کے درمیان کشیدگی میں شدید اضافہ ہوا ہے، جس سے اسٹریٹجک اہمیت کا حامل ہرمز کا تنگنا خطرے میں ہے۔ *[Dawn](https://www.dawn.com/news/2015083/middle-east-rocked-by-heaviest-attacks-since-us-iran-april-ceasefire)*
-- یمن کے حوثیوں نے سعودی عرب پر حملہ کیا، جبکہ سعودی حمایت یافتہ حکومت نے صنعاء ایئرپورٹ پر حملے کی ذمہ داری قبول کی۔ *[Dawn](https://www.dawn.com/news/2015162/yemen-govt-says-hit-sanaa-airport-houthis-attack-saudi-arabia)*
-- امریکی وزیر خارجہ مارکو روبیو نے بین الاقوامی فوجداری عدالت (ICC) پر امریکی خودمختاری کے خلاف جنگ کرنے کا الزام لگایا ہے۔ *[Dawn](https://www.dawn.com/news/2015154/rubio-lashes-out-at-international-criminal-court-accuses-it-of-waging-war-against-us)*
-- امریکی مقمقین نے ایران میں اسکول پر ہونے والے حملے کی تحقیقات کے نتائج منظر عام پر لانے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike)*
+- وزیر اعظم شہباز شریف نے سعودی عرب پر حوثی حملوں کی مذمت کی اور مملکت کی سلامتی کے لیے پاکستان کی مکمل حمایت کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2015391/after-houthi-attacks-on-saudi-arabia-pm-shehbaz-reaffirms-pakistans-support-for-kingdoms-security)*
+- انڈی برنہم برطانوی لیبر پارٹی کے قیادت کے مقابلے میں مضبوط پوزیشن حاصل کرنے میں کامیاب ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
+- بھارت نے زبردستی مزدوری کے ذریعے تیار کردہ اشیاء کی درآمد پر پابندی لگانے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
+- ورلڈ فوڈ پروگرام کے امدادی ٹرکوں نے تورخم بارڈر کے ذریعے افغانستان میں داخلہ کیا۔ *[Dawn](https://www.dawn.com/news/2015404/21-of-26-wfp-vehicles-carrying-aid-enter-afghanistan-via-torkham-border)*
+- امریکہ نے ایران پر حملے جاری رکھے جبکہ ایران کے ذریعے بحرین اور اردن میں امریکی اثاثوں کو نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/2015335/us-launches-third-night-of-strikes-on-iran-irgc-targets-american-assets-in-bahrain-and-jordan)*
+- فرانس نے اپنے قومی دن (Bastille Day) کے موقع پر ایک عظیم الشان فوجی پریڈ کا انعقاد کیا۔ *[Dawn](https://www.dawn.com/news/2015412/in-pictures-france-flaunts-firepower-unity-with-allies-in-bastille-day-parade)*
+- امریکی سینیٹر لنڈسے گراہم کی اچانک وفات سے یوکرین کے لیے امریکی امداد اور روس پر پابندیوں کے مستقبل پر سوالات اٹھ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2015401/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him)*
+- پاکستان نے یو این سیکورٹی کونسل میں سعودی عرب کے ساتھ اظہار یکجہتی کیا اور حوثی حملوں کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/2015330/pakistan-expresses-solidarity-with-saudi-arabia-at-unsc-condemns-houthi-attacks-on-kingdom)*
+- برطانیہ نے گرومنگ گینگ کے سربراہ کو ملک بدری کے لیے قانون میں تبدیلی کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
+- ٹرمپ کی جانب سے ہرمز کے مقام پر فیس لگانے کے فیصلے کے قانونی جواز پر بحث جاری ہے۔ *[ARY](https://arynews.tv/trump-wants-fees-for-hormuz-just-like-iran-is-that-legal)*
 
 ### کھیل
-- ارلنگ ہالینڈ ورلڈ کپ سے باہر ہونے کے بعد ناروے واپس پہنچ گئے۔ *[ARY](https://arynews.tv/erling-haaland-returns-home-with-unusual-souvenir-after-world-cup)*
-- ماہرین نجوم نے ارجنٹائن بمقابلہ انگلینڈ میچ کے حوالے سے اہم پیش گوئی کی ہے۔ *[ARY](https://arynews.tv/argentina-vs-england-astrologer-predicts-penalty-shootout-decider-and-issues-warning-for-messi)*
+- روبرٹو باجو نے میسی کو مارڈونا اور پیلے پر ترجیح دیتے ہوئے اسے تاریخ کا عظیم ترین کھلاڑی (GOAT) قرار دیا ہے۔ *[ARY](https://arynews.tv/roberto-baggio-chooses-messi-over-maradona-marco-materazzi-disagrees)*
+- ہیوو لوریس نے ایمباپے بمقابلہ میسی کے فائنل کے بارے میں اپنے جذبات کا اظہار کیا۔ *[ARY](https://arynews.tv/it-felt-like-destiny-hugo-lloris-on-mbappe-vs-messi-final)*
+- ہیوو لوریس نے انکشاف کیا کہ 2018 میں فرانس نے ڈیشامپس کی حکمت عملی کے ذریعے میسی کو کیسے روکا تھا۔ *[ARY](https://arynews.tv/how-france-stopped-messi-in-2018-hugo-lloris-reveals-deschamps-command-to-ngolo-kante)*
 
 ### صحت
-- سرکاری ہسپتال میں حفاظتی اقدامات کی کمی اور ایچ آئی وی کے پھیلاؤ پر سندھ کے وزیر اعلیٰ نے سخت تحقیقات کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015223/safety-lapses-at-govt-hospital-linked-to-hiv-cases-sindh-cm-told)*
+- ماہرین نے والدین کو مشورہ دیا ہے کہ وہ بچوں کے ساتھ ان کی جسمانی حفاظت اور ذہنی صحت کے بارے میں کھل کر بات کریں۔ *[ARY](https://arynews.tv/children-encouraging-open-communication)*
 
 ### دیگر
-- لاہور کے ایک واٹر پارک میں نو سالہ بچی ڈوبنے سے جاں بحق ہو گئی۔ *[ARY](https://arynews.tv/9-year-old-girl-dies-after-drowning-at-water-park-in-lahore)*
-- مارول نے رابرٹ ڈاؤنی جونیئر کے کردار 'ڈاکٹر ڈوم' کی پہلی جھلک پیش کر دی ہے۔ *[ARY](https://arynews.tv/marvel-gives-fans-first-look-at-robert-downey-jr-s-doctor-doom)*
+- سیلیان مرفی نے اپنے مرحوم ساتھی اداکار سیم نیل کو خراج تحسین پیش کیا۔ *[ARY](https://arynews.tv/cillian-murphy-honors-late-peaky-blinders-co-star-sam-neill)*
 
