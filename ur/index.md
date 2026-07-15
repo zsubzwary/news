@@ -7,51 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 14-Jul-2026 21:11PKT 
+ &lrm; 15-Jul-2026 09:11PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- وزیر اعظم شہباز شریف نے بیرون ملک سے بھیجی جانے والی ترسیلات زر کو مکمل طور پر ڈیجیٹل بنانے کی ہدایت کی ہے تاکہ کیش لیس معیشت کا خواب پورا کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2015382/pm-shehbaz-directs-remittances-from-abroad-be-fully-digitised)*
-- امریکہ اور ایران کے درمیان حالیہ جنگی صورتحال کے باعث پاکستان اسٹاک ایکسچینج کے انڈیکس میں 6,400 سے زائد پوائنٹس کا بڑا زوال ریکارڈ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2015331/bloodbath-at-psx-as-kse-100-loses-6400-points-over-renewed-us-iran-fighting)*
-- آٹے کے فروشوں نے قیمتوں میں کمی کرنے پر اتفاق کر لیا ہے۔ *[ARY](https://arynews.tv/flour-sellers-agree-to-reduce-prices)*
-- ایران اور امریکہ کے درمیان تناؤ کے باوجود پاکستان میں ایرانی ریال کی فروخت جاری ہے۔ *[ARY](https://arynews.tv/iranian-rial-rate-against-pakistani-rupee-and-usd-july-14-2026)*
-- پاکستان میں پیٹرول کی قیمتوں کے تعین کے موجودہ نظام میں اصلاحات لانے کا منصوبہ بنایا جا رہا ہے۔ *[ARY](https://arynews.tv/petrol-price-determination-system-to-be-reformed-in-pakistan)*
+- ایف بی آر (FBR) نے چھوٹے دکانداروں کے لیے ایک سادہ اور رضاکارانہ ٹیکس نظام تجویز کیا ہے تاکہ ٹیکس نیٹ کو وسیع کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders)*
 
 ### سائنس اور ٹیکنالوجی
-- نیویارک نے مصنوعی ذہانت (AI) کے ڈیٹا سینٹرز کے اثرات کے پیش نظر ان کی تعمیر پر ایک سال کی پابندی عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
-- ایپل آئی فون 18 پرو میکس کے ستمبر میں بڑے ڈسپلے اور بیٹری اپ گریڈ کے ساتھ لانچ ہونے کی توقعات ہیں۔ *[ARY](https://arynews.tv/apple-iphone-18-pro-max-tipped-to-launch-in-september-with-major-display-and-battery-upgrades)*
+- قومی اسمبلی کی کمیٹی نے ملک کے بڑے شہروں میں انٹرنیٹ کے ناقص معیار اور بجلی کی بندش کے اثرات پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2015535/internet-quality-poor-even-in-major-cities-na-panel-told)*
+- نیویارک نے مصنوعی ذہانت (AI) کے بڑھتے ہوئے استعمال کے باعث بجلی اور پانی کے ذخائر پر پڑنے والے دباؤ کو روکنے کے لیے بڑے ڈیٹا سینٹرز کی تعمیر پر ایک سال کی پابندی عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
+
+### سیاست
+- سپریم کورٹ یہ فیصلہ کرے گی کہ کیا اس کے پاس این اے بی (NAB) کے زیر التواء مقدمات میں ضمانت سننے کا اختیار موجود ہے یا یہ معاملہ فیڈرل کانسٹٹیوشنل کورٹ کے دائرہ اختیار میں آئے گا۔ *[Dawn](https://www.dawn.com/news/2015530/supreme-court-to-decide-if-it-can-still-hear-nab-bails)*
+- اپوزیشن نے حکومت کے ساتھ ہونے والے ممکنہ مذاکرات کے لیے پارلیمنٹ ہاؤس جیسے 'غیر جانبدار مقام' کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015536/opposition-seeks-neutral-venue-for-talks-with-govt)*
+- ایم کیو ایم پاکستان (MQM-P) نے مسئلہ کشمیر کو عالمی سطح پر اجاگر کرنے کے لیے پارلیمانی کمیٹی میں اپنی نمائندگی کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2015436/mqm-p-seeks-representation-in-parliamentary-committee-on-kashmir)*
+- نائب وزیراعظم اسحاق ڈار نے سارک (SAARC) کے عمل کے ساتھ پاکستان کے عزم کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2015433/dpm-dar-reaffirms-pakistans-commitment-to-saarc-process-during-meeting-with-secretary-general-golam-sarwar-fo)*
 
 ### قومی
-- آزاد جموں و کشمیر کی حکومت نے پابندی شدہ جماعت JAAC کے ذریعے بند کیے گئے راستوں کو کھولنے کے لیے آپریشن شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015416/ajk-govt-says-operation-under-way-to-reopen-routes-blocked-by-banned-jaac)*
-- چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر ترکی کے سرکاری دورے پر ہیں جس کا مقصد دفاعی تعاون کو مضبوط بنانا ہے۔ *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
-- الیکشن کمیشن نے خیبر پختونخوا کے 23 اضلاع میں مقامی حکومت کے انتخابات کے لیے مشاورت کا عمل شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015399/ecp-starts-consultations-with-kp-govt-to-fix-date-for-lg-polls-in-23-districts)*
-- بلوچستان میں جاری 'آپریشن شان' کے دوران 4 مزید دہشت گرد ہلاک ہو گئے، جس سے اب تک ہلاک ہونے والوں کی تعداد 83 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2015356/4-more-terrorists-killed-in-ongoing-operation-shaban-in-balochistan-state-media)*
-- حکومتی وزراء نے مولانا فضل الرحمان کی سیکورٹی اہلکاروں کے حوالے سے مبینہ غیر حساس گفتگو پر شدید ردعمل کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015349/diminished-martyrs-sacrifices-ministers-rebuke-fazl-over-insensitive-remarks-about-military-personnel)*
-- کراچی میں رینجرز کیمپ پر حملے کے ماسٹر مائنڈ کو گرفتار کر لیا گیا ہے، جس کے بارے میں کہا گیا ہے کہ دہشت گردوں کو افغانستان سے تربیت ملی تھی۔ *[Dawn](https://www.dawn.com/news/2015342/police-say-mastermind-of-rangers-camp-attack-in-karachi-arrested-culprits-trained-in-afghanistan)*
-- کراچی کو دنیا کے کم سے کم رہنے کے قابل شہروں میں 170ویں نمبر پر قرار دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2015422/in-pictures-why-karachi-continues-to-rank-among-the-least-liveable-cities-in-the-world)*
-- امریکی ایف بی آئی کے ڈائریکٹر نے پاکستان کے وزیر داخلہ محسن نقوی کی میزبانی کی اور علاقائی مفادات کے تحفظ میں پاکستان کے ساتھ شراکت داری کو اہم قرار دیا۔ *[Dawn](https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership)*
+- آزاد جموں و کشمیر میں صفائی کے آپریشن کے دوران مظاہرین اور قانون نافذ کرنے والے اداروں کے درمیان تصادم، جس میں دو اہلکار اور سات مظاہرین ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation)*
+- سینیٹ کی کمیٹی نے کراچی میں حیات ریجنسی ہوٹل کی منتقلی میں دو دہائیوں کی تاخیر پر سخت ناراضگی کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2015526/senate-panel-irked-by-two-decade-delay-in-transfer-of-karachis-hyatt-regency)*
+- سی ڈی ایف فیلڈ مارشل عاصم منیر کا ترکی کا سرکاری دورہ، جس کا مقصد دونوں ممالک کے درمیان دفاعی تعاون کو مضبوط بنانا ہے۔ *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
+- پشاور میں بم ڈسپوزل یونٹ کے ایک اہلکار کی آئی ای ڈی دھماکے میں شہادت۔ *[Dawn](https://www.dawn.com/news/2015448/bomb-disposal-unit-official-martyred-in-ied-explosion-in-kps-peshawar-district-police)*
+- لیاری میں جماعت اسلامی کے دفتر پر کریکر حملہ، جس میں تین افراد زخمی ہوئے۔ *[ARY News](https://arynews.tv/three-injured-in-cracker-attack-on-jamaat-e-islami-office-in-lyari)*
+- پاکستان میں خواتین کی معاشی شرکت اور صنفی فرق (Gender Gap) کے حوالے سے اہم چیلنجز پر بحث۔ *[Dawn](https://www.dawn.com/news/2015541/beyond-declarations)*
 
 ### بین الاقوامی
-- وزیر اعظم شہباز شریف نے سعودی عرب پر حوثی حملوں کی مذمت کی اور مملکت کی سلامتی کے لیے پاکستان کی مکمل حمایت کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2015391/after-houthi-attacks-on-saudi-arabia-pm-shehbaz-reaffirms-pakistans-support-for-kingdoms-security)*
-- انڈی برنہم برطانوی لیبر پارٹی کے قیادت کے مقابلے میں مضبوط پوزیشن حاصل کرنے میں کامیاب ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
-- بھارت نے زبردستی مزدوری کے ذریعے تیار کردہ اشیاء کی درآمد پر پابندی لگانے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
-- ورلڈ فوڈ پروگرام کے امدادی ٹرکوں نے تورخم بارڈر کے ذریعے افغانستان میں داخلہ کیا۔ *[Dawn](https://www.dawn.com/news/2015404/21-of-26-wfp-vehicles-carrying-aid-enter-afghanistan-via-torkham-border)*
-- امریکہ نے ایران پر حملے جاری رکھے جبکہ ایران کے ذریعے بحرین اور اردن میں امریکی اثاثوں کو نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/2015335/us-launches-third-night-of-strikes-on-iran-irgc-targets-american-assets-in-bahrain-and-jordan)*
-- فرانس نے اپنے قومی دن (Bastille Day) کے موقع پر ایک عظیم الشان فوجی پریڈ کا انعقاد کیا۔ *[Dawn](https://www.dawn.com/news/2015412/in-pictures-france-flaunts-firepower-unity-with-allies-in-bastille-day-parade)*
-- امریکی سینیٹر لنڈسے گراہم کی اچانک وفات سے یوکرین کے لیے امریکی امداد اور روس پر پابندیوں کے مستقبل پر سوالات اٹھ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2015401/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him)*
-- پاکستان نے یو این سیکورٹی کونسل میں سعودی عرب کے ساتھ اظہار یکجہتی کیا اور حوثی حملوں کی مذمت کی۔ *[Dawn](https://www.dawn.com/news/2015330/pakistan-expresses-solidarity-with-saudi-arabia-at-unsc-condemns-houthi-attacks-on-kingdom)*
-- برطانیہ نے گرومنگ گینگ کے سربراہ کو ملک بدری کے لیے قانون میں تبدیلی کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
-- ٹرمپ کی جانب سے ہرمز کے مقام پر فیس لگانے کے فیصلے کے قانونی جواز پر بحث جاری ہے۔ *[ARY](https://arynews.tv/trump-wants-fees-for-hormuz-just-like-iran-is-that-legal)*
+- امریکہ اور ایران کے درمیان کشیدگی میں اضافہ؛ صدر ٹرمپ نے ایران پر حملوں اور بحری ناکہ بندی کے ذریعے دباؤ بڑھا دیا۔ *[Dawn](https://www.dawn.com/news/2015455/trump-steps-back-from-hormuz-fee-plan-new-strikes-hit-iran)* | *[ARY News](https://arynews.tv/donald-trump-threatens-strikes-on-irans-energy-targets)* | *[ARY News](https://arynews.tv/us-launches-new-iran-strikes-reimposes-naval-blockade)*
+- ایران نے اعلان کیا ہے کہ جب تک امریکی جارحیت ختم نہیں ہوتی، ہرمز کا تنگنا بند رہے گا۔ *[ARY News](https://arynews.tv/iran-guards-say-hormuz-to-remain-closed-till-end-of-us-aggression)*
+- انڈی برنہم برطانوی لیبر پارٹی کی قیادت کی دوڑ میں مضبوط پوزیشن کے ساتھ اگلے وزیراعظم بننے کے قریب نظر آتے ہیں۔ *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
+- بھارت نے زبردستی مزدوری کے ذریعے تیار کردہ اشیاء کی درآمد پر پابندی عائد کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
 
 ### کھیل
-- روبرٹو باجو نے میسی کو مارڈونا اور پیلے پر ترجیح دیتے ہوئے اسے تاریخ کا عظیم ترین کھلاڑی (GOAT) قرار دیا ہے۔ *[ARY](https://arynews.tv/roberto-baggio-chooses-messi-over-maradona-marco-materazzi-disagrees)*
-- ہیوو لوریس نے ایمباپے بمقابلہ میسی کے فائنل کے بارے میں اپنے جذبات کا اظہار کیا۔ *[ARY](https://arynews.tv/it-felt-like-destiny-hugo-lloris-on-mbappe-vs-messi-final)*
-- ہیوو لوریس نے انکشاف کیا کہ 2018 میں فرانس نے ڈیشامپس کی حکمت عملی کے ذریعے میسی کو کیسے روکا تھا۔ *[ARY](https://arynews.tv/how-france-stopped-messi-in-2018-hugo-lloris-reveals-deschamps-command-to-ngolo-kante)*
+- اسپین نے فرانس کو شکست دے کر فیفا ورلڈ کپ کا فائنل بک لیا ہے۔ *[Dawn](https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final)* | *[ARY News](https://arynews.tv/spain-beat-france-to-reach-fifa-world-cup-final)*
+- مین یوनाइटेड نے ایسٹن ولا کے مڈ فیلڈر ٹئیلیمنز کو اپنی ٹیم میں شامل کر لیا ہے۔ *[ARY News](https://arynews.tv/man-utd-sign-aston-villa-midfielder-tielemans)*
 
 ### صحت
-- ماہرین نے والدین کو مشورہ دیا ہے کہ وہ بچوں کے ساتھ ان کی جسمانی حفاظت اور ذہنی صحت کے بارے میں کھل کر بات کریں۔ *[ARY](https://arynews.tv/children-encouraging-open-communication)*
+- کراچی میں ایچ آئی وی (HIV) کے پھیلاؤ کے بعد اسکریننگ کے دوران 120 افراد کے مثبت ہونے کی اطلاع۔ *[Dawn](https://www.dawn.com/news/2015586/120-living-near-karachis-valika-hospital-test-positive-in-hiv-screening)*
+- امریکی سی ڈی سی کے مطابق امریکہ میں پیٹ کے انفیکشن (Cyclosporiasis) کے کیسز میں اضافہ ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2015459/cdc-says-lab-confirmed-us-cases-of-diarrhoea-causing-parasite-top-1600-expects-count-to-rise)*
 
 ### دیگر
-- سیلیان مرفی نے اپنے مرحوم ساتھی اداکار سیم نیل کو خراج تحسین پیش کیا۔ *[ARY](https://arynews.tv/cillian-murphy-honors-late-peaky-blinders-co-star-sam-neill)*
+- بی ٹی ایس (BTS) ممبران سے متعلق ایک پراسرار اشتہار نے مداحوں میں تجسس پیدا کر دیا ہے۔ *[ARY News](https://arynews.tv/bts-members-in-a-bathroom-newspaper-ad-leaves-fans-guessing)*
+- اداکارہ کرتی سانون نے اپنی فلم 'میمی' کے حوالے سے ایک اہم فیصلے کا ذکر کیا۔ *[ARY News](https://arynews.tv/kriti-sanon-shares-major-decision-during-mimi)*
+- میگن مارکل کو نیٹ فلکس سیریز کے لیے ایمی ایوارڈ کے لیے نامزد کیا گیا۔ *[ARY News](https://arynews.tv/meghan-markle-lands-major-daytime-emmy-nomination-for-netflix-series-with-love-meghan)*
+- اداکار عدنان صدیقی نے اپنی بیٹی کی زندگی کے ایک اہم سنگ میل پر جذباتی نوٹ لکھا۔ *[ARY News](https://arynews.tv/adnan-siddiqui-celebrates-daughter-special-milestone-with-note)*
 
