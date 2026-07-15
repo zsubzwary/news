@@ -4,46 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Jul-2026 09:05PKT
+Published at: 15-Jul-2026 21:04PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- The **FBR** has proposed a simplified, voluntary tax regime for 3.5 million small shopkeepers to broaden the country's tax base. *[Dawn](https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders)*
-- **India** has prohibited the import of goods produced through forced labor to mitigate the risk of US trade tariffs. *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
+- The Asian Development Bank (ADB) has been formally appointed as the financial and transaction adviser for the outsourcing of Islamabad International Airport's operations. *[Dawn](https://www.dawn.com/news/2015671/adb-formally-appointed-financial-transaction-adviser-for-outsourcing-islamabad-airport-operations)*
+- The Pakistan Stock Exchange (PSX) benchmark index rose by over 1,700 points to settle above the 175,000 mark. *[Dawn](https://www.dawn.com/news/2015614/bulls-snap-losing-streak-as-psx-gains-over-1700-points)*
+- The Federal Board of Revenue (FBR) has proposed a simplified and voluntary income tax regime for small shopkeepers to expand the tax base. *[Dawn](https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders)*
+- Wall Street indices rose, with PayPal seeing a jump following reports of a takeover bid. *[ARY](https://arynews.tv/wall-street-rises-paypal-jumps-july-15-2026)*
 
 ### Science & Technology
-- An **NA standing committee** expressed concern regarding poor internet quality in major Pakistani cities, noting that power outages are affecting telecom services. *[Dawn](https://www.dawn.com/news/2015535/internet-quality-poor-even-in-major-cities-na-panel-told)*
-- **New York** has implemented a one-year moratorium on the construction of large data centers to address concerns regarding power costs and water supplies driven by AI. *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
+- A major data breach by the ransomware group "World Leaks" has exposed files and blueprints related to India's largest nuclear power plant, the Kudankulam plant. *[Dawn](https://www.dawn.com/news/2015650/files-relating-to-indias-largest-nuclear-power-plant-exposed-in-data-breach)*
 
 ### Politics
-- The **Supreme Court** is set to determine whether it retains jurisdiction over bail applications in pending NAB cases or if they must transfer to the Federal Constitutional Court. *[Dawn](https://www.dawn.com/news/2015530/supreme-court-to-decide-if-it-can-still-hear-nab-bails)*
-- **Opposition leaders** have requested a "neutral venue," specifically Parliament House, for proposed talks with the government. *[Dawn](https://www.dawn.com/news/2015536/opposition-seeks-neutral-venue-for-talks-with-govt)*
-- **Deputy Prime Minister Ishaq Dar** reaffirmed Pakistan's commitment to the SAARC process during a meeting with the association's Secretary-General. *[Dawn](https://www.dawn.com/news/2015433/dpm-dar-reaffirms-pakistans-commitment-to-saarc-process-during-meeting-with-secretary-general-golam-sarwar-fo)*
-- The **MQM-P** is seeking representation in the Parliamentary Committee on Kashmir to ensure all political parties help highlight the issue. *[Dawn](https://www.dawn.com/news/2015436/mqm-p-seeks-representation-in-parliamentary-committee-on-kashmir)*
+- PPP Chairperson Bilawal Bhutto-Zardari expressed concern regarding the situation in Azad Jammu and Kashmir (AJK), stating that continued instability could harm Pakistan's reputation. *[Dawn](https://www.dawn.com/news/2015652/bilawal-terms-ajk-situation-concerning-says-kashmir-cause-pakistans-reputation-will-be-harmed-if-it-persists)*
+- The AJK Home Secretary accused the banned Joint Awami Action Committee (JAAC) of using propaganda and "human shields" to incite the public. *[Dawn](https://www.dawn.com/news/2015669/coordinated-campaigns-carried-out-on-social-media-to-incite-people-says-ajk-home-secretary)*
+- A Lahore sessions court issued a notice to the NCCIA regarding a petition to register a case against Maulana Fazlur Rehman for controversial remarks about security personnel. *[Dawn](https://www.dawn.com/news/2015651/lahore-court-issues-notice-to-nccia-on-plea-seeking-case-against-fazl-over-remarks-on-security-personnel)*
+- Deputy Prime Minister Ishaq Dar met with the Secretary General of the Shanghai Cooperation Organisation (SCO) to reaffirm Pakistan's commitment to regional cooperation. *[Dawn](https://www.dawn.com/news/2015642/dar-meets-sco-secretary-general-reaffirms-pakistans-commitment-to-advancing-its-objectives)*
+- Clashes between protesters and law enforcers in AJK have resulted in the deaths of seven activists and two security personnel. *[Dawn](https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation)*
 
 ### National
-- Clashes between **protesters and law enforcers** in AJK resulted in the deaths of seven activists and two security personnel. *[Dawn](https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation)*
-- A **Senate panel** expressed dissatisfaction over the twenty-year delay in transferring the Karachi Hyatt Regency building to its purchaser. *[Dawn](https://www.dawn.com/news/2015526/senate-panel-irked-by-two-decade-delay-in-transfer-of-karachis-hyatt-regency)*
-- **CDF Munir** is on an official visit to Turkiye to strengthen strategic and defense cooperation with President Erdogan. *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
-- A **Bomb Disposal Unit official** was martyred while attempting to defuse an IED in Peshawar. *[Dawn](https://www.dawn.com/news/2015448/bomb-disposal-unit-official-martyred-in-ied-explosion-in-kps-peshawar-district-police)*
-- Three people were injured following a **cracker attack** on a Jamaat-e-Islami office in Lyari. *[ARY](https://arynews.tv/three-injured-in-cracker-attack-on-jamaat-e-islami-office-in-lyari)*
-- Reports highlight Pakistan's significant challenges regarding the **gender gap** and the ongoing need to support women in the workforce. *[Dawn](https://www.dawn.com/news/2015541/beyond-declarations)* *[Dawn](https://www.dawn.com/news/2015551/the-approval-we-imagine)*
+- A private water park in Batapur, Lahore, was sealed by authorities following the death of a nine-year-old girl due to alleged negligence. *[Dawn](https://www.dawn.com/news/2015662/private-water-park-near-lahore-sealed-after-nine-year-old-girl-dies-after-allegedly-getting-trapped-in-drainage-pipe)*
+- Three suspects have been arrested in connection with the murder of a young doctor during a robbery in Karachi. *[Dawn](https://www.dawn.com/news/2015627/3-arrested-in-connection-with-young-doctors-killing-during-robbery-near-karachis-teen-talwar)*
+- Security forces have killed three more terrorists during "Operation Shaban" in Balochistan, bringing the operation's total casualties to 88. *[Dawn](https://www.dawn.com/news/2015629/3-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media)*
+- Prime Minister Shehbaz Sharif directed the NDMA to coordinate closely with provinces to manage emergencies during the monsoon season. *[Dawn](https://www.dawn.com/news/2015625/pm-directs-ndma-to-strengthen-coordination-with-provinces-during-monsoon-rains)*
+- A parliamentary panel expressed dissatisfaction over the two-decade delay in the transfer of the Hyatt Regency Hotel in Karachi. *[Dawn](https://www.dawn.com/news/2015526/senate-panel-irked-by-two-decade-delay-in-transfer-of-karachis-hyatt-regency)*
+- The Punjab government is considering a ban on social media usage for children under the age of 16. *[ARY](https://arynews.tv/punjab-may-ban-social-media-for-children-under-16)*
+- Pakistan has announced a new fee structure for e-passports for the year 2026. *[ARY](https://arynews.tv/e-passport-pakistan-announces-new-fee-structure-for-2026)*
 
 ### International
-- Tensions between the **US and Iran** have escalated with renewed American strikes and the closure of the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015455/trump-steps-back-from-hormuz-fee-plan-new-strikes-hit-iran)* *[ARY](https://arynews.tv/us-launches-new-iran-strikes-reimposes-naval-blockade)*
-- **Andy Burnham** has gained significant momentum in the UK leadership contest after winning major union support. *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
+- The IRGC has threatened to block major export corridors and waterways after the US renewed a naval blockade of Iranian ports. *[Dawn](https://www.dawn.com/news/2015623/irgc-warns-of-blocking-more-waterways-after-hormuz-as-us-renews-blockade-of-iranian-ports)*
+- A man was arrested in Utah, USA, for a stabbing attack targeting a Muslim man based on his religion. *[Dawn](https://www.dawn.com/news/2015621/police-say-muslim-man-stabbed-multiple-times-in-us-over-his-religion)*
+- A brutal case of sexual violence involving an 11-year-old girl has highlighted ongoing issues of violence in India. *[Dawn](https://www.dawn.com/news/2015655/brutal-killing-of-11-year-old-highlights-unrelenting-sexual-violence-in-india)*
+- Bangladesh has initiated a major crackdown aimed at targeting the assets of former leader Sheikh Hasina. *[ARY](https://arynews.tv/bangladesh-targets-sheikh-hasinas-assets-in-major-crackdown)*
+- Tensions between the US and Iran have escalated following fresh military strikes and new threats. *[ARY](https://arynews.tv/us-iran-conflict-escalates-with-fresh-strikes-new-threats)*
+- The Iranian Foreign Minister visited Qatar amid heightened regional tensions following recent missile attacks. *[ARY](https://arynews.tv/iran-fm-abbas-araghchi-visits-qatar-days-after-missile-attack)*
+- Diplomatic efforts suggest that lasting peace between Washington and Tehran requires a new framework regarding the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015649/lasting-peace-between-washington-and-tehran-is-only-possible-through-a-new-hormuz-framework)*
 
 ### Sports
-- **Spain** defeated France 2-0 to secure a spot in the FIFA World Cup final. *[Dawn](https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final)* *[ARY](https://arynews.tv/spain-beat-france-to-reach-fifa-world-cup-final)*
-- **Manchester United** has reportedly signed Aston Villa midfielder Tielemans. *[ARY](https://arynews.tv/man-utd-sign-aston-villa-midfielder-tielemans)*
+- The ICC's revamped ODI and T20I World Cup formats may lead to more frequent matches between Pakistan and India. *[Dawn](https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash)*
+- Spain has reached the FIFA World Cup final after defeating France 2-0. *[Dawn](https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final)*
+- A viral prediction by Kevin Pietersen suggests Argentina may play similarly to France in upcoming matches. *[ARY](https://arynews.tv/argentina-play-like-france-kevin-pietersen-prediction-viral)*
 
 ### Health
-- Over **120 individuals** living near Karachi's Valika Hospital have tested positive following an HIV screening drive. *[Dawn](https://www.dawn.com/news/2015586/120-living-near-karachis-valika-hospital-test-positive-in-hiv-screening)*
-- The **US CDC** reports that lab-confirmed cases of a diarrhea-causing parasite (cyclosporiasis) have exceeded 1,600 across 34 states. *[Dawn](https://www.dawn.com/news/2015459/cdc-says-lab-confirmed-us-cases-of-diarrhoea-causing-parasite-top-1600-expects-count-to-rise)*
+- Sun Pharma has received approval to launch a generic version of the popular drug Ozempic. *[ARY](https://arynews.tv/sun-pharma-wins-approval-to-launch-generic-ozempic)*
 
 ### Other
-- **Meghan Markle** has received a daytime Emmy nomination for her Netflix series, 'With Love, Meghan'. *[ARY](https://arynews.tv/meghan-markle-lands-major-daytime-emmy-nomination-for-netflix-series-with-love-meghan)*
-- Fans are reacting to **cryptic newspaper advertisements** involving members of the group BTS. *[ARY](https://arynews.tv/bts-members-in-a-bathroom-newspaper-ad-leaves-fans-guessing)*
-- Celebrities **Adnan Siddiqui** and **Kriti Sanon** have shared personal milestones and decisions with fans. *[ARY](https://arynews.tv/adnan-siddiqui-celebrates-daughter-special-milestone-with-note)* *[ARY](https://arynews.tv/kriti-sanon-shares-major-decision-during-mimi)*
+- Actress Zendaya is reportedly looking toward a long break following a busy 2026 schedule. *[ARY](https://arynews.tv/zendaya-eyes-long-break-following-packed-2026)*
+- Jennifer Lopez's recent appearance in a VIP box at Wimbledon reportedly did not go as planned. *[ARY](https://arynews.tv/jennifer-lopezs-vip-box-stint-goes-sour-at-wimbledon)*
 
