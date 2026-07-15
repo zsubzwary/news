@@ -4,52 +4,46 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Jul-2026 21:05PKT
+Published at: 15-Jul-2026 09:05PKT
 
 Time to read: 3 mins
 
 ### Economy
-- India plans to prohibit the import of goods produced with forced labor to avoid potential US tariffs. *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
-- Prime Minister Shehbaz Sharif has directed that foreign remittances be fully digitized to promote a cashless economy. *[Dawn](https://www.dawn.com/news/2015382/pm-shehbaz-directs-remittances-from-abroad-be-fully-digitised)*
-- The Pakistan Stock Exchange (PSX) benchmark index suffered a massive loss of over 6,400 points due to renewed US-Iran fighting. *[Dawn](https://www.dawn.com/news/2015331/bloodbath-at-psx-as-kse-100-loses-6400-points-over-renewed-us-iran-fighting)*
-- Flour sellers have agreed to reduce prices. *[ARY](https://arynews.tv/flour-sellers-agree-to-reduce-prices)*
-- The Iranian rial continues to be traded in Pakistan despite the ongoing Iran-US conflict. *[ARY](https://arynews.tv/iranian-rial-rate-against-pakistani-rupee-and-usd-july-14-2026)*
-- Plans are being made to reform the petrol price determination system in Pakistan. *[ARY](https://arynews.tv/petrol-price-determination-system-to-be-reformed-in-pakistan)*
+- The **FBR** has proposed a simplified, voluntary tax regime for 3.5 million small shopkeepers to broaden the country's tax base. *[Dawn](https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders)*
+- **India** has prohibited the import of goods produced through forced labor to mitigate the risk of US trade tariffs. *[Dawn](https://www.dawn.com/news/2015385/india-to-ban-import-of-goods-made-using-forced-labour-amid-us-probe)*
 
 ### Science & Technology
-- New York has imposed a one-year moratorium on the construction of large new data centers due to resource concerns. *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
-- The upcoming Apple iPhone 18 Pro Max is rumored to feature significant upgrades to its battery and display. *[ARY](https://arynews.tv/apple-iphone-18-pro-max-tipped-to-launch-in-september-with-major-display-and-battery-upgrades)*
+- An **NA standing committee** expressed concern regarding poor internet quality in major Pakistani cities, noting that power outages are affecting telecom services. *[Dawn](https://www.dawn.com/news/2015535/internet-quality-poor-even-in-major-cities-na-panel-told)*
+- **New York** has implemented a one-year moratorium on the construction of large data centers to address concerns regarding power costs and water supplies driven by AI. *[Dawn](https://www.dawn.com/news/2015428/new-york-becomes-first-us-state-to-impose-data-centre-moratorium)*
 
 ### Politics
-- Andy Burnham has secured the backing of the UK's largest union, strengthening his lead in the Labour leadership contest. *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
-- The UK government plans to change laws to facilitate the deportation of a convicted grooming gang ringleader. *[Dawn](https://www.dawn.com/news/2015275/uk-to-change-law-in-bid-to-deport-rochdale-grooming-gang-ringleader-shabir-ahmed)*
+- The **Supreme Court** is set to determine whether it retains jurisdiction over bail applications in pending NAB cases or if they must transfer to the Federal Constitutional Court. *[Dawn](https://www.dawn.com/news/2015530/supreme-court-to-decide-if-it-can-still-hear-nab-bails)*
+- **Opposition leaders** have requested a "neutral venue," specifically Parliament House, for proposed talks with the government. *[Dawn](https://www.dawn.com/news/2015536/opposition-seeks-neutral-venue-for-talks-with-govt)*
+- **Deputy Prime Minister Ishaq Dar** reaffirmed Pakistan's commitment to the SAARC process during a meeting with the association's Secretary-General. *[Dawn](https://www.dawn.com/news/2015433/dpm-dar-reaffirms-pakistans-commitment-to-saarc-process-during-meeting-with-secretary-general-golam-sarwar-fo)*
+- The **MQM-P** is seeking representation in the Parliamentary Committee on Kashmir to ensure all political parties help highlight the issue. *[Dawn](https://www.dawn.com/news/2015436/mqm-p-seeks-representation-in-parliamentary-committee-on-kashmir)*
 
 ### National
-- The AJK government is conducting operations to reopen routes blocked by the banned JAAC. *[Dawn](https://www.dawn.com/news/2015416/ajk-govt-says-operation-under-way-to-reopen-routes-blocked-by-banned-jaac)*
-- The Election Commission of Pakistan is consulting with the KP government to finalize dates for local government elections. *[Dawn](https://www.dawn.com/news/2015399/ecp-starts-consultations-with-kp-govt-to-fix-date-for-lg-polls-in-23-districts)*
-- Four more terrorists were killed during the ongoing Operation Shaban in Balochistan, bringing the total to 83. *[Dawn](https://www.dawn.com/news/2015356/4-more-terrorists-killed-in-ongoing-operation-shaban-in-balochistan-state-media)*
-- Government ministers rebuked Maulana Fazlur Rehman for "insensitive" remarks regarding military personnel. *[Dawn](https://www.dawn.com/news/2015349/diminished-martyrs-sacrifices-ministers-rebuke-fazl-over-insensitive-remarks-about-military-personnel)*
-- Police arrested the mastermind of the Karachi Rangers camp attack, alleging the culprits were trained in Afghanistan. *[Dawn](https://www.dawn.com/news/2015342/police-say-mastermind-of-rangers-camp-attack-in-karachi-arrested-culprits-trained-in-afghanistan)*
-- Karachi continues to rank poorly on the Global Liveability Index, placing 170th out of 173 cities. *[Dawn](https://www.dawn.com/news/2015422/in-pictures-why-karachi-continues-to-rank-among-the-least-liveable-cities-in-the-world)*
+- Clashes between **protesters and law enforcers** in AJK resulted in the deaths of seven activists and two security personnel. *[Dawn](https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation)*
+- A **Senate panel** expressed dissatisfaction over the twenty-year delay in transferring the Karachi Hyatt Regency building to its purchaser. *[Dawn](https://www.dawn.com/news/2015526/senate-panel-irked-by-two-decade-delay-in-transfer-of-karachis-hyatt-regency)*
+- **CDF Munir** is on an official visit to Turkiye to strengthen strategic and defense cooperation with President Erdogan. *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
+- A **Bomb Disposal Unit official** was martyred while attempting to defuse an IED in Peshawar. *[Dawn](https://www.dawn.com/news/2015448/bomb-disposal-unit-official-martyred-in-ied-explosion-in-kps-peshawar-district-police)*
+- Three people were injured following a **cracker attack** on a Jamaat-e-Islami office in Lyari. *[ARY](https://arynews.tv/three-injured-in-cracker-attack-on-jamaat-e-islami-office-in-lyari)*
+- Reports highlight Pakistan's significant challenges regarding the **gender gap** and the ongoing need to support women in the workforce. *[Dawn](https://www.dawn.com/news/2015541/beyond-declarations)* *[Dawn](https://www.dawn.com/news/2015551/the-approval-we-imagine)*
 
 ### International
-- CDF Asim Munir is visiting Turkiye to strengthen strategic and defense cooperation. *[Dawn](https://www.dawn.com/news/2015389/cdf-munir-meets-turkish-president-erdogan-armed-forces-chief-in-ankara-ispr)*
-- PM Shehbaz Sharif reaffirmed Pakistan's support for Saudi Arabia's security following Houthi attacks. *[Dawn](https://www.dawn.com/news/2015391/after-houthi-attacks-on-saudi-arabia-pm-shehbaz-reaffirms-pakistans-support-for-kingdoms-security)*
-- WFP aid vehicles have begun entering Afghanistan via the Torkham border. *[Dawn](https://www.dawn.com/news/2015404/21-of-26-wfp-vehicles-carrying-aid-enter-afghanistan-via-torkham-border)*
-- The United States has launched its third consecutive night of strikes on Iran. *[Dawn](https://www.dawn.com/news/2015335/us-launches-third-night-of-strikes-on-iran-irgc-targets-american-assets-in-bahrain-and-jordan)*
-- France held its largest-ever Bastille Day parade, showcasing military power and unity with allies. *[Dawn](https://www.dawn.com/news/2015412/in-pictures-france-flaunts-firepower-unity-with-allies-in-bastille-day-parade)*
-- The death of US Senator Lindsey Graham raises concerns regarding the future of US support for Ukraine. *[Dawn](https://www.dawn.com/news/2015401/can-us-senator-lindsey-grahams-ukraine-initiatives-survive-without-him)*
-- FBI Director Kash Patel hosted Pakistan's Interior Minister to discuss critical regional security partnerships. *[Dawn](https://www.dawn.com/news/2015325/fbi-chief-kash-patel-hosts-naqvi-in-washington-hails-critical-partnership)*
-- Pakistan expressed solidarity with Saudi Arabia at the UN Security Council regarding the situation in Yemen. *[Dawn](https://www.dawn.com/news/2015330/pakistan-expresses-solidarity-with-saudi-arabia-at-unsc-condemns-houthi-attacks-on-kingdom)*
+- Tensions between the **US and Iran** have escalated with renewed American strikes and the closure of the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015455/trump-steps-back-from-hormuz-fee-plan-new-strikes-hit-iran)* *[ARY](https://arynews.tv/us-launches-new-iran-strikes-reimposes-naval-blockade)*
+- **Andy Burnham** has gained significant momentum in the UK leadership contest after winning major union support. *[Dawn](https://www.dawn.com/news/2015435/burnham-in-sight-of-downing-street-wins-top-uk-union-support)*
 
 ### Sports
-- Roberto Baggio has named Lionel Messi as the greatest of all time (GOAT). *[ARY](https://arynews.tv/roberto-baggio-chooses-messi-over-maradona-marco-materazzi-disagrees)*
-- Hugo Lloris discussed the "destiny" of the matchup between Mbappe and Messi. *[ARY](https://arynews.tv/it-felt-like-destiny-hugo-lloris-on-mbappe-vs-messi-final)*
-- Hugo Lloris revealed tactical commands used by France to stop Messi during the 2018 World Cup. *[ARY](https://arynews.tv/how-france-stopped-messi-in-2018-hugo-lloris-reveals-deschamps-command-to-ngolo-kante)*
+- **Spain** defeated France 2-0 to secure a spot in the FIFA World Cup final. *[Dawn](https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final)* *[ARY](https://arynews.tv/spain-beat-france-to-reach-fifa-world-cup-final)*
+- **Manchester United** has reportedly signed Aston Villa midfielder Tielemans. *[ARY](https://arynews.tv/man-utd-sign-aston-villa-midfielder-tielemans)*
 
 ### Health
-- Experts are urging parents to maintain open communication with children regarding mental health and body safety. *[ARY](https://arynews.tv/children-encouraging-open-communication)*
+- Over **120 individuals** living near Karachi's Valika Hospital have tested positive following an HIV screening drive. *[Dawn](https://www.dawn.com/news/2015586/120-living-near-karachis-valika-hospital-test-positive-in-hiv-screening)*
+- The **US CDC** reports that lab-confirmed cases of a diarrhea-causing parasite (cyclosporiasis) have exceeded 1,600 across 34 states. *[Dawn](https://www.dawn.com/news/2015459/cdc-says-lab-confirmed-us-cases-of-diarrhoea-causing-parasite-top-1600-expects-count-to-rise)*
 
 ### Other
-- Cillian Murphy paid tribute to his late *Peaky Blinders* co-star, Sam Neill. *[ARY](https://arynews.tv/cillian-murphy-honors-late-peaky-blinders-co-star-sam-neill)*
+- **Meghan Markle** has received a daytime Emmy nomination for her Netflix series, 'With Love, Meghan'. *[ARY](https://arynews.tv/meghan-markle-lands-major-daytime-emmy-nomination-for-netflix-series-with-love-meghan)*
+- Fans are reacting to **cryptic newspaper advertisements** involving members of the group BTS. *[ARY](https://arynews.tv/bts-members-in-a-bathroom-newspaper-ad-leaves-fans-guessing)*
+- Celebrities **Adnan Siddiqui** and **Kriti Sanon** have shared personal milestones and decisions with fans. *[ARY](https://arynews.tv/adnan-siddiqui-celebrates-daughter-special-milestone-with-note)* *[ARY](https://arynews.tv/kriti-sanon-shares-major-decision-during-mimi)*
 
