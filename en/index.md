@@ -4,53 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Jul-2026 21:04PKT
+Published at: 16-Jul-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Asian Development Bank (ADB) has been formally appointed as the financial and transaction adviser for the outsourcing of Islamabad International Airport's operations. *[Dawn](https://www.dawn.com/news/2015671/adb-formally-appointed-financial-transaction-adviser-for-outsourcing-islamabad-airport-operations)*
-- The Pakistan Stock Exchange (PSX) benchmark index rose by over 1,700 points to settle above the 175,000 mark. *[Dawn](https://www.dawn.com/news/2015614/bulls-snap-losing-streak-as-psx-gains-over-1700-points)*
-- The Federal Board of Revenue (FBR) has proposed a simplified and voluntary income tax regime for small shopkeepers to expand the tax base. *[Dawn](https://www.dawn.com/news/2015525/fbr-proposes-voluntary-tax-regime-for-small-traders)*
-- Wall Street indices rose, with PayPal seeing a jump following reports of a takeover bid. *[ARY](https://arynews.tv/wall-street-rises-paypal-jumps-july-15-2026)*
+- Sindh's allocated share under the National Finance Commission (NFC) Award declined this year as provinces contributed to the federal government. *[Dawn](https://www.dawn.com/news/2015745/nfc-share-declined-after-aiding-centre-says-sindh-chief-minister)*
+- The Pakistan Virtual Assets Regulatory Authority (PVARA) has requested religious clarification to distinguish between speculative cryptocurrencies and asset-backed digital tokens. *[Dawn](https://www.dawn.com/news/2015697/crypto-czar-asks-jamia-darul-uloom-to-distinguish-between-speculative-crypto-asset-backed-tokens)*
 
 ### Science & Technology
-- A major data breach by the ransomware group "World Leaks" has exposed files and blueprints related to India's largest nuclear power plant, the Kudankulam plant. *[Dawn](https://www.dawn.com/news/2015650/files-relating-to-indias-largest-nuclear-power-plant-exposed-in-data-breach)*
+- Concerns are rising that **generative AI** may negatively impact human critical thinking, memory, and decision-making skills. *[Dawn](https://www.dawn.com/news/2015756/generative-ais-power-sparks-fears-of-dumbing-humans-down)*
+- Deputy Prime Minister Ishaq Dar will attend the signing ceremony for the **World Artificial Intelligence Cooperation Organisation (WAICO)** in Shanghai. *[Dawn](https://www.dawn.com/news/2015680/dpm-dar-to-attend-signing-ceremony-for-china-led-ai-governance-body-in-shanghai-fo)*
+
+### Weather
+- **Gilgit-Baltistan** has emerged as Pakistan's "climate ground zero," acting as the starting point for Indus system disasters. *[Dawn](https://www.dawn.com/news/2015802/pakistans-ground-zero)*
 
 ### Politics
-- PPP Chairperson Bilawal Bhutto-Zardari expressed concern regarding the situation in Azad Jammu and Kashmir (AJK), stating that continued instability could harm Pakistan's reputation. *[Dawn](https://www.dawn.com/news/2015652/bilawal-terms-ajk-situation-concerning-says-kashmir-cause-pakistans-reputation-will-be-harmed-if-it-persists)*
-- The AJK Home Secretary accused the banned Joint Awami Action Committee (JAAC) of using propaganda and "human shields" to incite the public. *[Dawn](https://www.dawn.com/news/2015669/coordinated-campaigns-carried-out-on-social-media-to-incite-people-says-ajk-home-secretary)*
-- A Lahore sessions court issued a notice to the NCCIA regarding a petition to register a case against Maulana Fazlur Rehman for controversial remarks about security personnel. *[Dawn](https://www.dawn.com/news/2015651/lahore-court-issues-notice-to-nccia-on-plea-seeking-case-against-fazl-over-remarks-on-security-personnel)*
-- Deputy Prime Minister Ishaq Dar met with the Secretary General of the Shanghai Cooperation Organisation (SCO) to reaffirm Pakistan's commitment to regional cooperation. *[Dawn](https://www.dawn.com/news/2015642/dar-meets-sco-secretary-general-reaffirms-pakistans-commitment-to-advancing-its-objectives)*
-- Clashes between protesters and law enforcers in AJK have resulted in the deaths of seven activists and two security personnel. *[Dawn](https://www.dawn.com/news/2015537/protesters-law-enforcers-clash-during-ajk-clearance-operation)*
+- The **PTI** parliamentary party has announced a nationwide movement starting August 5 to demand the release of Imran Khan. *[Dawn](https://www.dawn.com/news/2015790/pti-to-launch-nationwide-movement-from-aug-5)*
 
 ### National
-- A private water park in Batapur, Lahore, was sealed by authorities following the death of a nine-year-old girl due to alleged negligence. *[Dawn](https://www.dawn.com/news/2015662/private-water-park-near-lahore-sealed-after-nine-year-old-girl-dies-after-allegedly-getting-trapped-in-drainage-pipe)*
-- Three suspects have been arrested in connection with the murder of a young doctor during a robbery in Karachi. *[Dawn](https://www.dawn.com/news/2015627/3-arrested-in-connection-with-young-doctors-killing-during-robbery-near-karachis-teen-talwar)*
-- Security forces have killed three more terrorists during "Operation Shaban" in Balochistan, bringing the operation's total casualties to 88. *[Dawn](https://www.dawn.com/news/2015629/3-more-terrorists-killed-as-operation-shaban-continues-in-balochistan-state-media)*
-- Prime Minister Shehbaz Sharif directed the NDMA to coordinate closely with provinces to manage emergencies during the monsoon season. *[Dawn](https://www.dawn.com/news/2015625/pm-directs-ndma-to-strengthen-coordination-with-provinces-during-monsoon-rains)*
-- A parliamentary panel expressed dissatisfaction over the two-decade delay in the transfer of the Hyatt Regency Hotel in Karachi. *[Dawn](https://www.dawn.com/news/2015526/senate-panel-irked-by-two-decade-delay-in-transfer-of-karachis-hyatt-regency)*
-- The Punjab government is considering a ban on social media usage for children under the age of 16. *[ARY](https://arynews.tv/punjab-may-ban-social-media-for-children-under-16)*
-- Pakistan has announced a new fee structure for e-passports for the year 2026. *[ARY](https://arynews.tv/e-passport-pakistan-announces-new-fee-structure-for-2026)*
+- Security forces foiled a suicide attack in **South Waziristan**, resulting in the death of four terrorists. *[Dawn](https://www.dawn.com/news/2015848/security-forces-foil-suicide-attack-on-military-post-in-south-waziristans-wana-kill-4-terrorists-sources)*
+- The **Joint Awami Action Committee (JAAC)** has deferred its planned long march in AJK for one week following back-channel talks. *[Dawn](https://www.dawn.com/news/2015792/jaac-defers-march-for-a-week-after-back-channel-talks)*
+- The **Balochistan High Court** has admitted a plea from Dr. Mahrang Baloch challenging her life imprisonment sentence. *[Dawn](https://www.dawn.com/news/2015786/balochistan-high-court-admits-dr-mahrangs-plea-against-life-sentence)*
+- The Islamabad High Court is reviewing a petition against a **50% increase in motorway tolls** for vehicles with insufficient M-Tag balances. *[Dawn](https://www.dawn.com/news/2015784/notices-issued-on-plea-against-higher-motorway-toll)*
+- At least five people, including a police officer, were injured in a terrorist attack on a **Bannu police station**. *[Dawn](https://www.dawn.com/news/2015690/at-least-5-injured-including-police-official-in-attack-on-bannu-police-station)*
+- Security is being increased around the **Saindak copper and gold mine** in Balochistan following terrorist disruptions. *[Dawn](https://www.dawn.com/news/2015683/authorities-increasing-security-around-saindak-copper-and-gold-mine-in-balochistan-minister)*
+- AJK authorities reported that the **JAAC** has used coordinated social media campaigns to incite the public. *[Dawn](https://www.dawn.com/news/2015669/coordinated-campaigns-carried-out-on-social-media-to-incite-people-says-ajk-home-secretary)*
+- Violent confrontations in **Azad Kashmir** have claimed approximately 30 lives since early June. *[Dawn](https://www.dawn.com/news/2015795/ajk-violence)*
+- Overseas Pakistanis with **invalid or expired NICOPs** will be prohibited from boarding flights to Pakistan. *[Dawn](https://www.dawn.com/news/2015698/holders-of-invalid-expired-nicops-barred-from-boarding-flights-to-pakistan-official)*
 
 ### International
-- The IRGC has threatened to block major export corridors and waterways after the US renewed a naval blockade of Iranian ports. *[Dawn](https://www.dawn.com/news/2015623/irgc-warns-of-blocking-more-waterways-after-hormuz-as-us-renews-blockade-of-iranian-ports)*
-- A man was arrested in Utah, USA, for a stabbing attack targeting a Muslim man based on his religion. *[Dawn](https://www.dawn.com/news/2015621/police-say-muslim-man-stabbed-multiple-times-in-us-over-his-religion)*
-- A brutal case of sexual violence involving an 11-year-old girl has highlighted ongoing issues of violence in India. *[Dawn](https://www.dawn.com/news/2015655/brutal-killing-of-11-year-old-highlights-unrelenting-sexual-violence-in-india)*
-- Bangladesh has initiated a major crackdown aimed at targeting the assets of former leader Sheikh Hasina. *[ARY](https://arynews.tv/bangladesh-targets-sheikh-hasinas-assets-in-major-crackdown)*
-- Tensions between the US and Iran have escalated following fresh military strikes and new threats. *[ARY](https://arynews.tv/us-iran-conflict-escalates-with-fresh-strikes-new-threats)*
-- The Iranian Foreign Minister visited Qatar amid heightened regional tensions following recent missile attacks. *[ARY](https://arynews.tv/iran-fm-abbas-araghchi-visits-qatar-days-after-missile-attack)*
-- Diplomatic efforts suggest that lasting peace between Washington and Tehran requires a new framework regarding the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2015649/lasting-peace-between-washington-and-tehran-is-only-possible-through-a-new-hormuz-framework)*
+- Climate-vulnerable nations face delays in receiving disbursements from the **Fund for Responding to Loss and Damage (FRLD)**. *[Dawn](https://www.dawn.com/news/2015776/frontline-communities-face-longer-wait-for-funds)*
+- The **Italian Supreme Court** has upheld the murder convictions of family members of a Pakistani girl killed for refusing an arranged marriage. *[Dawn](https://www.dawn.com/news/2015686/italian-supreme-court-upholds-murder-convictions-of-family-members-of-pakistani-girl-killed-for-refusing-arranged-marriage)*
+- An **India-UK trade pact** has taken effect, reducing tariffs and expanding market access for services. *[Dawn](https://www.dawn.com/news/2015677/india-uk-trade-pact-takes-effect-cutting-tariffs-and-boosting-services-trade)*
+- Vessel traffic through the **Strait of Hormuz** has decreased due to ongoing US-Iran strikes. *[ARY](https://arynews.tv/fewer-vessels-travel-through-hormuz-as-us-iran-continue-strikes)*
+- The **US** has launched new strikes against Iran amidst threats of wider military actions. *[ARY](https://arynews.tv/us-launches-new-iran-strikes-as-trump-threatens-wider-attacks)*
 
 ### Sports
-- The ICC's revamped ODI and T20I World Cup formats may lead to more frequent matches between Pakistan and India. *[Dawn](https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash)*
-- Spain has reached the FIFA World Cup final after defeating France 2-0. *[Dawn](https://www.dawn.com/news/2015496/majestic-spain-stun-france-to-reach-fifa-world-cup-final)*
-- A viral prediction by Kevin Pietersen suggests Argentina may play similarly to France in upcoming matches. *[ARY](https://arynews.tv/argentina-play-like-france-kevin-pietersen-prediction-viral)*
+- The **ICC** has announced a revamped format for the 2027 ODI World Cup, which may increase India-Pakistan matchups. *[Dawn](https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash)*
+- **Argentina** defeated England to secure a place in the World Cup final. *[ARY](https://arynews.tv/argentina-came-from-behind-to-beat-england)*
+- **Mike Hesson** has been shortlisted for the role of England's Test coach. *[ARY](https://arynews.tv/mike-hesson-shortlisted-for-england-test-coach-role-report)*
+- **France's** footballing generation faces a transition as the era of Zinedine Zidane beckons. *[ARY](https://arynews.tv/frances-golden-generation-left-heartbroken-as-zidane-era-beckons)*
 
 ### Health
-- Sun Pharma has received approval to launch a generic version of the popular drug Ozempic. *[ARY](https://arynews.tv/sun-pharma-wins-approval-to-launch-generic-ozempic)*
+- The **Pakistan Medical Association (PMA)** has issued a national red alert over the "catastrophically high" number of zero-dose children. *[Dawn](https://www.dawn.com/news/2015789/pma-issues-red-alert-over-651000-zero-dose-children)*
 
 ### Other
-- Actress Zendaya is reportedly looking toward a long break following a busy 2026 schedule. *[ARY](https://arynews.tv/zendaya-eyes-long-break-following-packed-2026)*
-- Jennifer Lopez's recent appearance in a VIP box at Wimbledon reportedly did not go as planned. *[ARY](https://arynews.tv/jennifer-lopezs-vip-box-stint-goes-sour-at-wimbledon)*
+- Warner Bros. provided a disappointing update regarding the production of ***The Batman 2***. *[ARY](https://arynews.tv/warner-bros-gives-disappointing-update-on-robert-pattinsons-the-batman-2)*
+- **Zhalay Sarhadi** has voiced support for Hania Aamir following social media trolling regarding plastic surgery. *[ARY](https://arynews.tv/zhalay-sarhadi-backs-hania-aamir-after-old-video-sparks-plastic-surgery-trolls)*
+- Various celebrities sent birthday wishes to **Sanam Baloch** on her 40th birthday. *[ARY](https://arynews.tv/sanam-baloch-turns-40-durefishan-saleem-hiba-qadir-and-others-send-birthday-wishes)*
+- **Tom Cruise's** transformation in the *Digger* trailer is generating significant Oscar buzz. *[ARY](https://arynews.tv/tom-cruises-shocking-transformation-in-digger-trailer-sparks-major-oscar-buzz)*
+- Actress **Emily Bett Rickards** has married one year after her engagement. *[ARY](https://arynews.tv/emily-bett-rickards-gets-married-a-year-after-engagement)*
 
