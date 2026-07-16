@@ -7,55 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 16-Jul-2026 09:10PKT 
+ &lrm; 16-Jul-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- سندھ کے وزیر اعلیٰ کا کہنا ہے کہ صوبوں کی جانب سے وفاق کی مدد کرنے کی وجہ سے این ایف سی (NFC) حصے میں کمی آئی ہے۔ *[Dawn](https://www.dawn.com/news/2015745/nfc-share-declined-after-aiding-centre-says-sindh-chief-minister)*
-- کرپٹو کے سربراہ نے جامعہ دارالعلوم سے مطالبہ کیا کہ وہ مشکوک کرپٹو کرنسی اور اثاثہ جات پر مبنی ٹوکنز کے درمیان فرق واضح کریں۔ *[Dawn](https://www.dawn.com/news/2015697/crypto-czar-asks-jamia-darul-uloom-to-distinguish-between-speculative-crypto-asset-backed-tokens)*
+- یورپی یونین نے پاکستان کے GSP+ تعمیل کے حوالے سے مسائل کا ذکر کیا ہے اور اصلاحات کرنے پر زور دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015939/eu-notes-in-pakistans-gsp-compliance-urges-islamabad-to-address-shortcomings)*
+- وزیر اعظم شہباز شریف نے خبردار کیا ہے کہ امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی دوبارہ ملکی معیشت کو متاثر کر سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again)*
+- پاکستان خطے میں تجارت اور علاقائی کنیکٹیویٹی کے نئے وژن کے ذریعے یوریشیا کے ساتھ تعلقات مضبوط کرنے کی کوشش کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2015948/opinion-reconnecting-eurasia-how-pakistan-is-building-a-new-vision-for-trade-and-regional-connectivity)*
+- پاکستان میں ریٹیلرز کے لیے ٹیکس میں ریلیف کا اعلان کیا گیا ہے۔ *[ARY](https://arynews.tv/tax-relief-announced-for-retailers-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- جنریٹو اے آئی (Generative AI) کے بڑھتے ہوئے استعمال سے انسانی ذہانت، یادداشت اور سوچنے سمجھنے کی صلاحیتوں کے متاثر ہونے کے خدشات ظاہر کیے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2015756/generative-ais-power-sparks-fears-of-dumbing-humans-down)*
+- نائب وزیراعظم اسحاق ڈار چین کے دورے پر آرٹیفیشل انٹیلیجنس کے حوالے سے عالمی تنظیم (WAICO) کے بانی رکن کے طور پر دستخط کریں گے۔ *[Dawn](https://www.dawn.com/news/2015858/dar-arrives-in-shanghai-to-sign-pakistans-founding-membership-of-china-led-ai-body)*
 
 ### موسم
-- گلگت بلتستان پاکستان کے لیے موسمیاتی تبدیلیوں کا مرکز (Ground Zero) بن رہا ہے، جہاں سے دریاؤں کے نظام کے مسائل شروع ہو رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2015802/pakistans-ground-zero)*
-
-### سیاست
-- پی ٹی آئی نے عمران خان کی رہائی کے مطالبے کے ساتھ 5 اگست سے ملک گیر تحریک شروع کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015790/pti-to-launch-nationwide-movement-from-aug-5)*
+- کویت میں شدید گرمی کی لہر جاری ہے اور درجہ حرارت 50 ڈگری سیلسیس تک پہنچ گیا ہے۔ *[ARY](https://arynews.tv/kuwait-in-the-grip-of-scorching-heat-as-mercury-reaches-50c)*
 
 ### قومی
-- جنوبی وزیرستان کے علاقے وانا میں سیکیورٹی فورسز نے خودکش حملہ ناکام بنا دیا، جس میں 4 دہشت گرد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/2015848/security-forces-foil-suicide-attack-on-military-post-in-south-waziristans-wana-kill-4-terrorists-sources)*
-- آزاد کشمیر میں احتجاجی تحریک (JAAC) نے مذاکرات کے بعد اپنے مارچ کو ایک ہفتے کے لیے ملتوی کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015792/jaac-defers-march-for-a-week-after-back-channel-talks)*
-- بلوچستان ہائی کورٹ نے ڈاکٹر مہرنگ بلوچ کی عمر قید کی سزا کے خلاف درخواست سماعت کے لیے منظور کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2015786/balochistan-high-court-admits-dr-mahrangs-plea-against-life-sentence)*
-- موٹروے ٹول میں 50 فیصد اضافے کے خلاف درخواست پر اسلام آباد ہائی کورٹ نے نوٹس جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2015784/notices-issued-on-plea-against-higher-motorway-toll)*
-- بنوں میں پولیس اسٹیشن پر دہشت گردوں کے حملے کے نتیجے میں کم از کم 5 افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2015690/at-least-5-injured-including-police-official-in-attack-on-bannu-police-station)*
-- بلوچستان میں سینڈک تانبے اور سونے کی کان کے گرد سیکیورٹی سخت کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2015683/authorities-increasing-security-around-saindak-copper-and-gold-mine-in-balochistan-minister)*
-- آزاد کشمیر میں جاری تشدد اور احتجاج کے نتیجے میں اب تک 30 افراد ہلاک ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2015795/ajk-violence)*
-- غیر مؤثر یا ختم شدہ این آئی سی او پی (NICOP) کارڈز رکھنے والے پاکستانیوں کو پاکستان کے لیے پروازوں پر بیٹھنے سے روک دیا جائے گا۔ *[Dawn](https://www.dawn.com/news/2015698/holders-of-invalid-expired-nicops-barred-from-boarding-flights-to-pakistan-official)*
-- آزاد کشمیر کے ہوم سیکرٹری نے الزام لگایا کہ JAAC سوشل میڈیا کے ذریعے لوگوں کو اکسانے کے لیے مہم چلا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2015669/coordinated-campaigns-carried-out-on-social-media-to-incite-people-says-ajk-home-secretary)*
+- سپریم کورٹ نے NAB اپیلوں میں ضمانت کی سماعت کے اختیار کے حوالے سے قانونی تنازعہ پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2015925/2sc-32a-bail-fcc)*
+- لاہور ہائی کورٹ نے ججز کے لیے ٹرانسپورٹ مونیٹائزیشن پالیسی منظور کر لی ہے جس کے تحت وہ سرکاری گاڑیاں رعایتی قیمت پر خرید سکیں گے۔ *[Dawn](https://www.dawn.com/news/2015923/lhc-approves-transport-monetisation-policy-allows-judicial-officers-to-purchase-allotted-vehicles-at-depreciated-price)*
+- ساؤتھ ایئر نے کراچی سے کوئٹہ اور اسلام آباد کے لیے اپنی پہلی پروازوں کا کامیاب آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015921/south-airs-inaugural-flights-from-karachi-depart-for-quetta-islamabad-paa)*
+- بلوچستان میں آپریشن شعبان کے دوران سیکورٹی فورسز نے 3 مزید دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2015946/security-forces-kill-3-more-terrorists-as-operation-shaban-continues-in-balochistan)*
+- دو غیر ملکی خواتین کے اغوا اور زیادتی کے کیس میں تین ملزمان کے جسمانی ریمانڈ میں توسیع کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2015930/court-extends-physical-remand-of-three-suspects-in-alleged-kidnapping-rape-of-two-foreign-women)*
+- جنوبی وزیرستان کے علاقے وانا میں فوجی چوکی پر خودکش حملہ ناکام، 4 دہشت گرد مارے گئے۔ *[Dawn](https://www.dawn.com/news/2015848/security-forces-foil-suicide-attack-on-military-post-in-south-waziristans-wana-kill-4-terrorists-sources)*
+- کراچی کی عدالت نے ڈاکٹر آکاش قتل کیس میں تین ملزمان کا سات روزہ ریمانڈ منظور کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2015906/karachi-court-grants-police-7-day-physical-remand-of-3-suspects-in-dr-akash-murder-case)*
+- بنوں کے میریاں پولیس اسٹیشن پر دہشت گردوں کا حملہ، ایک اہلکار شہید اور 10 دیگر زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2015898/cop-martyred-10-others-injured-in-attack-on-bannus-miryan-police-station)*
+- رنگین پاپڑ پر پابندی عائد کر دی گئی ہے۔ *[ARY](https://arynews.tv/papad-banned-imposed)*
+- راولپنڈی میں ایک شوہر کی اپنی بیوی کو زنجیروں سے جکڑنے کا واقعہ سامنے آیا ہے۔ *[ARY](https://arynews.tv/rawalpindi-man-arrested-for-chaining-wife-cctv-footage-surfaces)*
+- صادق آباد میں ایک افسوسناک واقعے میں ماں نے چار بچوں سمیت نہر میں چھلانگ لگا دی۔ *[ARY](https://arynews.tv/mother-jumps-into-canal-along-with-4-children-in-sadiqabad)*
+- مریم نواز نے لاہور میں چھت گرنے کے حادثے پر اظہار افسوس کیا ہے۔ *[ARY](https://arynews.tv/maryam-nawaz-addresses-roof-collapse-tragedy)*
 
 ### بین الاقوامی
-- موسمیاتی نقصانات کے فنڈ (FRLD) کی تقسیم میں تاخیر کا امکان ہے، جس سے پاکستان جیسے ممالک کو مشکلات کا سامنا کرنا پڑ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2015776/frontline-communities-face-longer-wait-for-funds)*
-- اطالوی سپریم کورٹ نے پاکستانی لڑکی کے قتل کے کیس میں اس کے خاندان کے افراد کی سزا کو برقرار رکھا ہے۔ *[Dawn](https://www.dawn.com/news/2015686/italian-supreme-court-upholds-murder-convictions-of-family-members-of-pakistani-girl-killed-for-refusing-arranged-marriage)*
-- نائب وزیر اعظم اسحاق ڈار چین کی قیادت میں اے آئی گورننس باڈی کے دستخطی تقریب میں شرکت کریں گے۔ *[Dawn](https://www.dawn.com/news/2015680/dpm-dar-to-attend-signing-ceremony-for-china-led-ai-governance-body-in-shanghai-fo)*
-- بھارت اور برطانیہ کے درمیان تجارتی معاہدہ نافذ ہو گیا ہے، جس سے ٹیرف میں کمی آئے گی۔ *[Dawn](https://www.dawn.com/news/2015677/india-uk-trade-pact-takes-effect-cutting-tariffs-and-boosting-services-trade)*
-- امریکہ اور ایران کے درمیان کشیدگی کی وجہ سے ہرمز کے مقام سے گزرنے والے بحری جہازوں کی تعداد میں کمی آئی ہے۔ *[ARY](https://arynews.tv/fewer-vessels-travel-through-hormuz-as-us-iran-continue-strikes)*
-- امریکہ نے ایران پر نئے حملے کیے ہیں جبکہ ٹرمپ نے مزید حملوں کی دھمکی دی ہے۔ *[ARY](https://arynews.tv/us-launches-new-iran-strikes-as-trump-threatens-wider-attacks)*
-
-### کھیل
-- آئی سی سی کے نئے فارمیٹ کے نتیجے میں پاکستان اور بھارت کے درمیان اضافی میچ ہونے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2015665/icc-revamp-of-odi-t20i-world-cup-formats-may-result-in-extra-pakistan-india-clash)*
-- ارجنٹائن نے انگلینڈ کو شکست دے کر ورلڈ کپ فائنل میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/argentina-came-from-behind-to-beat-england)*
-- مائیک ہیسن کو انگلینڈ کے ٹیسٹ کوچ کے عہدے کے لیے شارٹ لسٹ کیا گیا ہے۔ *[ARY](https://arynews.tv/mike-hesson-shortlisted-for-england-test-coach-role-report)*
-- فرانس کی ٹیم ورلڈ کپ میں ناکامی کے بعد مایوسی کا شکار ہے۔ *[ARY](https://arynews.tv/frances-golden-generation-left-heartbroken-as-zidane-era-beckons)*
+- بھارتی عدالت نے بھوک ہڑتال پر موجود سماجی کارکن سونم وانگچوک کی صحت کی نگرانی اور ضرورت پڑنے پر ہسپتال منتقل کرنے کا حکم دیا۔ *[Dawn](https://www.dawn.com/news/2015913/indian-court-asks-authorities-to-intervene-if-fasting-activists-condition-worsens)*
+- پاکستان نے امریکہ اور ایران سے تشدد ختم کرنے اور تکنیکی مذاکرات دوبارہ شروع کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015882/pakistan-urges-us-iran-to-end-violence-resume-technical-level-talks)*
+- امریکہ نے ایران کے ساحلی دفاعی مقامات پر حملے کیے جبکہ ایران نے خلیجی ممالک میں امریکی اثاثوں کو نشانہ بنایا۔ *[Dawn](https://www.dawn.com/news/2015869/us-strikes-irans-coastal-defences-in-fresh-salvo-tehran-again-targets-american-assets-in-gulf-states)*
+- امریکی نائب صدر جے ڈی وینس نے دعویٰ کیا ہے کہ جیفری ایپسٹین کے اسرائیلی اور امریکی انٹیلی جنس ایجنسیوں سے تعلقات تھے۔ *[Dawn](https://www.dawn.com/news/2015905/late-sex-offender-epstein-clearly-had-connections-to-american-israeli-intelligence-vance)*
+- امریکہ نے سعودی عرب کو تقریباً 2 ارب ڈالر کے ہتھیار فروخت کرنے کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2015878/us-approves-nearly-2bn-in-weapons-sales-to-saudi-arabia)*
+- امریکی ایوان میں اسرائیل کو امداد روکنے کی تجویز کو اکثریت کے ووٹ سے مسترد کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2015874/us-house-defeats-bid-to-cut-off-israel-aid-in-vote-dividing-democrats)*
 
 ### صحت
-- پاکستان میڈیکل ایسوسی ایشن نے 6 لاکھ 51 ہزار سے زائد 'زیرو ڈوز' بچوں کی صورتحال پر ہنگامی الرٹ جاری کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015789/pma-issues-red-alert-over-651000-zero-dose-children)*
+- امریکی وزیر دفاع نے 30 سال سے زائد عمر کے فوجیوں کے لیے ٹیسٹوسٹیرون اسکریننگ لازمی قرار دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2015894/us-defence-secretary-hegseth-announces-mandatory-testosterone-screening-for-troops-30-years-old-or-above)*
 
 ### دیگر
-- 'دی بیٹ مین 2' کے حوالے سے وارنر برادرز کی جانب سے مایوس کن اپ ڈیٹ سامنے آئی ہے۔ *[ARY](https://arynews.tv/warner-bros-gives-disappointing-update-on-robert-pattinsons-the-batman-2)*
-- ظلال سرحدی نے ہانیہ عامر کی حمایت کی ہے۔ *[ARY](https://arynews.tv/zhalay-sarhadi-backs-hania-aamir-after-old-video-sparks-plastic-surgery-trolls)*
-- صنم بلوچ کی سالگرہ پر معروف اداکاراؤں نے مبارکباد دی ہے۔ *[ARY](https://arynews.tv/sanam-baloch-turns-40-durefishan-saleem-hiba-qadir-and-others-send-birthday-wishes)*
-- ٹام کروز کی فلم 'ڈیگر' کے ٹریلر کو آسکر کے حوالے سے بہت سراہا جا رہا ہے۔ *[ARY](https://arynews.tv/tom-cruises-shocking-transformation-in-digger-trailer-sparks-major-oscar-buzz)*
-- ایملی بیٹ رکارڈز کی شادی ہو گئی ہے۔ *[ARY](https://arynews.tv/emily-bett-rickards-gets-married-a-year-after-engagement)*
+- 'Special Forces' سیزن 5 کے کاسٹ کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/special-forces-season-5-cast-candace-cameron-ruby-rose-and-george-santos-to-star)*
+- اداکارہ جولیا گارنر اور ان کے شوہر مارک فوسٹر کی علیحدگی کی خبر سامنے آئی ہے۔ *[ARY](https://arynews.tv/julia-garner-and-husband-mark-foster-separate-after-6-years-of-marriage)*
+- این ہیتھ وے نے کرسٹوفر نولن کے ساتھ دوبارہ کام کرنے کو ایک 'گھر واپسی' قرار دیا ہے۔ *[ARY](https://arynews.tv/anne-hathaway-calls-reuniting-with-christopher-nolan-for-the-odyssey-a-homecoming)*
+- نیٹ فلکس کا بائنج واچنگ ماڈل سوشل میڈیا کی وجہ سے چیلنجز کا شکار ہو رہا ہے۔ *[ARY](https://arynews.tv/netflix-is-losing-its-binge-watching-model-to-social-media)*
 
