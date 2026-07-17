@@ -7,52 +7,43 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 17-Jul-2026 09:10PKT 
+ &lrm; 17-Jul-2026 21:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- خلیجی جنگ کے باعث پاکستان سے غیر ملکی سرمایہ کاری میں کمی آئی ہے۔ *[Dawn](https://www.dawn.com/news/2016026/gulf-war-triggers-investment-outflow-from-pakistan)*
-- یورپی یونین نے پاکستان کے GSP+ تعمیل کے حوالے سے مسائل کا اظہار کرتے ہوئے کوتاہیوں کو دور کرنے پر زور دیا ہے۔ *[Dawn](https://www.dawn.com/news/2015939/eu-notes-issues-in-pakistans-gsp-compliance-urges-islamabad-to-address-shortcomings)*
-- وزیر اعظم شہباز شریف نے خبردار کیا ہے کہ امریکہ اور ایران کے درمیان بڑھتا ہوا تناؤ دوبارہ ملکی معیشت کو متاثر کر سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again)*
-- پیٹرول کے اسٹاک میں کمی کے باعث حکومت ذخیرہ اندوزی روکنے کے لیے اقدامات کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2015959/oil-industry-prompts-government-to-discourage-hoarding-as-petrol-stocks-decline-to-14-day-cover)*
+- خلیج فارس میں تازہ کشیدگی کے باعث حکومت نے ایندھن کی قیمتوں کو روزانہ بنیادوں پر طے کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016227/govt-to-fix-fuel-prices-daily-due-to-renewed-hostilities-in-persian-gulf-petroleum-minister)*
+- بجلی کی قیمتوں میں اضافے کے لیے پاور کمپنیوں نے اگست کے لیے 1.20 روپے فی یونٹ فیول کاسٹ ایڈجسٹمنٹ کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2016204/power-companies-seek-rs120-per-unit-fuel-cost-adjustment-for-august)*
+- امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی اور بحیرہ احمر کے بند ہونے کے خطرے کے باعث عالمی مارکیٹ میں تیل کی قیمتوں میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2016168/oil-rises-on-intensifying-us-iran-hostilities-threat-of-red-sea-closure)*
+- پاکستان کے وزیر خزانہ تجارتی اور مالیاتی مذاکرات کے لیے واشنٹن کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2016143/finance-minister-to-visit-washington-for-trade-tariff-talks-with-us)*
+- ایرانی ریال کی امریکی ڈالر کے مقابلے میں قدرتی طور پر ریکارڈ کم ترین سطح پر گر گئی۔ *[ARY](https://arynews.tv/iranian-rial-hits-record-low-against-us-dollar-check-irr-to-pkr-rate-today)*
 
 ### سائنس اور ٹیکنالوجی
-- پاکستان میں ای-سم (e-SIM) کی مفت منتقلی کے لیے نئی پالیسی تیار کی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2016056/uniform-policy-for-free-e-sim-transfer-in-the-works)*
-- پاکستان 'ورلڈ آرٹیفیشل انٹیلی جنس کوآپریشن آرگنائزیشن' (WAICO) کا بانی رکن بن گیا ہے۔ *[Dawn](https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation)*
+- ایک تحقیق کے مطابق، عدالتوں میں مصنوعی ذہانت (AI) کے استعمال سے مقدمات کے فیصلے میں 6 فیصد سے زیادہ اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2016213/study-finds-ai-use-in-trial-courts-results-in-over-6pc-more-cases-resolved-annually)*
+- ایپل (Apple) دنیا کی سب سے قیمتی کمپنی بننے کی دوڑ میں اینویڈیا (Nvidia) کے انتہائی قریب پہنچ گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016222/apple-closes-in-on-nvidia-in-race-for-worlds-most-valuable-company)*
 
 ### موسم
-- بھارت سے دریاؤں کے بہاؤ کا ڈیٹا فراہم نہ کرنے کی وجہ سے پنجاب حکومت نے سیلاب کے حوالے سے ہائی الرٹ جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016059/authorities-going-extra-mile-in-the-absence-of-flood-data)*
+- محکمہ موسمیات نے 25 جولائی تک ملک کے مختلف حصوں میں موسلا دھار بارش اور گرج چمک کے ساتھ طوفانی ہواؤں کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2016176/pmd-forecasts-widespread-rain-thunderstorms-across-country-until-july-25)*
 
 ### سیاست
-- ڈونلڈ ٹرمپ نے امریکی وسطermideal (midterms) انتخابات سے قبل انتخابی دھاندلی اور چینی مداخلت کے دعوے دوبارہ دہرائے ہیں۔ *[Dawn](https://www.dawn.com/news/2016135/trump-revives-sweeping-election-fraud-claims-ahead-of-us-midterms-accuses-china-of-meddling)*
+- بلاول بھٹو زرداری نے آزاد جموں و کشمیر میں اپنی انتخابی مہم کا آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016221/bilawal-kicks-off-ajk-election-campaign-pledges-to-be-voice-of-people-in-centre)*
+- اسلام آباد کی اے ٹی سی نے خیبر پختونخوا کے وزیر اعلیٰ سوہیل آفریدی اور دیگر کے خلاف عدالت میں پیش نہ ہونے پر کارروائی شروع کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2016199/islamabad-atc-initiates-proclamation-proceedings-against-kp-cm-afridi-others-for-failing-to-appear-in-court)*
 
 ### قومی
-- آزاد جموں و کشمیر میں انتخابات سے قبل سیاسی جماعتیں مظاہرین کے ساتھ رابطے کی کوششیں کر رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2016057/efforts-on-to-engage-with-ajk-protesters-ahead-of-polls)*
-- گلگت بلتستان اسمبلی نے وفاق سے علاقے کو عارضی صوبائی حیثیت دینے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016058/gb-assembly-calls-for-provisional-provincial-status)*
-- سپریم کورٹ نے NAB اپیلوں میں بیعتی کے اختیار کے حوالے سے قانونی تنازع پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2015925/2sc-32a-bail-fcc)*
-- پوڈ کاسٹ ہوسٹ ریحان طارق کی توہینِ مذہب کے کیس میں ضمانت درخواست خارج کر دی گئی۔ *[Dawn](https://www.dawn.com/news/2015936/court-dismisses-post-arrest-bail-petition-of-podcast-host-rehan-tariq-in-blasphemy-case)*
-- لاہور ہائی کورٹ نے عدالتی افسران کے لیے ٹرانسپورٹ مونیٹائزیشن پالیسی منظور کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2015923/lhc-approves-transport-monetisation-policy-allows-judicial-officers-to-purchase-allotted-vehicles-at-depreciated-price)*
-- ساؤتھ ایئر کی کراچی سے کوئٹہ اور اسلام آباد کے لیے پہلی پروازیں روانہ ہو گئیں۔ *[Dawn](https://www.dawn.com/news/2015921/south-airs-inaugural-flights-from-karachi-depart-for-quetta-islamabad-paa)*
-- نادرا نے آن لائن شناختی کارڈ درخواست گزاروں کے لیے نئی سہولت متعارف کرائی ہے۔ *[ARY](https://arynews.tv/nadra-introduces-major-convenience-for-online-id-card-applicants)*
-- پریا کماری کیس کی تحقیقات کے لیے نئی JIT تشکیل دی جائے گی۔ *[ARY](https://arynews.tv/priya-kumari-case-fresh-jit-to-reopen-investigation)*
-- پاکستان کے مرکز اور منتشر علاقوں (بلوچستان، کے پی، اے جے کے) کے درمیان بڑھتے ہوئے فرق پر بحث۔ *[Dawn](https://www.dawn.com/news/2016095/restive-peripheries)*
+- سیکیورٹی فورسز نے خیبر پختونخوا کے ضلع بنوں اور گردونواح میں 24 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2016149/security-forces-kill-24-terrorists-in-kps-bannu-adjoining-areas-ispr)*
+- سابق اے جے کے وزیر اعلیٰ سردار تنویر الیاس کے قافلے پر حملے کے دوران ایک سیکیورٹی گارڈ ہلاک ہو گیا۔ *[Dawn](https://www.dawn.com/news/2016237/security-guard-killed-in-attack-on-former-ajk-pm-tanveer-ilyas-convoy-in-poonch-district)*
+- وزیراعظم شہباز شریف نے پاکستان میں چینی شہریوں کی حفاظت کو اولین اہمیت دینے کا عہد کیا۔ *[Dawn](https://www.dawn.com/news/2016208/security-of-chinese-in-pakistan-paramount-for-us-says-pm-shehbaz)*
+- لاہور کی عدالت نے دو غیر ملکی خواتین کے اغوا اور زیادتی کے کیس میں چار ملزمان کو 14 روزہ ریمانڈ پر بھیج دیا۔ *[Dawn](https://www.dawn.com/news/2016188/foreign-womens-abduction-rape-case-lahore-court-sends-4-suspects-on-14-day-judicial-remand)*
+- پنجاب حکومت نے 'سستی نہیں مفت سبزی، سانجھا سبزی' اسکیم کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/punjab-launches-sasti-nahi-muft-sabzi-sanjhi-sabzi-scheme)*
 
 ### بین الاقوامی
-- امریکہ نے غیر ملکی طلباء، ثقافتی مبادلہ کرنے والوں اور صحافیوں کے لیے ویزا قوانین سخت کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2015982/us-to-tighten-visa-regulations-for-foreign-students-journalists)*
-- برطانیہ نے روچڈیل گرومنگ گینگ کے سربراہ کی ملک بدری کو پاکستان سے الگ ایک داخلی معاملہ قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016030/rochdale-ringleaders-deportation-has-nothing-to-do-with-pakistan)*
-- لندن کے میئر صادق خان کو ہاؤس آف لارڈز میں مقرر کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016040/sadiq-khan-appointed-to-house-of-lords)*
-- غزہ کی تعمیر نو کا منصوبہ اب صرف ایک چھوٹے پائلٹ پروجیکٹ تک محدود ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2015988/gaza-reconstruction-plan-under-trumps-board-of-peace-reduced-to-pilot-project-british-publication)*
-- امریکہ نے ایران کے سول ملکہ ڈھانچے (پلوں اور ریلوے اسٹیشنوں) پر حملے کیے۔ *[ARY](https://arynews.tv/us-hits-iran-infrastructure-17-july-2026)*
-- ایران نے حوثیوں کو خبردار کیا کہ اگر امریکہ نے بجلی کے نیٹ ورک پر حملہ کیا تو بحیرہ احمر کے راستے بند کر دیے جائیں گے۔ *[ARY](https://arynews.tv/iran-tells-houthis-to-close-red-sea-if-us-hits-power-network)*
-- متحدہ عرب امارات نے 5 سالہ سیاحتی ویزا متعارف کرایا ہے۔ *[ARY](https://arynews.tv/uae-5-year-tourist-visa-explained-stay-up-to-180-days-a-year)*
+- ایران اور امریکہ کے درمیان بڑھتی ہوئی کشیدگی کے نتیجے میں ایران نے خلیج میں امریکی تنصیبات پر حملے کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2016140/iran-launches-fresh-attacks-on-american-facilities-in-gulf-after-sixth-consecutive-day-of-us-strikes)*
+- چین اور پاکستان نے امریکہ اور ایران پر جنگ بندی اور مذاکرات کی بحالی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016159/china-and-pakistan-call-on-us-iran-to-resume-talks-cease-hostilities)*
+- اینڈی برن햄 لیبر پارٹی کے نئے سربراہ منتخب ہو گئے ہیں اور وہ برطانیہ کے اگلے وزیر اعظم بن سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/2016211/andy-burnham-elected-new-labour-leader-now-set-to-be-uk-pm)*
+- پاکستان نے ایس سی او (SCO) کے سرحدی خدمات کے سربراہان کے 12 ویں اجلاس کی صدارت کی۔ *[Dawn](https://www.dawn.com/news/2016226/pakistan-chairs-12th-sco-meeting-of-heads-of-border-services-fo)*
+- اسرائیلی میڈیا کے مطابق فلسطینی قیدیوں کی جیلوں کے گرد مگرمچھوں سے بھرے خندقوں کا منصوبہ زیر غور ہے۔ *[Dawn](https://www.dawn.com/news/2016187/israeli-media-says-crocodile-filled-moats-could-surround-prisons-holding-palestinians)*
 
-### صحت
-- بھارت میں پری میرین کریم کی فروخت معطل کر دی گئی ہے۔ *[ARY](https://arynews.tv/premarin-cream-sale-suspended-in-india)*
-- بڑے پیمانے پر پھیلاؤ کے بعد 15 سال کے بچوں کے لیے ویکسین کی سفارش کی گئی ہے۔ *[ARY](https://arynews.tv/vaccine-recommended-for-15-year-olds-following-big-outbreak)*
-
-### دیگر
-- انگریزی ادب کے گریجویٹس کے لیے کیریئر کے مواقع پر بحث۔ *[Dawn](https://www.dawn.com/news/2016098/making-ones-way)*
-- فلاک شبیر نے اپنی اہلیہ کو شادی کی سالگرہ پر سرپرائز دیا۔ *[ARY](https://arynews.tv/falak-shabir-surprises-wife-sarah-khan-with-on-their-6th-wedding-anniversary)*
-- مشہور شخصیات (ٹام ہالینڈ، زینڈایا اور کم کارڈشیان) سے متعلق تفریحی خبریں۔ *[ARY](https://arynews.tv/tom-holland-captures-sweet-reunion-between-zendaya-and-hunter-schafer)*
+### کھیل
+- کرکٹر محمد نواز کو اینٹی ڈوپنگ کوڈ کی خلاف ورزی کے باعث پابندی کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2016185/all-rounder-mohammad-nawaz-sanctioned-for-breaching-iccs-anti-doping-code)*
+- فٹ بال ورلڈ کپ 2026 کے فائنل میں میسی اور لامین یامال کے درمیان مقابلہ دیکھنے کو ملے گا۔ *[Dawn](https://www.dawn.com/news/2016233/in-lamine-yamals-old-neighbourhood-world-cup-final-against-messi-brings-pride)*
 
