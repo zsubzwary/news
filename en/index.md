@@ -4,53 +4,41 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 17-Jul-2026 09:05PKT
+Published at: 17-Jul-2026 21:03PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- The ongoing Gulf war has triggered an investment outflow from Pakistan, with Bahrain withdrawing funds from domestic bonds. *[Dawn](https://www.dawn.com/news/2016026/gulf-war-triggers-investment-outflow-from-pakistan)*
-- The European Union has noted compliance issues regarding Pakistan's GSP+ obligations, urging the country to address shortcomings. *[Dawn](https://www.dawn.com/news/2015939/eu-notes-issues-in-pakistans-gsp-compliance-urges-islamabad-to-address-shortcomings)*
-- Prime Minister Shehbaz Sharif warned that renewed US-Iran tensions could negatively impact the national economy. *[Dawn](https://www.dawn.com/news/2015941/pm-shehbaz-warns-renewed-us-iran-conflict-could-hit-economy-again)*
-- Declining petrol stocks in Pakistan have prompted the government to take measures to discourage market hoarding. *[Dawn](https://www.dawn.com/news/2015959/oil-industry-prompts-government-to-discourage-hoarding-as-petrol-stocks-decline-to-14-day-cover)*
+- Fuel prices are set to be fixed on a **daily basis** due to fluctuations in the international market caused by renewed hostilities between Iran and the US. *[Dawn](https://www.dawn.com/news/2016227/govt-to-fix-fuel-prices-daily-due-to-renewed-hostilities-in-persian-gulf-petroleum-minister)*
+- Power companies have requested a **Rs1.20 per unit** fuel cost adjustment for August, citing the use of expensive imported fuels. *[Dawn](https://www.dawn.com/news/2016204/power-companies-seek-rs120-per-unit-fuel-cost-adjustment-for-august)*
+- Finance Minister Muhammad Aurangzeb is scheduled to visit **Washington** for three days to discuss trade, finance, and investment as part of a broader bilateral economic partnership. *[Dawn](https://www.dawn.com/news/2016143/finance-minister-to-visit-washington-for-trade-tariff-talks-with-us)*
+- **Oil prices** have seen an uptick due to intensifying US-Iran hostilities and potential threats to the Red Sea export route. *[Dawn](https://www.dawn.com/news/2016168/oil-rises-on-intensifying-us-iran-hostilities-threat-of-red-sea-closure)*
 
 ### Science & Technology
-- A new policy is in development to allow consumers to transfer e-SIM cards up to 10 times free of charge. *[Dawn](https://www.dawn.com/news/2016056/uniform-policy-for-free-e-sim-transfer-in-the-works)*
-- Pakistan has become a founding member of the World Artificial Intelligence Cooperation Organisation (WAICO). *[Dawn](https://www.dawn.com/news/2015858/pakistan-becomes-founding-member-of-world-artificial-intelligence-cooperation-organisation)*
+- A large-scale field trial revealed that integrating **generative AI** into Pakistan’s trial courts increased annual case resolutions by more than 6%. *[Dawn](https://www.dawn.com/news/2016213/study-finds-ai-use-in-trial-courts-results-in-over-6pc-more-cases-resolved-annually)*
+- **Apple** is nearing a milestone that could see it overtake **Nvidia** as the world’s most valuable company. *[Dawn](https://www.dawn.com/news/2016222/apple-closes-in-on-nvidia-in-race-for-worlds-most-valuable-company)*
 
 ### Weather
-- Punjab authorities have issued a high-alert for flooding due to uncertain river flows following India's suspension of the Indus Waters Treaty. *[Dawn](https://www.dawn.com/news/2016059/authorities-going-extra-mile-in-the-absence-of-flood-data)*
+- The Pakistan Meteorological Department (PMD) has forecast widespread **rain, windstorms, and thundershowers** across various parts of the country until July 25. *[Dawn](https://www.dawn.com/news/2016176/pmd-forecasts-widespread-rain-thunderstorms-across-country-until-july-25)*
 
 ### Politics
-- US President Donald Trump has revived claims of election fraud and Chinese interference ahead of the midterm elections. *[Dawn](https://www.dawn.com/news/2016135/trump-revives-sweeping-election-fraud-claims-ahead-of-us-midterms-accuses-china-of-meddling)*
+- PPP Chairman **Bilawal Bhutto-Zardari** has launched his election campaign in Azad Jammu and Kashmir (AJK), pledging to bridge the gap between the region and the federal government. *[Dawn](https://www.dawn.com/news/2016221/bilawal-kicks-off-ajk-election-campaign-pledges-to-be-voice-of-people-in-centre)*
+- An anti-terrorism court in Islamabad has initiated **proclamation proceedings** against KP Chief Minister Sohail Afridi and others for failing to appear in court. *[Dawn](https://www.dawn.com/news/2016199/islamabad-atc-initiates-proclamation-proceedings-against-kp-cm-afridi-others-for-failing-to-appear-in-court)*
 
 ### National
-- Political leaders are attempting to engage with the Joint Awami Action Committee (JAAC) in AJK ahead of upcoming elections. *[Dawn](https://www.dawn.com/news/2016057/efforts-on-to-engage-with-ajk-protesters-ahead-of-polls)*
-- The Gilgit-Baltistan Assembly has passed a resolution requesting provisional provincial status and constitutional rights. *[Dawn](https://www.dawn.com/news/2016058/gb-assembly-calls-for-provisional-provincial-status)*
-- The Supreme Court has reserved its ruling on a jurisdictional dispute between itself and the Federal Constitutional Court regarding NAB appeals. *[Dawn](https://www.dawn.com/news/2015925/2sc-32a-bail-fcc)*
-- A judicial magistrate dismissed the post-arrest bail petition for podcast host Rehan Tariq in a blasphemy case. *[Dawn](https://www.dawn.com/news/2015936/court-dismisses-post-arrest-bail-petition-of-podcast-host-rehan-tariq-in-blasphemy-case)*
-- The Lahore High Court approved a new policy allowing judicial officers to purchase allotted vehicles at depreciated prices. *[Dawn](https://www.dawn.com/news/2015923/lhc-approves-transport-monetisation-policy-allows-judicial-officers-to-purchase-allotted-vehicles-at-depreciated-price)*
-- South Air has launched inaugural domestic flights from Karachi to Quetta and Islamabad. *[Dawn](https://www.dawn.com/news/2015921/south-airs-inaugural-flights-from-karachi-depart-for-quetta-islamabad-paa)*
-- NADRA is introducing new conveniences for applicants applying for ID cards online. *[ARY](https://arynews.tv/nadra-introduces-major-convenience-for-online-id-card-applicants)*
-- A fresh Joint Investigation Team (JIT) will reopen the investigation into the Priya Kumari case. *[ARY](https://arynews.tv/priya-kumari-case-fresh-jit-to-reopen-investigation)*
+- Prime Minister Shehbaz Sharif asserted that ensuring the **security of Chinese nationals** in Pakistan remains a paramount priority for the government. *[Dawn](https://www.dawn.com/news/2016208/security-of-chinese-in-pakistan-paramount-for-us-says-pm-shehbaz)*
+- Security forces successfully killed **24 terrorists** in the Bannu district and surrounding areas of Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2016149/security-forces-kill-24-terrorists-in-kps-bannu-adjoining-areas-ispr)*
+- A security guard was killed during an attack on the convoy of former AJK Prime Minister **Sardar Tanveer Ilyas** in the Poonch district. *[Dawn](https://www.dawn.com/news/2016237/security-guard-killed-in-attack-on-former-ajk-pm-tanveer-ilyass-convoy-in-poonch-district)*
+- A Lahore court has sent four suspects on a **14-day judicial remand** in connection with the alleged abduction and rape of two foreign women. *[Dawn](https://www.dawn.com/news/2016188/foreign-womens-abduction-rape-case-lahore-court-sends-4-suspects-on-14-day-judicial-remand)*
 
 ### International
-- The US administration is tightening visa regulations for foreign students, journalists, and cultural exchange visitors. *[Dawn](https://www.dawn.com/news/2015982/us-to-tighten-visa-regulations-for-foreign-students-journalists)*
-- The UK Foreign Office stated that the deportation of a Rochdale gang ringleader is an internal UK matter unrelated to Pakistan. *[Dawn](https://www.dawn.com/news/2016030/rochdale-ringleaders-deportation-has-nothing-to-do-with-pakistan)*
-- Sadiq Khan has been appointed to the UK House of Lords by outgoing Prime Minister Keir Starmer. *[Dawn](https://www.dawn.com/news/2016040/sadiq-khan-appointed-to-house-of-lords)*
-- Trump’s Gaza reconstruction plan under the Board of Peace has been reduced to a small-scale pilot project. *[Dawn](https://www.dawn.com/news/2015988/gaza-reconstruction-plan-under-trumps-board-of-peace-reduced-to-pilot-project-british-publication)*
-- US forces have struck civilian infrastructure in Iran, including railway stations and bridges. *[ARY](https://arynews.tv/us-hits-iran-infrastructure-17-july-2026)*
-- Iran has urged the Houthis to close the Red Sea gateway in response to US attacks on its power network. *[ARY](https://arynews.tv/iran-tells-houthis-to-close-red-sea-if-us-hits-power-network)*
-- Details have been released regarding the UAE's 5-year tourist visa allowing stays of up to 180 days a year. *[ARY](https://arynews.tv/uae-5-year-tourist-visa-explained-stay-up-to-180-days-a-year)*
+- **Iran** has launched new attacks on American facilities in the Gulf following a series of US strikes on Iranian military targets. *[Dawn](https://www.dawn.com/news/2016140/iran-launches-fresh-attacks-on-american-facilities-in-gulf-after-sixth-consecutive-day-of-us-strikes)*
+- **China and Pakistan** have jointly called on the United States and Iran to cease hostilities and return to diplomatic negotiations. *[Dawn](https://www.dawn.com/news/2016159/china-and-pakistan-call-on-us-iran-to-resume-talks-cease-hostilities)*
+- **Andy Burnham** has been elected as the new leader of the UK Labour Party and is expected to become the next British Prime Minister. *[Dawn](https://www.dawn.com/news/2016211/andy-burnham-elected-new-labour-leader-now-set-to-be-uk-pm)*
+- Pakistan hosted the **12th SCO meeting** of the Heads of Border Services, involving representatives from several nations including Russia, China, and India. *[Dawn](https://www.dawn.com/news/2016226/pakistan-chairs-12th-sco-meeting-of-heads-of-border-services-fo)*
+- Israeli media reports indicate a proposal to surround prisons holding Palestinian detainees with **crocodile-filled moats**. *[Dawn](https://www.dawn.com/news/2016187/israeli-media-says-crocodile-filled-moats-could-surround-prisons-holding-palestinians)*
 
-### Health
-- The sale of Premarin cream has been suspended in India. *[ARY](https://arynews.tv/premarin-cream-sale-suspended-in-india)*
-- A vaccine has been recommended for 15-year-olds following a major outbreak. *[ARY](https://arynews.tv/vaccine-recommended-for-15-year-olds-following-big-outbreak)*
-
-### Other
-- An editorial explored the career challenges and market readiness of English literature graduates. *[Dawn](https://www.dawn.com/news/2016098/making-ones-way)*
-- An editorial discussed the persistent "centre-periphery" divide within Pakistan. *[Dawn](https://www.dawn.com/news/2016095/restive-peripheries)*
-- Falak Shabir celebrated his 6th wedding anniversary with his wife, Sarah Khan. *[ARY](https://arynews.tv/falak-shabir-surprises-wife-sarah-khan-with-on-their-6th-wedding-anniversary)*
-- Tom Holland captured a reunion between Zendaya and Hunter Schafer. *[ARY](https://arynews.tv/tom-holland-captures-sweet-reunion-between-zendaya-and-hunter-schafer)*
-- Kim Kardashian reportedly asked Lewis Hamilton to act as a matchmaker for her sister Khloé. *[ARY](https://arynews.tv/kim-kardashian-asks-new-beau-lewis-hamilton-to-play-matchmaker-for-sister-khloe)*
+### Sports
+- All-rounder **Mohammad Nawaz** has been sanctioned by the ICC after testing positive for a cannabis-related substance. *[Dawn](https://www.dawn.com/news/2016185/all-rounder-mohammad-nawaz-sanctioned-for-breaching-iccs-anti-doping-code)*
+- Anticipation is building for the **World Cup final** between Argentina and Spain, highlighting the generational matchup between Lionel Messi and Lamine Yamal. *[Dawn](https://www.dawn.com/news/2016233/in-lamine-yamals-old-neighbourhood-world-cup-final-against-messi-brings-pride)*
 
