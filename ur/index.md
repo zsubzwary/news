@@ -7,47 +7,42 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Jul-2026 09:09PKT 
+ &lrm; 18-Jul-2026 21:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- حکومت نے پٹرول کی قیمت میں 5.44 روپے اور ڈیزل کی قیمت میں 31.05 روپے فی لیٹر اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016247/govt-increases-petrol-price-by-rs544-diesel-by-rs3105-per-litre-for-next-3-days)*
-- مالی سال 26 کے اختتام پر پاکستان کا کرنٹ اکاؤنٹ 139 ملین ڈالر کے خسارے میں چلا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016383/current-account-slips-into-139m-deficit-in-fy26)*
-- خلیج میں دوبارہ پیدا ہونے والی کشیدگی کے باعث پیٹرولیم منسٹر نے پیٹرول کی قیمتوں کو روزانہ بنیادوں پر طے کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016227/govt-to-fix-fuel-prices-daily-due-to-renewed-hostilities-in-persian-gulf-petroleum-minister)*
-- یورپی یونین کی جانب سے جی ایس پی پلس (GSP-Plus) مراعات کی تجدید کے لیے پاکستان پر مزید اقدامات کرنے کا دباؤ بڑھ سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2016398/gsp-plus-renewal)*
-- بجلی کی قیمتوں میں اضافے کے لیے پاور کمپنیوں نے اگست کے لیے 1.20 روپے فی یونٹ فیول کوسٹ ایڈجسٹمنٹ کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2016204/power-companies-seek-rs120-per-unit-fuel-cost-adjustment-for-august)*
-- کراچی پورٹ پر 2,000 سے زائد الیکٹرک گاڑیاں پہنچ چکی ہیں۔ *[ARY](https://arynews.tv/over-2000-electric-vehicles-arrive-at-karachi-port)*
+- پیٹرولیم وزیر کے مطابق ایندھن کی قیمتوں میں روزانہ کی بنیاد پر تبدیلی مارکیٹ کے استحصال کو روکنے اور شفافیت کو یقینی بنانے میں مدد دے گی۔ *[Dawn](https://www.dawn.com/news/2016504/daily-fuel-price-adjustments-to-curb-market-abuse-ensure-fair-prices-petroleum-minister)*
+- حکومت نے پیٹرول کی قیمت میں 5.44 روپے اور ڈیزل کی قیمت میں 31.05 روپے فی لیٹر اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016247/govt-increases-petrol-price-by-rs544-diesel-by-rs3105-per-litre-for-next-3-days)*
+- مالی سال 26 کے اختتام پر پاکستان کا کرنٹ اکاؤنٹ خسارہ 139 ملین ڈالر ریکارڈ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016383/current-account-slips-into-139m-deficit-in-fy26)*
+
+### سائنس اور ٹیکنالوجی
+- اینتھروپک (Anthropic) اپنی جدید ترین مصنوعی ذہانت کا ماڈل 'فیمبل 5' اپنے پیڈ پلانز میں دوبارہ متعارف کروا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016483/anthropic-to-add-claudes-fable-5-model-to-max-team-premium-plans-at-50pc-of-usage-limits)*
+- بھارتی اسپیس اسٹارٹ اپ 'سکائی روٹ' نے ملک کا پہلا نجی مدار میں جانے والا راکٹ 'وکرم-1' کامیابی سے لانچ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016450/indias-skyroot-launches-vikram-1-in-first-private-orbital-rocket-mission)*
+
+### موسم
+- سوات کے علاقے کالام میں گلیشیئر پھٹنے کے نتیجے میں ایک شخص لاپتہ اور چھ افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2016453/1-missing-6-injured-in-glacier-burst-incident-in-swats-kalam-rescue-1122)*
 
 ### سیاست
-- بلاول بھٹو زرداری نے آزاد کشمیر کے لیے وفاقی وزارتِ کشمیر کے خاتمے کی تجویز پیش کی ہے۔ *[Dawn](https://www.dawn.com/news/2016370/bilawal-proposes-abolishing-kashmir-affairs-ministry)*
-- رانا ثنا اللہ نے مولانا فضل الرحمان کے شہداء کے بارے میں دیے گئے بیانات کو نامناسب قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016238/sanaullah-says-jui-f-chiefs-remarks-against-martyrs-were-inappropriate-but-unintended)*
-- خیبر پختونخوا اسمبلی کی جانب سے منظور کردہ 'طاقتوں، استثنیٰ اور مراعات کے ایکٹ 2026' پر تحفظات کا اظہار کیا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016395/eternal-quest-for-privileges)*
+- وکلاء ایکشن کمیٹی نے ججز کے تقرر کے عمل کو 'ہارس ٹریڈنگ' قرار دیتے ہوئے اس کے خلاف ملک گیر تحریک کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016484/lawyers-action-committee-terms-jcp-judge-appointment-process-horse-trading-announces-nationwide-movement)*
 
 ### قومی
-- ماسہر برم کی چوٹی پر چڑھائی کے دوران ایک چیک کوہ پیما کی حادثاتی موت واقع ہو گئی۔ *[Dawn](https://www.dawn.com/news/2016373/masherbrum-ascent-ends-in-tragedy-for-czech-climber)*
-- کوئٹہ میں پولیس کے شہداء کے اہل خانہ نے احتجاج ختم کرنے اور عدالتی کمیشن بنانے پر اتفاق کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2016374/martyred-cops-families-agree-to-end-quetta-sit-in)*
-- سپارکو (Suparco) کی تصاویر کے مطابق راول جھیل کے پارک میں گزشتہ دو دہائیوں میں درختوں کا 50 فیصد حصہ ختم ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2016269/rawal-lake-park-loses-half-of-tree-cover-in-2-decades)*
-- سابق آزاد کشمیر کے وزیر اعلیٰ تنویر الیاس کے قافلے پر حملے میں ان کے ایک سیکورٹی گارڈ کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2016237/security-guard-killed-in-attack-on-former-ajk-pm-tanveer-ilyass-convoy-in-poonch-district)*
+- کراچی کے ڈی ایچ اے میں ایک غیر ملکی خاتون کے ساتھ زیادتی کے الزام پر پولیس نے ایک شخص کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2016462/police-register-fir-after-foreign-woman-residing-in-karachis-dha-alleges-sexual-assault)*
+- پاکستان نے بھارتی طیاروں پر فضائی پابندی 23 اگست تک بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/2016474/paa-extends-airspace-ban-on-indian-aircraft-until-aug-23)*
+- وزیرستان کے علاقے وانا میں سکیورٹی فورسز نے خودکش حملے کے لیے تیار دھماکہ خیز گاڑی تباہ کرتے ہوئے ایک دہشت گرد کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2016455/terrorist-killed-as-security-forces-destroy-explosive-laden-vehicle-intended-for-suicide-attack-in-wana-state-media)*
+- ڈی آئی خان میں ایک انٹیلیجنس بیسڈ آپریشن کے دوران ایک مطلوبہ دہشت گرد کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2016443/wanted-terrorist-killed-in-intelligence-based-operation-in-dera-ismail-khan-ctd)*
+- بلوچستان حکومت کے ساتھ معاہدہ ہونے کے بعد کوئٹہ میں شہید پولیس اہلکاروں کے اہل خانہ کا دھرنا ختم ہو گیا۔ *[Dawn](https://www.dawn.com/news/2016456/families-of-martyred-policemen-end-quetta-sit-in-after-10-days-as-agreement-reached-with-govt)*
 
 ### بین الاقوامی
-- پاکستان اور کویت کے درمیان دفاعی معاہدے اور توانائی کے تعاون کے لیے مذاکرات کا عمل جاری ہے۔ *[Dawn](https://www.dawn.com/news/2016348/pakistan-and-kuwait-mulling-defence-pact)*
-- پاکستان اور چین نے امیگریشن اور سرحدی انتظام میں تعاون بڑھانے پر اتفاق کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016346/pakistan-china-to-enhance-cooperation-on-immigration-and-border-management)*
-- فرانس نے آن لائن پریڈکشن پلیٹ فارم 'پولی مارکیٹ' (Polymarket) تک رسائی بلاک کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2016250/france-blocks-access-to-online-prediction-platform-polymarket)*
-- پاکستان نے ایس سی او (SCO) کے بارڈر سروسز کے سربراہان کے 12ویں اجلاس کی صدارت کی۔ *[Dawn](https://www.dawn.com/news/2016226/pakistan-chairs-12th-sco-meeting-of-heads-of-border-services-fo)*
-- افغانستان میں انسانی بحران اب بھی شدت اختیار کیے ہوئے ہے جہاں نصف آبادی خوراک کی کمی کا شکار ہے۔ *[Dawn](https://www.dawn.com/news/2016394/afghanistans-lost-peace)*
-- واشنٹن میں ہونے والے مینگو فیسٹیول نے پاک امریکہ تعلقات میں بڑھتی ہوئی گرمجوشی کا پیغام دیا۔ *[Dawn](https://www.dawn.com/news/2016371/sweet-diplomacy-pakistans-mango-festival-celebrates-growing-us-partnership)*
-
-### کھیل
-- کرکٹ کی عظیم شخصیت سر گارفیلڈ سوبرز 89 برس کی عمر میں انتقال کر گئے۔ *[Dawn](https://www.dawn.com/news/2016239/a-great-innings-comes-to-an-end-cricket-legend-sir-garfield-sobers-dies-at-89)*
-- فلور نے انگلینڈ کرکٹ ٹیم کے ہیڈ کوچ کے طور پر اپنی نامزدگی سے انکار کر دیا ہے۔ *[ARY](https://arynews.tv/flower-rules-himself-out-of-contention-as-england-test-head-coach)*
-- لیونل میسی ورلڈ کپ کے دوسرے خطاب کے لیے پرجوش نظر آتے ہیں۔ *[ARY](https://arynews.tv/messi-eyes-second-world-cup-crown-at-the-scene-of-his-lowest-ebb)*
-- انگلینڈ کرکٹ ٹیم کے ایک کھلاڑی کے بارے میں ماہرین نے اسے ٹیم سے نکالنے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/shouldnt-play-for-england-again-pundit-demands-three-lions-star-be-dropped-after-world-cup-exit)*
+- نیویارک کے میئر نے اسرائیلی وزیراعظم نیتنیاہو کی گرفتاری کے حوالے سے قانونی اختیارات پر غور کرنا شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016505/netanyahu-belongs-in-the-hague-nyc-mayor-mamdani-mulls-whether-he-can-order-israeli-pms-arrest)*
+- ایران نے امریکی حملوں کے جواب میں خلیجی ریاستوں اور اردن پر حملے کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2016426/iran-hits-gulf-states-and-jordan-after-seventh-night-of-us-strikes)*
+- بھارتی کارکن سونم وانگچک کو 20 روزہ بھوک ہڑتال کے بعد زبردستی ہسپتال منتقل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2016429/indian-activist-sonam-wangchuk-forcibly-moved-to-hospital-after-20-day-hunger-strike)*
+- پاکستان اور کویت کے درمیان دفاعی معاہدے کے حوالے سے مذاکرات ابتدائی مرحلے میں ہیں۔ *[Dawn](https://www.dawn.com/news/2016348/pakistan-and-kuwait-mulling-defence-pact)*
 
 ### صحت
-- سندھ ہیلتھ کیئر کمیشن نے ویلکا ہسپتال میں سوئیوں کے غیر محفوظ استعمال اور طبی فضلے کے ناقص انتظام پر سختیاں پائی ہیں۔ *[Dawn](https://www.dawn.com/news/2016294/healthcare-body-finds-unsafe-needle-disposal-at-valika-hospital)*
-- سویڈن نے اینٹی مائیکروبیل ریزسٹنس کے حوالے سے پاکستان کے عالمی کردار کی حمایت کی ہے۔ *[ARY](https://arynews.tv/sweden-backs-pakistan-global-role-on-antimicrobial-resistance)*
+- سندھ ہیلتھ کیئر کمیشن نے ویلکا ہسپتال میں انجکشن کی سوئیاں ٹھکانے لگانے کے غیر محفوظ طریقے پائے ہیں۔ *[Dawn](https://www.dawn.com/news/2016294/healthcare-body-finds-unsafe-needle-disposal-at-valika-hospital)*
 
 ### دیگر
-- اداکارہ ایلیانا ڈی کروز اور ٹام ہالینڈ کے حوالے سے تفریحی خبریں۔ *[ARY](https://arynews.tv/ileana-dcruz-posts-loved-up-pictures-with-partner-michael-dolan)*
+- مشبرم کی چوٹی سر کرنے کی کوشش کے دوران ایک چیک جمہوریہ کے کوہ پیما کی موت واقع ہو گئی۔ *[Dawn](https://www.dawn.com/news/2016373/masherbrum-ascent-ends-in-tragedy-for-czech-climber)*
+- ترکیہ میں روایتی آئل ریسلنگ فیسٹیول منعقد کیا گیا۔ *[Dawn](https://www.dawn.com/news/2016444/o-the-passions-of-oily-turkish-men)*
 
