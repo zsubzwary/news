@@ -7,42 +7,41 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Jul-2026 21:10PKT 
+ &lrm; 19-Jul-2026 09:11PKT 
 
 پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- پیٹرولیم وزیر کے مطابق ایندھن کی قیمتوں میں روزانہ کی بنیاد پر تبدیلی مارکیٹ کے استحصال کو روکنے اور شفافیت کو یقینی بنانے میں مدد دے گی۔ *[Dawn](https://www.dawn.com/news/2016504/daily-fuel-price-adjustments-to-curb-market-abuse-ensure-fair-prices-petroleum-minister)*
-- حکومت نے پیٹرول کی قیمت میں 5.44 روپے اور ڈیزل کی قیمت میں 31.05 روپے فی لیٹر اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016247/govt-increases-petrol-price-by-rs544-diesel-by-rs3105-per-litre-for-next-3-days)*
-- مالی سال 26 کے اختتام پر پاکستان کا کرنٹ اکاؤنٹ خسارہ 139 ملین ڈالر ریکارڈ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016383/current-account-slips-into-139m-deficit-in-fy26)*
+- افغانستان اور پاکستان کے درمیان ٹرانزٹ تجارت میں بڑی کمی واقع ہوئی ہے، جو مالی سال 26 میں صرف 367 ملین ڈالر تک رہ گئی ہے۔ *[Dawn](https://www.dawn.com/news/2016605/transit-trade-with-kabul-hits-historic-low)*
+- گوادر پورٹ پر تجارتی سرگرمیاں مسلسل جاری ہیں، جس سے پاکستان کے گہرے سمندر کے پورٹ پر بین الاقوامی اعتماد میں اضافہ ہو رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016603/gwadar-becomes-key-trade-gateway)*
+- پاکستان اور چین کے درمیان فارماسیوٹیکل کانفرنس کے اختتام پر 850 ملین ڈالر کے معاہدے طے پائے ہیں۔ *[Dawn](https://www.dawn.com/news/2016621/pakistan-china-pharma-conference-ends-with-850m-agreements)*
+- پیٹرولیم منسٹر نے مارکیٹ کے استحصال کو روکنے اور شفافیت کے لیے ایندھن کی قیمتوں میں روزانہ ایڈجسٹمنٹ کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016504/daily-fuel-price-adjustments-to-curb-market-abuse-ensure-fair-prices-petroleum-minister)*
 
 ### سائنس اور ٹیکنالوجی
-- اینتھروپک (Anthropic) اپنی جدید ترین مصنوعی ذہانت کا ماڈل 'فیمبل 5' اپنے پیڈ پلانز میں دوبارہ متعارف کروا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016483/anthropic-to-add-claudes-fable-5-model-to-max-team-premium-plans-at-50pc-of-usage-limits)*
-- بھارتی اسپیس اسٹارٹ اپ 'سکائی روٹ' نے ملک کا پہلا نجی مدار میں جانے والا راکٹ 'وکرم-1' کامیابی سے لانچ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016450/indias-skyroot-launches-vikram-1-in-first-private-orbital-rocket-mission)*
+- اینتھروپک (Anthropic) اپنے جدید ترین AI ماڈل 'Fable 5' کو اپنے Max اور Team Premium پلانز میں دوبارہ متعارف کروا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016483/anthropic-to-add-claudes-fable-5-model-to-max-team-premium-plans-at-50pc-of-usage-limits)*
 
 ### موسم
-- سوات کے علاقے کالام میں گلیشیئر پھٹنے کے نتیجے میں ایک شخص لاپتہ اور چھ افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2016453/1-missing-6-injured-in-glacier-burst-incident-in-swats-kalam-rescue-1122)*
+- کینیڈا میں جنگلات کی آگ کے نتیجے میں پیدا ہونے والے دھوئیں نے مشرقی امریکہ کو اپنی لپیٹ میں لے لیا ہے، جس سے ایئر کوالٹی خطرناک حد تک متاثر ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2016513/wildfire-haze-hangs-over-eastern-us-world-cup-final-venue)*
 
 ### سیاست
-- وکلاء ایکشن کمیٹی نے ججز کے تقرر کے عمل کو 'ہارس ٹریڈنگ' قرار دیتے ہوئے اس کے خلاف ملک گیر تحریک کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016484/lawyers-action-committee-terms-jcp-judge-appointment-process-horse-trading-announces-nationwide-movement)*
+- بیلوال بھٹو زرداری نے کہا ہے کہ بلوچستان کے سیاسی مسائل کا واحد پائیدار حل سیاسی مذاکرات ہیں۔ *[Dawn](https://www.dawn.com/news/2016610/bilawal-urges-all-sides-to-engage-in-talks-for-balochistan-peace)*
+- وکلاء ایکشن کمیٹی نے ہائی کورٹس کے لیے ججوں کے تقرر کے موجودہ طریقہ کار کو مسترد کرتے ہوئے اسے 'ہارس ٹریڈنگ' قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016484/lawyers-action-committee-terms-jcp-judge-appointment-process-horse-trading-announces-nationwide-movement)*
 
 ### قومی
-- کراچی کے ڈی ایچ اے میں ایک غیر ملکی خاتون کے ساتھ زیادتی کے الزام پر پولیس نے ایک شخص کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2016462/police-register-fir-after-foreign-woman-residing-in-karachis-dha-alleges-sexual-assault)*
-- پاکستان نے بھارتی طیاروں پر فضائی پابندی 23 اگست تک بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/2016474/paa-extends-airspace-ban-on-indian-aircraft-until-aug-23)*
-- وزیرستان کے علاقے وانا میں سکیورٹی فورسز نے خودکش حملے کے لیے تیار دھماکہ خیز گاڑی تباہ کرتے ہوئے ایک دہشت گرد کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2016455/terrorist-killed-as-security-forces-destroy-explosive-laden-vehicle-intended-for-suicide-attack-in-wana-state-media)*
-- ڈی آئی خان میں ایک انٹیلیجنس بیسڈ آپریشن کے دوران ایک مطلوبہ دہشت گرد کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2016443/wanted-terrorist-killed-in-intelligence-based-operation-in-dera-ismail-khan-ctd)*
-- بلوچستان حکومت کے ساتھ معاہدہ ہونے کے بعد کوئٹہ میں شہید پولیس اہلکاروں کے اہل خانہ کا دھرنا ختم ہو گیا۔ *[Dawn](https://www.dawn.com/news/2016456/families-of-martyred-policemen-end-quetta-sit-in-after-10-days-as-agreement-reached-with-govt)*
+- خیبرپختونخوا کے مختلف اضلاع میں سیکورٹی فورسز کے آپریشن کے دوران پانچ دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2016622/five-terrorists-killed-in-kp-operations)*
+- زیات دہشت گردانہ حملے میں شہید ہونے والے پولیس اہلکاروں کی میتیں ان کے آبائی علاقوں میں سپرد کی گئیں۔ *[Dawn](https://www.dawn.com/news/2016623/policemen-martyred-in-ziarat-attack-buried-as-quetta-sit-in-ends)*
+- گلگت بلتستان اسمبلی نے گلیشیئرز کے تحفظ اور ماحولیاتی تبدیلیوں سے نمٹنے کے لیے وفاق سے خصوصی 'گرین فنڈ' کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016612/gb-assembly-seeks-special-climate-fund-from-centre)*
+- کراچی کے ڈی ایچ اے میں ایک غیر ملکی خاتون کے ساتھ جنسی زیادتی کے الزام پر ملزم کو گرفتار کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016462/police-register-fir-after-foreign-woman-residing-in-karachis-dha-alleges-sexual-assault)*
+- وزیرستان کے علاقے وانا میں سیکورٹی فورسز نے ایک خودکش حملے کی سازش ناکام بنا دی اور ایک دہشت گرد مارا گیا۔ *[Dawn](https://www.dawn.com/news/2016455/terrorist-killed-as-security-forces-destroy-explosive-laden-vehicle-intended-for-suicide-attack-in-wana-state-media)*
 
 ### بین الاقوامی
-- نیویارک کے میئر نے اسرائیلی وزیراعظم نیتنیاہو کی گرفتاری کے حوالے سے قانونی اختیارات پر غور کرنا شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016505/netanyahu-belongs-in-the-hague-nyc-mayor-mamdani-mulls-whether-he-can-order-israeli-pms-arrest)*
-- ایران نے امریکی حملوں کے جواب میں خلیجی ریاستوں اور اردن پر حملے کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2016426/iran-hits-gulf-states-and-jordan-after-seventh-night-of-us-strikes)*
-- بھارتی کارکن سونم وانگچک کو 20 روزہ بھوک ہڑتال کے بعد زبردستی ہسپتال منتقل کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2016429/indian-activist-sonam-wangchuk-forcibly-moved-to-hospital-after-20-day-hunger-strike)*
-- پاکستان اور کویت کے درمیان دفاعی معاہدے کے حوالے سے مذاکرات ابتدائی مرحلے میں ہیں۔ *[Dawn](https://www.dawn.com/news/2016348/pakistan-and-kuwait-mulling-defence-pact)*
+- امریکہ نے ایران پر حملے دوبارہ شروع کر دیے ہیں، جبکہ ایران نے جواب میں کویت میں امریکی اڈوں کو نشانہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/2016645/us-renews-strikes-on-iran-to-punish-irgc-for-troops-killing-tehran-targets-american-bases-in-kuwait)*
+- لبنان کے صدر جوزف اعون جنگ بندی کے لیے واشنگٹن کا دورہ کر رہے ہیں تاکہ امریکی حمایت حاصل کی جا سکے۔ *[Dawn](https://www.dawn.com/news/2016617/aoun-takes-lebanons-peace-push-to-washington)*
+- نیویارک کے میئر نے اسرائیلی وزیراعظم نیتنیاہو کی ممکنہ آمد پر ان کی گرفتاری کے قانونی اختیارات کے حوالے سے مشاورت کا ذکر کیا۔ *[Dawn](https://www.dawn.com/news/2016505/netanyahu-belongs-in-the-hague-nyc-mayor-mamdani-mulls-whether-he-can-order-israeli-pms-arrest)*
+- امریکی انتظامیہ نے غیر ملکی صحافیوں کے ویزا قوانین میں بڑی تبدیلیوں کا فیصلہ کیا ہے، جس سے ان کے ویزا کی مدت مقرر ہوگی۔ *[Dawn](https://www.dawn.com/news/2016518/trump-administration-finalises-overhaul-of-foreign-journalists-visas-ends-duration-of-status-system)*
+- مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے حملے کے دوران ایک 17 سالہ فلسطینی فٹ بالر جاں بحق ہو گیا۔ *[Dawn](https://www.dawn.com/news/2016519/palestinian-teen-footballer-dies-after-being-shot-during-settler-attack-in-occupied-west-bank)*
+- پاکستان نے بھارتی شہری اور فوجی طیاروں کے لیے اپنی فضائی حدود پر پابندی 23 اگست تک بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/2016474/paa-extends-airspace-ban-on-indian-aircraft-until-aug-23)*
 
-### صحت
-- سندھ ہیلتھ کیئر کمیشن نے ویلکا ہسپتال میں انجکشن کی سوئیاں ٹھکانے لگانے کے غیر محفوظ طریقے پائے ہیں۔ *[Dawn](https://www.dawn.com/news/2016294/healthcare-body-finds-unsafe-needle-disposal-at-valika-hospital)*
-
-### دیگر
-- مشبرم کی چوٹی سر کرنے کی کوشش کے دوران ایک چیک جمہوریہ کے کوہ پیما کی موت واقع ہو گئی۔ *[Dawn](https://www.dawn.com/news/2016373/masherbrum-ascent-ends-in-tragedy-for-czech-climber)*
-- ترکیہ میں روایتی آئل ریسلنگ فیسٹیول منعقد کیا گیا۔ *[Dawn](https://www.dawn.com/news/2016444/o-the-passions-of-oily-turkish-men)*
+### کھیل
+- فٹ بال ورلڈ کپ کے برونز میچ میں انگلینڈ نے فرانس کو 6-4 سے شکست دے دی۔ *[Dawn](https://www.dawn.com/news/2016570/england-edge-france-6-4-in-chaotic-world-cup-bronze-match)*
 
