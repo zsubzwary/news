@@ -7,41 +7,52 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Jul-2026 09:11PKT 
+ &lrm; 19-Jul-2026 21:09PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- افغانستان اور پاکستان کے درمیان ٹرانزٹ تجارت میں بڑی کمی واقع ہوئی ہے، جو مالی سال 26 میں صرف 367 ملین ڈالر تک رہ گئی ہے۔ *[Dawn](https://www.dawn.com/news/2016605/transit-trade-with-kabul-hits-historic-low)*
-- گوادر پورٹ پر تجارتی سرگرمیاں مسلسل جاری ہیں، جس سے پاکستان کے گہرے سمندر کے پورٹ پر بین الاقوامی اعتماد میں اضافہ ہو رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016603/gwadar-becomes-key-trade-gateway)*
-- پاکستان اور چین کے درمیان فارماسیوٹیکل کانفرنس کے اختتام پر 850 ملین ڈالر کے معاہدے طے پائے ہیں۔ *[Dawn](https://www.dawn.com/news/2016621/pakistan-china-pharma-conference-ends-with-850m-agreements)*
-- پیٹرولیم منسٹر نے مارکیٹ کے استحصال کو روکنے اور شفافیت کے لیے ایندھن کی قیمتوں میں روزانہ ایڈجسٹمنٹ کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016504/daily-fuel-price-adjustments-to-curb-market-abuse-ensure-fair-prices-petroleum-minister)*
+- وزیر خزانہ محمد اورنگزیب تجارتی، مالیاتی اور سرمایہ کاری کے مذاکرات کے لیے واشنگٹن پہنچ گئے۔ *[Dawn](https://www.dawn.com/news/2016679/finance-minister-aurangzeb-arrives-in-us-on-3-day-visit-expected-to-hold-talks-on-trade-finance-investment)*
+- افغانستان کے ساتھ ٹرانزٹ تجارت میں تاریخی کمی واقع ہوئی ہے، جو مالی سال 26 میں صرف 367 ملین ڈالر رہ گئی۔ *[Dawn](https://www.dawn.com/news/2016605/transit-trade-with-kabul-hits-historic-low)*
+- علاقائی بحری تناؤ کے باوجود گوادر بندرگاہ پر تجارتی سرگرمیاں معمول کے مطابق جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2016603/gwadar-becomes-key-trade-gateway)*
+- حکومت نے بچت اسکیموں پر منافع کی شرح میں ترمیم کر دی ہے۔ *[ARY](https://arynews.tv/govt-revises-profit-rates-on-savings-schemes)*
+- پنجاب حکومت کی جانب سے لڑکیوں کے لیے الیکٹرک بائیک اسکیم کے طریقہ کار کا اعلان۔ *[ARY](https://arynews.tv/how-to-apply-for-punjab-electric-bike-scheme-for-girls-2026)*
 
 ### سائنس اور ٹیکنالوجی
-- اینتھروپک (Anthropic) اپنے جدید ترین AI ماڈل 'Fable 5' کو اپنے Max اور Team Premium پلانز میں دوبارہ متعارف کروا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2016483/anthropic-to-add-claudes-fable-5-model-to-max-team-premium-plans-at-50pc-of-usage-limits)*
-
-### موسم
-- کینیڈا میں جنگلات کی آگ کے نتیجے میں پیدا ہونے والے دھوئیں نے مشرقی امریکہ کو اپنی لپیٹ میں لے لیا ہے، جس سے ایئر کوالٹی خطرناک حد تک متاثر ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2016513/wildfire-haze-hangs-over-eastern-us-world-cup-final-venue)*
+- میٹا کے سوشل میڈیا پلیٹ فارمز فیس بک اور انسٹاگرام کو عارضی طور پر سروس میں خرابی کا سامنا کرنا پڑا۔ *[Dawn](https://www.dawn.com/news/2016699/facebook-instagram-users-briefly-report-suffering-some-outages)*
+- چین میں آرٹیفیشل انٹیلی جنس (AI) پر مبنی جدید اسمارٹ فونز کا مظاہرہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2016726/pocket-size-ai-powerful-phones-star-at-china)*
 
 ### سیاست
-- بیلوال بھٹو زرداری نے کہا ہے کہ بلوچستان کے سیاسی مسائل کا واحد پائیدار حل سیاسی مذاکرات ہیں۔ *[Dawn](https://www.dawn.com/news/2016610/bilawal-urges-all-sides-to-engage-in-talks-for-balochistan-peace)*
-- وکلاء ایکشن کمیٹی نے ہائی کورٹس کے لیے ججوں کے تقرر کے موجودہ طریقہ کار کو مسترد کرتے ہوئے اسے 'ہارس ٹریڈنگ' قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016484/lawyers-action-committee-terms-jcp-judge-appointment-process-horse-trading-announces-nationwide-movement)*
+- وزیر مملکت برائے داخلہ نے نیلی پاسپورٹ کے اجراء کے لیے مزید سخت اقدامات کا یقین دلایا ہے۔ *[Dawn](https://www.dawn.com/news/2016696/after-backlash-over-proposed-law-state-minister-outlines-more-stringent-measures-for-blue-passport-issuance)*
+- پی پی پی چیئرمین بلاول بھٹو نے آزاد کشمیر کے انتخابات میں بہتر نتائج کی امید ظاہر کی۔ *[Dawn](https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt)*
+- بلاول بھٹو نے بلوچستان میں پائیدار امن کے لیے تمام فریقین کے درمیان مذاکرات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2016610/bilawal-urges-all-sides-to-engage-in-talks-for-balochistan-peace)*
 
 ### قومی
-- خیبرپختونخوا کے مختلف اضلاع میں سیکورٹی فورسز کے آپریشن کے دوران پانچ دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2016622/five-terrorists-killed-in-kp-operations)*
-- زیات دہشت گردانہ حملے میں شہید ہونے والے پولیس اہلکاروں کی میتیں ان کے آبائی علاقوں میں سپرد کی گئیں۔ *[Dawn](https://www.dawn.com/news/2016623/policemen-martyred-in-ziarat-attack-buried-as-quetta-sit-in-ends)*
-- گلگت بلتستان اسمبلی نے گلیشیئرز کے تحفظ اور ماحولیاتی تبدیلیوں سے نمٹنے کے لیے وفاق سے خصوصی 'گرین فنڈ' کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2016612/gb-assembly-seeks-special-climate-fund-from-centre)*
-- کراچی کے ڈی ایچ اے میں ایک غیر ملکی خاتون کے ساتھ جنسی زیادتی کے الزام پر ملزم کو گرفتار کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2016462/police-register-fir-after-foreign-woman-residing-in-karachis-dha-alleges-sexual-assault)*
-- وزیرستان کے علاقے وانا میں سیکورٹی فورسز نے ایک خودکش حملے کی سازش ناکام بنا دی اور ایک دہشت گرد مارا گیا۔ *[Dawn](https://www.dawn.com/news/2016455/terrorist-killed-as-security-forces-destroy-explosive-laden-vehicle-intended-for-suicide-attack-in-wana-state-media)*
+- بنوں میں انٹیلی جنس پر مبنی آپریشن کے دوران ایک دہشت گرد ہلاک اور آٹھ افراد گرفتار۔ *[Dawn](https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu)*
+- این سی سی آئی اے نے عمران خان کی بہن نورین نیازی کو اشتعال انگیز مواد پھیلانے کے الزام میں طلب کر لیا۔ *[Dawn](https://www.dawn.com/news/2016686/nccia-summons-imrans-sister-noreen-for-allegedly-disseminating-false-offensive-inflammatory-content)*
+- کراچی میں عمارتوں کے حفاظتی آڈٹ میں آگ سے بچاؤ کے بنیادی انتظامات کی کمی سامنے آئی ہے۔ *[Dawn](https://www.dawn.com/news/2016589/safety-audit-reveals-over-300-city-buildings-in-karachi-lack-even-fire-extinguishers)*
+- لاہور میں ایک امریکی خاندان کے چار افراد کی پراسرار موت، پولیس تحقیقات جاری ہیں۔ *[Dawn](https://www.dawn.com/news/2016566/death-of-woman-three-children-in-lahore-police-release-husband-after-recording-statement)*
+- اسلام آباد ایئرپورٹ کے قریب اغوا کے واقعے میں پانچ ملزم گرفتار، دو افراد کو بحفاظت نکالا گیا۔ *[ARY](https://arynews.tv/five-kidnappers-arrested-two-recovered-after-abduction-outside-islamabad-airport)*
 
 ### بین الاقوامی
-- امریکہ نے ایران پر حملے دوبارہ شروع کر دیے ہیں، جبکہ ایران نے جواب میں کویت میں امریکی اڈوں کو نشانہ بنایا ہے۔ *[Dawn](https://www.dawn.com/news/2016645/us-renews-strikes-on-iran-to-punish-irgc-for-troops-killing-tehran-targets-american-bases-in-kuwait)*
-- لبنان کے صدر جوزف اعون جنگ بندی کے لیے واشنگٹن کا دورہ کر رہے ہیں تاکہ امریکی حمایت حاصل کی جا سکے۔ *[Dawn](https://www.dawn.com/news/2016617/aoun-takes-lebanons-peace-push-to-washington)*
-- نیویارک کے میئر نے اسرائیلی وزیراعظم نیتنیاہو کی ممکنہ آمد پر ان کی گرفتاری کے قانونی اختیارات کے حوالے سے مشاورت کا ذکر کیا۔ *[Dawn](https://www.dawn.com/news/2016505/netanyahu-belongs-in-the-hague-nyc-mayor-mamdani-mulls-whether-he-can-order-israeli-pms-arrest)*
-- امریکی انتظامیہ نے غیر ملکی صحافیوں کے ویزا قوانین میں بڑی تبدیلیوں کا فیصلہ کیا ہے، جس سے ان کے ویزا کی مدت مقرر ہوگی۔ *[Dawn](https://www.dawn.com/news/2016518/trump-administration-finalises-overhaul-of-foreign-journalists-visas-ends-duration-of-status-system)*
-- مقبوضہ مغربی کنارے میں اسرائیلی آباد کاروں کے حملے کے دوران ایک 17 سالہ فلسطینی فٹ بالر جاں بحق ہو گیا۔ *[Dawn](https://www.dawn.com/news/2016519/palestinian-teen-footballer-dies-after-being-shot-during-settler-attack-in-occupied-west-bank)*
-- پاکستان نے بھارتی شہری اور فوجی طیاروں کے لیے اپنی فضائی حدود پر پابندی 23 اگست تک بڑھا دی ہے۔ *[Dawn](https://www.dawn.com/news/2016474/paa-extends-airspace-ban-on-indian-aircraft-until-aug-23)*
+- کینیڈا کی وزیر خارجہ انیتا آنند کا پاکستان کا دورہ، دوطرفہ تعلقات پر بات چیت ہوگی۔ *[Dawn](https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-tomorrow)*
+- بھارتی کارکن سونم وانگچک کو مبینہ طور پر طبی نگہداشت کے بہانے غیر قانونی طور پر حراست میں لیا گیا۔ *[Dawn](https://www.dawn.com/news/2016713/over-100-cops-at-hospital-wife-alleges-indian-activist-sonam-wangchuk-illegally-detained-under-guise-of-medical-care)*
+- امریکہ کے ایران پر حملوں کے جواب میں ایران نے کویت میں امریکی اڈوں پر ڈرون حملہ کر دیا۔ *[Dawn](https://www.dawn.com/news/2016645/us-renews-strikes-on-iran-to-punish-irgc-for-troops-killing-tehran-targets-american-bases-in-kuwait)*
+- پاکستان اور وینزویلا کے درمیان اقتصادی تعاون کو فروغ دینے کے لیے باہمی تال میل پر زور۔ *[Dawn](https://www.dawn.com/news/2016695/dar-venezuelan-fm-emphasise-considerable-potential-for-enhancing-economic-collaboration)*
 
 ### کھیل
-- فٹ بال ورلڈ کپ کے برونز میچ میں انگلینڈ نے فرانس کو 6-4 سے شکست دے دی۔ *[Dawn](https://www.dawn.com/news/2016570/england-edge-france-6-4-in-chaotic-world-cup-bronze-match)*
+- کائل ایمباپے ورلڈ کپ کے تاریخ کے سب سے زیادہ گول کرنے والے کھلاڑی بن گئے۔ *[Dawn](https://www.dawn.com/news/2016719/frances-mbappe-becomes-world-cups-all-time-top-scorer)*
+- ورلڈ کپ کے تیسرے مقام کے میچ میں انگلینڈ نے فرانس کو 6-4 سے شکست دی۔ *[Dawn](https://www.dawn.com/news/2016570/england-edge-france-6-4-in-chaotic-world-cup-bronze-match)*
+- ڈریک نے میسی اور ارجنٹائن کی جیت پر 1.5 ملین ڈالر کی شرط لگائی۔ *[ARY](https://arynews.tv/drake-drops-1-5m-on-messi-and-argentina-here-comes-the-curse)*
+- اسپین کا فائنل میچ میں میسی کو روکنے کا خاص منصوبہ۔ *[ARY](https://arynews.tv/spains-shock-plan-to-shut-down-messi-in-the-final)*
+- فٹ بال اسٹار رونالڈو کی حالیہ پیشگوئی۔ *[ARY](https://arynews.tv/ronaldos-final-prediction-theyve-been-doing-this-a-long-time)*
+- کائل ایمباپے کی سوشل میڈیا پر ایک غلطی سے بحث چھڑ گئی۔ *[ARY](https://arynews.tv/kylian-mbappe-social-media-frenzy-involving-ester-exposito)*
+
+### صحت
+- پاکستان پیڈیاٹرک ایسوسی ایشن نے 10cc سرنجوں پر پابندی سے استثنیٰ دینے کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2016590/drap-urged-to-exempt-10cc-syringes-from-ban)*
+
+### دیگر
+- جسٹن اور ہیلی بیبر کے کیوٹ لمحات نے مداحوں کا دل جیت لیا۔ *[ARY](https://arynews.tv/justin-hailey-biebers-sweet-moments-delight-fans)*
+- فلم 'دی اوڈیسی' نے باکس آفس کے کئی ریکارڈ توڑ دیے۔ *[ARY](https://arynews.tv/the-odyssey-a-new-cinematic-masterpiece)*
+- اداکار رابرٹ پیٹنسن نے مسلسل فلمیں سائن کرنے کی وجہ بتائی۔ *[ARY](https://arynews.tv/robert-pattinson-reveals-reason-for-signing-consecutive-movies)*
 
