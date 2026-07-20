@@ -4,53 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Jul-2026 09:04PKT
+Published at: 20-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government is considering activating fuel conservation and austerity measures due to rising oil prices and Middle East tensions. *[Dawn](https://www.dawn.com/news/2016884/govt-weighs-activating-fuel-saving-plans)*
-- Recent economic data highlights significant poverty and economic distress within Pakistan. *[Dawn](https://www.dawn.com/news/2016897/poverty-and-inequality)*
-- Brent oil prices have risen above $90 as military strikes between the US and Iran expand. *[ARY](https://arynews.tv/brent-oil-tops-90-as-us-iran-expand-strikes-in-the-middle-east)*
+- Brent oil prices rose above $90 per barrel due to escalating US-Iran hostilities in the Middle East. *[Dawn](https://www.dawn.com/news/2016987/brent-oil-tops-90-as-us-iran-expand-strikes-in-the-middle-east)*
+- The Pakistani government is considering the activation of fuel conservation and austerity measures to protect foreign exchange reserves. *[Dawn](https://www.dawn.com/news/2016884/govt-weighs-activating-fuel-saving-plans)*, *[ARY](https://arynews.tv/petrol-price-new-daily-updates-structure-revealed)*
+- Canada’s Foreign Minister expressed interest in exploring new avenues for trade and bilateral cooperation with Pakistan. *[Dawn](https://www.dawn.com/news/2017004/canada-eyes-new-avenues-for-trade-economic-cooperation-with-pakistan-as-fm-anand-visits-islamabad)*
+- Prime Minister Shehbaz Sharif emphasized that modernizing Pakistan Railways is essential for the country to become a regional trade and logistics hub. *[Dawn](https://www.dawn.com/news/2017015/pm-says-modernisation-of-pakistan-railways-instrumental-in-establishing-country-as-a-regional-hub)*
+
+### Science & Technology
+- Guerrilla London bus advertisements have criticized Meta's new glasses campaign, citing concerns over surveillance. *[ARY](https://arynews.tv/guerrilla-london-bus-ads-slam-kylie-jenners-meta-glasses-campaign-over-surveillance-fears)*
 
 ### Weather
-- Torrential rains have caused the River Chenab to swell, leading to flash floods in occupied Kashmir. *[Dawn](https://www.dawn.com/news/2016873/chenab-flows-surge-after-floods-in-held-kashmir)*
+- Torrential rains in India-occupied Kashmir have triggered flash floods, causing at least 11 deaths and a surge in the River Chenab. *[Dawn](https://www.dawn.com/news/2016873/chenab-flows-surge-after-floods-in-held-kashmir)*
+- A flash flood in the Khyber district of KP swept away a vehicle carrying Afghan families, resulting in at least three deaths. *[Dawn](https://www.dawn.com/news/2017008/3-bodies-found-after-vehicle-carrying-afghans-swept-away-by-flash-flood-in-kps-khyber)*
 
 ### Politics
-- JUI-F leader Maulana Fazlur Rehman refused to apologize for recent controversial remarks regarding security personnel. *[Dawn](https://www.dawn.com/news/2016839/fazl-refuses-to-apologise-for-controversial-remarks)*
-- The upcoming Azad Jammu and Kashmir (AJK) elections are shaping up to be a major contest between the PML-N and PPP. *[Dawn](https://www.dawn.com/news/2016877/ajk-polls-shaping-up-to-be-nawaz-vs-bilawal-contest)*
-- Deputy Prime Minister Ishaq Dar reaffirmed the federal government's commitment to resolving Balochistan's development challenges. *[Dawn](https://www.dawn.com/news/2016879/dar-reiterates-commitment-to-addressing-balochistan-challenges)*
-- Following public backlash, the government has outlined stricter measures for the issuance of blue passports to former parliamentarians' children. *[Dawn](https://www.dawn.com/news/2016696/after-backlash-over-proposed-law-state-minister-outlines-more-stringent-measures-for-blue-passport-issuance)*
-- PPP Chairman Bilawal Bhutto-Zardari expressed optimism about forming the next government in AJK. *[Dawn](https://www.dawn.com/news/2016735/bilawal-seeks-better-results-in-upcoming-ajk-elections-as-ppp-hopes-to-form-govt)*
-- Analysis suggests Pakistan's geographical location continues to present a complex "three-front challenge" for its ruling elites. *[Dawn](https://www.dawn.com/news/2016898/three-front-challenge)*
+- Andy Burnham has been appointed as the new Prime Minister of the United Kingdom. *[Dawn](https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability)*, *[ARY](https://arynews.tv/britains-new-prime-minister-andy-burnham-vows-to-end-years-of-instability)*
+- A resolution was submitted to the Punjab Assembly seeking a ban on the appointment of dual nationals to government service. *[Dawn](https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service)*
+- The Khyber Pakhtunkhwa government has challenged the continued extension of the 7th NFC Award in the Federal Constitutional Court. *[Dawn](https://www.dawn.com/news/2017040/kp-approaches-fcc-challenges-years-long-extension-of-7th-nfc-award-after-fata-merger)*
+- The Law and Justice Commission of Pakistan has recommended a constitutional amendment to establish an International Commercial Court. *[Dawn](https://www.dawn.com/news/2017016/cjp-led-body-decides-to-recommend-constitutional-tweak-to-govt-for-establishment-of-international-commercial-court)*
+- Political campaigning in Azad Jammu and Kashmir is intensifying, with the upcoming polls shaping up to be a contest between PML-N and PPP. *[Dawn](https://www.dawn.com/news/2016877/ajk-polls-shaping-up-to-be-nawaz-vs-bilawal-contest)*
+- PTI has distanced itself from recent remarks by Noreen Niazi, characterizing them as her personal opinion. *[ARY](https://arynews.tv/noreen-niazi-remarks-pti-distances-itself-from-founder-sister)*
+- JUI-F leader Maulana Fazlur Rehman refused to apologize for controversial remarks regarding security personnel. *[Dawn](https://www.dawn.com/news/2016839/fazl-refuses-to-apologise-for-controversial-remarks)*
 
 ### National
-- Jamaat-i-Islami has urged the Prime Minister to release Rs40bn to ensure the completion of the K-IV water supply project in Karachi. *[Dawn](https://www.dawn.com/news/2016854/pm-shehbaz-urged-to-release-rs40bn-required-for-completion-of-karachis-k-iv-water-supply-project)*
-- Pakistani security forces engaged in a retaliatory response against unprovoked firing by the Afghan Taliban at Kurram border posts. *[Dawn](https://www.dawn.com/news/2016755/security-forces-counter-unprovoked-firing-by-afghan-taliban-targeting-kurram-border-posts)*
-- Multan police have registered cases against veteran politician Javed Hashmi and his sons-in-law for alleged electricity theft. *[Dawn](https://www.dawn.com/news/2016756/multan-police-book-javed-hashmi-his-3-sons-in-law-for-alleged-power-theft)*
-- A joint intelligence-based operation in Bannu resulted in the death of one terrorist and the detention of eight others. *[Dawn](https://www.dawn.com/news/2016737/one-terrorist-killed-8-others-held-as-joint-operation-continues-in-bannu)*
-- The NCCIA has summoned Noreen Niazi, sister of Imran Khan, over allegations of spreading inflammatory content against state institutions. *[Dawn](https://www.dawn.com/news/2016686/nccia-summons-imrans-sister-noreen-for-allegedly-disseminating-false-offensive-inflammatory-content)*
+- Three suspects have been remanded in judicial custody regarding the kidnapping and rape of two foreign women in Lahore. *[Dawn](https://www.dawn.com/news/2017011/foreign-womens-abduction-rape-case-3-suspects-remanded-in-judicial-custody)*
 
 ### International
-- A new FBI directive has reportedly instructed agents not to investigate confrontations involving ICE agents. *[Dawn](https://www.dawn.com/news/2016858/nyt-report-on-new-fbi-directive-stuns-nation)*
-- Canadian Foreign Minister Anita Anand is set to visit Pakistan to discuss trade, investment, and bilateral cooperation. *[Dawn](https://www.dawn.com/news/2016734/canadian-foreign-minister-anita-anand-to-visit-pakistan-on-monday)*
-- The wife of Indian activist Sonam Wangchuk has accused the government of illegally detaining him under the guise of medical care. *[Dawn](https://www.dawn.com/news/2016713/over-100-cops-at-hospital-wife-alleges-indian-activist-sonam-wangchuk-illegally-detained-under-guise-of-medical-care)*
-- Tensions have escalated as the US continues strikes on Iran, while Iran has targeted American bases in Kuwait with drones. *[Dawn](https://www.dawn.com/news/2016645/us-renews-strikes-on-iran-to-punish-irgc-for-troops-killing-tehran-targets-american-bases-in-kuwait)*
-- US military strikes against Iranian targets have continued for a ninth consecutive day. *[ARY](https://arynews.tv/us-launches-iran-strikes-for-ninth-day-20-july-2026)*
+- Iran's president has declared that the country is engaged in a "full-scale war" with the United States following expanded US strikes. *[Dawn](https://www.dawn.com/news/2016977/iran-says-fighting-full-scale-war-with-united-states)*
+- US air strikes on infrastructure in southern Iran have reportedly deepened economic hardships for local residents. *[Dawn](https://www.dawn.com/news/2017049/us-attacks-deepen-hardship-not-dissent-in-irans-south)*
+- Gulf nations have called for an urgent return to diplomacy to prevent the US-Iran confrontation from escalating into a regional war. *[Dawn](https://www.dawn.com/news/2016864/gulf-states-appeal-for-return-to-talks-as-us-iran-trade-blows)*
+- Protests occurred in Delhi, with demonstrators demanding statehood for occupied Kashmir and the resignation of the Education Minister over exam irregularities. *[Dawn](https://www.dawn.com/news/2017041/hundreds-protest-in-delhi-demanding-statehood-for-occupied-kashmir)*, *[Dawn](https://www.dawn.com/news/2016990/indian-police-fire-tear-gas-baton-charge-cockroach-janta-party-protesters-trying-to-march-on-parliament)*
 
 ### Sports
-- Kylian Mbappe has become the all-time leading scorer in World Cup history with 22 goals. *[Dawn](https://www.dawn.com/news/2016719/frances-mbappe-becomes-world-cups-all-time-top-scorer)*
-- Tom Cruise delivered an inspiring speech during the FIFA World Cup 2026 Final. *[ARY](https://arynews.tv/tom-cruise-delivers-inspiring-speech-at-fifa-world-cup-2026-final)*
-- A lineup of global stars, including BTS, Shakira, and Madonna, performed at the World Cup final. *[ARY](https://arynews.tv/bts-shakira-justin-bieber-and-madonna-mesmerize-world-cup-final-crowd)*
-- Spain secured the World Cup title after defeating Argentina. *[ARY](https://arynews.tv/madrid-erupts-in-cheers-after-spain-win-world-cup)*
+- Spain's FIFA World Cup winning team has returned to Madrid ahead of a planned victory parade. *[Dawn](https://www.dawn.com/news/2017043/fifa-world-cup-heroes-spain-return-home-ahead-of-victory-parade)*, *[ARY](https://arynews.tv/spains-world-cup-heroes-return-home-ahead-of-victory-parade)*
+- Legendary former Liverpool and England football star Keegan has passed away at the age of 75. *[ARY](https://arynews.tv/legendary-former-liverpool-and-england-star-keegan-dies-aged-75)*
+- Reports indicate that a comment made by Gavi sparked a brawl during the World Cup. *[ARY](https://arynews.tv/gavis-comment-to-paredes-that-sparked-a-world-cup-brawl)*
 
 ### Health
-- Around 40 registered life-saving medicines remain unavailable to patients due to delays in government price approvals. *[Dawn](https://www.dawn.com/news/2016842/40-registered-life-saving-medicines-remain-out-of-patients-reach)*
-- Pakistan is nearing the introduction of a breakthrough therapy for Hepatitis Delta. *[ARY](https://arynews.tv/pakistan-moves-closer-to-introducing-breakthrough-therapy-for-hepatitis-delta)*
+- Salman Khan has addressed concerns regarding his health following the circulation of a viral video clip. *[ARY](https://arynews.tv/salman-khan-speaks-up-on-health-after-viral-clip)*
 
 ### Other
-- Lamine Yamal’s three-year-old brother has become a viral sensation on the internet. *[ARY](https://arynews.tv/lamine-yamals-3-year-old-brother-is-internets-new-favorite)*
-- Christopher Nolan’s film *The Odyssey* achieved a successful global debut, earning $264.1 million. *[ARY](https://arynews.tv/the-odyssey-makes-264-1-million-in-global-debut)*
-- Critics are analyzing the cinematic themes and transcendence within Christopher Nolan’s *The Odyssey*. *[ARY](https://arynews.tv/cinematic-transcendence-unpacking-the-hidden-themes-of-christopher-nolans-the-odyssey)*
-- The cause of death for actor Sam Neill has been confirmed following public speculation. *[ARY](https://arynews.tv/sam-neills-cause-of-death-confirmed-after-speculation)*
+- Larry the cat, the UK's famous resident of 10 Downing Street, "welcomed" the new Prime Minister. *[Dawn](https://www.dawn.com/news/2017026/politicians-come-and-go-larry-the-cat-welcomes-7th-prime-minister)*
+- A new trailer for "Avengers: Doomsday" has been released, featuring the crossover of the Avengers and X-Men. *[ARY](https://arynews.tv/avengers-doomsday-trailer-dr-doom-first-look)*
+- Holly Willoughby has announced the launch of a new YouTube show. *[ARY](https://arynews.tv/holly-willoughby-announces-new-youtube-show)*
 
