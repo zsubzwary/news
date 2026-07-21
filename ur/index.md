@@ -7,46 +7,46 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Jul-2026 09:10PKT 
+ &lrm; 21-Jul-2026 21:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان اسٹیٹ آئل (PSO) مالی سال 2027 میں ڈیزل کا واحد درآمد کنندہ ہوگا۔ *[Dawn](https://www.dawn.com/news/2017158/pakistan-state-oil-to-be-sole-diesel-importer-in-fy27)*
-- حکومت نے پٹرول کی قیمت میں 0.35 روپے کمی اور ڈیزل کی قیمت میں 5.71 روپے فی لیٹر اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017065/govt-decreases-petrol-price-by-rs035-increases-diesel-by-rs571-per-litre)*
-- تجارتی پالیسی (STP) 2026-31 کے لیے ڈھانچہ جاتی کمزوریوں کو دور کرنے اور برآمدات کی حکمت عملی پر غور کیا جائے گا۔ *[Dawn](https://www.dawn.com/news/2017189/rethinking-trade-policy)*
+- پاکستان اسٹاک ایکسچینج کا انڈیکس معمولی اضافے کے ساتھ 176,133 پوائنٹس پر بند ہوا۔ *[Dawn](https://www.dawn.com/news/2017214/kse-100-makes-marginal-gains-as-global-energy-uncertainty-weighs-on-early-rally)*
+- امریکی ٹیکنالوجی کمپنی ہونی ویل (Honeywell) نے پاکستان کے ریفائنری سیکٹر کی جدید کاری اور توسیع کے لیے ایک منصوبہ پیش کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017217/us-technology-firm-proposes-refinery-modernisation-plan-for-pakistan-in-meeting-with-finance-minister)*
+
+### سائنس اور ٹیکنالوجی
+- وزیراعظم شہباز شریف نے وزیراعظم آفس (PMO) میں کاغذی کام کے خاتمے کے لیے پہلا AI پر مبنی ڈیجیٹلائزیشن پلیٹ فارم لانچ کیا۔ *[Dawn](https://www.dawn.com/news/2017285/pm-shehbaz-launches-first-ai-based-digitisation-platform-to-replace-paper-based-work-in-pmo)*
+- گوگل نے اپنے ہلکے Gemini ماڈلز کو اپ ڈیٹ کر دیا ہے، تاہم فلیگ شپ ماڈل کی پیشکش میں تاخیر ہو سکتی ہے۔ *[ARY](https://arynews.tv/google-updates-lightweight-gemini-models-but-flagship-still-delayed)*
 
 ### موسم
-- کشمیر اور پنجاب کے علاقوں میں ہونے والی بارشوں کے باعث دریائے چناب میں پانی کی سطح میں تیزی سے اضافے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2017067/chenab-water-level-likely-to-surge-following-ongoing-rains-in-indian-occupied-kashmir-punjab)*
+- خیبر پختونخوا میں مون سون کی مسلسل بارشوں سے 12 افراد جاں بحق ہو گئے ہیں، جبکہ ملک بھر میں سیلاب اور لینڈ سلائیڈنگ کا الرٹ جاری کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017248/monsoon-rains-kill-12-in-kp-in-past-3-days-nationwide-flood-warning-issued)*
 
 ### سیاست
-- پنجاب اسمبلی میں دوہری شہریت رکھنے والے افراد کو سرکاری ملازمتوں پر پابندی لگانے کی قرارداد پیش کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service)*
-- گلگت بلتستان اسمبلی نے مرکز سے خطے کو عارضی صوبائی حیثیت دینے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017192/gb-assemblys-demand)*
+- ایرانی وزیر داخلہ نے اسلام آباد میں وزیراعظم شہباز شریف اور سی ڈی ایف جنرل عاصم منیر سے ملاقات کی جس میں علاقائی سلامتی پر تبادلہ خیال کیا گیا۔ *[Dawn](https://www.dawn.com/news/2017273/iranian-interior-minister-meets-pm-shehbaz-cdf-munir-in-islamabad)*
+- مسلم لیگ ن نے آزاد جموں و کشمیر میں اپنے انتخابی مہم کا باقاعدہ آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk)*
+- جماعت اسلامی نے پیٹرولیم لیوی کے خلاف ملک گیر شاہراہوں کی بندش اور احتجاج کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017280/jamaat-i-islami-announces-nationwide-road-blockade-against-petroleum-levy)*
+- آزاد کشمیر کے الیکشن کمشنر کے مطابق انتخابات تین مراحل میں منعقد ہوں گے جو 27 جولائی سے شروع ہوں گے۔ *[Dawn](https://www.dawn.com/news/2017254/ajk-election-commissioner-says-polls-to-be-held-in-three-phases-beginning-july-27)*
+- وزیراعظم شہباز شریف نے گلگت بلتستان کے نئے وزیراعلیٰ امجد حسین سے ملاقات کی اور وفاقی تعاون کا یقین دلایا۔ *[Dawn](https://www.dawn.com/news/2017241/centre-committed-to-working-closely-with-gb-government-pm-tells-cm-amjad-hussain)*
+- نواز شریف نے آزاد کشمیر کے وزیراعظم بننے کے حوالے سے مزاحیہ بیان دیا ہے۔ *[ARY](https://arynews.tv/nawaz-sharif-jokes-about-becoming-ajk-pm)*
 
 ### قومی
-- ایف آئی اے نے منی لانڈرنگ اور دہشت گردی کی مالی معاونت روکنے کے لیے کرپٹو کرنسی انویسٹی گیشن یونٹ قائم کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017177/fia-sets-up-cryptocurrency-investigation-unit)*
-- جوڈیشل کمیشن آف پاکستان نے ہائی کورٹس میں خالی اسامیوں کے لیے ججز کی نامزدگی پر غور کیا۔ *[Dawn](https://www.dawn.com/news/2017148/judicial-commission-of-pakistan-suggests-judges-for-high-court-slots)*
-- سپریم کورٹ نے اڈیالہ جیل انتظامیہ کو عمران خان کی ملاقاتوں کی تفصیلات فراہم کرنے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017174/supreme-court-seeks-details-of-imrans-jail-meetings)*
-- لاہور ہائی کورٹ نے فیصلہ دیا ہے کہ شوہر کی بدتمیزی کی وجہ سے نکاح ختم ہونے کی صورت میں بیوی کا حق مہر محفوظ رہتا ہے۔ *[Dawn](https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-dissolved-due-to-husbands-misconduct-lhc)*
-- مختلف مکاتب فکر کے علماء نے فرقہ وارانہ تنازعات کے خاتمے کے لیے مل کر نماز ادا کی۔ *[Dawn](https://www.dawn.com/news/2017171/clerics-from-different-sects-offer-joint-prayers)*
-- سندھ میں جرائم اور دہشت گردی کی شرح میں نمایاں کمی دیکھی گئی ہے۔ *[ARY](https://arynews.tv/crime-and-terrorism-in-sindh-see-major-decline)*
-- پاکستانی ٹیم کے آٹھ ارکان نے براڈ پیک اور خواتین کی ایک ٹیم نے کھوسار گینگ کی چوٹیوں پر کامیابی حاصل کی۔ *[Dawn](https://www.dawn.com/news/2017149/two-expeditions-succeed-in-summit-bids)*
+- عدالت نے توہینِ مذہب اور پیکا (PECA) کے مقدمے میں پوڈ کاسٹ ہوسٹ ریحان طارق کو ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/2017270/court-grants-post-arrest-bail-to-podcast-host-rehan-tariq-in-blasphemy-case)*
+- کراچی میں نادرا کے ایک عہدیدار کے لاپتہ ہونے پر ان کے اہل خانہ نے پولیس سے ان کی بازیابی کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2017263/nadra-official-goes-missing-in-karachi-family-approaches-police-for-his-recovery)*
+- سپریم کورٹ نے ایمان زینب اور ہادی علی کے مقدمے میں سماعت ملتوی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2017251/sc-adjourns-hearing-on-imaan-hadis-plea-against-ihc-decision-on-sentence-suspension)*
+- بلوچستان کے ضلع چاغی میں چیک پوسٹ پر مسلح افراد کے حملے کے دوران ایکسائز کے تین اہلکار اغوا کر لیے گئے۔ *[Dawn](https://www.dawn.com/news/2017233/3-excise-officials-kidnapped-after-attack-on-checkpost-in-balochistans-chagai-police-sources)*
+- بلوچستان کی ریاست کے الحاق کے تاریخی تناظر پر بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2017250/setting-the-record-straight-on-balochistans-accession-and-charting-a-path-for-its-future)*
+- سندھ پولیس نے ڈیجیٹل فارنزک لیبارٹری کی ضرورت پر زور دیا ہے۔ *[ARY](https://arynews.tv/sindh-police-stresses-on-need-for-digital-forensic-laboratory)*
 
 ### بین الاقوامی
-- ایران نے پاکستان کے ساتھ تعلقات میں امن اور سلامتی کو بنیادی اہمیت قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017147/araghchi-identifies-peace-security-as-key-goals-in-relations-with-islamabad)*
-- سابق وزیر خارجہ خورشید محمود قصوری نے خطے کی خوشحالی کے لیے پاک-بھارت-چین تعلقات کو ضروری قرار دیا۔ *[Dawn](https://www.dawn.com/news/2017164/better-ties-vital-for-pak-india-china-prosperity-ex-fm-khurshid-mahmud-kasuri)*
-- ایران کے وزیر داخلہ اسکندر مومنی سرکاری دورے پر اسلام آباد پہنچ گئے۔ *[Dawn](https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan)*
-- اینڈی برنم کو برطانیہ کا نیا وزیراعظم مقرر کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability)*
-- امریکی صدر ٹرمپ نے کہا ہے کہ اسرائیلی وزیراعظم نیٹن یاہو کو نیویارک میں گرفتار کرنے کے حوالے سے کوئی اقدامات نہیں ہونے دیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu)*
-- یمن کے حوثی باغیوں نے سعودی عرب کے لیے بحری ناکہ بندی کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2016977/yemens-houthis-declare-maritime-blockade-of-saudi-arabia)*
-- ٹرمپ نے خبردار کیا ہے کہ امریکی فوجیوں کے قتل کے بعد ایران کو اس کی قیمت چکانی پڑے گی۔ *[ARY](https://arynews.tv/new-strikes-as-trump-warns-iran-will-pay-for-us-troop-deaths)*
-
-### کھیل
-- اسپین نے فٹ بال ورلڈ کپ جیت کر اپنی دوسری بار کامیابی کا جشن منایا ہے۔ *[Dawn](https://www.dawn.com/news/2017043/fifa-world-cup-heroes-spain-return-home-ahead-of-victory-parade)*
-- لیونل میسی نے ورلڈ کپ کے فائنل میں شکست کے حوالے سے اپنی خاموشی توڑ دی۔ *[ARY](https://arynews.tv/lionel-messi-breaks-silence-on-argentinas-world-cup-final-loss)*
+- بھارتی اپوزیشن لیڈر راہول گاندھی اور ان کی بہن پر دہلی میں احتجاج کے دوران پولیس نے کارروائی کرتے ہوئے انہیں حراست میں لے لیا۔ *[Dawn](https://www.dawn.com/news/2017219/indian-opposition-leader-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest)*
+- سنگاپور میں ہیرا چرانے کی ناکام کوشش پر ایک بھارتی سیاح کو دو سال سے زائد قید کی سزا سنائی گئی۔ *[Dawn](https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft)*
+- سعودی عرب نے ایک سال کی میعاد والا ملٹی پل انٹری عمرہ ویزا متعارف کروا دیا ہے جس سے زائرین سال میں 90 دن تک قیام کر سکیں گے۔ *[Dawn](https://www.dawn.com/news/2017249/saudi-govt-launches-multiple-entry-umrah-visa-with-one-year-validity)*
+- برطانیہ کے نئے وزیراعظم اینڈی برہم نے اپنی نئی کابینہ کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017300/who-is-who-in-uk-pm-andy-burnhams-new-cabinet)*
+- ایران اور امریکہ کے درمیان کشیدگی میں اضافہ، ایران نے خلیج میں امریکی فوجی اثاثوں کو نشانہ بنانے کے بعد مزید حملوں کا انتباہ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017211/iran-targets-american-military-assets-in-gulf-warns-of-more-attacks-as-us-strikes-iran-for-10th-consecutive-day)*
+- پاکستانی نژاد ڈاکٹر آصف محمود امریکی کمیشن برائے بین الاقوامی مذہبی آزادی (USCIRF) کے چیئرمین منتخب ہو گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2017231/pakistan-origin-physician-asif-mahmood-elected-chair-of-us-commission-on-religious-freedom)*
 
 ### دیگر
-- ہالی بیبر نے جسٹن بیبر کی ورلڈ کپ پارٹی میں شرکت کی۔ *[ARY](https://arynews.tv/hailey-bieber-slays-in-scarlet-dress-for-justins-world-cup-afterparty)*
-- ریان رینالڈز نے بلیک لائیولی کے ساتھ ورلڈ کپ کے موقع پر شرکت نہیں کی۔ *[ARY](https://arynews.tv/ryan-reynolds-misses-world-cup-with-blake-lively-for-this-reason)*
-- ملکہ کیملا نے بے گھری کے خلاف کام کرنے والی تنظیموں کی حمایت میں قدم اٹھایا ہے۔ *[ARY](https://arynews.tv/queen-camilla-steps-up-support-for-homelessness-charities-alongside-prince-williams-initiative)*
+- فلم 'گاڈزیلا بمقابلہ کنگ' کی اداکارہ کیلی ہوٹل کا 18 سال کی عمر میں کار حادثے میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/godzilla-vs-kong-star-kaylee-hottle-dead-at-18-after-car-crash)*
+- مشہور گلوکار روبی ولیمز نے سوشل میڈیا پر وائرل ہونے والی منشیات سے متعلق افواہوں کی وضاحت کی ہے۔ *[ARY](https://arynews.tv/robbie-williams-clears-up-cocaine-rumors-after-viral-interview)*
 
