@@ -4,51 +4,47 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Jul-2026 21:04PKT
+Published at: 21-Jul-2026 09:04PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Brent oil prices rose above $90 per barrel due to escalating US-Iran hostilities in the Middle East. *[Dawn](https://www.dawn.com/news/2016987/brent-oil-tops-90-as-us-iran-expand-strikes-in-the-middle-east)*
-- The Pakistani government is considering the activation of fuel conservation and austerity measures to protect foreign exchange reserves. *[Dawn](https://www.dawn.com/news/2016884/govt-weighs-activating-fuel-saving-plans)*, *[ARY](https://arynews.tv/petrol-price-new-daily-updates-structure-revealed)*
-- Canada’s Foreign Minister expressed interest in exploring new avenues for trade and bilateral cooperation with Pakistan. *[Dawn](https://www.dawn.com/news/2017004/canada-eyes-new-avenues-for-trade-economic-cooperation-with-pakistan-as-fm-anand-visits-islamabad)*
-- Prime Minister Shehbaz Sharif emphasized that modernizing Pakistan Railways is essential for the country to become a regional trade and logistics hub. *[Dawn](https://www.dawn.com/news/2017015/pm-says-modernisation-of-pakistan-railways-instrumental-in-establishing-country-as-a-regional-hub)*
-
-### Science & Technology
-- Guerrilla London bus advertisements have criticized Meta's new glasses campaign, citing concerns over surveillance. *[ARY](https://arynews.tv/guerrilla-london-bus-ads-slam-kylie-jenners-meta-glasses-campaign-over-surveillance-fears)*
+- The government has appointed **Pakistan State Oil (PSO)** as the sole importer of high-speed diesel for the upcoming fiscal year. *[Dawn](https://www.dawn.com/news/2017158/pakistan-state-oil-to-be-sole-diesel-importer-in-fy27)*
+- Petrol prices have been decreased by **Rs0.35** per litre, while high-speed diesel prices have increased by **Rs5.71** per litre. *[Dawn](https://www.dawn.com/news/2017065/govt-decreases-petrol-price-by-rs035-increases-diesel-by-rs571-per-litre)*
+- Experts suggest a need to rethink Pakistan's **Strategic Trade Policy** for 2026-31 to address long-standing structural weaknesses. *[Dawn](https://www.dawn.com/news/2017189/rethinking-trade-policy)*
 
 ### Weather
-- Torrential rains in India-occupied Kashmir have triggered flash floods, causing at least 11 deaths and a surge in the River Chenab. *[Dawn](https://www.dawn.com/news/2016873/chenab-flows-surge-after-floods-in-held-kashmir)*
-- A flash flood in the Khyber district of KP swept away a vehicle carrying Afghan families, resulting in at least three deaths. *[Dawn](https://www.dawn.com/news/2017008/3-bodies-found-after-vehicle-carrying-afghans-swept-away-by-flash-flood-in-kps-khyber)*
+- The water level in the **Chenab River** is expected to rise significantly due to heavy rainfall in Punjab and Indian-occupied Kashmir. *[Dawn](https://www.dawn.com/news/2017067/chenab-water-level-likely-to-surge-following-ongoing-rains-in-indian-occupied-kashmir-punjab)*
 
 ### Politics
-- Andy Burnham has been appointed as the new Prime Minister of the United Kingdom. *[Dawn](https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability)*, *[ARY](https://arynews.tv/britains-new-prime-minister-andy-burnham-vows-to-end-years-of-instability)*
-- A resolution was submitted to the Punjab Assembly seeking a ban on the appointment of dual nationals to government service. *[Dawn](https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service)*
-- The Khyber Pakhtunkhwa government has challenged the continued extension of the 7th NFC Award in the Federal Constitutional Court. *[Dawn](https://www.dawn.com/news/2017040/kp-approaches-fcc-challenges-years-long-extension-of-7th-nfc-award-after-fata-merger)*
-- The Law and Justice Commission of Pakistan has recommended a constitutional amendment to establish an International Commercial Court. *[Dawn](https://www.dawn.com/news/2017016/cjp-led-body-decides-to-recommend-constitutional-tweak-to-govt-for-establishment-of-international-commercial-court)*
-- Political campaigning in Azad Jammu and Kashmir is intensifying, with the upcoming polls shaping up to be a contest between PML-N and PPP. *[Dawn](https://www.dawn.com/news/2016877/ajk-polls-shaping-up-to-be-nawaz-vs-bilawal-contest)*
-- PTI has distanced itself from recent remarks by Noreen Niazi, characterizing them as her personal opinion. *[ARY](https://arynews.tv/noreen-niazi-remarks-pti-distances-itself-from-founder-sister)*
-- JUI-F leader Maulana Fazlur Rehman refused to apologize for controversial remarks regarding security personnel. *[Dawn](https://www.dawn.com/news/2016839/fazl-refuses-to-apologise-for-controversial-remarks)*
+- **Andy Burnham** has been appointed as the new Prime Minister of the United Kingdom by King Charles III. *[Dawn](https://www.dawn.com/news/2017007/andy-burnham-becomes-uk-pm-says-britain-needs-to-regain-stability)*
+- The **Gilgit-Baltistan Assembly** has passed a unanimous resolution demanding provisional provincial status for the region. *[Dawn](https://www.dawn.com/news/2017192/gb-assemblys-demand)*
+- A resolution has been submitted to the **Punjab Assembly** seeking a ban on the appointment of dual nationals to government service. *[Dawn](https://www.dawn.com/news/2017045/pml-n-mpa-seeks-ban-on-appointment-of-dual-nationals-to-government-service)*
 
 ### National
-- Three suspects have been remanded in judicial custody regarding the kidnapping and rape of two foreign women in Lahore. *[Dawn](https://www.dawn.com/news/2017011/foreign-womens-abduction-rape-case-3-suspects-remanded-in-judicial-custody)*
+- The **FIA** has established a dedicated cryptocurrency investigation unit to prevent money laundering and terror financing. *[Dawn](https://www.dawn.com/news/2017177/fia-sets-up-cryptocurrency-investigation-unit)*
+- The **Judicial Commission of Pakistan** has recommended several judge confirmations and extensions for provincial high courts. *[Dawn](https://www.dawn.com/news/2017148/judicial-commission-of-pakistan-suggests-judges-for-high-court-slots)*
+- The **Supreme Court** has ordered the Adiala jail administration to provide details regarding meetings held between Imran Khan and his associates. *[Dawn](https://www.dawn.com/news/2017174/supreme-court-seeks-details-of-imrans-jail-meetings)*
+- The **Lahore High Court** ruled that a wife's right to her dower is protected if a marriage is dissolved due to a husband's misconduct. *[Dawn](https://www.dawn.com/news/2017050/wifes-right-to-dower-remains-protected-if-marriage-is-dissolved-due-to-husbands-misconduct-lhc)*
+- Clerics from various mainstream schools of thought offered **joint prayers** in an effort to promote religious tolerance. *[Dawn](https://www.dawn.com/news/2017171/clerics-from-different-sects-offer-joint-prayers)*
+- Recent reports indicate a significant **decline in crime and terrorism** within the Sindh province. *[ARY](https://arynews.tv/crime-and-terrorism-in-sindh-see-major-decline)*
 
 ### International
-- Iran's president has declared that the country is engaged in a "full-scale war" with the United States following expanded US strikes. *[Dawn](https://www.dawn.com/news/2016977/iran-says-fighting-full-scale-war-with-united-states)*
-- US air strikes on infrastructure in southern Iran have reportedly deepened economic hardships for local residents. *[Dawn](https://www.dawn.com/news/2017049/us-attacks-deepen-hardship-not-dissent-in-irans-south)*
-- Gulf nations have called for an urgent return to diplomacy to prevent the US-Iran confrontation from escalating into a regional war. *[Dawn](https://www.dawn.com/news/2016864/gulf-states-appeal-for-return-to-talks-as-us-iran-trade-blows)*
-- Protests occurred in Delhi, with demonstrators demanding statehood for occupied Kashmir and the resignation of the Education Minister over exam irregularities. *[Dawn](https://www.dawn.com/news/2017041/hundreds-protest-in-delhi-demanding-statehood-for-occupied-kashmir)*, *[Dawn](https://www.dawn.com/news/2016990/indian-police-fire-tear-gas-baton-charge-cockroach-janta-party-protesters-trying-to-march-on-parliament)*
+- Iranian Foreign Minister **Abbas Araghchi** identified peace and security as the primary goals for strengthening relations with Pakistan. *[Dawn](https://www.dawn.com/news/2017147/araghchi-identifies-peace-security-as-key-goals-in-relations-with-islamabad)*
+- Iran's Interior Minister **Eskandar Momeni** arrived in Islamabad for high-level official meetings. *[Dawn](https://www.dawn.com/news/2017051/irans-interior-minister-eskandar-momeni-arrives-in-pakistan)*
+- Former FM Khurshid Mahmud Kasuri emphasized that **peaceful co-existence** between Pakistan, India, and China is vital for regional prosperity. *[Dawn](https://www.dawn.com/news/2017164/better-ties-vital-for-pak-india-china-prosperity-ex-fm-khurshid-mahmud-kasuri)*
+- US President **Donald Trump** stated that Israeli PM Benjamin Netanyahu would not face arrest during the upcoming UN summit in New York. *[Dawn](https://www.dawn.com/news/2017066/trump-dismisses-ny-mayor-mamdanis-threat-to-arrest-netanyahu)*
+- Yemen's **Houthi rebels** have declared a maritime blockade against Saudi Arabia. *[Dawn](https://www.dawn.com/news/2016977/yemens-houthis-declare-maritime-blockade-of-saudi-arabia)*
+- President Trump has warned that **Iran will pay** consequences following attacks that resulted in US troop deaths. *[ARY](https://arynews.tv/new-strikes-as-trump-warns-iran-will-pay-for-us-troop-deaths)*
 
 ### Sports
-- Spain's FIFA World Cup winning team has returned to Madrid ahead of a planned victory parade. *[Dawn](https://www.dawn.com/news/2017043/fifa-world-cup-heroes-spain-return-home-ahead-of-victory-parade)*, *[ARY](https://arynews.tv/spains-world-cup-heroes-return-home-ahead-of-victory-parade)*
-- Legendary former Liverpool and England football star Keegan has passed away at the age of 75. *[ARY](https://arynews.tv/legendary-former-liverpool-and-england-star-keegan-dies-aged-75)*
-- Reports indicate that a comment made by Gavi sparked a brawl during the World Cup. *[ARY](https://arynews.tv/gavis-comment-to-paredes-that-sparked-a-world-cup-brawl)*
-
-### Health
-- Salman Khan has addressed concerns regarding his health following the circulation of a viral video clip. *[ARY](https://arynews.tv/salman-khan-speaks-up-on-health-after-viral-clip)*
+- **Spain** has been crowned FIFA World Cup champions following a victory over Argentina, sparking massive celebrations in Madrid. *[Dawn](https://www.dawn.com/news/2017043/fifa-world-cup-heroes-spain-return-home-ahead-of-victory-parade)* | *[ARY](https://arynews.tv/spain-gives-royal-welcome-to-world-cup-champions)*
+- **Lionel Messi** has broken his silence regarding Argentina's loss in the World Cup final. *[ARY](https://arynews.tv/lionel-messi-breaks-silence-on-argentinas-world-cup-final-loss)*
 
 ### Other
-- Larry the cat, the UK's famous resident of 10 Downing Street, "welcomed" the new Prime Minister. *[Dawn](https://www.dawn.com/news/2017026/politicians-come-and-go-larry-the-cat-welcomes-7th-prime-minister)*
-- A new trailer for "Avengers: Doomsday" has been released, featuring the crossover of the Avengers and X-Men. *[ARY](https://arynews.tv/avengers-doomsday-trailer-dr-doom-first-look)*
-- Holly Willoughby has announced the launch of a new YouTube show. *[ARY](https://arynews.tv/holly-willoughby-announces-new-youtube-show)*
+- Two expeditions successfully achieved summits at **Broad Peak** and **Khosar Gang**. *[Dawn](https://www.dawn.com/news/2017149/two-expeditions-succeed-in-summit-bids)*
+- **Hailey Bieber** was seen attending a World Cup afterparty for Justin Bieber. *[ARY](https://arynews.tv/hailey-bieber-slays-in-scarlet-dress-for-justins-world-cup-afterparty)*
+- Information was released regarding **overtime pay and worker rights** under Oman's labor laws. *[ARY](https://arynews.tv/overtime-pay-and-rights-under-omans-labor-law-what-workers-need-to-know)*
+- **Queen Camilla** has stepped up her support for various homelessness charities. *[ARY](https://arynews.tv/queen-camilla-steps-up-support-for-homelessness-charities-alongside-prince-williams-initiative)*
+- Entertainment updates include **Rachel Zegler** and **Penn Badgley** attending an Ariana Grande concert. *[ARY](https://arynews.tv/rachel-zegler-joins-penn-badgley-at-ariana-grande-concert)*
 
