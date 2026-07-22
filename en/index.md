@@ -4,44 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-Jul-2026 21:03PKT
+Published at: 22-Jul-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Pakistan Stock Exchange’s KSE-100 index made marginal gains of 0.12%, closing at 176,133.56 points amid uncertainty in global energy markets. *[Dawn](https://www.dawn.com/news/2017214/kse-100-makes-marginal-gains-as-global-energy-uncertainty-weighs-on-early-rally)*
-- US technology firm Honeywell Technologies proposed a plan to modernize and expand Pakistan’s refinery sector during a meeting with Finance Minister Muhammad Aurangzeb. *[Dawn](https://www.dawn.com/news/2017217/us-technology-firm-proposes-refinery-modernisation-plan-for-pakistan-in-meeting-with-finance-minister)*
+- Finance Minister Muhammad Aurangzeb has requested a **$10 billion Exchange Stabilisation Support Facility** from the US Treasury to strengthen Pakistan's economy. *[Dawn](https://www.dawn.com/news/2017402/aurangzeb-seeks-10bn-support-facility-from-us)*
+- The government has increased the price of petrol by **Rs4.93** and high-speed diesel by **Rs7.15** per litre due to global price fluctuations. *[Dawn](https://www.dawn.com/news/2017311/govt-increases-petrol-price-by-rs493-diesel-by-rs715-per-litre)*
+- The All Pakistan Petrol Pumps Owners Association (APPPOA) has announced a **nationwide strike** following failed negotiations with the government over daily fuel pricing. *[Dawn](https://www.dawn.com/news/2017314/petrol-pump-owners-announce-nationwide-strike-after-talks-with-govt-over-daily-pricing-fail)*
+- An analysis suggests that merging the Board of Investment (BOI) and the Special Investment Facilitation Council (SIFC) presents an opportunity to reform Pakistan's investment climate. *[Dawn](https://www.dawn.com/news/2017454/investment-promotion)*
+- The federal government has notified the **new 2026 pay scales** for public servants. *[ARY](https://arynews.tv/federal-government-notifies-new-2026-pay-scales-for-public-servants)*
 
 ### Science & Technology
-- Prime Minister Shehbaz Sharif launched the **Prime Minister Office System (PMOS)**, an AI-based digitisation platform intended to modernize governance by replacing paper-based workflows. *[Dawn](https://www.dawn.com/news/2017285/pm-shehbaz-launches-first-ai-based-digitisation-platform-to-replace-paper-based-work-in-pmo)*
-- Google has updated its **lightweight Gemini models**, though the release of its flagship model continues to face delays. *[ARY](https://arynews.tv/google-updates-lightweight-gemini-models-but-flagship-still-delayed)*
-
-### Weather
-- Torrential monsoon rains in Khyber Pakhtunkhwa have killed 12 people and injured 18, prompting a nationwide warning for flash floods, landslides, and urban flooding. *[Dawn](https://www.dawn.com/news/2017248/monsoon-rains-kill-12-in-kp-in-past-3-days-nationwide-flood-warning-issued)*
+- Prime Minister Shehbaz Sharif launched an **AI-based digitisation platform** (PMOS) for the Prime Minister’s Office to modernize governance and replace paper-based work. *[Dawn](https://www.dawn.com/news/2017285/pm-shehbaz-launches-first-ai-based-digitisation-platform-to-replace-paper-based-work-in-pmo)*
+- NADRA has introduced a new **self-service facility** for the public. *[ARY](https://arynews.tv/nadra-introdroduces-self-service-facility-to-people)*
 
 ### Politics
-- PML-N leader Nawaz Sharif formally launched the party's election campaign in Azad Jammu and Kashmir (AJK). *[Dawn](https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-partys-election-campaign-in-ajk)*
-- The AJK Election Commission announced that regional elections will be held in three phases, starting July 27 and concluding on August 10. *[Dawn](https://www.dawn.com/news/2017254/ajk-election-commissioner-says-polls-to-be-held-in-three-phases-beginning-july-27)*
-- Jamaat-i-Islami announced a nationwide highway blockade and sit-ins for August 7 to protest the government's petroleum and carbon levy. *[Dawn](https://www.dawn.com/news/2017280/jamaat-i-islami-announces-nationwide-road-blockade-against-petroleum-levy)*
-- Nawaz Sharif made lighthearted remarks regarding the possibility of being appointed as the AJK Prime Minister. *[ARY](https://arynews.tv/nawaz-sharif-jokes-about-becoming-ajk-pm)*
+- The PML-N has officially launched its **election campaign in Azad Jammu and Kashmir (AJK)**, with Nawaz Sharif addressing supporters in Muzaffarabad. *[Dawn](https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-party-s-election-campaign-in-ajk)*
+- Jamaat-i-Islami has announced a **nationwide highway blockade** and sit-ins for August 7 to protest the petroleum levy and inflation. *[Dawn](https://www.dawn.com/news/2017280/jamaat-i-islami-announces-nationwide-road-blockade-against-petroleum-levy)*
+- Legal and constitutional debates continue regarding Khyber Pakhtunkhwa's petition for its share of tax revenues following the Fata merger. *[Dawn](https://www.dawn.com/news/2017458/frozen-award)*
 
 ### National
-- A Lahore sessions court granted post-arrest bail to podcast host Rehan Tariq in a case involving blasphemy laws and the Prevention of Electronic Crimes Act. *[Dawn](https://www.dawn.com/news/2017270/court-grants-post-arrest-bail-to-podcast-host-rehan-tariq-in-blasphemy-case)*
-- The family of a Nadra assistant director, Fayyaz Ahmed Janjhi, has approached the police following his disappearance in Karachi. *[Dawn](https://www.dawn.com/news/2017263/nadra-official-goes-missing-in-karachi-family-approaches-police-for-his-recovery)*
-- The Supreme Court adjourned the hearing regarding the sentence suspension plea for Imaan Zainab Mazari-Hazir and her husband, Hadi Ali Chattha. *[Dawn](https://www.dawn.com/news/2017251/sc-adjourns-hearing-on-imaan-hadis-plea-against-ihc-decision-on-sentence-suspension)*
-- PM Shehbaz Sharif met with Gilgit-Baltistan Chief Minister Amjad Hussain, affirming the federal government's commitment to the region's welfare. *[Dawn](https://www.dawn.com/news/2017241/centre-committed-to-working-closely-with-gb-government-pm-tells-cm-amjad-hussain)*
-- Three excise officials were abducted at gunpoint following an attack on a checkpost in Balochistan's Chagai district. *[Dawn](https://www.dawn.com/news/2017233/3-excise-officials-kidnapped-after-attack-on-checkpost-in-balochistans-chagai-police-sources)*
-- An analytical report addressed the historical debate surrounding Balochistan's accession to Pakistan. *[Dawn](https://www.dawn.com/news/2017250/setting-the-record-straight-on-balochistans-accession-and-charting-a-path-for-its-future)*
+- A Senate panel expressed concern regarding the potential **diversion of flood rehabilitation funds** in Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2017399/senate-panel-concerned-over-diversion-of-flood-rehabilitation-funds-in-kp)*
+- Non-bailable arrest warrants have been issued for **KP Chief Minister Sohail Afridi** after he repeatedly failed to appear in court. *[Dawn](https://www.dawn.com/news/2017406/arrest-warrants-out-for-kp-cm-afridi-over-failure-to-appear-in-court)*
+- Punjab has recorded the highest number of reported **threats against journalists** in Pakistan between April and June 2026. *[Dawn](https://www.dawn.com/news/2017436/punjab-leads-tally-for-cases-involving-threats-to-journalists)*
+- A sessions court granted post-arrest bail to podcast host **Rehan Tariq** in a blasphemy and cybercrime case. *[Dawn](https://www.dawn.com/news/2017270/court-grants-post-arrest-bail-to-podcast-host-rehan-tariq-in-blasphemy-case)*
+- The Lahore High Court confirmed the **death sentences** of two convicts involved in the 2020 motorway gang-rape case. *[Dawn](https://www.dawn.com/news/2017293/lhc-confirms-death-sentences-of-convicts-in-motorway-gang-rape-case)*
+- Rising security clashes in **Balochistan** have highlighted a deepening crisis and a loss of public trust in the province. *[Dawn](https://www.dawn.com/news/2017455/the-balochistan-tragedy)*
 
 ### International
-- Iran’s Interior Minister met with Pakistan's PM and CDF in Islamabad to discuss bilateral security and regional border management. *[Dawn](https://www.dawn.com/news/2017273/iranian-interior-minister-meets-pm-shehbaz-cdf-munir-in-islamabad)*
-- Indian opposition leader Rahul Gandhi, along with Priyanka Gandhi and Akhilesh Yadav, was detained by Delhi Police during a protest outside the Prime Minister's residence. *[Dawn](https://www.dawn.com/news/2017219/indian-opposition-leader-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest)*
-- An Indian tourist was sentenced to over two years in a Singapore jail for a failed attempt to steal a diamond by hiding it in an accomplice's mouth. *[Dawn](https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft)*
-- The Saudi Ministry of Haj and Umrah launched a **multiple-entry Umrah visa** with one-year validity, allowing pilgrims to visit the kingdom multiple times. *[Dawn](https://www.dawn.com/news/2017249/saudi-govt-launches-multiple-entry-umrah-visa-with-one-year-validity)*
-- Tensions escalated in the Gulf as Iran targeted US military assets following a series of US strikes on Iranian territory. *[Dawn](https://www.dawn.com/news/2017211/iran-targets-american-military-assets-in-gulf-warns-of-more-attacks-as-us-strikes-iran-for-10th-consecutive-day)*
-- UK Prime Minister Andy Burnham has reshaped his cabinet, appointing new officials and removing several senior figures. *[Dawn](https://www.dawn.com/news/2017300/who-is-who-in-uk-pm-andy-burnhams-new-cabinet)*
-- Dr. Asif Mahmood, a physician of Pakistani origin, has been elected as the chair of the **United States Commission on International Religious Freedom (USCIRF)**. *[Dawn](https://www.dawn.com/news/2017231/pakistan-origin-physician-asif-mahmood-elected-chair-of-us-commission-on-religious-freedom)*
+- US senators have introduced the **Stop Transnational Repression Act of 2026** to criminalize efforts by foreign governments to intimidate activists in the US. *[Dawn](https://www.dawn.com/news/2017401/india-scrutiny-fuels-us-push-to-criminalise-foreign-repression)*
+- New York Mayor Zohran Mamdani called on US federal officials to act on the **ICC arrest warrant for Benjamin Netanyahu**. *[Dawn](https://www.dawn.com/news/2017473/he-is-a-war-criminal-mamdani-says-ny-cannot-arrest-netanyahu-on-icc-warrant-urges-us-federal-officials-to-step-in)*
+- The French parliament is set to approve a bill **banning social media access** for children under the age of 15. *[Dawn](https://www.dawn.com/news/2017321/french-parliament-backs-social-media-ban-for-under-15s)*
+- Indian opposition leader **Rahul Gandhi** and other leaders were detained in Delhi during protests against the current administration. *[Dawn](https://www.dawn.com/news/2017219/indian-opposition-leader-rahul-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest)*
+- An Indian tourist was sentenced to over two years in prison in Singapore for a failed **diamond theft** attempt. *[Dawn](https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft)*
+- Senator Marco Rubio stated that the US remains willing to negotiate regarding the **Iran crisis**. *[ARY](https://arynews.tv/marco-rubio-says-us-still-willing-to-negotiate-over-iran-crisis)*
+- The Pentagon reported that the **war in Iran** has cost the United States $37.5 billion to date. *[ARY](https://arynews.tv/iran-war-has-cost-the-us-37-5-billion-so-far-pentagon-say)*
+
+### Sports
+- The Portland Timbers have appointed **Marti Cifuentes** from Spain as their new coach. *[ARY](https://arynews.tv/timbers-name-spains-marti-cifuentes-as-new-coach)*
+
+### Health
+- The number of children infected with **HIV/AIDS** at Karachi's Valika Hospital has risen to 94, prompting an ombudsman-ordered audit. *[Dawn](https://www.dawn.com/news/2017375/16-more-children-found-infected-with-hiv-at-karachis-valika-hospital-ombudsman-told)*
 
 ### Other
-- Actress Kaylee Hottle, known for her roles in the *Godzilla* film franchise, has passed away at the age of 18 following a car accident. *[ARY](https://arynews.tv/godzilla-vs-kong-star-kaylee-hottle-dead-at-18-after-car-crash)*
+- YouTuber **MrBeast** married his longtime girlfriend, Thea Booysen, in an intimate island wedding. *[ARY](https://arynews.tv/mrbeast-marries-longtime-girlfriend-thea-booysen-in-intimate-island-wedding)*
+- **IShowSpeed’s** Instagram Reel meeting the group BTS set a record with 300 million views in 24 hours. *[ARY](https://arynews.tv/ishowspeeds-instagram-reel-of-meeting-bts-sets-new-record)*
+- Singer **Arijit Singh** has made a surprise return to playback singing. *[ARY](https://arynews.tv/arijit-singh-makes-surprise-return-to-playback-singing)*
+- Hollywood attention has been drawn to **Jennifer Aniston** following a book event for Jim Curtis. *[ARY](https://arynews.tv/jennifer-anistons-role-in-boyfriend-jim-curtis-book-event-sparks-hollywood-buzz)*
+- **Zendaya and Tom Holland** made a public appearance at the premiere of *Spider-Man: Brand New Day*. *[ARY](https://arynews.tv/zendaya-tom-holland-turn-heads-at-spider-man-brand-new-day-premiere)*
 
