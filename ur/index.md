@@ -7,50 +7,41 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 22-Jul-2026 09:10PKT 
+ &lrm; 22-Jul-2026 21:08PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- وزیر خزانہ محمد اورنگزیب نے معیشت کو مستحکم کرنے کے لیے امریکہ سے 10 ارب ڈالر کی امدادی سہولت کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2017402/aurangzeb-seeks-10bn-support-facility-from-us)*
-- حکومت نے عالمی قیمتوں میں اتار چڑھاؤ کے باعث پیٹرول کی قیمت میں 4.93 روپے اور ڈیزل میں 7.15 روپے اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017311/govt-increases-petrol-price-by-rs493-diesel-by-rs715-per-litre)*
-- پیٹرول پمپ مالکان نے حکومت کے ساتھ روزانہ قیمتوں کے تعین کے حوالے سے مذاکرات ناکام ہونے کے بعد ملک گیر ہڑتال کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017314/petrol-pump-owners-announce-nationwide-strike-after-talks-with-govt-over-daily-pricing-fail)*
-- سرمایہ کاری کے فروغ کے لیے بورڈ آف انویسٹمنٹ اور ایس آئی ایف سی کے الحاق اور اصلاحات کے حوالے سے تجاویز پر بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2017454/investment-promotion)*
-- وفاقی حکومت نے سرکاری ملازمین کے لیے نئے 2026 کے پے اسکیلز کا نوٹیفیکیشن جاری کر دیا ہے۔ *[ARY](https://arynews.tv/federal-government-notifies-new-2026-pay-scales-for-public-servants)*
+- پیٹرول پمپ مالکان نے پیٹرولیم وزیر سے مذاکرات کے بعد ملک گیر ہڑتال دو ہفتوں کے لیے ملتوی کر دی۔ *[Dawn](https://www.dawn.com/news/2017561/petrol-pump-owners-defer-strike-call-after-talks-with-petroleum-minister)*
+- ایس اینڈ پی گلوبل ریٹنگز نے پاکستان کی ملکی کریڈٹ ریٹنگ کو 'B-' سے بڑھا کر 'B' کر دیا ہے اور معاشی استحکام کی توقع ظاہر کی ہے۔ *[Dawn](https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b)*
 
 ### سائنس اور ٹیکنالوجی
-- وزیراعظم شہباز شریف نے وزیراعظم آفس کے کاموں کو کاغذی نظام سے نکال کر ڈیجیٹل بنانے کے لیے AI پر مبنی پلیٹ فارم کا آغاز کیا۔ *[Dawn](https://www.dawn.com/news/2017285/pm-shehbaz-launches-first-ai-based-digitisation-platform-to-replace-paper-based-work-in-pmo)*
+- وزیر اعظم شہباز شریف نے کہا ہے کہ دفاعی شعبے میں مقامی خود مختار صلاحیتوں کا فروغ پاکستان کے قومی دفاع کا لازمی حصہ ہے۔ *[Dawn](https://www.dawn.com/news/2017529/pakistans-progress-in-indigenous-autonomous-capabilities-an-integral-part-of-national-defence-pm-shehbaz)*
+
+### موسم
+- پنجاب کے مختلف شہروں میں موسلا دھار بارشوں کا سلسلہ جاری ہے، جس میں لاہور میں 123 ملی میٹر بارش ریکارڈ کی گئی۔ *[Dawn](https://www.dawn.com/news/2017532/intermittent-heavy-rain-hits-punjab-cities-lahore-receives-123mm)*
+- خیبر پختونخوا میں بارش اور سیلاب سے ہونے والی ہلاکتوں کی تعداد بڑھ کر 20 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2017494/rain-related-fatalities-during-ongoing-monsoon-spell-rise-to-20-in-kp)*
 
 ### سیاست
-- مسلم لیگ (ن) نے آزاد جموں و کشمیر میں اپنی انتخابی مہم کا باقاعدہ آغاز کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017265/pml-n-supremo-nawaz-kicks-off-party-s-election-campaign-in-ajk)*
-- جماعت اسلامی نے پیٹرولیم لیوی کے خلاف ملک گیر احتجاج اور شاہراہیں بلاک کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017280/jamaat-i-islami-announces-nationwide-road-blockade-against-petroleum-levy)*
+- پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری نے آزاد جموں و کشمیر کے آئندہ انتخابات کو خطے کی تاریخ کے اہم ترین انتخابات قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017539/ppp-chairman-calls-upcoming-ajk-elections-most-significant-in-history)*
+- گلگت بلتستان کے نئے چیف منسٹر امجد حسین نے اپنی کابینہ کے لیے پی پی پی اور آئی پی پی کے 12 ارکان کا انتخاب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2017537/newly-sworn-in-gb-cm-picks-8-ppp-4-ipp-assembly-members-to-join-his-cabinet-as-ministers)*
 
-### قومی
-- سینٹ کی کمیٹی نے خیبر پختونخوا میں سیلاب سے متاثرہ علاقوں کی بحالی کے لیے فنڈز کے ممکنہ غلط استعمال پر تشویش کا اظہار کیا۔ *[Dawn](https://www.dawn.com/news/2017399/senate-panel-concerned-over-diversion-of-flood-rehabilitation-funds-in-kp)*
-- عدالت نے خیبر پختونخوا کے وزیر اعلیٰ سہیل آفریدی کے خلاف غیر ضمانتی گرفتاری کے وارنٹ جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2017406/arrest-warrants-out-for-kp-cm-afridi-over-failure-to-appear-in-court)*
-- پنجاب میں صحافیوں کے خلاف دھمکیوں کے واقعات میں اضافہ ہوا ہے، جہاں پنجاب اس فہرست میں سب سے آگے ہے۔ *[Dawn](https://www.dawn.com/news/2017436/punjab-leads-tally-for-cases-involving-threats-to-journalists)*
-- لاہور ہائی کورٹ نے موٹر وے ریپ کیس کے دو مجرموں کی سزائے موت کو برقرار رکھا ہے۔ *[Dawn](https://www.dawn.com/news/2017293/lhc-confirms-death-sentences-of-convicts-in-motorway-gang-rape-case)*
-- نادرا نے عوام کی سہولت کے لیے خودکار سروس (self-service) کی سہولت متعارف کرائی ہے۔ *[ARY](https://arynews.tv/nadra-introdroduces-self-service-facility-to-people)*
-- بلوچستان میں سیکورٹی فورسز اور دہشت گرد گروہوں کے درمیان بڑھتے ہوئے تصادم اور سیاسی بحران پر تشویش کا اظہار کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017455/the-balochistan-tragedy)*
+### قومی خبریں
+- بلوچستان کے اضلاع سوراب اور مستونگ میں فوجی آپریشن کے دوران 10 دہشت گرد ہلاک اور دو خواتین بمبار سمیت ان کے سہولت کار کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2017521/10-terrorists-killed-2-female-suicide-bombers-and-their-facilitator-apprehended-in-balochistan-operations-ispr)*
+- ایف آئی اے نے کراچی میں افغان شہریوں کے لیے جعلی دستاویزات تیار کرنے کے الزام میں نادرا کے افسران سمیت 4 افراد کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2017505/fia-says-nadra-officials-among-4-arrested-for-allegedly-producing-fake-documents-for-afghan-nationals)*
+- بہاولنگر میں 12 افراد کے ہاتھوں زیادتی کا نشانہ بننے والا نوجوان زخموں کی تاب نہ لاتے ہوئے دم توڑ گیا۔ *[Dawn](https://www.dawn.com/news/2017352/youth-raped-by-12-men-succumbs-to-injuries-in-bahawalnagar)*
 
 ### بین الاقوامی
-- امریکی سینیٹرز نے غیر ملکی حکومتوں کی جانب سے سیاسی مخالفین کو ہراساں کرنے کے خلاف ایک نیا قانون پیش کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017401/india-scrutiny-fuels-us-push-to-criminalise-foreign-repression)*
-- نیویارک کے میئر نے بین الاقوامی فوجداری عدالت کے وارنٹ کے حوالے سے نیٹن یاہو کی گرفتاری کے لیے وفاقی حکام سے مداخلت کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2017473/he-is-a-war-criminal-mamdani-says-ny-cannot-arrest-netanyahu-on-icc-warrant-urges-us-federal-officials-to-step-in)*
-- فرانسیسی پارلیمنٹ نے 15 سال سے کم عمر بچوں کے لیے سوشل میڈیا کے استعمال پر پابندی کے بل کی حمایت کی۔ *[Dawn](https://www.dawn.com/news/2017321/french-parliament-backs-social-media-ban-for-under-15s)*
-- بھارتی اپوزیشن رہنما راہول گاندھی اور ان کی بہن پر احتجاج کے دوران پولیس نے حراست کر لیا۔ *[Dawn](https://www.dawn.com/news/2017219/indian-opposition-leader-rahul-gandhi-arrested-outside-pm-modis-delhi-residence-amid-mass-protest)*
-- سنگاپور کی عدالت نے ایک بھارتی سیاح کو ہیرا چرانے کی کوشش میں دو سال سے زائد قید کی سزا سنائی ہے۔ *[Dawn](https://www.dawn.com/news/2017279/diamond-smile-singapore-jails-indian-man-for-gem-in-mouth-theft)*
-- امریکہ نے ایران کے بحران پر مذاکرات کے لیے آمادگی کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/marco-rubio-says-us-still-willing-to-negotiate-over-iran-crisis)*
-- پینٹاگون کے مطابق ایران میں جنگ کی وجہ سے امریکہ کو اب تک 37.5 ارب ڈالر کا نقصان ہو چکا ہے۔ *[ARY](https://arynews.tv/iran-war-has-cost-the-us-37-5-billion-so-far-pentagon-say)*
-
-### کھیل
-- ٹمبرز نے سپین کے کوچ مارٹی سیفیوانٹس کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/timbers-name-spains-marti-cifuentes-as-new-coach)*
-
-### صحت
-- کراچی کے ولیکا ہسپتال میں مزید 16 بچوں کے ایچ آئی وی (HIV) سے متاثر ہونے کی اطلاعات ملی ہیں۔ *[Dawn](https://www.dawn.com/news/2017375/16-more-children-found-infected-with-hiv-at-karachis-valika-hospital-ombudsman-told)*
+- پاکستان نے حوثی باغیوں کی سعودی عرب کو دھمکیوں کی مذمت کی ہے اور اپنے سمندری مفادات کے تحفظ کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017517/islamabad-condemns-houthis-threats-to-riyadh-warns-against-targeting-pakistani-maritime-interests)*
+- آسٹریا میں ایڈولف ہٹلر کے پیدائشی گھر کو پولیس اسٹیشن میں تبدیل کر دیا گیا ہے تاکہ انتہا پسندوں کی آمد کو روکا جا سکے۔ *[Dawn](https://www.dawn.com/news/2017557/hitlers-austrian-birthplace-transformed-into-police-station)*
+- جیفری ایپسٹین سے وابستہ فرانسیسی ماڈلنگ اسکاؤٹ ڈینیئل سیاد اپنے گھر میں مردہ پائے گئے۔ *[Dawn](https://www.dawn.com/news/2017550/french-modelling-scout-with-links-to-epstein-found-dead)*
+- بین الاقوامی فوجداری عدالت (ICC) کے ارکان چیف پراسیکیوٹر کریم خان کے خلاف بدنیتی کے الزامات پر ووٹنگ کریں گے۔ *[Dawn](https://www.dawn.com/news/2017553/international-criminal-courts-members-to-vote-on-firing-prosecutor-khan-over-alleged-misconduct)*
+- امریکہ کی جانب سے ایرانی جزیرہ لارک پر میزائل حملہ کیا گیا ہے، جس سے ہرمز کے مقام پر کشیدگی میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2017566/irans-gulf-islands-targets-in-latest-fight-over-hormuz)*
+- میڈیا رپورٹس کے مطابق، امریکہ سعودی عرب کے ساتھ شہری ایٹمی پروگرام کے حوالے سے ایک معاہدے کا اعلان کر سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2017477/washington-plans-to-announce-nuclear-agreement-with-riyadh-us-media-reports)*
+- امریکہ کی جانب سے ایران پر مسلسل حملوں کے باعث تہران میں فضائی دفاعی نظام متحرک ہو گیا۔ *[Dawn](https://www.dawn.com/news/2017476/us-continues-strikes-on-iran-for-11-consecutive-night-triggering-air-defences-in-tehran)*
+- بھارتی وزیر تعلیم نے طلبہ کے احتجاج کے بعد امتحانی اصلاحات کا وعدہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017492/under-soaring-pressure-after-cockroach-movement-protests-indias-education-minister-promises-reforms-debate)*
+- امریکی وزیر خارجہ مارکو روبیو نے چینی وزیر خارجہ وانگ ای سے علاقائی مسائل پر ملاقات کی۔ *[Dawn](https://www.dawn.com/news/2017513/rubio-holds-talks-with-chinas-wang-yi-as-regional-powers-join-asean-meeting)*
 
 ### دیگر
-- مشہور یوٹیوبر مس بیسٹ نے اپنی گرل فرینڈ تھی بوائسن سے شادی کر لی ہے۔ *[ARY](https://arynews.tv/mrbeast-marries-longtime-girlfriend-thea-booysen-in-intimate-island-wedding)*
-- آئی شو سپیڈ (IShowSpeed) کی بی ٹی ایس (BTS) سے ملاقات کی انسٹاگرام ریل نے نیا ریکارڈ قائم کر دیا۔ *[ARY](https://arynews.tv/ishowspeeds-instagram-reel-of-meeting-bts-sets-new-record)*
-- گلوکار اجیت سنگھ کی گلوکاری میں واپسی کی خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/arijit-singh-makes-surprise-return-to-playback-singing)*
-- ہالی وڈ میں جینیفر اینسٹن اور دیگر ستاروں کے حوالے سے مختلف خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/jennifer-anistons-role-in-boyfriend-jim-curtis-book-event-sparks-hollywood-buzz)*
+- جنوبی کوریا کے ایک مائشیلن اسٹار ریسٹورنٹ کے مالک کو کھانے میں کالی چیونٹیاں استعمال کرنے کے باعث جیل کا سامنا ہو سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2017551/owner-of-south-korea-michelin-starred-restaurant-faces-jail-for-ant-sorbet)*
 
