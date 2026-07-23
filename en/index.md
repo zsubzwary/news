@@ -4,53 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Jul-2026 21:03PKT
+Published at: 23-Jul-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petrol pump owners have deferred their nationwide strike for two weeks following negotiations with the petroleum minister. *[Dawn](https://www.dawn.com/news/2017561/petrol-pump-owners-defer-strike-call-after-talks-with-petroleum-minister)*
-- Petrol pump owners have officially postponed the nationwide strike call. *[ARY](https://arynews.tv/petrol-pumps-strike-postpone-nationwide)*
-- S&P Global Ratings has upgraded Pakistan's long-term sovereign credit rating to 'B' from 'B-', citing macroeconomic stabilization. *[Dawn](https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b)*
+- The government increased petrol prices by Rs6.39 and diesel by Rs7.83 per litre to offset global price fluctuations. *[Dawn](https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs639-diesel-by-rs783-per-litre)*
+- S&P Global Ratings upgraded Pakistan's sovereign credit rating to 'B' from 'B-', citing macroeconomic stabilization. *[Dawn](https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b)*
+- US Treasury Secretary Scott Bessent welcomed Pakistan’s economic reforms and progress toward returning to international capital markets. *[Dawn](https://www.dawn.com/news/2017582/us-treasury-secretary-welcomes-pakistans-economic-reforms-return-to-capital-markets)*
+- Pakistan has invited Samsung to establish a regional manufacturing and export hub for mobile phones. *[Dawn](https://www.dawn.com/news/2017651/samsung-invited-to-make-pakistan-its-export-hub)*
+- An editorial expressed concerns regarding Pakistan's reliance on borrowed dollars to drive economic growth. *[Dawn](https://www.dawn.com/news/2017710/here-come-the-dollars)*
 
 ### Science & Technology
-- Prime Minister Shehbaz Sharif highlighted that Pakistan's progress in indigenous autonomous defense capabilities is an integral part of national security. *[Dawn](https://www.dawn.com/news/2017529/pakistans-progress-in-indigenous-autonomous-capabilities-an-integral-part-of-national-defence-pm-shehbaz)*
+- Samsung launched new, high-end foldable smartphone models with increased costs due to artificial intelligence components. *[Dawn](https://www.dawn.com/news/2017571/samsung-launches-new-more-expensive-foldable-smartphones)*
+- AMD will sell tens of billions of dollars in AI servers to Anthropic and invest up to $5 billion in the company. *[Dawn](https://www.dawn.com/news/2017572/amd-to-sell-anthropic-tens-of-billions-in-ai-servers-invest-up-to-5bn-in-startup)*
+- The FIA has established an official communication channel with Meta to accelerate investigations into cybercrime and online fraud. *[Dawn](https://www.dawn.com/news/2017659/fia-partners-with-meta-to-expedite-cybercrime-investigation)*
+- Elon Musk made significant claims regarding 'The Odyssey'. *[ARY](https://arynews.tv/elon-musk-makes-big-claim-about-the-odyssey)*
 
 ### Weather
-- Intermittent heavy rainfall hit several Punjab cities, with Gujranwala recording a massive 245mm and Lahore 123mm. *[Dawn](https://www.dawn.com/news/2017532/intermittent-heavy-rain-hits-punjab-cities-lahore-receives-123mm)*
-- The death toll from rain-related incidents and flash floods in Khyber Pakhtunkhwa has risen to 20. *[Dawn](https://www.dawn.com/news/2017494/rain-related-fatalities-during-ongoing-monsoon-spell-rise-to-20-in-kp)*
+- Monsoon rains and flash floods have caused significant damage and at least 37 deaths across KP, GB, Punjab, and AJK. *[Dawn](https://www.dawn.com/news/2017677/rains-wreak-havoc-on-kp-gb-and-punjab-as-death-toll-rises-to-37)*
 
 ### Politics
 - PPP Chairman Bilawal Bhutto Zardari described the upcoming Azad Jammu and Kashmir (AJK) elections as the most significant in the region's history. *[Dawn](https://www.dawn.com/news/2017539/ppp-chairman-calls-upcoming-ajk-elections-most-significant-in-history)*
-- Saad Rafique issued a political jibe directed at Bilawal Bhutto Zardari. *[ARY](https://arynews.tv/saad-rafique-takes-jibe-at-bilawal-bhutto)*
-- Essential information regarding the 2026 AJK Legislative Assembly elections has been released. *[ARY](https://arynews.tv/ajk-legislative-assembly-elections-2026-what-you-need-to-know)*
+- An editorial analyzed the chronic instability resulting from Pakistan's shifting political and democratic models. *[Dawn](https://www.dawn.com/news/2017712/democratic-disconnect)*
 
 ### National
-- Gilgit-Baltistan's newly sworn-in Chief Minister Amjad Hussain has appointed 12 ministers to his cabinet, including members from the PPP and IPP. *[Dawn](https://www.dawn.com/news/2017537/newly-sworn-in-gb-cm-picks-8-ppp-4-ipp-assembly-members-to-join-his-cabinet-as-ministers)*
-- Security forces killed 10 terrorists and apprehended two female suicide bombers during operations in Balochistan's Surab and Mastung districts. *[Dawn](https://www.dawn.com/news/2017521/10-terrorists-killed-2-female-suicide-bombers-and-their-facilitator-apprehended-in-balochistan-operations-ispr)*
-- The FIA arrested four suspects, including Nadra officials, for allegedly producing fake documents for Afghan nationals in Karachi. *[Dawn](https://www.dawn.com/news/2017505/fia-says-nadra-officials-among-4-arrested-for-allegedly-producing-fake-documents-for-afghan-nationals)*
-- A young shepherd succumbed to injuries after being gang-raped by 12 men in the Cholistan desert. *[Dawn](https://www.dawn.com/news/2017352/youth-raped-by-12-men-succumbs-to-injuries-in-bahawalnagar)*
-- A recent attack in the Quetta region resulted in three deaths and five injuries. *[ARY](https://arynews.tv/third-attack-in-three-days-hits-quetta-region-3-dead-five-injured)*
-- Details on the procedure for Pakistanis to obtain permanent residency in Belgium have been provided. *[ARY](https://arynews.tv/belgium-permanent-residency-for-pakistanis-full-procedure)*
-- Video footage has emerged revealing how a child was held in Gharo during the Azaan case. *[ARY](https://arynews.tv/azaan-case-video-reveals-how-child-was-kept-in-gharo)*
+- An indefinite curfew was imposed in Mastung’s Khud Kocha following a bus attack and a bridge explosion. *[Dawn](https://www.dawn.com/news/2017589/curfew-imposed-in-mastungs-khud-kocha-after-bus-attack-bridge-blast)*
+- Three suspects in the Dr. Akash murder case were killed during a police encounter in Karachi. *[ARY](https://arynews.tv/dr-akash-murder-three-suspects-killed-in-police-encounter)*
+- Minister Aurangzeb Khichi unveiled the first three volumes of a revised historical Urdu dictionary. *[ARY](https://arynews.tv/minister-aurangzeb-khichi-unveils-first-three-volumes-of-revised-historical-urdu-dictionary)*
 
 ### International
-- Pakistan has condemned Houthi threats to Saudi Arabia and warned it will defend its maritime interests in the Red Sea. *[Dawn](https://www.dawn.com/news/2017517/islamabad-condemns-houthis-threats-to-riyadh-warns-against-targeting-pakistani-maritime-interests)*
-- Austria has converted Adolf Hitler’s former birthplace into a police station to deter far-right extremists. *[Dawn](https://www.dawn.com/news/2017557/hitlers-austrian-birthplace-transformed-into-police-station)*
-- A French modeling scout with ties to Jeffrey Epstein has been found dead near Paris. *[Dawn](https://www.dawn.com/news/2017550/french-modelling-scout-with-links-to-epstein-found-dead)*
-- ICC member states are set to vote on whether to dismiss chief prosecutor Karim Khan following allegations of misconduct. *[Dawn](https://www.dawn.com/news/2017553/international-criminal-courts-members-to-vote-on-firing-prosecutor-khan-over-alleged-misconduct)*
-- A US missile struck the Iranian island of Larak amid ongoing tensions over the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2017566/irans-gulf-islands-targets-in-latest-fight-over-hormuz)*
-- The United States is reportedly planning to announce a civilian nuclear program agreement with Saudi Arabia. *[Dawn](https://www.dawn.com/news/2017477/washington-plans-to-announce-nuclear-agreement-with-riyadh-us-media-reports)*
-- US military strikes on Iran have continued for an 11th consecutive night, targeting military logistics infrastructure. *[Dawn](https://www.dawn.com/news/2017476/us-continues-strikes-on-iran-for-11th-consecutive-night-triggering-air-defences-in-tehran)*
-- India's education minister has promised reforms following youth-led "cockroach" movement protests over exam leaks. *[Dawn](https://www.dawn.com/news/2017492/under-soaring-pressure-after-cockroach-movement-protests-indias-education-minister-promises-reforms-debate)*
-- US Secretary of State Marco Rubio met with China's Foreign Minister Wang Yi during an ASEAN meeting to discuss regional tensions. *[Dawn](https://www.dawn.com/news/2017513/rubio-holds-talks-with-chinas-wang-yi-as-regional-powers-join-asean-meeting)*
-
-### Health
-- Cetirizine allergy tablets have been recalled nationwide due to the risk of Ranitidine contamination. *[ARY](https://arynews.tv/cetirizine-allergy-tablets-recalled-nationwide-over-ranitidine-contamination-risk)*
+- Houthis attacked Saudi Arabian oil tankers in the Red Sea as US military strikes continued in Iran. *[Dawn](https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day)*
+- The United States announced a civilian nuclear deal with Saudi Arabia, including non-proliferation safeguards. *[Dawn](https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards)*
+- Iranian President Pezeshkian called for strengthened Pakistan-Iran relations and increased unity among Muslim countries. *[Dawn](https://www.dawn.com/news/2017654/iranian-president-pezeshkian-calls-for-strengthening-pak-iran-relations)*
+- Pakistan expressed opposition to externally imposed solutions for Syria, advocating for a Syrian-led justice process. *[Dawn](https://www.dawn.com/news/2017641/pakistan-opposes-externally-imposed-solutions-for-syria)*
+- ICC member states are set to vote on whether to remove chief prosecutor Karim Khan following allegations of misconduct. *[Dawn](https://www.dawn.com/news/2017553/international-criminal-courts-members-to-vote-on-firing-prosecutor-khan-over-alleged-misconduct)*
+- The US House passed a $1 trillion defense bill despite concerns regarding Iran and Israel. *[ARY](https://arynews.tv/us-house-passes-1-trillion-defense-bill-despite-iran-israel-concerns)*
+- A US Senate panel approved a bill aimed at cracking down on Chinese vehicles. *[ARY](https://arynews.tv/us-senate-panel-approves-bill-to-crack-down-on-chinese-vehicles)*
+- Diplomatic efforts are underway to de-escalate Middle East tensions through high-level meetings between Iranian and Pakistani officials. *[Dawn](https://www.dawn.com/news/2017707/de-escalation-efforts)*
 
 ### Other
-- A South Korean Michelin-starred restaurant owner faces potential jail time for using black ants in a sorbet. *[Dawn](https://www.dawn.com/news/2017551/owner-of-south-korea-michelin-starred-restaurant-faces-jail-for-ant-sorbet)*
-- Travis Scott has shared details regarding his involvement in ‘The Odyssey’. *[ARY](https://arynews.tv/travis-scott-reveals-how-he-joined-the-odyssey)*
-- Hollywood and the cast of 'Godzilla' are mourning the tragic death of co-star Kaylee Hottle at age 18. *[ARY](https://arynews.tv/millie-bobby-and-hollywood-mourn-godzilla-co-star-kaylee-hottle-following-tragic-death-at-18)*
-- Jennifer Garner has detailed scary experiences with paparazzi involving her children. *[ARY](https://arynews.tv/jennifer-garner-details-scary-paparazzi-moments-involving-kids)*
+- Unesco raised objections to restoration works at Rohtas Fort that may violate international heritage standards. *[Dawn](https://www.dawn.com/news/2017657/rohtas-fort-restoration-works-on-unesco-radar)*
+- A French modelling scout with ties to Jeffrey Epstein was found dead near Paris. *[Dawn](https://www.dawn.com/news/2017550/french-modelling-scout-with-links-to-epstein-found-dead)*
+- 'Harry Potter' fans received a magical surprise to celebrate the franchise's 25th anniversary. *[ARY](https://arynews.tv/harry-potter-fans-gets-magical-surprise-on-its-25th-anniversary)*
+- Selena Gomez celebrated two major milestones during a birthday trip to Italy. *[ARY](https://arynews.tv/selena-gomez-celebrates-two-milestones-during-birthday-getaway)*
+- Tom Holland shared details regarding a trick he mastered for his Spider-Man films. *[ARY](https://arynews.tv/tom-holland-shares-the-witty-spider-man-trick-he-mastered-for-the-big-screen)*
+- Kim Kardashian and Lewis Hamilton have reportedly taken their relationship to the next level. *[ARY](https://arynews.tv/kim-kardashian-and-lewis-hamilton-take-their-relationship-to-the-next-level)*
 
