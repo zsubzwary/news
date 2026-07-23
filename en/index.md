@@ -4,50 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 23-Jul-2026 09:04PKT
+Published at: 23-Jul-2026 21:05PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government increased petrol prices by Rs6.39 and diesel by Rs7.83 per litre to offset global price fluctuations. *[Dawn](https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs639-diesel-by-rs783-per-litre)*
-- S&P Global Ratings upgraded Pakistan's sovereign credit rating to 'B' from 'B-', citing macroeconomic stabilization. *[Dawn](https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b)*
-- US Treasury Secretary Scott Bessent welcomed Pakistan’s economic reforms and progress toward returning to international capital markets. *[Dawn](https://www.dawn.com/news/2017582/us-treasury-secretary-welcomes-pakistans-economic-reforms-return-to-capital-markets)*
-- Pakistan has invited Samsung to establish a regional manufacturing and export hub for mobile phones. *[Dawn](https://www.dawn.com/news/2017651/samsung-invited-to-make-pakistan-its-export-hub)*
-- An editorial expressed concerns regarding Pakistan's reliance on borrowed dollars to drive economic growth. *[Dawn](https://www.dawn.com/news/2017710/here-come-the-dollars)*
+- Pakistan expressed disappointment with the European Union's report regarding GSP+ compliance, stating it underrepresents recent reforms. *[Dawn](https://www.dawn.com/news/2017763/pakistan-disappointed-with-eu-report-on-gsp-compliance-issues-says-it-understates-reforms)*
+- South Korean state-owned company KOEN has complained to the Prime Minister regarding "unfair" regulatory stonewalling of its $1 billion investment plans in Pakistan. *[Dawn](https://www.dawn.com/news/2017816/koe23jl26)*
+- Finance Minister Muhammad Aurangzeb held meetings with IMF officials to review Pakistan's macroeconomic performance and progress. *[Dawn](https://www.dawn.com/news/2017749/finance-minister-reviews-pakistans-macroeconomic-performance-in-meeting-with-imf-officials)*
+- The government has increased petrol prices by Rs6.39 and diesel by Rs7.83 per litre. *[Dawn](https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs639-diesel-by-rs783-per-litre)*
 
 ### Science & Technology
-- Samsung launched new, high-end foldable smartphone models with increased costs due to artificial intelligence components. *[Dawn](https://www.dawn.com/news/2017571/samsung-launches-new-more-expensive-foldable-smartphones)*
-- AMD will sell tens of billions of dollars in AI servers to Anthropic and invest up to $5 billion in the company. *[Dawn](https://www.dawn.com/news/2017572/amd-to-sell-anthropic-tens-of-billions-in-ai-servers-invest-up-to-5bn-in-startup)*
-- The FIA has established an official communication channel with Meta to accelerate investigations into cybercrime and online fraud. *[Dawn](https://www.dawn.com/news/2017659/fia-partners-with-meta-to-expedite-cybercrime-investigation)*
-- Elon Musk made significant claims regarding 'The Odyssey'. *[ARY](https://arynews.tv/elon-musk-makes-big-claim-about-the-odyssey)*
+- Google has been fined €890 million ($1 billion) by the European Union for violating rules intended to regulate Big Tech power. *[Dawn](https://www.dawn.com/news/2017814/google-hit-with-1bn-eu-fine-in-constructive-talks-to-avoid-more-penalties)*
+- Researchers have documented a group of killer whales (orcas) blowing a sunfish to pieces in an unusual display of behavior. *[Dawn](https://www.dawn.com/news/2017825/killer-whales-orcas-blow-fish-to-bits-for-fun-researchers-say)*
 
 ### Weather
-- Monsoon rains and flash floods have caused significant damage and at least 37 deaths across KP, GB, Punjab, and AJK. *[Dawn](https://www.dawn.com/news/2017677/rains-wreak-havoc-on-kp-gb-and-punjab-as-death-toll-rises-to-37)*
+- Heavy monsoon rains in Lahore have caused widespread water accumulation, disrupting traffic and daily life. *[Dawn](https://www.dawn.com/news/2017831/heavy-monsoon-rains-lash-lahore-disrupt-routine-life)*
+- Torrential rains and flash floods in Gilgit-Baltistan have washed away roads and bridges, leaving thousands stranded. *[Dawn](https://www.dawn.com/news/2017826/torrential-rains-disrupt-travel-across-gb-as-floods-wash-away-roads-bridges)*
 
 ### Politics
-- PPP Chairman Bilawal Bhutto Zardari described the upcoming Azad Jammu and Kashmir (AJK) elections as the most significant in the region's history. *[Dawn](https://www.dawn.com/news/2017539/ppp-chairman-calls-upcoming-ajk-elections-most-significant-in-history)*
-- An editorial analyzed the chronic instability resulting from Pakistan's shifting political and democratic models. *[Dawn](https://www.dawn.com/news/2017712/democratic-disconnect)*
+- Donald Trump stated that a US-Saudi civilian nuclear deal is contingent upon Riyadh joining the Abraham Accords and normalizing ties with Israel. *[Dawn](https://www.dawn.com/news/2017738/trump-says-us-saudi-nuclear-deal-subject-to-riyadh-joining-abraham-accords)*
+- Indian Prime Minister Narendra Modi vowed "stringent punishment" for those involved in exam fraud following widespread student protests. *[Dawn](https://www.dawn.com/news/2017750/modi-vows-punishment-for-exam-fraud-in-first-comments-on-indian-student-protests)*
 
 ### National
-- An indefinite curfew was imposed in Mastung’s Khud Kocha following a bus attack and a bridge explosion. *[Dawn](https://www.dawn.com/news/2017589/curfew-imposed-in-mastungs-khud-kocha-after-bus-attack-bridge-blast)*
-- Three suspects in the Dr. Akash murder case were killed during a police encounter in Karachi. *[ARY](https://arynews.tv/dr-akash-murder-three-suspects-killed-in-police-encounter)*
-- Minister Aurangzeb Khichi unveiled the first three volumes of a revised historical Urdu dictionary. *[ARY](https://arynews.tv/minister-aurangzeb-khichi-unveils-first-three-volumes-of-revised-historical-urdu-dictionary)*
+- President Asif Ali Zardari has directed authorities to intensify monsoon preparedness after rain-related deaths reached 43 in Punjab and KP. *[Dawn](https://www.dawn.com/news/2017746/authorities-told-to-step-up-monsoon-preparedness-as-rain-related-deaths-in-punjab-kp-reach-43)*
+- Police claim three suspects arrested in the murder of a JPMC doctor were killed during an exchange of fire with accomplices. *[Dawn](https://www.dawn.com/news/2017795/suspects-arrested-in-jpmc-doctor-murder-case-killed-in-exchange-of-fire-with-accomplices-police-claim)*
+- A District and Sessions Judge and his guard were killed in an armed attack while traveling to Mastung, Balochistan. *[Dawn](https://www.dawn.com/news/2017787/sessions-judge-his-guard-killed-after-vehicles-targeted-en-route-to-mastung)*
+- The Sindh cabinet has approved a relief package for government employees. *[ARY](https://arynews.tv/sindh-cabinet-approves-relief-package-for-government-employees)*
+- CCTV footage has captured gunmen opening fire on a private office near Karachi’s Ayesha Manzil. *[ARY](https://arynews.tv/karachi-ayesha-manzil-cctv-footage-july-23-2026)*
 
 ### International
-- Houthis attacked Saudi Arabian oil tankers in the Red Sea as US military strikes continued in Iran. *[Dawn](https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day)*
-- The United States announced a civilian nuclear deal with Saudi Arabia, including non-proliferation safeguards. *[Dawn](https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards)*
-- Iranian President Pezeshkian called for strengthened Pakistan-Iran relations and increased unity among Muslim countries. *[Dawn](https://www.dawn.com/news/2017654/iranian-president-pezeshkian-calls-for-strengthening-pak-iran-relations)*
-- Pakistan expressed opposition to externally imposed solutions for Syria, advocating for a Syrian-led justice process. *[Dawn](https://www.dawn.com/news/2017641/pakistan-opposes-externally-imposed-solutions-for-syria)*
-- ICC member states are set to vote on whether to remove chief prosecutor Karim Khan following allegations of misconduct. *[Dawn](https://www.dawn.com/news/2017553/international-criminal-courts-members-to-vote-on-firing-prosecutor-khan-over-alleged-misconduct)*
-- The US House passed a $1 trillion defense bill despite concerns regarding Iran and Israel. *[ARY](https://arynews.tv/us-house-passes-1-trillion-defense-bill-despite-iran-israel-concerns)*
-- A US Senate panel approved a bill aimed at cracking down on Chinese vehicles. *[ARY](https://arynews.tv/us-senate-panel-approves-bill-to-crack-down-on-chinese-vehicles)*
-- Diplomatic efforts are underway to de-escalate Middle East tensions through high-level meetings between Iranian and Pakistani officials. *[Dawn](https://www.dawn.com/news/2017707/de-escalation-efforts)*
+- Deputy Prime Minister Ishaq Dar highlighted the Kashmir dispute and threats to Pakistan's water share at the ASEAN Regional Forum. *[Dawn](https://www.dawn.com/news/2017794/kashmir-iwt-among-key-global-challenges-threatening-peaceful-coexistence-dar-tells-asean-moot)*
+- Prime Minister Shehbaz Sharif condemned Houthi attacks on Saudi oil tankers in the Red Sea during a call with the Saudi Crown Prince. *[Dawn](https://www.dawn.com/news/2017781/pm-shehbaz-speaks-to-saudi-crown-prince-condemns-unacceptable-houthi-attack-on-vessels-in-red-sea)*
+- Tensions flared in the Middle East as Houthis attacked Saudi tankers and the US continued strikes in Iran. *[Dawn](https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day)*
+- US military bases in the Middle East have become targets amid ongoing hostilities with Iran. *[Dawn](https://www.dawn.com/news/2017843/what-are-the-main-bases-housing-us-forces-in-the-middle-east)*
+- Pakistan rejected India's claims regarding the Indus Water Treaty (IWT) during a UN Security Council debate. *[Dawn](https://www.dawn.com/news/2017759/pakistan-hits-back-at-indias-attempt-to-distort-facts-says-holding-iwt-in-abeyance-simply-illegal)*
+- The US House of Representatives has voted to halt the war with Iran. *[ARY](https://arynews.tv/us-house-votes-to-halt-iran-war)*
+
+### Sports
+- The Pakistan cricket team is scheduled to tour England in May 2027 for a five-match ODI series. *[Dawn](https://www.dawn.com/news/2017790/pakistan-to-tour-england-next-year-for-5-match-odi-series)*
+- Pundits have warned of potential dressing room consequences if Lionel Messi and Cristiano Ronaldo were to ever team up. *[ARY](https://arynews.tv/messi-and-ronaldo-ever-team-up-pundit-dressing-room-consequences)*
+- India secured a victory over Zimbabwe, highlighted by a maiden half-century from Sooryavanshi. *[ARY](https://arynews.tv/sooryavanshi-hits-maiden-half-century-as-india-thump-zimbabwe)*
 
 ### Other
-- Unesco raised objections to restoration works at Rohtas Fort that may violate international heritage standards. *[Dawn](https://www.dawn.com/news/2017657/rohtas-fort-restoration-works-on-unesco-radar)*
-- A French modelling scout with ties to Jeffrey Epstein was found dead near Paris. *[Dawn](https://www.dawn.com/news/2017550/french-modelling-scout-with-links-to-epstein-found-dead)*
-- 'Harry Potter' fans received a magical surprise to celebrate the franchise's 25th anniversary. *[ARY](https://arynews.tv/harry-potter-fans-gets-magical-surprise-on-its-25th-anniversary)*
-- Selena Gomez celebrated two major milestones during a birthday trip to Italy. *[ARY](https://arynews.tv/selena-gomez-celebrates-two-milestones-during-birthday-getaway)*
-- Tom Holland shared details regarding a trick he mastered for his Spider-Man films. *[ARY](https://arynews.tv/tom-holland-shares-the-witty-spider-man-trick-he-mastered-for-the-big-screen)*
-- Kim Kardashian and Lewis Hamilton have reportedly taken their relationship to the next level. *[ARY](https://arynews.tv/kim-kardashian-and-lewis-hamilton-take-their-relationship-to-the-next-level)*
+- Elizabeth Olsen has addressed rumors regarding her potential return as Wanda in *Avengers: Doomsday*. *[ARY](https://arynews.tv/avengers-doomsday-is-wanda-coming-back-elizabeth-olsen-addresses-rumors)*
+- Kendall Jenner has sparked social media speculation regarding her relationship with Jacob Elordi. *[ARY](https://arynews.tv/kendall-jenner-sparks-jacob-elordi-adorable-social-media-companion)*
+- Cardi B has addressed viral rumors involving Maduka Okoye. *[ARY](https://arynews.tv/cardi-b-addresses-maduka-okoye-rumors-as-ex-girlfriend-drama-goes-viral)*
+- MI5 has been ordered to pay compensation to a former BBC journalist for the unlawful obtaining of phone data. *[ARY](https://arynews.tv/mi5-ordered-to-pay-compensation-to-former-bbc-journalist)*
 
