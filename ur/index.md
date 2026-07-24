@@ -7,40 +7,52 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 23-Jul-2026 09:09PKT 
+ &lrm; 24-Jul-2026 09:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے عالمی قیمتوں میں اتار چڑھاؤ کے باعث پیٹرول کی قیمت میں 6.39 اور ڈیزل کی قیمت میں 7.83 روپے فی لیٹر اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017573/govt-increases-petrol-price-by-rs6.39-diesel-by-rs783-per-litre)*
-- ایس اینڈ پی گلوبل ریٹنگز نے پاکستان کی ملکی کریڈٹ ریٹنگ کو 'B-' سے بڑھا کر 'B' کر دیا ہے، جس کا مطلب ہے کہ پاکستان اب اپنے فوری قرضے ادا کرنے کی بہتر صلاحیت رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2017530/sampp-global-ratings-upgrades-pakistans-sovereign-credit-rating-to-b)*
-- امریکی وزیر خزانہ سکاٹ بیسنٹ نے پاکستان کی معاشی اصلاحات اور بین الاقوامی سرمایہ کاری کی طرف واپسی کے اقدامات کا خیر مقدم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017582/us-treasury-secretary-welcomes-pakistans-economic-reforms-return-to-capital-markets)*
-- سام سنگ کو پاکستان میں موبائل فون کی تیاری اور برآمد کے لیے علاقائی مرکز قائم کرنے کی دعوت دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2017651/samsung-invited-to-make-pakistan-its-export-hub)*
+- امریکہ نے جبری مشقت کے خدشات کے پیش نظر پاکستان سمیت 60 تجارتی شراکت داروں پر نئے ٹیرف عائد کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-partners-including-pakistan-over-forced-labour-concerns)*
+- پٹرول کی قیمت میں 4.40 روپے اور ڈیزل کی قیمت میں 3.62 روپے فی لیٹر اضافہ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre)*
+- پیٹرولیم ڈیلرز کے درمیان اختلافات کی وجہ سے ہڑتال کا اثر محدود رہا اور زیادہ تر پمپ کھلے رہے۔ *[Dawn](https://www.dawn.com/news/2017922/split-among-fuel-dealers-blunts-impact-of-pump-shutdown)*
+- معاشی ترقی کو پالیسی سازوں کے لیے سب سے اہم اور مطلوبہ ہدف قرار دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017942/holy-grail-of-economics)*
+- بحیرہ احمر میں بحری جہازوں پر حملوں کے باعث عالمی سطح پر تیل کی قیمتوں میں اضافے کا امکان ہے۔ *[ARY](https://arynews.tv/oil-set-for-weekly-rise-amid-red-sea-shipping-attacks)*
 
 ### سائنس اور ٹیکنالوجی
-- سام سنگ نے نئے اور مہنگے فولڈ ایبل اسمارٹ فونز متعارف کروا دیے ہیں تاکہ اس مارکیٹ میں اپنی برتری برقرار رکھی جا سکے۔ *[Dawn](https://www.dawn.com/news/2017571/samsung-launches-new-more-expensive-foldable-smartphones)*
-- اے ایم ڈی (AMD)، اینتھروپک (Anthropic) کو اربوں ڈالر کے اے آئی سرورز فروخت کرے گا اور اس میں 5 ارب ڈالر کی سرمایہ کاری کرے گا۔ *[Dawn](https://www.dawn.com/news/2017572/amd-to-sell-anthropic-tens-of-billions-in-ai-servers-invest-up-to-5bn-in-startup)*
-- فیڈرل انویسٹی گیشن ایجنسی (FIA) نے سائبر کرائم کی تحقیقات میں تیزی لانے کے لیے میٹا (Meta) کے ساتھ براہ راست رابطے کا معاہدہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017659/fia-partners-with-meta-to-expedite-cybercrime-investigation)*
+- روبلوکس (Roblox) کے لیے جولائی 2026 کے نئے پرومو کوڈز دستیاب ہیں۔ *[ARY](https://arynews.tv/roblox-smiles-codes-for-july-2026-working-promo-codes-and-how-to-redeem)*
 
 ### موسم
-- مون سون کی بارشوں اور سیلاب کے باعث خیبر پختونخوا، گلگت بلتستان اور پنجاب میں شدید تباہی ہوئی ہے، جس میں اب تک 37 افراد جاں بحق ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2017677/rains-wreak-havoc-on-kp-gb-and-punjab-as-death-toll-rises-to-37)*
+- شدید مون سون بارشوں کے باعث دریائے چناب میں اونچے درجے کا سیلاب جاری ہے اور پنجاب و کشمیر میں بارشیں ہو رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2017935/chenab-remains-in-high-flood-as-rains-lash-held-kashmir-punjab)*
+- لاہور میں مون سون کی شدید بارشوں نے معمولات زندگی درہم برہم کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2017831/heavy-monsoon-rains-lash-lahore-disrupt-routine-life)*
+- گلگت بلتستان میں بارشوں اور لینڈ سلائیڈنگ کے باعث کئی اہم شاہراہیں اور پل بہہ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2017826/torrential-rains-disrupt-travel-across-gb-as-floods-wash-away-roads-bridges)*
 
 ### سیاست
-- پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری نے آزاد جموں و کشمیر کے آئندہ انتخابات کو خطے کی تاریخ کے اہم ترین انتخابات قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2017539/ppp-chairman-calls-upcoming-ajk-elections-most-significant-in-history)*
+- پاکستان نے یمن کے حوثی باغیوں کو خبردار کیا ہے کہ پاکستانی جہازوں پر حملہ ایک 'سرخ لکیر' ہوگی۔ *[Dawn](https://www.dawn.com/news/2017926/pakistan-warns-houthi-rebels-to-steer-clear-of-its-ships)*
+- چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر نے بلوچستان میں مستقل امن کے قیام کا عزم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017914/cdf-munir-vows-to-restore-lasting-peace-in-balochistan)*
+- اسلام آباد ہائی کورٹ نے قرار دیا کہ غیر ملکی فیصلوں کو ملکی معیارات کے مطابق دیکھنا ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2017921/foreign-verdicts-must-be-weighed-against-domestic-standards-ihc)*
+- وفاقی حکومت آبادی میں اضافے کو روکنے کے لیے جلد ایک جامع حکمت عملی پیش کرے گی۔ *[Dawn](https://www.dawn.com/news/2017934/govt-to-unveil-strategy-to-curb-population-growth)*
+- نائب وزیراعظم اسحاق ڈار نے ایشین فورم میں مسئلہ کشمیر اور پانی کے تنازع کو عالمی چیلنج قرار دیا۔ *[Dawn](https://www.dawn.com/news/2017794/kashmir-iwt-among-key-global-challenges-threatening-peaceful-coexistence-dar-tells-asean-moot)*
 
 ### قومی
-- مستونگ کے خد کوچہ میں بس پر حملے اور دھماکے کے بعد سیکیورٹی صورتحال کے پیش نظر غیر معینہ مدت کے لیے کرفیو نافذ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017589/curfew-imposed-in-mastungs-khud-kocha-after-bus-attack-bridge-blast)*
-- یونیسکو نے روہتاس قلعے پر جاری مرمتی کاموں پر اعتراضات اٹھائے ہیں جن سے اس تاریخی مقام کی اہمیت متاثر ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2017657/rohtas-fort-restoration-works-on-unesco-radar)*
-- ڈاکٹر آکاش قتل کے معاملے میں پولیس مقابلے کے دوران تین مشتبہ افراد ہلاک ہو گئے۔ *[ARY](https://arynews.tv/dr-akash-murder-three-suspects-killed-in-police-encounter)*
+- کراچی پولیس نے چھ سالہ بچی کے اغوا اور قتل کے ملزم کو مقابلے کے دوران ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2017835/karachi-police-claim-suspect-in-six-year-old-girls-abduction-murder-killed-in-shootout)*
+- پولیس نے دعا قتل کیس کے مشتبہ ملزم کی شناخت کر لی ہے جو مقابلے میں ہلاک ہوا۔ *[ARY](https://arynews.tv/dua-murder-case-police-identify-suspect-killed-in-encounter)*
 
 ### بین الاقوامی
-- حوثیوں نے بحیرہ احمر میں سعودی آئل ٹینکرز پر حملہ کیا، جبکہ امریکہ نے ایران پر مسلسل حملے جاری رکھے ہوئے ہیں۔ *[Dawn](https://www.dawn.com/news/2017740/houthis-attack-saudi-tankers-in-red-sea-as-us-strikes-iran-for-12th-consecutive-day)*
-- امریکہ نے سعودی عرب کے ساتھ سویلین نیوکلیئر پروگرام کے لیے ایک اہم معاہدے کا اعلان کیا ہے جس میں ایٹمی پھیلاؤ کو روکنے کے اقدامات شامل ہیں۔ *[Dawn](https://www.dawn.com/news/2017738/us-announces-civilian-nuclear-deal-with-saudi-arabia-says-it-includes-non-proliferation-safeguards)*
-- ایرانی صدر نے پاکستان کے ساتھ تعلقات کو مزید مضبوط بنانے اور مسلم ممالک میں اتحاد کو فروغ دینے کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2017654/iranian-president-pezeshkian-calls-for-strengthening-pak-iran-relations)*
-- پاکستان نے اقوام متحدہ میں شام کے معاملے پر بیرونی مداخلت کے بجائے شام کے زیر اثر فیصلہ سازی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017641/pakistan-opposes-externally-imposed-solutions-for-syria)*
-- بین الاقوامی فوجداری عدالت (ICC) کے ممبران چیف پراسیکیوٹر کریم خان کے خلاف بدنام کن الزامات پر ووٹنگ کریں گے۔ *[Dawn](https://www.dawn.com/news/2017553/international-criminal-courts-members-to-vote-on-firing-prosecutor-khan-over-alleged-misconduct)*
+- امریکی ایوانِ نمائندگان نے ایران کے خلاف جنگی اختیارات کو محدود کرنے کی قرارداد منظور کی، تاہم سینیٹ نے اسے مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2017858/us-house-votes-to-curb-trumps-iran-war-powers-but-senate-backs-president)*
+- اقوام متحدہ کے سیکرٹری جنرل نے تنازعات کے پرامن حل کے لیے پاکستان کی کوششوں کو سراہا۔ *[Dawn](https://www.dawn.com/news/2017861/un-chief-praises-pakistans-peace-initiatives-to-reduce-tensions-and-create-space-for-dialogue)*
+- اسرائیلی وزیر بن گویر نے سینکڑوں پیروکاروں کے ہمراہ المسجد الحرام کے احاطے کا دورہ کیا۔ *[Dawn](https://www.dawn.com/news/2017854/far-right-israeli-minister-ben-gvir-storms-al-aqsa-mosque-compound-with-hundreds-of-followers)*
+- بحیرہ احمر میں بحری ٹریڈ کے لیے باب المندب ایک نیا چوک پوائنٹ بن کر ابھرا ہے۔ *[Dawn](https://www.dawn.com/news/2017938/a-new-chokepoint)*
+- امریکہ نے حوثیوں کی جانب سے ٹینکرز پر حملوں کے بعد ایران کو سزا دینے کا عزم کیا ہے۔ *[ARY](https://arynews.tv/us-vows-to-punish-iran-after-houthis-strike-tankers)*
+
+### صحت
+- پاکستان میں ماحول میں پولیو وائرس کی موجودگی میں نمایاں کمی ریکارڈ کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2017859/environmental-poliovirus-detection-declines-across-pakistan-positivity-falls-to-131pc)*
+- پاکستان میں سال کے پہلے چھ ماہ کے دوران صنفی بنیاد پر تشدد کے 3,172 کیسز رپورٹ ہوئے۔ *[Dawn](https://www.dawn.com/news/2017931/3172-gender-violence-cases-reported-in-six-months)*
+- ایچ آئی وی/ایڈز کو صحت کے نظام کی اصلاح کے لیے ایک اہم اشارے کے طور پر دیکھا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2017943/the-task-force-test)*
 
 ### دیگر
-- ہیر پچھتر (Harry Potter) کے 25 ویں سالگرہ کے موقع پر مداحوں کو ایک خاص سرپرائز دیا گیا۔ *[ARY](https://arynews.tv/harry-potter-fans-gets-magical-surprise-on-its-25th-anniversary)*
-- گلوکارہ سلمیٰ گومز نے اپنی سالگرہ کے موقع پر اٹلی میں جشن منایا۔ *[ARY](https://arynews.tv/selena-gomez-celebrates-two-milestones-during-birthday-getaway)*
+- جونی ڈیپ نے اپنی نئی فلم کا پہلا ٹریلر جاری کر دیا ہے۔ *[ARY](https://arynews.tv/johnny-depp-unveils-first-trailer-for-dark-ebenezer-adaptation)*
+- سنای سویینی کی فلم 'باربیریلا' کے حوالے سے نئی معلومات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/sydney-sweeneys-barbarella-movie-gets-major-update)*
+- کیٹی پیری اور جسٹن ٹروڈو کی شادی کے حوالے سے افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/katy-perry-and-justin-trudeaus-alleged-wedding-plans-what-to-know-about-gavin-newsoms-involvement)*
+- ٹیلر سوئفٹ اور ٹریوس کیلسی کی شادی سے متعلق دلچسپ تفصیلات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/taylor-swift-travis-kelce-wedding-guest-reveals-strange-details)*
+- میگن مارکل کے حوالے سے بولینگ کے الزامات دوبارہ زیرِ بحث آ گئے ہیں۔ *[ARY](https://arynews.tv/meghan-markle-vs-the-palace-the-bullying-claims-that-wont-go-away)*
 
