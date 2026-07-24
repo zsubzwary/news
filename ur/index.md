@@ -7,52 +7,41 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 24-Jul-2026 09:10PKT 
+ &lrm; 24-Jul-2026 21:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- امریکہ نے جبری مشقت کے خدشات کے پیش نظر پاکستان سمیت 60 تجارتی شراکت داروں پر نئے ٹیرف عائد کرنے کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-partners-including-pakistan-over-forced-labour-concerns)*
-- پٹرول کی قیمت میں 4.40 روپے اور ڈیزل کی قیمت میں 3.62 روپے فی لیٹر اضافہ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre)*
-- پیٹرولیم ڈیلرز کے درمیان اختلافات کی وجہ سے ہڑتال کا اثر محدود رہا اور زیادہ تر پمپ کھلے رہے۔ *[Dawn](https://www.dawn.com/news/2017922/split-among-fuel-dealers-blunts-impact-of-pump-shutdown)*
-- معاشی ترقی کو پالیسی سازوں کے لیے سب سے اہم اور مطلوبہ ہدف قرار دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017942/holy-grail-of-economics)*
-- بحیرہ احمر میں بحری جہازوں پر حملوں کے باعث عالمی سطح پر تیل کی قیمتوں میں اضافے کا امکان ہے۔ *[ARY](https://arynews.tv/oil-set-for-weekly-rise-amid-red-sea-shipping-attacks)*
+- امریکہ نے جبری مشقت کے خدشات کے باعث پاکستان سمیت 60 تجارتی شراکت داروں پر نئے محصولات عائد کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-trade-partners-including-pakistan-over-forced-labour-concerns)*
+- پیٹرول کی قیمت میں 4.40 روپے اور ڈیزل کی قیمت میں 3.62 روپے فی لیٹر اضافہ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre)*
+- کراچی میں دودھ کی قیمتوں کے 340 روپے تک پہنچنے کا خدشہ ہے۔ *[ARY](https://arynews.tv/milk-price-may-skyrocket-to-rs-340-in-karachi)*
 
 ### سائنس اور ٹیکنالوجی
-- روبلوکس (Roblox) کے لیے جولائی 2026 کے نئے پرومو کوڈز دستیاب ہیں۔ *[ARY](https://arynews.tv/roblox-smiles-codes-for-july-2026-working-promo-codes-and-how-to-redeem)*
+- وزیراعظم شہباز شریف نے اسلام آباد میں ملک کے سب سے بڑے ڈیٹا سینٹر اور AI کلاؤڈ 'Sky47' کا افتتاح کیا۔ *[Dawn](https://www.dawn.com/news/2018057/pm-shehbaz-inaugurates-countrys-largest-data-centre-ai-cloud-sky47-in-islamabad)*
 
 ### موسم
-- شدید مون سون بارشوں کے باعث دریائے چناب میں اونچے درجے کا سیلاب جاری ہے اور پنجاب و کشمیر میں بارشیں ہو رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2017935/chenab-remains-in-high-flood-as-rains-lash-held-kashmir-punjab)*
-- لاہور میں مون سون کی شدید بارشوں نے معمولات زندگی درہم برہم کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2017831/heavy-monsoon-rains-lash-lahore-disrupt-routine-life)*
-- گلگت بلتستان میں بارشوں اور لینڈ سلائیڈنگ کے باعث کئی اہم شاہراہیں اور پل بہہ گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2017826/torrential-rains-disrupt-travel-across-gb-as-floods-wash-away-roads-bridges)*
+- محکمہ موسمیات نے 24 سے 28 جولائی تک ملک کے مختلف حصوں میں مون سون بارشوں اور گرج چمک کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28)*
 
 ### سیاست
-- پاکستان نے یمن کے حوثی باغیوں کو خبردار کیا ہے کہ پاکستانی جہازوں پر حملہ ایک 'سرخ لکیر' ہوگی۔ *[Dawn](https://www.dawn.com/news/2017926/pakistan-warns-houthi-rebels-to-steer-clear-of-its-ships)*
-- چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر نے بلوچستان میں مستقل امن کے قیام کا عزم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2017914/cdf-munir-vows-to-restore-lasting-peace-in-balochistan)*
-- اسلام آباد ہائی کورٹ نے قرار دیا کہ غیر ملکی فیصلوں کو ملکی معیارات کے مطابق دیکھنا ضروری ہے۔ *[Dawn](https://www.dawn.com/news/2017921/foreign-verdicts-must-be-weighed-against-domestic-standards-ihc)*
-- وفاقی حکومت آبادی میں اضافے کو روکنے کے لیے جلد ایک جامع حکمت عملی پیش کرے گی۔ *[Dawn](https://www.dawn.com/news/2017934/govt-to-unveil-strategy-to-curb-population-growth)*
-- نائب وزیراعظم اسحاق ڈار نے ایشین فورم میں مسئلہ کشمیر اور پانی کے تنازع کو عالمی چیلنج قرار دیا۔ *[Dawn](https://www.dawn.com/news/2017794/kashmir-iwt-among-key-global-challenges-threatening-peaceful-coexistence-dar-tells-asean-moot)*
+- نواز شریف نے آزاد جموں و کشمیر میں اپنی اقتدار سے ہٹنے کے بعد ترقیاتی کاموں کی کمی پر سوال اٹھائے ہیں۔ *[Dawn](https://www.dawn.com/news/2018068/pml-n-supremo-questions-lack-of-development-in-ajk-after-his-ouster-from-power)*
 
 ### قومی
-- کراچی پولیس نے چھ سالہ بچی کے اغوا اور قتل کے ملزم کو مقابلے کے دوران ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2017835/karachi-police-claim-suspect-in-six-year-old-girls-abduction-murder-killed-in-shootout)*
-- پولیس نے دعا قتل کیس کے مشتبہ ملزم کی شناخت کر لی ہے جو مقابلے میں ہلاک ہوا۔ *[ARY](https://arynews.tv/dua-murder-case-police-identify-suspect-killed-in-encounter)*
+- خیبر پختونخوا کے ضلع ٹینک میں پولیس چیک پوسٹ پر دہشت گردانہ حملے میں 14 سیکورٹی اہلکاروں سمیت 15 افراد شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018066/terrorist-attack-on-joint-police-checkpost-in-kps-tank-martyrs-15-including-14-security-personnel-ispr)*
+- لیفٹیننٹ جنرل عامر رضا کو 4 سٹار جنرل کے عہدے پر ترقی دی گئی اور انہیں نیشنل اسٹریٹجک کمانڈ کا پہلا کمانڈر مقرر کیا گیا۔ *[Dawn](https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command)*
+- سپریم کورٹ نے این اے بی کے مقدمات میں ضمانت کی درخواستیں سننے کا اختیار ختم کرتے ہوئے انہیں فیڈرل کانسٹٹیوشنل کورٹ (FCC) منتقل کرنے کا فیصلہ کیا۔ *[Dawn](https://www.dawn.com/news/2018020/not-a-matter-of-surrender-or-conquest-sc-says-it-cannot-hear-nab-cases-transfers-them-to-fcc)*
+- اسلام آباد ہائی کورٹ نے ایمان مزاری اور ہادی علی چٹھا کی سزا معطلی کی درخواستوں پر حکم محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2018056/ihc-reserves-order-on-maintainability-of-imaan-hadis-petitions-seeking-suspension-of-sentences)*
+- سیکورٹی فورسز نے بلوچستان کے ضلع مستنگ میں آپریشن کے دوران 4 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2018035/security-forces-kill-4-terrorists-in-mastung-operation-interior-ministry)*
+- پنجاب حکومت نے مختلف سرکاری محکموں میں ملازمتوں کے مواقع کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/punjab-announces-jobs-in-various-departments)*
 
 ### بین الاقوامی
-- امریکی ایوانِ نمائندگان نے ایران کے خلاف جنگی اختیارات کو محدود کرنے کی قرارداد منظور کی، تاہم سینیٹ نے اسے مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2017858/us-house-votes-to-curb-trumps-iran-war-powers-but-senate-backs-president)*
-- اقوام متحدہ کے سیکرٹری جنرل نے تنازعات کے پرامن حل کے لیے پاکستان کی کوششوں کو سراہا۔ *[Dawn](https://www.dawn.com/news/2017861/un-chief-praises-pakistans-peace-initiatives-to-reduce-tensions-and-create-space-for-dialogue)*
-- اسرائیلی وزیر بن گویر نے سینکڑوں پیروکاروں کے ہمراہ المسجد الحرام کے احاطے کا دورہ کیا۔ *[Dawn](https://www.dawn.com/news/2017854/far-right-israeli-minister-ben-gvir-storms-al-aqsa-mosque-compound-with-hundreds-of-followers)*
-- بحیرہ احمر میں بحری ٹریڈ کے لیے باب المندب ایک نیا چوک پوائنٹ بن کر ابھرا ہے۔ *[Dawn](https://www.dawn.com/news/2017938/a-new-chokepoint)*
-- امریکہ نے حوثیوں کی جانب سے ٹینکرز پر حملوں کے بعد ایران کو سزا دینے کا عزم کیا ہے۔ *[ARY](https://arynews.tv/us-vows-to-punish-iran-after-houthis-strike-tankers)*
+- نائب وزیراعظم اسحاق ڈار نے ایرانی وزیر خارجہ سے ملاقات میں اسلام آباد معاہدے کے وعدوں پر عمل درآمد پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2018064/dpm-dar-stresses-need-to-build-on-islamabad-mou-commitments-in-meeting-with-irans-araghchi)*
+- بنگلہ دیش کے صدر محمد شہاب الدین نے اپنی صحت کے مسائل کی وجہ سے استعفیٰ دے دیا۔ *[Dawn](https://www.dawn.com/news/2018063/bangladesh-president-shahabuddin-76-resigns-citing-health-concerns)*
+- پاکستان اور 7 دیگر ممالک نے اسرائیلی وزیر بن گویر کی مسجد اقصیٰ میں مداخلت کی سخت مذمت کی۔ *[Dawn](https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion)*
+- امریکہ نے بحرِ احمر میں سعودی آئل ٹینکرز پر حملوں کے بعد ایران پر دوبارہ فضائی حملے کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2018016/us-strikes-iran-again-to-diminish-threat-to-mariners-vessels-after-attacks-on-saudi-oil-tankers-in-red-sea)*
+- بھارت میں طلبہ کے احتجاج کے دوران بھارتی میڈیا رپورٹرز پر حملہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2018076/lapdog-media-indian-reporters-caught-in-youth-protest-anger)*
+- بھارت میں وزیر تعلیم کے استعفے کے مطالبے پر نوجوانوں کے احتجاج کے بعد حکومت نے جواب کے لیے وقت طلب کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018062/indian-government-seeks-time-on-youth-protesters-minister-resignation-demand)*
+- نیویارک میں دو افراد کو چھری مارنے کے واقعے کے بعد ایک شخص کو گرفتار کر لیا گیا ہے، جسے نفرت انگیز جرم (hate crime) کا شبہ ہے۔ *[Dawn](https://www.dawn.com/news/2018021/man-arrested-after-two-men-stabbed-in-new-york-police-suspect-hate-crime)*
 
-### صحت
-- پاکستان میں ماحول میں پولیو وائرس کی موجودگی میں نمایاں کمی ریکارڈ کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2017859/environmental-poliovirus-detection-declines-across-pakistan-positivity-falls-to-131pc)*
-- پاکستان میں سال کے پہلے چھ ماہ کے دوران صنفی بنیاد پر تشدد کے 3,172 کیسز رپورٹ ہوئے۔ *[Dawn](https://www.dawn.com/news/2017931/3172-gender-violence-cases-reported-in-six-months)*
-- ایچ آئی وی/ایڈز کو صحت کے نظام کی اصلاح کے لیے ایک اہم اشارے کے طور پر دیکھا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2017943/the-task-force-test)*
-
-### دیگر
-- جونی ڈیپ نے اپنی نئی فلم کا پہلا ٹریلر جاری کر دیا ہے۔ *[ARY](https://arynews.tv/johnny-depp-unveils-first-trailer-for-dark-ebenezer-adaptation)*
-- سنای سویینی کی فلم 'باربیریلا' کے حوالے سے نئی معلومات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/sydney-sweeneys-barbarella-movie-gets-major-update)*
-- کیٹی پیری اور جسٹن ٹروڈو کی شادی کے حوالے سے افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/katy-perry-and-justin-trudeaus-alleged-wedding-plans-what-to-know-about-gavin-newsoms-involvement)*
-- ٹیلر سوئفٹ اور ٹریوس کیلسی کی شادی سے متعلق دلچسپ تفصیلات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/taylor-swift-travis-kelce-wedding-guest-reveals-strange-details)*
-- میگن مارکل کے حوالے سے بولینگ کے الزامات دوبارہ زیرِ بحث آ گئے ہیں۔ *[ARY](https://arynews.tv/meghan-markle-vs-the-palace-the-bullying-claims-that-wont-go-away)*
+### کھیل
+- بھارت، پاکستان اور دیگر ٹیموں کو ایشین گیمز کے مردوں کے کرکٹ ناک آؤٹ مرحلے کے لیے براہ راست جگہ دے دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2018033/india-pakistan-among-teams-handed-direct-asian-games-mens-cricket-knockout-berths)*
 
