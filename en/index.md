@@ -4,49 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-Jul-2026 09:04PKT
+Published at: 24-Jul-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The **United States** will impose new tariffs ranging from 10% to 12.5% on 60 trading partners, including Pakistan, China, and the EU, due to forced labor concerns. *[Dawn](https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-partners-including-pakistan-over-forced-labour-concerns)*
-- Fuel prices in Pakistan have increased, with **petrol** rising by Rs4.40 and **diesel** by Rs3.62 per litre. *[Dawn](https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre)*
-- A split among petroleum dealers prevented a nationwide shutdown, and the **All Pakistan Petroleum Pump Owners Association** has called off the strike for 15 days. *[Dawn](https://www.dawn.com/news/2017922/split-among-fuel-dealers-blunts-impact-of-pump-shutdown)*
-- Global oil prices are projected to rise weekly following ongoing **shipping attacks** in the Red Sea. *[ARY](https://arynews.tv/oil-set-for-weekly-rise-amid-red-sea-shipping-attacks)*
-- The **Bab al-Mandeb** passage has emerged as a critical new maritime chokepoint for global commerce due to regional conflicts. *[Dawn](https://www.dawn.com/news/2017938/a-new-chokepoint)*
+- The United States has announced new tariffs on 60 trading partners, including Pakistan, due to concerns regarding forced labor. *[Dawn](https://www.dawn.com/news/2017941/us-unveils-new-tariffs-on-60-trade-partners-including-pakistan-over-forced-labour-concerns)*
+- Fuel prices have increased, with petrol rising by Rs4.40 and diesel by Rs3.62 per litre. *[Dawn](https://www.dawn.com/news/2017857/petrol-price-up-by-rs440-diesel-by-rs362-per-litre)*
+- Milk prices in Karachi are projected to potentially rise as high as Rs. 340. *[ARY](https://arynews.tv/milk-price-may-skyrocket-to-rs-340-in-karachi)*
+
+### Science & Technology
+- Prime Minister Shehbaz Sharif has inaugurated the country's largest data centre and the Sky47 AI cloud in Islamabad, featuring an 8.5-megawatt capacity. *[Dawn](https://www.dawn.com/news/2018057/pm-shehbaz-inaugurates-countrys-largest-data-centre-ai-cloud-sky47-in-islamabad)*
 
 ### Weather
-- The **Chenab River** remains in a high-flood state following heavy rains in Kashmir and parts of Punjab. *[Dawn](https://www.dawn.com/news/2017935/chenab-remains-in-high-flood-as-rains-lash-held-kashmir-punjab)*
-- Heavy **monsoon rains** in Lahore have led to widespread water accumulation, disrupting traffic and daily life. *[Dawn](https://www.dawn.com/news/2017831/heavy-monsoon-rains-lash-lahore-disrupt-routine-life)*
-- Torrential rains in **Gilgit-Baltistan** have caused flash floods and landslides, washing away roads and bridges and stranding thousands. *[Dawn](https://www.dawn.com/news/2017826/torrential-rains-disrupt-travel-across-gb-as-floods-wash-away-roads-bridges)*
+- The Pakistan Meteorological Department (PMD) has forecasted monsoon rains and thunderstorms across the southern and central parts of the country from July 24 to 28. *[Dawn](https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28)*
 
 ### Politics
-- The **US House of Representatives** voted to curb President Trump's war powers regarding Iran, though the Senate subsequently blocked a similar measure. *[Dawn](https://www.dawn.com/news/2017858/us-house-votes-to-curb-trumps-iran-war-powers-but-senate-backs-president)*
+- PML-N leader Nawaz Sharif has criticized the lack of development initiatives in Azad Jammu and Kashmir (AJK) since his tenure as Prime Minister ended. *[Dawn](https://www.dawn.com/news/2018068/pml-n-supremo-questions-lack-of-development-in-ajk-after-his-ouster-from-power)*
 
 ### National
-- Pakistan has issued a stern warning to **Houthi rebels**, declaring any attack on its maritime interests a "red line." *[Dawn](https://www.dawn.com/news/2017926/pakistan-warns-houthi-rebels-to-steer-clear-of-its-ships)*
-- Chief of Army Staff **Asim Munir** vowed to restore lasting peace in Balochistan against foreign-sponsored proxies. *[Dawn](https://www.dawn.com/news/2017914/cdf-munir-vows-to-restore-lasting-peace-in-balochistan)*
-- The **Islamabad High Court** ruled that foreign court verdicts must be balanced against domestic legal protections. *[Dawn](https://www.dawn.com/news/2017921/foreign-verdicts-must-be-weighed-against-domestic-standards-ihc)*
-- A report documented **3,172 cases of gender-based violence** in Pakistan during the first half of 2026, with Punjab reporting the highest numbers. *[Dawn](https://www.dawn.com/news/2017931/3172-gender-violence-cases-reported-in-six-months)*
-- The federal government is preparing a comprehensive strategy to curb **population growth** in Pakistan. *[Dawn](https://www.dawn.com/news/2017934/govt-to-unveil-strategy-to-curb-population-growth)*
-- Karachi police killed a suspect in a shootout following the **abduction and murder** of a six-year-old girl. *[Dawn](https://www.dawn.com/news/2017835/karachi-police-claim-suspect-in-six-year-old-girls-abduction-murder-killed-in-shootout)*
-- Police have identified a suspect killed in an encounter related to the **Dua murder case**. *[ARY](https://arynews.tv/dua-murder-case-police-identify-suspect-killed-in-encounter)*
+- A terrorist attack by Fitna-al-Khawarij on a joint police checkpost in Tank, Khyber Pakhtunkhwa, resulted in the martyrdom of 15 individuals, including 14 security personnel. *[Dawn](https://www.dawn.com/news/2018066/terrorist-attack-on-joint-police-checkpost-in-kps-tank-martyrs-15-including-14-security-personnel-ispr)*
+- Lieutenant General Aamer Raza has been promoted to the rank of four-star general and appointed as the first Commander National Strategic Command (CNSC). *[Dawn](https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command)*
+- The Islamabad High Court (IHC) has reserved its order regarding petitions to suspend the sentences of rights activists Imaan Zainab Mazari-Hazir and Hadi Ali Chattha. *[Dawn](https://www.dawn.com/news/2018056/ihc-reserves-order-on-maintainability-of-imaan-hadis-petitions-seeking-suspension-of-sentences)*
+- The Supreme Court has ruled that it lacks jurisdiction over bail applications in pending National Accountability Bureau (NAB) appeals, transferring such cases to the Federal Constitutional Court (FCC). *[Dawn](https://www.dawn.com/news/2018020/not-a-matter-of-surrender-or-conquest-sc-says-it-cannot-hear-nab-cases-transfers-them-to-fcc)*
+- Security forces successfully conducted an operation in Mastung, Balochistan, resulting in the death of four terrorists. *[Dawn](https://www.dawn.com/news/2018035/security-forces-kill-4-terrorists-in-mastung-operation-interior-ministry)*
+- The Punjab government has announced various job openings across multiple departments. *[ARY](https://arynews.tv/punjab-announces-jobs-in-various-departments)*
 
 ### International
-- **UN Secretary-General Antonio Guterres** praised Pakistan's efforts to strengthen peaceful dispute settlement mechanisms at the UNSC. *[Dawn](https://www.dawn.com/news/2017861/un-chief-praises-pakistans-peace-initiatives-to-reduce-tensions-and-create-space-for-dialogue)*
-- Israeli Minister **Ben Gvir** led hundreds into the Al-Aqsa mosque compound, breaching the site's long-standing status quo. *[Dawn](https://www.dawn.com/news/2017854/far-right-israeli-minister-ben-gvir-storms-al-aqsa-mosque-compound-with-hundreds-of-followers)*
-- At the **ASEAN Regional Forum**, Deputy PM Ishaq Dar highlighted the Kashmir dispute and water security as major global challenges. *[Dawn](https://www.dawn.com/news/2017794/kashmir-iwt-among-key-global-challenges-threatening-peaceful-coexistence-dar-tells-asean-moot)*
-- The **United States** has vowed to punish Iran following Houthi attacks on oil tankers. *[ARY](https://arynews.tv/us-vows-to-punish-iran-after-houthis-strike-tankers)*
+- Deputy Prime Minister Ishaq Dar met with Iranian Foreign Minister Abbas Araghchi to discuss strengthening commitments under the Islamabad MoU. *[Dawn](https://www.dawn.com/news/2018064/dpm-dar-stresses-need-to-build-on-islamabad-mou-commitments-in-meeting-with-irans-araghchi)*
+- The Indian government is seeking time to respond to youth protesters demanding the resignation of the education minister following exam paper leaks. *[Dawn](https://www.dawn.com/news/2018062/indian-government-seeks-time-on-youth-protesters-minister-resignation-demand)*
+- Bangladesh President Mohammed Shahabuddin has resigned from his post, citing serious health concerns. *[Dawn](https://www.dawn.com/news/2018063/bangladesh-president-shahabuddin-76-resigns-citing-health-concerns)*
+- Speaking at an SCO meeting, DPM Ishaq Dar emphasized that regional peace and stability depend on eliminating terrorism originating from Afghanistan. *[Dawn](https://www.dawn.com/news/2018029/peace-stability-only-possible-by-eliminating-terrorism-emanating-from-afghanistan-dar-says-at-sco-meeting)*
+- Indian reporters were reportedly assaulted by protesters in Delhi during demonstrations against the government. *[Dawn](https://www.dawn.com/news/2018076/lapdog-media-indian-reporters-caught-in-youth-protest-anger)*
+- Pakistan and seven other nations issued a joint statement condemning Israeli Minister Ben Gvir's incursion into the Al Aqsa mosque compound. *[Dawn](https://www.dawn.com/news/2018009/unacceptable-pakistan-7-other-countries-condemn-israeli-minister-ben-gvirs-al-aqsa-incursion)*
+- US forces launched strikes on Iran to mitigate maritime threats following attacks on Saudi oil tankers in the Red Sea. *[Dawn](https://www.dawn.com/news/2018016/us-strikes-iran-again-to-diminish-threat-to-mariners-vessels-after-attacks-on-saudi-oil-tankers-in-red-sea)*
+- A suspect was arrested in New York following the stabbing of an Asian male and a Jewish male in a suspected hate crime. *[Dawn](https://www.dawn.com/news/2018021/man-arrested-after-two-men-stabbed-in-new-york-police-suspect-hate-crime)*
 
-### Health
-- Pakistan has seen a significant drop in **environmental poliovirus** detection, with the positivity rate falling to 13.1%. *[Dawn](https://www.dawn.com/news/2017859/environmental-poliovirus-detection-declines-across-pakistan-positivity-falls-to-131pc)*
-- An editorial highlighted that the spread of **HIV among children** serves as a critical indicator of flaws within the healthcare system. *[Dawn](https://www.dawn.com/news/2017943/the-task-force-test)*
+### Sports
+- India, Pakistan, Bangladesh, and Sri Lanka have been granted direct entry into the knockout stage of the men's cricket competition at the 2026 Asian Games. *[Dawn](https://www.dawn.com/news/2018033/india-pakistan-among-teams-handed-direct-asian-games-mens-cricket-knockout-berths)*
+- The Pakistan cricket team faces an injury setback ahead of their upcoming Test match against the West Indies. *[ARY](https://arynews.tv/pakistan-suffer-injury-blow-ahead-of-first-west-indies-test)*
 
 ### Other
-- **Johnny Depp** has released the first trailer for his dark adaptation of 'Ebenezer'. *[ARY](https://arynews.tv/johnny-depp-unveils-first-trailer-for-dark-ebenezer-adaptation)*
-- Updates have been provided regarding **Sydney Sweeney’s** upcoming 'Barbarella' movie. *[ARY](https://arynews.tv/sydney-sweeneys-barbarella-movie-gets-major-update)*
-- Rumors have circulated regarding an alleged wedding between **Katy Perry and Justin Trudeau**. *[ARY](https://arynews.tv/katy-perry-and-justin-trudeaus-alleged-wedding-plans-what-to-know-about-gavin-newsoms-involvement)*
-- New details have emerged regarding the wedding of **Taylor Swift and Travis Kelce**. *[ARY](https://arynews.tv/taylor-swift-travis-kelce-wedding-guest-reveals-strange-details)*
-- **Meghan Markle** continues to face scrutiny over ongoing bullying claims involving the Royal Palace. *[ARY](https://arynews.tv/meghan-markle-vs-the-palace-the-bullying-claims-that-wont-go-away)*
-- New **Roblox SMILES** promo codes have been released for July 2026. *[ARY](https://arynews.tv/roblox-smiles-codes-for-july-2026-working-promo-codes-and-how-to-redeem)*
+- Information regarding the release date, price, and new features of EA FC 27 has been revealed. *[ARY](https://arynews.tv/ea-fc-27-release-date-price-new-features-and-editions-revealed)*
+- Celebrity updates include Jameela Jamil's controversial comments, Kendall Jenner's response to dating rumors, and Prince William's reaction to visits to Princess Diana's grave. *[ARY](https://arynews.tv/jameela-jamil-draws-fire-for-comments-that-echo-meghan-markles-critique-of-british-history)* / *[ARY](https://arynews.tv/kendall-jenner-speaks-out-on-romance-expectations-amid-jacob-elordi-dating-rumors)* / *[ARY](https://arynews.tv/prince-william-in-outraged-and-deeply-worried-state-after-meghan-and-harry-visit-dianas-grave)*
+- News regarding Kate Middleton's family milestones and mobile recharge balance information was also reported. *[ARY](https://arynews.tv/kate-middleton-gets-emotional-ahead-of-big-family-milestone)* / *[ARY](https://arynews.tv/mobile-balance-on-rs100-recharge)*
 
