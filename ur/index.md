@@ -7,51 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Jul-2026 09:09PKT 
+ &lrm; 26-Jul-2026 21:09PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پیٹرول کی قیمت میں 3.66 روپے اور HSD میں 4.80 روپے کے اضافے کا اعلان۔ *[Dawn](https://www.dawn.com/news/2018099/petrol-price-up-by-rs366-hsd-by-rs480-as-govt-revises-fuel-rates)*
-- ڈی ایچ اے سٹی کو بجلی کی تقسیم کا لائسنس جاری کیا گیا۔ *[Dawn](https://www.dawn.com/news/2018147/karachis-dha-city-becomes-first-private-entity-to-light-up-its-own-housing-project)*
-- کرنسی کے تبادلے کی شرح (exchange rate) کے حوالے سے پالیسی بحث پر تنقید۔ *[Dawn](https://www.dawn.com/news/2018245/folly-of-chasing-exchange-rate)*
-- ایکواڈور اور کینیڈا کے درمیان آزاد تجارت کا معاہدہ، جس سے 99.6 فیصد برآمدات ٹیکس فری ہوں گی۔ *[ARY](https://arynews.tv/ecuador-signs-free-trade-agreement-with-canada)*
-- نٹ ویسٹ (NatWest) کی جانب سے ایک ناکام کنزیومر لینڈر میں 250 ملین پاؤنڈ تک کی سرمایہ کاری۔ *[ARY](https://arynews.tv/natwests-involvement-with-amplifi-capital-collapse)*
-- ہوائی جہاز کے انجن اور سروسنگ کے شعبے میں بڑھتی ہوئی مسابقت۔ *[ARY](https://arynews.tv/planemakers-prepare-for-competition-in-aviation-market)*
+- خلیج کی جنگ کے باعث غیر رسمی ڈالر کی آمد (حوالہ اور ہونڈی کے ذریعے) میں نمایاں کمی واقع ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2018391/war-dries-up-unofficial-dollar-inflows)*
+- حکومت نے پٹرول اور ڈیزل کی قیمتوں میں دو روز تک کوئی تبدیلی نہیں کی۔ *[Dawn](https://www.dawn.com/news/2018328/govt-keeps-petrol-diesel-prices-unchanged-for-two-days)*
+- خلیج کی جنگ کی صورتحال کے پیش نظر اسٹیٹ بینک کی جانب سے پالیسی ریٹ میں تبدیلی کے امکانات کم ہیں۔ *[Dawn](https://www.dawn.com/news/2018392/uncertainty-in-gulf-likely-to-keep-policy-rate-unchanged)*
 
 ### سائنس اور ٹیکنالوجی
-- اینتھروپک (Anthropic) کی جانب سے سستا اے آئی (AI) ماڈل 'کلاڈ اپس 5' کا اجرا۔ *[Dawn](https://www.dawn.com/news/2018102/anthropic-bets-on-cheaper-ai-with-new-model)*
-- اسلام آباد میں ملک کے سب سے بڑے ڈیٹا سینٹر اور اسکائی 47 اے آئی کلاؤڈ کا افتتاح۔ *[Dawn](https://www.dawn.com/news/2018057/pm-shehbaz-inaugurates-countrys-largest-data-centre-ai-cloud-sky47-in-islamabad)*
-- چین کا اے آئی سے لیس موسمیاتی وارننگ سسٹم 30 ممالک تک پھیلانے کا منصوبہ۔ *[ARY](https://arynews.tv/china-to-extend-ai-powered-meteorological-early-warning-system-to-30-countries)*
-- ایلون مسک کا اوپن اے آئی (OpenAI) کے بارے میں بیان کہ اسے گوگل کا مقابلہ کرنے کے لیے بنایا گیا تھا۔ *[ARY](https://arynews.tv/elon-musk-says-openai-was-meant-to-challenge-google-not-dominate-ai)*
+- ایپل اس سال پہلا واٹر ریزسٹنٹ (پانی سے محفوظ) آئی پیڈ لانچ کرنے کا ارادہ رکھتا ہے۔ *[ARY](https://arynews.tv/apple-eyes-first-water-resistant-ipad-launch-this-year-heres-what-we-know)*
 
 ### موسم
-- کراچی میں مون سون کی پہلی بارشوں کا آغاز۔ *[Dawn](https://www.dawn.com/news/2018094/karachi-receives-seasons-first-monsoon-showers-light-to-moderate-rain-reported-in-parts-of-city)*
-- پی ایم ڈی کی جانب سے ملک بھر میں مون سون کی بارشوں اور گرج چمک کی پیش گوئی۔ *[Dawn](https://www.dawn.com/news/2018038/pmd-forecasts-monsoon-rain-thunderstorms-across-the-country-from-july-24-28)*
+- مون سون کی بارشوں کے نتیجے میں ملک بھر میں ہلاکتوں کی تعداد 100 سے تجاوز کر گئی ہے۔ *[Dawn](https://www.dawn.com/news/2018500/nationwide-deaths-this-monsoon-cross-100-more-rain-likely-in-countrys-upper-parts-from-july-29)*
+- پی ایم ڈی نے اگست کے پہلے ہفتے کے لیے گلگت بلتستان اور خیبر پختونخوا میں گلیشیائی جھیل پھٹنے (GLOF) کا الرٹ جاری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2018510/pmd-issues-glof-alert-for-northern-areas-as-several-gb-areas-cut-off-for-5th-consecutive-day)*
+- پنجاب میں شدید بارشوں کے باعث سات افراد جاں بحق اور 20 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018407/seven-killed-20-hurt-as-heavy-rains-lash-punjab)*
+- دریائے راوی اور چناب میں درمیانے سے بلند درجے کا سیلاب آنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2018383/ravi-chenab-flood-levels-likely-to-reach-medium-to-high-today)*
+- دھبیجی پمپنگ اسٹیشن میں بجلی کی خرابی کے باعث کراچی کے کئی حصوں میں پانی کی قلت کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2018517/parts-of-karachi-may-face-water-shortage-after-power-breakdown-at-dhabeji-pumping-station)*
 
 ### سیاست
-- آزاد کشمیر کے انتخابات کے حوالے سے مسلم لیگ ن اور پیپلز پارٹی کے درمیان اختلافات۔ *[Dawn](https://www.dawn.com/news/2018204/sharifs-pre-poll-promises-to-ajk-dont-sit-well-with-ppp)*
-- وزیر اعظم کا کابل پر دہشت گرد گروہوں کے خلاف کارروائی کرنے کے لیے دوبارہ زور۔ *[Dawn](https://www.dawn.com/news/2018235/pm-again-urges-kabul-to-act-against-terrorist-groups)*
-- سینٹ میں صوبائی اختیارات کے حوالے سے وفاقی وزارتوں کے دوبارہ قیام پر اعتراضات۔ *[Dawn](https://www.dawn.com/news/2018197/senators-question-devolved-ministries-revival)*
-- آزاد کشمیر انتخابات کے لیے 16,800 سیکورٹی اہلکاروں کی تعیناتی کا فیصلہ۔ *[ARY](https://arynews.tv/ajk-elections-pakistan-to-deploy-16800-security-personnel)*
+- ایم کیو ایم پاکستان نے نئے صوبوں کے قیام کی مہم تیز کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2018340/mqm-p-steps-up-campaign-for-creation-of-new-provinces)*
+- بھارت سے فنڈنگ لے کر سوشل میڈیا پر ریاست مخالف مواد پھیلانے کے الزام میں ایک شخص کو گرفتار کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2018518/tarar-claims-man-arrested-for-spreading-anti-state-material-online-in-exchange-for-indian-funding)*
+- آزاد کشمیر کے انتخابات کے حوالے سے پی ایم ایل این اور پیپلز پارٹی اہم مہم میں مصروف ہیں۔ *[ARY](https://arynews.tv/ajk-elections-2026-key-contests-and-candidates)*
+- جسٹس بابر ستھر کو اسلام آباد میں سرکاری رہائش گاہ خالی کرنے کا نوٹس دیا گیا ہے۔ *[ARY](https://arynews.tv/justice-babar-sattar-ordered-to-vacate-residence)*
 
 ### قومی
-- راولپنڈی میں نرس کی غلطی سے شیر خوار بچے کا انگوٹھا کٹ گیا۔ *[Dawn](https://www.dawn.com/news/2018134/nurse-booked-after-newborns-thumb-accidentally-severed-at-pindis-holy-family-hospital)*
-- خیبرپختونخوا کے ضلع ٹانک میں دہشت گردانہ حملہ، 15 افراد (بشمول 14 سیکورٹی اہلکار) جاں بحق۔ *[Dawn](https://www.dawn.com/news/2018066/terrorist-attack-on-joint-police-checkpost-in-kps-tank-martyrs-15-including-14-security-personnel-ispr)*
-- لیفٹیننٹ جنرل عامر رضا کی فور اسٹار رینک پر ترقی اور سی این ایس سی کے پہلے کمانڈر کا تقرر۔ *[Dawn](https://www.dawn.com/news/2018019/lt-gen-aamer-raza-promoted-to-4-star-rank-appointed-first-commander-national-strategic-command)*
-- جسٹس بابر ستھر کو اسلام آباد میں سرکاری رہائش خالی کرنے کا نوٹس۔ *[Dawn](https://www.dawn.com/news/2018103/ihc-registrar-issues-notice-to-justice-babar-sattar-asks-him-to-vacate-islamabad-residence)*
-- بلوچستان میں دہشت گردی کے حالیہ واقعات اور جج کا قتل۔ *[Dawn](https://www.dawn.com/news/2018249/rampant-lawlessness)*
+- ٹانک چیک پوسٹ پر ہونے والے حملے میں 1300 کلوگرام سے زائد دھماکہ خیز مواد استعمال کیا گیا، جس میں 15 افراد جاں بحق ہوئے۔ *[Dawn](https://www.dawn.com/news/2018508/kp-governor-kundi-says-over-1300kg-of-explosives-used-in-tank-checkpost-attack)*
+- آپریشن العزم کے دوران بلوچستان میں 16 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2018497/security-forces-have-killed-16-terrorists-so-far-during-ongoing-operation-al-azm-in-balochistan-state-media)*
+- باجوڑ میں ڈیم کے قریب بم دھماکے کے نتیجے میں دو افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018433/bomb-blast-near-kps-bajaur-dam-claims-two-lives)*
+- پشاور یونیورسٹی کے پروفیسر گل رحیم خان کو لندن میں اشوکا ایوارڈ سے نوازا گیا۔ *[Dawn](https://www.dawn.com/news/2018423/peshawar-university-teacher-honoured-with-ashoka-award-in-london)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے تعلقات کی بحالی کے لیے چین کے تعاون کے امکانات۔ *[Dawn](https://www.dawn.com/news/2018209/another-bid-to-mend-us-iran-fences-with-chinas-blessing)*
-- آئی سی سی (ICC) کے ممبران نے پراسیکیوٹر کریم خان کو برطرف کرنے کے حق میں ووٹ دیا۔ *[Dawn](https://www.dawn.com/news/2018221/icc-members-vote-to-dismiss-karim-khan)*
-- ایران نے پاکستان کے ساتھ اسٹریٹجک تعاون بڑھانے کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2018233/iran-calls-for-expanding-strategic-cooperation-with-pakistan)*
-
-### کھیل
-- ورلڈ کپ فائنل کے حوالے سے اسپین کے کوچ کا ارجنٹائن کے رویے پر سخت تبصرہ۔ *[ARY](https://arynews.tv/argentinas-behaviour-at-world-cup-final-intolerable-says-spain-coach-de-la-fuente)*
+- ایران کا کہنا ہے کہ امریکہ کی جانب سے حملے روکنے کے بعد مشرق وسطیٰ میں انتقامی کارروائیاں روک دی گئی ہیں۔ *[Dawn](https://www.dawn.com/news/2018487/iran-says-middle-east-attacks-halted-after-us-holds-fire-amid-reported-concerns-over-dwindling-munitions)*
+- بھارتی وزیراعظم نریندر مودی نے امتحان کے نظام میں اصلاحات کے لیے خصوصی ٹاسک فورس کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018534/modi-announces-panel-to-reform-indias-exam-system-anti-govt-graffiti-at-protest-site-painted-over)*
+- اسرائیلی آباد کاروں نے مغربی کنارے میں دو مساجد کو آگ لگا دی۔ *[Dawn](https://www.dawn.com/news/2018507/israeli-settlers-torch-2-mosques-in-west-bank-palestinian-officials)*
+- امریکی کانگریس مین نے اسرائیلی وزیراعظم نیتن یاہو کی گرفتاری کے مطالبے کی حمایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2018394/khanna-backs-mamdanis-call-for-netanyahus-arrest)*
+- لندن کے گیٹ وکک ایئرپورٹ پر پانی کی فراہمی میں خلل پیدا ہوا۔ *[Dawn](https://www.dawn.com/news/2018528/londons-gatwick-airport-hit-by-water-supply-problem)*
+- ٹرمپ نے سفارت کاری کے لیے ایران پر فضائی حملوں کو روک دیا ہے۔ *[ARY](https://arynews.tv/trump-pauses-iran-air-strikes-to-allow-diplomacy-us-envoy-says)*
 
 ### دیگر
-- ٹیلر سوئفٹ کی خاندان میں باقاعدہ خوش آمدید۔ *[ARY](https://arynews.tv/kylie-kelce-officially-welcomes-taylor-swift-into-the-family-in-heartwarming-new-video)*
-- پرکاش راج کا طالب علموں کے احتجاج کے ساتھ اظہار یکجہتی۔ *[ARY](https://arynews.tv/prakash-raj-on-solidarity-with-student-protests)*
-- پیرز مورگن کا میگن مارکل پر تبصرہ۔ *[ARY](https://arynews.tv/piers-morgan-criticizes-meghan-markle-following-tributes-at-princess-dianas-gravesite)*
+- رائن گوسلنگ کو مارول کی فلم میں 'گوسٹ رائڈر' کا کردار مل گیا ہے۔ *[ARY](https://arynews.tv/ryan-gosling-lands-iconic-ghost-rider-role-at-marvel)*
+- میگن مارکل نے ماسٹر شیف آسٹریلیا میں 'ڈچس' کے خطاب سے دوری کا اظہار کیا۔ *[ARY](https://arynews.tv/meghan-markle-distances-herself-from-duchess-title-on-masterchef-australia)*
+- سینڈرا بلوک کی ہالی وڈ میں واپسی سے متعلق تفصیلات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/inside-sandra-bullocks-heartfelt-return-to-hollywood-on-her-own-terms)*
+- ڈرامہ سیریل 'دی روکی' کے سیزن 9 کے بارے میں تفصیلات جاری کر دی گئی ہیں۔ *[ARY](https://arynews.tv/the-rookie-season-9-premiere-details-revealed-following-shocking-season-8-cliffhanger)*
 
