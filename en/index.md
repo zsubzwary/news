@@ -4,48 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 27-Jul-2026 09:03PKT
+Published at: 27-Jul-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan’s macroeconomic recovery is facing threats from rising inflation and fiscal pressures. *[Dawn](https://www.dawn.com/news/2018654/rebounding-inflation-fiscal-pressures-threaten-recovery)*
-- A surging trade deficit of $39.47 billion in FY26 highlights Pakistan's critical need to transition from imported fossil fuels to green energy. *[Dawn](https://www.dawn.com/news/2018583/green-alternatives-to-oil-dependence)*
-- Global energy flows are being reshaped by efforts to develop pipelines that bypass the Strait of Hormuz. *[Dawn](https://www.dawn.com/news/2018582/pipelines-to-bypass-the-strait-of-hormuz)*
-- Gold prices have seen gains following the recent lull in US-Iran hostilities. *[ARY](https://arynews.tv/gold-gains-on-pause-in-us-iran-fighting-fed-decision-looms)*
-
-### Science & Technology
-- Experts suggest that the governance and development of artificial intelligence should be a collaborative global effort rather than a solo pursuit by any single nation. *[Dawn](https://www.dawn.com/news/2018585/shifting-geopolitics-of-tech)*
+- Petroleum Minister hinted at potential fuel price relief after Pakistan's oil cargoes safely cleared the Bab-al-Mandeb chokepoint. *[Dawn](https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb)*
+- The State Bank of Pakistan's Monetary Policy Committee decided to keep the policy interest rate unchanged at 11.5%. *[Dawn](https://www.dawn.com/news/2018718/central-bank-keeps-policy-rate-unchanged-at-115pc)*
+- The Pakistan Stock Exchange (PSX) benchmark index surged by more than 7,000 points to close above the 178,000 mark. *[Dawn](https://www.dawn.com/news/2018715/psx-opens-week-in-the-green-gains-more-than-7000-points-to-close-above-178000-mark)*
+- Global oil prices reached a near one-week low following a pause in military strikes between the US and Iran. *[Dawn](https://www.dawn.com/news/2018729/oil-prices-near-one-week-low-after-us-iran-pause-fighting-over-weekend)*
+- Gold prices have risen in the international market as oil prices retreat. *[ARY](https://arynews.tv/gold-rate-today-international-market-july-27-2026)*
+- Tomato prices have experienced a massive surge across Pakistan. *[ARY](https://arynews.tv/tomatoes-prices-skyrocket-in-pakistan)*
+- The British Pound (GBP) climbed against the US Dollar as investors scaled back expectations for interest rate hikes. *[ARY](https://arynews.tv/gbp-to-usd-pound-climbs-as-investors-scale-back-rate-hike-bets)*
 
 ### Weather
-- The monsoon-related death toll in Pakistan has surpassed 100, with additional rainfall expected in the country's upper regions. *[Dawn](https://www.dawn.com/news/2018500/nationwide-deaths-this-monsoon-cross-100-more-rain-likely-in-countrys-upper-parts-from-july-29)*
-- The Pakistan Meteorological Department (PMD) has issued a glacial lake outburst flood (GLOF) alert for Gilgit-Baltistan and Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2018510/pmd-issues-glof-alert-for-northern-areas-as-several-gb-areas-cut-off-for-5th-consecutive-day)*
+- Spain is racing to contain raging wildfires and prepare for an incoming heatwave, with 60,000 people already displaced. *[Dawn](https://www.dawn.com/news/2018742/spain-races-to-contain-blazes-before-temperatures-rise)*
 
 ### Politics
-- The first phase of the Azad Jammu and Kashmir (AJK) elections has commenced in the Mirpur division. *[Dawn](https://www.dawn.com/news/2018691/first-phase-of-ajk-polls-begins-in-mirpur-division)* / *[ARY](https://arynews.tv/ajk-elections-2026-polling-begins-in-first-phase)*
-- Two presiding officers were arrested in Kotli for negligence during the AJK election process. *[ARY](https://arynews.tv/ajk-elections-presiding-officers-suspended)*
-- President Asif Ali Zardari, Prime Minister Shehbaz Sharif, and other federal officials have deposited gifts received from foreign dignitaries into the Toshakhana. *[Dawn](https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana)*
+- US Congressmen acknowledged Pakistan's "critical role" in regional stability during a meeting with Chief of Defence Forces Field Marshal Asim Munir. *[Dawn](https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr)*
+- The first phase of AJK elections in the Mirpur division was marred by scuffles and allegations of rigging. *[Dawn](https://www.dawn.com/news/2018691/polling-concludes-in-mirpur-division-as-scuffles-rigging-allegations-mar-first-phase-of-ajk-elections)*
+- Indian activists are challenging the government over the use of AI-powered surveillance during recent youth protests. *[Dawn](https://www.dawn.com/news/2018775/modi-faces-challenge-from-activists-over-surveillance-at-india-youth-protest)*
+- Pakistan's Foreign Office condemned "provocative" remarks by the Indian Defence Minister regarding the Kashmir issue. *[Dawn](https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism)*
+- India's "Cockroach Janta Party" has demanded the release of students detained during nationwide protests over exam leaks. *[Dawn](https://www.dawn.com/news/2018741/indias-cockroach-janta-party-demands-release-of-protesters-after-reports-of-detention)*
+- President Asif Ali Zardari, PM Shehbaz Sharif, and other cabinet members have deposited recently received foreign gifts into the Toshakhana. *[Dawn](https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana)*
+- Unofficial election results from the Mirpur division have been released for the AJK 2026 elections. *[ARY](https://arynews.tv/ajk-elections-2026-unofficial-results-from-mirpur-division)*
 
 ### National
-- Residents in Karachi's Gulistan-i-Jauhar are facing extreme travel difficulties due to severely pothole-riddled roads. *[Dawn](https://www.dawn.com/news/2018622/pothole-riddled-karachis-gulistan-i-jauhar-roads-turn-daily-travel-into-an-exhausting-ordeal)*
-- A man was arrested for allegedly spreading anti-state material online using funding provided by India. *[Dawn](https://www.dawn.com/news/2018518/tarar-claims-man-arrested-for-spreading-anti-state-material-online-in-exchange-for-indian-funding)*
-- Parts of Karachi may experience water shortages following a power breakdown at the Dhabeji pumping station. *[Dawn](https://www.dawn.com/news/2018517/parts-of-karachi-may-face-water-shortage-after-power-breakdown-at-dhabeji-pumping-station)*
-- A grenade attack in Quetta's Patel road resulted in one fatality and four injuries. *[ARY](https://arynews.tv/grenade-attack-near-quettas-patel-road-leaves-one-dead-four-injured)*
-- New instructions have been released regarding how to complete vehicle biometric verification via the NADRA Pak ID App. *[ARY](https://arynews.tv/how-to-complete-vehicle-biometric-verification-via-nadras-pak-id-app)*
+- An anti-terrorism court extended the physical remand of the suspect accused of murdering a Pakistan Air Force Group Captain. *[Dawn](https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days)*
+- The Sindh government declared a public holiday on July 29 for the annual urs of Sufi poet Shah Abdul Latif Bhittai. *[Dawn](https://www.dawn.com/news/2018748/public-holiday-in-sindh-on-wednesday-for-shah-abdul-latif-bhittais-urs)*
+- Water supply to several parts of Karachi has resumed following the restoration of electricity at the Dhabeji pumping station. *[Dawn](https://www.dawn.com/news/2018724/water-supply-to-parts-of-karachi-resumes-after-power-at-dhabeji-pumping-station-restored)*
+- General Syed Aamer Raza met with the Field Marshal after assuming charge of the CNSC. *[ARY](https://arynews.tv/general-syed-aamer-raza-calls-on-field-marshal-after-assuming-charge-of-cnsc)*
 
 ### International
-- A diplomatic lull has been achieved in the fighting between the US and Iran, with Iran halting retaliatory attacks. *[Dawn](https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy)* / *[Dawn](https://www.dawn.com/news/2018487/iran-says-middle-east-attacks-halted-after-us-holds-fire-amid-reported-concerns-over-dwindling-munitions)*
-- Israel is set to allow a multinational security force into Gaza as part of a proposed ceasefire plan. *[Dawn](https://www.dawn.com/news/2018568/israel-to-allow-international-force-into-gaza-israeli-official-says)*
-- Indian Prime Minister Narendra Modi has announced a task force to reform the nation's exam system amid widespread student protests. *[Dawn](https://www.dawn.com/news/2018534/modi-announces-panel-to-reform-indias-exam-system-anti-govt-graffiti-at-jantar-mantar-painted-over)*
-- A suspect involved in a minivan ramming attack near a Pride gathering in Berlin was shot dead by police. *[Dawn](https://www.dawn.com/news/2018511/suspect-in-berlin-attack-near-pride-gathering-shot-dead-by-police)*
-- A power outage at a treatment works caused water supply disruptions at London's Gatwick Airport. *[Dawn](https://www.dawn.com/news/2018528/londons-gatwick-airport-hit-by-water-supply-problem)*
-- Iran is looking to regulate maritime traffic in the Strait of Hormuz, potentially including passage fees for vessels. *[Dawn](https://www.dawn.com/news/2018680/charging-for-hormuz)*
+- Four Pakistani nationals were reportedly killed in a suspected ambush in South Africa. *[Dawn](https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa)*
+- An Australian court upheld a racial vilification ruling against Senator Pauline Hanson regarding her comments about a Muslim senator. *[Dawn](https://www.dawn.com/news/2018722/australian-politician-fails-to-overturn-racial-vilification-ruling-over-telling-muslim-senator-to-go-back-to-pakistan)*
+- A mass shooting near the Space Needle in Seattle killed three people and wounded four others. *[Dawn](https://www.dawn.com/news/2018716/mass-shooting-kills-3-wounds-4-near-space-needle-landmark-in-seattle)*
+- Diplomatic efforts have resulted in a lull in the fighting between the US and Iran. *[Dawn](https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy)*
+- Benjamin Netanyahu noted that Iran was a primary topic of discussion during his meeting with Donald Trump. *[ARY](https://arynews.tv/netanyahu-says-iran-is-top-agenda-in-meeting-with-trump)*
+
+### Sports
+- The inclusion of cricket in the 2028 Los Angeles Olympics is seen as a strategic move to gain access to the massive Indian market. *[Dawn](https://www.dawn.com/news/2018762/how-cricket-could-become-the-olympics-gateway-to-india)*
 
 ### Health
-- The medical tribunal has issued significant judgments that redefine legal standards for professional negligence and medical evidence. *[Dawn](https://www.dawn.com/news/2018658/medical-tribunal-redefines-standards-of-negligence)*
+- Pakistan has entered a decisive phase in polio eradication, though insecurity in southern Khyber Pakhtunkhwa remains a significant hurdle. *[Dawn](https://www.dawn.com/news/2018773/pakistan-tells-global-watchdog-polio-eradication-is-within-reach-insecurity-in-kp-remains-biggest-hurdle)*
 
 ### Other
-- A Japanese Buddhist monk has appealed to followers worldwide to gather at Taxila’s Dharmarajika Stupa for global peace prayers. *[Dawn](https://www.dawn.com/news/2018551/japanese-monk-asks-buddhists-to-visit-taxila-for-peace-prayers)*
-- Entertainment updates include Marvel's new 'Avengers: Doomsday' toy line, Robert Pattinson's recent jokes, and rumors surrounding Olivia Rodrigo's music. *[ARY](https://arynews.tv/marvel-unveils-avengers-doomsday-toy-line-featuring-x-men-avengers-and-fantastic-four)* / *[ARY](https://arynews.tv/robert-pattinson-revives-twilight-rivalry-with-joke-about-the-odyssey-role)* / *[ARY](https://arynews.tv/olivia-rodrigo-sparks-spider-man-soundtrack-rumors-with-cryptic-social-post)*
-- Celebrity news features Indian Idol winner Jyotirmayee Nayak and rumors of a major wedding celebration for Tom Holland and Zendaya. *[ARY](https://arynews.tv/indian-idol-16-conqueror-jyotirmayee-nayak-opens-up-on-her-historic-victory-and-future-plans)* / *[ARY](https://arynews.tv/tom-holland-and-zendaya-planning-major-wedding-party-at-historic-belvoir-castle)*
+- Cast updates have been announced for the upcoming fifth season of *Bridgerton*. *[ARY](https://arynews.tv/bridgerton-season-5-cast-shake-up-whos-returning-whos-leaving-and-new-cast-members)*
+- Meghan Markle expressed feeling "vindicated" following an Emmy nomination for a Netflix show. *[ARY](https://arynews.tv/meghan-markle-feels-vindicated-by-emmy-nomination-for-cancelled-netflix-show)*
+- Sydney Sweeney has faced fan backlash over recent vacation photos shared on social media. *[ARY](https://arynews.tv/sydney-sweeney-sparks-fan-backlash-over-romantic-vacation-snaps-with-scooter-braun)*
+- Artist Shamoon Ismail has been featured on Zohran Mamdani's playlist. *[ARY](https://arynews.tv/shamoon-ismail-lands-on-zohran-mamdanis-playlist)*
 
