@@ -7,46 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 27-Jul-2026 09:08PKT 
+ &lrm; 27-Jul-2026 21:09PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان کے تجارتی خسارے میں اضافہ اور توانائی کے حوالے سے درآمدی انحصار کے خطرات۔ *[Dawn](https://www.dawn.com/news/2018654/rebounding-inflation-fiscal-pressures-threaten-recovery)*
-- عالمی توانائی کی رسائی کو محفوظ بنانے کے لیے ہرمز کے تنگ راستے سے متبادل پائپ لائنوں کی کوششیں۔ *[Dawn](https://www.dawn.com/news/2018582/pipelines-to-bypass-the-strait-of-hormuz)*
-- امریکہ اور ایران کے درمیان کشیدگی میں کمی کے باعث سونے کی قیمتوں میں اضافہ۔ *[ARY](https://arynews.tv/gold-gains-on-pause-in-us-iran-fighting-fed-decision-looms)*
-
-### سائنس اور ٹیکنالوجی
-- چینی صدر شی جن پنگ نے مصنوعی ذہانت (AI) کے نظم و ضبط اور گورننس کے لیے عالمی تعاون پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2018585/shifting-geopolitics-of-tech)*
-
-### موسم
-- ملک بھر میں مون سون کی بارشوں کے نتیجے میں اب تک 100 سے زائد اموات ہو چکی ہیں۔ *[Dawn](https://www.dawn.com/news/2018500/nationwide-deaths-this-monsoon-cross-100-more-rain-likely-in-countrys-upper-parts-from-july-29)*
-- پی ایم ڈی نے گلگت بلتستان اور خیبرپختونخوا کے لیے گلیشیائی جھیل کے پھٹنے (GLOF) کا الرٹ جاری کر دیا۔ *[Dawn](https://www.dawn.com/news/2018510/pmd-issues-glof-alert-for-northern-areas-as-several-gb-areas-cut-off-for-5th-consecutive-day)*
+- باب المندب میں بحری جہازوں کی بحالی کے بعد پیٹرولیم وزیر نے ایندھن کی قیمتوں میں کمی کا اشارہ دے دیا۔ *[Dawn](https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb)*
+- اسٹیٹ بینک آف پاکستان نے پالیسی ریٹ 11.5 فیصد پر برقرار رکھنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018718/central-bank-keeps-policy-rate-unchanged-at-115pc)*
+- پاکستان اسٹاک ایکسچینج کا شاخہ انڈیکس 7,000 سے زائد پوائنٹس کے اضافے کے ساتھ 178,000 کی سطح سے اوپر بند ہوا۔ *[Dawn](https://www.dawn.com/news/2018715/psx-opens-week-in-the-green-gains-more-than-7000-points-to-close-above-178000-mark)*
+- امریکہ اور ایران کے درمیان کشیدگی میں وقفے کے بعد خام تیل کی قیمتوں میں کمی دیکھی گئی۔ *[Dawn](https://www.dawn.com/news/2018729/oil-prices-near-one-week-low-after-us-iran-pause-over-weekend)*
+- بین الاقوامی مارکیٹ میں تیل کی قیمتوں میں کمی کے باعث سونے کی قیمتوں میں اضافہ ہوا۔ *[ARY](https://arynews.tv/gold-rate-today-international-market-july-27-2026)*
+- پاکستان میں ٹماٹروں کی قیمتوں میں شدید اضافہ ہو گیا ہے۔ *[ARY](https://arynews.tv/tomatoes-prices-skyrocket-in-pakistan)*
+- سرمایہ کاروں کے ریٹ ہائیک کے امکانات کم ہونے سے پاؤنڈ کی قیمت میں اضافہ ہوا ہے۔ *[ARY](https://arynews.tv/gbp-to-usd-pound-climbs-as-investors-scale-back-rate-hike-bets)*
 
 ### سیاست
-- آزاد جموں و کشمیر کے انتخابات کا پہلا مرحلہ میرپور ڈویژن میں شروع ہو گیا۔ *[Dawn](https://www.dawn.com/news/2018691/first-phase-of-ajk-polls-begins-in-mirpur-division)*
-- اے جے کے انتخابات کے دوران کوتالی میں پولنگ میں غفلت برتنے پر دو پریزیڈنگ افسران کو گرفتار کر لیا گیا۔ *[ARY](https://arynews.tv/ajk-elections-presiding-officers-suspended)*
+- امریکی کانگریسی اراکین نے چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر سے ملاقات کے دوران علاقائی استحکام میں پاکستان کے اہم کردار کو تسلیم کیا۔ *[Dawn](https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr)*
+- دفتر خارجہ نے مسئلہ کشمیر پر بھارتی وزیر کے اشتعال انگیز بیانات کی شدید مذمت کرتے ہوئے کہا ہے کہ پاکستان کسی بھی جارحیت کا مقابلہ کرنے کا عزم رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism)*
 
 ### قومی
-- صدر اور وزیراعظم سمیت دیگر اعلیٰ حکام نے توشہ خانہ میں ملنے والے تحائف جمع کروا دیے۔ *[Dawn](https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana)*
-- کراچی کے علاقے گلستانِ جوہر کی سڑکوں کی ابتر حالت شہریوں کے لیے روزانہ کی بنیاد پر مشکلات کا باعث بن رہی ہے۔ *[Dawn](https://www.dawn.com/news/2018622/pothole-riddled-karachis-gulistan-i-jauhar-roads-turn-daily-travel-into-an-exhausting-ordeal)*
-- بھارتی فنڈنگ کے عوض سوشل میڈیا پر ریاست مخالف مواد پھیلانے کے الزام میں ایک شخص کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2018518/tarar-claims-man-arrested-for-spreading-anti-state-material-online-in-exchange-for-indian-funding)*
-- دھابجی پمپنگ اسٹیشن پر بجلی کی بندش کے باعث کراچی کے بعض علاقوں میں پانی کی قلت کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2018517/parts-of-karachi-may-face-water-shortage-after-power-breakdown-at-dhabeji-pumping-station)*
-- کوئٹہ میں دستی بم دھماکے کے نتیجے میں ایک شخص جاں بحق اور چار زخمی ہو گئے۔ *[ARY](https://arynews.tv/grenade-attack-near-quettas-patel-road-leaves-one-dead-four-injured)*
-- ناڈرا کی ایپ کے ذریعے گاڑیوں کی بائیومیٹرک تصدیق کرنے کے طریقہ کار کی معلومات۔ *[ARY](https://arynews.tv/how-to-complete-vehicle-biometric-verification-via-nadras-pak-id-app)*
+- آزاد جموں و کشمیر کے انتخابات کے پہلے مرحلے میں میرپور ڈویژن کے مختلف حلقوں میں لڑائی جھگڑے اور دھاندلی کے الزامات سامنے آئے۔ *[Dawn](https://www.dawn.com/news/2018691/polling-concludes-in-mirpur-division-as-scuffles-rigging-allegations-mar-first-phase-of-ajk-elections)*
+- اسلام آباد کی عدالت نے پی اے ایف افسر کے مبینہ قاتل کی جسمانی ریمانڈ میں مزید سات دن کی توسیع کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days)*
+- سندھ حکومت نے شاہ عبداللطیف بھٹائی کے عرس کے موقع پر بدھ کے روز صوبے بھر میں عام تعطیل کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018748/public-holiday-in-sindh-on-wednesday-for-shah-abdul-latif-bhittais-urs)*
+- کراچی میں بجلی کی بحالی کے بعد دھابجی پمپنگ اسٹیشن سے پانی کی فراہمی مرحلہ وار دوبارہ شروع ہو گئی۔ *[Dawn](https://www.dawn.com/news/2018724/water-supply-to-parts-of-karachi-resumes-after-power-at-dhabeji-pumping-station-restored)*
+- صدر، وزیراعظم اور دیگر وفاقی وزراء نے توشہ خانہ میں ملنے والے تحائف جمع کروا دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana)*
+- جنرل سید عامر رضا نے سی این ایس سی کا چارج سنبھالنے کے بعد فیلڈ مارشل سے ملاقات کی۔ *[ARY](https://arynews.tv/general-syed-aamer-raza-calls-on-field-marshal-after-assuming-charge-of-cnsc)*
+- میرپور ڈویژن سے آزاد کشمیر انتخابات کے غیر سرکاری نتائج سامنے آ گئے ہیں۔ *[ARY](https://arynews.tv/ajk-elections-2026-unofficial-results-from-mirpur-division)*
 
 ### بین الاقوامی
-- امریکہ اور ایران کے درمیان لڑائی میں سفارتی کوششوں کے نتیجے میں عارضی طور پر لڑائی میں کمی واقع ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy)*
-- اسرائیل غزہ میں بین الاقوامی سیکورٹی فورس کی آمد کی اجازت دینے کے لیے قانونی فریم ورک منظور کرے گا۔ *[Dawn](https://www.dawn.com/news/2018568/israel-to-allow-international-force-into-gaza-israeli-official-says)*
-- بھارتی وزیراعظم نریندر مودی نے امتحانی نظام میں اصلاحات کے لیے ایک خصوصی ٹاسک فورس کا اعلان کیا۔ *[Dawn](https://www.dawn.com/news/2018534/modi-announces-panel-to-reform-indias-exam-system-anti-govt-graffiti-at-jantar-mantar-painted-over)*
-- برلن میں پرائیڈ مارچ کے قریب گاڑی کے ذریعے حملہ کرنے والا مشتبہ شخص پولیس کی فائرنگ سے ہلاک ہو گیا۔ *[Dawn](https://www.dawn.com/news/2018511/suspect-in-berlin-attack-near-pride-gathering-shot-dead-by-police)*
-- لندن کے گیٹ وک ایئرپورٹ پر بجلی کی بندش کے باعث پانی کی فراہمی میں تعطل پیدا ہوا۔ *[Dawn](https://www.dawn.com/news/2018528/londons-gatwick-airport-hit-by-water-supply-problem)*
-- ایران نے ہرمز کے تنگ راستے پر بحری آمد و رفت کو منظم کرنے اور فیس مقرر کرنے کے لیے اقدامات شروع کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2018680/charging-for-hormuz)*
+- جنوبی افریقہ میں مبینہ حملے میں پاکستانی نژاد چار افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa)*
+- بھارتی کارکنوں نے احتجاج کے دوران مصنوعی ذہانت پر مبنی نگرانی کے نظام کے استعمال پر وزیراعظم مودی کی حکومت کو چیلنج کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018775/modi-faces-challenge-from-activists-over-surveillance-at-india-youth-protest)*
+- آسٹریلیا کی ایک معروف سیاست دان کی نسل پرستی کے حوالے سے دی گئی سزا کو چیلنج کرنے کی درخواست مسترد ہو گئی۔ *[Dawn](https://www.dawn.com/news/2018722/australian-politician-fails-to-overturn-racial-vilification-ruling-over-telling-muslim-senator-to-go-back-to-pakistan)*
+- بھارت کی "کوکروچ" تحریک نے امتحانوں میں دھاندلی کے خلاف احتجاج کرنے والے طلباء کی فوری رہائی کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2018741/indias-cockroach-janta-party-demands-release-of-protesters-after-reports-of-detention)*
+- امریکہ کے شہر سیٹل میں ایک فوڈ فیسٹیول کے دوران فائرنگ کے واقعے میں تین افراد ہلاک اور چار زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018716/mass-shooting-kills-3-wounds-4-near-space-needle-landmark-in-seattle)*
+- امریکہ اور ایران کے درمیان فوجی کارروائیوں میں وقفے سے سفارتی حل کی امیدیں بڑھ گئی ہیں۔ *[Dawn](https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy)*
+- نیتن یاہو نے ٹرمپ سے ملاقات کے دوران ایران کو اپنا سب سے اہم ایجنڈا قرار دیا۔ *[ARY](https://arynews.tv/netanyahu-says-iran-is-top-agenda-in-meeting-with-trump)*
+
+### موسمی حالات
+- اسپین میں جنگلات کی آگ کو کنٹرول کرنے کی کوششیں جاری ہیں، جبکہ ملک کو نئی ہیٹ ویو کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2018742/spain-races-to-contain-blazes-before-temperatures-rise)*
 
 ### صحت
-- میڈیکل ٹربیونل نے پیشہ ورانہ غفلت اور قانونی معیاروں سے متعلق اہم فیصلے جاری کیے۔ *[Dawn](https://www.dawn.com/news/2018658/medical-tribunal-redefines-standards-of-negligence)*
+- پاکستان نے عالمی ادارے کو بتایا کہ پولیو کا خاتمہ ممکن ہے، تاہم خیبر پختونخوا میں عدم تحفظ سب سے بڑی رکاوٹ ہے۔ *[Dawn](https://www.dawn.com/news/2018773/pakistan-tells-global-watchdog-polio-eradication-is-within-reach-insecurity-in-kp-remains-biggest-hurdle)*
+
+### کھیل
+- کرکٹ کی 2028 کے اولمپکس میں واپسی بھارت کے لیے ایک بڑا تجارتی موقع ثابت ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2018762/how-cricket-could-become-the-olympics-gateway-to-india)*
 
 ### دیگر
-- جاپانی راہب نے عالمی امن کے لیے ٹیکسلا کے قدیم مقام پر دعاؤں کی اپیل کی۔ *[Dawn](https://www.dawn.com/news/2018551/japanese-monk-asks-buddhists-to-visit-taxila-for-peace-prayers)*
-- تفریحی خبریں: رابرٹ پیٹنسن، مارول کے نئے کھلونے اور اولیویا روڈریگو سے متعلق خبریں۔ *[ARY](https://arynews.tv/robert-pattinson-revives-twilight-rivalry-with-joke-about-the-odyssey-role)* | *[ARY](https://arynews.tv/marvel-unveils-avengers-doomsday-toy-line-featuring-x-men-avengers-and-fantastic-four)* | *[ARY](https://arynews.tv/olivia-rodrigo-sparks-spider-man-soundtrack-rumors-with-cryptic-social-post)*
+- مشہور سیریز "Bridgerton" کے پانچویں سیزن کے کاسٹ میں تبدیلیوں کی اطلاعات۔ *[ARY](https://arynews.tv/bridgerton-season-5-cast-shake-up-whos-returning-whos-leaving-and-new-cast-members)*
+- شامون اسماعیل کا زہران ممدانی کی پلے لسٹ میں شامل ہونا۔ *[ARY](https://arynews.tv/shamoon-ismail-lands-on-zohran-mamdanis-playlist)*
+- میگن مارکل کو نیٹ فلکس شو کے لیے ایمی ایوارڈ کی نامزدگی ملنے پر خوشی کا اظہار۔ *[ARY](https://arynews.tv/meghan-markle-feels-vindicated-by-emmy-nomination-for-cancelled-netflix-show)*
+- سریڈینی سوینی کی تعطیلاتی تصاویر پر مداحوں کا ردعمل۔ *[ARY](https://arynews.tv/sydney-sweeney-sparks-fan-backlash-over-romantic-vacation-snaps-with-scooter-braun)*
 
