@@ -4,53 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 27-Jul-2026 21:03PKT
+Published at: 28-Jul-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petroleum Minister hinted at potential fuel price relief after Pakistan's oil cargoes safely cleared the Bab-al-Mandeb chokepoint. *[Dawn](https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb)*
-- The State Bank of Pakistan's Monetary Policy Committee decided to keep the policy interest rate unchanged at 11.5%. *[Dawn](https://www.dawn.com/news/2018718/central-bank-keeps-policy-rate-unchanged-at-115pc)*
-- The Pakistan Stock Exchange (PSX) benchmark index surged by more than 7,000 points to close above the 178,000 mark. *[Dawn](https://www.dawn.com/news/2018715/psx-opens-week-in-the-green-gains-more-than-7000-points-to-close-above-178000-mark)*
-- Global oil prices reached a near one-week low following a pause in military strikes between the US and Iran. *[Dawn](https://www.dawn.com/news/2018729/oil-prices-near-one-week-low-after-us-iran-pause-fighting-over-weekend)*
-- Gold prices have risen in the international market as oil prices retreat. *[ARY](https://arynews.tv/gold-rate-today-international-market-july-27-2026)*
-- Tomato prices have experienced a massive surge across Pakistan. *[ARY](https://arynews.tv/tomatoes-prices-skyrocket-in-pakistan)*
-- The British Pound (GBP) climbed against the US Dollar as investors scaled back expectations for interest rate hikes. *[ARY](https://arynews.tv/gbp-to-usd-pound-climbs-as-investors-scale-back-rate-hike-bets)*
+- The government has decreased petrol prices by Re1 while increasing the High Speed Diesel (HSD) price by Rs3.37. *[Dawn](https://www.dawn.com/news/2018803/govt-decreases-petrol-price-by-re1-increases-hsd-price-by-rs337)*
+- Stakeholders are divided over the State Bank of Pakistan's decision to maintain the policy rate at 11.5 per cent. *[Dawn](https://www.dawn.com/news/2018929/policy-rate-pause-splits-stakeholders)*
+- The Petroleum Minister hinted at potential fuel price relief following the safe clearance of oil cargoes from the Bab-al-Mandeb chokepoint. *[Dawn](https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb)*
+- London stocks saw a slight increase driven by a lull in the US-Iran conflict and positive earnings. *[ARY](https://arynews.tv/london-stocks-inch-up-as-us-iran-pause-earnings-lift-risk-appetite)*
 
 ### Weather
-- Spain is racing to contain raging wildfires and prepare for an incoming heatwave, with 60,000 people already displaced. *[Dawn](https://www.dawn.com/news/2018742/spain-races-to-contain-blazes-before-temperatures-rise)*
+- Floodwaters and breaches in Nullah Deg and Bherr have severed the rail link between Lahore and Faisalabad. *[Dawn](https://www.dawn.com/news/2018903/floodwaters-sever-rail-link-between-lahore-faisalabad)*
+- Severe floods and landslides have left many residents and tourists stranded in Gilgit-Baltistan for six days, causing shortages of food and medicine. *[Dawn](https://www.dawn.com/news/2018881/many-stranded-in-gb-for-six-days-as-flood-delays-repairs)*
 
 ### Politics
-- US Congressmen acknowledged Pakistan's "critical role" in regional stability during a meeting with Chief of Defence Forces Field Marshal Asim Munir. *[Dawn](https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr)*
-- The first phase of AJK elections in the Mirpur division was marred by scuffles and allegations of rigging. *[Dawn](https://www.dawn.com/news/2018691/polling-concludes-in-mirpur-division-as-scuffles-rigging-allegations-mar-first-phase-of-ajk-elections)*
-- Indian activists are challenging the government over the use of AI-powered surveillance during recent youth protests. *[Dawn](https://www.dawn.com/news/2018775/modi-faces-challenge-from-activists-over-surveillance-at-india-youth-protest)*
-- Pakistan's Foreign Office condemned "provocative" remarks by the Indian Defence Minister regarding the Kashmir issue. *[Dawn](https://www.dawn.com/news/2018711/fo-condemns-indian-ministers-remarks-on-kashmir-issue-warns-against-underestimating-resolve-to-thwart-any-adventurism)*
-- India's "Cockroach Janta Party" has demanded the release of students detained during nationwide protests over exam leaks. *[Dawn](https://www.dawn.com/news/2018741/indias-cockroach-janta-party-demands-release-of-protesters-after-reports-of-detention)*
-- President Asif Ali Zardari, PM Shehbaz Sharif, and other cabinet members have deposited recently received foreign gifts into the Toshakhana. *[Dawn](https://www.dawn.com/news/2018662/president-pm-others-return-gifts-to-toshakhana)*
-- Unofficial election results from the Mirpur division have been released for the AJK 2026 elections. *[ARY](https://arynews.tv/ajk-elections-2026-unofficial-results-from-mirpur-division)*
+- Unofficial results from the AJK elections show PML-N leading in seven constituencies and PPP ahead in five. *[Dawn](https://www.dawn.com/news/2018908/close-contest-sees-n-take-the-lead-in-mirpur-polls)*
+- KP Chief Minister Sohail Afridi denied the existence of any armed "Imran Khan Rehayi Aman Movement" before the Federal Constitutional Court. *[Dawn](https://www.dawn.com/news/2018901/no-release-imran-force-exists-kp-cm-tells-federal-constitutional-court)*
+- The PTI has alleged that Punjab chapter organizer Aaliya Hamza was physically attacked by inmates in Kot Lakhpat Jail. *[Dawn](https://www.dawn.com/news/2018804/pti-claims-jailed-leader-aaliya-hamza-attacked-in-kot-lakhpat-jail)*
+- Complete unofficial election results have been released for constituencies LA-7 Bhimber, LA-3 Mirpur, and LA-4 Khari Sharif. *[ARY](https://arynews.tv/la-7-bhimber-3-complete-unofficial-results)* *[ARY](https://arynews.tv/la-3-mirpur-complete-unofficial-result)* *[ARY](https://arynews.tv/la-4-khari-sharif-complete-unofficial-result)*
 
 ### National
-- An anti-terrorism court extended the physical remand of the suspect accused of murdering a Pakistan Air Force Group Captain. *[Dawn](https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days)*
-- The Sindh government declared a public holiday on July 29 for the annual urs of Sufi poet Shah Abdul Latif Bhittai. *[Dawn](https://www.dawn.com/news/2018748/public-holiday-in-sindh-on-wednesday-for-shah-abdul-latif-bhittais-urs)*
-- Water supply to several parts of Karachi has resumed following the restoration of electricity at the Dhabeji pumping station. *[Dawn](https://www.dawn.com/news/2018724/water-supply-to-parts-of-karachi-resumes-after-power-at-dhabeji-pumping-station-restored)*
-- General Syed Aamer Raza met with the Field Marshal after assuming charge of the CNSC. *[ARY](https://arynews.tv/general-syed-aamer-raza-calls-on-field-marshal-after-assuming-charge-of-cnsc)*
+- The Peshawar High Court has restrained authorities from deporting a petitioner named ‘Quaid-i-Azam’ and directed him to appear before a NADRA verification board. *[Dawn](https://www.dawn.com/news/2018808/phc-stops-deportation-of-man-named-quaid-i-azam-directs-him-to-appear-before-nadra-board)*
+- Pakistan has repatriated 513 smuggled archaeological artefacts, mostly Gandhara relics, from the United States. *[Dawn](https://www.dawn.com/news/2018915/513-smuggled-artefacts-repatriated-from-us)*
+- Lawyers Imaan Mazari and Hadi Ali Chattha are seeking an early hearing for the suspension of their sentences in a social media posts case. *[Dawn](https://www.dawn.com/news/2018916/imaan-hadi-seek-early-hearing-of-their-petition-in-peca-case)*
+- Newly appointed CNSC Aamer Raza met with Chief of Defence Forces (CDF) Asim Munir at GHQ. *[Dawn](https://www.dawn.com/news/2018788/newly-appointed-cnsc-aamer-raza-meets-cdf-asim-munir-in-rawalpindi-ispr)*
+- An anti-terrorism court has extended the physical remand of a suspect accused of murdering a PAF Group Captain. *[Dawn](https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days)*
+- The Punjab Chief Minister has approved the expansion of the provincial ration card programme. *[ARY](https://arynews.tv/punjab-cm-approves-expansion-of-ration-card-programme)*
 
 ### International
-- Four Pakistani nationals were reportedly killed in a suspected ambush in South Africa. *[Dawn](https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa)*
-- An Australian court upheld a racial vilification ruling against Senator Pauline Hanson regarding her comments about a Muslim senator. *[Dawn](https://www.dawn.com/news/2018722/australian-politician-fails-to-overturn-racial-vilification-ruling-over-telling-muslim-senator-to-go-back-to-pakistan)*
-- A mass shooting near the Space Needle in Seattle killed three people and wounded four others. *[Dawn](https://www.dawn.com/news/2018716/mass-shooting-kills-3-wounds-4-near-space-needle-landmark-in-seattle)*
-- Diplomatic efforts have resulted in a lull in the fighting between the US and Iran. *[Dawn](https://www.dawn.com/news/2018664/lull-in-iran-us-fighting-achieved-by-fresh-round-of-diplomacy)*
-- Benjamin Netanyahu noted that Iran was a primary topic of discussion during his meeting with Donald Trump. *[ARY](https://arynews.tv/netanyahu-says-iran-is-top-agenda-in-meeting-with-trump)*
+- At least 624 US military service members have been wounded since the onset of the conflict with Iran in February. *[Dawn](https://www.dawn.com/news/2018883/over-600-us-troops-wounded-since-iran-war-began)*
+- US congressmen met with Pakistan's CDF Asim Munir, acknowledging Pakistan's critical role in regional stability. *[Dawn](https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr)*
+- A lull in fighting has been reported between the US and Iran following a period of escalating violence. *[Dawn](https://www.dawn.com/news/2018922/lull-in-fighting)*
+- The Kuwaiti Foreign Minister is scheduled to undertake an official visit to Pakistan from July 28 to 29. *[Dawn](https://www.dawn.com/news/2018791/kuwaiti-foreign-minister-to-visit-pakistan-from-july-28-to-29)*
+- Four men, reportedly Pakistani nationals, were gunned down in a suspected ambush in South Africa. *[Dawn](https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa)*
 
 ### Sports
-- The inclusion of cricket in the 2028 Los Angeles Olympics is seen as a strategic move to gain access to the massive Indian market. *[Dawn](https://www.dawn.com/news/2018762/how-cricket-could-become-the-olympics-gateway-to-india)*
+- Football star Cristiano Ronaldo is set to make his acting debut in a new series. *[ARY](https://arynews.tv/cristiano-ronaldo-to-make-acting-debut-in-new-series)*
 
 ### Health
-- Pakistan has entered a decisive phase in polio eradication, though insecurity in southern Khyber Pakhtunkhwa remains a significant hurdle. *[Dawn](https://www.dawn.com/news/2018773/pakistan-tells-global-watchdog-polio-eradication-is-within-reach-insecurity-in-kp-remains-biggest-hurdle)*
+- Michigan is currently managing an ongoing outbreak of cyclosporiasis with 9,253 reported cases. *[ARY](https://arynews.tv/michigan-reports-9253-cyclosporiasis-cases-in-ongoing-outbreak)*
 
 ### Other
-- Cast updates have been announced for the upcoming fifth season of *Bridgerton*. *[ARY](https://arynews.tv/bridgerton-season-5-cast-shake-up-whos-returning-whos-leaving-and-new-cast-members)*
-- Meghan Markle expressed feeling "vindicated" following an Emmy nomination for a Netflix show. *[ARY](https://arynews.tv/meghan-markle-feels-vindicated-by-emmy-nomination-for-cancelled-netflix-show)*
-- Sydney Sweeney has faced fan backlash over recent vacation photos shared on social media. *[ARY](https://arynews.tv/sydney-sweeney-sparks-fan-backlash-over-romantic-vacation-snaps-with-scooter-braun)*
-- Artist Shamoon Ismail has been featured on Zohran Mamdani's playlist. *[ARY](https://arynews.tv/shamoon-ismail-lands-on-zohran-mamdanis-playlist)*
+- Justin Baldoni celebrated his 12th wedding anniversary with his wife, Emily. *[ARY](https://arynews.tv/justin-baldoni-celebrates-12th-wedding-anniversary-with-wife-emily-amid-ongoing-blake-lively-legal-drama)*
+- Meghan Markle is facing fresh online scrutiny regarding constant media attention. *[ARY](https://arynews.tv/meghan-markle-faces-fresh-online-scrutiny-over-constant-media-attention)*
+- Indian actress Kangana Ranaut has expressed interest in becoming India's education minister. *[ARY](https://arynews.tv/kangana-ranaut-wants-to-become-indias-education-minister)*
 
