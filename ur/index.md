@@ -7,47 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 28-Jul-2026 09:09PKT 
+ &lrm; 29-Jul-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے پیٹرول کی قیمت میں 1 روپے کمی اور ایچ ایس ڈی (HSD) کی قیمت میں 3.37 روپے اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2018803/govt-decreases-petrol-price-by-re1-increases-hsd-price-by-rs337)*
-- اسٹیٹ بینک کے پالیسی ریٹ کو برقرار رکھنے کے فیصلے پر سرمایہ کاروں اور مقامی تاجروں کے درمیان اختلاف پایا جاتا ہے۔ *[Dawn](https://www.dawn.com/news/2018929/policy-rate-pause-splits-stakeholders)*
-- پیٹرولیم وزیر نے اشارہ دیا ہے کہ بحر الاحمر میں تیل کے کارگو کے بحفاظت پہنچنے کے بعد ایندھن کی قیمتوں میں کمی ممکن ہے۔ *[Dawn](https://www.dawn.com/news/2018766/petroleum-minister-hints-at-fuel-price-relief-after-pakistans-oil-cargoes-clear-bab-al-mandeb)*
-- امریکہ اور ایران کے درمیان کشیدگی میں کمی اور کاروباری منافع کے رجحان کی وجہ سے لندن اسٹاک مارکیٹ میں اضافہ دیکھا گیا۔ *[ARY](https://arynews.tv/london-stocks-inch-up-as-us-iran-pause-earnings-lift-risk-appetite)*
+- بجلی کے شعبے میں گردشی قرضوں میں 61 ارب روپے کے اضافے پر وزارت خزانہ کو ذمہ دار ٹھہرایا گیا۔ *[Dawn](https://www.dawn.com/news/2019164/power-division-pins-blame-for-circular-debt-on-q-block)*
+- حکومت نے پیٹرول کی قیمت میں 1.63 روپے اور ایچ ایس ڈی (HSD) کی قیمت میں 1.55 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2019031/govt-increases-petrol-price-by-rs163-hsd-price-by-rs155)*
+- حکومت نے آئل ریفائننگ کے شعبے کو جدید بنانے کے لیے 6 ارب ڈالر کی سرمایہ کاری پر مشتمل 'براؤن فیلڈ ریفائننگ پالیسی' منظور کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2019003/govt-finally-revamps-oil-refining-policy-what-does-it-mean)*
+- ایف آئی ایف اے (FIFA) اپنے ٹورنامنٹس کے کاروبار میں 4.2 ارب ڈالر کا حصہ فروخت کرنے کا ارادہ رکھتی ہے۔ *[Dawn](https://www.dawn.com/news/2019037/fifa-says-it-hopes-to-sell-42bn-stake-in-its-tournaments)*
+- پاکستان میں بجلی فراہم کرنے والے اداروں (DISCOs) کی نجکاری کے عمل کو مزید آگے بڑھا دیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-advances-privatization-of-first-batch-of-power-discos)*
+- جی ڈی پی (GDP) کی شرح نمو اور عام آدمی کی فلاح و بہبود کے درمیان بڑھتے ہوئے فرق پر تشویش کا اظہار کیا گیا۔ *[Dawn](https://www.dawn.com/news/2019177/beyond-arithmetic)*
+- فریزر کمپنی نے بربری (Burberry) میں اپنا حصہ بڑھا کر اسے تیسرا بڑا شیئر ہولڈر بننے کی کوشش کی۔ *[ARY](https://arynews.tv/frasers-builds-stake-in-burberry-to-become-third-largest-shareholder)*
+
+### سائنس اور ٹیکنالوجی
+- ایئربس (Airbus) نے ایک خصوصی طیارے کے ذریعے 24 گھنٹے کی ریکارڈ پرواز کا کامیاب تجربہ مکمل کر لیا۔ *[Dawn](https://www.dawn.com/news/2019038/airbus-completes-record-24-hour-flight-with-plane-to-be-used-by-qantas)*
+- پی ٹی اے (PTA) نے عوام کو غیر ملکی سم (SIM) کارڈز کے استعمال سے بچنے کی وارننگ جاری کر دی۔ *[ARY](https://arynews.tv/pta-warns-against-use-of-foreign-sims)*
 
 ### موسم
-- سیلابی پانی کے باعث لاہور اور فیصل آباد کے درمیان ریلوے لنک ٹوٹ گیا ہے، جس کی وجہ سے ٹرینوں کو دوسرے راستوں سے گزارا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2018903/floodwaters-sever-rail-link-between-lahore-faisalabad)*
-- گلگت بلتستان میں شدید سیلاب اور لینڈ سلائیڈنگ کے باعث کئی لوگ چھ دن سے پھنسے ہوئے ہیں اور انہیں بنیادی ضرورت کی اشیاء کی قلت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2018881/many-stranded-in-gb-for-six-days-as-flood-delays-repairs)*
+- ملک بھر میں مون سون کی تازہ بارشوں کی پیش گوئی، دریاؤں میں طغیانی اور اچانک سیلاب یا لینڈ سلائیڈنگ کا خطرہ۔ *[Dawn](https://www.dawn.com/news/2019165/rivers-may-swell-again-as-fresh-monsoon-spell-arrives)*
 
 ### سیاست
-- آزاد جموں و کشمیر کے انتخابات کے پہلے مرحلے میں میرپور میں سخت مقابلہ دیکھنے میں آیا اور ریگنگ کے الزامات بھی سامنے آئے۔ *[Dawn](https://www.dawn.com/news/2018908/close-contest-sees-n-take-the-lead-in-mirpur-polls)*
-- خیبر پختونخوا کے وزیر اعلیٰ نے وفاقی آئینی عدالت میں دعویٰ کیا کہ عمران خان کے نام سے کوئی مسلح فورس موجود نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2018901/no-release-imran-force-exists-kp-cm-tells-federal-constitutional-court)*
-- پنجاب کے وزیر اعلیٰ نے راشن کارڈ پروگرام کو مزید وسعت دینے کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/punjab-cm-approves-expansion-of-ration-card-programme)*
-- مختلف حلقوں (بھمبر، میرپور اور خاری شریف) کے غیر سرکاری انتخابی نتائج جاری کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/la-7-bhimber-3-complete-unofficial-results)*
+- فیڈرل کانسٹٹیوشنل کورٹ (FCC) کا عمران خان کی رہائی کے کیس میں سابقہ حکم کو برقرار رکھنے کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2019150/fcc-says-earlier-order-in-imrans-release-case-remains-in-force)*
+- محمود خان Achakzai نے بلوچستان میں بڑھتے ہوئے سیکورٹی بحران کے حل کے لیے تین روزہ جرگے کی کال دی۔ *[Dawn](https://www.dawn.com/news/2019129/achakzai-calls-for-jirga-on-balochistan-security-crisis)*
+- آزاد کشمیر کے انتخابات کے پہلے مرحلے کے بعد پیپلز پارٹی اور مسلم لیگ (ن) کے درمیان سیاسی کشیدگی میں اضافہ۔ *[Dawn](https://www.dawn.com/news/2019014/coalition-partners-ppp-pml-n-spar-after-first-phase-of-ajk-elections-as-political-temperatures-rise)*
+- بلاول بھٹو زرداری نے آزاد کشمیر کے تنازعات کو حل کرنے کے لیے 'سچائی اور مصالحت کمیشن' کے قیام کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2018993/govt-protesters-must-agree-to-formation-of-a-truth-commission-to-resolve-unrest-in-ajk-demands-bilawal)*
+- اطلاعات وزیر عطا اللہ تارڑ کا آزاد کشمیر میں ہونے والے احتجاج پر دہشت گرد عناصر اور غیر ملکی ایجنڈے کا الزام۔ *[Dawn](https://www.dawn.com/news/2019021/militant-elements-within-proscribed-jaac-protests-pursuing-foreign-agenda-tarar)*
+- بلاول بھٹو نے اپنے 'ریاست' سے متعلق حالیہ بیان کی وضاحت کرتے ہوئے کہا کہ اس کا مقصد اسٹیبلشمنٹ نہیں تھا۔ *[ARY](https://arynews.tv/bilawal-bhutto-clarifies-state-remarks)*
 
-### قومی
-- پشاور ہائی کورٹ نے ایک شخص کو ملک بدر کرنے سے روک دیا ہے اور اسے نادرا بورڈ کے سامنے پیش ہونے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2018808/phc-stops-deportation-of-man-named-quaid-i-azam-directs-him-to-appear-before-nadra-board)*
-- امریکہ سے 513 اسمگل شدہ آثارِ قدیمہ کے نمونے پاکستان واپس لائے گئے ہیں۔ *[Dawn](https://www.dawn.com/news/2018915/513-smuggled-artefacts-repatriated-from-us)*
-- چیف آف ڈیفنس فورسز نے امریکی کانگریس کے اراکین سے ملاقات کی، جس میں پاکستان کے علاقائی استحکام کے اہم کردار کو تسلیم کیا گیا۔ *[Dawn](https://www.dawn.com/news/2018779/in-meeting-with-cdf-munir-us-congressmen-acknowledge-pakistans-critical-role-in-regional-stability-ispr)*
-- نئے مقرر کردہ کمانڈر نیشنل اسٹریٹجک کمانڈ (CNSC) جنرل عامر رضا نے چیف آف ڈیفنس فورسز سے ملاقات کی۔ *[Dawn](https://www.dawn.com/news/2018788/newly-appointed-cnsc-aamer-raza-meets-cdf-asim-munir-in-rawalpindi-ispr)*
-- پی ٹی آئی نے الزام لگایا ہے کہ کوٹ لکھپت جیل میں ان کی رہنما عالیہ حمزہ پر حملہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2018804/pti-claims-jailed-leader-aaliya-hamza-attacked-in-kot-lakhpat-jail)*
-- کویتی وزیر خارجہ 28 سے 29 جولائی تک پاکستان کا سرکاری دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2018791/kuwaiti-foreign-minister-to-visit-pakistan-from-july-28-to-29)*
-- اسلام آباد کی عدالت نے پی اے ایف افسر کے مبینہ قاتل کی جسمانی ریمانڈ میں مزید سات دن کی توسیع کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2018777/islamabad-court-extends-physical-remand-of-paf-officers-alleged-killer-by-seven-days)*
+### ملکی
+- لاہور میں اٹارنی جنرل منصور اعوان کے گھر پولیس کے غیر قانونی چھاپے پر 11 اہلکاروں کے خلاف مقدمہ درج۔ *[Dawn](https://www.dawn.com/news/2019093/sho-among-11-cops-booked-over-raid-on-agp-mansoor-awans-house-in-lahore)*
+- آئی فون امپورٹ کرنے کے حوالے سے منظم فراڈ کی تحقیقات کے لیے ایف بی آر (FBR) کو ہدایات جاری۔ *[Dawn](https://www.dawn.com/news/2019160/nationwide-iphone-scam-probe-widens)*
+- کراچی کے علاقے اورنگی ٹاؤن میں پولیس مقابلے کے دوران ایک کانسٹیبل شہید اور دو مبینہ ڈاکو ہلاک۔ *[Dawn](https://www.dawn.com/news/2019018/police-constable-martyred-2-suspected-robbers-killed-in-shootout-in-karachis-orangi-town-police)*
+- آزاد کشمیر میں انتظامی کارروائی کے سلسلے میں ڈی سی کوٹلی، ایس پی کوٹلی اور میرپور کے ایس ایچ او کو معطل کر دیا گیا۔ *[ARY](https://arynews.tv/dc-sp-kotli-and-mirpur-sho-suspended-in-ajk-administrative-crackdown)*
 
 ### بین الاقوامی
-- ایران کے خلاف امریکی حملوں کے بعد سے اب تک 600 سے زیادہ امریکی فوجی زخمی ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2018883/over-600-us-troops-wounded-since-iran-war-began)*
-- جنوبی افریقہ میں ایک مبینہ حملے میں چار افراد، جو پاکستانی شہری بتائے جاتے ہیں، ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2018768/four-men-reportedly-pakistani-nationals-gunned-down-in-south-africa)*
-- امریکہ اور ایران کے درمیان لڑائی میں عارضی وقفہ دیکھا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2018922/lull-in-fighting)*
+- اقوام متحدہ کی سلامتی کونسل میں امریکہ اور فرانس کے درمیان سفارتی جھگڑا، امریکی وفد کا فرانسیسی سفیر کے خطاب کے دوران باہر نکل جانا۔ *[Dawn](https://www.dawn.com/news/2019149/us-walks-out-on-france-at-un-security-council)*
+- اسرائیلی وزیراعظم نیتن یاہو کی وائٹ ہاؤس میں صدر ٹرمپ سے پہلی ملاقات، جس میں ایران جنگ کے موضوع پر بات چیت متوقع ہے۔ *[Dawn](https://www.dawn.com/news/2019032/netanyahu-visits-white-house-for-first-trump-talks-during-iran-war)*
+- بھارت میں طلباء کی قیادت میں بڑے پیمانے پر احتجاجی تحریک کا آغاز۔ *[Dawn](https://www.dawn.com/news/2019178/south-asias-gen-z-moment)*
+- اداکار مارک رفلو کا غزہ کی صورتحال پر اسرائیلی وزیراعظم کے خلاف سخت ردعمل۔ *[ARY](https://arynews.tv/mark-ruffalo-calls-netanyahu-murderous-maniac-over-gaza)*
 
 ### کھیل
-- کرسٹیانو رونالڈو ایک نئی سیریز میں اپنی اداکاری کا آغاز کرنے جا رہے ہیں۔ *[ARY](https://arynews.tv/cristiano-ronaldo-to-make-acting-debut-in-new-series)*
+- پہلے ٹیسٹ میں ویسٹ انڈیز نے پاکستان کو 90 رنز سے شکست دے دی۔ *[Dawn](https://www.dawn.com/news/2019199/west-indies-beat-pakistan-by-90-runs-in-first-test)*
+- انٹرنیٹ پر کرکٹ میچ کے دوران چیٹنگ کے الزامات کے باعث بحث و تکرار شروع ہو گئی۔ *[ARY](https://arynews.tv/viral-cricket-match-sparks-internet-debate-following-cheating-allegation)*
 
 ### صحت
-- امریکی ریاست مشی گن میں سائیکلو سپورائسز (Cyclosporiasis) کے انفیکشن کے 9,253 کیسز رپورٹ ہوئے ہیں۔ *[ARY](https://arynews.tv/michigan-reports-9253-cyclosporiasis-cases-in-ongoing-outbreak)*
+- پاکستان میں شدید گرمی اور ٹھنڈک کے نظام تک رسائی نہ ہونے کی وجہ سے مستقبل میں جانی نقصان کے خطرے کی وارننگ۔ *[Dawn](https://www.dawn.com/news/2019142/lack-of-access-to-cooling-to-amplify-heat-deaths-in-pakistan)*
 
 ### دیگر
-- پولیس کے جدید کاری کے طریقوں اور اس کے لیے درکار ٹیکنالوجی پر بحث کی گئی۔ *[Dawn](https://www.dawn.com/news/2018931/innovative-policing)*
-- مشہور شخصیات بشمول میگن مارکل اور کنگنا راناوت سے متعلق مختلف خبریں رپورٹ ہوئیں۔ *[ARY](https://arynews.tv/meghan-markle-faces-fresh-online-scrutiny-over-constant-media-attention)*
+- مشہور گلوکارہ میڈیسن بیئر نے جسٹن ہربرٹ کے ساتھ اپنے تعلقات کی تصدیق کر دی۔ *[ARY](https://arynews.tv/madison-beer-says-yes-to-justin-herbert-after-almost-a-year-of-dating)*
 
