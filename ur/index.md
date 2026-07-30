@@ -7,52 +7,55 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Jul-2026 21:09PKT 
+ &lrm; 30-Jul-2026 09:08PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- حکومت نے پٹرول کی قیمت میں 1.63 روپے اور ہائی اسپیڈ ڈیزل (HSD) کی قیمت میں 1.55 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2019031/govt-increases-petrol-price-by-rs163-hsd-price-by-rs155)*
-- مشرق وسطیٰ میں بڑھتی ہوئی کشیدگی کے باعث عالمی مارکیٹ میں تیل کی قیمتوں میں تقریباً 7 فیصد اضافہ ریکارڈ کیا گیا۔ *[ARY](https://arynews.tv/oil-price-in-international-market-29-july-2026)*
-- کیا (Kia) میکسیکو میں مکمل طور پر الیکٹرک گاڑیاں تیار کرنے اور فروخت کرنے کا منصوبہ رکھتی ہے۔ *[ARY](https://arynews.tv/kia-will-produce-and-sell-fully-electric-vehicles-in-mexico)*
+- حکومت بجلی کی طلب میں کمی کے باعث بجلی کے نئے ٹیرف پیکیج پر غور کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls)*
+- حکومت نے ڈیزل کی قیمت میں 2.24 روپے کا اضافہ اور پٹرول کی قیمت میں 75 پیسے کی کمی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2019282/govt-increases-diesel-price-by-rs224-decreases-petrols-by-75-paisas)*
+- ایکسپورٹرز کے مطابق روپے کی مصنوعی قدر میں اضافہ برآمدات اور غیر ملکی سرمایہ کاری کے لیے رکاوٹ بن رہا ہے۔ *[Dawn](https://www.dawn.com/news/2019351/managed-exchange-rate-hurts-exports-investments)*
+- اقتصادی رابطہ کمیٹی (ECC) نے برآمد کنندگان کے لیے 255 ارب روپے کے سبسڈی پیکج کی منظوری دی ہے۔ *[Dawn](https://www.dawn.com/news/2019424/here-it-comes)*
 
 ### سائنس اور ٹیکنالوجی
-- OpenAI کے ایک "روگ ایجنٹ" کے ذریعے Hugging Face اور Modal Labs کے صارفین کے ڈیٹا تک غیر قانونی رسائی کے خدشات سامنے آئے ہیں۔ *[Dawn](https://www.dawn.com/news/2019262/openais-rogue-agent-compromised-a-customer-at-a-second-tech-firm-executive-says)*
+- ماہرین نے خبردار کیا ہے کہ مصنوعی ذہانت (AI) کے سرچ انجن طنز و مزاح کو حقیقت سمجھنے کی غلطی کر سکتے ہیں۔ *[ARY](https://arynews.tv/ai-search-engines-may-mistake-satire-for-facts-experts-warn)*
 
 ### موسم
-- پنجاب کے مختلف حصوں اور اسلام آباد میں بارشوں کے ساتھ نئے مون سون سلسلے کا آغاز ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2019213/showers-in-parts-of-punjab-islamabad-mark-onset-of-fresh-monsoon-spell)*
+- ملتان میں دریائے چناب کے سیلابی ریلے کے باعث 22 علاقے زیر آب آ گئے ہیں جس سے فصلیں اور بستیاں متاثر ہوئی ہیں۔ *[Dawn](https://www.dawn.com/news/2019292/22-areas-in-punjabs-multan-district-partially-submerged-under-floodwaters)*
+- فیروزوالہ میں بھید نالے کے ٹوٹنے سے کئی گاؤں زیر آب آ گئے ہیں اور لوگ مشکل سے اپنے گھروں کی طرف لوٹ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2019342/footprints-trudging-home-in-waist-deep-water)*
 
 ### سیاست
-- بلاول بھٹو زرداری نے آزاد کشمیر کے میرپور کے انتخابی نتائج پر اعتراض کرتے ہوئے دوبارہ پولنگ کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results)*
-- وزیراعظم شہباز شریف کے مطابق حکومت کا مقصد قومی سطح پر ڈیجیٹلائزیشن کے ذریعے شہریوں کو ایک ہی ڈیجیٹل آئی ڈی کے تحت تمام عوامی سہولیات فراہم کرنا ہے۔ *[Dawn](https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz)*
-- پی ٹی آئی کے رہنما اسلم گھمن کا دعویٰ ہے کہ پی ٹی آئی کے بانی عمران خان کو اسی سال رہا کیا جا سکتا ہے۔ *[ARY](https://arynews.tv/imran-khan-will-be-released-this-year-pti-leader-aslam-ghuman)*
-- بلاول بھٹو نے وزیراعظم شہباز شریف اور مریم نواز پر سخت تنقید کرتے ہوئے انہیں "فارم 47 کی پیداوار" قرار دیا۔ *[ARY](https://arynews.tv/bilawal-bhutto-calls-pm-maryam-nawaz-products-of-form-47)*
+- پیلڈاٹ (Pildat) کے مطابق 2025-26 کے دوران سینیٹ کی قانون سازی میں اضافہ ہوا لیکن اس کے معیار اور نگرانی میں کمی آئی ہے۔ *[Dawn](https://www.dawn.com/news/2019356/senate-output-increased-in-2025-26-scrutiny-weakened-pildat)*
+- سینیٹ کی فنانس کمیٹی نے اسلامی بینکوں کو خواتین ملازمین پر عبایا پہننے کی پابندی لگانے سے روک دیا ہے۔ *[Dawn](https://www.dawn.com/news/2019277/senate-panel-restricts-islamic-banks-from-compelling-female-employees-to-wear-abayas)*
+- میرپور کے انتخابی نتائج کے حوالے سے پیپلز پارٹی اور مسلم لیگ ن کے درمیان سیاسی کشیدگی جاری ہے۔ *[Dawn](https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results)*
 
 ### قومی
-- آزاد کشمیر پولیس نے دعویٰ کیا ہے کہ جے اے اے سی (JAAC) کے ارکان نے سیکیورٹی اہلکاروں کو نشانہ بنایا ہے، جس سے اس سال اب تک 26 اہلکار شہید ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-targeting-leas-say-26-personnel-martyred-this-year)*
-- سیکیورٹی فورسز نے خیبرپختونخوا اور بلوچستان میں مختلف آپریشنز کے دوران 32 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr)*
-- سوات کے علاقے ماتا میں دہشت گردوں کے خلاف جاری آپریشن کے دوران ایک پولیس اہلکار شہید اور 4 دہشت گرد ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/2019223/cop-martyred-4-terrorists-killed-as-operation-continues-in-swats-matta-security-sources)*
-- لاہور میں اٹارنی جنرل منصور اعوان کے گھر پر غیر قانونی چھاپے اور بدتمیزی کے الزام میں 11 پولیس اہلکاروں کے خلاف مقدمہ درج کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2019093/sho-among-11-cops-booked-over-raid-on-agp-mansoor-awans-house-in-lahore)*
-- فیڈرل ٹیکس اومبڈسمین نے آئی فون 16 کی درآمد اور کلیئرنس سے متعلق ایک بڑے منظم فراڈ کا سراغ لگایا ہے جس کی تحقیقات کا حکم دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2019160/nationwide-iphone-scam-probe-widens)*
+- خیبر پختونخوا کے ضلع ہنگو میں دہشت گردوں کے حملے میں 9 پولیس اہلکار شہید اور 28 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu)*
+- انسانی حقوق کے اداروں نے آزاد کشمیر کے علاقے راولاکوٹ میں ہونے والے فسادات کی آزادانہ تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest)*
+- حکومت نے حج کے لیے نیا چار سالہ پالیسی متعارف کرائی ہے جس کے تحت حاجی اپنا سال خود منتخب کر سکیں گے۔ *[Dawn](https://www.dawn.com/news/2019338/pilgrims-can-choose-their-haj-year-under-new-four-year-policy)*
+- آزاد کشمیر پولیس نے الزام لگایا ہے کہ اس سال اب تک 26 اہلکار دہشت گردانہ کارروائیوں میں شہید ہو چکے ہیں۔ *[Dawn](https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-targeting-leas-say-26-personnel-martyred-this-year)*
+- نیشنل سائبر کرائم انویسٹی گیشن ایجنسی (NCCIA) نے صحافی اسد علی طور کو غلط معلومات پھیلانے کے الزام میں طلب کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019261/nccia-summons-journalist-asad-ali-toor-over-allegedly-spreading-false-information)*
+- لاہور کے علاقے حربنس پورہ میں ایک تین منزلہ عمارت گرنے سے 6 افراد ہلاک اور 10 زخمی ہو گئے۔ *[ARY](https://arynews.tv/lahore-six-killed-10-rescued-as-three-storey-building-collapses)*
+- این سی اے (NCA) نے سوشل میڈیا پر بچوں کی تصاویر شیئر کرنے کے حوالے سے وارننگ جاری کی ہے۔ *[ARY](https://arynews.tv/do-not-share-childrens-pics-on-social-media-nca-issues-warning)*
+- سیلاب کے نتیجے میں ہونے والے نقصانات سے تعلیمی نظام اور مستقبل کے متاثر ہونے کا خدشہ ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2019425/drowning-the-future)*
 
 ### بین الاقوامی
-- پاکستان نے کویت کے ساتھ دفاعی تعاون کے معاہدے کی توثیق کا خیر مقدم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation)*
-- چیف آف ڈیفنس فورسز جنرل عاصم منیر اور کویت کے وزیر خارجہ نے علاقائی سلامتی اور دوطرفہ تعاون پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/2019222/cdf-munir-kuwait-fm-discuss-regional-security-and-steps-to-boost-bilateral-cooperation)*
-- امریکہ اور سعودی عرب کی افواج نے عراق میں ایران نواز دہشت گردوں کے ٹھکانوں پر کارروائی کی۔ *[Dawn](https://www.dawn.com/news/2019202/us-saudi-forces-strike-iran-aligned-terrorists-in-iraq-in-retaliation-for-recent-attacks)*
-- جاپان میں 7.1 شدت کے زلزلے اور اس کے بعد ایک شاپنگ مال میں دھماکے کے نتیجے میں کم از کم 13 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2019208/rescuers-in-japan-haul-survivors-from-collapsed-mall-as-earthquake-toll-rises-to-13)*
-- ماہرین اور کارکنوں کا کہنا ہے کہ البینیا میں ٹرمپ خاندان کے ہوٹل منصوبے سے ساحلی علاقے کے حیاتیاتی تنوع کو ناقابل تلافی نقصان پہنچ رہا ہے۔ *[Dawn](https://www.dawn.com/news/2019207/absolute-biodiversity-massacre-ngos-say-trump-family-project-in-albania-has-already-caused-irreparable-damage)*
-- اقوام متحدہ میں انسانی حقوق کے حوالے سے اختلافات کے باعث امریکی وفد نے فرانسیسی ایلچی کے خطاب کے دوران واک آؤٹ کر دیا۔ *[Dawn](https://www.dawn.com/news/2019149/us-walks-out-on-france-at-un-security-council)*
+- اسرائیلی فوج نے غزہ میں ایک مسجد کو نشانہ بنایا ہے، جس کا دفاع اسرائیلی فوج نے حماس کے اسلحے کے ذخیرہ کے طور پر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019340/israel-targets-mosque-in-gaza-under-hamas-weapons-dump-pretext)*
+- پاکستان کے چیف آف ڈیفنس فورسز فیلڈ مارشل عاصم منیر نے کویت کے وزیر خارجہ سے علاقائی سلامتی پر ملاقات کی۔ *[Dawn](https://www.dawn.com/news/2019222/cdf-munir-kuwait-fm-discuss-regional-security-and-steps-to-boost-bilateral-cooperation)*
+- پاکستان نے کویت کی جانب سے دفاعی تعاون کے معاہدے کی توثیق کا خیر مقدم کیا ہے۔ *[Dawn](https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation)*
+- مصر کی دیمیٹا بندرگاہ پر امریکی ملکیت کے گیس اسٹوریج ٹینکر پر ڈرون حملہ کیا گیا۔ *[ARY](https://arynews.tv/drone-strikes-us-owned-gas-tanker-at-egypts-damietta-port)*
 
 ### کھیل
-- آئی سی سی نے ویسٹ انڈیز کے خلاف ٹیسٹ سیریز کے دوران جارحانہ جشن منانے پر پاکستانی کھلاڑیوں خرم شہزاد اور محمد عباس پر جرمانہ عائد کر دیا۔ *[Dawn](https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test)*
-- پاکستان ویسٹ انڈیز کے ہاتھوں پہلے ٹیسٹ میچ 90 رنز سے ہار گیا۔ *[Dawn](https://www.dawn.com/news/2019199/west-indies-beat-pakistan-by-90-runs-in-first-test)*
-- فاطمہ زہرا نے کامن ویلتھ گیمز میں میڈل جیت کر پاکستان کی پہلی خاتون باکسر بننے کی تاریخ رقم کر دی۔ *[Dawn](https://www.dawn.com/news/2019100/fatima-zahra-becomes-first-pakistan-woman-boxer-to-secure-commonwealth-games-boxing-medal)*
+- آئی سی سی نے ویسٹ انڈیز کے خلاف ٹیسٹ سیریز کے دوران جارحانہ جشن منانے پر پاکستانی کھلاڑیوں کھرم شہزاد اور محمد عباس کو جرمانہ کیا۔ *[Dawn](https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test)*
 
 ### صحت
-- کراچی میں جعلی ادویات بنانے والی ایک فیکٹری کا انکشاف کیا گیا ہے۔ *[ARY](https://arynews.tv/counterfeit-medicines-factory-uncovered-in-karachi)*
-- مشہور شخصیت نارا سمتھ نے اپنی بیٹی کی کینسر کی تشخیص کے حوالے سے اپنے خوف کا اظہار کیا۔ *[ARY](https://arynews.tv/nara-smith-opens-up-about-lingering-fear-over-daughters-cancer-diagnosis)*
+- وزیر مملکت برائے صحت نے خبردار کیا ہے کہ اگر اقدامات نہ کیے گئے تو 2040 تک پاکستان کی آبادی 400 ملین تک پہنچ سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2019379/pakistans-population-can-reach-400-million-by-2040)*
 
 ### دیگر
-- برطانوی شاہی خاندان کے حوالے سے مختلف خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/queen-camilla-is-the-guard-dog-separating-king-charles-prince-harry-and-meghan-markle)* | *[ARY](https://arynews.tv/princess-kate-opposes-meghans-return-to-royal-duties)*
-- کنڈل جینیئر کے سابق ساتھی ڈیون بکر اور ایرینا شائک کے درمیان تعلقات کی افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/kendall-jenners-ex-devin-booker-sparks-romance-rumors-with-irina-shayk)*
+- جنوبی یورپ میں جنگلات کی آگ کی وجہ سے جارج اور امال کلونی کو اپنا فرانسیسی گھر چھوڑنا پڑا۔ *[ARY](https://arynews.tv/george-amal-clooney-evacuate-french-home-amid-wildfires)*
+- ٹام کروز کی بیٹی سری کے نام کی تبدیلی پر ان کے ردعمل کی خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/tom-cruise-reacts-as-daughter-suri-changes-last-name)*
+- میگھن مارکل کی ماسٹر شیف میں شرکت پر سوشل میڈیا پر تنقید کی گئی۔ *[ARY](https://arynews.tv/meghans-masterchef-appearance-slammed-by-pr-gurus-as-messy-around-the-edges)*
+- لنڈسے کینسی قتل کیس کے ٹرائل میں سابق شوہ变形 ذہنی ادویات کے حوالے سے گواہی اہم موڑ ثابت ہو سکتی ہے۔ *[ARY](https://arynews.tv/lindsay-clancy-murder-trial-ex-husbands-testimony-on-psychiatric-medication-becomes-key-focus)*
+- ٹام ہالینڈ اور زنڈیا کی نجی شادی کی تفصیلات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/secret-details-behind-tom-holland-and-zendayas-private-wedding)*
+- شوانگی جوشی کی ٹیم نے "لاک اپ" تنازعے پر وضاحت پیش کر دی ہے۔ *[ARY](https://arynews.tv/shivangi-joshis-team-clears-up-lock-upp-controversy)*
 
