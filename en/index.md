@@ -4,52 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 30-Jul-2026 09:03PKT
+Published at: 30-Jul-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government is considering a new power tariff package, with consumers potentially facing an additional Rs1.20 per unit fuel cost in August. *[Dawn](https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls)*
-- Diesel prices have been increased by Rs2.24, while petrol prices saw a slight decrease of 75 paisas. *[Dawn](https://www.dawn.com/news/2019282/govt-increases-diesel-price-by-rs224-decreases-petrols-by-75-paisas)*
-- Exporters have expressed concern that a "managed" exchange rate is hindering exports and discouraging foreign investment. *[Dawn](https://www.dawn.com/news/2019351/managed-exchange-rate-hurts-exports-investments)*
-- Recent economic shifts suggest government funds are being redirected from remittance promotion toward export subsidies. *[Dawn](https://www.dawn.com/news/2019424/here-it-comes)*
+- Pakistan has been removed from the Lloyd’s Market Association’s list of dangerous waters, a move expected to reduce shipping costs and war-risk insurance premiums. *[Dawn](https://www.dawn.com/news/2019509/pakistan-removed-from-risk-assessors-list-of-dangerous-waters-maritime-affairs-minister)*
+- The government has indicated it is working on a new power tariff package, potentially adding an additional Rs1.20 per unit fuel cost to consumer bills in August. *[Dawn](https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls)*
 
 ### Science & Technology
-- Experts have warned that AI search engines may struggle to distinguish between factual information and satire. *[ARY](https://arynews.tv/ai-search-engines-may-mistake-satire-for-facts-experts-warn)*
-
-### Weather
-- Floodwaters from the River Chenab have submerged 22 areas in Multan, damaging crops and displacing thousands of residents. *[Dawn](https://www.dawn.com/news/2019292/22-areas-in-punjabs-multan-district-partially-submerged-under-floodwaters)*
-- Residents in Ferozwala are returning to homes inundated by the flooding of Bhed Nullah. *[Dawn](https://www.dawn.com/news/2019342/footprints-trudging-home-in-waist-deep-water)*
-- Analysis of recurring floods in Pakistan highlights the long-term devastating impact on the country's education system and infrastructure. *[Dawn](https://www.dawn.com/news/2019425/drowning-the-future)*
+- Xiaomi has launched a new SUV series featuring reconfigurable interiors and enhanced space. *[ARY](https://arynews.tv/skynomad-xiaomi-launches-suv-series-2026)*
 
 ### Politics
-- The Senate saw an increase in legislative output during 2025-26, though concerns remain regarding declining attendance and weakened scrutiny. *[Dawn](https://www.dawn.com/news/2019356/senate-output-increased-in-2025-26-scrutiny-weakened-pildat)*
-- A Senate Standing Committee has restricted Islamic banks from mandating abayas for female employees, suggesting a modest national dress code instead. *[Dawn](https://www.dawn.com/news/2019277/senate-panel-restricts-islamic-banks-from-compelling-female-employees-to-wear-abayas)*
-- The PPP and PML-N continue to trade accusations regarding the Mirpur election results, with the PPP demanding re-polling. *[Dawn](https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results)*
+- PPP Chairman Bilawal Bhutto-Zardari warned that a "countdown" will begin for the federal government if the Azad Jammu and Kashmir (AJK) election is rigged. *[Dawn](https://www.dawn.com/news/2019507/bilawal-warns-countdown-will-begin-for-federal-government-if-it-steals-ajk-election)*
+- Interior Minister Mohsin Naqvi urged all political parties to settle national issues, including the creation of new administrative provinces. *[Dawn](https://www.dawn.com/news/2019502/naqvi-urges-all-political-parties-to-settle-issue-of-more-provinces-says-current-system-has-collapsed)*
+- The AJK Legislative Assembly adopted resolutions condemning remarks made by federal ministers and endorsed the establishment of a Truth and Reconciliation Commission. *[Dawn](https://www.dawn.com/news/2019496/ajk-assembly-adopts-resolutions-condemning-ministers-remarks-backing-the-truth-and-reconciliation-commission)*
+- The Lahore High Court granted interim protective bail to Noreen Niazi, sister of PTI founder Imran Khan, in a case involving alleged derogatory remarks against state institutions. *[Dawn](https://www.dawn.com/news/2019475/lhc-grants-imrans-sister-noreen-niazi-protective-bail-in-peca-case)*
 
 ### National
-- Nine police officers, including a DSP, were killed in a terrorist attack on a checkpost in Hangu, Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu)*
-- Human rights organizations have called for an independent probe into recent violent unrest in Rawalakot, Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest)*
-- A new four-year Haj policy has been introduced, allowing pilgrims to choose their preferred year and utilize digital booking systems. *[Dawn](https://www.dawn.com/news/2019338/pilgrims-can-choose-their-haj-year-under-new-four-year-policy)*
-- AJK police have accused the proscribed JAAC of targeting law enforcement, reporting 26 personnel martyred this year. *[Dawn](https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-targeting-leas-say-26-personnel-martyred-this-year)*
-- The NCCIA has summoned journalist Asad Ali Toor regarding the alleged dissemination of false information. *[Dawn](https://www.dawn.com/news/2019261/nccia-summons-journalist-asad-ali-toor-over-allegedly-spreading-false-information)*
-- Six people were killed after a three-storey building collapsed in Lahore's Harbanspura. *[ARY](https://arynews.tv/lahore-six-killed-10-rescued-as-three-storey-building-collapses)*
-- The NCA has issued a warning to citizens against sharing children's photographs on social media. *[ARY](https://arynews.tv/do-not-share-childrens-pics-on-social-media-nca-issues-warning)*
+- Approximately 22 miners remain feared trapped following an explosion in a private coal mine in the Sorange area of Quetta. *[Dawn](https://www.dawn.com/news/2019505/several-workers-feared-trapped-after-explosion-in-private-coal-mine-near-quetta-officials)*
+- The Sindh government announced that schools and colleges in the province will hold classes six days a week starting August 1. *[Dawn](https://www.dawn.com/news/2019492/sindh-schools-colleges-to-have-classes-six-days-a-week-from-aug-1)*
+- Journalist Asad Ali Toor has challenged a notice issued by the National Cyber Crime Investigation Agency (NCCIA) in the Islamabad High Court. *[Dawn](https://www.dawn.com/news/2019490/journalist-asad-ali-toor-challenges-ncccia-notice-in-ihc)*
+- The bodies of six kidnapped labourers were recovered with bullet wounds in Turbat, Balochistan. *[Dawn](https://www.dawn.com/news/2019468/bullet-riddled-bodies-of-6-kidnapped-labourers-found-in-balochistans-turbat)*
+- Nine police officers, including a DSP, were martyred and 28 injured during a terrorist attack on a checkpost in Hangu, Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu)*
+- Eleven people were killed and six injured following the collapse of a three-storey house in Lahore's Harbanspura. *[Dawn](https://www.dawn.com/news/2019447/11-killed-6-injured-as-three-storey-house-collapses-in-lahores-harbanspura)*
+- The Pakistan Navy successfully rescued 19 crew members of a fishing vessel that was stranded near Gwadar due to engine failure. *[Dawn](https://www.dawn.com/news/2019451/pakistan-navy-rescues-19-crew-members-of-fishing-vessel-stranded-near-gwadar)*
+- The entrance test date for MDCAT 2026 in Sindh has been officially announced. *[ARY](https://arynews.tv/mdcat-2026-entrance-test-date-in-sindh-announced)*
 
 ### International
-- The Israeli military admitted to bombing a mosque in Gaza, alleging the site was being used for Hamas weapons storage. *[Dawn](https://www.dawn.com/news/2019340/israel-targets-mosque-in-gaza-under-hamas-weapons-dump-pretext)*
-- Pakistan and Kuwait held discussions on regional security and strengthening bilateral defense cooperation. *[Dawn](https://www.dawn.com/news/2019222/cdf-munir-kuwait-fm-discuss-regional-security-and-steps-to-boost-bilateral-cooperation)*
-- Pakistan welcomed Kuwait's ratification of a 2023 defense cooperation agreement. *[Dawn](https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation)*
-- A drone strike targeted a US-owned gas storage tanker at the Damietta port in Egypt. *[ARY](https://arynews.tv/drone-strikes-us-owned-gas-tanker-at-egypts-damietta-port)*
-- George and Amal Clooney have evacuated their home in France due to wildfires in Southern Europe. *[ARY](https://arynews.tv/george-amal-clooney-evacuate-french-home-amid-wildfires)*
+- Pakistan is making efforts to bring the United States and Iran back to negotiations under the Islamabad memorandum of understanding. *[Dawn](https://www.dawn.com/news/2019454/pakistan-says-doing-utmost-to-bring-us-iran-back-to-islamabad-mou)*
+- The US military conducted a wave of retaliatory strikes against Iran following attacks on American bases in Jordan. *[Dawn](https://www.dawn.com/news/2019449/us-military-carries-out-heavy-wave-of-retaliatory-strikes-on-iran-for-attack-on-bases)*
+- Twenty-five cats were rescued from a shopping mall in Japan following a major earthquake and a subsequent explosion. *[Dawn](https://www.dawn.com/news/2019478/glad-everyones-safe-sigh-of-relief-after-25-cats-escape-japan-mall-damaged-by-quake)*
+- Beekeepers in Gaza are struggling to rebuild their livelihoods amidst widespread destruction of farmland and hives. *[Dawn](https://www.dawn.com/news/2019515/with-fields-destroyed-and-hives-lost-gazas-beekeepers-struggle-to-start-over)*
+- New Zealand’s Foreign Minister drew criticism from Beijing after making remarks directed at a Chinese-born lawmaker. *[Dawn](https://www.dawn.com/news/2019463/new-zealand-fm-in-row-with-beijings-envoy-after-telling-chinese-born-lawmaker-to-go-back-to-your-own-country)*
 
 ### Sports
-- The ICC has penalized Pakistani cricketers Khurram Shahzad and Mohammad Abbas for aggressive celebrations during a Test match against the West Indies. *[Dawn](https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test)*
+- Arshad Nadeem has qualified for the javelin throw final at the Commonwealth Games in Glasgow. *[Dawn](https://www.dawn.com/news/2019491/arshad-nadeem-qualifies-for-javelin-throw-final-at-commonwealth-games)*
+- Joe Root has been reappointed as England’s Test captain, with Stephen Fleming named as the new head coach. *[Dawn](https://www.dawn.com/news/2019513/root-named-england-test-captain-fleming-appointed-coach)*
 
 ### Health
-- Pakistan's population is projected to reach 400 million by 2040, prompting calls for urgent maternal and child healthcare and family planning measures. *[Dawn](https://www.dawn.com/news/2019379/pakistans-population-can-reach-400-million-by-2040)*
+- The United Kingdom has reported an increase in cyclospora infections. *[ARY](https://arynews.tv/uk-also-reports-rise-in-cyclospora-infections)*
+- The drug Litfulo has shown promise in restoring skin pigmentation during late-stage vitiligo trials. *[ARY](https://arynews.tv/litfulo-drug-restores-skin-pigmentation-in-late-stage-vitiligo-trials)*
 
 ### Other
-- Legal and entertainment updates include the focus on psychiatric medication in the Lindsay Clancy murder trial, Tom Cruise's reaction to his daughter Suri's name change, and details on Tom Holland and Zendaya’s private wedding. *[ARY](https://arynews.tv/lindsay-clancy-murder-trial-ex-husbands-testimony-on-psychiatric-medication-becomes-key-focus)*, *[ARY](https://arynews.tv/tom-cruise-reacts-as-daughter-suri-changes-last-name)*, *[ARY](https://arynews.tv/secret-details-behind-tom-holland-and-zendayas-private-wedding)*
-- Celebrities Meghan Markle and Shivangi Joshi have been involved in recent media discussions and controversies. *[ARY](https://arynews.tv/meghans-masterchef-appearance-slammed-by-pr-gurus-as-messy-around-the-edges)*, *[ARY](https://arynews.tv/shivangi-joshis-team-clears-up-lock-upp-controversy)*
+- Katy Perry and Justin Trudeau were spotted enjoying a getaway on the French Riviera. *[ARY](https://arynews.tv/katy-perry-justin-trudeau-enjoy-french-riviera-getaway)*
+- The trial of Lindsay Clancy continues, with an ex-husband testifying about the discovery of the children. *[ARY](https://arynews.tv/lindsay-clancy-trial-ex-husband-testifies-about-devastating-moment-he-discovered-children)*
+- A US government map of Africa was criticized at a global conference for mislabeling every country. *[ARY](https://arynews.tv/us-government-map-of-africa-mislabels-every-country)*
+- Singer Megan Moroney had to halt her Denver concert due to a sudden illness. *[ARY](https://arynews.tv/megan-moroney-stops-denver-concert-mid-show-due-to-sudden-illness)*
+- Royal experts suggest that tension remains between King Charles and Prince Harry following their recent reunion. *[ARY](https://arynews.tv/royal-expert-claims-tension-remains-between-king-charles-and-prince-harry-following-reunion)*
 
