@@ -4,54 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 29-Jul-2026 21:03PKT
+Published at: 30-Jul-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government has increased petrol prices by Rs1.63 and High Speed Diesel (HSD) by Rs1.55. *[Dawn](https://www.dawn.com/news/2019031/govt-increases-petrol-price-by-rs163-hsd-price-by-rs155)*
-- Kia announced plans to produce and sell fully electric vehicles in Mexico. *[ARY](https://arynews.tv/kia-will-produce-and-sell-fully-electric-vehicles-in-mexico)*
-- International oil prices jumped nearly 7% following escalating airstrikes in the Middle East. *[ARY](https://arynews.tv/oil-price-in-international-market-29-july-2026)*
+- The government is considering a new power tariff package, with consumers potentially facing an additional Rs1.20 per unit fuel cost in August. *[Dawn](https://www.dawn.com/news/2019376/govt-hints-at-new-power-tariff-package-as-demand-falls)*
+- Diesel prices have been increased by Rs2.24, while petrol prices saw a slight decrease of 75 paisas. *[Dawn](https://www.dawn.com/news/2019282/govt-increases-diesel-price-by-rs224-decreases-petrols-by-75-paisas)*
+- Exporters have expressed concern that a "managed" exchange rate is hindering exports and discouraging foreign investment. *[Dawn](https://www.dawn.com/news/2019351/managed-exchange-rate-hurts-exports-investments)*
+- Recent economic shifts suggest government funds are being redirected from remittance promotion toward export subsidies. *[Dawn](https://www.dawn.com/news/2019424/here-it-comes)*
 
 ### Science & Technology
-- An OpenAI "rogue agent" was found to have compromised a customer at the tech firm Modal Labs. *[Dawn](https://www.dawn.com/news/2019262/openais-rogue-agent-compromised-a-customer-at-a-second-tech-firm-executive-says)*
+- Experts have warned that AI search engines may struggle to distinguish between factual information and satire. *[ARY](https://arynews.tv/ai-search-engines-may-mistake-satire-for-facts-experts-warn)*
 
 ### Weather
-- A fresh monsoon spell has arrived in parts of Punjab and Islamabad. *[Dawn](https://www.dawn.com/news/2019213/showers-in-parts-of-punjab-islamabad-mark-onset-of-fresh-monsoon-spell)*
+- Floodwaters from the River Chenab have submerged 22 areas in Multan, damaging crops and displacing thousands of residents. *[Dawn](https://www.dawn.com/news/2019292/22-areas-in-punjabs-multan-district-partially-submerged-under-floodwaters)*
+- Residents in Ferozwala are returning to homes inundated by the flooding of Bhed Nullah. *[Dawn](https://www.dawn.com/news/2019342/footprints-trudging-home-in-waist-deep-water)*
+- Analysis of recurring floods in Pakistan highlights the long-term devastating impact on the country's education system and infrastructure. *[Dawn](https://www.dawn.com/news/2019425/drowning-the-future)*
 
 ### Politics
-- The PPP and PML-N continue to trade accusations over the Mirpur election results, with Bilawal Bhutto-Zardari demanding re-polling. *[Dawn](https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results)*
-- Prime Minister Shehbaz Sharif outlined a vision to provide citizens access to all public facilities through a single digital identity. *[Dawn](https://www.dawn.com/news/2019250/govt-aims-to-provide-citizens-access-to-all-public-facilities-under-single-digital-id-pm-shehbaz)*
-- A PTI leader claimed that the PTI founder is likely to be released within the year. *[ARY](https://arynews.tv/imran-khan-will-be-released-this-year-pti-leader-aslam-ghuman)*
-- Bilawal Bhutto criticized PM Shehbaz Sharif and Maryam Nawaz, labeling them "products of Form 47." *[ARY](https://arynews.tv/bilawal-bhutto-calls-pm-maryam-nawaz-products-of-form-47)*
+- The Senate saw an increase in legislative output during 2025-26, though concerns remain regarding declining attendance and weakened scrutiny. *[Dawn](https://www.dawn.com/news/2019356/senate-output-increased-in-2025-26-scrutiny-weakened-pildat)*
+- A Senate Standing Committee has restricted Islamic banks from mandating abayas for female employees, suggesting a modest national dress code instead. *[Dawn](https://www.dawn.com/news/2019277/senate-panel-restricts-islamic-banks-from-compelling-female-employees-to-wear-abayas)*
+- The PPP and PML-N continue to trade accusations regarding the Mirpur election results, with the PPP demanding re-polling. *[Dawn](https://www.dawn.com/news/2019220/re-polling-demand-form-47-jibe-and-doomsday-talk-ppp-pml-n-continue-to-trade-barbs-over-mirpur-election-results)*
 
 ### National
-- AJK police accused the proscribed Joint Awami Action Committee (JAAC) of targeting law enforcement, noting 26 personnel have been martyred this year. *[Dawn](https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-targeting-leas-say-26-personnel-martyred-this-year)*
-- Security forces killed 32 terrorists during comprehensive operations in Khyber Pakhtunkhwa and Balochistan. *[Dawn](https://www.dawn.com/news/2019231/security-forces-kill-32-terrorists-during-operations-in-kp-balochistan-ispr)*
-- An ongoing operation in Swat's Matta resulted in the death of four terrorists and the martyrdom of one police constable. *[Dawn](https://www.dawn.com/news/2019223/cop-martyred-4-terrorists-killed-as-operation-continues-in-swats-matta-security-sources)*
-- Eleven police officials were booked after an alleged unauthorized raid on the residence of Attorney General Mansoor Awan in Lahore. *[Dawn](https://www.dawn.com/news/2019093/sho-among-11-cops-booked-over-raid-on-agp-mansoor-awans-house-in-lahore)*
-- The Federal Tax Ombudsman has ordered an investigation into an organized iPhone 16 import and clearance scam. *[Dawn](https://www.dawn.com/news/2019160/nationwide-iphone-scam-probe-widens)*
-- AJK police reported that armed protesters used sniper rifles to target security forces. *[ARY](https://arynews.tv/ajk-armed-protesters-targeted-security-forces-with-sniper-rifles)*
+- Nine police officers, including a DSP, were killed in a terrorist attack on a checkpost in Hangu, Khyber Pakhtunkhwa. *[Dawn](https://www.dawn.com/news/2019442/9-cops-martyred-28-injured-as-police-checkpost-comes-under-attack-in-kps-hangu)*
+- Human rights organizations have called for an independent probe into recent violent unrest in Rawalakot, Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2019279/hrcp-amnesty-call-for-prompt-independent-probe-into-rawalakot-unrest)*
+- A new four-year Haj policy has been introduced, allowing pilgrims to choose their preferred year and utilize digital booking systems. *[Dawn](https://www.dawn.com/news/2019338/pilgrims-can-choose-their-haj-year-under-new-four-year-policy)*
+- AJK police have accused the proscribed JAAC of targeting law enforcement, reporting 26 personnel martyred this year. *[Dawn](https://www.dawn.com/news/2019216/ajk-police-accuse-jaac-of-targeting-leas-say-26-personnel-martyred-this-year)*
+- The NCCIA has summoned journalist Asad Ali Toor regarding the alleged dissemination of false information. *[Dawn](https://www.dawn.com/news/2019261/nccia-summons-journalist-asad-ali-toor-over-allegedly-spreading-false-information)*
+- Six people were killed after a three-storey building collapsed in Lahore's Harbanspura. *[ARY](https://arynews.tv/lahore-six-killed-10-rescued-as-three-storey-building-collapses)*
+- The NCA has issued a warning to citizens against sharing children's photographs on social media. *[ARY](https://arynews.tv/do-not-share-childrens-pics-on-social-media-nca-issues-warning)*
 
 ### International
-- Pakistan welcomed Kuwait's recent ratification of a 2023 pact intended to expand bilateral defence cooperation. *[Dawn](https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation)*
-- Pakistan's CDF Asim Munir met with the Kuwaiti Foreign Minister to discuss regional security and cooperation. *[Dawn](https://www.dawn.com/news/2019222/cdf-munir-kuwait-fm-discuss-regional-security-and-steps-to-boost-bilateral-cooperation)*
-- US and Saudi Arabian forces carried out airstrikes in Iraq against terrorists aligned with Iran. *[Dawn](https://www.dawn.com/news/2019202/us-saudi-forces-strike-iran-aligned-terrorists-in-iraq-in-retaliation-for-recent-attacks)*
-- A 7.1-magnitude earthquake in southern Japan killed at least 13 people, with an additional explosion later striking a shopping mall. *[Dawn](https://www.dawn.com/news/2019208/rescuers-in-japan-haul-survivors-from-collapsed-mall-as-earthquake-toll-rises-to-13)*
-- Environmental NGOs claim a Trump family-linked hotel project in Albania has caused "irreparable" biodiversity damage. *[Dawn](https://www.dawn.com/news/2019207/absolute-biodiversity-massacre-ngos-say-trump-family-project-in-albania-has-already-caused-irreparable-damage)*
-- The US delegation performed a walkout at the UN Security Council during a speech by the French ambassador. *[Dawn](https://www.dawn.com/news/2019149/us-walks-out-on-france-at-un-security-council)*
+- The Israeli military admitted to bombing a mosque in Gaza, alleging the site was being used for Hamas weapons storage. *[Dawn](https://www.dawn.com/news/2019340/israel-targets-mosque-in-gaza-under-hamas-weapons-dump-pretext)*
+- Pakistan and Kuwait held discussions on regional security and strengthening bilateral defense cooperation. *[Dawn](https://www.dawn.com/news/2019222/cdf-munir-kuwait-fm-discuss-regional-security-and-steps-to-boost-bilateral-cooperation)*
+- Pakistan welcomed Kuwait's ratification of a 2023 defense cooperation agreement. *[Dawn](https://www.dawn.com/news/2019274/pakistan-welcomes-kuwaits-recent-ratification-of-2023-pact-to-expand-defence-cooperation)*
+- A drone strike targeted a US-owned gas storage tanker at the Damietta port in Egypt. *[ARY](https://arynews.tv/drone-strikes-us-owned-gas-tanker-at-egypts-damietta-port)*
+- George and Amal Clooney have evacuated their home in France due to wildfires in Southern Europe. *[ARY](https://arynews.tv/george-amal-clooney-evacuate-french-home-amid-wildfires)*
 
 ### Sports
-- The ICC penalized Pakistan's Khurram Shahzad and Mohammad Abbas for breaching the code of conduct during a Test match against the West Indies. *[Dawn](https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test)*
-- The West Indies defeated Pakistan by 90 runs in the first Test of their series. *[Dawn](https://www.dawn.com/news/2019199/west-indies-beat-pakistan-by-90-runs-in-first-test)*
-- Fatima Zahra made history as the first Pakistani woman boxer to secure a Commonwealth Games medal. *[Dawn](https://www.dawn.com/news/2019100/fatima-zahra-becomes-first-pakistan-woman-boxer-to-secure-commonwealth-games-boxing-medal)*
+- The ICC has penalized Pakistani cricketers Khurram Shahzad and Mohammad Abbas for aggressive celebrations during a Test match against the West Indies. *[Dawn](https://www.dawn.com/news/2019251/icc-penalises-khurram-shahzad-mohammad-abbas-over-aggressive-animated-celebration-during-west-indies-test)*
 
 ### Health
-- Authorities uncovered a factory producing counterfeit medicines in Karachi. *[ARY](https://arynews.tv/counterfeit-medicines-factory-uncovered-in-karachi)*
-- Nara Smith shared her "lingering fear" regarding her daughter's cancer diagnosis. *[ARY](https://arynews.tv/nara-smith-opens-up-about-lingering-fear-over-daughters-cancer-diagnosis)*
+- Pakistan's population is projected to reach 400 million by 2040, prompting calls for urgent maternal and child healthcare and family planning measures. *[Dawn](https://www.dawn.com/news/2019379/pakistans-population-can-reach-400-million-by-2040)*
 
 ### Other
-- Reports suggest Queen Camilla is acting as a buffer between King Charles and Prince Harry/Meghan Markle. *[ARY](https://arynews.tv/queen-camilla-is-the-guard-dog-separating-king-charles-prince-harry-and-meghan-markle)*
-- Romance rumors have emerged involving Devin Booker and Irina Shayk. *[ARY](https://arynews.tv/kendall-jenners-ex-devin-booker-sparks-romance-with-irina-shayk)*
-- Princess Kate reportedly opposes Meghan Markle's potential return to royal duties. *[ARY](https://arynews.tv/princess-kate-opposes-meghans-return-to-royal-duties)*
+- Legal and entertainment updates include the focus on psychiatric medication in the Lindsay Clancy murder trial, Tom Cruise's reaction to his daughter Suri's name change, and details on Tom Holland and Zendaya’s private wedding. *[ARY](https://arynews.tv/lindsay-clancy-murder-trial-ex-husbands-testimony-on-psychiatric-medication-becomes-key-focus)*, *[ARY](https://arynews.tv/tom-cruise-reacts-as-daughter-suri-changes-last-name)*, *[ARY](https://arynews.tv/secret-details-behind-tom-holland-and-zendayas-private-wedding)*
+- Celebrities Meghan Markle and Shivangi Joshi have been involved in recent media discussions and controversies. *[ARY](https://arynews.tv/meghans-masterchef-appearance-slammed-by-pr-gurus-as-messy-around-the-edges)*, *[ARY](https://arynews.tv/shivangi-joshis-team-clears-up-lock-upp-controversy)*
 
