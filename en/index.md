@@ -4,49 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 31-Jul-2026 09:05PKT
+Published at: 01-Aug-2026 09:03PKT
 
 Time to read: 3 mins
 
 ### Economy
-- The government has increased petrol and HSD prices. *[Dawn](https://www.dawn.com/news/2019530/govt-increases-petrol-price-by-rs109-hsd-by-rs242)*
-- Targeted fuel subsidies may be reintroduced if Middle East tensions persist. *[Dawn](https://www.dawn.com/news/2019603/targeted-fuel-subsidy-may-return-if-gulf-tensions-persist)*
-- Renewed geopolitical tensions in the Middle East pose downside risks to inflation and the external sector. *[Dawn](https://www.dawn.com/news/2019526/renewed-middle-east-tensions-pose-downside-risks-to-inflation-external-sector-finance-ministry)*
-- Discussions continue regarding the expansion of outsourcing policies in Punjab's education and health sectors. *[Dawn](https://www.dawn.com/news/2019651/outsourcing-as-a-policy)*
+- The government has reduced petrol prices by 12 paisas and high-speed diesel by 66 paisas for the next three days. *[Dawn](https://www.dawn.com/news/2019751/govt-cuts-petrol-price-by-12-paisas-high-speed-diesel-by-66-paisas-for-the-next-three-days)*
+- Regasified liquefied natural gas (RLNG) prices have surged by 32%, reaching a decade-high. *[Dawn](https://www.dawn.com/news/2019820/rlng-prices-rocket-to-highest-level-in-a-decade)*
+- The banking sector is expected to remain reliant on government borrowing for profits due to limited private-sector lending opportunities. *[Dawn](https://www.dawn.com/news/2019810/banks-likely-to-stay-dependent-on-govt-borrowing-for-profits)*
+- LESCO has reported a loss reduction of 4 points, resulting in savings of Rs. 58 billion. *[ARY](https://arynews.tv/lescos-rs-58-bln-saving-paks-largest-disco-cuts-losses-by-4-points)*
+- Saudi-based Falcon Vision Group has expressed interest in a USD 10 billion investment in Pakistan. *[ARY](https://arynews.tv/saudi-based-falcon-vision-group-expresses-interest-in-usd-10-billion-investment-in-pakistan)*
+- Pakistan has requested a $10 billion Exchange Stabilisation Support Facility from the US Treasury to manage external financing pressures. *[Dawn](https://www.dawn.com/news/2019811/situationer-how-the-us-stabilisation-fund-could-help-pakistan)*
+- Pakistan and Türkiye have agreed to expand their strategic railway partnership. *[ARY](https://arynews.tv/pakistan-and-turkiye-agree-to-expand-strategic-railway-partnership)*
 
 ### Science & Technology
-- Reports suggest AI giants are using middlemen to secretly purchase and destroy books for training data. *[ARY](https://arynews.tv/ai-giants-reportedly-outsourcing-to-middlemen-to-secretly-buy-and-destroy-millions-of-books-for-training-data)*
-- Sindh is set to establish a provincial data center. *[ARY](https://arynews.tv/sindh-set-to-establish-provincial-data-center)*
+- Experts emphasize that organizations must focus on fundamental "AI readiness" rather than just selecting specific AI models. *[Dawn](https://www.dawn.com/news/2019837/missing-foundation-of-ai-readiness)*
 
 ### Weather
-- Recent floods in Punjab have submerged over 94 villages and inundated 43,000 acres of land. *[Dawn](https://www.dawn.com/news/2019598/rescue-efforts-in-full-swing-as-dozens-of-villages-in-punjab-still-under-water)*
+- Parts of Punjab and Sindh are facing urban flooding risks as water levels in the Tarbela and Mangla dams rise significantly. *[Dawn](https://www.dawn.com/news/2019823/parts-of-punjab-sindh-face-urban-flooding-risk)*
+- Search and rescue operations for climbers missing at Broad Peak have been suspended due to adverse weather conditions. *[Dawn](https://www.dawn.com/news/2019683/search-operation-for-climbers-missing-after-broad-peak-avalanche-suspended-due-to-bad-weather)*
 
 ### Politics
-- Interior Minister Naqvi urged political parties to settle the issue regarding the creation of new provinces. *[Dawn](https://www.dawn.com/news/2019502/naqvi-urges-all-political-parties-to-settle-issue-of-more-provinces-says-current-system-has-collapsed)*
-- The Election Commission of Pakistan (ECP) refused to recognize Achakzai as the chairman of PkMAP due to a failure to hold intra-party elections. *[Dawn](https://www.dawn.com/news/2019533/ecp-refuses-to-recognise-achakzai-as-pkmap-chief-over-failure-to-hold-intra-party-polls)*
-- Khawaja Asif has proposed the creation of new administrative units across Pakistan. *[ARY](https://arynews.tv/khawaja-asif-proposes-new-administrative-units-across-pakistan)*
+- Interior Minister Mohsin Naqvi’s proposal for new administrative units and governance overhaul has sparked intense political debate. *[Dawn](https://www.dawn.com/news/2019825/naqvis-remarks-ignite-fresh-debate-in-political-circles)*
+- Chief Minister Maryam Nawaz is holding regular meetings with PML-N lawmakers to address constituent concerns and bridge gaps with the administration. *[Dawn](https://www.dawn.com/news/2019781/is-maryam-bridging-gap-between-pml-n-legislators-and-admin)*
+- DG ISPR Lieutenant General Ahmed Sharif Chaudhry stated that good governance is essential for Pakistan's security and stability. *[Dawn](https://www.dawn.com/news/2019472/good-governance-quintessential-for-security-and-stability-of-pakistan-dg-ispr)*
+- Rights activist Imaan Mazari is seeking an urgent Supreme Court hearing to challenge her conviction. *[Dawn](https://www.dawn.com/news/2019800/imaan-mazari-seeks-urgent-sc-hearing-against-conviction)*
+- The Supreme Court has accepted a chamber appeal from Imran Khan regarding his medical access and hospital transfer. *[Dawn](https://www.dawn.com/news/2019723/supreme-court-accepts-pti-founders-chamber-appeal-orders-fixation-of-case-before-bench)*
 
 ### National
-- Ten international climbers, including Nims Purja, are missing following an avalanche on Broad Peak. *[Dawn](https://www.dawn.com/news/2019597/10-climbers-missing-after-broad-peak-avalanche)*
-- At least 15 coal miners were killed in a methane gas explosion near Quetta. *[Dawn](https://www.dawn.com/news/2019623/at-least-15-killed-in-coal-mine-blast-near-quetta)*
-- Zubair Baloch, brother of gangster Uzair Baloch, was critically injured in a shooting in Karachi’s Lyari area. *[Dawn](https://www.dawn.com/news/2019527/gangster-uzair-balochs-brother-shot-critically-injured-in-karachis-lyari-police)*
-- Prime Minister Shehbaz Sharif ordered a comprehensive technical audit of power distribution companies' billing systems. *[Dawn](https://www.dawn.com/news/2019624/pm-shehbaz-orders-audit-of-power-firms-billing-systems)*
-- Pakistan continues efforts to implement anti-money laundering measures to maintain compliance with FATF. *[Dawn](https://www.dawn.com/news/2019650/resilience-against-organised-crime)*
-- The Prime Minister was briefed on the digitization of consular services for overseas Pakistanis. *[Dawn](https://www.dawn.com/news/2019498/pm-shehbaz-briefed-on-digitisation-of-consular-services-for-overseas-pakistanis-pmo)*
+- A gas explosion at a coal mine in Balochistan resulted in the deaths of 28 miners. *[Dawn](https://www.dawn.com/news/2019732/shangla-mourns-28-miners-killed-in-balochistan-coal-mine-accident)*
+- Schools in Sindh will remain closed on August 4 in observance of Chehlum. *[Dawn](https://www.dawn.com/news/2019744/schools-in-sindh-to-remain-closed-on-august-4-education-department)*
+- The Sindh Education Department has allowed private schools to decide their own weekly teaching and working schedules. *[Dawn](https://www.dawn.com/news/2019711/private-schools-in-sindh-to-decide-weekly-working-days-at-their-own-convenience-education-department-says)*
 
 ### International
-- Riyadh has unveiled a maritime alliance as the US-Iran conflict expands geographically to include Iraq and Egypt. *[Dawn](https://www.dawn.com/news/2019602/riyadh-unveils-maritime-alliance-as-war-spreads)*
-- Pakistan endorsed Saudi Arabia’s right to self-defence following strikes in Iraq. *[Dawn](https://www.dawn.com/news/2019605/pakistan-backs-saudi-right-to-self-defence-after-iraq-strikes)*
-- Donald Trump claims a deal has been reached for the phased disarmament of Hamas in Gaza. *[Dawn](https://www.dawn.com/news/2019668/trump-says-deal-reached-for-complete-disarmament-of-hamas)*
-- Islamic State-Khorasan (IS-K) claimed responsibility for the killing of a Taliban official in Afghanistan. *[Dawn](https://www.dawn.com/news/2019595/islamic-state-khorasan-claims-killing-of-taliban-official-in-afghanistan)*
-- Israeli military forces are expanding earth barriers and demarcation markers deeper into the Gaza Strip. *[Dawn](https://www.dawn.com/news/2019593/illegal-israeli-blockades-encroach-deeper-into-gaza)*
-- Kuwait has implemented measures to strengthen labor protection. *[ARY](https://arynews.tv/kuwait-strengthens-labor-protection)*
+- Prime Minister Shehbaz Sharif welcomed recent developments regarding the disarmament process under the Gaza Peace Plan. *[Dawn](https://www.dawn.com/news/2019749/pakistan-welcomes-board-of-peace-developments-under-gaza-peace-plan-pm-shehbaz)*
+- Italy has suspended its Schengen agreement with Spain to manage migrant influxes and safeguard borders. *[Dawn](https://www.dawn.com/news/2019745/italy-suspends-schengen-agreement-with-spain-foreign-minister)*
+- A new maritime defense coalition involving 14 countries, including Pakistan, has been announced by Saudi Arabia. *[Dawn](https://www.dawn.com/news/2019841/maritime-alliance)*
+- Spain reports that migrants are returning from Ceuta following a fatal border rush. *[ARY](https://arynews.tv/spain-says-migrants-are-returning-from-ceuta-after-57-die-in-border-rush)*
+
+### Sports
+- Fatima Zahra won a bronze medal in women's boxing, marking Pakistan's first medal at the 2026 Commonwealth Games. *[Dawn](https://www.dawn.com/news/2019813/fatima-claims-pakistans-first-medal-at-2026-commonwealth-games)*
+- Olympic gold medalist Arshad Nadeem has been eliminated early from the Commonwealth Games. *[ARY](https://arynews.tv/arshad-nadeem-crashes-out-early-in-commonwealth-games)*
 
 ### Other
-- A US government map mislabeled every country in Africa during a presentation at a global conference in Brazil. *[Dawn](https://www.dawn.com/news/2019644/us-govt-map-of-africa-mislabels-every-country-at-global-conference)*
-- Simone Biles reported that a luxury item was taken during a wedding. *[ARY](https://arynews.tv/simone-biles-someone-took-my-luxury-item-at-travis-taylors-wedding)*
-- Prince William has been warned regarding Prince Harry and Meghan Markle's "rival royal court" plans. *[ARY](https://arynews.tv/prince-william-warned-against-prince-harry-and-meghan-markles-rival-royal-court-plan)*
-- Information regarding how to stream *The Devil Wears Prada 2* at home. *[ARY](https://arynews.tv/the-devil-wears-prada-2-how-can-viewers-stream-it-at-home)*
-- Christopher Nolan’s *The Odyssey* has triggered a massive player spike for *Assassin’s Creed: Odyssey*. *[ARY](https://arynews.tv/christopher-nolans-the-odyssey-triggers-massive-player-spike-for-assassins-creed-odyssey)*
-- Celebrity news regarding Katie Price's plans for a fresh start in Cornwall. *[ARY](https://arynews.tv/katie-price-plans-fresh-start-with-move-to-cornwall)*
+- Kaley Cuoco is set to return in a new capacity in the production *'Stuart Fails to Save the Universe'*. *[ARY](https://arynews.tv/kaley-cuoco-returns-as-penny-in-stuart-fails-to-save-the-universe-but-shes-not-the-penny-you-remember)*
+- *Call of Duty* is shifting its release strategy following backlash regarding *Black Ops 7*. *[ARY](https://arynews.tv/call-of-duty-abandons-back-to-back-releases-following-black-ops-7-backlash)*
 
