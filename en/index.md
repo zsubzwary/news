@@ -4,48 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 02-Aug-2026 09:03PKT
+Published at: 02-Aug-2026 21:03PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Iranian oil smuggling has reportedly declined by 60% following incidents where tankers were hit in Balochistan. *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
-- Debates continue regarding Pakistan's auto industry policy, balancing the need for lower tariffs against manufacturer concerns over job losses and investments. *[Dawn](https://www.dawn.com/news/2020071/rethinking-the-auto-policy)*
-- Updates on current cement prices in Pakistan. *[ARY](https://arynews.tv/cement-price-in-pakistan-today-august-1-2026)*
+- Pakistan's textile trade is facing reputational challenges in Europe regarding labor standards. *[Dawn](https://www.dawn.com/news/2020141/guilty-until-proven-innocent-pakistans-textile-trade-on-trial)*
+- Smuggling of Iranian oil in Balochistan has seen a 60% decline following attacks on tankers. *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
 
 ### Weather
-- Heavy to very heavy rainfall is forecasted for parts of Punjab, Sindh, and Balochistan through August 4. *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
-- Authorities have warned of potential urban flooding in major cities across Punjab and Sindh due to the monsoon spell. *[Dawn](https://www.dawn.com/news/2020068/urban-flooding)*
+- Heavy rainfall in Hyderabad has caused significant civic disruption and power outages. *[Dawn](https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city)*
+- South Korea recorded its highest temperature ever, reaching 42.5°C in Yangsan. *[Dawn](https://www.dawn.com/news/2020115/south-korea-records-its-highest-ever-temperature-of-425c)*
+- Parts of Punjab, Sindh, and Balochistan are bracing for heavy to very heavy rainfall. *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
 
 ### Politics
-- The second phase of the Azad Jammu and Kashmir (AJK) elections has commenced in the Muzaffarabad division. *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-begins-in-muzaffarabad-division)*
-- Political tensions remain high between coalition partners PML-N and PPP due to allegations of rigging during the first phase of the AJK elections. *[Dawn](https://www.dawn.com/news/2020046/allies-rift-continues-to-widen-as-ajk-polls-enter-2nd-phase)*
-- Delays in presidential assent are reportedly hindering judicial appointments in the superior judiciary. *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
-- PPP Chairman Bilawal Bhutto-Zardari is consulting stakeholders following a response from the JAAC regarding a proposed Truth and Reconciliation Commission in AJK. *[Dawn](https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward)*
-- Political leaders, including MQM-P and Shahid Khaqan Abbasi, have voiced support for the creation of new administrative units in Pakistan. *[Dawn](https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units)*
-- An editorial highlights the growing gap between the aspirations of the youth and the existing political power structures. *[Dawn](https://www.dawn.com/news/2020076/power-and-youth)*
+- The second phase of AJK elections concluded amid allegations of rigging by the PPP. *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-conclude-amid-renewed-rigging-allegations-by-ppp)*
+- Pakistan's electoral rolls shrank by over 589,000 voters as the ECP removed deceased individuals. *[Dawn](https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-1.48m-deceased-voters)*
+- Defence Minister Khawaja Asif urged Interior Minister Mohsin Naqvi to focus on governance reforms within his own ministry. *[Dawn](https://www.dawn.com/news/2020112/asif-reacts-to-naqvis-call-for-governance-reset-urges-him-to-begin-with-his-own-ministry-or-pcb)*
+- Delays in presidential assent are hindering judicial appointments in the superior judiciary. *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
+- Political tensions between allies PML-N and PPP continue to widen following the AJK elections. *[Dawn](https://www.dawn.com/news/2020046/allies-rift-continues-to-widen-as-ajk-polls-enter-2nd-phase)*
+- Unofficial results for AJK elections have been released alongside allegations of attacks by PML-N workers. *[ARY](https://arynews.tv/ajk-elections-phase-ii-unofficial-results)* / *[ARY](https://arynews.tv/ajk-elections-latif-akbar-alleges-attack-by-pml-n-workers)*
 
 ### National
-- An army major was martyred during an intelligence-based operation in North Waziristan, which also resulted in the death of five terrorists. *[Dawn](https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr)*
-- July 2026 was identified as the deadliest month of the year, with 205 lives lost and 401 terrorists killed in various operations. *[Dawn](https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss)*
-- Gas supplies are set to be suspended for 12 hours in specific areas. *[ARY](https://arynews.tv/gas-supply-to-be-suspended-in-these-areas-for-12-hours)*
+- A suicide attack at the Kabal police station in Swat resulted in at least 7 deaths and 20 injuries. *[Dawn](https://www.dawn.com/news/2020154/at-least-7-killed-20-injured-in-suicide-attack-on-kabal-police-station-in-swat)*
+- Security forces successfully killed the mastermind behind the recent Hangu police checkpost attack. *[Dawn](https://www.dawn.com/news/2020144/security-forces-kill-mastermind-of-hangu-police-checkpost-attack-sources)*
+- The bodies of climber Nirmal Purja and three others were recovered from Broad Peak in Gilgit-Baltistan. *[Dawn](https://www.dawn.com/news/2020134/bodies-of-nepalese-climber-nirmal-purja-3-other-mountaineers-recovered-on-broad-peak-alpine-club)*
+- SSGC clarified that recent gas odors in Karachi were due to odorisation plant testing, not a leak. *[Dawn](https://www.dawn.com/news/2020140/ssgc-assures-citizens-there-is-no-gas-leak-says-odourisation-plant-testing-led-to-complaints)*
+- Two police officers were injured in an IED blast targeting a van in Peshawar. *[Dawn](https://www.dawn.com/news/2020137/2-cops-injured-in-ied-blast-targeting-police-van-in-peshawar)*
+- CCTV footage in the Mir Raza murder case shows the victim carrying a pistol prior to his disappearance. *[ARY](https://arynews.tv/mir-raza-murder-case-cctv-shows-victim-carrying-pistol)*
 
 ### International
-- President Trump has stated the US is prepared for action but will delay new attacks on Iran in hopes of reaching a quick deal. *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
-- A top US military commander warned that the United States may lack sufficient forces to simultaneously defend Israel and protect US interests against Iran. *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
-- US embassies in the Middle East have advised citizens to consider departing the region due to escalating tensions. *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
-- The US State Department is making a visa bond programme permanent, which may require applicants from 50 countries to post bonds of up to $20,000. *[Dawn](https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries)*
-- Fourteen Afghan migrants were found dead in a desert while attempting to reach Iran on foot. *[Dawn](https://www.dawn.com/news/2020038/14-afghan-migrants-found-dead-in-desert)*
-- Donald Trump has disputed findings released by his own Justice Department regarding the Reflecting Pool. *[ARY](https://arynews.tv/trump-disputes-his-own-justice-department-findings)*
-- Saudi Arabia has arrested over 14,000 individuals for law violations within a single week. *[ARY](https://arynews.tv/saudi-arabia-arrests-over-14000-law-violators-in-one-week)*
-- Migrants reported facing hunger and hostility while being driven back from Spain’s Ceuta to Morocco. *[ARY](https://arynews.tv/ceuta-a-harsh-reality-for-migrants-seeking-hope)*
+- At least 72 people died during a mass migrant rush into Spain’s Ceuta enclave. *[Dawn](https://www.dawn.com/news/2020149/at-least-72-died-in-spains-ceuta-migrant-rush)*
+- US President Donald Trump expressed hope for a quick deal with Iran to avoid fresh attacks. *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
+- US military commanders warned that naval forces may be stretched too thin to defend Israel against Iran. *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
+- US embassies have advised American citizens to consider departing the Middle East due to rising tensions. *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
+- Kuwait has set a fee of KD 150 for converting visit visas to residency. *[ARY](https://arynews.tv/kuwait-sets-kd-150-fee-to-convert-visit-visa-to-residency)*
+- Capital One reportedly closed the Trump Organization's accounts following an anti-money laundering probe. *[ARY](https://arynews.tv/capital-one-says-it-closed-trump-organizations-accounts-after-anti-money-laundering-probe)*
 
 ### Sports
-- FIFA President Infantino’s future is reportedly in jeopardy following a failed private equity gamble. *[ARY](https://arynews.tv/infantinos-fifa-future-in-jeopardy)*
+- FIFA President Gianni Infantino faces scrutiny over a failed plan to sell World Cup commercial rights. *[Dawn](https://www.dawn.com/news/2020133/fifa-chief-infantinos-position-looks-unacceptable-head-of-european-leagues-says)*
+- Erling Haaland's market value has been highlighted following the 2026 FIFA World Cup. *[ARY](https://arynews.tv/fifa-world-cup-2026-made-erling-haaland-priceless)*
+
+### Health
+- A Salmonella outbreak in Louisiana has been linked to a massive egg recall. *[ARY](https://arynews.tv/louisiana-reports-salmonella-outbreak-linked-to-massive-egg-recall-brands-lot-codes-and-symptoms)*
+- Nicole ‘Snooki’ Polizzi provided an update on her recovery following a cervical cancer hysterectomy. *[ARY](https://arynews.tv/nicole-snooki-polizzi-shares-candid-recovery-update-following-cervical-cancer-hysterectomy)*
 
 ### Other
-- Renowned mountaineer Nirmal Purja and his team tragically perished in an avalanche on Broad Peak. *[Dawn](https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms)*
-- Prince William paid heartfelt tribute to the late mountaineer Nirmal Purja. *[ARY](https://arynews.tv/prince-william-pays-heartfelt-tribute-to-nirmal-purja)*
-- Social media trends include a viral statement by Taylor Fritz and claims regarding a guest at Brooklyn Beckham's wedding. *[ARY](https://arynews.tv/taylor-fritzs-sydney-sweeney-statement-goes-viral)* | *[ARY](https://arynews.tv/brooklyn-beckham-wedding-guest-makes-shocking-claim)*
-- Discussions regarding a 'Barbie' sequel have hit a roadblock due to a dispute over offers. *[ARY](https://arynews.tv/barbie-sequel-talks-hit-roadblock-over-offer-dispute)*
+- A new video featuring Princess Kate and Prince William has been released. *[ARY](https://arynews.tv/princess-kate-williams-sweet-video-clip-with-a-message)*
+- Actor Tom Holland has teased a potential appearance in 'Avengers: Doomsday'. *[ARY](https://arynews.tv/tom-holland-teases-possible-avengers-doomsday-appearance)*
 
