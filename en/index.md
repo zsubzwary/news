@@ -4,54 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 01-Aug-2026 21:03PKT
+Published at: 02-Aug-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government has reduced petrol prices by 12 paisas and high-speed diesel by 66 paisas for the next three days. *[Dawn](https://www.dawn.com/news/2019751/govt-cuts-petrol-price-by-12-paisas-high-speed-diesel-by-66-paisas-for-the-next-three-days)*
-- Bessent's "to-do" list includes plans to purchase $5-10 billion worth of Japanese yen. *[ARY](https://arynews.tv/bessents-to-do-list-buy-5-10-billion-worth-of-japanese-yen)*
-- Updates are available regarding the Iranian rial exchange rate against the PKR and USD. *[ARY](https://arynews.tv/iranian-rial-rate-today-against-pkr-and-usd-august-1-2026)*
-
-### Science & Technology
-- Alphabet has rolled back AI image generation features in Google Earth due to policy violations. *[ARY](https://arynews.tv/alphabet-rolls-back-ai-image-generation-in-google-earth-over-policy-violations)*
+- Iranian oil smuggling has reportedly declined by 60% following incidents where tankers were hit in Balochistan. *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
+- Debates continue regarding Pakistan's auto industry policy, balancing the need for lower tariffs against manufacturer concerns over job losses and investments. *[Dawn](https://www.dawn.com/news/2020071/rethinking-the-auto-policy)*
+- Updates on current cement prices in Pakistan. *[ARY](https://arynews.tv/cement-price-in-pakistan-today-august-1-2026)*
 
 ### Weather
-- Parts of Karachi have received light showers, with the PMD predicting more rain and thunderstorms through August 3. *[Dawn](https://www.dawn.com/news/2019923/parts-of-karachi-receive-light-showers-more-rain-expected)*
-- Authorities have barred tourists from visiting Lake Saiful Muluk due to forecasts of heavy monsoon rains and potential cloudbursts. *[Dawn](https://www.dawn.com/news/2019799/tourists-barred-from-visiting-saiful-muluk)*
-- Parts of Punjab and Sindh face urban flooding risks as water levels in the Tarbela and Mangla dams continue to rise. *[Dawn](https://www.dawn.com/news/2019823/parts-of-punjab-sindh-face-urban-flooding-risk)*
+- Heavy to very heavy rainfall is forecasted for parts of Punjab, Sindh, and Balochistan through August 4. *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
+- Authorities have warned of potential urban flooding in major cities across Punjab and Sindh due to the monsoon spell. *[Dawn](https://www.dawn.com/news/2020068/urban-flooding)*
 
 ### Politics
-- The PPP and PML-N continue a verbal dispute regarding the elections in Azad Jammu and Kashmir, with the PPP alleging rigging in the Mirpur division. *[Dawn](https://www.dawn.com/news/2019925/ppp-pml-n-continue-war-of-words-on-eve-of-muzaffarabad-elections)*
-- Former premier Shahid Khaqan Abbasi and MQM-P leaders have voiced support for the creation of new administrative units. *[Dawn](https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units)*
-- Interior Minister Mohsin Naqvi's call for a governance overhaul has sparked significant political debate across the country. *[Dawn](https://www.dawn.com/news/2019825/naqvis-remarks-ignite-fresh-debate-in-political-circles)*
-- Chief Minister Maryam Nawaz is holding regular meetings with PML-N lawmakers to address constituent concerns and bridge gaps with the administration. *[Dawn](https://www.dawn.com/news/2019781/is-maryam-bridging-gap-between-pml-n-legislators-and-admin)*
-- Ahsan Iqbal has won a defamation case against PTI's Murad Saeed. *[ARY](https://arynews.tv/ahsan-iqbal-wins-defamation-case-against-ptis-murad-saeed)*
+- The second phase of the Azad Jammu and Kashmir (AJK) elections has commenced in the Muzaffarabad division. *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-begins-in-muzaffarabad-division)*
+- Political tensions remain high between coalition partners PML-N and PPP due to allegations of rigging during the first phase of the AJK elections. *[Dawn](https://www.dawn.com/news/2020046/allies-rift-continues-to-widen-as-ajk-polls-enter-2nd-phase)*
+- Delays in presidential assent are reportedly hindering judicial appointments in the superior judiciary. *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
+- PPP Chairman Bilawal Bhutto-Zardari is consulting stakeholders following a response from the JAAC regarding a proposed Truth and Reconciliation Commission in AJK. *[Dawn](https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward)*
+- Political leaders, including MQM-P and Shahid Khaqan Abbasi, have voiced support for the creation of new administrative units in Pakistan. *[Dawn](https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units)*
+- An editorial highlights the growing gap between the aspirations of the youth and the existing political power structures. *[Dawn](https://www.dawn.com/news/2020076/power-and-youth)*
 
 ### National
-- An army major was martyred during an intelligence-based operation in North Waziristan, which also resulted in the deaths of five terrorists. *[Dawn](https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr)*
-- July 2026 was recorded as the deadliest month of the year so far, with 205 lives lost and 401 terrorists killed. *[Dawn](https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss)*
-- Renowned mountaineer Nirmal Purja died following a powerful avalanche on Broad Peak in Pakistan. *[Dawn](https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms) / [ARY](https://arynews.tv/nirmal-purja-famed-climer-dies-in-avalanche-in-pakistan)*
-- CDF Asim Munir reaffirmed the "unique and steadfast" friendship between Pakistan and China during an event at GHQ. *[Dawn](https://www.dawn.com/news/2019924/cdf-munir-says-pak-china-friendship-has-remained-steadfast-amid-evolving-regional-global-challenges)*
-- A JUI-F affiliated cleric, Maulana Muhammad Ismail, was shot dead by unidentified assailants in Lower South Waziristan. *[Dawn](https://www.dawn.com/news/2019910/cleric-affiliated-with-jui-f-shot-dead-in-lower-south-waziristan)*
-- Search and rescue operations have concluded in Quetta following a methane gas explosion that claimed the lives of 34 miners. *[Dawn](https://www.dawn.com/news/2019918/quetta-coal-mine-explosion-search-and-rescue-operation-concludes-as-last-two-bodies-recovered)*
-- PML-N MNA Malik Iqbal Channar has passed away at the age of 76. *[Dawn](https://www.dawn.com/news/2019919/pml-n-mna-malik-iqbal-channar-passes-away-at-76)*
+- An army major was martyred during an intelligence-based operation in North Waziristan, which also resulted in the death of five terrorists. *[Dawn](https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr)*
+- July 2026 was identified as the deadliest month of the year, with 205 lives lost and 401 terrorists killed in various operations. *[Dawn](https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss)*
+- Gas supplies are set to be suspended for 12 hours in specific areas. *[ARY](https://arynews.tv/gas-supply-to-be-suspended-in-these-areas-for-12-hours)*
 
 ### International
-- The US State Department is making its visa bond program permanent, potentially requiring applicants from 50 countries to post bonds of up to $20,000. *[Dawn](https://www.dawn.com/news/2019949/us-to-make-visa-bond-program-permanent-for-people-from-dozens-of-countries)*
-- Indian Prime Minister Narendra Modi stated he forgives protesters who insulted him during recent demonstrations against exam paper leaks. *[Dawn](https://www.dawn.com/news/2019908/modi-says-he-forgives-protesters-who-abused-him-during-youth-led-demonstrations-against-exam-paper-leaks)*
-- Spain has installed a floating barrier in Ceuta following recent border unrest. *[ARY](https://arynews.tv/ceuta-migrant-crossings-and-recent-developments)*
-- A report has emerged regarding a deceased Kuwaiti man who was found to have fathered children. *[ARY](https://arynews.tv/dead-kuwaiti-man-suddenly-had-children)*
+- President Trump has stated the US is prepared for action but will delay new attacks on Iran in hopes of reaching a quick deal. *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
+- A top US military commander warned that the United States may lack sufficient forces to simultaneously defend Israel and protect US interests against Iran. *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
+- US embassies in the Middle East have advised citizens to consider departing the region due to escalating tensions. *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
+- The US State Department is making a visa bond programme permanent, which may require applicants from 50 countries to post bonds of up to $20,000. *[Dawn](https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries)*
+- Fourteen Afghan migrants were found dead in a desert while attempting to reach Iran on foot. *[Dawn](https://www.dawn.com/news/2020038/14-afghan-migrants-found-dead-in-desert)*
+- Donald Trump has disputed findings released by his own Justice Department regarding the Reflecting Pool. *[ARY](https://arynews.tv/trump-disputes-his-own-justice-department-findings)*
+- Saudi Arabia has arrested over 14,000 individuals for law violations within a single week. *[ARY](https://arynews.tv/saudi-arabia-arrests-over-14000-law-violators-in-one-week)*
+- Migrants reported facing hunger and hostility while being driven back from Spain’s Ceuta to Morocco. *[ARY](https://arynews.tv/ceuta-a-harsh-reality-for-migrants-seeking-hope)*
 
 ### Sports
-- FIFA has scrapped its proposal to allow private investment in the World Cup following significant backlash from football officials. *[Dawn](https://www.dawn.com/news/2019907/fifa-scraps-private-investment-plan-after-fierce-backlash-from-officials-worldwide)*
-- Fatima Zahra has secured Pakistan's first medal at the 2026 Commonwealth Games, winning bronze in women's 60kg boxing. *[Dawn](https://www.dawn.com/news/2019813/fatima-claims-pakistans-first-medal-at-2026-commonwealth-games)*
-- Prince William and Kate Middleton were seen watching the Commonwealth Games with their children. *[ARY](https://arynews.tv/prince-william-kate-watch-commonwealth-games-with-children)*
-
-### Health
-- Cyclosporiasis cases in Michigan have risen to 10,773 as an ongoing outbreak continues. *[ARY](https://arynews.tv/cyclosporiasis-outbreak-michigan-reports-cases)*
+- FIFA President Infantino’s future is reportedly in jeopardy following a failed private equity gamble. *[ARY](https://arynews.tv/infantinos-fifa-future-in-jeopardy)*
 
 ### Other
-- A discourse piece reflects on the artistic impact and unfinished legacy of Sadequain's mural. *[Dawn](https://www.dawn.com/news/2018216/discourse-the-stamp-of-a-master)*
-- Lara Dutta's attire in the "Ramayana" trailer has faced criticism. *[ARY](https://arynews.tv/lara-duttas-saree-in-ramayana-trailer-draws-criticism)*
+- Renowned mountaineer Nirmal Purja and his team tragically perished in an avalanche on Broad Peak. *[Dawn](https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms)*
+- Prince William paid heartfelt tribute to the late mountaineer Nirmal Purja. *[ARY](https://arynews.tv/prince-william-pays-heartfelt-tribute-to-nirmal-purja)*
+- Social media trends include a viral statement by Taylor Fritz and claims regarding a guest at Brooklyn Beckham's wedding. *[ARY](https://arynews.tv/taylor-fritzs-sydney-sweeney-statement-goes-viral)* | *[ARY](https://arynews.tv/brooklyn-beckham-wedding-guest-makes-shocking-claim)*
+- Discussions regarding a 'Barbie' sequel have hit a roadblock due to a dispute over offers. *[ARY](https://arynews.tv/barbie-sequel-talks-hit-roadblock-over-offer-dispute)*
 
