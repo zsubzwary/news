@@ -7,51 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 02-Aug-2026 09:09PKT 
+ &lrm; 02-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- بلوچستان میں ایرانی تیل کی اسمگلنگ میں 60 فیصد کمی کا دعویٰ۔ *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
-- پاکستان کی آٹو پالیسی پر نئی بحث اور صنعتی چیلنجز۔ *[Dawn](https://www.dawn.com/news/2020071/rethinking-the-auto-policy)*
-- مختلف علاقوں میں گیس کی فراہمی 12 گھنٹوں کے لیے معطل رہے گی۔ *[ARY](https://arynews.tv/gas-supply-to-be-suspended-in-these-areas-for-12-hours)*
-- پاکستان میں سیمنٹ کی موجودہ قیمتوں کی تفصیلات۔ *[ARY](https://arynews.tv/cement-price-in-pakistan-today-august-1-2026)*
-
-### سیاست
-- آزاد جموں و کشمیر میں انتخابات کے دوسرے مرحلے کا آغاز۔ *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-begins-in-muzaffarabad-division)*
-- آزاد کشمیر میں انتخابات کے نتائج پر اتحادیوں (PML-N اور PPP) کے درمیان بڑھتا ہوا تناؤ۔ *[Dawn](https://www.dawn.com/news/2020046/allies-rift-continues-to-widen-as-ajk-polls-enter-2nd-phase)*
-- بلاول بھٹو زرداری کی مصالحت کمیشن کے حوالے سے اہم پیش رفت۔ *[Dawn](https://www.dawn.com/news/2019950/bilawal-receives-jaac-response-on-reconciliation-commission-says-ajk-pm-to-consult-stakeholders-on-way-forward)*
-- آزاد کشمیر کے انتخابات کے تناؤ کو کم کرنے کے لیے سیاسی رہنماؤں کی ملاقاتیں۔ *[Dawn](https://www.dawn.com/news/2019951/pml-n-ppp-leaders-resume-talks-to-ease-tensions-over-ajk-polls)*
-- آزاد کشمیر کے انتخابات کے موقع پر PML-N اور PPP کے درمیان لفظی جنگ۔ *[Dawn](https://www.dawn.com/news/2019925/ppp-pml-n-continue-war-of-words-on-eve-of-muzaffarabad-elections)*
-- نئے انتظامی یونٹس بنانے کی حمایت میں اہم سیاسی رہنماؤں کا بیان۔ *[Dawn](https://www.dawn.com/news/2019935/enough-is-enough-mqm-p-leaders-shahid-khaqan-back-creation-of-new-administrative-units)*
-
-### قومی
-- صدارتی منظوری میں تاخیر کے باعث عدلیہ کی تقرریوں میں مشکلات۔ *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
-- شمالی وزیرستان میں دہشت گردوں کے خلاف آپریشن کے دوران پاک فوج کا میجر شہید۔ *[Dawn](https://www.dawn.com/news/2019936/army-major-martyred-in-north-waziristan-ibo-ispr)*
-- جولائی 2026 میں دہشت گردی اور دہشت گردوں کے خلاف آپریشنز میں جان мали کا سنگین اضافہ۔ *[Dawn](https://www.dawn.com/news/2019937/july-deadliest-month-of-2026-as-205-lives-lost-401-terrorists-killed-picss)*
-
-### بین الاقوامی
-- ٹرمپ کا ایران کے ساتھ ڈیل کے ذریعے جوہری خطرات ختم کرنے کا ارادہ۔ *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
-- امریکی کمانڈر کی وارننگ: اسرائیل کے دفاع کے لیے امریکہ کے پاس ناکافی افواج۔ *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
-- امریکی حکومت کی مشورہ: مشرق وسطیٰ سے امریکی شہریوں کی فوری واپسی۔ *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
-- افغانستان کے صحرا میں 14 افغان مہاجرین کی لاشیں مل گئیں۔ *[Dawn](https://www.dawn.com/news/2020038/14-afghan-migrants-found-dead-in-desert)*
-- امریکی اسٹیٹ ڈیپارٹمنٹ کا ویزا بانڈ پروگرام مستقل کرنے کا فیصلہ۔ *[Dawn](https://www.dawn.com/news/2019949/us-to-make-visa-bond-programme-permanent-for-people-from-dozens-of-countries)*
-- سعودی عرب میں قانون کی خلاف ورزی کرنے والوں کے خلاف بڑے پیمانے پر گرفتاریوں کا سلسلہ۔ *[ARY](https://arynews.tv/saudi-arabia-arrests-over-14000-law-violators-in-one-week)*
-- اسپین سے مراکش کی طرف جانے والے مہاجرین کی مشکلات اور سخت حالات۔ *[ARY](https://arynews.tv/ceuta-a-harsh-reality-for-migrants-seeking-hope)*
-- ٹرمپ کا اپنے محکمہ انصاف کی تحقیقات پر اعتراض۔ *[ARY](https://arynews.tv/trump-disputes-his-own-justice-department-findings)*
+- یورپی ممالک کی جانب سے پاکستان کی ٹیکسٹائل صنعت پر لگائے جانے والے الزامات کے حوالے سے بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2020141/guilty-until-proven-innocent-pakistans-textile-trade-on-trial)*
+- بلوچستان میں کارروائیوں کے باعث ایران سے ہونے والی تیل کی اسمگلنگ میں 60 فیصد کمی آئی ہے۔ *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
 
 ### موسم
-- ملک کے بیشتر حصوں میں موسلا دھار بارشوں کی پیش گوئی۔ *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
-- پنجاب اور سندھ کے بڑے شہروں میں اربن فلڈنگ کا خطرہ۔ *[Dawn](https://www.dawn.com/news/2020068/urban-flooding)*
+- حیدرآباد میں بارشوں کے باعث معمولات زندگی متاثر ہوئے اور بجلی کی فراہمی میں خلل پڑا۔ *[Dawn](https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city)*
+- پاکستان کے بیشتر حصوں میں 4 اگست تک شدید بارشوں کی پیشگوئی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
+- جنوبی کوریا میں ریکارڈ گرمی، درجہ حرارت 42.5 ڈگری سینٹی گریڈ تک پہنچ گیا۔ *[Dawn](https://www.dawn.com/news/2020115/south-korea-records-its-highest-ever-temperature-of-425c)*
+
+### سیاست
+- آزاد جموں و کشمیر کے انتخابات کے دوسرے مرحلے کے اختتام پر rigging کے الزامات سامنے آئے۔ *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-conclude-amid-renewed-rigging-allegations-by-ppp)*
+- الیکشن کمیشن کی جانب سے وفات پا جانے والے ووٹرز کو حذف کرنے کے بعد انتخابی فہرستوں میں کمی واقع ہوئی۔ *[Dawn](https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-1.48m-deceased-voters)*
+- خواجہ آصف نے محسن نقوی کو گورننس میں تبدیلی کے لیے اپنی وزارت اور پی سی بی سے آغاز کرنے کا مشورہ دیا۔ *[Dawn](https://www.dawn.com/news/2020112/asif-reacts-to-naqvis-call-for-governance-reset-urges-him-to-begin-with-his-own-ministry-or-pcb)*
+- صدارتی منظوری میں تاخیر کی وجہ سے اعلیٰ عدلیہ میں تقرریوں کا عمل متاثر ہو رہا ہے۔ *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
+
+### ملکی خبریں
+- سوات کے کابئی پولیس اسٹیشن پر خودکش حملے میں 7 افراد ہلاک اور 20 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2020154/at-least-7-killed-20-injured-in-suicide-attack-on-kabal-police-station-in-swat)*
+- سیکورٹی فورسز نے ہنگو پولیس چیک پوسٹ حملے کے ماسٹر مائنڈ کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2020144/security-forces-kill-mastermind-of-hangu-police-checkpost-attack-sources)*
+- پشاور میں پولیس وین کو نشانہ بنانے والے دھماکے میں دو اہلکار زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2020137/2-cops-injured-in-ied-blast-targeting-police-van-in-peshawar)*
+- ایس ایس جی سی نے وضاحت کی کہ کراچی میں گیس کی بو صرف نئے پائپ لائن کے ٹیسٹنگ کا نتیجہ تھی۔ *[Dawn](https://www.dawn.com/news/2020140/ssgc-assures-citizens-there-is-no-gas-leak-says-odourisation-plant-testing-led-to-complaints)*
+- بروڈ پیک پر حادثے کے بعد مشہور کوہ پیما نرمل پورجا سمیت چاروں کی لاشیں برآمد کر لی گئیں۔ *[Dawn](https://www.dawn.com/news/2020134/bodies-of-nepalese-climber-nirmal-purja-3-other-mountaineers-recovered-on-broad-peak-alpine-club)*
+
+### بین الاقوامی خبریں
+- اسپین کے علاقے سیوٹا میں ہجرت کے دوران 72 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020149/at-least-72-died-in-spains-ceuta-migrant-rush)*
+- ڈونلڈ ٹرمپ نے ایران کے ساتھ ممکنہ معاہدے کی امید میں حملے سے گریز کا اشارہ دیا۔ *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
+- امریکی فوجی کمانڈر نے خبردار کیا کہ امریکہ اسرائیل کے دفاع کے لیے مکمل طور پر تیار نہیں ہو سکتا۔ *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
+- امریکی حکومت نے مشرق وسطیٰ میں اپنے شہریوں کو فوری واپسی کا مشورہ دیا۔ *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
+- کیپیٹل ون نے منی لانڈرنگ تحقیقات کے بعد ٹرمپ آرگنائزیشن کے اکاؤنٹس بند کر دیے۔ *[ARY](https://arynews.tv/capital-one-says-it-closed-trump-organizations-accounts-after-anti-money-laundering-probe)*
+- کویت نے وزٹ ویزا کو رہائشی ویزا میں تبدیل کرنے کے لیے 150 دینار فیس مقرر کر دی ہے۔ *[ARY](https://arynews.tv/kuwait-sets-kd-150-fee-to-convert-visit-visa-to-residency)*
 
 ### کھیل
-- فیفا کے صدر انفینٹینو کے مستقبل پر خطرہ۔ *[ARY](https://arynews.tv/infantinos-fifa-future-in-jeopardy)*
+- فیفا کے صدر جیانی انفانٹینو کا عہدہ یورپی لیگز کے سربراہ کے مطابق ناقابل قبول ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020133/fifa-chief-infantinos-position-looks-unacceptable-head-of-european-leagues-says)*
+- ایرلنگ ہالینڈ کی کارکردگی نے انہیں عالمی سطح پر قیمتی کھلاڑی بنا دیا ہے۔ *[ARY](https://arynews.tv/fifa-world-cup-2026-made-erling-haaland-priceless)*
+
+### صحت
+- ریاست لوئیزیانا میں انڈوں کی واپسی کے بعد سالمونیلا کے پھیلاؤ کی اطلاع۔ *[ARY](https://arynews.tv/louisiana-reports-salmonella-outbreak-linked-to-massive-egg-recall-brands-lot-codes-and-symptoms)*
+- نائکول 'سنوکی' پولزی نے کینسر کے علاج کے بعد صحت یابی کی تازہ ترین صورتحال شیئر کی۔ *[ARY](https://arynews.tv/nicole-snooki-polizzi-shares-candid-recovery-update-following-cervical-cancer-hysterectomy)*
 
 ### دیگر
-- مشہور مائینٹینر نرمل پورجا کا برفانی تودہ (ایولینچ) کے نتیجے میں انتقال۔ *[Dawn](https://www.dawn.com/news/2019914/renowned-mountaineer-nirmal-purja-others-perish-in-broad-peak-avalanche-climbing-company-confirms)*
-- طاقت اور نوجوان نسل کے حوالے سے تجزیہ۔ *[Dawn](https://www.dawn.com/news/2020076/power-and-youth)*
-- شہزادہ ولیم کا نرمل پورجا کو خراج عقیدت۔ *[ARY](https://arynews.tv/prince-william-pays-heartfelt-tribute-to-nirmal-purja)*
-- ٹیلر فرٹز اور سنای سُوینی کے حوالے سے وائرل بیان۔ *[ARY](https://arynews.tv/taylor-fritzs-sydney-sweeney-statement-goes-viral)*
-- برکلن بیکھم کی شادی کے حوالے سے حیران کن دعویٰ۔ *[ARY](https://arynews.tv/brooklyn-beckham-wedding-guest-makes-shocking-claim)*
-- 'باربی' کے سیکوئل کے حوالے سے مذاکرات میں رکاوٹ۔ *[ARY](https://arynews.tv/barbie-sequel-talks-hit-roadblock-over-offer-dispute)*
+- شہزادی کیٹ اور ولیم کی ایک پیاری ویڈیو کلپ سامنے آئی ہے۔ *[ARY](https://arynews.tv/princess-kate-williams-sweet-video-clip-with-a-message)*
+- ٹام ہالینڈ نے 'ایوینجرز: ڈومز ڈے' میں اپنی ممکنہ واپسی کے حوالے سے اشارہ کیا۔ *[ARY](https://arynews.tv/tom-holland-teases-possible-avengers-doomsday-appearance)*
 
