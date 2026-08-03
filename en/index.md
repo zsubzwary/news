@@ -4,41 +4,40 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 03-Aug-2026 09:02PKT
+Published at: 03-Aug-2026 21:03PKT
 
 Time to read: 3 mins
 
 ### Economy
-- NEPRA member Amina Ahmed flagged regulatory and accounting inconsistencies in the national grid's recently approved Rs332 billion revenue requirement. *[Dawn](https://www.dawn.com/news/2020292/inconsistencies-in-rs332bn-grid-revenue-flagged)*
+- The Pakistan Stock Exchange (PSX) saw a significant rise, gaining over 2,100 points to close above the 178,000 mark. *[Dawn](https://www.dawn.com/news/2020325/bulls-in-charge-as-psx-opens-week-by-gaining-2100-points)*
+- Global oil prices fell by more than $4 per barrel following US President Donald Trump's announcement of potential talks with Iran. *[Dawn](https://www.dawn.com/news/2020327/oil-tumbles-as-trump-cancels-attack-on-iran-to-reach-deal-aimed-reopening-hormuz)*
+- Prime Minister Shehbaz Sharif has directed officials to ensure the government's privatisation programme is completed within established timelines. *[Dawn](https://www.dawn.com/news/2020371/pm-privatisation)*
+- Nepra has flagged regulatory and accounting inconsistencies regarding the national grid's Rs332 billion revenue requirement. *[Dawn](https://www.dawn.com/news/2020292/inconsistencies-in-rs332bn-grid-revenue-flagged)*
 
 ### Politics
-- Initial election tallies suggest the PML-N is poised to secure a majority in the AJK Legislative Assembly, while the PPP has alleged widespread rigging. *[Dawn](https://www.dawn.com/news/2020296/pml-n-poised-to-grab-lions-share-in-ajk)*
-- Interior Minister Mohsin Naqvi's proposal to create new provinces faces pushback from coalition partners who argue the focus should instead be on implementing the National Action Plan. *[Dawn](https://www.dawn.com/news/2020299/naqvis-call-for-new-provinces-faces-fresh-pushback)*
-- The Provincial Management Service (PMS) officers' association has opposed the Punjab government's decision to create 101 new Additional Assistant Commissioner posts. *[Dawn](https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed)*
-- A clash between rival groups at the MQM-P headquarters in Karachi's Bahadurabad resulted in at least four injuries. *[Dawn](https://www.dawn.com/news/2020162/scuffle-and-chaos-mar-mqm-p-meeting-as-two-groups-clash-at-partys-office-in-karachis-bahadurabad)*
-- The Election Commission of Pakistan (ECP) reported that electoral rolls contracted by nearly 590,000 voters after the removal of over 1.4 million deceased voters. *[Dawn](https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-148m-deceased-voters)*
-- An editorial piece explores the ongoing debate regarding the Pakistani state's transition toward becoming a "hard state." *[Dawn](https://www.dawn.com/news/2020265/a-hard-state)*
+- Prime Minister Shehbaz Sharif congratulated the PML-N after unofficial results from the second phase of AJK elections showed the party winning 14 of 18 seats. *[Dawn](https://www.dawn.com/news/2020320/pm-shehbaz-congratulates-pml-n-after-party-maintains-lead-in-second-phase-of-ajk-polls)*
+- An anti-terrorism court has placed former senator Mushtaq Ahmad Khan on a three-day physical remand in connection with a protest case. *[Dawn](https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case)*
+- The Provincial Management Service (PMS) officers’ association has opposed the Punjab government's move to create 101 new Additional Assistant Commissioner posts. *[Dawn](https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed)*
+- Coalition partners have pushed back against Interior Minister Mohsin Naqvi's proposal to create new provinces, urging a focus on the National Action Plan instead. *[Dawn](https://www.dawn.com/news/2020299/naqvis-call-for-new-provinces-faces-fresh-pushback)*
+- A clash between two rival groups at the MQM-P headquarters in Karachi resulted in at least four injuries. *[Dawn](https://www.dawn.com/news/2020162/scuffle-and-chaos-mar-mqm-p-meeting-as-two-groups-clash-at-partys-office-in-karachis-bahadurabad)*
 
 ### National
-- Investigators are exploring forensic inconsistencies and a missing weapon in the death of Mir Raza Ali Khan to determine if the case was a suicide or murder. *[Dawn](https://www.dawn.com/news/2020224/missing-weapon-forensic-inconsistencies-puzzle-investigators-in-raza-murder-case)*
+- The death toll from a suicide bombing near a police station in Swat has risen to 17. *[Dawn](https://www.dawn.com/news/2020350/death-toll-from-suicide-bombing-near-police-station-in-swat-rises-to-17)*
+- A religious scholar was killed in a suspected pressure bomb explosion at a supermarket in Wana, South Waziristan. *[Dawn](https://www.dawn.com/news/2020348/religious-scholar-killed-in-explosion-at-supermarket-in-south-waziristans-wana)*
+- Investigators are probing the suspicious death of Mir Raza Ali Khan, questioning the theory of suicide despite collected evidence. *[Dawn](https://www.dawn.com/news/2020224/missing-weapon-forensic-inconsistencies-puzzle-investigators-in-raza-murder-case)*
 - The Balochistan government has ordered a high-level inquiry into the coal mine disaster in Sorange that claimed 34 lives. *[Dawn](https://www.dawn.com/news/2020278/balochistan-govt-orders-inquiry-into-sorange-coal-mine-disaster)*
-- Lahore traffic police are initiating criminal record verifications for 348,000 commercial drivers following reports of their involvement in a high percentage of fatal road crashes. *[Dawn](https://www.dawn.com/news/2020243/criminal-record-verification-of-lahores-commercial-drivers-in-the-offing)*
-- A suicide attack on the Kabal police station in Swat resulted in the martyrdom of at least 14 people, including police officials. *[Dawn](https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police)*
-- SSGC clarified that recent gas odor complaints in Karachi were caused by the testing of odorisation plants during pipeline commissioning rather than a leak. *[Dawn](https://www.dawn.com/news/2020140/ssgc-assures-citizens-there-is-no-gas-leak-says-odourisation-plant-testing-led-to-complaints)*
+- Lahore traffic police have initiated criminal record verification for 348,000 commercial drivers following reports of their involvement in fatal road crashes. *[Dawn](https://www.dawn.com/news/2020243/criminal-record-verification-of-lahores-commercial-drivers-in-the-offing)*
+- Rehman Bhola has been re-arrested in connection with an armed clash in Bahadurabad. *[ARY](https://arynews.tv/rehman-bhola-re-arrested-in-connection-with-bahadarabad-armed-clash)*
 
 ### International
-- UK Prime Minister Andy Burnham has signaled support for a written Constitution for Britain to facilitate the devolution of power. *[Dawn](https://www.dawn.com/news/2020283/andy-burnham-backs-written-constitution-for-britain)*
-- A woman bomber killed at least three people and injured 21 near a restaurant in central Moscow. *[Dawn](https://www.dawn.com/news/2020282/woman-bomber-kills-3-near-moscow-restaurant)*
-- Hamas has reportedly agreed to surrender its weapons to a Palestinian technocratic body under a US-led peace initiative. *[Dawn](https://www.dawn.com/news/2020269/farewell-to-arms)*
-- President Donald Trump's approval rating has hit an all-time low, with 62% of Americans expressing disapproval of his performance. *[Dawn](https://www.dawn.com/news/2020266/damage-assessment)*
-- At least 72 people died during a massive influx of migrants attempting to enter Spain's Ceuta enclave from Morocco. *[Dawn](https://www.dawn.com/news/2020149/at-least-72-died-in-spains-ceuta-migrant-rush)*
+- Iran has denied that negotiations are currently being held with the United States, contradicting announcements by US President Donald Trump. *[Dawn](https://www.dawn.com/news/2020319/iran-denies-negotiations-with-us-after-trump-announces-talks)*
+- Israel has communicated its concerns to the US regarding a proposed Gaza plan, stating that public versions do not reflect its actual position. *[Dawn](https://www.dawn.com/news/2020337/israel-conveys-comments-concerns-to-us-on-gaza-plan-says-version-made-public-does-not-reflect-its-position)*
+- Palestinians in Gaza have expressed that the peace plans promoted by Donald Trump are out of touch with the worsening reality on the ground. *[Dawn](https://www.dawn.com/news/2020367/after-deadly-day-gazans-say-trumps-touting-of-plan-jars-with-grim-reality)*
+- A court in New Delhi has acquitted former Indian wrestling federation chief Brij Bhushan Sharan Singh of sexual harassment charges. *[Dawn](https://www.dawn.com/news/2020344/court-acquits-former-india-wrestling-chief-of-sexually-harassing-athletes)*
 
-### Weather
-- Intermittent rainfall in Hyderabad caused significant disruption to civic life and led to widespread power outages. *[Dawn](https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city)*
-- Raging wildfires in Greece and North America, exacerbated by climate change and heatwaves, are causing significant destruction and evacuations. *[Dawn](https://www.dawn.com/news/2020284/firefighters-under-pressure-amid-raging-wildfires)*
+### Sports
+- Justin Greaves scored an unbeaten 64 to help the West Indies steady their position during the second Test against Pakistan. *[Dawn](https://www.dawn.com/news/2020316/justin-greaves-steadies-west-indies-in-second-test-against-pakistan)*
 
-### Other
-- A report highlights the ongoing human-wildlife conflict in the Himalayas involving leopard attacks on local residents. *[Dawn](https://www.dawn.com/news/2020289/living-with-leopards-in-the-himalayas)*
-- Actor Jon Bernthal discussed the personal sacrifices his family made during his time filming 'The Punisher'. *[ARY](https://arynews.tv/jon-bernthal-reveals-family-sacrifice-behind-the-punisher-role)*
-- Ram Kapoor shared personal anecdotes during an appearance on the show 'Lock Upp 2'. *[ARY](https://arynews.tv/lock-upp-2-ram-kapoor-shares-secret-hidden-from-wife)*
+### Health
+- The AKU & CHAMPS programme is utilizing field teams to track child health trajectories and investigate causes of infant mortality. *[Dawn](https://www.dawn.com/news/2020026/health-uncovering-why-babies-die)*
 
