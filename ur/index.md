@@ -7,49 +7,40 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 02-Aug-2026 21:09PKT 
+ &lrm; 03-Aug-2026 09:08PKT 
 
 پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- یورپی ممالک کی جانب سے پاکستان کی ٹیکسٹائل صنعت پر لگائے جانے والے الزامات کے حوالے سے بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2020141/guilty-until-proven-innocent-pakistans-textile-trade-on-trial)*
-- بلوچستان میں کارروائیوں کے باعث ایران سے ہونے والی تیل کی اسمگلنگ میں 60 فیصد کمی آئی ہے۔ *[Dawn](https://www.dawn.com/news/2020065/iranian-oil-smuggling-drops-60pc-claim-sources)*
+- نیپرا ممبر نے قومی گرڈ کے 332 ارب روپے کے ریونیو میں مالیاتی تضادات اور عدم تسلسل پر سوال اٹھا دیے۔ *[Dawn](https://www.dawn.com/news/2020292/inconsistencies-in-rs332bn-grid-revenue-flagged)*
+- ایس ایس جی سی نے وضاحت کی کہ کراچی میں گیس کی بو کی شکایات کا تعلق نئے پائپ لائن کی اوڈورائزیشن پلانٹ کی ٹیسٹنگ سے تھا۔ *[Dawn](https://www.dawn.com/news/2020140/ssgc-assures-citizens-there-is-no-gas-leak-says-odourisation-plant-testing-led-to-complaints)*
 
 ### موسم
-- حیدرآباد میں بارشوں کے باعث معمولات زندگی متاثر ہوئے اور بجلی کی فراہمی میں خلل پڑا۔ *[Dawn](https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city)*
-- پاکستان کے بیشتر حصوں میں 4 اگست تک شدید بارشوں کی پیشگوئی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2020036/most-parts-of-country-brace-for-heavy-rains)*
-- جنوبی کوریا میں ریکارڈ گرمی، درجہ حرارت 42.5 ڈگری سینٹی گریڈ تک پہنچ گیا۔ *[Dawn](https://www.dawn.com/news/2020115/south-korea-records-its-highest-ever-temperature-of-425c)*
+- حیدرآباد میں موسلا دھار بارشوں کے بعد معمولات زندگی درہم برہم ہو گئے اور بجلی کی فراہمی میں تعطل کا سامنا رہا۔ *[Dawn](https://www.dawn.com/news/2020152/routine-life-disrupted-in-hyderabad-after-rain-lashes-city)*
+- یورپ اور شمالی امریکہ میں شدید گرمی اور خشک سالی کے باعث جنگلات کی آگ (Wildfires) کے واقعات میں اضافہ ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020284/firefighters-under-pressure-amid-raging-wildfires)*
 
 ### سیاست
-- آزاد جموں و کشمیر کے انتخابات کے دوسرے مرحلے کے اختتام پر rigging کے الزامات سامنے آئے۔ *[Dawn](https://www.dawn.com/news/2020095/second-phase-of-ajk-polls-conclude-amid-renewed-rigging-allegations-by-ppp)*
-- الیکشن کمیشن کی جانب سے وفات پا جانے والے ووٹرز کو حذف کرنے کے بعد انتخابی فہرستوں میں کمی واقع ہوئی۔ *[Dawn](https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-1.48m-deceased-voters)*
-- خواجہ آصف نے محسن نقوی کو گورننس میں تبدیلی کے لیے اپنی وزارت اور پی سی بی سے آغاز کرنے کا مشورہ دیا۔ *[Dawn](https://www.dawn.com/news/2020112/asif-reacts-to-naqvis-call-for-governance-reset-urges-him-to-begin-with-his-own-ministry-or-pcb)*
-- صدارتی منظوری میں تاخیر کی وجہ سے اعلیٰ عدلیہ میں تقرریوں کا عمل متاثر ہو رہا ہے۔ *[Dawn](https://www.dawn.com/news/2020043/presidential-nod-delay-hits-judiciary-appointments)*
+- آزاد جموں و کشمیر کے انتخابات کے ابتدائی نتائج کے مطابق مسلم لیگ (ن) کو بڑی کامیابی ملنے کا امکان ہے۔ *[Dawn](https://www.dawn.com/news/2020296/pml-n-poised-to-grab-lions-share-in-ajk)*
+- وزیر داخلہ محسن نقوی کی نئے صوبوں کے قیام کی تجویز کو اتحادی جماعتوں کی جانب سے سخت مخالفت کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2020299/naqvis-call-for-new-provinces-faces-fresh-pushback)*
+- پنجاب میں 101 اضافی اسسٹنٹ کمشنر کے عہدے بنانے کے فیصلے کو پی ایم ایس افسران نے مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2020277/move-to-create-over-100-new-additional-assistant-commissioner-posts-in-punjab-opposed)*
+- کراچی میں ایم کیو ایم پی کی میٹنگ کے دوران دو گروہوں کے درمیان جھڑپ میں کم از کم چار افراد زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020162/scuffle-and-chaos-mar-mqm-p-meeting-as-two-groups-clash-at-partys-office-in-karachis-bahadurabad)*
+- وفات پا جانے والے ووٹروں کے نام نکالنے کے بعد پاکستان کی انتخابی فہرستوں میں تقریباً 5 لاکھ 89 ہزار کی کمی ریکارڈ کی گئی۔ *[Dawn](https://www.dawn.com/news/2020147/electoral-rolls-shrink-by-589458-in-less-than-two-months-as-ecp-removes-148m-deceased-voters)*
+- برطانیہ کے نئے وزیراعظم اینڈی برنم نے ملک کے لیے ایک تحریری آئین کی حمایت کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020283/andy-burnham-backs-written-constitution-for-britain)*
+- حماس نے غزہ میں ہتھیار چھوڑنے پر اتفاق کر کے اسرائیل کے سامنے ایک بڑا سیاسی قدم اٹھایا ہے۔ *[Dawn](https://www.dawn.com/news/2020269/farewell-to-arms)*
+- امریکی صدر ڈونلڈ ٹرمپ کی مقبولیت میں ریکارڈ کمی دیکھی گئی ہے، جہاں 62 فیصد عوام ان کی کارکردگی سے ناخوش ہے۔ *[Dawn](https://www.dawn.com/news/2020266/damage-assessment)*
 
-### ملکی خبریں
-- سوات کے کابئی پولیس اسٹیشن پر خودکش حملے میں 7 افراد ہلاک اور 20 زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2020154/at-least-7-killed-20-injured-in-suicide-attack-on-kabal-police-station-in-swat)*
-- سیکورٹی فورسز نے ہنگو پولیس چیک پوسٹ حملے کے ماسٹر مائنڈ کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2020144/security-forces-kill-mastermind-of-hangu-police-checkpost-attack-sources)*
-- پشاور میں پولیس وین کو نشانہ بنانے والے دھماکے میں دو اہلکار زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2020137/2-cops-injured-in-ied-blast-targeting-police-van-in-peshawar)*
-- ایس ایس جی سی نے وضاحت کی کہ کراچی میں گیس کی بو صرف نئے پائپ لائن کے ٹیسٹنگ کا نتیجہ تھی۔ *[Dawn](https://www.dawn.com/news/2020140/ssgc-assures-citizens-there-is-no-gas-leak-says-odourisation-plant-testing-led-to-complaints)*
-- بروڈ پیک پر حادثے کے بعد مشہور کوہ پیما نرمل پورجا سمیت چاروں کی لاشیں برآمد کر لی گئیں۔ *[Dawn](https://www.dawn.com/news/2020134/bodies-of-nepalese-climber-nirmal-purja-3-other-mountaineers-recovered-on-broad-peak-alpine-club)*
+### ملکی
+- سوات کے کابل پولیس اسٹیشن پر ہونے والے خودکش حملے میں 14 افراد بشمول پولیس اہلکار شہید ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020154/at-least-14-people-including-police-officials-martyred-in-suicide-attack-on-kabal-police-station-in-swat-police)*
+- بلوچستان حکومت نے سورنگے کوئلہ کان حادثے کی تحقیقات کے لیے اعلیٰ سطح کے انکوائری کمیشن کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2020278/balochistan-govt-orders-inquiry-into-sorange-coal-mine-disaster)*
+- کراچی میں ایک نوجوان کے مبینہ قتل کے کیس میں پولیس کو مالی نقصان اور فرانزک شواہد میں تضاد نظر آ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2020224/missing-weapon-forensic-inconsistencies-puzzle-investigators-in-raza-murder-case)*
+- لاہور پولیس نے حادثات میں اضافے کے پیش نظر شہر کے 3 لاکھ 48 ہزار کمرشل ڈرائیوروں کے مجرمانہ ریکارڈ کی تصدیق کا عمل شروع کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2020243/criminal-record-verification-of-lahores-commercial-drivers-in-the-offing)*
 
-### بین الاقوامی خبریں
-- اسپین کے علاقے سیوٹا میں ہجرت کے دوران 72 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020149/at-least-72-died-in-spains-ceuta-migrant-rush)*
-- ڈونلڈ ٹرمپ نے ایران کے ساتھ ممکنہ معاہدے کی امید میں حملے سے گریز کا اشارہ دیا۔ *[Dawn](https://www.dawn.com/news/2020104/trump-says-us-locked-and-loaded-but-will-hold-off-on-fresh-iran-attack-in-hope-of-quick-deal)*
-- امریکی فوجی کمانڈر نے خبردار کیا کہ امریکہ اسرائیل کے دفاع کے لیے مکمل طور پر تیار نہیں ہو سکتا۔ *[Dawn](https://www.dawn.com/news/2020037/us-may-not-have-enough-forces-to-defend-israel-against-iran)*
-- امریکی حکومت نے مشرق وسطیٰ میں اپنے شہریوں کو فوری واپسی کا مشورہ دیا۔ *[Dawn](https://www.dawn.com/news/2020047/us-govt-advises-americans-to-leave-mideast)*
-- کیپیٹل ون نے منی لانڈرنگ تحقیقات کے بعد ٹرمپ آرگنائزیشن کے اکاؤنٹس بند کر دیے۔ *[ARY](https://arynews.tv/capital-one-says-it-closed-trump-organizations-accounts-after-anti-money-laundering-probe)*
-- کویت نے وزٹ ویزا کو رہائشی ویزا میں تبدیل کرنے کے لیے 150 دینار فیس مقرر کر دی ہے۔ *[ARY](https://arynews.tv/kuwait-sets-kd-150-fee-to-convert-visit-visa-to-residency)*
-
-### کھیل
-- فیفا کے صدر جیانی انفانٹینو کا عہدہ یورپی لیگز کے سربراہ کے مطابق ناقابل قبول ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020133/fifa-chief-infantinos-position-looks-unacceptable-head-of-european-leagues-says)*
-- ایرلنگ ہالینڈ کی کارکردگی نے انہیں عالمی سطح پر قیمتی کھلاڑی بنا دیا ہے۔ *[ARY](https://arynews.tv/fifa-world-cup-2026-made-erling-haaland-priceless)*
-
-### صحت
-- ریاست لوئیزیانا میں انڈوں کی واپسی کے بعد سالمونیلا کے پھیلاؤ کی اطلاع۔ *[ARY](https://arynews.tv/louisiana-reports-salmonella-outbreak-linked-to-massive-egg-recall-brands-lot-codes-and-symptoms)*
-- نائکول 'سنوکی' پولزی نے کینسر کے علاج کے بعد صحت یابی کی تازہ ترین صورتحال شیئر کی۔ *[ARY](https://arynews.tv/nicole-snooki-polizzi-shares-candid-recovery-update-following-cervical-cancer-hysterectomy)*
+### بین الاقوامی
+- ماسکو میں ایک خاتون بم باز کے حملے میں تین افراد ہلاک اور 21 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020282/woman-bomber-kills-3-near-moscow-restaurant)*
+- اسپین کے سیوٹا میں ہجرت کرنے والے افراد کے ایک بڑے گروہ کے دوران کم از کم 72 افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020149/at-least-72-died-in-spains-ceuta-migrant-rush)*
 
 ### دیگر
-- شہزادی کیٹ اور ولیم کی ایک پیاری ویڈیو کلپ سامنے آئی ہے۔ *[ARY](https://arynews.tv/princess-kate-williams-sweet-video-clip-with-a-message)*
-- ٹام ہالینڈ نے 'ایوینجرز: ڈومز ڈے' میں اپنی ممکنہ واپسی کے حوالے سے اشارہ کیا۔ *[ARY](https://arynews.tv/tom-holland-teases-possible-avengers-doomsday-appearance)*
+- ہمالیہ کے پہاڑی علاقوں میں جنگلی چیتے انسانی بستیوں کے قریب خطرناک حد تک موجود ہیں۔ *[Dawn](https://www.dawn.com/news/2020289/living-with-leopards-in-the-himalayas)*
+- اداکار Jon Bernthal نے اپنے مشہور کردار 'The Punisher' کے پیچھے اپنی فیملی کی قربانیوں کا ذکر کیا۔ *[ARY](https://arynews.tv/jon-bernthal-reveals-family-sacrifice-behind-the-punisher-role)*
+- اداکار رام کپور نے ایک پرانی اور خفیہ بات کا انکشاف کیا۔ *[ARY](https://arynews.tv/lock-upp-2-ram-kapoor-shares-secret-hidden-from-wife)*
 
