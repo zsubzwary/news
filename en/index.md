@@ -4,52 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Aug-2026 09:03PKT
+Published at: 04-Aug-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government has reduced petrol prices by Rs4.08 and high-speed diesel by Rs2.45. *[Dawn](https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245)*
-- Agreements have been executed with 16 pension fund managers to operationalize the Defined Contribution Pension Fund Scheme (DCPFS) for public sector employees. *[Dawn](https://www.dawn.com/news/2020481/govt-executes-agreements-with-pension-fund-managers)*
-- Cotton (phutti) arrivals at ginning factories increased by 32% year-on-year as of July 31. *[Dawn](https://www.dawn.com/news/2020476/cotton-production-jumps-32-per-cent)*
-- Prime Minister Shehbaz Sharif has directed officials to complete the government's privatization programme of state-owned enterprises within agreed timelines. *[Dawn](https://www.dawn.com/news/2020371/pm-privatisation)*
-
-### Science & Technology
-- Scientists are developing strategies to prevent a potentially deadly asteroid from impacting Earth. *[ARY](https://arynews.tv/how-scientists-plan-to-stop-deadly-doomsday-asteroid-from-hitting-earth)*
-- A new method has been developed to convert plastic waste into hydrogen fuel. *[ARY](https://arynews.tv/scientists-develop-method-to-turn-plastic-waste-into-hydrogen-fuel)*
+- The State Bank of Pakistan has capped bank charges on digital sales of petroleum products to reduce the financial burden on fuel stations. *[Dawn](https://www.dawn.com/news/2020560/sbp4ag26)*
+- The National Accountability Bureau (NAB) recovered state assets worth Rs2.45 trillion during the second quarter of 2026. *[Dawn](https://www.dawn.com/news/2020570/nab-recovers-rs245tr-worth-of-state-assets-in-second-quarter-of-2026)*
+- Pakistan and Iran have reaffirmed their commitment to expanding bilateral trade to $10 billion. *[Dawn](https://www.dawn.com/news/2020537/pakistan-iran-reaffirm-resolve-to-expand-bilateral-trade-to-10bn)*
+- The government has slashed petrol prices by Rs4.08 and high-speed diesel by Rs2.45. *[Dawn](https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245)*
+- The government has executed agreements with 16 pension fund managers to operationalize the Defined Contribution Pension Fund Scheme. *[Dawn](https://www.dawn.com/news/2020481/govt-executes-agreements-with-pension-fund-managers)*
+- US markets, including the S&P 500 and Dow, hit record highs driven by AI-linked earnings and Middle East deal hopes. *[ARY](https://arynews.tv/sp-500-dow-hit-record-highs-on-strong-ai-linked-earnings-mideast-deal-hopes)*
+- Current currency rates for USD, SAR, AED, and GBP are available for Pakistan. *[ARY](https://arynews.tv/currency-rates-today-in-pakistan-usd-sar-aed-gbp-aug-4-2026)*
 
 ### Weather
-- The Met Office has issued warnings for urban flooding and inundation in low-lying areas due to expected heavy monsoon rains. *[Dawn](https://www.dawn.com/news/2020465/heavy-rain-warning-raises-flood-risk-in-low-lying-areas)*
-- Heavy rainfall has caused at least three deaths in rain-related incidents across Punjab and led to flooding in parts of Lahore. *[Dawn](https://www.dawn.com/news/2020381/at-least-3-killed-in-rain-related-incidents-across-punjab-parts-of-lahore-inundated)*
+- Heavy monsoon rains have raised the risk of urban flooding and increased river flows in several cities. *[Dawn](https://www.dawn.com/news/2020465/heavy-rain-warning-raises-flood-risk-in-low-lying-areas)*
 
 ### Politics
-- A Senate subcommittee has condemned a "malicious media campaign" targeting its members following the seizure of smuggled cigarettes. *[Dawn](https://www.dawn.com/news/2020464/senate-body-slams-linking-members-to-seizure-of-smuggled-cigarettes)*
-- PPP Chairman Bilawal Bhutto-Zardari has accused the PML-N of rigging in the Azad Kashmir elections and declared a political "countdown" against the party. *[Dawn](https://www.dawn.com/news/2020385/tick-tock-bilawal-says-pml-ns-countdown-has-begun-will-hold-rally-in-ajks-poonch-ahead-of-polls)* *[ARY](https://arynews.tv/bilawal-bhutto-vows-to-reclaim-stolen-seats-in-ajk)*
-- Prime Minister Shehbaz Sharif congratulated the PML-N after unofficial results for the second phase of AJK polls showed the party maintaining a lead. *[Dawn](https://www.dawn.com/news/2020320/pm-shehbaz-congratulates-pml-n-after-party-maintains-lead-in-second-phase-of-ajk-polls)*
-- An anti-terrorism court has handed former senator Mushtaq Ahmad Khan to police on a three-day physical remand regarding a protest case. *[Dawn](https://www.dawn.com/news/2020365/islamabad-atc-hands-mushtaq-ahmad-to-police-on-3-day-physical-remand-in-protest-case)*
+- Voting has concluded in two AJK constituencies amid allegations of rigging by the PPP. *[Dawn](https://www.dawn.com/news/2020547/ajk-elections-voting-concludes-in-two-constituencies-as-ppp-again-alleges-rigging)*
+- The PPP released a video alleging that PML-N workers were involved in fake voting at an AJK polling station. *[ARY](https://arynews.tv/la-27-ppp-catches-pml-n-workers-in-fake-voting)*
 
 ### National
-- A suicide bombing during an anti-terror protest in Swat has resulted in at least 17 fatalities, including policemen and civilians. *[Dawn](https://www.dawn.com/news/2020503/swat-bombing)* *[Dawn](https://www.dawn.com/news/2020350/death-toll-from-suicide-bombing-near-police-station-in-swat-rises-to-17)*
-- Balochistan Chief Minister Mir Sarfraz Bugti stated that the province's security and governance situation is not as bleak as portrayed by external narratives. *[Dawn](https://www.dawn.com/news/2020483/balochistan-not-as-bleak-as-portrayed-says-bugti)*
-- Seven law enforcement personnel were martyred during recent unrest in Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2020373/ajk-information-secretary-says-7-law-enforcement-personnel-martyred-in-recent-unrest)*
-- A religious scholar was killed in an explosion, suspected to be a pressure bomb, at a supermarket in Wana, South Waziristan. *[Dawn](https://www.dawn.com/news/2020348/religious-scholar-killed-in-explosion-at-supermarket-in-south-waziristans-wana)*
+- All foreign media personnel must now obtain an NOC from the Ministry of Information to cover news outside Islamabad, Lahore, and Karachi. *[Dawn](https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi)*
+- The entire staff of Lahore’s Ghaziabad police station was suspended following the alleged rape of a woman by an assistant sub-inspector. *[Dawn](https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended)*
+- The main Chehlum procession in Karachi concluded peacefully under heavy security presence. *[Dawn](https://www.dawn.com/news/2020561/main-chehlum-procession-concludes-peacefully-in-karachi-amid-heavy-security)*
 
 ### International
-- Pakistan has invited Iranian parliament and foreign ministry officials for urgent consultations on regional developments. *[Dawn](https://www.dawn.com/news/2020482/pakistan-to-host-iranian-officials-as-trumps-patience-wears-thin)*
-- Pakistan is not included in the list of 50 countries required to provide financial guarantees for US visitor visas under a new rule. *[Dawn](https://www.dawn.com/news/2020480/pakistan-gets-a-pass-on-new-us-visa-bond-rule)*
-- Myanmar's detained former leader Aung San Suu Kyi met with a representative from the International Committee of the Red Cross. *[Dawn](https://www.dawn.com/news/2020393/myanmars-detained-former-leader-aung-san-suu-kyi-meets-red-cross-official)*
-- Donald Trump stated that Iran is facing its "last chance before decapitation." *[ARY](https://arynews.tv/donald-trump-says-iran-facing-last-chance-before-decapitation)*
-- Donald Trump has demanded lower gas prices from oil companies and criticized the CEO of Chevron. *[ARY](https://arynews.tv/trump-demands-lower-gas-prices-from-oil-companies-chides-chevron-ceo)*
+- Deputy Prime Minister Ishaq Dar traveled to Jordan to attend a ministerial meeting regarding the situation in occupied Jerusalem. *[Dawn](https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo)*
+- Palestinians in Gaza held mass funerals for 112 people recovered from the rubble of destroyed homes. *[Dawn](https://www.dawn.com/news/2020581/palestinians-mourn-112-people-retrieved-from-rubble-in-gaza)*
+- French and British vessels rescued 157 migrants after their boat caught fire during a Channel crossing. *[Dawn](https://www.dawn.com/news/2020568/nearly-160-migrants-rescued-after-boat-catches-fire-during-channel-crossing)*
+- Pakistan is not included in the list of 50 countries required to pay new US visa bond deposits. *[Dawn](https://www.dawn.com/news/2020480/pakistan-gets-a-pass-on-new-us-visa-bond-rule)*
+- Bangladesh has asked India to clarify its stance on exiled former PM Sheikh Hasina's planned speech in New Delhi. *[Dawn](https://www.dawn.com/news/2020541/bangladesh-asks-india-to-clarify-stance-on-ousted-pm-hasinas-planned-speech-in-new-delhi)*
+- Pakistan has invited Iranian parliamentary and foreign officials for urgent consultations on regional developments. *[Dawn](https://www.dawn.com/news/2020482/pakistan-to-host-iranian-officials-as-trumps-patience-wears-thin)*
+- Trump’s Board of Peace assured Israel that a Gaza withdrawal would only occur after the complete disarmament of Hamas. *[Dawn](https://www.dawn.com/news/2020532/trumps-board-of-peace-reassures-israel-after-tel-avivs-objections-on-gaza-pullout)*
+- India's move toward E20 ethanol-blended petrol is facing significant motorist protests. *[Dawn](https://www.dawn.com/news/2020569/why-indias-petrol-shift-has-motorists-fuming)*
+- Ukraine conducted overnight attacks on Russian warehouses, resulting in five deaths. *[ARY](https://arynews.tv/ukraine-strikes-3-more-russian-warehouses-and-kills-5-people-in-overnight-attacks-officials-say)*
+- Qatar reported that progress has been made toward potential US-Iran talks. *[ARY](https://arynews.tv/qatar-says-progress-made-toward-us-iran-talks)*
 
 ### Sports
-- The Pakistan Cricket Board (PCB) has challenged court orders requiring the disclosure of financial and contractual details of national players. *[Dawn](https://www.dawn.com/news/2020478/pcb-moves-ihc-against-orders-to-disclose-players-financial-details)*
-
-### Health
-- At least 144 children have died from vaccine-preventable diseases, specifically measles and diphtheria, in Karachi during the first seven months of the year. *[Dawn](https://www.dawn.com/news/2020448/144-children-lost-to-diphtheria-measles-since-january-in-karachi)*
+- Arsene Wenger criticized FIFA President Gianni Infantino's plan to sell stakes in the World Cup. *[Dawn](https://www.dawn.com/news/2020564/wenger-says-scrapping-infantinos-world-cup-plan-was-absolutely-necessary)*
+- The PCB has appointed South Africa's Michael Smith as the batting coach for the Pakistan men's cricket team. *[Dawn](https://www.dawn.com/news/2020529/pcb-appoints-south-africas-michael-smith-as-batting-coach-for-pakistan-mens-cricket-team)*
+- Leading African football administrators have expressed support for Infantino. *[ARY](https://arynews.tv/infantino-gets-backing-from-leading-african-football-administrators)*
 
 ### Other
-- Chehlum of Imam Hussain (RA) is being observed across Pakistan. *[ARY](https://arynews.tv/chehlum-of-imam-hussain-being-observed-across-pakistan)*
-- There are reports regarding a potential secret marriage between Bradley Cooper and Gigi Hadid. *[ARY](https://arynews.tv/bradley-cooper-and-gigi-hadid-secretly-married-what-we-know)*
-- Taylor Swift and Travis Kelce have reportedly surprised fans with a new family member. *[ARY](https://arynews.tv/taylor-swift-travis-kelce-surprise-fans-with-new-family-member)*
-- Sweet family moments of Nirmal Purja have resurfaced following his tragic death. *[ARY](https://arynews.tv/nirmal-purjas-sweet-family-moments-resurface-after-tragic-death)*
+- Reports indicate a clash between King Charles and Kate Middleton regarding Prince Harry’s plans to return to the UK. *[ARY](https://arynews.tv/kate-middleton-and-king-charles-clash-over-prince-harrys-uk-return-plans)*
+- King Charles has extended an invitation to Prince Harry to visit Buckingham Palace. *[ARY](https://arynews.tv/royal-rift-deepens-as-king-charles-extends-buckingham-palace-invitation-to-prince-harry)*
+- Katy Perry expressed gratitude to Dua Lipa for her performance at the Sunny Hill Festival. *[ARY](https://arynews.tv/katy-perry-gives-a-warm-thank-you-to-dua-lipa-for-a-magical-debut-at-sunny-hill-festival)*
+- Lewis Hamilton stated he plans to "cancel all work" to play GTA 6 upon its release. *[ARY](https://arynews.tv/lewis-hamilton-says-hell-cancel-all-work-to-play-gta-6-when-it-releases)*
 
