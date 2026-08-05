@@ -4,52 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 05-Aug-2026 09:03PKT
+Published at: 05-Aug-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government is planning to unbundle the two gas utilities, SNGPL and SSGCL, into five smaller companies. *[Dawn](https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five)*
-- The government has announced a reduction in petrol prices by Rs3.39 and high-speed diesel by Rs4.07. *[Dawn](https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407)*
-- The All Pakistan Goods Transporters Alliance has threatened a nationwide wheel-jam strike from August 8 over demands for lower taxes and diesel prices. *[Dawn](https://www.dawn.com/news/2020582/transporters-demand-lower-taxes-and-diesel-prices-threaten-wheel-jam-strike-from-aug-8)*
-- Gold prices have extended gains following lower oil prices and a softer dollar. *[ARY](https://arynews.tv/gold-extends-gains-on-lower-oil-and-softer-dollar)*
+- PM Shehbaz Sharif has directed a comprehensive strategy to attract international investors for the privatisation of state-owned power distribution companies (Discos). *[Dawn](https://www.dawn.com/news/2020772/pm-shehbaz-directs-adoption-of-comprehensive-strategy-to-attract-investors-for-discos-privatisation)*
+- The government has reduced petrol prices by Rs3.39 and high-speed diesel by Rs4.07. *[Dawn](https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407)*
+- Plans are being finalised to unbundle Pakistan's two gas utilities into five smaller companies. *[Dawn](https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five)*
+- The Iranian rial has weakened against both the Pakistani Rupee and the US Dollar. *[ARY](https://arynews.tv/iranian-rial-rate-against-pkr-and-usd-august-5-2026)*
 
 ### Science & Technology
-- A new beetle genus has been named after the iconic anime character Luffy. *[ARY](https://arynews.tv/new-beetle-genus-named-after-anime-legend-luffy-honors-iconic-one-piece-character)*
+- A piece of a SpaceX Falcon 9 rocket is believed to have crashed into the moon. *[Dawn](https://www.dawn.com/news/2020771/piece-of-spacex-rocket-believed-to-have-crashed-into-the-moon)*
 
 ### Weather
-- Flash floods caused by cloudbursts and glacial melting have caused significant damage in Gilgit-Baltistan, leading to the closure of the Karakoram Highway. *[Dawn](https://www.dawn.com/news/2020690/karakoram-highway-closed-ghizer-worst-hit-by-more-flash-floods)*
+- A powerful El Nino event could push an additional 49 million people into acute food insecurity by the end of next year. *[Dawn](https://www.dawn.com/news/2020786/strong-el-nino-could-push-49-million-more-people-into-acute-hunger-un-agency-says)*
 
 ### Politics
-- PTI is set to launch nationwide protests to demand the release of party founder Imran Khan. *[Dawn](https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today)*
-- In the delayed AJK constituencies, candidates from PML-N and PPP are poised to secure one seat each. *[Dawn](https://www.dawn.com/news/2020692/pml-n-ppp-headed-for-one-seat-each-in-delayed-ajk-constituencies)*
-- Editorials have raised concerns regarding the need for governance reform and the stability of the current political system in Pakistan. *[Dawn](https://www.dawn.com/news/2020707/rethinking-governance-in-pakistan), [Dawn](https://www.dawn.com/news/2020708/unravelling-order)*
+- An Indian parliamentary panel has called for an apology from Meta following the temporary removal of a video featuring Prime Minister Narendra Modi. *[Dawn](https://www.dawn.com/news/2020793/india-panel-warns-meta-over-modi-video-removal)*
+- The Michigan Democratic primary has become a significant proxy battle regarding the future direction of the national party. *[Dawn](https://www.dawn.com/news/2020781/michigan-primary-puts-democratic-divide-on-the-ballot)*
 
 ### National
-- New guidelines require all foreign media personnel to obtain a No-Objection Certificate (NOC) to cover news outside Islamabad, Lahore, and Karachi. *[Dawn](https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi)*
-- Chief Justice Yahya Afridi has promised the establishment of women facilitation centres in courts nationwide. *[Dawn](https://www.dawn.com/news/2020723/cjp-afridi-promises-women-facilitation-centres-in-courts-nationwide)*
-- The entire staff of a Lahore police station was suspended following an alleged rape incident involving an assistant sub-inspector. *[Dawn](https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended)*
-- The main Chehlum procession in Karachi concluded peacefully under heavy security presence. *[Dawn](https://www.dawn.com/news/2020561/main-chehlum-procession-concludes-peacefully-in-karachi-amid-heavy-security)*
-- Youm-e-Istehsal Kashmir is being observed to highlight Indian atrocities in the region. *[ARY](https://arynews.tv/youm-e-istehsal-kashmir-being-observed-today-5-august-2026)*
-- A police surgeon has questioned the post-mortem report in the Mir Raza Ali case. *[ARY](https://arynews.tv/mir-raza-ali-case-police-surgeon-questions-post-mortem-report)*
-- The National Highway Authority has issued an urgent travel advisory. *[ARY](https://arynews.tv/national-highway-authority-issues-urgent-travel-advisory)*
+- Search teams have reached the Broad Peak base camp with the bodies of renowned climber Nirmal Purja and three other team members. *[Dawn](https://www.dawn.com/news/2020787/search-team-reaches-broad-peak-base-camp-with-body-of-renowned-mountaineer-nirmal-purja)*
+- PTI protests near the Karachi Press Club to demand the release of Imran Khan caused significant traffic disruptions. *[Dawn](https://www.dawn.com/news/2020790/roads-blocked-traffic-disrupted-as-pti-holds-rally-near-karachi-press-club)*
+- PML-N and PPP secured one seat each in Muzaffarabad following delayed AJK elections caused by adverse weather. *[Dawn](https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies)*
+- The National Dialogue Committee has petitioned the IHC to facilitate visitation rights for incarcerated Imran Khan and Bushra Bibi. *[Dawn](https://www.dawn.com/news/2020778/national-dialogue-committee-urges-ihc-to-facilitate-meetings-with-imran-bushra)*
+- Karachi police have registered a terrorism-related case following a scuffle at the MQM-P headquarters. *[Dawn](https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters)*
+- On Youm-i-Istehsal, Pakistan's leadership emphasized that peace in South Asia is linked to the resolution of the Kashmir dispute. *[Dawn](https://www.dawn.com/news/2020739/youm-i-istehsal-pakistan-says-lasting-peace-in-south-asia-linked-to-peaceful-resolution-of-kashmir-dispute)*
+- The Lahore High Court has disposed of a PTI petition regarding a rally at Minar-i-Pakistan after permission was denied. *[Dawn](https://www.dawn.com/news/2020762/lhc-disposes-of-pti-petition-for-rally-at-minar-i-pakistan-after-dc-refuses-permission)*
+- A writ petition was filed in the IHC challenging delays in the presidential approval of judicial appointments. *[Dawn](https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments)*
+- Two young women died under mysterious circumstances while in Lahore police custody. *[Dawn](https://www.dawn.com/news/2020639/two-young-women-suspected-of-petty-theft-die-in-lahore-police-custody)*
+- A Karachi police surgeon has raised objections regarding the post-mortem report in the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-alleged-flaws-in-post-mortem-examination)*
+- Important instructions have been issued for BISP beneficiaries. *[ARY](https://arynews.tv/bisp-beneficiaries-get-important-instructions)*
+- Islamabad is set to receive two new underpasses to improve city infrastructure. *[ARY](https://arynews.tv/islamabad-to-get-two-new-underpasses)*
 
 ### International
-- Nepal is mourning the loss of climbers killed in an avalanche on Broad Peak. *[Dawn](https://www.dawn.com/news/2020684/nepal-mourns-generation-lost-to-broad-peak-avalanche)*
-- Hezbollah's chief and Lebanon's Prime Minister have clashed over proposed direct talks with Israel. *[Dawn](https://www.dawn.com/news/2020685/hezbollah-chief-lebanese-pm-trade-barbs-over-talks-with-israel)*
-- Qatar reports progress in mediation efforts regarding US-Iran talks to end the war. *[Dawn](https://www.dawn.com/news/2020585/qatar-says-progress-made-toward-us-iran-talks-on-ending-war)*
-- Deputy PM Ishaq Dar is traveling to Jordan to attend a ministerial meeting regarding the situation in occupied Jerusalem. *[Dawn](https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo)*
-- Large-scale funerals were held in Gaza for 112 people recovered from the rubble of destroyed homes. *[Dawn](https://www.dawn.com/news/2020581/palestinians-mourn-112-people-retrieved-from-rubble-in-gaza)*
-- Analysis suggests the US lacks a clear exit strategy for its conflict with Iran. *[Dawn](https://www.dawn.com/news/2020703/state-of-confusion)*
+- Foreign Minister Ishaq Dar condemned Israeli incursions into Al-Aqsa Mosque, stating Israel has no sovereignty over East Jerusalem. *[Dawn](https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers)*
+- The United States and Pakistan held their fourth counter-terrorism dialogue in Washington to reaffirm security cooperation. *[Dawn](https://www.dawn.com/news/2020740/pakistan-us-hold-counter-terrorism-dialogue-reaffirm-commitment-to-combating-terrorist-groups)*
+- Donald Trump has warned Iran of severe consequences if negotiations to reopen the Strait of Hormuz fail. *[Dawn](https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard)*
+- Saudi Arabia has expanded its housing framework to allow partial land ownership for specific individuals. *[ARY](https://arynews.tv/saudi-arabia-expands-housing-investments-framework)*
 
 ### Sports
-- The Islamabad High Court has suspended an order requiring the Pakistan Cricket Board (PCB) to disclose player salaries and perks. *[Dawn](https://www.dawn.com/news/2020681/ihc-suspends-order-for-disclosure-of-cricketers-salaries-perks)*
-- Arsene Wenger has criticized FIFA President Gianni Infantino’s plan to sell stakes in the World Cup. *[Dawn](https://www.dawn.com/news/2020564/wenger-says-scrapping-infantinos-world-cup-plan-was-absolutely-necessary)*
+- Pakistan is on the verge of a series-levelling victory against the West Indies in the second Test. *[Dawn](https://www.dawn.com/news/2020743/pakistan-close-on-series-levelling-win-against-west-indies)*
+
+### Health
+- Cyclosporiasis cases in Michigan have climbed to over 12,000. *[ARY](https://arynews.tv/cyclosporiasis-cases-in-michigan-climb-to-over-12000)*
 
 ### Other
-- Tom Holland's earnings for Spider-Man have increased following the success of his new film. *[ARY](https://arynews.tv/tom-hollands-spider-man-payday-soars-after-new-films-success)*
-- Hulu has confirmed the final season renewal for "The Artful Dodger". *[ARY](https://arynews.tv/hulu-official-renewals-the-artful-dodger-confirmed-for-thrilling-final-season)*
-- Meghan Markle has shared details of a childhood connection to Lilibet ahead of a new documentary. *[ARY](https://arynews.tv/meghan-markle-unveils-heartwarming-childhood-connection-to-lilibet-ahead-of-new-documentary-debut)*
-- Actor Pradeep Rawat has passed away after a battle with cancer. *[ARY](https://arynews.tv/pradeep-rawat-ghajini-villain-and-lagaan-actor-passed-away-after-battling-cancer)*
-- Court proceedings in the Lindsay Clancy trial have revealed details of severe mental health struggles. *[ARY](https://arynews.tv/lindsay-clancy-trial-unveils-journal-entries-detailing-severe-mental-disconnect-and-brain-fog)*
+- Jason Sudeikis discussed his decision-making process regarding the conclusion of ‘Ted Lasso’. *[ARY](https://arynews.tv/why-jason-sudeikis-changed-his-mind-about-ending-ted-lasso)*
+- Royal sources describe a broken relationship between Prince William and Prince Harry. *[ARY](https://arynews.tv/prince-william-angrier-than-ever-as-royal-sources-describe-broken-relationship-with-harry)*
+- Lindsay Lohan has recently revived her signature redhead hair. *[ARY](https://arynews.tv/lindsay-lohan-revives-signature-redhead-hair-but-for-how-long)*
+- Carys Zeta Douglas made a red carpet appearance alongside Michael Douglas. *[ARY](https://arynews.tv/carys-zeta-douglas-graced-red-carpet-with-michael-douglas)*
 
