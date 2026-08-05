@@ -7,49 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 04-Aug-2026 21:09PKT 
+ &lrm; 05-Aug-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- اسٹیٹ بینک آف پاکستان نے پیٹرولیم مصنوعات کی ڈیجیٹل ادائیگیوں پر بینک چارجز کی حد مقرر کر دی ہے تاکہ پیٹرول پمپس پر مالی بوجھ کم کیا جا سکے۔ *[Dawn](https://www.dawn.com/news/2020560/sbp4ag26)*
-- نیشنل اکاؤنٹبلٹی بیورو (NAB) نے 2026 کی دوسری سہ ماہی کے دوران 2.45 ٹریلین روپے کے سرکاری اثاثہ جات کی ریکوری کا دعویٰ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020570/nab-recovers-rs245tr-worth-of-state-assets-in-second-quarter-of-2026)*
-- پاکستان اور ایران نے دوطرفہ تجارت کو 10 ارب ڈالر تک بڑھانے کے عزم کا اعادہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020537/pakistan-iran-reaffirm-resolve-to-expand-bilateral-trade-to-10bn)*
-- حکومت نے پیٹرول کی قیمت میں 4.08 روپے اور ہائی اسپیڈ ڈیزل کی قیمت میں 2.45 روپے کی کمی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2020389/govt-slashes-petrol-price-by-rs408-high-speed-diesel-by-rs245)*
-- بھارت میں ایتھنول سے مخلوط پیٹرول کے استعمال پر بڑھتے ہوئے رجحان کے خلاف احتجاجی مارچ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020569/why-indias-petrol-shift-has-motorists-fuming)*
-- حکومت نے سرکاری ملازمین کے لیے پنشن فنڈ مینجرز کے ساتھ معاہدوں پر عملدرآمد مکمل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2020481/govt-executes-agreements-with-pension-fund-managers)*
-- پاکستان امریکی ویزا کے نئے 'بونڈ پروگرام' سے مستثنیٰ ہے، جہاں کچھ دیگر ممالک کے شہریوں کو 20,000 ڈالر تک جمع کروانے ہوں گے۔ *[Dawn](https://www.dawn.com/news/2020480/pakistan-gets-a-pass-on-new-us-visa-bond-rule)*
-- مضبوط AI سے منسلک آمدنی اور مشرق وسطیٰ میں معاہدے کی امیدوں کے باعث S&P 500 اور Dow ریکارڈ حد تک پہنچ گئے۔ *[ARY](https://arynews.tv/sp-500-dow-hit-record-highs-on-strong-ai-linked-earnings-mideast-deal-hopes)*
-- پاکستان میں آج کے دن کے کرنسی ریٹس (USD, SAR, AED, GBP) جاری کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/currency-rates-today-in-pakistan-usd-sar-aed-gbp-aug-4-2026)*
+- حکومت گیس کی دو بڑی یوٹیلیٹیز کو پانچ چھوٹی کمپنیوں میں تقسیم کرنے کا منصوبہ تیار کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five)*
+- حکومت نے پیٹرول کی قیمت میں 3.39 روپے اور ہائی اسپیڈ ڈیزل میں 4.07 روپے کی کمی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407)*
+- آل پاکستان گڈز ٹرانسپورٹرز الائنس نے ٹیکسوں اور ڈیزل کی قیمتوں میں کمی کا مطالبہ کرتے ہوئے 8 اگست سے ملک گیر ہڑتال کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020582/transporters-demand-lower-taxes-and-diesel-prices-threaten-wheel-jam-strike-from-aug-8)*
+- تیل کی قیمتوں میں کمی اور ڈالر کی قدر کم ہونے کے باعث سونے کی قیمتوں میں اضافہ دیکھا گیا۔ *[ARY](https://arynews.tv/gold-extends-gains-on-lower-oil-and-softer-dollar)*
+
+### سائنس اور ٹیکنالوجی
+- ایک نئے کیڑے (بیٹل) کے قبیلے کا نام مشہور اینیمے کردار 'لوفی' کے نام پر رکھا گیا ہے۔ *[ARY](https://arynews.tv/new-beetle-genus-named-after-anime-legend-luffy-honors-iconic-one-piece-character)*
 
 ### موسم
-- شدید مون سون بارشوں کے پیش نظر محکمہ موسمیات نے اربانی سیلاب اور نشیبی علاقوں میں پانی بھر جانے کا وارننگ جاری کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2020465/heavy-rain-warning-raises-flood-risk-in-low-lying-areas)*
+- گلگت بلتستان میں اچانک آنے والے سیلاب اور گلیشیئرز کے پگھلنے سے شدید تباہی ہوئی ہے، جس کے نتیجے میں شاہراہِ قراقرم بھی بند ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2020690/karakoram-highway-closed-ghizer-worst-hit-by-more-flash-floods)*
 
 ### سیاست
-- آزاد جموں و کشمیر کے انتخابات کے دوسرے مرحلے میں پولنگ کے دوران پی پی پی نے دھاندلی کے الزامات عائد کیے ہیں۔ *[Dawn](https://www.dawn.com/news/2020547/ajk-elections-voting-concludes-in-two-constituencies-as-ppp-again-alleges-rigging)* / *[ARY](https://arynews.tv/la-27-ppp-catches-pml-n-workers-in-fake-voting)*
-- نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار مقبوضہ یروشلم کی صورتحال پر مشترکہ موقف بنانے کے لیے اردن کے دورے پر روانہ ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo)*
-- تمام غیر ملکی میڈیا پرسنل کے لیے اسلام آباد، لاہور اور کراچی کے علاوہ دیگر شہروں میں نیوز کوریج کے لیے این او سی (NOC) لازمی قرار دے دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi)*
-- پاکستان نے علاقائی ترقی کے لیے ایران کے پارلیمنٹ اسپیکر اور وزیر خارجہ کو مشاورت کے لیے مدعو کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020482/pakistan-to-host-iranian-officials-as-trumps-patience-wears-thin)*
-- بنگلہ دیش نے بھارت سے سابق وزیراعظم شیخ حسینہ کے ممکنہ خطاب کے حوالے سے موقف واضح کرنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020541/bangladesh-asks-india-to-clarify-stance-on-ousted-pm-hasinas-planned-speech-in-new-delhi)*
+- پی ٹی آئی کی جانب سے عمران خان کی رہائی کے مطالبے کے لیے ملک بھر میں احتجاجی مظاہرے کیے جا رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2020688/pti-all-set-to-take-to-streets-for-imrans-release-today)*
+- آزاد جموں و کشمیر کے دو حلقوں میں مسلم لیگ ن اور پیپلز پارٹی کے درمیان مقابلہ سخت ہے، جہاں سیٹیں حاصل کرنے کے لیے مقابلہ جاری ہے۔ *[Dawn](https://www.dawn.com/news/2020692/pml-n-ppp-headed-for-one-seat-each-in-delayed-ajk-constituencies)*
+- نئے رہنما اصولوں کے مطابق اب تمام غیر ملکی میڈیا اہلکاروں کو اسلام آباد، لاہور اور کراچی کے علاوہ دیگر شہروں میں رپورٹنگ کے لیے این او سی حاصل کرنا ہوگا۔ *[Dawn](https://www.dawn.com/news/2020579/all-foreign-media-personnel-to-require-noc-from-info-ministry-for-news-coverage-outside-islamabad-lahore-and-karachi)*
 
 ### قومی
-- لاہور کے غازی آباد تھانے میں ایک پولیس اہلکار پر خاتون کے ساتھ زیادتی کا الزام، پولیس اسٹاف معطل۔ *[Dawn](https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended)*
-- کراچی میں چہلم کا مرکزی جلوس بھاری سیکورٹی کے درمیان پرامن طریقے سے مکمل ہوا۔ *[Dawn](https://www.dawn.com/news/2020561/main-chehlum-procession-concludes-peacefully-in-karachi-amid-heavy-security)*
+- چیف جسٹس یحییٰ آفریدی نے ملک بھر کی عدالتوں میں خواتین کے لیے خصوصی سہولت مراکز قائم کرنے کا وعدہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020723/cjp-afridi-promises-women-facilitation-centres-in-courts-nationwide)*
+- لاہور کے ایک پولیس اسٹیشن میں خاتون کے ساتھ زیادتی کے الزام پر پورے عملے کو معطل کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020559/cop-allegedly-rapes-woman-inside-lahore-police-station-entire-staff-suspended)*
+- کراچی میں چہلم کا اہم جلوس سیکیورٹی کے سخت انتظامات کے باعث پرامن طور پر مکمل ہوا۔ *[Dawn](https://www.dawn.com/news/2020561/main-chehlum-procession-concludes-peacefully-in-karachi-amid-heavy-security)*
+- یومِ استحصال کشمیر کے موقع پر بھارتی مظالم کو اجاگر کرنے کے لیے مختلف مقامات پر پروگرام منعقد کیے جا رہے ہیں۔ *[ARY](https://arynews.tv/youm-e-istehsal-kashmir-being-observed-today-5-august-2026)*
+- نیشنل ہائی وے اتھارٹی نے شہریوں کے لیے ہنگامی سفری ایڈوائزری جاری کر دی ہے۔ *[ARY](https://arynews.tv/national-highway-authority-issues-urgent-travel-advisory)*
 
 ### بین الاقوامی
-- غزہ میں اسرائیلی جنگ کے نتیجے میں ملبے سے نکالے گئے 112 افراد کے لیے فلسطینیوں نے بڑے پیمانے پر جنازے ادا کیے۔ *[Dawn](https://www.dawn.com/news/2020581/palestinians-mourn-112-people-retrieved-from-rubble-in-gaza)*
-- انگلینڈ چینل پار کرنے کے دوران ایک کشتی میں آگ لگنے کے بعد فرانسیسی اور برطانوی بحری افواج نے 157 تارکین وطن کو بچا لیا۔ *[Dawn](https://www.dawn.com/news/2020568/nearly-160-migrants-rescued-after-boat-catches-fire-during-channel-crossing)*
-- امریکی صدر ٹرمپ کے 'بورڈ آف پیس' نے اسرائیل کو غزہ سے انخلاء کے حوالے سے یقین دہانی کرائی ہے۔ *[Dawn](https://www.dawn.com/news/2020532/trumps-board-of-peace-reassures-israel-after-tel-avivs-objections-on-gaza-pullout)*
-- یوکرین نے رات گئے روس کے تین گوداموں پر حملے کیے جس کے نتیجے میں 5 افراد ہلاک ہو گئے۔ *[ARY](https://arynews.tv/ukraine-strikes-3-more-russian-warehouses-and-kills-5-people-in-overnight-attacks-officials-say)*
-- قطر نے امریکہ اور ایران کے درمیان مذاکرات کے حوالے سے پیشرفت کی اطلاع دی۔ *[ARY](https://arynews.tv/qatar-says-progress-made-toward-us-iran-talks)*
+- لبنان اور اسرائیل کے درمیان مذاکرات کے حوالے سے حزب اللہ کے سربراہ اور لبنانی وزیراعظم کے درمیان تلخ کلامی ہوئی ہے۔ *[Dawn](https://www.dawn.com/news/2020685/hezbollah-chief-lebanese-pm-trade-barbs-over-talks-with-israel)*
+- قطر کے مطابق امریکہ اور ایران کے درمیان جنگ ختم کرنے کے لیے مذاکرات میں پیش رفت ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2020585/qatar-says-progress-made-toward-us-iran-talks-on-ending-war)*
+- نائب وزیراعظم اسحاق ڈار مقبوضہ یروشلم کی صورتحال پر متحد موقف اپنانے کے لیے اردن کے دورے پر روانہ ہو گئے۔ *[Dawn](https://www.dawn.com/news/2020574/dar-departs-for-ministerial-meeting-in-jordan-on-deteriorating-situation-in-occupied-jerusalem-fo)*
+- غزہ میں اسرائیلی حملوں کے نتیجے میں تباہی کے بعد 112 افراد کے جنازے نکالے گئے جن پر فلسطینیوں نے سوگ منایا۔ *[Dawn](https://www.dawn.com/news/2020581/palestinians-mourn-112-people-retrieved-from-rubble-in-gaza)*
+- نیپال میں براڈ پیک پر برفانی تودے گرنے سے ہلاک ہونے والے تیراکارہؤں کے لیے سوگ منایا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2020684/nepal-mourns-generation-lost-to-broad-peak-avalanche)*
 
 ### کھیل
-- ارسین وینجر نے فیفا کے ورلڈ کپ کے حوالے سے انفینٹینو کے متنازع منصوبے کو ختم کرنے کو ضروری قرار دیا۔ *[Dawn](https://www.dawn.com/news/2020564/wenger-says-scrapping-infantinos-world-cup-plan-was-absolutely-necessary)*
-- پی سی بی نے جنوبی افریقہ کے مائیکل اسمتھ کو پاکستان کرکٹ ٹیم کا بیٹنگ کوچ مقرر کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2020529/pcb-appoints-south-africas-michael-smith-as-batting-coach-for-pakistan-mens-cricket-team)*
-- فیفا کے صدر انفینٹینو کو افریقی فٹ بال انتظامیہ کی حمایت حاصل ہو گئی ہے۔ *[ARY](https://arynews.tv/infantino-gets-backing-from-leading-african-football-administrators)*
+- اسلام آباد ہائی کورٹ نے کرکٹرز کی تنخواہوں اور مراعات کے انکشاف کے حوالے سے پاکستان کرکٹ بورڈ کے خلاف جاری حکم پر معطلی کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2020681/ihc-suspends-order-for-disclosure-of-cricketers-salaries-perks)*
+- ارسین ویلگر نے فیفا کے ورلڈ کپ کے حوالے سے ایک متنازع منصوبے کو ختم کرنے کے فیصلے کو انتہائی ضروری قرار دیا۔ *[Dawn](https://www.dawn.com/news/2020564/wenger-says-scrapping-infantinos-world-cup-plan-was-absolutely-necessary)*
 
 ### دیگر
-- برطانوی شاہی خاندان میں تنازعات جاری ہیں، کیٹ مڈلٹن اور شاہ چارلس کے درمیان شہزادہ ہیری کی واپسی پر اختلاف پایا جاتا ہے۔ *[ARY](https://arynews.tv/kate-middleton-and-king-charles-clash-over-prince-harrys-uk-return-plans)*
-- گلوکارہ کیٹی پیری نے سنی ہل فیسٹیول میں دوہ لیپا کی کارکردگی کی تعریف کی۔ *[ARY](https://arynews.tv/katy-perry-gives-a-warm-thank-you-to-dua-lipa-for-a-magical-debut-at-sunny-hill-festival)*
-- مشہور ریسنگ ڈرائیور لوئس ہیمیلٹن نے کہا کہ وہ GTA 6 کی ریلیز پر تمام کام معطل کر دیں گے۔ *[ARY](https://arynews.tv/lewis-hamilton-says-hell-cancel-all-work-to-play-gta-6-when-it-releases)*
+- ٹام ہالینڈ کی نئی فلم کی کامیابی کے بعد ان کی آمدنی میں خاطر خواہ اضافہ ہوا ہے۔ *[ARY](https://arynews.tv/tom-hollands-spider-man-payday-soars-after-new-films-success)*
+- بھارتی اداکار پردیش راوت کا کینسر کے بعد انتقال ہو گیا۔ *[ARY](https://arynews.tv/pradeep-rawat-ghajini-villain-and-lagaan-actor-passed-away-after-battling-cancer)*
+- میگن مارکل کی نئی دستاویزی فلم جلد ریلیز ہونے کے لیے تیار ہے۔ *[ARY](https://arynews.tv/meghan-markle-unveils-heartwarming-childhood-connection-to-lilibet-ahead-of-new-documentary-debut)*
 
