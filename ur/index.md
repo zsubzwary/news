@@ -7,54 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 05-Aug-2026 21:10PKT 
+ &lrm; 06-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- وزیراعظم شہباز شریف نے بجلی کی تقسیم کرنے والی کمپنیوں (Discos) کی نجکاری کے لیے بین الاقوامی سرمایہ کاروں کو راغب کرنے کی ایک جامع حکمت عملی اپنانے کی ہدایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2020772/pm-shehbaz-directs-adoption-of-comprehensive-strategy-to-attract-investors-for-discos-privatisation)*
-- حکومت نے پٹرول کی قیمت میں 3.39 روپے اور ہائی اسپیڈ ڈیزل کی قیمت میں 4.07 روپے کی کمی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2020589/govt-reduces-petrol-price-by-rs339-high-speed-diesel-by-rs407)*
-- گیس کے شعبے میں اصلاحات کے تحت ملک کی دو بڑی گیس کمپنیوں کو پانچ چھوٹی کمپنیوں میں تقسیم کرنے کا منصوبہ تیار کیا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2020700/two-gas-utilities-to-become-five)*
-- ایرانی ریال کی قدر امریکی ڈالر اور پاکستانی روپے کے مقابلے میں مزید کمزور ہو گئی ہے۔ *[ARY](https://arynews.tv/iranian-rial-rate-against-pkr-and-usd-august-5-2026)*
+- امریکی کمپنیاں پاکستان میں اہم معدنیات کے ذخائر حاصل کرنے کے لیے دلچسپی لے رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2020895/us-firms-look-to-pakistan-for-critical-mineral-supplies)*
+- نیپرا کی جانب سے شمسی توانائی کے صارفین کے لیے اہم پیشکش۔ *[ARY](https://arynews.tv/solar-panel-buyers-get-good-news-from-nepra)*
+- پاکستان میں ڈالر اور سعودی ریال سمیت دیگر کرنسیوں کے تازہ ترین نرخ۔ *[ARY](https://arynews.tv/dollar-saudi-riyal-aed-currency-rates-in-pakistan-august-5-2026)*
 
 ### سائنس اور ٹیکنالوجی
-- اسپیس ایکس (SpaceX) کے راکٹ کا ایک ٹکڑا غالباً چاند سے ٹکرا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2020771/piece-of-spacex-rocket-believed-to-have-crashed-into-the-moon)*
-
-### موسم
-- ورلڈ فوڈ پروگرام کے مطابق 'ایل نینو' (El Nino) کا شدید اثر سال کے آخر تک کروڑوں لوگوں کو شدید غذائی قلت کا شکار کر سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2020786/strong-el-nino-could-push-49-million-more-people-into-acute-hunger-un-agency-says)*
+- مصنوعی ذہانت (AI) کے انسانیت کے لیے ممکنہ خطرات کے بارے میں گوگل ڈیپ مائنڈ کے ایگزیکٹو نے انتباہ جاری کر دیا۔ *[ARY](https://arynews.tv/ai-cause-human-extinction-google-deepmind-alarm)*
+- ٹرمپ کے ٹیکنالوجی سے تعلقات پر اے آئی ایجنٹس کے غیر متوقع عمل کے بعد سوالات اٹھ رہے ہیں۔ *[ARY](https://arynews.tv/trumps-tech-ties-come-under-fire-after-ai-agents-go-rogue)*
 
 ### سیاست
-- کراچی میں تحریک انصاف (PTI) کے احتجاج کے باعث ٹریفک کی آمد و رفت میں شدید خلل پڑا۔ *[Dawn](https://www.dawn.com/news/2020790/roads-blocked-traffic-disrupted-as-pti-holds-rally-near-karachi-press-club)*
-- آزاد جموں و کشمیر کے انتخاب میں صوبائی حلقوں میں پی ایم ایل این اور پی پی پی نے ایک ایک نشست حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2020768/ajk-elections-pml-n-ppp-secure-one-seat-each-following-delayed-polls-in-muzaffarabad-constituencies)*
-- نیشنل ڈائیلاگ کمیٹی نے اسلام آباد ہائی کورٹ سے عمران خان اور بشریٰ بی بی سے ملاقات کی سہولت فراہم کرنے کی درخواست کی ہے۔ *[Dawn](https://www.dawn.com/news/2020778/national-dialogue-committee-urges-ihc-to-facilitate-meetings-with-imran-bushra)*
-- میٹا (Meta) کو بھارتی پارلیمانی پینل نے وزیر اعظم مودی کی ویڈیو عارضی طور پر ہٹانے پر معافی مانگنے کا کہا ہے۔ *[Dawn](https://www.dawn.com/news/2020793/india-panel-warns-meta-over-modi-video-removal)*
-- امریکی ریاست مشی گن کی پرائمری میں ڈیموکریٹک پارٹی کے اندرونی اختلافات سامنے آئے۔ *[Dawn](https://www.dawn.com/news/2020781/michigan-primary-puts-democratic-divide-on-the-ballot)*
-- ڈونلڈ ٹرمپ نے ایران کو خبردار کیا ہے کہ اگر اسٹریٹ آف ہرمز کے ذریعے تیل کی نقل و حمل پر سمجھوتہ نہ ہوا تو سخت نتائج بھگتنا ہوں گے۔ *[Dawn](https://www.dawn.com/news/2020745/trump-warns-iran-to-open-strait-of-hormuz-or-get-hit-very-hard)*
-- لاہور ہائی کورٹ نے تحریک انصاف کی مینارِ پاکستان پر ریلی کرنے کی درخواست خارج کر دی۔ *[Dawn](https://www.dawn.com/news/2020762/lhc-disposes-of-pti-petition-for-rally-at-minar-i-pakistan-after-dc-refuses-permission)*
-- اسلام آباد ہائی کورٹ میں صدر کے عدالتی تقرریاں روکنے کے حوالے سے درخواست دائر کی گئی۔ *[Dawn](https://www.dawn.com/news/2020761/ihc-moved-over-delay-in-presidential-nod-for-judicial-appointments)*
+- وزیراعظم شہباز شریف کا سعودی عرب کا تین روزہ دورہ، جس میں اہم وفد بھی شریک ہوگا۔ *[Dawn](https://www.dawn.com/news/2020987/pm-shehbaz-departs-for-saudi-arabia-on-3-day-visit)*
+- وزیر داخلہ محسن نقوی کا دعویٰ ہے کہ موجودہ حکومت اپنا پورا پانچ سالہ دورانیہ مکمل کرے گی۔ *[Dawn](https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi)*
+- اسلام آباد ہائی کورٹ نے عمران خان اور بشریٰ بی بی کی تنہائی میں قید کے خلاف درخواستوں پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021028/ihc-reserves-order-on-pleas-against-imran-bushras-alleged-solitary-confinement)*
+- عدالت نے ججز کی تقرری میں صدر کی جانب سے تاخیر کے خلاف درخواست پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2020986/ihc-reserves-ruling-on-maintainability-of-plea-challenging-presidential-delay-in-judicial-appointments)*
+- صحافی اسد طور کو ہراساں کرنے کے خلاف اسلام آباد ہائی کورٹ نے این سی سی آئی اے (NCCIA) کو حکم جاری کر دیا۔ *[Dawn](https://www.dawn.com/news/2020990/ihc-restrains-nccia-from-harassing-journalist-asad-toor-during-inquiry)*
+- غیر ملکی صحافیوں کے لیے نئے قواعد کے حوالے سے انسانی حقوق کمیشن اور صحافیوں کی تنظیموں کا تحفظ۔ *[Dawn](https://www.dawn.com/news/2020991/growing-pattern-of-media-curbs-hrcp-pfuj-express-concern-over-new-rules-for-foreign-press)*
 
-### ملکی
-- پاکستان نے یومِ استحصال کے موقع پر کہا کہ خطے میں دیرپا امن کا تعلق مسئلہ کشمیر کے پرامن حل سے ہے۔ *[Dawn](https://www.dawn.com/news/2020739/youm-i-istehsal-pakistan-says-lasting-peace-in-south-asia-linked-to-peaceful-resolution-of-kashmir-dispute)*
-- کراچی میں ایم کیو ایم پاکستان کے ہیڈ کوارٹر پر جھڑپ کے بعد پولیس نے دہشت گردی کے قانون کے تحت مقدمہ درج کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2020759/karachi-police-register-case-under-terrorism-law-following-scuffle-at-mqm-ps-karachi-headquarters)*
-- لاہور میں پولیس کی حراست میں دو نوجوان خواتین کی پراسرار circumstances میں موت واقع ہو گئی۔ *[Dawn](https://www.dawn.com/news/2020639/two-young-women-suspected-of-petty-theft-die-in-lahore-police-custody)*
-- بی آئی ایس پی (BISP) کے مستحقین کے لیے اہم ہدایات جاری کی گئی ہیں۔ *[ARY](https://arynews.tv/bisp-beneficiaries-get-important-instructions)*
-- اسلام آباد میں دو نئے انڈر پاس بنائے جائیں گے۔ *[ARY](https://arynews.tv/islamabad-to-get-two-new-underpasses)*
+### قومی
+- بلوچستان کے مستونگ اور واشک میں سکیورٹی فورسز کے آپریشن میں 12 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2021030/security-forces-kill-12-terrorists-in-balochistans-mastung-washuk-ibos-ispr)*
+- پی ایم ڈی سی (PMDC) نے ایم ڈی کیٹ (MDCAT) کے امتحان کی تاریخ تبدیل کر کے 20 ستمبر کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2020995/pmdc-reschedules-mdcat-exam-to-now-be-held-on-sept-20)*
+- کراچی کی عدالت نے میر رضا علی کی لاش کی دوبارہ کھدائی کی اجازت دے دی۔ *[Dawn](https://www.dawn.com/news/2021005/karachi-court-allows-exhumation-of-mir-raza-alis-body-amid-controversy-over-autopsy)*
+- پنجاب حکومت کی جانب سے طلبہ کے لیے ایک لاکھ روپے کے نقد انعام کا اعلان۔ *[ARY](https://arynews.tv/punjab-announces-rs-100000-cash-reward-for-students)*
+- عمران خان کے بیٹوں نے ان کی صحت کے حوالے سے تشویش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021007/imrans-sons-express-concerns-about-fathers-health-in-fresh-interview-with-cnn)*
 
 ### بین الاقوامی
-- نائب وزیراعظم اسحاق ڈار نے مشرقی یروشلم اور مقبوضہ فلسطینی علاقوں میں اسرائیلی اقدامات کی مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2020765/no-sovereignty-over-east-jerusalem-dar-condemns-al-aqsa-incursions-by-extremist-israeli-settlers)*
-- پاکستان اور امریکہ کے درمیان دہشت گردی کے خلاف مشترکہ مکالمہ ہوا جس میں تعاون پر زور دیا گیا۔ *[Dawn](https://www.dawn.com/news/2020740/pakistan-us-hold-counter-terrorism-dialogue-reaffirm-commitment-to-combating-terrorist-groups)*
-- سعودی عرب نے مخصوص افراد کے لیے زمین کی جزوی ملکیت کی اجازت دے دی ہے۔ *[ARY](https://arynews.tv/saudi-arabia-expands-housing-investments-framework)*
+- شمالی کوریا نے سمندر پر بیلسٹک میزائل داغ دیا، جس کے بعد علاقائی کشیدگی بڑھنے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2021016/north-korea-fires-ballistic-missile-south-korea-military-says)*
+- بھارت کے آزاد جموں و کشمیر کے انتخابات پر تبصرے پر پاکستان کے دفتر خارجہ کا سخت ردعمل۔ *[Dawn](https://www.dawn.com/news/2020999/fo-slams-indias-remarks-on-ajk-polls-says-it-has-no-standing-or-moral-authority-to-comment-on-process)*
+- صومالیہ کے دفاعی وفد کی پاکستان آمد اور دونوں ممالک کے درمیان دفاعی تعاون پر بات چیت۔ *[Dawn](https://www.dawn.com/news/2021029/cdf-munir-discusses-enhancement-of-defence-security-cooperation-with-somalia-ispr)*
+- براڈ پیک پر برفانی تودے کے گرنے سے پانچ بین الاقوامی کوہ پیماؤں کی ہلاکت۔ *[Dawn](https://www.dawn.com/news/2021002/bodies-of-nirmal-purja-4-other-climbers-airlifted-to-skardu-after-broad-peak-avalanche)*
+- بنگلہ دیش میں سابق کرکٹ کپتان شکیب الحسن کے گھر پر حملہ، جس سے آگ لگ گئی۔ *[Dawn](https://www.dawn.com/news/2020971/ex-bangladesh-cricket-captain-shakibs-home-attacked-after-joining-hasinas-first-public-media-event-since-ouster)*
+- بھارتی وزیراعظم نریندر مودی کا نوجوان ووٹرز کو متوجہ کرنے کے لیے انسٹاگرام کا استعمال۔ *[Dawn](https://www.dawn.com/news/2021024/indias-modi-turns-to-instagram-to-woo-young-voters-after-gen-z-protest)*
+- امریکہ میں ترقی پسند امیدواروں کی کامیابیوں میں نئے میڈیا کے کردار کا جائزہ۔ *[Dawn](https://www.dawn.com/news/2021021/how-the-new-generation-of-left-wing-us-media-is-powering-progressive-candidates)*
 
 ### کھیل
-- پاکستان ویسٹ انڈیز کے خلاف دوسرے ٹیسٹ میں سیریز برابر کرنے کے قریب ہے۔ *[Dawn](https://www.dawn.com/news/2020743/pakistan-close-on-series-levelling-win-against-west-indies)*
+- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز کے لیے ڈین لارنس کو ٹیم میں دوبارہ شامل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan)*
 
 ### صحت
-- امریکی ریاست مشی گن میں سائیکلو سپورائسز (Cyclosporiasis) کے کیسز کی تعداد 12,000 سے تجاوز کر گئی۔ *[ARY](https://arynews.tv/cyclosporiasis-cases-in-michigan-climb-to-over-12000)*
+- لیٹیس (Lettuce) سے منسلک سائکلو اسپورائسس (Cyclosporiasis) کی تحقیقات کے دائرے میں اضافے کا خدشہ۔ *[ARY](https://arynews.tv/cyclosporiasis-probe-linked-to-lettuce-widens-to-these-us-states)*
 
 ### دیگر
-- مشہور کوہ پیما نرمل پورجا کی لاش براڈ پیک کے بیس کیمپ تک پہنچا دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2020787/search-team-reaches-broad-peak-base-camp-with-body-of-renowned-mountaineer-nirmal-purja)*
-- اداکار جیسن سوڈیکیس نے 'ٹیڈ لیسو' سیریز کے اختتام کے حوالے سے اپنا فیصلہ بدلا ہے۔ *[ARY](https://arynews.tv/why-jason-sudeikis-changed-his-mind-about-ending-ted-lasso)*
-- شاہی ذرائع کے مطابق شہزادہ ولیم اور شہزادہ ہیری کے درمیان تعلقات میں دراڑ آئی ہے۔ *[ARY](https://arynews.tv/prince-william-angrier-than-ever-as-royal-sources-describe-broken-relationship-with-harry)*
-- اداکارہ لنڈسے لوہن نے اپنے مخصوص سرخ بالوں کے اسٹائل کو دوبارہ اپنایا ہے۔ *[ARY](https://arynews.tv/lindsay-lohan-revives-signature-redhead-hair-but-for-how-long)*
-- کیریس زیٹا ڈگلس اپنے والد مائیکل ڈگلس کے ہمراہ ریڈ کارپٹ پر نظر آئیں۔ *[ARY](https://arynews.tv/carys-zeta-douglas-graced-red-carpet-with-michael-douglas)*
+- جرمنی میں ملازمت کے وسیع مواقع اور درخواست دینے کا طریقہ کار۔ *[ARY](https://arynews.tv/germany-opens-wide-range-of-job-opportunities-foreign-workers)*
+- کیلی شے اور پیرس بروسنان کی پرانی تصویر سوشل میڈیا پر وائرل۔ *[ARY](https://arynews.tv/keely-shaye-gives-bond-girl-vibes-in-throwback-snap-with-pierce-brosnan)*
 
