@@ -7,50 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 06-Aug-2026 21:09PKT 
+ &lrm; 07-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- امریکی کمپنیاں پاکستان میں اہم معدنیات کے ذخائر حاصل کرنے کے لیے دلچسپی لے رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2020895/us-firms-look-to-pakistan-for-critical-mineral-supplies)*
-- نیپرا کی جانب سے شمسی توانائی کے صارفین کے لیے اہم پیشکش۔ *[ARY](https://arynews.tv/solar-panel-buyers-get-good-news-from-nepra)*
-- پاکستان میں ڈالر اور سعودی ریال سمیت دیگر کرنسیوں کے تازہ ترین نرخ۔ *[ARY](https://arynews.tv/dollar-saudi-riyal-aed-currency-rates-in-pakistan-august-5-2026)*
-
-### سائنس اور ٹیکنالوجی
-- مصنوعی ذہانت (AI) کے انسانیت کے لیے ممکنہ خطرات کے بارے میں گوگل ڈیپ مائنڈ کے ایگزیکٹو نے انتباہ جاری کر دیا۔ *[ARY](https://arynews.tv/ai-cause-human-extinction-google-deepmind-alarm)*
-- ٹرمپ کے ٹیکنالوجی سے تعلقات پر اے آئی ایجنٹس کے غیر متوقع عمل کے بعد سوالات اٹھ رہے ہیں۔ *[ARY](https://arynews.tv/trumps-tech-ties-come-under-fire-after-ai-agents-go-rogue)*
+- اگست کے بجلی کے بلوں میں فی یونٹ 75 پیسے کا اضافی چارج (FCA) وصول کیا جائے گا۔ *[Dawn](https://www.dawn.com/news/2021273/power-consumers-to-pay-75-paisa-per-unit-fca-in-august-bills)*
+- فیصل آباد الیکٹرک سپلائی کمپنی (Fesco) کی نجکاری کے لیے ترک، چینی اور مقامی سرمایہ کاروں نے دلچسپی ظاہر کی ہے۔ *[Dawn](https://www.dawn.com/news/2021271/domestic-foreign-investors-show-interest-in-fesco-privatisation-privatisation-commission)*
+- پاکستان کے معدنی وسائل میں امریکی دلچسپی بڑھ رہی ہے، جس کے نتیجے میں ریکوڈک منصوبے کے لیے 1.3 بلین ڈالر کی فنانسنگ منظور ہو چکی ہے۔ *[Dawn](https://www.dawn.com/news/2021154/mineral-wealth)*
+- حکومت نے پٹرول کی قیمت میں 3.19 روپے اور ہائی اسپیڈ ڈیزل میں 1.50 روپے کی کمی کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021048/govt-reduces-petrol-price-by-rs319-high-speed-diesel-by-rs150)*
+- سونے کی قیمتیں سات ہفتوں کی بلند ترین سطح پر پہنچ گئیں۔ *[ARY](https://arynews.tv/gold-hits-seven-week-high)*
+- کینیڈین ڈالر امریکی ڈالر کے مقابلے میں آٹھ ہفتوں کی بلند ترین سطح پر پہنچ گیا۔ *[ARY](https://arynews.tv/cad-to-usd-canadian-dollar-hits-eight-week-high)*
+- پیٹرول ڈیلرز نے مذاکرات کی میعاد ختم ہونے پر ملک گیر ہڑتال کا انتباہ کیا ہے۔ *[ARY](https://arynews.tv/petrol-dealers-warn-of-nationwide-strike-as-talks-deadline-expires)*
+- پی آئی اے نے اپنے ملازمین کے لیے بونس کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/pia-approves-bonus-for-employees)*
+- ملک بھر میں بجلی کی قیمتوں میں اضافے کا خدشہ ہے۔ *[ARY](https://arynews.tv/electricity-prices-in-pakistan-august-2026)*
 
 ### سیاست
-- وزیراعظم شہباز شریف کا سعودی عرب کا تین روزہ دورہ، جس میں اہم وفد بھی شریک ہوگا۔ *[Dawn](https://www.dawn.com/news/2020987/pm-shehbaz-departs-for-saudi-arabia-on-3-day-visit)*
-- وزیر داخلہ محسن نقوی کا دعویٰ ہے کہ موجودہ حکومت اپنا پورا پانچ سالہ دورانیہ مکمل کرے گی۔ *[Dawn](https://www.dawn.com/news/2020813/govt-will-complete-tenure-shehbaz-to-remain-pm-for-five-years-naqvi)*
-- اسلام آباد ہائی کورٹ نے عمران خان اور بشریٰ بی بی کی تنہائی میں قید کے خلاف درخواستوں پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021028/ihc-reserves-order-on-pleas-against-imran-bushras-alleged-solitary-confinement)*
-- عدالت نے ججز کی تقرری میں صدر کی جانب سے تاخیر کے خلاف درخواست پر فیصلہ محفوظ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2020986/ihc-reserves-ruling-on-maintainability-of-plea-challenging-presidential-delay-in-judicial-appointments)*
-- صحافی اسد طور کو ہراساں کرنے کے خلاف اسلام آباد ہائی کورٹ نے این سی سی آئی اے (NCCIA) کو حکم جاری کر دیا۔ *[Dawn](https://www.dawn.com/news/2020990/ihc-restrains-nccia-from-harassing-journalist-asad-toor-during-inquiry)*
-- غیر ملکی صحافیوں کے لیے نئے قواعد کے حوالے سے انسانی حقوق کمیشن اور صحافیوں کی تنظیموں کا تحفظ۔ *[Dawn](https://www.dawn.com/news/2020991/growing-pattern-of-media-curbs-hrcp-pfuj-express-concern-over-new-rules-for-foreign-press)*
-
-### قومی
-- بلوچستان کے مستونگ اور واشک میں سکیورٹی فورسز کے آپریشن میں 12 دہشت گرد ہلاک۔ *[Dawn](https://www.dawn.com/news/2021030/security-forces-kill-12-terrorists-in-balochistans-mastung-washuk-ibos-ispr)*
-- پی ایم ڈی سی (PMDC) نے ایم ڈی کیٹ (MDCAT) کے امتحان کی تاریخ تبدیل کر کے 20 ستمبر کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2020995/pmdc-reschedules-mdcat-exam-to-now-be-held-on-sept-20)*
-- کراچی کی عدالت نے میر رضا علی کی لاش کی دوبارہ کھدائی کی اجازت دے دی۔ *[Dawn](https://www.dawn.com/news/2021005/karachi-court-allows-exhumation-of-mir-raza-alis-body-amid-controversy-over-autopsy)*
-- پنجاب حکومت کی جانب سے طلبہ کے لیے ایک لاکھ روپے کے نقد انعام کا اعلان۔ *[ARY](https://arynews.tv/punjab-announces-rs-100000-cash-reward-for-students)*
-- عمران خان کے بیٹوں نے ان کی صحت کے حوالے سے تشویش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021007/imrans-sons-express-concerns-about-fathers-health-in-fresh-interview-with-cnn)*
+- پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری کا الزام ہے کہ مسلم لیگ (ن) کے اندر مخصوص عناصر اتحادیوں میں پھوٹ ڈال رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2021262/bilawal-claims-certain-elements-within-pml-n-are-sowing-division-among-allies-undermining-pm-shehbaz)*
+- سپریم کورٹ بار ایسوسی ایشن نے بہتر گورننس کے لیے نئے صوبوں کے قیام کی تجویز کی حمایت کی ہے۔ *[Dawn](https://www.dawn.com/news/2021274/scba-backs-call-for-new-provinces-calls-it-step-forward-for-better-governance)*
+- امن و امان کی صورتحال کے پیش نظر آزاد جموں و کشمیر کے انتخابات کے تیسرے مرحلے کے شیڈول میں ترمیم کر دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns)*
+- وفاقی حکومت ججز کی تقرری کے لیے صدر زرداری کی منظوری کو نظر انداز کرنے کے امکان پر غور کر رہی ہے۔ *[Dawn](https://www.dawn.com/news/2021130/govt-mulls-bypassing-zardaris-assent-for-judges-appointment)*
 
 ### بین الاقوامی
-- شمالی کوریا نے سمندر پر بیلسٹک میزائل داغ دیا، جس کے بعد علاقائی کشیدگی بڑھنے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2021016/north-korea-fires-ballistic-missile-south-korea-military-says)*
-- بھارت کے آزاد جموں و کشمیر کے انتخابات پر تبصرے پر پاکستان کے دفتر خارجہ کا سخت ردعمل۔ *[Dawn](https://www.dawn.com/news/2020999/fo-slams-indias-remarks-on-ajk-polls-says-it-has-no-standing-or-moral-authority-to-comment-on-process)*
-- صومالیہ کے دفاعی وفد کی پاکستان آمد اور دونوں ممالک کے درمیان دفاعی تعاون پر بات چیت۔ *[Dawn](https://www.dawn.com/news/2021029/cdf-munir-discusses-enhancement-of-defence-security-cooperation-with-somalia-ispr)*
-- براڈ پیک پر برفانی تودے کے گرنے سے پانچ بین الاقوامی کوہ پیماؤں کی ہلاکت۔ *[Dawn](https://www.dawn.com/news/2021002/bodies-of-nirmal-purja-4-other-climbers-airlifted-to-skardu-after-broad-peak-avalanche)*
-- بنگلہ دیش میں سابق کرکٹ کپتان شکیب الحسن کے گھر پر حملہ، جس سے آگ لگ گئی۔ *[Dawn](https://www.dawn.com/news/2020971/ex-bangladesh-cricket-captain-shakibs-home-attacked-after-joining-hasinas-first-public-media-event-since-ouster)*
-- بھارتی وزیراعظم نریندر مودی کا نوجوان ووٹرز کو متوجہ کرنے کے لیے انسٹاگرام کا استعمال۔ *[Dawn](https://www.dawn.com/news/2021024/indias-modi-turns-to-instagram-to-woo-young-voters-after-gen-z-protest)*
-- امریکہ میں ترقی پسند امیدواروں کی کامیابیوں میں نئے میڈیا کے کردار کا جائزہ۔ *[Dawn](https://www.dawn.com/news/2021021/how-the-new-generation-of-left-wing-us-media-is-powering-progressive-candidates)*
+- پاکستان، سعودی عرب اور ترکیہ کے درمیان مکہ میں ایک سہ فریقی دفاعی معاہدہ طے پایا ہے جس میں ایک پر حملہ سب پر حملہ تصور کیا جائے گا۔ *[Dawn](https://www.dawn.com/news/2021248/pakistan-saudi-arabia-turkiye-sign-tripartite-defence-agreement-in-makkah)*
+- امریکہ ویزا کے لیے درخواست دینے والے غیر ملکی صحافیوں کے سوشل میڈیا اکاؤنٹس کی جانچ پڑتال کرے گا۔ *[Dawn](https://www.dawn.com/news/2021253/us-to-vet-social-media-of-foreign-journalists-applying-for-visas-report-says)*
+- ڈونلڈ ٹرمپ نے امریکی آئین کے باوجود پیدائشی شہریت کو محدود کرنے کے لیے انتظامی احکامات پر دستخط کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021243/trump-signs-orders-to-limit-us-birthright-citizenship-despite-supreme-court-ruling)*
+- اقوام متحدہ کی سلامتی کونسل نے سوات میں ہونے والے خودکش حملے کی شدید مذمت کی ہے۔ *[Dawn](https://www.dawn.com/news/2021203/unsc-condemns-swat-suicide-blast-after-pakistan-sounds-alarm-on-afghan-terrorist-havens)*
+- تھائی لینڈ میں ایک 14 سالہ لڑکے نے گھر اور اسکول میں فائرنگ کر کے 7 افراد کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2021216/thai-teen-kills-7-in-rampage-at-home-and-school-before-shooting-himself)*
+
+### قومی
+- پیٹرولیم لیوی کے خلاف جماعت اسلامی کے احتجاج کی وجہ سے کراچی میں ٹریفک کی صورتحال متاثر ہوئی۔ *[Dawn](https://www.dawn.com/news/2021256/ji-protests-cause-traffic-disruptions-across-karachi)*
+- خیبر پختونخوا میں دو مختلف کارروائیوں کے دوران 10 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2021201/10-terrorists-killed-in-2-separate-operations-in-kp-ispr)*
+- میر رضا علی کی لاش نکالنے کا عمل ان کے خاندان کی مخالفت کے بعد ملتوی کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2021207/exhumation-of-mir-raza-alis-body-postponed-after-family-objects-to-abrupt-reconstitution-of-medico-legal-board)*
+- پشاور ہائی کورٹ نے سابق افغان جنرل اور ایجنٹ کی ملک بدری کے خلاف درخواستیں مسترد کر دیں۔ *[Dawn](https://www.dawn.com/news/2021136/ex-afghan-general-agents-pleas-against-arrest-deportation-rejected)*
+- لاہور کی ایک نجی یونیورسٹی کے ہاسٹل میں ایک طالب علم مردہ پایا گیا۔ *[Dawn](https://www.dawn.com/news/2021084/student-found-dead-in-private-varsitys-hostel)*
+- جلال پور نہر کے منصوبے پر پنجاب اور سندھ کے درمیان تنازعہ پیدا ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021158/canal-controversy)*
 
 ### کھیل
-- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز کے لیے ڈین لارنس کو ٹیم میں دوبارہ شامل کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021018/england-recall-dan-lawrence-from-two-years-of-test-exile-to-face-pakistan)*
+- کرسٹیانو رونالڈو نے اپنے بیٹے کے فٹ بال کیریئر کے حوالے سے پیش گوئی کی۔ *[ARY](https://arynews.tv/cristiano-ronaldo-predicts-sons-football-career-during-al-nassr-youth-training)*
 
 ### صحت
-- لیٹیس (Lettuce) سے منسلک سائکلو اسپورائسس (Cyclosporiasis) کی تحقیقات کے دائرے میں اضافے کا خدشہ۔ *[ARY](https://arynews.tv/cyclosporiasis-probe-linked-to-lettuce-widens-to-these-us-states)*
+- امریکہ میں سالمونلا (Salmonella) کے پھیلاؤ کے حوالے سے خبر۔ *[ARY](https://arynews.tv/salmonella-outbreak-jalapenos-us-explained)*
 
 ### دیگر
-- جرمنی میں ملازمت کے وسیع مواقع اور درخواست دینے کا طریقہ کار۔ *[ARY](https://arynews.tv/germany-opens-wide-range-of-job-opportunities-foreign-workers)*
-- کیلی شے اور پیرس بروسنان کی پرانی تصویر سوشل میڈیا پر وائرل۔ *[ARY](https://arynews.tv/keely-shaye-gives-bond-girl-vibes-in-throwback-snap-with-pierce-brosnan)*
+- ٹوبی میگائر اور لیونارڈو ڈی کیپریو کی آئیبیز میں تفریحی مصروفیات۔ *[ARY](https://arynews.tv/tobey-maguire-joins-leonardo-dicaprio-and-vittoria-ceretti-during-ibiza-getaway)*
+- جینیفر گارنر کی منگنی کے حوالے سے افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/is-jennifer-garner-engaged-new-diamond-ring-sparks-engagement-rumors-with-john-miller)*
+- فلم 'دیوداس' کا ریویو۔ *[ARY](https://arynews.tv/dc-movie-review-2026-wamiqa-gabbi-lokesh-kanagaraj)*
 
