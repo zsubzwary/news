@@ -4,50 +4,37 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 08-Aug-2026 09:03PKT
+Published at: 08-Aug-2026 21:04PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- The government has reduced petrol prices by Rs2.20 and high-speed diesel by Rs1.50. *[Dawn](https://www.dawn.com/news/2021290/govt-reduces-petrol-price-by-rs220-high-speed-diesel-by-rs150)*
-- Goods transporters and oil tanker operators are set to go on strike following failed negotiations with the government. *[Dawn](https://www.dawn.com/news/2021293/goods-transporters-to-go-on-strike-from-saturday-after-talks-with-govt-fail)*
-- Nepra has notified a fuel cost adjustment of 75 paisa per unit, adding an additional Rs9.8 billion burden to electricity consumers for August. *[Dawn](https://www.dawn.com/news/2021273/power-consumers-to-pay-75-paisa-per-unit-fca-in-august-bills)*
-- The Privatisation Commission reported strong interest from both domestic and international investors regarding the privatisation of Fesco. *[Dawn](https://www.dawn.com/news/2021271/domestic-foreign-investors-show-interest-in-fesco-privatisation-privatisation-commission)*
-- Sweetgreen shares have declined following fears of cyclosporiasis. *[ARY](https://arynews.tv/sweetgreen-shares-slide-as-cyclosporiasis-fears-prompt-forecast-cut)*
-- Updated petrol prices for August 08, 2026, have been released. *[ARY](https://arynews.tv/petrol-price-in-pakistan-for-august-08-2026)*
+- The US government announced a **$3 billion investment** in critical minerals and battery projects to boost domestic production and national security. *[Dawn](https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains)*
+- The Pakistani government has reduced the price of **petrol by Rs2.20** and **high-speed diesel by Rs1.50**. *[Dawn](https://www.dawn.com/news/2021290/govt-reduces-petrol-price-by-rs220-high-speed-diesel-by-rs150)*
 
 ### Science & Technology
-- A debate has emerged regarding the impact of Bitcoin mining and AI data centers on Pakistan's electricity grid capacity. *[Dawn](https://www.dawn.com/news/2021429/before-ai-hits-the-grid)*
+- OpenAI has identified a potential **critical cybersecurity risk** in its upcoming AI model, **Astra**, which may be capable of autonomously exploiting software vulnerabilities. *[Dawn](https://www.dawn.com/news/2021506/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-astra-tightens-controls)*
 
 ### Weather
-- Heavy monsoon rains have resulted in 151 deaths and significant damage to infrastructure across Pakistan. *[Dawn](https://www.dawn.com/news/2021433/danger-ahead)*
+- **Typhoon Dolphin** has struck Japan's Okinawa prefecture, causing injuries and power outages, while China has shut ports ahead of the storm's arrival. *[Dawn](https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall)*
+- Heavy rainfall has caused **flooding in Lahore**, disrupting traffic and daily life in several low-lying areas. *[Dawn](https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas)*
 
 ### Politics
-- Efforts are underway to break the deadlock regarding the appointment of high court judges. *[Dawn](https://www.dawn.com/news/2021417/efforts-underway-to-end-deadlock-over-judges-appointments)*
-- Pakistan, Saudi Arabia, and Turkiye have signed the Makkah Joint Defence Agreement to enhance collective deterrence. *[Dawn](https://www.dawn.com/news/2021421/pakistan-joins-saudi-arabia-turkiye-in-all-for-one-pact)*
-- The KP Assembly has amended a law to remove lifetime privileges, such as official passports, for lawmakers. *[Dawn](https://www.dawn.com/news/2021413/kp-amends-controversial-law-on-lawmakers-privileges)*
-- The NAB chief has urged the government to withdraw the Rs500 million limit on corruption probes against government officials. *[Dawn](https://www.dawn.com/news/2021393/nab-chief-urges-withdrawal-of-rs500m-graft-probe-limit)*
-- Bilawal Bhutto Zardari accused certain elements within the PML-N of undermining PM Shehbaz Sharif and causing division. *[Dawn](https://www.dawn.com/news/2021262/bilawal-claims-certain-elements-within-pml-n-are-sowing-division-among-allies-undermining-pm-shehbaz)*
-- The Supreme Court Bar Association has expressed support for the creation of new provinces to improve governance. *[Dawn](https://www.dawn.com/news/2021274/scba-backs-call-for-new-provinces-calls-it-step-forward-for-better-governance)*
-- Jamaat-i-Islami protests against the petroleum levy have caused significant traffic disruptions in Karachi. *[Dawn](https://www.dawn.com/news/2021256/ji-protests-cause-traffic-disruptions-across-karachi)*
-- The AJK Election Commission revised the third phase of election schedules due to law and order concerns. *[Dawn](https://www.dawn.com/news/2021240/schedule-for-3rd-phase-of-ajk-polls-revised-over-law-and-order-concerns)*
-- President Zardari has welcomed the Makkah Joint Defence Agreement. *[ARY](https://arynews.tv/president-zardari-welcomes-makkah-joint-defence-agreement)*
+- The **PML-N** has expressed confidence in forming the government in **Azad Jammu and Kashmir (AJK)** with a two-thirds majority. *[Dawn](https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority)*
+- The leadership of the **Senate and National Assembly** have pledged closer cooperation to maintain a stable parliamentary democratic system. *[Dawn](https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system)*
+- The **Khyber Pakhtunkhwa (KP) Assembly** has amended laws to scrap controversial provisions, including the issuance of lifetime official passports to lawmakers. *[Dawn](https://www.dawn.com/news/2021413/kp-amends-controversial-law-on-lawmakers-privileges)*
+- Efforts are underway to resolve the **deadlock over judicial appointments** through meetings between the government's legal team and the Presidency. *[Dawn](https://www.dawn.com/news/2021417/efforts-underway-to-end-deadlock-over-judges-appointments)*
 
 ### National
-- The Sindh government has restored the original medical board for the exhumation of Mir Raza Ali's body. *[Dawn](https://www.dawn.com/news/2021395/govt-restores-original-medical-board-for-exhumation-of-mir-razas-body)*
-- Global watchdogs have called for the removal of government restrictions on foreign press in Pakistan. *[Dawn](https://www.dawn.com/news/2021399/watchdogs-call-for-scrapping-foreign-press-curbs)*
-- The search for the remains of climbers missing in the Broad Peak avalanche has been paused due to weather risks. *[Dawn](https://www.dawn.com/news/2021394/broad-peak-search-for-bodies-of-3-climbers-paused)*
-- President Zardari commemorated Police Martyrs Day, honoring the sacrifices of police officers. *[Dawn](https://www.dawn.com/news/2021430/the-supreme-sacrifice)*
-- Two lawyers have been suspended following allegations of unprofessional conduct. *[ARY](https://arynews.tv/lawyers-suspended-over-unprofessional-conduct)*
+- Following the restoration of the original medical board, the body of businessman **Mir Raza Ali** was exhumed for a fresh autopsy. *[Dawn](https://www.dawn.com/news/2021482/mir-raza-alis-body-exhumed-following-restoration-of-original-medical-board)*
+- A military operation in **Hangu**, Khyber Pakhtunkhwa, resulted in the martyrdom of a captain and the killing of seven terrorists. *[Dawn](https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr)*
+- Armed robbers looted over **Rs6.5 million** from the **Edhi shelter home** in Karachi. *[Dawn](https://www.dawn.com/news/2021391/robbers-loot-rs65m-from-edhi-home-in-karachi)*
+- The **Lahore High Court** ruled that customer data held by banks is considered "property," and its dishonest misuse may constitute a criminal breach of trust. *[Dawn](https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc)*
+- Global human rights watchdogs have criticized new government restrictions on **foreign media** in Pakistan, labeling them an attack on press freedom. *[Dawn](https://www.dawn.com/news/2021399/watchdogs-call-for-scrapping-foreign-press-curbs)*
 
 ### International
-- Italy has refused to lift border controls despite Spanish demands regarding the migrant crisis in Ceuta. *[Dawn](https://www.dawn.com/news/2021280/italy-defies-spanish-demand-to-lift-border-curbs-over-ceuta-migrant-crisis)*
-- The US State Department is reported to be vetting the social media accounts of foreign journalists applying for visas. *[Dawn](https://www.dawn.com/news/2021253/us-to-vet-social-media-of-foreign-journalists-applying-for-visas-report-says)*
-- Indian fuel retailers have stated that E20 petrol meets necessary quality standards. *[ARY](https://arynews.tv/india-fuel-retailers-say-e20-petrol-meets-quality-standards)*
-
-### Other
-- Jim Carrey is set to take the lead in a new project titled ‘The Jetsons’. *[ARY](https://arynews.tv/jim-carrey-takes-lead-in-the-jetsons-project)*
-- Actor Rajpal Yadav is facing property auction proceedings due to a bank loan default. *[ARY](https://arynews.tv/rajpal-yadav-faces-property-auction-proceedings-over-bank-loan-default)*
-- Recent updates include statements from King Charles regarding Prince William and viral moments involving Kate and Prince William. *[ARY](https://arynews.tv/king-charles-issues-statement-following-princess-annes-advice-to-prince-william), [ARY](https://arynews.tv/did-kate-middleton-and-prince-william-spark-new-romance-buzz-family-outing-sweet-moments-go-viral)*
-- Kylie Kelce has shared updates regarding Taylor Swift and Travis Kelce's wedding. *[ARY](https://arynews.tv/kylie-kelce-provides-rare-update-on-taylor-swift-and-travis-kelces-wedding)*
+- **Hamas** has stated its readiness to proceed with a US-backed peace plan for Gaza, urging pressure on Israel. *[Dawn](https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan)*
+- **Pakistan and New Zealand** held discussions to boost bilateral cooperation in the agriculture and education sectors. *[Dawn](https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors)*
+- The **OIC** has welcomed the **Makkah Joint Defence Agreement** between Pakistan, Saudi Arabia, and Türkiye, calling it a significant strategic step. *[Dawn](https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step)*
+- Prime Minister **Narendra Modi’s** government is facing political challenges from the **'Cockroach Janta Party'** protest movement regarding unemployment and governance. *[Dawn](https://www.dawn.com/news/2021494/indias-cockroach-protest-movement-keeps-heat-on-modi)*
 
