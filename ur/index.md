@@ -7,55 +7,46 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 09-Aug-2026 09:09PKT 
+ &lrm; 09-Aug-2026 21:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- سامان اور تیل لے جانے والے ٹرانسپورٹرز کی ملک گیر ہڑتال سے صنعتی اور برآمدی سپلائی چین متاثر ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2021626/goods-oil-transporters-strike-threatens-industry-exports)*
-- بڑھتی ہوئی ایندھن کی قیمتوں کی وجہ سے لاہور میٹرو بس کے آپریشنز 11 اگست سے معطل کیے جا سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/2021653/fuel-cost-hits-lahore-metro-service)*
-- اسلام آباد ہائی کورٹ نے سامان کی ترسیل پر ودہولڈنگ ٹیکس میں اضافے کے خلاف درخواست پر حکومت اور ایف بی آر سے جواب طلب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation)*
-- بی آئی ایس پی (BISP) کے مستحقین کا الزام ہے کہ ایجنٹ ادائیگیوں میں سے 1500 سے 2000 روپے تک غیر قانونی رقم کاٹ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2021629/price-of-collecting-bisp-stipend)*
+- پاکستان سعودی عرب، کویت اور قطر کے ساتھ مل کر تیل کے ذخیرہ کرنے کے منصوبے پر کام کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme)*
+- ملک گیر ٹرانسپورٹرز کی ہڑتال سے صنعتی پیداوار اور برآمدات متاثر ہونے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2021626/goods-oil-transporters-strike-threatens-industry-exports)*
+- حکومت کی جانب سے امپورٹ ٹینڈر جاری نہ ہونے کی وجہ سے آٹے کی قیمتوں میں اضافہ جاری ہے۔ *[Dawn](https://www.dawn.com/news/2021625/flour-prices-rising-as-govt-yet-to-issue-import-tender)*
+- ایندھن کی بڑھتی ہوئی قیمتوں کے باعث لاہور میٹرو بس سروس کی معطلی کا خطرہ پیدا ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021653/fuel-cost-hits-lahore-metro-service)*
 
 ### سائنس اور ٹیکنالوجی
-- پاکستان نے بین الاقوامی نیوکلیئر سائنس اولمپیاڈ میں ایک گولڈ اور دو سلور تمغے جیت لیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad)*
-- اوپن اے آئی (OpenAI) نے اپنے آنے والے ماڈل 'Astra' میں ممکنہ **سائبر سیکیورٹی خطرات** کی نشاندہی کی ہے اور حفاظتی اقدامات سخت کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021506/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-astra-tightens-controls)*
-- xAI نے اپنا نیا **Grok Imagine Image 2.0** جاری کر دیا ہے۔ *[ARY](https://arynews.tv/xai-releases-grok-imagine-image-2-0)*
-- برطانیہ میں ہونے والے سورج گرہن کے لیے ماہرین نے بہترین دیکھنے کے مقامات کی نشاندہی کر دی ہے۔ *[ARY](https://arynews.tv/uk-solar-eclipse-to-plunge-skies-into-darkness)*
-- Chuwi GTBook X گیمنگ لیپ ٹاپ مارکیٹ میں لانچ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/chuwi-gtbook-x-gaming-laptop-launches-with-rtx-3050-gpu)*
-
-### موسم
-- لاہور میں شدید بارش کے باعث نچلے علاقوں اور اہم شاہراہوں پر پانی جمع ہونے سے ٹریفک اور روزمرہ زندگی متاثر ہوئی۔ *[Dawn](https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas)*
-- ٹائیفون 'ڈولفن' جاپان کے اوکیناوہ سے ٹکرایا، جبکہ چین نے طوفان سے قبل بندرگاہیں بند کر دیں۔ *[Dawn](https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall)*
+- پاکستان کی ٹیم نے سعودی عرب میں منعقدہ انٹرنیشنل نیوکلیئر سائنس اولمپیاڈ میں ایک گولڈ اور دو سلور تمغے حاصل کیے۔ *[Dawn](https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad)*
 
 ### سیاست
-- آزاد جموں و کشمیر کے پونچھ ڈویژن کی باقی نشستوں کے لیے ووٹنگ 20 یا 21 اگست تک ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2021521/voting-on-remaining-ajk-poonch-division-seats-may-be-held-by-aug-20-21-says-cec)*
-- جماعت اسلامی نے پیٹرولیم لیوی کے خلاف 16 اگست کو تمام صوبائی دارالحکومتوں میں احتجاجی مظاہروں کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021518/ji-announces-aug-16-sit-ins-in-provincial-capitals-to-protest-petroleum-levy)*
-- رہنما رانا ثناء اللہ کا دعویٰ ہے کہ مسلم لیگ ن آزاد کشمیر میں دو تہائی اکثریت کے ساتھ حکومت بنائے گی۔ *[Dawn](https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority)*
+- پاکستان، سعودی عرب اور ترکی کے درمیان دفاعی معاہدہ علاقائی ممالک کے لیے کھلا ہے اور یہ خالصتاً دفاعی نوعیت کا ہے۔ *[Dawn](https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar)*
+- ملک کے حکمرانی کے بحران پر تجزیہ کہ صرف صوبوں کی نئی تشکیل سے اصلاحات ممکن نہیں ہوں گی۔ *[Dawn](https://www.dawn.com/news/2021615/wrong-solution-to-the-right-problem)*
+- پی ٹی آئی کے احتجاج کے حوالے سے سیاسی رہنماؤں کی تنقید۔ *[ARY](https://arynews.tv/pti-protest-leadership-critiqued-by-sher-afzal-marwat)*
 
 ### قومی
-- گلگت بلتستان میں غیر قانونی سونے کی کان کنی سے ماحولیاتی نظام اور ڈیموں کو خطرہ لاحق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021627/unregulated-placer-gold-mining-raises-concerns-in-gb)*
-- پونچھ میڈیکل کالج کی بندش سے 500 طلباء کے تعلیمی سال کو خطرہ لاحق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021648/poonch-medical-college-closure-threatens-academic-year-of-500-students)*
-- میر رضا علی کے دوسرے پوسٹ مارٹم میں جسم پر متعدد زخموں کی نشاندہی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2021482/initial-findings-of-second-post-mortem-show-multiple-injuries-on-mir-raza-ali-police-surgeon-says)*
-- سپریم کورٹ نے BISP ریٹیلر کی بلاک شدہ آئی ڈی کی بحالی کے خلاف شکایت کو ناقابل سماعت قرار دے دیا۔ *[Dawn](https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id)*
-- ہنگو میں انٹیلیجنس بیسڈ آپریشن کے دوران ایک کیپٹن شہید اور 7 دہشت گرد مارے گئے۔ *[Dawn](https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr)*
+- بلوچستان کے ضلع سوراب میں امن و امان کی صورتحال کے پیش نظر کرفیو نافذ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns)*
+- میر رضا علی قتل کیس میں نئی تحقیقاتی ٹیم تشکیل دی گئی ہے اور پوسٹ مارٹم رپورٹ میں خودکشی کے امکان کو مسترد کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021701/police-form-new-team-to-probe-mir-raza-alis-case-murder-charge-added-to-fir)*
+- بلوچستان میں سیکورٹی فورسز کے مختلف آپریشنز کے دوران 15 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2021695/security-forces-kill-15-terrorists-in-balochistan-ibos-state-media)*
+- کراچی کی ریڈ لائن بی آر ٹی کے کنٹریکٹ کو منسوخ کرنے کے فیصلے کو غیر قانونی قرار دے دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021591/karachis-red-line-suffers-another-blow-as-decision-to-cancel-mosamiyat-to-numaish-contract-declared-invalid)*
+- خیبر پختونخوا کے علاقے لوئر جنوبی وزیرستان میں نامعلوم مسلح افراد نے دو قبائلی رہنماؤں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-lower-south-waziristan)*
+- لکی مروت میں دہشت گردوں کے حملے میں ایک پولیس کانسٹیبل شہید اور ایک زخمی ہو گیا۔ *[Dawn](https://www.dawn.com/news/2021694/on-duty-cop-martyred-another-injured-in-lakki-marwat-attack)*
+- کراچی میں اینٹی انکروچمنٹ ڈرائیو کے دوران ہونے والی لڑائی کے بعد 33 افراد کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2021587/33-held-booked-under-ata-for-resisting-anti-encroachment-drive)*
 
 ### بین الاقوامی
-- پاکستان اور نیوزی لینڈ زراعت اور تعلیم کے شعبوں میں تعاون بڑھانے پر متفق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors)*
-- حماس نے غزہ کے امریکی حمایت یافتہ امن منصوبے پر عمل درآمد کے لیے آمادگی کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan)*
-- امریکی حکومت دفاعی سپلائی چین کو مضبوط کرنے کے لیے معدنیات کے منصوبوں میں 3 ارب ڈالر کی سرمایہ کاری کرے گی۔ *[Dawn](https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains)*
-- OIC نے پاک-سعودی-ترکی کے مشترکہ دفاعی معاہدے کا خیر مقدم کیا ہے اور اسے اہم قدم قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step)*
-- امریکی ڈیموکریٹس نے ٹرمپ کے خلاف تحقیقات اور امپیچمنٹ کے منصوبے تیار کر لیے ہیں۔ *[ARY](https://arynews.tv/democrats-plan-trump-investigations-over-impeachment-if-they-win-house)*
-- تھائی لینڈ میں اسکول میں ہونے والی فائرنگ کے واقعے نے کمیونٹی کو ہلا کر رکھ دیا ہے۔ *[ARY](https://arynews.tv/thailand-a-school-shooting-shocks-community)*
-- امریکی عدالتوں نے ٹرمپ کو دو ممالک کے مہاجرین کے تحفظات ختم کرنے کی اجازت دے دی۔ *[ARY](https://arynews.tv/us-judges-allow-trump-to-end-protections-for-migrants)*
+- پاکستان نے افغان طالبان کے اسلحہ اسمگلنگ کے دعووں کو بے بنیاد قرار دے کر مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2021712/pakistan-rejects-afghan-taliban-claims-of-weapons-smuggled-into-afghanistan-as-frivolous-baseless)*
+- صومالیہ کے ساحل پر قزاقوں کے قبضے میں مبتلا پاکستانی عملے نے حکومت سے مدد کے لیے دوبارہ اپیل کی ہے۔ *[Dawn](https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help)*
+- اسرائیلی وزیراعظم نیتن یاہو نے غزہ کے لیے امریکی صدر ٹرمپ کے منصوبے کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2021708/netanyahu-rejects-trumps-gaza-plan-vows-no-pullout-until-hamas-disarms)*
+- سعودی عرب کے جازان میں آرامکو ریفائنری پر ڈرون حملہ، حوثیوں نے ذمہ داری قبول کی۔ *[Dawn](https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-saudi-arabias-jazan-houthis-claim-attack)*
+- ایران کا کہنا ہے کہ عمان کے ساتھ ہونے والا معاہدہ آخری مراحل میں ہے۔ *[ARY](https://arynews.tv/iran-says-oman-deal-is-in-final-stages)*
+- عالمی ادارہ صحت کے مطابق یوکرین میں ایک گودام پر حملہ کیا گیا ہے۔ *[ARY](https://arynews.tv/who-chief-says-warehouse-hit-in-ukraine)*
 
 ### کھیل
-- گیلسی (Galaxy) نے تجربہ کار ہسپانوی کھلاڑی سرگی رابرٹو کو اپنی ٹیم میں شامل کر لیا ہے۔ *[ARY](https://arynews.tv/galaxy-sign-spanish-veteran-sergi-roberto)*
-
-### صحت
-- آنتوں کے بیکٹیریا کا علاج مونگ پھلی کی شدید الرجی کو کم کرنے میں مددگار ثابت ہو سکتا ہے۔ *[ARY](https://arynews.tv/gut-bacteria-treatment-may-ease-severe-peanut-allergies)*
+- پاکستان کے محمد زبیر نے پیرس میں ای اسپورٹس ورلڈ کپ کے دوران ٹیکن 8 ورلڈ چیمپئن شپ کا اعزاز اپنے نام کر لیا۔ *[Dawn](https://www.dawn.com/news/2021692/pakistans-muhammad-zubair-becomes-tekken-8-champion-at-esports-world-cup-in-paris)*
 
 ### دیگر
-- میگن مارکل نے نوجوان لڑکیوں کو اپنے وجدان (instincts) پر بھروسہ کرنے کی تلقین کی۔ *[ARY](https://arynews.tv/meghan-markle-urges-young-girls-to-trust-their-instincts)*
-- بلیٹ لائیولی نے فٹ بال میچ کے دوران اپنے خاندان کی نایاب تصاویر شیئر کیں۔ *[ARY](https://arynews.tv/blake-lively-shares-rare-photos-of-family-at-soccer-match)*
+- جی جی ہادیڈ اور بریڈلے کوپر کے بارے میں شادی کی افواہیں گردش کرنے لگی ہیں۔ *[ARY](https://arynews.tv/gigi-hadid-and-bradley-cooper-spark-secret-wedding-rumors-with-matching-paris-style)*
+- نیٹ فلکس پر ڈیوڈ فنچر کے 'سکویڈ گیم' پروجیکٹ میں تاخیر کا سامنا ہے۔ *[ARY](https://arynews.tv/david-finchers-squid-game-project-faces-delay-at-netflix)*
+- برطانوی شاہی خاندان سے متعلق مختلف خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/lady-louise-windsor-unveils-transformative-new-haircut-marking-next-royal-chapter)*
 
