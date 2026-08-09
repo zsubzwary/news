@@ -7,51 +7,55 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 08-Aug-2026 21:09PKT 
+ &lrm; 09-Aug-2026 09:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- امریکی حکومت دفاعی سپلائی چین کو مضبوط بنانے کے لیے معدنیات اور بیٹری کے منصوبوں میں 3 ارب ڈالر کی سرمایہ کاری کرے گی۔ *[Dawn](https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains)*
-- حکومت نے پٹرول کی قیمت میں 2.20 روپے اور ہائی اسپیڈ ڈیزل کی قیمت میں 1.50 روپے کی کمی کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2021290/govt-reduces-petrol-price-by-rs220-high-speed-diesel-by-rs150)*
-- پاکستان کی جانب سے برآمد کنندگان کے لیے 10 ارب روپے کے مالیاتی تعاون کا اعلان کیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-sanctions-rs-10-billion-for-exporters)*
-- پاکستان میں سیمنٹ کی روزانہ کی قیمتوں سے متعلق اپ ڈیٹ فراہم کی گئی ہے۔ *[ARY](https://arynews.tv/cement-price-in-pakistan-today-august-8-2026)*
+- سامان اور تیل لے جانے والے ٹرانسپورٹرز کی ملک گیر ہڑتال سے صنعتی اور برآمدی سپلائی چین متاثر ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2021626/goods-oil-transporters-strike-threatens-industry-exports)*
+- بڑھتی ہوئی ایندھن کی قیمتوں کی وجہ سے لاہور میٹرو بس کے آپریشنز 11 اگست سے معطل کیے جا سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/2021653/fuel-cost-hits-lahore-metro-service)*
+- اسلام آباد ہائی کورٹ نے سامان کی ترسیل پر ودہولڈنگ ٹیکس میں اضافے کے خلاف درخواست پر حکومت اور ایف بی آر سے جواب طلب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2021632/ihc-seeks-govt-reply-over-withholding-tax-hike-on-goods-transportation)*
+- بی آئی ایس پی (BISP) کے مستحقین کا الزام ہے کہ ایجنٹ ادائیگیوں میں سے 1500 سے 2000 روپے تک غیر قانونی رقم کاٹ رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2021629/price-of-collecting-bisp-stipend)*
 
 ### سائنس اور ٹیکنالوجی
-- OpenAI نے اپنے آنے والے ماڈل 'Astra' میں سنگین سائبر سیکیورٹی خطرات کا خدشہ ظاہر کرتے ہوئے کچھ حفاظتی پروٹوکولز نافذ کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021506/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-astra-tightens-controls)*
-- گوگل پکسل واچ 5 کے نئے ٹریلر میں ایپل واچ کے ڈیزائن پر طنز کیا گیا ہے۔ *[ARY](https://arynews.tv/google-pixel-watch-5-trailer-takes-a-jab-at-apple-watch-design)*
+- پاکستان نے بین الاقوامی نیوکلیئر سائنس اولمپیاڈ میں ایک گولڈ اور دو سلور تمغے جیت لیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad)*
+- اوپن اے آئی (OpenAI) نے اپنے آنے والے ماڈل 'Astra' میں ممکنہ **سائبر سیکیورٹی خطرات** کی نشاندہی کی ہے اور حفاظتی اقدامات سخت کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2021506/openai-flags-possible-critical-cybersecurity-risk-in-upcoming-model-astra-tightens-controls)*
+- xAI نے اپنا نیا **Grok Imagine Image 2.0** جاری کر دیا ہے۔ *[ARY](https://arynews.tv/xai-releases-grok-imagine-image-2-0)*
+- برطانیہ میں ہونے والے سورج گرہن کے لیے ماہرین نے بہترین دیکھنے کے مقامات کی نشاندہی کر دی ہے۔ *[ARY](https://arynews.tv/uk-solar-eclipse-to-plunge-skies-into-darkness)*
+- Chuwi GTBook X گیمنگ لیپ ٹاپ مارکیٹ میں لانچ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/chuwi-gtbook-x-gaming-laptop-launches-with-rtx-3050-gpu)*
 
 ### موسم
-- لاہور میں شدید بارش کے باعث نشیبی علاقوں اور اہم شاہراہوں پر پانی جمع ہونے سے ٹریفک اور معمولات زندگی متاثر ہوئے۔ *[Dawn](https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas)*
-- ٹائیفون ڈولفن نے جاپان کے اوکیناوا کو متاثر کیا، جبکہ چین نے طوفان کے پیش نظر بندرگاہیں اور فیری سروسز بند کر دیں۔ *[Dawn](https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall)*
+- لاہور میں شدید بارش کے باعث نچلے علاقوں اور اہم شاہراہوں پر پانی جمع ہونے سے ٹریفک اور روزمرہ زندگی متاثر ہوئی۔ *[Dawn](https://www.dawn.com/news/2021490/heavy-rain-disrupts-traffic-daily-life-in-lahores-low-lying-areas)*
+- ٹائیفون 'ڈولفن' جاپان کے اوکیناوہ سے ٹکرایا، جبکہ چین نے طوفان سے قبل بندرگاہیں بند کر دیں۔ *[Dawn](https://www.dawn.com/news/2021508/typhoon-dolphin-hits-japans-okinawa-china-shuts-ports-ahead-of-landfall)*
 
 ### سیاست
-- رانا ثناء اللہ کا کہنا ہے کہ پی ایم ایل این آزاد کشمیر میں دو تہائی اکثریت کے ساتھ حکومت بنائے گی۔ *[Dawn](https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority)*
-- پاکستان اور نیوزی لینڈ کے درمیان زراعت اور تعلیم کے شعبوں میں تعاون بڑھانے پر اتفاق ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors)*
-- او آئی سی نے پاکستان، سعودی عرب اور ترکی کے درمیان مشترکہ دفاعی معاہدے کی حمایت کرتے ہوئے اسے ایک اہم اسٹریٹجک قدم قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step)*
-- سینیٹ اور قومی اسمبلی کی قیادت نے پارلیمانی نظام کے استحکام کے لیے باہمی تعاون کا عہد کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021469/senate-na-leadership-pledge-closer-cooperation-for-stable-parliamentary-system)*
-- ججز کی تعیناتی کے حوالے سے جاری تعطل کو ختم کرنے کے لیے حکومتی قانونی ٹیم اور صدارتی حکام کے درمیان ملاقات طے پائی ہے۔ *[Dawn](https://www.dawn.com/news/2021417/efforts-underway-to-end-deadlock-over-judges-appointments)*
-- خیبر پختونخوا اسمبلی نے قانون سازوں کی مراعات سے متعلق متنازع قانون میں ترمیم کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2021413/kp-amends-controversial-law-on-lawmakers-privileges)*
-- بھارت میں 'Cockroach' نامی احتجاجی تحریک کے نتیجے میں حکومت کو سیاسی چیلنجز کا سامنا ہے۔ *[Dawn](https://www.dawn.com/news/2021494/indias-cockroach-protest-movement-keeps-heat-on-modi)*
+- آزاد جموں و کشمیر کے پونچھ ڈویژن کی باقی نشستوں کے لیے ووٹنگ 20 یا 21 اگست تک ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2021521/voting-on-remaining-ajk-poonch-division-seats-may-be-held-by-aug-20-21-says-cec)*
+- جماعت اسلامی نے پیٹرولیم لیوی کے خلاف 16 اگست کو تمام صوبائی دارالحکومتوں میں احتجاجی مظاہروں کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021518/ji-announces-aug-16-sit-ins-in-provincial-capitals-to-protest-petroleum-levy)*
+- رہنما رانا ثناء اللہ کا دعویٰ ہے کہ مسلم لیگ ن آزاد کشمیر میں دو تہائی اکثریت کے ساتھ حکومت بنائے گی۔ *[Dawn](https://www.dawn.com/news/2021480/rana-sanaullah-says-pml-n-will-form-govt-in-ajk-with-two-thirds-majority)*
 
 ### قومی
-- میر رضا علی کے کیس میں میڈیکل بورڈ کی بحالی کے بعد ان کی لاش نکال کر دوبارہ پوسٹ مارٹم کیا گیا۔ *[Dawn](https://www.dawn.com/news/2021482/mir-raza-alis-body-exhumed-following-restoration-of-original-medical-board)*
-- ہنگو میں دہشت گردوں کے خلاف آپریشن کے دوران ایک کیپٹن شہید اور 7 دہشت گرد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr)*
-- کراچی میں ایدھی شفٹ ہوم پر مسلح ڈاکوؤں نے 6.5 ملین روپے کی رقم لوٹ لی۔ *[Dawn](https://www.dawn.com/news/2021391/robbers-loot-rs65m-from-edhi-home-in-karachi)*
-- لاہور ہائی کورٹ نے قرار دیا کہ بینک کے پاس موجود صارفین کا ڈیٹا ایک قانونی جائیداد ہے اور اس کا غلط استعمال جرم ہے۔ *[Dawn](https://www.dawn.com/news/2021357/customer-data-in-bank-is-property-its-misuse-may-be-a-crime-lhc)*
-- عالمی انسانی حقوق کے اداروں نے پاکستان میں غیر ملکی میڈیا پر عائد نئی پابندیوں کو آزادی اظہار پر حملہ قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021399/watchdogs-call-for-scrapping-foreign-press-curbs)*
-- موٹر وے پر ضرورت سے زیادہ بوجھ والے گاڑیوں کی آمد و رفت پر پابندی کے حوالے سے ہدایات جاری کی گئی ہیں۔ *[ARY](https://arynews.tv/no-overloaded-vehicle-allowed-on-motorways)*
+- گلگت بلتستان میں غیر قانونی سونے کی کان کنی سے ماحولیاتی نظام اور ڈیموں کو خطرہ لاحق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021627/unregulated-placer-gold-mining-raises-concerns-in-gb)*
+- پونچھ میڈیکل کالج کی بندش سے 500 طلباء کے تعلیمی سال کو خطرہ لاحق ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021648/poonch-medical-college-closure-threatens-academic-year-of-500-students)*
+- میر رضا علی کے دوسرے پوسٹ مارٹم میں جسم پر متعدد زخموں کی نشاندہی کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2021482/initial-findings-of-second-post-mortem-show-multiple-injuries-on-mir-raza-ali-police-surgeon-says)*
+- سپریم کورٹ نے BISP ریٹیلر کی بلاک شدہ آئی ڈی کی بحالی کے خلاف شکایت کو ناقابل سماعت قرار دے دیا۔ *[Dawn](https://www.dawn.com/news/2021654/sc-sets-aside-orders-to-restore-bisp-retailers-blocked-id)*
+- ہنگو میں انٹیلیجنس بیسڈ آپریشن کے دوران ایک کیپٹن شہید اور 7 دہشت گرد مارے گئے۔ *[Dawn](https://www.dawn.com/news/2021456/captain-martyred-7-terrorists-killed-in-intelligence-based-operation-in-hangu-ispr)*
 
 ### بین الاقوامی
-- حماس نے غزہ کے امن منصوبے پر عمل درآمد کے لیے اپنی آمادگی کا اظہار کیا ہے اور اسرائیل پر دباؤ ڈالنے کی اپیل کی ہے۔ *[Dawn](https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan)*
+- پاکستان اور نیوزی لینڈ زراعت اور تعلیم کے شعبوں میں تعاون بڑھانے پر متفق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2021491/pakistan-new-zealand-seek-to-boost-cooperation-in-agri-education-sectors)*
+- حماس نے غزہ کے امریکی حمایت یافتہ امن منصوبے پر عمل درآمد کے لیے آمادگی کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021507/hamas-says-still-ready-to-go-ahead-with-gaza-plan)*
+- امریکی حکومت دفاعی سپلائی چین کو مضبوط کرنے کے لیے معدنیات کے منصوبوں میں 3 ارب ڈالر کی سرمایہ کاری کرے گی۔ *[Dawn](https://www.dawn.com/news/2021463/trump-administration-to-invest-3-billion-in-minerals-projects-to-boost-us-defence-supply-chains)*
+- OIC نے پاک-سعودی-ترکی کے مشترکہ دفاعی معاہدے کا خیر مقدم کیا ہے اور اسے اہم قدم قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021475/oic-welcomes-pak-saudi-turkiye-joint-defence-pact-calls-it-important-strategic-step)*
+- امریکی ڈیموکریٹس نے ٹرمپ کے خلاف تحقیقات اور امپیچمنٹ کے منصوبے تیار کر لیے ہیں۔ *[ARY](https://arynews.tv/democrats-plan-trump-investigations-over-impeachment-if-they-win-house)*
+- تھائی لینڈ میں اسکول میں ہونے والی فائرنگ کے واقعے نے کمیونٹی کو ہلا کر رکھ دیا ہے۔ *[ARY](https://arynews.tv/thailand-a-school-shooting-shocks-community)*
+- امریکی عدالتوں نے ٹرمپ کو دو ممالک کے مہاجرین کے تحفظات ختم کرنے کی اجازت دے دی۔ *[ARY](https://arynews.tv/us-judges-allow-trump-to-end-protections-for-migrants)*
 
 ### کھیل
-- لیونل میسی کے والد جورگے میسی کا 68 برس کی عمر میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/jorge-messi-father-of-lionel-messi-dies-aged-68)*
+- گیلسی (Galaxy) نے تجربہ کار ہسپانوی کھلاڑی سرگی رابرٹو کو اپنی ٹیم میں شامل کر لیا ہے۔ *[ARY](https://arynews.tv/galaxy-sign-spanish-veteran-sergi-roberto)*
 
 ### صحت
-- امریکی ریاست مشی گن میں 'سائیکلو سپورائیسس' (Cyclosporiasis) کے کیسز میں اضافہ دیکھا گیا ہے جس سے خریداری کرنے والوں میں تشویش پائی جاتی ہے۔ *[ARY](https://arynews.tv/cyclosporiasis-cases-keep-shoppers-and-grocers-on-edge-in-michigan)*
+- آنتوں کے بیکٹیریا کا علاج مونگ پھلی کی شدید الرجی کو کم کرنے میں مددگار ثابت ہو سکتا ہے۔ *[ARY](https://arynews.tv/gut-bacteria-treatment-may-ease-severe-peanut-allergies)*
 
 ### دیگر
-- شہزادی لیلی بیٹ اور میگن مارکل سے متعلق تفریحی خبر۔ *[ARY](https://arynews.tv/princess-lilibet-teaches-meghan-markle-a-daily-lesson)*
-- بلیک پنک کی ممبر جیسو (Jisoo) نے اپنے مداحوں کی محبت پر جذباتی اظہار کیا۔ *[ARY](https://arynews.tv/jisoo-gets-emotional-as-blackpink-fans-show-their-affection)*
+- میگن مارکل نے نوجوان لڑکیوں کو اپنے وجدان (instincts) پر بھروسہ کرنے کی تلقین کی۔ *[ARY](https://arynews.tv/meghan-markle-urges-young-girls-to-trust-their-instincts)*
+- بلیٹ لائیولی نے فٹ بال میچ کے دوران اپنے خاندان کی نایاب تصاویر شیئر کیں۔ *[ARY](https://arynews.tv/blake-lively-shares-rare-photos-of-family-at-soccer-match)*
 
