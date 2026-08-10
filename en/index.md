@@ -4,42 +4,36 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 10-Aug-2026 09:04PKT
+Published at: 10-Aug-2026 21:04PKT
 
 Time to read: 3 mins
 
 ### Economy
-- Pakistan’s fiscal position for FY26 remains fragile despite a narrowing deficit, with public debt reaching Rs83.29 trillion. *[Dawn](https://www.dawn.com/news/2021781/in-a-fiscal-conundrum)*
-- Plans are underway to launch an oil storage scheme in partnership with Saudi Arabia, Kuwait, and Qatar to enhance energy security. *[Dawn](https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme)*
-
-### Weather
-- Tarbela Dam has reached its maximum storage level of 1,550 feet due to ongoing rains and snow melting. *[Dawn](https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level)*
+- The government has restructured a Rs115 billion World Bank-funded post-flood rehabilitation project, impacting over 134,000 verified families in Balochistan. *[Dawn](https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly)*
 
 ### Politics
-- The third phase of elections in Azad Jammu and Kashmir (AJK) has begun in the Bagh and Haveli districts of the Poonch Division. *[Dawn](https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-voting-begins-in-poonch-divisions-bagh-and-haveli-districts)*
-- The incumbent PPP government in AJK has appointed seven members to the Public Service Commission shortly before its exit from power. *[Dawn](https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing)*
-- The Punjab cabinet has allocated funds for local government elections, a move aimed at restoring democratic governance. *[Dawn](https://www.dawn.com/news/2021799/genuine-governance)*
-- Interior Minister Mohsin Naqvi has proposed the creation of more provinces and administrative units to address governance failures. *[Dawn](https://www.dawn.com/news/2021796/governance-failures)*
+- PTI leadership and its ally, the TTAP, have scheduled a long march to Islamabad for September 27. *[Dawn](https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi)*
+- Opposition Leader Mehmood Khan Achakzai has urged Prime Minister Shehbaz Sharif to immediately appoint a new chief election commissioner and members for Sindh and Balochistan. *[Dawn](https://www.dawn.com/news/2021914/in-letter-to-pm-achakzai-urges-immediate-appointment-of-new-chief-election-commissioner)*
+- The Islamabad High Court has directed the government to explain the constitutional consequences of delaying presidential approval for judicial appointments. *[Dawn](https://www.dawn.com/news/2021893/delay-in-judicial-appointments-ihc-tells-govt-to-explain-consequences-of-keeping-pms-advice-pending)*
 
 ### National
-- A Rs115 billion World Bank-funded rehabilitation project has been restructured, potentially depriving 134,000 families in Balochistan of promised housing. *[Dawn](https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly)*
-- The Sindh government has ordered a judicial inquiry by a High Court judge into the murder of businessman Mir Raza Ali. *[Dawn](https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister)*
-- The AJK government has placed 10 additional residents on the Fourth Schedule of the Anti-Terrorism Act due to alleged affiliations with the JK-JAAC. *[Dawn](https://www.dawn.com/news/2021813/ten-more-placed-on-fourth-schedule-in-azad-kashmir)*
-- Section 144 has been imposed in parts of South Waziristan and Tank due to security concerns. *[Dawn](https://www.dawn.com/news/2021730/movement-restricted-under-section-144-in-some-areas-of-south-waziristan-tank-on-monday)*
-- A curfew has been imposed in the Surab district of Balochistan until August 15 to address law and order concerns. *[Dawn](https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns)*
-- Pakistani crew members held by Somali pirates on the MT Honour 25 have issued a new distress message seeking government assistance. *[Dawn](https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help)*
+- The Peshawar High Court granted transit bail to Noreen Niazi, sister of Imran Khan, regarding a case filed under the Peca Act 2026. *[Dawn](https://www.dawn.com/news/2021934/peshawar-high-court-grants-transit-bail-to-noreen-niazi-in-peca-case)*
+- The third phase of the AJK elections concluded in the Bagh and Haveli districts of the Poonch Division. *[Dawn](https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-polling-concludes-in-poonch-divisions-bagh-haveli-districts)*
+- A High Court judge has been appointed to investigate the Mir Raza Ali murder case after the Sindh government deferred the decision to form a judicial commission. *[Dawn](https://www.dawn.com/news/2021913/sindh-govt-defers-judicial-commission-decision-on-mir-raza-ali-murder-case-probe) / [Dawn](https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister)*
+- Security forces killed five terrorists, including a key commander, during an intelligence-based operation in the Panjgur district of Balochistan. *[Dawn](https://www.dawn.com/news/2021890/security-forces-kill-5-terrorists-in-intelligence-based-operation-in-balochistans-panjgur)*
+- Police in Upper Swat successfully foiled a late-night terrorist attack on the Chatkekal police post. *[Dawn](https://www.dawn.com/news/2021906/late-night-terrorist-attack-on-upper-swat-police-post-foiled-dpo)*
+- Tarbela Dam has reached its maximum storage level of 1,550 feet due to high-flow seasons from rain and melting snow. *[Dawn](https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level)*
+- The incumbent PPP government in AJK appointed seven members to the Public Service Commission shortly before its exit from power. *[Dawn](https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing)*
 
 ### International
-- The defense pact between Pakistan, Saudi Arabia, and Turkiye is purely defensive and remains open to other regional countries. *[Dawn](https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar)*
-- Houthi rebel attacks in Yemen have killed at least 11 people and targeted a Saudi oil refinery on the Red Sea coast. *[Dawn](https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery)*
-- Pakistan has rejected claims by the Afghan Taliban regarding weapons smuggling into Afghanistan, calling them "frivolous and baseless." *[Dawn](https://www.dawn.com/news/2021712/pakistan-rejects-afghan-taliban-claims-of-weapons-smuggled-into-afghanistan-as-frivolous-baseless)*
+- A powerful 7.4 magnitude earthquake struck Colombia and neighboring Latin American countries, resulting in at least 20 deaths. *[Dawn](https://www.dawn.com/news/2021933/at-least-20-dead-as-major-quake-rocks-colombia-other-countries)*
+- Prime Minister Shehbaz Sharif affirmed that the Pak-Saudi-Turkiye defence pact is intended strictly for defensive purposes to strengthen collective deterrence. *[Dawn](https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression)*
+- Iran's foreign ministry suggested that the recent Pak-Saudi-Turkiye defence deal reflects a change in regional perception toward the United States. *[Dawn](https://www.dawn.com/news/2021886/iran-says-pak-saudi-turkiye-deal-shows-change-in-perception-towards-us)*
+- Malaysian Prime Minister Anwar Ibrahim successfully underwent elective laparoscopic surgery to treat a hernia. *[Dawn](https://www.dawn.com/news/2021885/malaysia-pm-anwar-ibrahim-undergoes-elective-surgery-to-treat-hernia)*
+- A gold rush in Afghanistan's Badakhshan province is significantly altering the local landscapes and the livelihoods of residents. *[Dawn](https://www.dawn.com/news/2021897/afghanistans-gold-rush-upends-lives-landscapes-in-northeastern-badakhshan-province)*
+- Police in Jharkhand, India, used tear gas and batons to disperse thousands of youth protesters demonstrating against alleged irregularities in civil service examinations. *[Dawn](https://www.dawn.com/news/2021895/police-in-indias-jharkhand-fire-tear-gas-use-batons-to-disperse-youth-protesters)*
+- A shake-up in Iran's national security leadership may signal a shift in the country's strategic decision-making processes. *[Dawn](https://www.dawn.com/news/2021930/iranian-national-security-shake-up-signals-tougher-peace-process)*
 
 ### Sports
-- Argentine football legend Lionel Messi has bid farewell to his father, who served as his longtime agent and mentor, following a battle with cancer. *[Dawn](https://www.dawn.com/news/2021719/lionel-messi-bids-farewell-to-father-who-guided-his-glittering-career)*
-
-### Health
-- Former US President Joe Biden’s cancer has metastasized further, according to updates from his son, Hunter Biden. *[Dawn](https://www.dawn.com/news/2021802/former-us-president-joe-bidens-cancer-has-spread-son)*
-
-### Other
-- An opinion piece argues that revolutions are often inevitable when driven by extreme economic inequality and oppressive state force. *[Dawn](https://www.dawn.com/news/2021794/tick-tick-boom)*
+- Three major football confederations—UEFA, CONCACAF, and AFC—rebuked FIFA President Gianni Infantino, stating that the sport belongs to no individual. *[Dawn](https://www.dawn.com/news/2021918/three-football-confederations-rebuke-infantino-say-sport-belongs-to-no-individual)*
 
