@@ -7,46 +7,40 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 09-Aug-2026 21:08PKT 
+ &lrm; 10-Aug-2026 09:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- پاکستان سعودی عرب، کویت اور قطر کے ساتھ مل کر تیل کے ذخیرہ کرنے کے منصوبے پر کام کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme)*
-- ملک گیر ٹرانسپورٹرز کی ہڑتال سے صنعتی پیداوار اور برآمدات متاثر ہونے کا خدشہ ہے۔ *[Dawn](https://www.dawn.com/news/2021626/goods-oil-transporters-strike-threatens-industry-exports)*
-- حکومت کی جانب سے امپورٹ ٹینڈر جاری نہ ہونے کی وجہ سے آٹے کی قیمتوں میں اضافہ جاری ہے۔ *[Dawn](https://www.dawn.com/news/2021625/flour-prices-rising-as-govt-yet-to-issue-import-tender)*
-- ایندھن کی بڑھتی ہوئی قیمتوں کے باعث لاہور میٹرو بس سروس کی معطلی کا خطرہ پیدا ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021653/fuel-cost-hits-lahore-metro-service)*
+- ورلڈ بینک کے 115 ارب روپے کے بحالی منصوبے میں خاموشی سے تبدیلی کی گئی، جس سے بلوچستان کے 134,000 سے زائد متاثرہ خاندانوں کے گھروں کا منصوبہ متاثر ہو سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly)*
+- پاکستان توانائی کی حفاظت کے لیے سعودی عرب، کویت اور قطر کے ساتھ مل کر تیل کے ذخیرہ کرنے کے منصوبے پر کام کرنے کا ارادہ رکھتا ہے۔ *[Dawn](https://www.dawn.com/news/2021711/pakistan-to-partner-with-saudi-arabia-kuwait-qatar-on-oil-storage-scheme)*
+- مالی سال 2026 میں پاکستان کی مالیاتی صورتحال میں استحکام کے باوجود گہری کمزوری اور قرضوں کا بوجھ برقرار ہے۔ *[Dawn](https://www.dawn.com/news/2021781/in-a-fiscal-conundrum)*
 
-### سائنس اور ٹیکنالوجی
-- پاکستان کی ٹیم نے سعودی عرب میں منعقدہ انٹرنیشنل نیوکلیئر سائنس اولمپیاڈ میں ایک گولڈ اور دو سلور تمغے حاصل کیے۔ *[Dawn](https://www.dawn.com/news/2021650/pakistan-bags-three-medals-at-nuclear-science-olympiad)*
+### موسم
+- تربیلا ڈیم بارشوں اور برف پگھلنے کے باعث پانی کے ذخیرہ کرنے کی اپنی انتہائی سطح (1,550 فٹ) تک پہنچ گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level)*
 
 ### سیاست
-- پاکستان، سعودی عرب اور ترکی کے درمیان دفاعی معاہدہ علاقائی ممالک کے لیے کھلا ہے اور یہ خالصتاً دفاعی نوعیت کا ہے۔ *[Dawn](https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar)*
-- ملک کے حکمرانی کے بحران پر تجزیہ کہ صرف صوبوں کی نئی تشکیل سے اصلاحات ممکن نہیں ہوں گی۔ *[Dawn](https://www.dawn.com/news/2021615/wrong-solution-to-the-right-problem)*
-- پی ٹی آئی کے احتجاج کے حوالے سے سیاسی رہنماؤں کی تنقید۔ *[ARY](https://arynews.tv/pti-protest-leadership-critiqued-by-sher-afzal-marwat)*
+- آزاد جموں و کشمیر کے ضلع باغ اور Haveli میں انتخابات کا تیسرا مرحلہ شروع ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2021864/3rd-phase-of-ajk-polls-voting-begins-in-poonch-divisions-bagh-and-haveli-districts)*
+- آزاد کشمیر کی موجودہ حکومت نے اقتدار سے جانے سے قبل پبلک سروس کمیشن کے سات ممبران کا تقرر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing)*
+- پنجاب حکومت نے مقامی حکومت کے انتخابات کے لیے فنڈز مختص کرنے کا فیصلہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021799/genuine-governance)*
+- ملک میں نئے انتظامی یونٹس بنانے کے حوالے سے سیاسی بحث جاری ہے۔ *[Dawn](https://www.dawn.com/news/2021796/governance-failures)*
 
-### قومی
-- بلوچستان کے ضلع سوراب میں امن و امان کی صورتحال کے پیش نظر کرفیو نافذ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns)*
-- میر رضا علی قتل کیس میں نئی تحقیقاتی ٹیم تشکیل دی گئی ہے اور پوسٹ مارٹم رپورٹ میں خودکشی کے امکان کو مسترد کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021701/police-form-new-team-to-probe-mir-raza-alis-case-murder-charge-added-to-fir)*
-- بلوچستان میں سیکورٹی فورسز کے مختلف آپریشنز کے دوران 15 دہشت گرد ہلاک کر دیے گئے۔ *[Dawn](https://www.dawn.com/news/2021695/security-forces-kill-15-terrorists-in-balochistan-ibos-state-media)*
-- کراچی کی ریڈ لائن بی آر ٹی کے کنٹریکٹ کو منسوخ کرنے کے فیصلے کو غیر قانونی قرار دے دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021591/karachis-red-line-suffers-another-blow-as-decision-to-cancel-mosamiyat-to-numaish-contract-declared-invalid)*
-- خیبر پختونخوا کے علاقے لوئر جنوبی وزیرستان میں نامعلوم مسلح افراد نے دو قبائلی رہنماؤں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2021703/2-tribal-elders-shot-dead-in-kps-lower-south-waziristan)*
-- لکی مروت میں دہشت گردوں کے حملے میں ایک پولیس کانسٹیبل شہید اور ایک زخمی ہو گیا۔ *[Dawn](https://www.dawn.com/news/2021694/on-duty-cop-martyred-another-injured-in-lakki-marwat-attack)*
-- کراچی میں اینٹی انکروچمنٹ ڈرائیو کے دوران ہونے والی لڑائی کے بعد 33 افراد کو گرفتار کر لیا گیا۔ *[Dawn](https://www.dawn.com/news/2021587/33-held-booked-under-ata-for-resisting-anti-encroachment-drive)*
+### ملکی
+- میر رضا علی قتل کیس کی تحقیقات کے لیے سندھ ہائی کورٹ کے جج کی قیادت میں عدالتی انکوائری کا فیصلہ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister)*
+- آزاد کشمیر حکومت نے 10 مزید افراد کو دہشت گردی ایکٹ کے تحت چوتھے شیڈول میں شامل کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021813/ten-more-placed-on-fourth-schedule-in-azad-kashmir)*
+- جنوبی وزیرستان اور ٹانک کے بعض علاقوں میں سیکورٹی خدشات کے پیش نظر سیکشن 144 نافذ کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021730/movement-restricted-under-section-144-in-some-areas-of-south-waziristan-tank-on-monday)*
+- بلوچستان کے ضلع سوراب میں امن و امان کی صورتحال کے باعث کرفیو کا نفاذ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021717/curfew-imposed-in-balochistan-surabs-district-over-law-and-order-concerns)*
+- صومالیہ میں قید پاکستانی جہاز کے عملے نے حکومت سے فوری مدد کے لیے دوبارہ فریاد کی ہے۔ *[Dawn](https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help)*
 
 ### بین الاقوامی
-- پاکستان نے افغان طالبان کے اسلحہ اسمگلنگ کے دعووں کو بے بنیاد قرار دے کر مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2021712/pakistan-rejects-afghan-taliban-claims-of-weapons-smuggled-into-afghanistan-as-frivolous-baseless)*
-- صومالیہ کے ساحل پر قزاقوں کے قبضے میں مبتلا پاکستانی عملے نے حکومت سے مدد کے لیے دوبارہ اپیل کی ہے۔ *[Dawn](https://www.dawn.com/news/2021700/pakistani-hostages-held-by-somali-pirates-issue-new-distress-message-seeking-govt-help)*
-- اسرائیلی وزیراعظم نیتن یاہو نے غزہ کے لیے امریکی صدر ٹرمپ کے منصوبے کو مسترد کر دیا۔ *[Dawn](https://www.dawn.com/news/2021708/netanyahu-rejects-trumps-gaza-plan-vows-no-pullout-until-hamas-disarms)*
-- سعودی عرب کے جازان میں آرامکو ریفائنری پر ڈرون حملہ، حوثیوں نے ذمہ داری قبول کی۔ *[Dawn](https://www.dawn.com/news/2021681/fire-extinguished-at-aramco-refinery-in-saudi-arabias-jazan-houthis-claim-attack)*
-- ایران کا کہنا ہے کہ عمان کے ساتھ ہونے والا معاہدہ آخری مراحل میں ہے۔ *[ARY](https://arynews.tv/iran-says-oman-deal-is-in-final-stages)*
-- عالمی ادارہ صحت کے مطابق یوکرین میں ایک گودام پر حملہ کیا گیا ہے۔ *[ARY](https://arynews.tv/who-chief-says-warehouse-hit-in-ukraine)*
+- سابق امریکی صدر جو بائیڈن کے کینسر کے مزید پھیلنے کی اطلاع ملی ہے۔ *[Dawn](https://www.dawn.com/news/2021802/former-us-president-joe-bidens-cancer-has-spread-son)*
+- پاکستان، سعودی عرب اور ترکی کے درمیان دفاعی معاہدہ علاقائی ممالک کے لیے بھی کھلا رکھا جا سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2021671/pak-saudi-turkiye-defence-pact-open-to-any-other-country-in-region-purely-defensive-dpm-dar)*
+- یمن میں حوثی حملوں کے نتیجے میں 11 افراد ہلاک، سعودی آئل ریفائنری کو بھی نشانہ بنایا گیا۔ *[Dawn](https://www.dawn.com/news/2021681/houthi-attacks-kill-11-in-yemen-target-saudi-oil-refinery)*
+- پاکستان نے افغان طالبان کے اسلحہ اسمگلنگ کے دعووں کو بے بنیاد اور من گھڑت قرار دے کر مسترد کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2021712/pakistan-rejects-afghan-taliban-claims-of-weapons-smuggled-into-afghanistan-as-frivolous-baseless)*
 
 ### کھیل
-- پاکستان کے محمد زبیر نے پیرس میں ای اسپورٹس ورلڈ کپ کے دوران ٹیکن 8 ورلڈ چیمپئن شپ کا اعزاز اپنے نام کر لیا۔ *[Dawn](https://www.dawn.com/news/2021692/pakistans-muhammad-zubair-becomes-tekken-8-champion-at-esports-world-cup-in-paris)*
+- عالمی شہرت یافتہ فٹ بال کھلاڑی لیونل میسی کے والد کا انتقال ہو گیا ہے۔ *[Dawn](https://www.dawn.com/news/2021719/lionel-messi-bids-farewell-to-father-who-guided-his-glittering-career)*
 
 ### دیگر
-- جی جی ہادیڈ اور بریڈلے کوپر کے بارے میں شادی کی افواہیں گردش کرنے لگی ہیں۔ *[ARY](https://arynews.tv/gigi-hadid-and-bradley-cooper-spark-secret-wedding-rumors-with-matching-paris-style)*
-- نیٹ فلکس پر ڈیوڈ فنچر کے 'سکویڈ گیم' پروجیکٹ میں تاخیر کا سامنا ہے۔ *[ARY](https://arynews.tv/david-finchers-squid-game-project-faces-delay-at-netflix)*
-- برطانوی شاہی خاندان سے متعلق مختلف خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/lady-louise-windsor-unveils-transformative-new-haircut-marking-next-royal-chapter)*
+- معاشی عدم مساوات اور حکومتی جبر کے نتیجے میں ہونے والے سماجی انقلابات پر تجزیہ۔ *[Dawn](https://www.dawn.com/news/2021794/tick-tick-boom)*
 
