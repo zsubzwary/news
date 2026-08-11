@@ -7,50 +7,43 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 10-Aug-2026 21:10PKT 
+ &lrm; 11-Aug-2026 09:08PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- بلوچستان میں ورلڈ بینک کے 115 ارب روپے کے بحالی منصوبے کی خاموشی سے دوبارہ تشکیل۔ *[Dawn](https://www.dawn.com/news/2021814/rs115bn-wb-funded-rehabilitation-project-restructured-quietly)*
+- مشرق وسطیٰ میں بدلتی ہوئی صورتحال سے عالمی توانائی اور اشیاء کی قیمتوں میں اضافے کا خدشہ، اسٹیٹ بینک نے وارننگ جاری کر دی۔ *[Dawn](https://www.dawn.com/news/2022040/sbp-warns-of-price-spirals)*
+- حکومت نے 11 اگست کے لیے پیٹرول اور ڈیزل کی قیمتوں میں کوئی تبدیلی نہیں کی۔ *[Dawn](https://www.dawn.com/news/2021950/govt-leaves-petrol-diesel-prices-unchanged-for-aug-11)*
+- جولائی کے دوران بیرون ملک مقیم پاکستانیوں کی جانب سے ترسیلات زر میں 13 فیصد اضافہ ہوا اور یہ 3.6 ارب ڈالر تک پہنچ گئی۔ *[Dawn](https://www.dawn.com/news/2022042/remittances-rise-13pc-to-36bn-in-july)*
+- مال اور تیل کے ٹرانسپورٹرز کی ہڑتال تیسرے روز بھی جاری ہے جس سے ملک بھر میں کارگو کی نقل و حمل متاثر ہو رہی ہے۔ *[Dawn](https://www.dawn.com/news/2022041/goods-oil-transporters-strike-continues)*
 
 ### سیاست
-- پی ٹی آئی اور ٹی ٹی اے پی کی 27 ستمبر کو اسلام آباد کے لیے لانگ مارچ کی تیاری۔ *[Dawn](https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi)*
-- محمود خان اچکزئی نے چیف الیکشن کمشنر کے فوری تقرر کا مطالبہ کیا۔ *[Dawn](https://www.dawn.com/news/2021914/in-letter-to-pm-achakzai-urges-immediate-appointment-of-new-chief-election-commissioner)*
-- اسلام آباد ہائی کورٹ نے عدالتی تقرریوں میں تاخیر پر حکومت سے وضاحت طلب کی۔ *[Dawn](https://www.dawn.com/news/2021893/delay-in-judicial-appointments-ihc-tells-govt-to-explain-consequences-of-keeping-pms-advice-pending)*
-- پی ٹی آئی رہنماؤں کے درمیان واٹس ایپ گروپ میں پارٹی معاملات پر جھگڑا۔ *[ARY](https://arynews.tv/pti-leaders-clash-in-whatsapp-group-over-party-matters)*
-- کسانوں نے مریم نواز کے استعفیٰ کے مطالبے پر ملک گیر احتجاج کی وارننگ دی۔ *[ARY](https://arynews.tv/maryam-nawaz-resignation-demanded-by-farmers)*
+- صدر آصف علی زرداری نے مختلف ہائی کورٹس کے لیے اضافی ججوں کی تقرری اور تصدیق کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2022098/president-zardari-approves-additional-judges-appointments-to-high-courts-after-days-long-delay)*
+- پاکستان کسان اتحاد نے وزیر اعلیٰ پنجاب کے استعفیٰ کا مطالبہ کرتے ہوئے 25 ستمبر کو 'ملین مارچ' کرنے کا انتباہ دیا۔ *[Dawn](https://www.dawn.com/news/2022038/farmers-threaten-protest-march-to-save-agriculture)*
+- آزاد کشمیر کے انتخابات کے تیسرے مرحلے میں پونچھ کے حلقوں میں پی ایم ایل این کی کامیابی کے امکانات ہیں۔ *[Dawn](https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-pml-n-poised-for-gains-in-poonch-amid-rigging-allegations)*
+- پی ٹی آئی اور اس کے اتحادی ٹی ٹی اے پی نے 27 ستمبر کو اسلام آباد کے لیے لانگ مارچ کی تیاری مکمل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2021943/pti-leadership-ttap-on-board-for-september-27-long-march-to-islamabad-sohail-afridi)*
+- اپوزیشن لیڈر محمود خان اچکزئی نے چیف الیکشن کمشنر کے فوری تقرر کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2021914/in-letter-to-pm-achakzai-urges-immediate-appointment-of-new-chief-election-commissioner)*
 
 ### قومی
-- وزیراعظم شہباز شریف نے پاک، سعودی اور ترکی کے دفاعی معاہدے کو صرف دفاعی مقاصد کے لیے قرار دیا۔ *[Dawn](https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression-pm-shehbaz)*
-- پی ای سی اے کیس میں نورین نیازی کو ہائی کورٹ نے عبوری ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/2021934/peshawar-high-court-grants-transit-bail-to-noreen-niazi-in-peca-case)*
-- آزاد جموں و کشمیر کے انتخابات کے تیسرے مرحلے میں پولنگ کا اختتام۔ *[Dawn](https://www.dawn.com/news/2021864/3rd-phase-of-ajk-elections-polling-concludes-in-poonch-divisions-bagh-haveli-districts)*
-- سندھ حکومت نے میر رضا علی قتل کیس کے تحقیقاتی کمیشن کے فیصلے کو ملتوی کر دیا۔ *[Dawn](https://www.dawn.com/news/2021913/sindh-govt-defers-judicial-commission-decision-on-mir-raza-ali-murder-case-probe)*
-- بلوچستان کے ضلع پنجگور میں سیکیورٹی فورسز نے 5 دہشت گردوں کو ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2021890/security-forces-kill-5-terrorists-in-intelligence-based-operation-in-balochistans-panjgur)*
-- سوات میں پولیس چوکی پر دہشت گردوں کا حملہ ناکام ہو گیا۔ *[Dawn](https://www.dawn.com/news/2021906/late-night-terrorist-attack-on-upper-swat-police-post-foiled-dpo)*
-- میر رضا علی قتل کیس کی تحقیقات کے لیے ہائی کورٹ کے جج مقرر کیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2021856/high-court-judge-to-investigate-mir-raza-murder-case-says-home-minister)*
-- تربیلا ڈیم پانی کے ذخیرہ کرنے کی اپنی زیادہ سے زیادہ سطح پر پہنچ گیا۔ *[Dawn](https://www.dawn.com/news/2021826/tarbela-dam-attains-maximum-storage-level)*
-- آزاد کشمیر حکومت نے پبلک سروس کمشن کے ممبران کا تقرر کر دیا۔ *[Dawn](https://www.dawn.com/news/2021823/ajk-govt-appoints-public-service-commission-members-amid-questions-over-timing)*
+- ورلڈ بینک نے بلوچستان میں فنڈز کی تبدیلی پر شدید عدم اطمینان کا اظہار کرتے ہوئے غربت بڑھنے کا خدشہ ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022053/world-bank-unhappy-over-fund-diversion-from-balochistan)*
+- سپریم کورٹ نے فیصلہ دیا ہے کہ انکم ٹیکس آرڈیننس 2001 کے تحت سابقہ مدت کے لیے جرمانے عائد کرنا غیر قانونی ہے۔ *[Dawn](https://www.dawn.com/news/2022052/retrospective-tax-penalties-are-unlawful-supreme-court)*
+- وفاقی کابینہ نے نیشنل ہاؤسنگ پالیسی 2026 اور سائبر سیکیورٹی فریم ورک کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2022051/cabinet-okays-housing-policy-cybersecurity-framework)*
+- میر رضا علی کے قتل کے کیس میں نئی تحقیقاتی ٹیم نے باقاعدہ کارروائی شروع کر دی ہے۔ *[Dawn](https://www.dawn.com/news/2021913/new-investigation-team-initiates-formal-proceedings-into-mir-raza-ali-murder)*
+- پشاور ہائی کورٹ نے پی کا ایکیسٹ کیس میں نورین نیازی کو عبوری ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/2021934/peshawar-high-court-grants-transit-bail-to-noreen-niazi-in-peca-case)*
 
 ### بین الاقوامی
-- ایران کا کہنا ہے کہ پاک، سعودی اور ترکی کا معاہدہ امریکہ کے حوالے سے بدلتے ہوئے نظریات کی علامت ہے۔ *[Dawn](https://www.dawn.com/news/2021886/iran-says-pak-saudi-turkiye-deal-shows-change-in-perception-towards-us)*
-- کولمبیا میں شدید زلزلے کے نتیجے میں کم از کم 20 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2021933/at-least-20-dead-as-major-quake-rocks-colombia-other-countries)*
-- بھارت کی ریاست جھارکھنڈ میں امتحانی دھاندلی کے خلاف نوجوانوں کا احتجاج۔ *[Dawn](https://www.dawn.com/news/2021895/police-in-indias-jharkhand-fire-tear-gas-use-batons-to-disperse-youth-protesters)*
-- ایران میں قومی سلامتی کے ڈھانچے میں تبدیلی کے آثار۔ *[Dawn](https://www.dawn.com/news/2021930/iranian-national-security-shake-up-signals-tougher-peace-process)*
-- افغانستان کے صوبہ بدخشان میں سونے کی کان کنی کے حوالے سے جاری ہنگامہ۔ *[Dawn](https://www.dawn.com/news/2021897/afghanistans-gold-rush-upends-lives-landscapes-in-northeastern-badakhshan-province)*
-- عمان کے ساحل کے قریب تیل کے اخراج سے ماحولیاتی بحران۔ *[ARY](https://arynews.tv/oman-faces-environmental-crisis-from-oil-slick)*
+- کولمبیا میں شدید زلزلے کے نتیجے میں کم از کم 111 افراد جاں بحق اور متعدد زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2022070/major-earthquake-claims-111-lives-in-colombia)*
+- وزیراعظم شہباز شریف نے پاک-سعودی-ترکی دفاعی معاہدے کو محض دفاعی مقاصد کے لیے قرار دیا۔ *[Dawn](https://www.dawn.com/news/2021923/pak-saudi-turkiye-defence-pact-entirely-for-defensive-purposes-not-aggression-pm-shehbaz)*
+- بھارت کی ریاست جھارکھنڈ میں امتحانات میں دھاندلی کے خلاف احتجاج پر پولیس نے آنسو گیس اور لاٹھی چارج کا استعمال کیا۔ *[Dawn](https://www.dawn.com/news/2021895/police-in-indias-jharkhand-fire-tear-gas-use-batons-to-disperse-youth-protesters)*
+- ایران کا کہنا ہے کہ پاک-سعودی-ترکی دفاعی معاہدہ علاقائی ممالک کے امریکہ کے حوالے سے بدلتے ہوئے نظریات کی علامت ہے۔ *[Dawn](https://www.dawn.com/news/2021886/iran-says-pak-saudi-turkiye-deal-shows-change-in-perception-towards-us)*
 
 ### کھیل
-- فٹ بال کنفیڈریشنز نے فیفا کے صدر انفینٹینو کے اقدامات پر اعتراضات اٹھائے۔ *[Dawn](https://www.dawn.com/news/2021918/three-football-confederations-rebuke-infantino-say-sport-belongs-to-no-individual)*
+- تین فٹ بال کنفیڈریشنز نے فیفا صدر انفینٹینو کو تنقید کا نشانہ بناتے ہوئے کہا کہ کھیل کسی فرد کی ملکیت نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2021918/three-football-confederations-rebuke-infantino-say-sport-belongs-to-no-individual)*
 
 ### صحت
-- ملائیشیا کے وزیراعظم انور ابراہیم کی ہرنیا کی کامیاب سرجری۔ *[Dawn](https://www.dawn.com/news/2021885/malaysia-pm-anwar-ibrahim-undergoes-elective-surgery-to-treat-hernia)*
+- ڈان میڈیا پاکستان میں غذائی قلت کے مسائل پر بات کرنے کے لیے 'ایکٹ فار نیوٹریشن' کانفرنس منعقد کرے گا۔ *[Dawn](https://www.dawn.com/news/2022065/dawnmedia-to-host-act-for-nutrition)*
+- امریکی ہیلتھ ایجنسی FDA نے خوراک میں استعمال ہونے والے کیمیکلز (additives) کی نگرانی بڑھانے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/fda-moves-to-increase-oversight-of-food-additives)*
 
 ### دیگر
-- کھانے پینے کے مراکز اور شادی ہالوں پر بھاری جرمانے عائد کیے جا سکتے ہیں۔ *[ARY](https://arynews.tv/eateries-and-wedding-halls-to-face-rs-1-million-over-violation)*
-- ٹیلر سوئفٹ اور ٹریوس کیلس کی نایاب ظہور۔ *[ARY](https://arynews.tv/taylor-swift-travis-kelce-make-rare-appearance-after-wedding)*
-- شہزادہ ولیم اور کیٹ کو رائل فاؤنڈیشن کے لیے مالی معاونت حاصل ہوئی۔ *[ARY](https://arynews.tv/prince-william-and-kate-receive-financial-boost-for-royal-foundation-during-summer-break)*
-- کنگ چارلس نے موسیقی کے عظیم فنکاروں کے ساتھ جشن منایا۔ *[ARY](https://arynews.tv/king-charles-celebrates-beyonce-raye-and-music-icons-as-the-kings-trust-marks-50-years)*
-- اداکارہ شینن الزبتھ کی زندگی کے بارے میں اپ ڈیٹ۔ *[ARY](https://arynews.tv/shannon-elizabeths-life-after-american-pie-see-how-the-star-looks-now)*
-- کم اور ٹیلر کے درمیان شادی کا تنازع۔ *[ARY](https://arynews.tv/kim-vs-taylor-the-wedding-battle-begins)*
+- تفریحی دنیا سے متعلق مختلف خبریں بشمول ڈیمی لواتو کی نئی فلم، میگن مارکل کی کال، اور برڈ پٹ سے متعلق خبریں شامل ہیں۔ *[ARY](https://arynews.tv/demi-lovato-reprises-mitchie-torres-role-in-camp-rock-3-with-jonas-brothers)*
 
