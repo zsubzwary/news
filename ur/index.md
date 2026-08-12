@@ -7,51 +7,40 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 11-Aug-2026 21:09PKT 
+ &lrm; 12-Aug-2026 09:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پیٹرول اور ڈیزل کی قیمتوں کے حوالے سے مذاکرات ناکام ہونے کے بعد سامان لے جانے والے ٹرانسپورٹرز کی ہڑتال جاری ہے۔ *[Dawn](https://www.dawn.com/news/2022155/goods-transporters-to-continue-strike-as-negotiations-with-govt-end-without-resolution)*
-- ورلڈ بینک نے بلوچستان میں سیلاب متاثرین کے لیے مختص فنڈز کو انفراسٹرکچر منصوبوں پر خرچ کرنے پر شدید عدم اطمینان کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022053/world-bank-unhappy-over-fund-diversion-from-balochistan)*
-
-### سائنس اور ٹیکنالوجی
-- اسپاٹی فائی (Spotify) نے پرسنلائزڈ سفارشات میں AI سے تیار کردہ فنکاروں پر پابندی لگا دی ہے۔ *[ARY](https://arynews.tv/spotify-bans-ai-generated-artists-from-recommendations)*
-- 'اساسنز کریڈ بلیک فلیگ' کے ایک نئے موڈ نے کھلاڑیوں کے لیے پسندیدہ غیر مسلح لڑائی کا فیچر دوبارہ بحال کر دیا ہے۔ *[ARY](https://arynews.tv/assassins-creed-black-flag-resynced-mod-restores-unarmed-combat-feature)*
-
-### سیاست
-- آزاد جموں و کشمیر کے دو حلقوں میں کچھ پولنگ اسٹیشنوں پر دوبارہ پولنگ کا حکم دے دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022158/re-polling-set-for-aug-15-at-some-polling-stations-in-two-bagh-constituencies-of-ajk)*
-- صدر ظریف نے مختلف ہائی کورٹس کے لیے 19 اضافی ججز کی تعیناتی کی منظوری دے کر طویل عرصے سے جاری تعطل ختم کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022098/president-zardari-approves-additional-judges-appointments-to-high-courts-ending-weeks-long-deadlock)*
-- جماعت اسلامی نے سابق ایف بی آر چیف شبیر زیدی کو ایک ارب روپے کا ہتک عزت کا نوٹس بھیج دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022128/ji-sends-rs1bn-defamation-notice-to-ex-fbr-chief-shabbar-zaidi)*
-- کسان تنظیموں نے پنجاب کے وزیر اعلیٰ کے استعفیٰ کا مطالبہ کرتے ہوئے ملک گیر مارچ کی دھمکی دی ہے۔ *[Dawn](https://www.dawn.com/news/2022038/farmers-threaten-protest-march-to-save-agriculture)*
-- پاکستان میں نیشنل ہاؤسنگ پالیسی 2026 کو منظور کر لیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-approves-national-housing-policy-2026)*
-
-### قومی خبریں
-- راولپنڈی کے مال روڈ پر سیکیورٹی اہلکاروں پر فائرنگ کرنے والے شخص کو پولیس نے ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2022145/man-shot-dead-on-rawalpindis-mall-road-after-opening-fire-on-security-personnel)*
-- صدر ظریف نے جنرل عامر رضا کو نشانِ امتیاز (ملٹری) سے نوازا۔ *[Dawn](https://www.dawn.com/news/2022162/president-zardari-confers-nishan-i-imtiaz-on-national-strategic-command-commander-gen-aamer-raza)*
-- کوٹ ادو میں شادی کی تقریب کے بعد ایک رکشہ کنال میں گرنے سے 12 افراد، جن میں چھ بچے شامل ہیں، ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022151/at-least-12-dead-as-loader-rickshaw-carrying-wedding-procession-falls-into-canal-in-kot-addu)*
-- لاہور ہائی کورٹ میں 10 نئے اضافی ججوں نے حلف اٹھایا۔ *[Dawn](https://www.dawn.com/news/2022156/10-additional-judges-sworn-in-at-lhc-after-presidents-go-ahead)*
-- ٹک ٹاکر رجب بٹ اور چار دیگر ملزمان کو جنسی زیادتی کے مقدمے میں عدالت نے طلب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022141/lahore-court-sets-august-18-to-indict-tiktoker-rajab-butt-4-others-in-sexual-assault-case)*
-- این سی سی آئی اے نے شرجیل میمن کی شکایت پر چار افراد کو سوشل میڈیا پر بدنامی کے الزام میں طلب کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022114/nccia-summons-4-individuals-on-sharjeel-memons-complaint-in-connection-with-mir-razas-case)*
-- کراچی کے ایک نوجوان کو سوشل میڈیا پر جھوٹی معلومات پھیلانے کے جرم میں ایک سال قید کی سزا سنائی گئی۔ *[Dawn](https://www.dawn.com/news/2022016/karachi-youth-jailed-for-one-year-for-spreading-false-fabricated-information-on-social-media-to-incite-violence)*
+- حکومت نے پیٹرول کی قیمت میں 1.70 روپے کی کمی اور ہائی اسپیڈ ڈیزل کی قیمت میں 1.39 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139)*
+- پیٹرولیم ڈیلرز نے حکومت کو 72 گھنٹے کا الٹی میٹم جاری کر دیا ہے، جس کی تعمیل نہ ہونے پر ملک بھر میں پٹرول پمپس بند کیے جا سکتے ہیں۔ *[Dawn](https://www.dawn.com/news/2022267/petroleum-dealers-issue-72-hour-ultimatum)*
+- پرائیویٹائزیشن کمیشن نے کراچی اور لاہور ایئرپورٹس کی آؤٹ سورسنگ کے لیے فنانشل ایڈوائزر کے تقرر کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2022170/privatisation-commission-approves-financial-adviser-for-outsourcing-karachi-lahore-airports)*
+- حکومت کے ساتھ مذاکرات ناکام ہونے کے بعد سامان لانے والے مال برداروں کی ہڑتال جاری رہے گی۔ *[Dawn](https://www.dawn.com/news/2022155/goods-transporters-to-continue-strike-as-negotiations-with-govt-end-without-resolution)*
 
 ### بین الاقوامی
-- کولمبیا میں زلزلے کے نتیجے میں ہلاکتوں کی تعداد بڑھ کر 224 ہو گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022111/colombia-earthquake-death-toll-surges-to-224-as-search-for-survivors-continues)*
-- شام کی عدالت نے سابق صدر بشار الاسد کو جنگی جرائم کے الزامات کے تحت غیر موجودگی میں موت کی سزا سنا دی۔ *[Dawn](https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia)*
-- بحرین کے وزیر خارجہ نے مکہ دفاعی معاہدے پر پاکستان کو مبارکباد دی اور پاکستان کے دورے کی خواہش ظاہر کی۔ *[Dawn](https://www.dawn.com/news/2022117/bahrain-fm-congratulates-dar-on-makkah-defence-pact-expresses-desire-to-visit-pakistan)*
-- کویت نے اسکولوں کے لیے نئے قوانین تجویز کیے ہیں۔ *[ARY](https://arynews.tv/kuwait-proposes-new-regulations-for-schools)*
+- اسلام آباد عالمی تنازعات کے حل کے لیے جاری ثالثی کے عمل کو دوبارہ فعال کرنے کی کوشش کر رہا ہے۔ *[Dawn](https://www.dawn.com/news/2022296/islamabad-looking-to-breathe-new-life-into-mediation-push)*
+- خلیج کے پانیوں میں متعدد بحری جہازوں پر حملوں کے نتیجے میں تین پاکستانیوں سمیت چھ افراد ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022293/3-pakistanis-die-as-multiple-ships-attacked-in-gulf-waters)*
+- ڈونلڈ ٹرمپ ایران سے ملنے والی دھمکیوں کے باعث ترکیہ سے ایک چھوٹے طیارے میں خفیہ طور پر روانہ ہوئے۔ *[Dawn](https://www.dawn.com/news/2022270/trump-secretly-flew-smaller-jet-out-of-turkiye-amid-iran-threat-washington-post)*
+- پاکستان نے اقوام متحدہ میں اسرائیل کے مغربی کنارے میں بستیوں کی توسیع کے خلاف سخت موقف اپنایا ہے اور عالمی برادری سے دباؤ ڈالنے کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022274/pakistan-warns-un-security-council-of-tipping-point-in-occupied-west-bank)*
+- شام کی عدالت نے سابق صدر بشار الاسد کو جنگی جرائم کے الزامات کے تحت غیر موجودگی میں موت کی سزا سنائی ہے۔ *[Dawn](https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia)*
+- پاکستان، ترکیہ اور سعودی عرب کے درمیان نیا دفاعی معاہدہ علاقائی سیکورٹی کے منظر نامے کو تبدیل کر سکتا ہے۔ *[Dawn](https://www.dawn.com/news/2022309-new-regional-security-order)*
+- پاکستان نے ایران کو یقین دلایا ہے کہ سعودی عرب اور ترکیہ کے ساتھ نیا دفاعی معاہدہ ایران کے خلاف نہیں ہے۔ *[Dawn](https://www.dawn.com/news/2022312/mideast-outreach)*
+- بھارت میں ایئر انڈیا کی پرواز کے اچانک بلندی سے گرنے کے واقعے کی تحقیقات جاری ہیں، جس میں پائلٹ کے نشے کے استعمال کا شبہ ظاہر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022171/india-probes-flight-plunge-as-pilot-faces-drug-test-scrutiny)*
 
-### کھیل
-- ڈونلڈ ٹرمپ نے فیفا کے صدر انفینٹینو کو عہدے سے ہٹانے کے فیصلے کو ایک "غلطی" قرار دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022126/trump-says-would-be-terrible-mistake-to-oust-embattled-fifa-president-infantino)*
+### قومی
+- سندھ کے وزیر اعلیٰ نے میر رضا علی قتل کیس میں پولیس اور میڈیکو لیگل کوتاہیوں پر کارروائی کا وعدہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses)*
+- پی ٹی آئی نے عمران خان کی صحت اور زیر التواء مقدمات کے حوالے سے سپریم کورٹ کے باہر احتجاج کیا، جسے عدالت کی یقین دہانی کے بعد ختم کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2022272/pti-protests-outside-supreme-court-over-imrans-health-pending-cases)*
+- راولپنڈی میں سیکیورٹی اہلکاروں پر فائرنگ کرنے والے شخص کو پولیس نے ہلاک کر دیا۔ *[Dawn](https://www.dawn.com/news/2022145/man-shot-dead-on-rawalpindis-mall-road-after-opening-fire-on-security-personnel)*
+- صدر زرداری نے جنرل عامر رضا کو نشانِ امتیاز (فوجی) سے نوازا۔ *[Dawn](https://www.dawn.com/news/2022162/president-zardari-confers-nishan-i-imtiaz-on-national-strategic-command-commander-gen-aamer-raza)*
+- کوٹ ادو میں شادی کی تقریب کے بعد لوڈر رکشہ کنال میں گرنے سے 12 افراد، جن میں 6 بچے شامل ہیں، ہلاک ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022151/at-least-12-dead-as-loader-rickshaw-carrying-wedding-procession-falls-into-canal-in-kot-addu)*
+- سینیٹ کی قائمہ کمیٹی نے کلائمٹ چینج اتھارٹی کی ضرورت اور اس کے دائرہ اختیار پر سوالات اٹھائے ہیں۔ *[Dawn](https://www.dawn.com/news/2022289/senate-panel-questions-need-for-climate-change-authority)*
+- کراچی میں ایک بلند و بالا عمارت سے پھینکا جانے کے نتیجے میں ایک نوزائیدہ بچہ مردہ ملا۔ *[ARY](https://arynews.tv/karachi-gulshan-e-iqbal-case)*
 
 ### صحت
-- لاہور کے ہسپتالوں میں معدے کی بیماری (گیسٹرو اینٹرائٹس) کے مریضوں میں اچانک اضافہ دیکھا جا رہا ہے۔ *[Dawn](https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports)*
-- امریکہ میں سالمونیلا کے پھیلاؤ کے بعد تازہ سبزیوں کے حوالے سے نئی حکومتی ہدایات جاری کی گئی ہیں۔ *[ARY](https://arynews.tv/us-new-guidance-on-produce-salmonella-%e2%81%a0cyclosporiasis-outbreak)*
-- امریکہ میں بیف (گوشت) کے کچھ مصنوعات کو مارکیٹ سے واپس لینے کا حکم دیا گیا ہے۔ *[ARY](https://arynews.tv/beef-recalled-in-us-see-the-affected-products)*
+- لاہور کے ہسپتالوں میں گیسٹرو اینٹرائٹس (پیٹ کے امراض) کے مریضوں میں اچانک اضافہ رپورٹ ہوا۔ *[Dawn](https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports)*
 
 ### دیگر
-- پاکستان میں طلباء کو سی آئی ای (CIE) اے لیول کے نتائج موصول ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022121/not-an-ordinary-year-pakistani-students-receive-their-cie-as-amp-a-level-results-for-june-series)*
-- پاکستان اور امریکہ نے فل برائٹ اور ایچ ای سی (HEC) کے درمیان شراکت داری کو تجدید بخشی ہے۔ *[ARY](https://arynews.tv/pakistan-and-united-states-renew-fulbright-hec-partnership)*
-- ٹیلر سوئفٹ کے عروسی لباس سے متعلق سوشل میڈیا پر بحث و مباحثہ جاری ہے۔ *[ARY](https://arynews.tv/taylor-swift-wedding-dress-buzz-gets-bridal-brands-talking)*
-- کائیلی جینیئر اور تیموتھی چalamet کی شادی کے حوالے سے افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/kylie-jenner-timothee-chalamet-attended-tom-holland-and-zendaya-wedding)*
+- نکولس ہولٹ 'ہیری پوٹر' ریبوٹ میں گلڈروی لاک ہارٹ کا کردار ادا کریں گے۔ *[ARY](https://arynews.tv/nicholas-hoult-takes-on-role-of-gilderoy-lockhart-in-harry-potter)*
+- 'ہاؤس آف دی ڈریگن' کا چوتھا سیزن مقررہ شیڈول کے مطابق تیار ہو رہا ہے۔ *[ARY](https://arynews.tv/house-of-the-dragon-season-4-progressing-on-schedule-confirms-showrunner-ryan-condal)*
+- برطانیہ اور آئرلینڈ کے ایک پاور پروجیکٹ کو ایک یادگار کے گرد سے راستہ بدلنے پر مجبور کیا گیا۔ *[ARY](https://arynews.tv/potterheads-force-430m-uk-ireland-power-project-to-reroute-around-dobbys-memorial)*
 
