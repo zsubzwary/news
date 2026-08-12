@@ -4,46 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Aug-2026 09:03PKT
+Published at: 12-Aug-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government has reduced the petrol price by Rs1.70 while increasing the high-speed diesel price by Rs1.39. *[Dawn](https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139)*
-- The Pakistan Petroleum Dealers Association has issued a 72-hour ultimatum to the government, threatening indefinite petrol pump shutdowns if margin demands are not met. *[Dawn](https://www.dawn.com/news/2022267/petroleum-dealers-issue-72-hour-ultimatum)*
-- The Privatisation Commission has approved EY-Parthenon as the financial adviser for the outsourcing of Lahore and Karachi airports. *[Dawn](https://www.dawn.com/news/2022170/privatisation-commission-approves-financial-adviser-for-outsourcing-karachi-lahore-airports)*
-- Negotiations between the federal government and the All Pakistan Goods Transport Ittehad ended without a resolution, leading to continued strikes by transporters. *[Dawn](https://www.dawn.com/news/2022155/goods-transporters-to-continue-strike-as-negotiations-with-govt-end-without-resolution)*
+- Gold prices rebound toward a 10-week high as markets anticipate US inflation data. *[Dawn](https://www.dawn.com/news/2022343/gold-rebounds-towards-10-week-high-as-markets-brace-for-us-inflation-data)*
+- The government has reduced petrol prices by Rs1.70 while increasing high-speed diesel by Rs1.39. *[Dawn](https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139)*
+- Petroleum dealers have issued a 72-hour ultimatum to the government regarding retail margin increases. *[Dawn](https://www.dawn.com/news/2022267/petroleum-dealers-issue-72-hour-ultimatum)*
+- Latest updates on the US Dollar exchange rate in Pakistan. *[ARY](https://arynews.tv/us-dollar-rate-today-in-pakistan-august-12-2026)*
+
+### Science & Technology
+- Anthropic is introducing invisible AI watermarks to its Claude chatbot to comply with European Union regulations. *[Dawn](https://www.dawn.com/news/2022365/anthropic-unveils-ai-watermarks-to-comply-with-eu-law)*
+- Millions in Iceland and Spain gathered to witness a total solar eclipse, amidst heatwave and wildfire warnings. *[Dawn](https://www.dawn.com/news/2022388/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse)*
+- Scientific analysis explores the deadly nature of earthquakes caused by tectonic plate friction. *[Dawn](https://www.dawn.com/news/2022382/what-makes-earthquakes-so-deadly)*
+- An El Nino climate study reveals the connection between land water and sea-level rise. *[ARY](https://arynews.tv/el-nino-climate-study-reveals-how-land-water-drives-sea-level-rise)*
+- A new mathematical model explains the synchronized behavior of birds during the dawn chorus. *[ARY](https://arynews.tv/mathematical-model-explains-why-birds-sing-in-the-dawn-chorus)*
+
+### Weather
+- The Met Office forecasts fresh monsoon rain spells for the upper and central parts of Pakistan from August 13-15. *[Dawn](https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15)*
 
 ### Politics
-- PTI staged a protest outside the Supreme Court regarding Imran Khan's health and legal delays, calling it off after the court registrar promised early hearings. *[Dawn](https://www.dawn.com/news/2022272/pti-protests-outside-supreme-court-over-imrans-health-pending-cases)*
-- A Senate standing committee has questioned the continued need for the Pakistan Climate Change Authority due to overlapping functions with the Ministry of Climate Change. *[Dawn](https://www.dawn.com/news/2022289/senate-panel-questions-need-for-climate-change-authority)*
+- PM Shehbaz Sharif stated Pakistan is still far from becoming a social welfare state and inaugurated several youth-centric initiatives. *[Dawn](https://www.dawn.com/news/2022368/pakistan-still-far-from-becoming-a-social-welfare-state-pm-shehbaz)*
+- A US State Department report calls for improved parliamentary oversight of Pakistan's public finances and fiscal transparency. *[Dawn](https://www.dawn.com/news/2022331/us-report-calls-for-strengthening-parliamentary-oversight-of-pakistans-public-finances)*
+- Shahid Khaqan Abbasi has challenged the ECP's decision to delist the Awaam Pakistan Party. *[ARY](https://arynews.tv/awaam-pakistan-party-challenges-delisting-decision)*
+- The Prime Minister emphasized the importance of long-term strategic planning through the Pakistan State of Future Index. *[Dawn](https://www.dawn.com/news/2022377/pm-takes-notice-of-future-after-ordering-it-cancelled)*
 
 ### National
-- Sindh Chief Minister Murad Ali Shah has promised a fair investigation into the murder of businessman Mir Raza Ali, addressing concerns regarding police and medico-legal lapses. *[Dawn](https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses)*
-- A man was shot dead by law enforcement in Rawalpindi after allegedly opening fire on security personnel. *[Dawn](https://www.dawn.com/news/2022145/man-shot-dead-on-rawalpindis-mall-road-after-opening-fire-on-security-personnel)*
-- President Asif Ali Zardari conferred the Nishan-i-Imtiaz (Military) upon National Strategic Command Commander General Aamer Raza. *[Dawn](https://www.dawn.com/news/2022162/president-zardari-confers-nishan-i-imtiaz-on-national-strategic-command-commander-gen-aamer-raza)*
-- At least 12 people, including six minors, died when a loader rickshaw carrying a wedding procession fell into the Muzaffargarh Canal in Kot Addu. *[Dawn](https://www.dawn.com/news/2022151/at-least-12-dead-as-loader-rickshaw-carrying-wedding-procession-falls-into-canal-in-kot-addu)*
-- A newborn was found dead after reportedly being thrown from a high-rise building in Karachi. *[ARY](https://arynews.tv/karachi-gulshan-e-iqbal-case)*
-- New details have emerged via a taxi driver regarding the final journey of Mir Raza Ali. *[ARY](https://arynews.tv/mir-raza-ali-a-timeline-of-his-last-ride)*
-- The father of Mir Raza Ali has publicly urged the police to bring those responsible for the murder to justice. *[ARY](https://arynews.tv/mir-raza-ali-father-urges-police-to-bring-killers-to-justice)*
+- At least 18 terrorists were killed in Balochistan's Surab district during a security operation. *[Dawn](https://www.dawn.com/news/2022383/18-terrorists-killed-in-balochistans-surab-district-ispr)*
+- The Minister of State for Interior criticized PTI leadership following a shooting incident involving security personnel in Rawalpindi. *[Dawn](https://www.dawn.com/news/2022361/shooting-on-security-personnel-in-pindi-minister-says-pti-leadership-cannot-absolve-themselves-of-responsibility)*
+- Three police officers were arrested for their alleged involvement in a prisoner's escape from Adiala jail. *[Dawn](https://www.dawn.com/news/2022355/3-cops-arrested-for-alleged-role-in-prisoners-escape-in-rawalpindi)*
+- Sindh Chief Minister Murad Ali Shah promised a fair investigation into the murder of businessman Mir Raza Ali. *[Dawn](https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses)*
+- Three new judges have been appointed to the Islamabad High Court. *[Dawn](https://www.dawn.com/news/2022245/3-judges-with-diverse-legal-backgrounds-join-islamabad-high-court)*
+- The FIA has arrested 400 foreigners in Islamabad. *[ARY](https://arynews.tv/fia-arrests-400-foreigners-from-islamabad)*
+- Forensic examination of bullet casings remains pending in the Mir Raza Ali murder investigation. *[ARY](https://arynews.tv/mir-raza-ali-case-bullet-casing-awaits-forensic-examination)*
+- The father of Mir Raza Ali claims the suspect in the murder case had connections to higher authorities. *[ARY](https://arynews.tv/mir-raza-ali-case-father-claims-killer-was-above-police)*
 
 ### International
-- Pakistan is seeking to revitalize its mediation efforts in the region following high-level meetings between officials and Iranian leadership in Tehran. *[Dawn](https://www.dawn.com/news/2022296/islamabad-looking-to-breathe-new-life-into-mediation-push)*
-- Three Pakistanis were among the six people killed during multiple ship attacks in the Red Sea and the Gulf of Oman. *[Dawn](https://www.dawn.com/news/2022293/3-pakistanis-die-as-multiple-ships-attacked-in-gulf-waters)*
-- US President Donald Trump reportedly flew secretly from Turkiye on a smaller jet to avoid an assassination threat from Iran. *[Dawn](https://www.dawn.com/news/2022270/trump-secretly-flew-smaller-jet-out-of-turkiye-amid-iran-threat-washington-post)*
-- Pakistan has warned the UN Security Council that the situation in the occupied West Bank is approaching a "dangerous tipping point." *[Dawn](https://www.dawn.com/news/2022274/pakistan-warns-un-security-council-of-tipping-point-in-occupied-west-bank)*
-- Indian investigators are looking into an Air India flight that lost altitude mid-air, amid reports that the pilot tested positive for marijuana. *[Dawn](https://www.dawn.com/news/2022171/india-probes-flight-plunge-as-pilot-faces-drug-test-scrutiny)*
-- A new triangular defense pact between Turkiye, Saudi Arabia, and Pakistan is reshaping regional security, with Pakistan assuring Iran the agreement is not for confrontation. *[Dawn](https://www.dawn.com/news/2022309/new-regional-security-order); [Dawn](https://www.dawn.com/news/2022312/mideast-outreach)*
-- Former Syrian President Bashar al-Assad has been sentenced to death in absentia for war crimes and crimes against humanity. *[Dawn](https://www.dawn.com/news/2022132/ousted-syrian-president-bashar-al-assad-sentenced-to-death-in-absentia)*
+- Pakistan will fully implement its commitments to a multinational maritime defence coalition following the death of three sailors in a Houthi strike. *[Dawn](https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest)*
+- The Norwegian Foreign Minister is scheduled to visit Pakistan to discuss trade, investment, and bilateral cooperation. *[Dawn](https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade)*
+- Former Chinese Premier Zhu Rongji, a key figure in China's economic reforms, has passed away at age 97. *[Dawn](https://www.dawn.com/news/2022384/former-chinese-premier-zhu-rongji-dies-aged-97)*
+- Pakistan has condemned the Houthi attack on a commercial vessel in the Red Sea that resulted in multiple fatalities. *[Dawn](https://www.dawn.com/news/2022341/pakistan-condemns-houthi-attack-in-red-sea-that-claimed-lives-of-3-nationals)*
+- US President Donald Trump revealed he secretly changed planes in Turkiye due to an Iranian assassination threat. *[Dawn](https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk)*
 
-### Health
-- Hospitals in Lahore are reporting a surge in gastroenteritis patients, with some cases resulting in severe complications like kidney failure. *[Dawn](https://www.dawn.com/news/2022148/lahore-hospitals-report-surge-in-gastroenteritis-patients-amid-conflicting-outbreak-reports)*
+### Sports
+- Lionel Messi shared an emotional tribute following the death of his father, Jorge Messi. *[ARY](https://arynews.tv/lionel-messis-emotional-tribute-following-the-passing-of-his-father-jorge-messi)*
 
 ### Other
-- Nicholas Hoult has been cast in the role of Gilderoy Lockhart for the upcoming 'Harry Potter' reboot. *[ARY](https://arynews.tv/nicholas-hoult-takes-on-role-of-gilderoy-lockhart-in-harry-potter)*
-- Showrunner Ryan Condal confirmed that 'House of the Dragon' Season 4 is currently progressing on schedule. *[ARY](https://arynews.tv/house-of-the-dragon-season-4-progressing-on-schedule-confirms-showrunner-ryan-condal)*
-- Actor Govinda recently shared reflections on his marriage with Sunita Ahuja. *[ARY](https://arynews.tv/govinda-reflects-on-sunita-ahujas-loving-abuse-in-marriage)*
-- A major UK-Ireland power project was forced to reroute around a memorial for the fictional character Dobby. *[ARY](https://arynews.tv/potterheads-force-430m-uk-ireland-power-project-to-reroute-around-dobbys-memorial)*
-- Fans are mourning the death of Jackie, the famous Big Bear eagle. *[ARY](https://arynews.tv/big-bear-eagle-jackie-dies-leaving-livestream-fans-heartbroken)*
-- Stassie Karanikolaou made an appearance to make up for missing Kylie Jenner's birthday. *[ARY](https://arynews.tv/stassie-karanikolaou-makes-up-for-skipping-kylie-jenners-birthday)*
+- King Charles' 18-year-old nephew has reportedly taken an unexpected job. *[ARY](https://arynews.tv/king-charles-18-year-old-nephew-takes-a-job-no-one-expected)*
+- Reports clarify the circumstances surrounding Meghan Markle's alleged red carpet snub. *[ARY](https://arynews.tv/the-real-story-behind-meghan-markle-and-david-fosters-so-called-red-carpet-snub)*
 
