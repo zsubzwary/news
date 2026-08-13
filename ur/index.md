@@ -7,39 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Aug-2026 09:09PKT 
+ &lrm; 13-Aug-2026 21:09PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے **پیٹرول کی قیمت میں 0.94 روپے کی کمی** جبکہ ہائی سپیڈ ڈیزل کی قیمت میں 0.54 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054)*
-- حوثیوں کی دھمکیوں کے باعث سعودی عرب کے **تیل کی برآمدات** میں دشواری پیدا ہو رہی ہے اور ٹینکرز اپنی ٹریکنگ بند کر رہے ہیں۔ *[Dawn](https://www.dawn.com/news/2022503/saudi-oil-exports-go-dark-amid-houthi-threat)*
+- حکومت نے پٹرول کی قیمت میں 0.94 روپے کی کمی اور ہائی اسپیڈ ڈیزل میں 0.54 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054)*
+- کراچی واٹر اینڈ سیوریج کارپوریشن نے رہائشی صارفین کے لیے پانی اور سیوریج کے چارجز میں 7.05 فیصد اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022427/water-starved-citizens-squeezed-further-for-more-karachi-water-and-sewerage-corporation-revenue)*
+- بلوچستان کے علاقے بولان میں گیس کی مین پائپ لائن دھماکے کے نتیجے میں کئی شہروں میں گیس کی سپلائی معطل ہو گئی۔ *[Dawn](https://www.dawn.com/news/2022550/gas-supply-to-parts-of-balochistan-suspended-after-main-pipeline-blown-up-in-bolan)*
+- بھارتی کار ساز کمپنیوں نے پیٹرول میں ایتھنول کی ملاوٹ کے حوالے سے تشویش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022553/emails-reveal-indian-carmakers-fuel-contamination-worries-before-public-retreat)*
+- پاکستان میں پیٹرول پمپوں کی بندش سے متعلق خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/petrol-station-closures-and-government-talks)*
 
 ### سائنس اور ٹیکنالوجی
-- آئس لینڈ اور اسپین میں **مجموعی سورج گرہن** کا شاندار منظر دیکھنے کے لیے لاکھوں لوگ جمع ہوئے۔ *[Dawn](https://www.dawn.com/news/2022388/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse)*
-
-### موسم
-- محکمہ موسمیات نے **13 سے 15 اگست تک** ملک کے بالائی اور وسطی حصوں میں مون سون کی تازہ بارشوں کی پیش گوئی کی ہے۔ *[Dawn](https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15)*
+- سپارکو نے پاکستان کے پہلے قمری روور کا نام 'جناح-1' مقرر کرنے کا اعلان کیا ہے، جسے 2029 میں چین کے مشن کے ذریعے چاند پر بھیجا جائے گا۔ *[Dawn](https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco)*
+- چین کے مقامی طور پر تیار کردہ جیٹ لائنر C919 نے اپنی دوسری بین الاقوامی تجارتی پرواز کامیابی سے مکمل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2022589/chinas-homegrown-narrow-body-jetliner-completes-second-ever-international-commercial-flight)*
+- ڈیپ سیک (DeepSeek) نے اپنا نیا V4 Pro ماڈل جاری کر کے اپنی توسیع کے عمل کو تیز کر دیا ہے۔ *[ARY](https://arynews.tv/deepseek-releases-official-v4-pro-model-as-it-steps-up-expansion)*
 
 ### سیاست
-- آزاد کشمیر کے انتخابات میں **LA-17 حویلی کے نتائج پر تنازع** پیدا ہونے کے بعد PML-N نے غیر محدود ہڑتال کا اعلان کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022397/ajk-polls-rathores-la-17-haveli-victory-disputed-local-pml-n-announces-indefinite-strike)*
-- **عوامی پاکستان** نے پارٹی کو ڈی لسٹ کرنے کے الیکشن کمیشن کے فیصلے کو غیر منصفانہ قرار دے کر چیلنج کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022391/awaam-pakistan-calls-ecp-delisting-unwarranted-seeks-urgent-hearing)*
-- پاکستان میں **جمہوریت اور مارکیٹ** کے باہمی تعلق کے حوالے سے تجزیاتی بحث۔ *[Dawn](https://www.dawn.com/news/2022485/democracy-and-the-market)*
+- پاکستان اور ناروے نے دفاعی اور سیکورٹی کے شعبوں میں دوطرفہ تعلقات کو مضبوط بنانے کے عزم کا اعادہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022536/pakistan-norway-reaffirm-resolve-to-strengthen-bilateral-ties-expand-engagement-in-defence-and-security)*
+- پاکستان، ترکیہ اور سعودی عرب کے درمیان ہونے والے دفاعی معاہدے کے تحت نئے سیاسی اور فوجی میکانزم تشکیل دیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2022566/pakistan-turkiye-saudi-arabia-will-form-political-military-mechanisms-to-coordinate-under-defence-pact-ankara-says)*
+- ترکیہ کے صدر ایردوان نے مکہ جوائنٹ ڈیفنس ایگریمنٹ کی مزید توسیع کی خواہش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022395/we-aspire-for-it-to-grow-turkiyes-erdogan-eyes-expansion-of-makkah-joint-defence-agreement)*
+- اقوام متحدہ کی رپورٹ کے مطابق افغان طالبان کی حمایت سے پاکستان میں دہشت گردانہ حملوں کی شدت اور تعدد میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un)*
+- آزاد جموں و کشمیر میں پولیس نے الزام لگایا ہے کہ JAAC نے انتخابی ڈیوٹی پر موجود 8 ہائی وے پولیس اہلکاروں کو اغوا کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022561/ajk-police-claim-jaac-abducted-8-highway-police-personnel-on-election-duty)*
+- امریکی سینیٹرز نے مشرق وسطیٰ میں تعینات ایک طیارہ بردار بحری جہاز کے حالات پر تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022539/us-senators-demand-inquiry-into-conditions-aboard-aircraft-carrier-deployed-in-middle-east)*
 
 ### قومی
-- اقوام متحدہ کی رپورٹ کے مطابق **افغان طالبان کی حمایت** سے پاکستان میں ٹی ٹی پی کے حملوں کی شدت میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un)*
-- کراچی میں تاجر میر رضا علی کے قتل کے کیس میں **ڈیجیٹل فوٹ پرنٹ** معلوم کرنے کے لیے NCCIA کی مدد لی جا رہی ہے۔ *[Dawn](https://www.dawn.com/news/2022424/investigators-seek-nccias-help-to-unlock-mir-razas-digital-footprint)*
-- خیبر پختونخوا کابینہ نے **مالاکنڈ اور سابق قبائلی علاقوں** کے لیے ٹیکس میں ریلیف کی منظوری دے دی۔ *[Dawn](https://www.dawn.com/news/2022506/kp-cabinet-okays-tax-relief-for-malakand-ex-fata)*
-- بلوچستان کے ضلع **چاگی میں سات کان کنز** کو مسلح افراد نے اغوا کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022500/7-miners-abducted-from-balochistans-chagai)*
-- کراچی واٹر اینڈ سیوریج کارپوریشن نے **پانی کے بلوں میں 7.05 فیصد اضافہ** کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022427/water-starved-citizens-squeezed-further-for-more-karachi-water-and-sewerage-corporation-revenue)*
-- راولپنڈی میں سیکورٹی اہلکار پر فائرنگ کرنے والے **مشتبہ شخص کا پوسٹ مارٹم** مکمل کر لیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022498/autopsy-conducted-on-rawalpindi-shooting-suspect)*
-- بلوچستان کے ضلع **سراب میں 18 دہشت گرد** مارے گئے، جن میں سے 8 ایک دھماکے میں ہلاک ہوئے۔ *[Dawn](https://www.dawn.com/news/2022383/18-terrorists-killed-in-balochistans-surab-district-ispr)*
-- وزیر اعظم شہباز شریف نے **سوشل ویلفیئر اسٹیٹ** کے حصول کے لیے نوجوانوں کے لیے مختلف اقدامات کا افتتاح کیا۔ *[Dawn](https://www.dawn.com/news/2022368/pakistan-still-far-from-becoming-a-social-welfare-state-pm-shehbaz)*
+- صومالیہ کے بحری قزاقوں کے ہاتھوں یرغمال بنائے گئے 10 پاکستانی جہاز رانوں کی رہائی کے لیے سفارتی کوششیں تیز کرنے کی ہدایت کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates)*
+- کراچی کی عدالت نے منشیات کے تین مقدمات میں الزام دائر خاتون 'پنکی' کو بری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022587/karachi-court-acquits-drug-baroness-anmol-pinky-in-3-cases)*
+- بنوں میں ایک انٹیلی جنس بیسڈ آپریشن کے دوران دہشت گرد کمانڈر ناصر محمد 'گیدڑ' کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2022571/high-profile-terrorist-commander-killed-in-bannu-ibo-dpo)*
+- بلند پیک پر برفانی تودے کے نتیجے میں لاپتہ ہونے والے پاکستانی کوہ پیما سہیل سخی کی لاش برآمد کر لی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022558/body-of-missing-pakistani-climber-sohail-sakhi-recovered-on-broad-peak)*
+- اسلام آباد ہائی کورٹ نے مشہور شخصیت ارشد چائی والا کی پاسپورٹ کی تجدید کی درخواست پر متعلقہ حکام کو نوٹس جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2022409/notices-issued-in-arshad-chaiwalas-petition-seeking-renewal-of-passport)*
+- کراچی میں نوجوان کاروباری شخصیت میر رضا علی کے قتل کے کیس میں تفتیش کاروں نے ڈیجیٹل شواہد کے لیے NCCIA سے مدد طلب کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2022424/investigators-seek-nccias-help-to-unlock-mir-razas-digital-footprint)*
+- لاہور میں فائرنگ کے واقعے میں دو پولیس اہلکار شہید ہو گئے ہیں۔ *[ARY](https://arynews.tv/lahore-firing-sub-inspector-among-two-police-officials-martyred)*
 
 ### بین الاقوامی
-- ترک صدر ایردوان نے **مکہ جوائنٹ ڈیفنس ایگریمنٹ** کی توسیع اور مزید ممالک کی شمولیت کی خواہش ظاہر کی۔ *[Dawn](https://www.dawn.com/news/2022395/we-aspire-for-it-to-grow-turkiyes-erdogan-eyes-expansion-of-makkah-joint-defence-agreement)*
-- بحیرہ احمر میں پاکستانی بحری جہازوں پر حملوں کے بعد پاکستان نے **بحری دفاعی اتحاد** میں اپنی ذمہ داریاں پوری کرنے کا عزم کیا۔ *[Dawn](https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest)*
-- کیلیفورنیا سینٹ نے **پاکستان اور امریکہ کے تعلقات** کو مضبوط بنانے کے لیے قرارداد منظور کی۔ *[Dawn](https://www.dawn.com/news/2022378/california-senate-unanimously-backs-stronger-pakistan-us-ties)*
-- نارویجن وزیر خارجہ کا **پاکستان کا سرکاری دورہ** 13 اور 14 اگست کو ہوگا۔ *[Dawn](https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade)*
-- چین کے سابق وزیراعظم **ژو رونگ جی** کا 97 سال کی عمر میں انتقال ہو گیا۔ *[Dawn](https://www.dawn.com/news/2022384/former-chinese-premier-zhu-rongji-dies-aged-97)*
+- ایئر انڈیا نے ایک پائلٹ کے منشیات کے ٹیسٹ میں مثبت آنے کے بعد تمام پائلٹوں کے لیے منشیات کا ٹیسٹ لازمی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022582/air-india-mandates-drug-tests-for-all-pilots-after-mid-air-plunge)*
+- برطانوی شہزادیوں بیٹریس اور یو جینی کو ان کے والدین کے حوالے سے جاری تنازعات کا سامنا ہے۔ *[ARY](https://arynews.tv/princesses-beatrice-eugenie-caught-in-parents-controversy-storm)*
+
+### صحت
+- سندھ ہائی کورٹ نے کراچی کے ایک ہسپتال میں بچوں میں ایچ آئی وی (HIV) کے پھیلاؤ کی آزادانہ تحقیقات کے لیے کمیٹی بنانے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022544/shc-orders-formation-of-committee-to-probe-hiv-outbreak-among-children-at-karachi-hospital)*
+
+### دیگر
+- ہاگ ورٹس لیگیسی 2 کے آفیشل کنفرم ہونے کی خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/hogwarts-legacy-2-confirmed-fans-open-world-sequel)*
+- اداکارہ جینیفر گارنر نے اپنے کاروباری سفر کے بارے میں گفتگو کی۔ *[ARY](https://arynews.tv/jennifer-garner-talks-about-her-journey-into-business)*
+- براد پٹ کی نئی فلم 'ہارٹ آف دی بیسٹ' کا ٹریلر جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/brad-pitt-fights-for-survival-in-new-trailer-for-david-ayers-heart-of-the-beast)*
 
