@@ -4,53 +4,39 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Aug-2026 21:03PKT
+Published at: 13-Aug-2026 09:03PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Gold prices rebound toward a 10-week high as markets anticipate US inflation data. *[Dawn](https://www.dawn.com/news/2022343/gold-rebounds-towards-10-week-high-as-markets-brace-for-us-inflation-data)*
-- The government has reduced petrol prices by Rs1.70 while increasing high-speed diesel by Rs1.39. *[Dawn](https://www.dawn.com/news/2022180/govt-cuts-petrol-price-by-rs170-raises-high-speed-diesel-by-rs139)*
-- Petroleum dealers have issued a 72-hour ultimatum to the government regarding retail margin increases. *[Dawn](https://www.dawn.com/news/2022267/petroleum-dealers-issue-72-hour-ultimatum)*
-- Latest updates on the US Dollar exchange rate in Pakistan. *[ARY](https://arynews.tv/us-dollar-rate-today-in-pakistan-august-12-2026)*
+- The government has reduced petrol prices by Re0.94 while increasing high-speed diesel prices by Re0.54. *[Dawn](https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054)*
+- Saudi crude oil exports from the Red Sea are increasingly "going dark" as tankers disable tracking signals to evade Houthi attacks. *[Dawn](https://www.dawn.com/news/2022503/saudi-oil-exports-go-dark-amid-houthi-threat)*
 
 ### Science & Technology
-- Anthropic is introducing invisible AI watermarks to its Claude chatbot to comply with European Union regulations. *[Dawn](https://www.dawn.com/news/2022365/anthropic-unveils-ai-watermarks-to-comply-with-eu-law)*
-- Millions in Iceland and Spain gathered to witness a total solar eclipse, amidst heatwave and wildfire warnings. *[Dawn](https://www.dawn.com/news/2022388/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse)*
-- Scientific analysis explores the deadly nature of earthquakes caused by tectonic plate friction. *[Dawn](https://www.dawn.com/news/2022382/what-makes-earthquakes-so-deadly)*
-- An El Nino climate study reveals the connection between land water and sea-level rise. *[ARY](https://arynews.tv/el-nino-climate-study-reveals-how-land-water-drives-sea-level-rise)*
-- A new mathematical model explains the synchronized behavior of birds during the dawn chorus. *[ARY](https://arynews.tv/mathematical-model-explains-why-birds-sing-in-the-dawn-chorus)*
+- Millions of people in Iceland and Spain gathered to witness Europe's first total solar eclipse in 27 years. *[Dawn](https://www.dawn.com/news/2022388/millions-of-people-in-iceland-and-spain-set-for-event-of-the-century-eclipse)*
 
 ### Weather
-- The Met Office forecasts fresh monsoon rain spells for the upper and central parts of Pakistan from August 13-15. *[Dawn](https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15)*
+- The Pakistan Meteorological Department (PMD) has forecast a fresh spell of monsoon rains for the upper and central parts of the country from August 13 to 15. *[Dawn](https://www.dawn.com/news/2022381/met-office-forecasts-fresh-rain-spell-for-upper-central-parts-of-country-from-aug-13-15)*
 
 ### Politics
-- PM Shehbaz Sharif stated Pakistan is still far from becoming a social welfare state and inaugurated several youth-centric initiatives. *[Dawn](https://www.dawn.com/news/2022368/pakistan-still-far-from-becoming-a-social-welfare-state-pm-shehbaz)*
-- A US State Department report calls for improved parliamentary oversight of Pakistan's public finances and fiscal transparency. *[Dawn](https://www.dawn.com/news/2022331/us-report-calls-for-strengthening-parliamentary-oversight-of-pakistans-public-finances)*
-- Shahid Khaqan Abbasi has challenged the ECP's decision to delist the Awaam Pakistan Party. *[ARY](https://arynews.tv/awaam-pakistan-party-challenges-delisting-decision)*
-- The Prime Minister emphasized the importance of long-term strategic planning through the Pakistan State of Future Index. *[Dawn](https://www.dawn.com/news/2022377/pm-takes-notice-of-future-after-ordering-it-cancelled)*
+- Controversy has emerged in Azad Jammu and Kashmir (AJK) following the disputed declaration of Faisal Mumtaz Rathore as the winner of the LA-17 Haveli seat, leading to PML-N protests. *[Dawn](https://www.dawn.com/news/2022397/ajk-polls-rathores-la-17-haveli-victory-disputed-local-pml-n-announces-indefinite-strike)*
+- The Awaam Pakistan party has challenged the Election Commission of Pakistan's (ECP) decision to delist it, calling the move "arbitrary and unwarranted." *[Dawn](https://www.dawn.com/news/2022391/awaam-pakistan-calls-ecp-delisting-unwarranted-seeks-urgent-hearing)*
+- Prime Minister Shehbaz Sharif stated that Pakistan remains far from becoming a social welfare state and inaugurated several new youth employment and skill initiatives. *[Dawn](https://www.dawn.com/news/2022368/pakistan-still-far-from-becoming-a-social-welfare-state-pm-shehbaz)*
+- An editorial discusses the ongoing struggle between democratic and non-democratic forces in Pakistan. *[Dawn](https://www.dawn.com/news/2022485/democracy-and-the-market)*
 
 ### National
-- At least 18 terrorists were killed in Balochistan's Surab district during a security operation. *[Dawn](https://www.dawn.com/news/2022383/18-terrorists-killed-in-balochistans-surab-district-ispr)*
-- The Minister of State for Interior criticized PTI leadership following a shooting incident involving security personnel in Rawalpindi. *[Dawn](https://www.dawn.com/news/2022361/shooting-on-security-personnel-in-pindi-minister-says-pti-leadership-cannot-absolve-themselves-of-responsibility)*
-- Three police officers were arrested for their alleged involvement in a prisoner's escape from Adiala jail. *[Dawn](https://www.dawn.com/news/2022355/3-cops-arrested-for-alleged-role-in-prisoners-escape-in-rawalpindi)*
-- Sindh Chief Minister Murad Ali Shah promised a fair investigation into the murder of businessman Mir Raza Ali. *[Dawn](https://www.dawn.com/news/2022195/murad-vows-action-over-police-medico-legal-lapses-as-mir-raza-murder-probe-progresses)*
-- Three new judges have been appointed to the Islamabad High Court. *[Dawn](https://www.dawn.com/news/2022245/3-judges-with-diverse-legal-backgrounds-join-islamabad-high-court)*
-- The FIA has arrested 400 foreigners in Islamabad. *[ARY](https://arynews.tv/fia-arrests-400-foreigners-from-islamabad)*
-- Forensic examination of bullet casings remains pending in the Mir Raza Ali murder investigation. *[ARY](https://arynews.tv/mir-raza-ali-case-bullet-casing-awaits-forensic-examination)*
-- The father of Mir Raza Ali claims the suspect in the murder case had connections to higher authorities. *[ARY](https://arynews.tv/mir-raza-ali-case-father-claims-killer-was-above-police)*
+- Investigators are seeking assistance from the National Cyber Crime Investigation Agency (NCCIA) to analyze the digital footprint of businessman Mir Raza Ali in a murder investigation. *[Dawn](https://www.dawn.com/news/2022424/investigators-seek-nccias-help-to-unlock-mir-razas-digital-footprint)*
+- The Khyber Pakhtunkhwa (KP) cabinet has approved sales tax relief for local service providers and industrial undertakings in the Malakand division and former tribal areas. *[Dawn](https://www.dawn.com/news/2022506/kp-cabinet-okays-tax-relief-for-malakand-ex-fata)*
+- Seven miners working for a private copper company were abducted at gunpoint by armed men in Balochistan's Chagai district. *[Dawn](https://www.dawn.com/news/2022500/7-miners-abducted-from-balochistans-chagai)*
+- The Karachi Water and Sewerage Corporation (KWSC) has notified a 7.05 per cent increase in water and sewerage charges for residents. *[Dawn](https://www.dawn.com/news/2022427/water-starved-citizens-squeezed-further-for-more-karachi-water-and-sewerage-corporation-revenue)*
+- An autopsy was conducted on Mohammad Hussain, a suspect who was shot dead after allegedly opening fire on security personnel in Rawalpindi. *[Dawn](https://www.dawn.com/news/2022498/autopsy-conducted-on-rawalpindi-shooting-suspect)*
+- The military's media wing (ISPR) reported that 18 terrorists were killed in Balochistan’s Surab district, including eight during a premature VBIED detonation. *[Dawn](https://www.dawn.com/news/2022383/18-terrorists-killed-in-balochistans-surab-district-ispr)*
 
 ### International
-- Pakistan will fully implement its commitments to a multinational maritime defence coalition following the death of three sailors in a Houthi strike. *[Dawn](https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest)*
-- The Norwegian Foreign Minister is scheduled to visit Pakistan to discuss trade, investment, and bilateral cooperation. *[Dawn](https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade)*
-- Former Chinese Premier Zhu Rongji, a key figure in China's economic reforms, has passed away at age 97. *[Dawn](https://www.dawn.com/news/2022384/former-chinese-premier-zhu-rongji-dies-aged-97)*
-- Pakistan has condemned the Houthi attack on a commercial vessel in the Red Sea that resulted in multiple fatalities. *[Dawn](https://www.dawn.com/news/2022341/pakistan-condemns-houthi-attack-in-red-sea-that-claimed-lives-of-3-nationals)*
-- US President Donald Trump revealed he secretly changed planes in Turkiye due to an Iranian assassination threat. *[Dawn](https://www.dawn.com/news/2022334/trump-says-secret-flight-change-at-directives-of-secret-service-plane-ultimately-used-faced-greater-risk)*
-
-### Sports
-- Lionel Messi shared an emotional tribute following the death of his father, Jorge Messi. *[ARY](https://arynews.tv/lionel-messis-emotional-tribute-following-the-passing-of-his-father-jorge-messi)*
-
-### Other
-- King Charles' 18-year-old nephew has reportedly taken an unexpected job. *[ARY](https://arynews.tv/king-charles-18-year-old-nephew-takes-a-job-no-one-expected)*
-- Reports clarify the circumstances surrounding Meghan Markle's alleged red carpet snub. *[ARY](https://arynews.tv/the-real-story-behind-meghan-markle-and-david-fosters-so-called-red-carpet-snub)*
+- A UN report suggests that continued support from the Afghan Taliban is contributing to an increase in the frequency and lethality of TTP attacks in Pakistan. *[Dawn](https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un)*
+- Turkish President Erdogan expressed his desire to expand the Makkah Joint Defence Agreement between Turkiye, Saudi Arabia, and Pakistan to promote regional stability. *[Dawn](https://www.dawn.com/news/2022395/we-aspire-for-it-to-grow-turkiyes-erdogan-eyes-expansion-of-makkah-joint-defence-agreement)*
+- Following the death of three Pakistani sailors in Houthi strikes, the Foreign Office affirmed that Pakistan will fully implement its commitments to the multinational maritime defence coalition. *[Dawn](https://www.dawn.com/news/2022344/after-death-of-3-pakistani-sailors-fo-says-islamabad-will-implement-maritime-coalition-in-full-earnest)*
+- The California State Senate unanimously passed a resolution to celebrate and strengthen the relationship between Pakistan and the United States. *[Dawn](https://www.dawn.com/news/2022378/california-senate-unanimously-backs-stronger-pakistan-us-ties)*
+- Norwegian Foreign Minister Espen Barth Eide is scheduled to visit Pakistan to discuss expanding bilateral cooperation, trade, and investment. *[Dawn](https://www.dawn.com/news/2022374/norwegian-fm-to-visit-pakistan-on-aug-13-14-first-such-visit-in-a-decade)*
+- Former Chinese Premier Zhu Rongji, known for driving China's economic rise through market reforms, has passed away at the age of 97. *[Dawn](https://www.dawn.com/news/2022384/former-chinese-premier-zhu-rongji-dies-aged-97)*
 
