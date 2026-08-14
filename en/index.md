@@ -4,47 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Aug-2026 09:03PKT
+Published at: 14-Aug-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petroleum levy collection has reached a record Rs1.57 trillion, amid rising civil government costs and increased defence spending. *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
-- The government has increased petrol prices by Rs0.45 and high-speed diesel by Rs1.16. *[Dawn](https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116)*
-- Sindh Chief Minister claims the goods transporters' strike is almost resolved, though it has previously disrupted industrial activity and stranded $500 million in exports. *[Dawn](https://www.dawn.com/news/2022659/transporters-issues-almost-resolved-sindh-cm)*
-- Porsche has announced plans to discontinue the production of the Taycan by 2030. *[ARY](https://arynews.tv/porsche-plans-to-discontinue-taycan-production-by-2030)*
+- Petroleum dealers have called off a planned strike following the government's approval of a margin revision for motor spirit and high-speed diesel. *[Dawn](https://www.dawn.com/news/2022816/petroleum-dealers-call-off-planned-strike-as-govt-approves-margin-revision)*
+- Petroleum levy collections reached a record Rs1.57 trillion, even as the cost of running the civil government rose by 16% in the 2025-26 fiscal year. *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
 
 ### Science & Technology
-- Suparco has named Pakistan's first lunar rover "Jinnah-1," which is scheduled for a 2029 mission to the lunar south pole as part of China's Chang’e-8 mission. *[Dawn](https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco)*
-- China's homegrown C919 narrow-body jetliner successfully completed its second international commercial flight, traveling from Beijing to Mongolia. *[Dawn](https://www.dawn.com/news/2022589/chinas-homegrown-narrow-body-jetliner-completes-second-ever-international-commercial-flight)*
+- Chinese AI startup Z.ai announced that its open-source GLM-5.3 model has nearly matched the performance of Anthropic's Mythos 5 in identifying software vulnerabilities and cyber-defense tests. *[Dawn](https://www.dawn.com/news/2022805/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests)*
 
 ### Politics
-- Khyber Pakhtunkhwa Chief Minister Sohail Afridi stated he will not visit Adiala jail again without official confirmation of a meeting with PTI founder Imran Khan. *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
-- Despite a temporary resolution regarding judges' appointments, political tensions persist between the PML-N and PPP within the ruling coalition. *[Dawn](https://www.dawn.com/news/2022690/coalition-buys-time-on-judges-but-harder-questions-persist)*
+- Prime Minister Shehbaz Sharif briefed President Zardari on a newly signed tripartite defense pact between Pakistan, Saudi Arabia, and Turkiye. *[Dawn](https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact)*
+- President Zardari has approved the summoning of both the National Assembly and the Senate for sessions starting August 17. *[Dawn](https://www.dawn.com/news/2022758/president-zardari-approves-summoning-of-na-senate-sessions-on-august-17)*
+- Khyber Pakhtunkhwa Chief Minister Sohail Afridi stated he will not visit Adiala jail again until the government provides official confirmation of a meeting with PTI founder Imran Khan. *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
 
 ### National
-- Pakistan's civilian and military leadership emphasized the importance of unity and reforms during the nation's 79th Independence Day celebrations. *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
-- The Yadgar-i-Fatah monument was inaugurated in Islamabad to honor Pakistan's martyrs. *[Dawn](https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day)*
-- The government reaffirmed its commitment to the rehabilitation of families affected by the 2022 floods in Balochistan. *[Dawn](https://www.dawn.com/news/2022680/govt-remains-committed-to-balochistans-flood-hit-people)*
-- The NCCIA arrested 114 foreign nationals, primarily Chinese and Vietnamese, for allegedly operating a cyber-romance and sextortion network. *[Dawn](https://www.dawn.com/news/2022592/nccia-arrests-114-foreigners-over-alleged-cyber-romance-sextortion-network)*
-- The Lahore High Court issued a final judgment in a long-running public interest litigation concerning smog and environmental degradation in Punjab. *[Dawn](https://www.dawn.com/news/2022599/lhc-issues-judgement-in-8-year-long-public-litigation-reaffirms-environmental-directions)*
-- A sessions court in Karachi granted interim pre-arrest bail to a business partner involved in the Mir Raza Ali murder case. *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
-- A Karachi court acquitted alleged drug baroness Anmol ‘Pinky’ in three narcotics-related cases. *[Dawn](https://www.dawn.com/news/2022587/karachi-court-acquits-drug-baroness-anmol-pinky-in-3-cases)*
-- The Pakistan Armed Forces issued messages of congratulations to the nation on its 79th Independence Day. *[ARY](https://arynews.tv/pakistan-armed-forces-congratulate-nation-on-79th-independence-day)*
+- Pakistan celebrated its 79th Independence Day with various ceremonies, as national leadership emphasized the necessity of unity and institutional reforms. *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
+- World leaders and diplomats, including Saudi royalty and US officials, extended congratulations to Pakistan on its Independence Day. *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
+- The Balochistan Home Minister, Mir Ziaullah Langove, escaped unhurt after his convoy was attacked in Mastung, an incident that left six people injured. *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
+- A terrorist attack on a police post in Bajaur district resulted in the martyrdom of one police officer and the injury of another. *[Dawn](https://www.dawn.com/news/2022779/cop-martyred-another-injured-in-terrorist-attack-on-police-post-in-bajaur)*
+- Celebratory aerial firing during Independence Day eve festivities in Karachi resulted in two deaths and 94 injuries. *[Dawn](https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve)*
+- Former Sindh minister Ghulam Rasool Unnar has approached the court seeking an FIR against his ex-wife, alleging she used AI to edit and alter her previously shared pictures. *[Dawn](https://www.dawn.com/news/2022652/ex-sindh-minister-seeks-fir-against-ex-wife-over-ai-edited-pictures)*
+- A sessions court has granted interim pre-arrest bail to a business partner involved in the Mir Raza Ali murder case. *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
+- NADRA has issued a new version of the CNIC that features a QR code. *[ARY](https://arynews.tv/nadra-issues-new-cnic-featurin-qr-code)*
+- The Ehsaas Umeed Card has been launched to provide Rs 5,000 monthly to persons with disabilities. *[ARY](https://arynews.tv/rs-5000-every-month-ehsaas-umeed-card-for-persons-with-disabilities)*
 
 ### International
-- Major General Jawwad Ahmed Qazi has been appointed as the new force commander for the United Nations Mission in Western Sahara (Minurso). *[Dawn](https://www.dawn.com/news/2022601/pakistan-army-major-general-appointed-new-force-commander-of-un-mission-in-western-sahara)*
-- Foreign Minister Ishaq Dar has ordered intensified diplomatic engagement to secure the release of 10 Pakistani sailors held hostage by Somali pirates. *[Dawn](https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates)*
-- Pakistan and Norway reaffirmed their commitment to strengthening bilateral ties, specifically in the areas of defense and security. *[Dawn](https://www.dawn.com/news/2022536/pakistan-norway-reaffirm-resolve-to-strengthen-bilateral-ties-expand-engagement-in-defence-and-security)*
-- Air India has mandated drug testing for all pilots following a mid-air incident involving a captain who reportedly tested positive for marijuana. *[Dawn](https://www.dawn.com/news/2022582/air-india-mandates-drug-tests-for-all-pilots-after-mid-air-plunge)*
-- The Pentagon chief stated that the US can maintain its naval blockade on Iranian ports indefinitely. *[ARY](https://arynews.tv/us-can-keep-naval-blockade-on-iranian-ports-indefinitely-pentagon-chief-says)*
-- Kate Middleton is set to accompany Prince William on a significant overseas visit to India. *[ARY](https://arynews.tv/kate-middleton-to-accompany-prince-william-on-significant-overseas-visit-to-india)*
+- Pakistan's Interior Minister Mohsin Naqvi met with the Norwegian Foreign Minister to discuss bilateral relations and concerns regarding the use of Afghan soil for terror attacks. *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
+- US envoy Jared Kushner is scheduled to visit Israel and Egypt to mediate and bridge gaps regarding a proposed Gaza peace plan. *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
+- India's Reliance Industries and Britain's Rolls-Royce have partnered to design and manufacture engines for India's indigenous fighter jet program. *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
+- Nigel Farage has regained his seat in the UK Parliament following a recent election. *[Dawn](https://www.dawn.com/news/2022761/nigel-farage-regains-uk-parliamentary-seat-fights-off-count-binface-challenge)*
+- At least eight workers were killed following a toxic gas leak at a shipbreaking yard in Chittagong, Bangladesh. *[Dawn](https://www.dawn.com/news/2022803/gas-leak-at-bangladesh-shipbreaking-yard-kills-8-police)*
 
-### Health
-- An Ebola-related death has been reported in a new province in Congo. *[ARY](https://arynews.tv/congo-reports-ebola-death-in-new-province-official-says)*
+### Sports
+- Cricketer Mohammad Nawaz has been ruled out of the National Champions Cup. *[ARY](https://arynews.tv/mohammad-nawaz-ruled-out-of-national-champions-cup)*
+- Shubman Gill will lead India in their upcoming 600th Test match. *[ARY](https://arynews.tv/gill-says-huge-honour-to-lead-india-in-600th-test)*
+- Former Aston Villa title-winning goalkeeper Jimmy Rimmer has passed away at the age of 78. *[ARY](https://arynews.tv/former-villa-title-winning-keeper-jimmy-rimmer-dead-at-78)*
 
 ### Other
-- Eid-i-Miladun Nabi is expected to fall on August 26 after the Rabiul Awwal moon was not sighted. *[Dawn](https://www.dawn.com/news/2022602/rabiul-awwal-moon-not-sighted-eid-miladun-nabi-to-fall-on-aug-26)*
-- Entertainment and lifestyle updates include news regarding Tom Holland's family life, a teaser for *American Horror Story* Season 13, a new Netflix thriller featuring Sydney Sweeney, and release details for *GTA 6*. *[ARY](https://arynews.tv/tom-holland-ready-to-prioritize-family-life-with-zendaya), [ARY](https://arynews.tv/american-horror-story-season-13-teaser-hints-at-kathy-bates-triumphant-return), [ARY](https://arynews.tv/sydney-sweeneys-r-rated-immaculate-now-streaming-on-netflix), [ARY](https://arynews.tv/gta-6-pre-order-guide-reveals-release-dates-and-console-platform-details)*
-- The BISE has announced the schedule for the SSC Annual-II examinations. *[ARY](https://arynews.tv/bise-announces-ssc-annual-ii-examination-schedule)*
+- Reports suggest ongoing tension and a potential rift between Meghan Markle and members of the British Royal Family. *[ARY](https://arynews.tv/meghan-markle-pushes-back-against-prince-william-and-kate-middleton-amid-royal-rift-reports)*
+- Pop star Selena Gomez is reportedly facing significant legal issues. *[ARY](https://arynews.tv/selena-gomez-in-deep-legal-trouble)*
+- Speculation continues regarding the involvement of Cristiano Ronaldo's family in his upcoming wedding plans. *[ARY](https://arynews.tv/inside-the-buzz-are-cristiano-ronaldos-family-members-really-missing-from-his-wedding-plans)*
+- Katie Price has announced a new tour for her live podcast. *[ARY](https://arynews.tv/katie-price-announces-live-podcast-tour)*
 
