@@ -7,44 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 14-Aug-2026 09:08PKT 
+ &lrm; 14-Aug-2026 21:08PKT 
 
-پڑھنے کا وقت : 3 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پیٹرولیم لیوی کی جمع بھی ریکارڈ 1.57 ٹریلین روپے تک پہنچ گئی۔ *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
-- حکومت کی جانب سے پٹرول کی قیمت میں 0.45 روپے اور ہائی سپیڈ ڈیزل میں 1.16 روپے کا اضافہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116)*
-- سندھ میں مال بردار گاڑیوں کی ہڑتال کے حوالے سے وزیر اعلیٰ کا کہنا ہے کہ تنازع تقریباً حل ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2022659/transporters-issues-almost-resolved-sindh-cm)*
+- حکومت کی جانب سے پیٹرولیم ڈیلرز کے مارجن میں ترمیم کی منظوری کے بعد انہوں نے ہڑتال ختم کرنے کا فیصلہ کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022816/petroleum-dealers-call-off-planned-strike-as-govt-approves-margin-revision)*
+- پیٹرولیم لیوی کی وصولی میں ریکارڈ اضافہ ہوا ہے جو کہ 1.57 ٹریلین روپے تک پہنچ گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
+- حکومت نے پیٹرول کی قیمت میں 0.45 روپے اور ہائی اسپیڈ ڈیزل کی قیمت میں 1.16 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116)*
 
 ### سائنس اور ٹیکنالوجی
-- سپارکو نے پاکستان کے پہلے قمری روور کا نام **'جناح-1'** رکھنے کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco)*
-- چین کے مقامی تیار کردہ جیٹ لائنر **C919** نے اپنی دوسری بین الاقوامی تجارتی پرواز کامیابی سے مکمل کر لی۔ *[Dawn](https://www.dawn.com/news/2022589/chinas-homegrown-narrow-body-jetliner-completes-second-ever-international-commercial-flight)*
+- چینی اے آئی اسٹارٹ اپ Z.ai کا نیا ماڈل GLM-5.3 سائبر دفاعی ٹیسٹوں میں اینتھروپک کے ماڈل کو سخت مقابلہ دے رہا ہے۔ *[Dawn](https://www.dawn.com/news/2022805/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests)*
 
 ### سیاست
-- یوم آزادی کے موقع پر ملک کی قیادت نے اتحاد اور اصلاحات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
-- کے پی کے وزیر اعلیٰ نے کہا کہ عمران خان سے ملاقات کی تصدیق کے بغیر وہ اڈیالہ جیل کا دوبارہ دورہ نہیں کریں گے۔ *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
-- ججز کی تعیناتی کے معاملے پر حکومتی اتحاد کے رہنماؤں کے درمیان سیاسی کشیدگی برقرار ہے۔ *[Dawn](https://www.dawn.com/news/2022690/coalition-buys-time-on-judges-but-harder-questions-persist)*
+- وزیر اعظم شہباز شریف نے صدر زرداری کو پاکستان، سعودی عرب اور ترکی کے درمیان ہونے والے دفاعی معاہدے کے بارے میں بریفنگ دی۔ *[Dawn](https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact)*
+- صدر زرداری نے 17 اگست کو قومی اسمبلی اور سینیٹ کے اجلاس بلانے کی منظوری دے دی ہے۔ *[Dawn](https://www.dawn.com/news/2022758/president-zardari-approves-summoning-of-na-senate-sessions-on-august-17)*
+- وزیر داخلہ محسن نقوی نے ناروے کے وزیر خارجہ سے ملاقات میں دہشت گردی کے خلاف تعاون اور افغان سرزمین کے غلط استعمال پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
+- خیبر پختونخوا کے وزیر اعلیٰ سہیل آفریدی نے کہا ہے کہ وہ عمران خان سے ملاقات کی باقاعدہ تصدیق کے بغیر اڈیالہ جیل کا دورہ نہیں کریں گے۔ *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
 
 ### قومی
-- اسلام آباد میں شہداء کی یاد میں **یادگارِ فتح** کا افتتاح کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day)*
-- حکومت نے بلوچستان میں 2022 کے سیلاب سے متاثرہ خاندانوں کی بحالی کے لیے اپنے عزم کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2022680/govt-remains-committed-to-balochistans-flood-hit-people)*
-- این سی سی آئی اے نے سائبر کرائم اور سیاہ کاری کے نیٹ ورک میں ملوث 114 غیر ملکیوں کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022592/nccia-arrests-114-foreigners-over-alleged-cyber-romance-sextortion-network)*
-- لاہور ہائی کورٹ نے اسموگ اور ماحولیاتی آلودگی کے حوالے سے برسوں پرانے مقدمے میں اہم فیصلہ سنایا۔ *[Dawn](https://www.dawn.com/news/2022599/lhc-issues-judgement-in-8-year-long-public-litigation-reaffirms-environmental-directions)*
-- مسلح افواج نے قوم کو 79 ویں یوم آزادی پر مبارکباد پیش کی ہے۔ *[ARY](https://arynews.tv/pakistan-armed-forces-congratulate-nation-on-79th-independence-day)*
-- کراچی کی عدالت نے میر رضا علی قتل کیس میں ایک کاروباری شراکت دار کو عبوری ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
-- کراچی کی عدالت نے منشیات کے تین مقدمات میں الزام میں ملزمہ انمل 'پنکی' کو بری کر دیا۔ *[Dawn](https://www.dawn.com/news/2022587/karachi-court-acquits-drug-baroness-anmol-pinky-in-3-cases)*
+- یوم آزادی کے موقع پر ملک بھر میں جشن منایا گیا اور قیادت نے اتحاد اور اصلاحات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
+- بلوچستان کے وزیر داخلہ کے قافلے پر مستونگ میں مسلح حملہ، وزیر داخلہ محفوظ رہے۔ *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
+- کراچی میں یوم آزادی کی مناسبت سے کی جانے والی فائرنگ کے واقعات میں 2 افراد جاں بحق اور 94 زخمی ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve)*
+- باجوڑ میں پولیس چوکی پر دہشت گردوں کے حملے میں ایک پولیس اہلکار شہید اور ایک زخمی ہو گیا۔ *[Dawn](https://www.dawn.com/news/2022779/cop-martyred-another-injured-in-terrorist-attack-on-police-post-in-bajaur)*
+- نادرا نے کیوری کوڈ (QR Code) کے فیچر کے ساتھ نئے شناختی کارڈ جاری کرنا شروع کر دیے ہیں۔ *[ARY](https://arynews.tv/nadra-issues-new-cnic-featurin-qr-code)*
+- معذور افراد کے لیے ماہانہ 5,000 روپے کے "احساس امید کارڈ" کا پروگرام شروع کیا جا رہا ہے۔ *[ARY](https://arynews.tv/rs-5000-every-month-ehsaas-umeed-card-for-persons-with-disabilities)*
+- میر رضا علی قتل کیس میں ان کے بزنس پارٹنر کو عبوری ضمانت دے دی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
 
 ### بین الاقوامی
-- میجر جنرل جواد احمد قاضی کو اقوام متحدہ کے مشن (Minurso) کا نیا فورس کمانڈر مقرر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022601/pakistan-army-major-general-appointed-new-force-commander-of-un-mission-in-western-sahara)*
-- صومالی قزاقوں کے ہاتھوں اغوا شدہ پاکستانی ملاحوں کی رہائی کے لیے سفارتی کوششیں تیز کرنے کی ہدایت کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates)*
-- پاکستان اور ناروے کے درمیان دفاعی اور سیکورٹی تعاون کو مضبوط بنانے پر اتفاق ہوا۔ *[Dawn](https://www.dawn.com/news/2022536/pakistan-norway-reaffirm-resolve-to-strengthen-bilateral-ties-expand-engagement-in-defence-and-security)*
-- امریکی پینٹاگون کے سربراہ کے مطابق امریکہ ایرانی بندرگاہوں پر بحری ناکہ بندی جاری رکھ سکتا ہے۔ *[ARY](https://arynews.tv/us-can-keep-naval-blockade-on-iranian-ports-indefinitely-pentagon-chief-says)*
-- ایئر انڈیا نے ایک حادثے کے بعد تمام پائلٹوں کے لیے لازمی ڈرگ ٹیسٹ کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022582/air-india-mandates-drug-tests-for-all-pilots-after-mid-air-plunge)*
+- دنیا بھر کے رہنماؤں نے پاکستان کو یوم آزادی کی مبارکباد دیتے ہوئے دوطرفہ تعلقات کو سراہا۔ *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
+- ڈونلڈ ٹرمپ کے ایلچی جارڈ کشنر غزہ پلان کے حوالے سے اختلافات ختم کرنے کے لیے اسرائیل کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
+- بھارتی کمپنی ریلائنس انڈسٹریز اور رولز رائس لڑاکا طیاروں کے انجن بنانے کے لیے اشتراک کریں گی۔ *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
+- نائجل فاراج نے برطانوی پارلیمنٹ کی نشست دوبارہ حاصل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2022761/nigel-farage-regains-uk-parliamentary-seat-fights-off-count-binface-challenge)*
+- بنگلہ دیش میں جہاز توڑنے والے یارڈ میں گیس کے اخراج سے 8 افراد جاں بحق ہو گئے۔ *[Dawn](https://www.dawn.com/news/2022803/gas-leak-at-bangladesh-shipbreaking-yard-kills-8-police)*
 
-### صحت
-- کانگو کے ایک نئے صوبے میں ایبولا سے موت کی اطلاع ملی ہے۔ *[ARY](https://arynews.tv/congo-reports-ebola-death-in-new-province-official-says)*
+### کھیل
+- محمد نواز کو نیشنل چیمپئنز کپ سے باہر کر دیا گیا ہے۔ *[ARY](https://arynews.tv/mohammad-nawaz-ruled-out-of-national-champions-cup)*
+- شبمن گل بھارت کی قیادت کریں گے جو 600 ویں ٹیسٹ میچ کھیلا جائے گا۔ *[ARY](https://arynews.tv/gill-says-huge-honour-to-lead-india-in-600th-test)*
+- سابق فٹ بال کھلاڑی جمی رمر کا 78 برس کی عمر میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/former-villa-title-winning-keeper-jimmy-rimmer-dead-at-78)*
 
 ### دیگر
-- چاند نظر نہ آنے کی وجہ سے عید میلاد النبی 26 اگست کو منائی جائے گی۔ *[Dawn](https://www.dawn.com/news/2022602/rabiul-awwal-moon-not-sighted-eid-miladun-nabi-to-fall-on-aug-26)*
-- بی آئی ایس ای نے سالانہ امتحانات کا شیڈول جاری کر دیا ہے۔ *[ARY](https://arynews.tv/bise-announces-ssc-annual-ii-examination-schedule)*
+- میگن مارکل اور برطانوی شاہی خاندان کے درمیان اختلافات کی خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/meghan-markle-pushes-back-against-prince-william-and-kate-middleton-amid-royal-rift-reports)*
+- مشہور گلوکارہ سیلینا گومز قانونی مشکلات کا شکار ہو گئی ہیں۔ *[ARY](https://arynews.tv/selena-gomez-in-deep-legal-trouble)*
+- کیٹی پرائس نے اپنے لائیو پوڈ کاسٹ ٹور کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/katie-price-announces-live-podcast-tour)*
 
