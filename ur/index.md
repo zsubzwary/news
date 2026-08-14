@@ -7,48 +7,44 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Aug-2026 21:09PKT 
+ &lrm; 14-Aug-2026 09:08PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- حکومت نے پٹرول کی قیمت میں 0.94 روپے کی کمی اور ہائی اسپیڈ ڈیزل میں 0.54 روپے کا اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022398/govt-cuts-petrol-price-by-re094-raises-high-speed-diesel-by-re054)*
-- کراچی واٹر اینڈ سیوریج کارپوریشن نے رہائشی صارفین کے لیے پانی اور سیوریج کے چارجز میں 7.05 فیصد اضافہ کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022427/water-starved-citizens-squeezed-further-for-more-karachi-water-and-sewerage-corporation-revenue)*
-- بلوچستان کے علاقے بولان میں گیس کی مین پائپ لائن دھماکے کے نتیجے میں کئی شہروں میں گیس کی سپلائی معطل ہو گئی۔ *[Dawn](https://www.dawn.com/news/2022550/gas-supply-to-parts-of-balochistan-suspended-after-main-pipeline-blown-up-in-bolan)*
-- بھارتی کار ساز کمپنیوں نے پیٹرول میں ایتھنول کی ملاوٹ کے حوالے سے تشویش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022553/emails-reveal-indian-carmakers-fuel-contamination-worries-before-public-retreat)*
-- پاکستان میں پیٹرول پمپوں کی بندش سے متعلق خبریں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/petrol-station-closures-and-government-talks)*
+- پیٹرولیم لیوی کی جمع بھی ریکارڈ 1.57 ٹریلین روپے تک پہنچ گئی۔ *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
+- حکومت کی جانب سے پٹرول کی قیمت میں 0.45 روپے اور ہائی سپیڈ ڈیزل میں 1.16 روپے کا اضافہ کیا گیا۔ *[Dawn](https://www.dawn.com/news/2022604/govt-raises-petrol-price-by-rs045-high-speed-diesel-by-rs116)*
+- سندھ میں مال بردار گاڑیوں کی ہڑتال کے حوالے سے وزیر اعلیٰ کا کہنا ہے کہ تنازع تقریباً حل ہو چکا ہے۔ *[Dawn](https://www.dawn.com/news/2022659/transporters-issues-almost-resolved-sindh-cm)*
 
 ### سائنس اور ٹیکنالوجی
-- سپارکو نے پاکستان کے پہلے قمری روور کا نام 'جناح-1' مقرر کرنے کا اعلان کیا ہے، جسے 2029 میں چین کے مشن کے ذریعے چاند پر بھیجا جائے گا۔ *[Dawn](https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco)*
-- چین کے مقامی طور پر تیار کردہ جیٹ لائنر C919 نے اپنی دوسری بین الاقوامی تجارتی پرواز کامیابی سے مکمل کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2022589/chinas-homegrown-narrow-body-jetliner-completes-second-ever-international-commercial-flight)*
-- ڈیپ سیک (DeepSeek) نے اپنا نیا V4 Pro ماڈل جاری کر کے اپنی توسیع کے عمل کو تیز کر دیا ہے۔ *[ARY](https://arynews.tv/deepseek-releases-official-v4-pro-model-as-it-steps-up-expansion)*
+- سپارکو نے پاکستان کے پہلے قمری روور کا نام **'جناح-1'** رکھنے کا اعلان کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022575/pakistans-first-lunar-rover-named-jinnah-1-suparco)*
+- چین کے مقامی تیار کردہ جیٹ لائنر **C919** نے اپنی دوسری بین الاقوامی تجارتی پرواز کامیابی سے مکمل کر لی۔ *[Dawn](https://www.dawn.com/news/2022589/chinas-homegrown-narrow-body-jetliner-completes-second-ever-international-commercial-flight)*
 
 ### سیاست
-- پاکستان اور ناروے نے دفاعی اور سیکورٹی کے شعبوں میں دوطرفہ تعلقات کو مضبوط بنانے کے عزم کا اعادہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022536/pakistan-norway-reaffirm-resolve-to-strengthen-bilateral-ties-expand-engagement-in-defence-and-security)*
-- پاکستان، ترکیہ اور سعودی عرب کے درمیان ہونے والے دفاعی معاہدے کے تحت نئے سیاسی اور فوجی میکانزم تشکیل دیے جائیں گے۔ *[Dawn](https://www.dawn.com/news/2022566/pakistan-turkiye-saudi-arabia-will-form-political-military-mechanisms-to-coordinate-under-defence-pact-ankara-says)*
-- ترکیہ کے صدر ایردوان نے مکہ جوائنٹ ڈیفنس ایگریمنٹ کی مزید توسیع کی خواہش کا اظہار کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022395/we-aspire-for-it-to-grow-turkiyes-erdogan-eyes-expansion-of-makkah-joint-defence-agreement)*
-- اقوام متحدہ کی رپورٹ کے مطابق افغان طالبان کی حمایت سے پاکستان میں دہشت گردانہ حملوں کی شدت اور تعدد میں اضافہ ہوا ہے۔ *[Dawn](https://www.dawn.com/news/2022505/taliban-support-fuels-deadlier-ttp-attacks-in-pakistan-un)*
-- آزاد جموں و کشمیر میں پولیس نے الزام لگایا ہے کہ JAAC نے انتخابی ڈیوٹی پر موجود 8 ہائی وے پولیس اہلکاروں کو اغوا کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022561/ajk-police-claim-jaac-abducted-8-highway-police-personnel-on-election-duty)*
-- امریکی سینیٹرز نے مشرق وسطیٰ میں تعینات ایک طیارہ بردار بحری جہاز کے حالات پر تحقیقات کا مطالبہ کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022539/us-senators-demand-inquiry-into-conditions-aboard-aircraft-carrier-deployed-in-middle-east)*
+- یوم آزادی کے موقع پر ملک کی قیادت نے اتحاد اور اصلاحات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
+- کے پی کے وزیر اعلیٰ نے کہا کہ عمران خان سے ملاقات کی تصدیق کے بغیر وہ اڈیالہ جیل کا دوبارہ دورہ نہیں کریں گے۔ *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
+- ججز کی تعیناتی کے معاملے پر حکومتی اتحاد کے رہنماؤں کے درمیان سیاسی کشیدگی برقرار ہے۔ *[Dawn](https://www.dawn.com/news/2022690/coalition-buys-time-on-judges-but-harder-questions-persist)*
 
 ### قومی
-- صومالیہ کے بحری قزاقوں کے ہاتھوں یرغمال بنائے گئے 10 پاکستانی جہاز رانوں کی رہائی کے لیے سفارتی کوششیں تیز کرنے کی ہدایت کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates)*
-- کراچی کی عدالت نے منشیات کے تین مقدمات میں الزام دائر خاتون 'پنکی' کو بری کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022587/karachi-court-acquits-drug-baroness-anmol-pinky-in-3-cases)*
-- بنوں میں ایک انٹیلی جنس بیسڈ آپریشن کے دوران دہشت گرد کمانڈر ناصر محمد 'گیدڑ' کو ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2022571/high-profile-terrorist-commander-killed-in-bannu-ibo-dpo)*
-- بلند پیک پر برفانی تودے کے نتیجے میں لاپتہ ہونے والے پاکستانی کوہ پیما سہیل سخی کی لاش برآمد کر لی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022558/body-of-missing-pakistani-climber-sohail-sakhi-recovered-on-broad-peak)*
-- اسلام آباد ہائی کورٹ نے مشہور شخصیت ارشد چائی والا کی پاسپورٹ کی تجدید کی درخواست پر متعلقہ حکام کو نوٹس جاری کر دیے ہیں۔ *[Dawn](https://www.dawn.com/news/2022409/notices-issued-in-arshad-chaiwalas-petition-seeking-renewal-of-passport)*
-- کراچی میں نوجوان کاروباری شخصیت میر رضا علی کے قتل کے کیس میں تفتیش کاروں نے ڈیجیٹل شواہد کے لیے NCCIA سے مدد طلب کر لی ہے۔ *[Dawn](https://www.dawn.com/news/2022424/investigators-seek-nccias-help-to-unlock-mir-razas-digital-footprint)*
-- لاہور میں فائرنگ کے واقعے میں دو پولیس اہلکار شہید ہو گئے ہیں۔ *[ARY](https://arynews.tv/lahore-firing-sub-inspector-among-two-police-officials-martyred)*
+- اسلام آباد میں شہداء کی یاد میں **یادگارِ فتح** کا افتتاح کر دیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022603/yadgar-i-fatah-monument-inaugurated-in-islamabad-on-eve-of-independence-day)*
+- حکومت نے بلوچستان میں 2022 کے سیلاب سے متاثرہ خاندانوں کی بحالی کے لیے اپنے عزم کا اعادہ کیا۔ *[Dawn](https://www.dawn.com/news/2022680/govt-remains-committed-to-balochistans-flood-hit-people)*
+- این سی سی آئی اے نے سائبر کرائم اور سیاہ کاری کے نیٹ ورک میں ملوث 114 غیر ملکیوں کو گرفتار کر لیا ہے۔ *[Dawn](https://www.dawn.com/news/2022592/nccia-arrests-114-foreigners-over-alleged-cyber-romance-sextortion-network)*
+- لاہور ہائی کورٹ نے اسموگ اور ماحولیاتی آلودگی کے حوالے سے برسوں پرانے مقدمے میں اہم فیصلہ سنایا۔ *[Dawn](https://www.dawn.com/news/2022599/lhc-issues-judgement-in-8-year-long-public-litigation-reaffirms-environmental-directions)*
+- مسلح افواج نے قوم کو 79 ویں یوم آزادی پر مبارکباد پیش کی ہے۔ *[ARY](https://arynews.tv/pakistan-armed-forces-congratulate-nation-on-79th-independence-day)*
+- کراچی کی عدالت نے میر رضا علی قتل کیس میں ایک کاروباری شراکت دار کو عبوری ضمانت دے دی۔ *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
+- کراچی کی عدالت نے منشیات کے تین مقدمات میں الزام میں ملزمہ انمل 'پنکی' کو بری کر دیا۔ *[Dawn](https://www.dawn.com/news/2022587/karachi-court-acquits-drug-baroness-anmol-pinky-in-3-cases)*
 
 ### بین الاقوامی
-- ایئر انڈیا نے ایک پائلٹ کے منشیات کے ٹیسٹ میں مثبت آنے کے بعد تمام پائلٹوں کے لیے منشیات کا ٹیسٹ لازمی قرار دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022582/air-india-mandates-drug-tests-for-all-pilots-after-mid-air-plunge)*
-- برطانوی شہزادیوں بیٹریس اور یو جینی کو ان کے والدین کے حوالے سے جاری تنازعات کا سامنا ہے۔ *[ARY](https://arynews.tv/princesses-beatrice-eugenie-caught-in-parents-controversy-storm)*
+- میجر جنرل جواد احمد قاضی کو اقوام متحدہ کے مشن (Minurso) کا نیا فورس کمانڈر مقرر کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022601/pakistan-army-major-general-appointed-new-force-commander-of-un-mission-in-western-sahara)*
+- صومالی قزاقوں کے ہاتھوں اغوا شدہ پاکستانی ملاحوں کی رہائی کے لیے سفارتی کوششیں تیز کرنے کی ہدایت کی گئی ہے۔ *[Dawn](https://www.dawn.com/news/2022577/dar-orders-intensified-diplomatic-engagement-for-release-of-pakistani-sailors-held-hostage-by-somali-pirates)*
+- پاکستان اور ناروے کے درمیان دفاعی اور سیکورٹی تعاون کو مضبوط بنانے پر اتفاق ہوا۔ *[Dawn](https://www.dawn.com/news/2022536/pakistan-norway-reaffirm-resolve-to-strengthen-bilateral-ties-expand-engagement-in-defence-and-security)*
+- امریکی پینٹاگون کے سربراہ کے مطابق امریکہ ایرانی بندرگاہوں پر بحری ناکہ بندی جاری رکھ سکتا ہے۔ *[ARY](https://arynews.tv/us-can-keep-naval-blockade-on-iranian-ports-indefinitely-pentagon-chief-says)*
+- ایئر انڈیا نے ایک حادثے کے بعد تمام پائلٹوں کے لیے لازمی ڈرگ ٹیسٹ کا حکم دے دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022582/air-india-mandates-drug-tests-for-all-pilots-after-mid-air-plunge)*
 
 ### صحت
-- سندھ ہائی کورٹ نے کراچی کے ایک ہسپتال میں بچوں میں ایچ آئی وی (HIV) کے پھیلاؤ کی آزادانہ تحقیقات کے لیے کمیٹی بنانے کا حکم دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022544/shc-orders-formation-of-committee-to-probe-hiv-outbreak-among-children-at-karachi-hospital)*
+- کانگو کے ایک نئے صوبے میں ایبولا سے موت کی اطلاع ملی ہے۔ *[ARY](https://arynews.tv/congo-reports-ebola-death-in-new-province-official-says)*
 
 ### دیگر
-- ہاگ ورٹس لیگیسی 2 کے آفیشل کنفرم ہونے کی خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/hogwarts-legacy-2-confirmed-fans-open-world-sequel)*
-- اداکارہ جینیفر گارنر نے اپنے کاروباری سفر کے بارے میں گفتگو کی۔ *[ARY](https://arynews.tv/jennifer-garner-talks-about-her-journey-into-business)*
-- براد پٹ کی نئی فلم 'ہارٹ آف دی بیسٹ' کا ٹریلر جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/brad-pitt-fights-for-survival-in-new-trailer-for-david-ayers-heart-of-the-beast)*
+- چاند نظر نہ آنے کی وجہ سے عید میلاد النبی 26 اگست کو منائی جائے گی۔ *[Dawn](https://www.dawn.com/news/2022602/rabiul-awwal-moon-not-sighted-eid-miladun-nabi-to-fall-on-aug-26)*
+- بی آئی ایس ای نے سالانہ امتحانات کا شیڈول جاری کر دیا ہے۔ *[ARY](https://arynews.tv/bise-announces-ssc-annual-ii-examination-schedule)*
 
