@@ -4,48 +4,44 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Aug-2026 21:03PKT
+Published at: 15-Aug-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petroleum dealers have called off a planned strike following the government's approval of a margin revision for motor spirit and high-speed diesel. *[Dawn](https://www.dawn.com/news/2022816/petroleum-dealers-call-off-planned-strike-as-govt-approves-margin-revision)*
-- Petroleum levy collections reached a record Rs1.57 trillion, even as the cost of running the civil government rose by 16% in the 2025-26 fiscal year. *[Dawn](https://www.dawn.com/news/2022699/petroleum-levy-collection-hits-record-rs157tr)*
+- The government has approved a **15.5 per cent increase** in petroleum dealers' margins, raising them by Rs1.34 per litre to **Rs9.98 per litre** to avert strikes. *[Dawn](https://www.dawn.com/news/2022943/govt-raises-petroleum-dealers-margin-to-rs998-per-litre)* / *[ARY](https://arynews.tv/petrol-dealers-call-off-nationwide-strike-after-govt-offers-margin-hike)*
+- **Container transporters** remain divided and off the roads, causing prolonged disruptions to port operations and external trade. *[Dawn](https://www.dawn.com/news/2022955/containers-to-stay-off-roads-as-transporters-remain-divided)*
+- Shipping traffic in the **Strait of Hormuz** has slowed significantly following US threats of increased economic pressure on Iran. *[ARY](https://arynews.tv/iran-and-the-ongoing-crisis-in-the-strait)*
 
 ### Science & Technology
-- Chinese AI startup Z.ai announced that its open-source GLM-5.3 model has nearly matched the performance of Anthropic's Mythos 5 in identifying software vulnerabilities and cyber-defense tests. *[Dawn](https://www.dawn.com/news/2022805/chinas-zai-says-new-model-nears-anthropics-mythos-5-in-cyber-defence-tests)*
+- **NADRA** has launched new, locally manufactured, chipless **National Identity Cards (NICs)** that utilize a secure QR code instead of an imported microchip. *[Dawn](https://www.dawn.com/news/2022811/nadra-launches-locally-made-qr-code-based-identity-cards)*
+- **Reliance Industries** and **Rolls-Royce** have announced a partnership to design and manufacture engines for India's indigenous fighter jet program. *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
+
+### Weather
+- The Flood Forecasting Division has warned of potential **high flooding** in storm-water nullahs related to the **Chenab and Ravi rivers** between August 15 and 21. *[Dawn](https://www.dawn.com/news/2022937/chenab-ravi-nullahs-may-enter-high-flood-category)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif briefed President Zardari on a newly signed tripartite defense pact between Pakistan, Saudi Arabia, and Turkiye. *[Dawn](https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact)*
-- President Zardari has approved the summoning of both the National Assembly and the Senate for sessions starting August 17. *[Dawn](https://www.dawn.com/news/2022758/president-zardari-approves-summoning-of-na-senate-sessions-on-august-17)*
-- Khyber Pakhtunkhwa Chief Minister Sohail Afridi stated he will not visit Adiala jail again until the government provides official confirmation of a meeting with PTI founder Imran Khan. *[Dawn](https://www.dawn.com/news/2022692/no-adiala-visit-without-confirmation-of-meeting-says-kp-cm-afridi)*
+- Serious debates are occurring regarding the creation of **new administrative units** and provinces, which may be a precursor to the proposed **28th Constitutional Amendment**. *[Dawn](https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration)*
 
 ### National
-- Pakistan celebrated its 79th Independence Day with various ceremonies, as national leadership emphasized the necessity of unity and institutional reforms. *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
-- World leaders and diplomats, including Saudi royalty and US officials, extended congratulations to Pakistan on its Independence Day. *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
-- The Balochistan Home Minister, Mir Ziaullah Langove, escaped unhurt after his convoy was attacked in Mastung, an incident that left six people injured. *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
-- A terrorist attack on a police post in Bajaur district resulted in the martyrdom of one police officer and the injury of another. *[Dawn](https://www.dawn.com/news/2022779/cop-martyred-another-injured-in-terrorist-attack-on-police-post-in-bajaur)*
-- Celebratory aerial firing during Independence Day eve festivities in Karachi resulted in two deaths and 94 injuries. *[Dawn](https://www.dawn.com/news/2022755/2-dead-94-injured-in-celebratory-aerial-firing-incidents-in-karachi-on-independence-day-eve)*
-- Former Sindh minister Ghulam Rasool Unnar has approached the court seeking an FIR against his ex-wife, alleging she used AI to edit and alter her previously shared pictures. *[Dawn](https://www.dawn.com/news/2022652/ex-sindh-minister-seeks-fir-against-ex-wife-over-ai-edited-pictures)*
-- A sessions court has granted interim pre-arrest bail to a business partner involved in the Mir Raza Ali murder case. *[Dawn](https://www.dawn.com/news/2022648/business-partner-granted-interim-bail-in-mir-raza-ali-murder-case)*
-- NADRA has issued a new version of the CNIC that features a QR code. *[ARY](https://arynews.tv/nadra-issues-new-cnic-featurin-qr-code)*
-- The Ehsaas Umeed Card has been launched to provide Rs 5,000 monthly to persons with disabilities. *[ARY](https://arynews.tv/rs-5000-every-month-ehsaas-umeed-card-for-persons-with-disabilities)*
+- **Polling is currently underway** at 23 stations across two constituencies in the Bagh district of Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2023001/balloting-underway-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district)*
+- President Asif Ali Zardari has approved **355 civil awards** and **1,172 military awards** in recognition of services on Independence Day. *[Dawn](https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day)*
+- **Gas supply disruptions** persist in several parts of Balochistan after a main gas pipeline was destroyed by explosives in the Kachhi district. *[Dawn](https://www.dawn.com/news/2022935/gas-supply-disruption-persists-in-balochistan-as-repair-work-awaits-security-clearance)*
+- Law enforcement officials killed **two suspects** involved in the fatal shooting of three police officers during a fire exchange in Muridke. *[Dawn](https://www.dawn.com/news/2022832/2-suspects-in-fatal-attacks-on-lahore-cops-killed-in-muridke-fire-exchange-say-police)*
+- An armed attack on the convoy of **Balochistan Home Minister** Mir Ziaullah Langove in Mastung left six people injured, though the minister remained unhurt. *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
+- Pakistan’s leadership emphasized the importance of **unity and reform** during the country's 79th Independence Day celebrations. *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
 
 ### International
-- Pakistan's Interior Minister Mohsin Naqvi met with the Norwegian Foreign Minister to discuss bilateral relations and concerns regarding the use of Afghan soil for terror attacks. *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
-- US envoy Jared Kushner is scheduled to visit Israel and Egypt to mediate and bridge gaps regarding a proposed Gaza peace plan. *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
-- India's Reliance Industries and Britain's Rolls-Royce have partnered to design and manufacture engines for India's indigenous fighter jet program. *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
-- Nigel Farage has regained his seat in the UK Parliament following a recent election. *[Dawn](https://www.dawn.com/news/2022761/nigel-farage-regains-uk-parliamentary-seat-fights-off-count-binface-challenge)*
-- At least eight workers were killed following a toxic gas leak at a shipbreaking yard in Chittagong, Bangladesh. *[Dawn](https://www.dawn.com/news/2022803/gas-leak-at-bangladesh-shipbreaking-yard-kills-8-police)*
-
-### Sports
-- Cricketer Mohammad Nawaz has been ruled out of the National Champions Cup. *[ARY](https://arynews.tv/mohammad-nawaz-ruled-out-of-national-champions-cup)*
-- Shubman Gill will lead India in their upcoming 600th Test match. *[ARY](https://arynews.tv/gill-says-huge-honour-to-lead-india-in-600th-test)*
-- Former Aston Villa title-winning goalkeeper Jimmy Rimmer has passed away at the age of 78. *[ARY](https://arynews.tv/former-villa-title-winning-keeper-jimmy-rimmer-dead-at-78)*
+- **US President Donald Trump** has signaled plans to claim control over the Hormuz Strait, amid rising regional tensions. *[Dawn](https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon)*
+- **Jared Kushner** is set to visit Israel and Egypt to attempt to bridge gaps regarding a proposed Gaza peace plan. *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
+- Pakistan, Saudi Arabia, and Turkiye have signed the **Makkah Joint Defence Agreement (MJDA)** to strengthen collective deterrence. *[Dawn](https://www.dawn.com/news/2022984/the-middle-easts-nato)*
+- World leaders, including the Iranian President and US State Secretary, have extended **congratulatory messages** to Pakistan on its Independence Day. *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
+- Interior Minister Mohsin Naqvi met with the **Norwegian Foreign Minister** to discuss counterterrorism cooperation and the use of Afghan soil against Pakistan. *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
 
 ### Other
-- Reports suggest ongoing tension and a potential rift between Meghan Markle and members of the British Royal Family. *[ARY](https://arynews.tv/meghan-markle-pushes-back-against-prince-william-and-kate-middleton-amid-royal-rift-reports)*
-- Pop star Selena Gomez is reportedly facing significant legal issues. *[ARY](https://arynews.tv/selena-gomez-in-deep-legal-trouble)*
-- Speculation continues regarding the involvement of Cristiano Ronaldo's family in his upcoming wedding plans. *[ARY](https://arynews.tv/inside-the-buzz-are-cristiano-ronaldos-family-members-really-missing-from-his-wedding-plans)*
-- Katie Price has announced a new tour for her live podcast. *[ARY](https://arynews.tv/katie-price-announces-live-podcast-tour)*
+- **Luigi Mangione** has pleaded guilty in a federal case regarding the killing of an insurance CEO. *[ARY](https://arynews.tv/luigi-mangione-admits-killing-insurance-ceo-pleads-guilty-in-federal-case)*
+- Disney has unveiled the first trailer for its new supernatural teen series, ***Coven Academy***. *[ARY](https://arynews.tv/disney-unveils-first-trailer-for-coven-academy-a-new-supernatural-teen-series)*
+- **Kim Kardashian and Kris Jenner** secured a victory in a defamation lawsuit involving Ray J. *[ARY](https://arynews.tv/kim-kardashian-kris-jenner-receive-big-victory-in-ray-j-defamation-lawsuit)*
+- Disney released character teasers featuring a new look for Anna and Elsa in ***Frozen 3***. *[ARY](https://arynews.tv/disney-unveils-new-look-for-anna-and-elsa-in-frozen-3-character-tease)*
+- Various reports have surfaced regarding the **British Royal Family**, covering topics from flying etiquette to internal rifts involving Meghan Markle and Kate Middleton. *[ARY](https://arynews.tv/the-surprising-modest-rule-prince-william-and-kate-middleton-follow-when-flying-commercial)* / *[ARY](https://arynews.tv/meghan-markle-pushes-back-against-prince-william-and-kate-middleton-amid-royal-rift-reports)*
 
