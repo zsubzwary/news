@@ -7,42 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 15-Aug-2026 09:08PKT 
+ &lrm; 15-Aug-2026 21:08PKT 
 
 پڑھنے کا وقت : 3 منٹ 
 
 ### معیشت
-- پیٹرولیم ڈیلرز کے مارجن میں 15.5 فیصد اضافے کے بعد ان کی قومی سطح پر ہڑتال ختم کرنے کا فیصلہ کیا گیا ہے۔ *[Dawn](https://www.dawn.com/news/2022943/govt-raises-petroleum-dealers-margin-to-rs998-per-litre)*
-- کنٹینر ٹرالرز اور دیگر بڑے ٹرانسپورٹرز کی ہڑتال جاری ہے، جس سے بندرگاہوں کی کارروائی اور ملک کی برآمدات متاثر ہو رہی ہیں۔ *[Dawn](https://www.dawn.com/news/2022955/containers-to-stay-off-roads-as-transporters-remain-divided)*
+- خیبر پختونخوا حکومت نے وفاقی منتقلیوں سے 6.4 ارب روپے کی کٹوتی کی وفاقی تجویز کو مسترد کر دیا ہے۔ *[Dawn](https://www.dawn.com/news/2023050/kp-rejects-centres-proposal-to-deduct-rs64bn-from-federal-transfers)*
+- پیٹرولیم ڈیلرز کے مارجن میں اضافے کے نتیجے میں صارفین پر پڑنے والے مالیاتی اثرات کا تجزیہ۔ *[Dawn](https://www.dawn.com/news/2023043/who-ultimately-bears-the-cost-of-higher-petroleum-dealer-margins)*
+- سامان لانے والے ٹرانسپورٹرز کی ہڑتال کے حوالے سے صورتحال اور حکومت کے ساتھ معاہدہ۔ *[Dawn](https://www.dawn.com/news/2022955/containers-to-stay-off-roads-as-transporters-remain-divided)*
+- متحدہ عرب امارات کے درہم اور سعودی ریال کے پاکستانی روپے کے مقابلے میں تازہ ترین نرخ۔ *[ARY](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026)* / *[ARY](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026)*
 
 ### سائنس اور ٹیکنالوجی
-- نادرا نے مقامی طور پر تیار کردہ کیو آر کوڈ (QR code) پر مبنی نئے شناختی کارڈ متعارف کروا دیے ہیں، جو کہ پہلے استعمال ہونے والے درآمدی مائیکرو چپ کا متبادل ہوں گے۔ *[Dawn](https://www.dawn.com/news/2022811/nadra-launches-locally-made-qr-code-based-identity-cards)*
+- کلاڈ (Claude) کے واٹر مارک کے حوالے سے صارفین کے اشتراک منسوخ کرنے کا رجحان۔ *[ARY](https://arynews.tv/claude-watermark-backlash-drives-users-to-cancel-subscriptions)*
 
 ### موسم
-- محکمہ موسمیات نے 15 سے 21 اگست کے دوران دریائے چناب اور راوی کے نالوں میں اونچے درجے کے سیلاب کا خدشہ ظاہر کیا ہے۔ *[Dawn](https://www.dawn.com/news/2022937/chenab-ravi-nullahs-may-enter-high-flood-category)*
+- بیلجیم میں شدید جنگل کی آگ جس کے نتیجے میں کم از کم 1600 ہیکٹر زمین متاثر ہوئی۔ *[ARY](https://arynews.tv/belgium-wildfire-burns-at-least-1600-hectares)*
 
 ### سیاست
-- نئے صوبوں کی تخلیق اور انتظامی اکائیوں کی تشکیل کے حوالے سے حکومت کے اندر سنجیدہ بحث جاری ہے، جو ممکنہ طور پر 28ویں آئینی ترمیم کا پیش خیمہ ہو سکتی ہے۔ *[Dawn](https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration)*
-- پاکستان، سعودی عرب اور ترکی کے درمیان دفاعی تعاون کے لیے ایک تاریخی دفاعی معاہدہ طے پایا ہے۔ *[Dawn](https://www.dawn.com/news/2022808/pm-shehbaz-briefs-president-zardari-on-pak-saudi-turkiye-defence-pact)*
-- وزیر داخلہ محسن نقوی نے ناروے کے وزیر خارجہ کے ساتھ ملاقات میں دہشت گردی کے خلاف تعاون اور افغان سرزمین کے غلط استعمال کے مسائل پر تبادلہ خیال کیا۔ *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
+- نواز شریف کا بیان کہ سیاسی اختلافات کو دشمنی میں نہیں بدلنا چاہیے۔ *[Dawn](https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz)*
+- جماعت اسلامی کا پیٹرولیم لیوی کے خلاف ملک گیر احتجاج اور بیٹھکوں کا اعلان۔ *[Dawn](https://www.dawn.com/news/2023049/ji-announces-countrywide-protest-against-petroleum-levy-on-sunday)*
+- علیم خان کی حجرہ صوبے کی حمایت اور نئے انتظامی یونٹس کے قیام پر زور۔ *[Dawn](https://www.dawn.com/news/2023044/aleem-khan-expresses-support-for-hazara-province-calls-for-new-administrative-units)*
+- آزاد جموں و کشمیر کے باغ ضلع میں پولنگ کا اختتام اور ووٹرز کی کم شرکت۔ *[Dawn](https://www.dawn.com/news/2023001/polling-concludes-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district)*
+- نئے صوبوں کے قیام اور 28ویں آئینی ترمیم کے حوالے سے حکومتی سطح پر جاری بحث۔ *[Dawn](https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration)*
 
 ### قومی
-- آزاد جموں و کشمیر کے ضلع باغ میں انتخابی عمل جاری ہے۔ *[Dawn](https://www.dawn.com/news/2023001/balloting-underway-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district)*
-- یوم آزادی کے موقع پر صدر زرداری نے 355 شہری ایوارڈز اور 1,172 فوجی اعزازات کی منظوری دی۔ *[Dawn](https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day)*
-- بلوچستان میں گیس پائپ لائن پر حملے کے نتیجے میں سپلائی معطل ہے، تاہم سیکیورٹی کلیئرنس کے بغیر مرمت کا کام شروع نہیں ہو سکا۔ *[Dawn](https://www.dawn.com/news/2022935/gas-supply-disruption-persists-in-balochistan-as-repair-work-awaits-security-clearance)*
-- لاہور پولیس پر حملہ کرنے والے دو ملزمان کو پولیس مقابلے کے دوران ہلاک کر دیا گیا۔ *[Dawn](https://www.dawn.com/news/2022832/2-suspects-in-fatal-attacks-on-lahore-cops-killed-in-muridke-fire-exchange-say-police)*
-- بلوچستان کے وزیر داخلہ کے قافلے پر مستونگ میں مسلح حملہ کیا گیا، جس میں 6 افراد زخمی ہوئے۔ *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
-- یوم آزادی کے موقع پر ملک بھر میں جشن منایا گیا اور قیادت نے اتحاد اور اصلاحات کی ضرورت پر زور دیا۔ *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
+- وزیراعظم شہباز شریف کی این ڈی ایم اے کو سیلاب متاثرہ علاقوں میں فوری امداد کی فراہمی کے احکامات۔ *[Dawn](https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas)*
+- سیکیورٹی خدشات کے باعث اپر دیر کے سرحدی علاقوں میں 18 لڑکیوں کے اسکولوں کی عارضی بندش کی سفارش۔ *[Dawn](https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns)*
+- میر رضا علی قتل کیس میں بزنس پارٹنر کی ضمانت کی مدت میں توسیع۔ *[Dawn](https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24)* / *[ARY](https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team)*
+- یوم آزادی کے موقع پر صدر زرداری کی جانب سے 355 شہری ایوارڈز کا اعلان۔ *[Dawn](https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day)*
+- اسلام آباد پولیس کی کارکردگی بہتر بنانے کے لیے 30 نئے سرکاری kendaraan فراہم کیے گئے۔ *[Dawn](https://www.dawn.com/news/2023018/islamabad-police-get-30-new-vehicles-ending-14-year-wait)*
+- اسلام آباد بار ایسوسی ایشن کی ایمان مزاری کی بگڑتی ہوئی صحت پر تشویش۔ *[Dawn](https://www.dawn.com/news/2022843/islamabad-bar-concerned-about-imaan-mazaris-health)*
 
 ### بین الاقوامی
-- ڈونلڈ ٹرمپ نے ایران پر دباؤ بڑھانے کے لیے ہرمز کے مقام پر قبضے کا اشارہ دیا ہے۔ *[Dawn](https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon)*
-- امریکی ایلچی جارڈ کشنر غزہ کے تنازعے کو حل کرنے کے منصوبے کے سلسلے میں اسرائیل کا دورہ کریں گے۔ *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
-- بھارتی کمپنی ریلائنس اور برطانوی کمپنی رولز رائس کا جنگی طیاروں کے انجن تیار کرنے کا منصوبہ ہے۔ *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
-- دنیا بھر کے رہنماؤں نے پاکستان کو یوم آزادی کی مبارکباد پیش کی۔ *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
-- امریکہ میں انشورنس سی ای او کے قتل کے الزام میں لگیئی لوئیگی میگیونی نے عدالت میں جرم تسلیم کر لیا ہے۔ *[ARY](https://arynews.tv/luigi-mangione-admits-killing-insurance-ceo-pleads-guilty-in-federal-case)*
+- انڈونیشیا میں شدید زلزلے کے نتیجے میں جانی نقصان کی تعداد 47 تک پہنچ گئی۔ *[Dawn](https://www.dawn.com/news/2023007/rescuers-search-for-survivors-as-indonesian-77-quake-death-toll-rises-to-47)* / *[ARY](https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake)*
+- بھارتی وزیراعظم نریندر مودی کی نوجوانوں کے لیے مفت آن لائن کوچنگ اور اے آئی ٹریننگ کا اعلان۔ *[Dawn](https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training)*
+- طالبان کی اقتدار میں پانچ سال مکمل، امدادی گروہوں نے انسانی بحران کا انتباہ کیا۔ *[Dawn](https://www.dawn.com/news/2023028/taliban-mark-5-years-in-power-as-aid-groups-warn-of-crisis)*
+- ٹرمپ کا ہرمز کے مقام پر دعویٰ کرنے کا اشارہ اور ایران کے ساتھ بڑھتی ہوئی کشیدگی۔ *[Dawn](https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon)*
+- یورپ کے لیے پاکستان کے ساتھ تزویراتی تعلقات برقرار رکھنے کی اہمیت۔ *[Dawn](https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan)*
+- ایران جنگ کے جاپان کی معیشت پر پڑنے والے ممکنہ اثرات۔ *[ARY](https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan)*
+- کویت میں ایک بنگلہ دیشی بس ڈرائیور کا قتل۔ *[ARY](https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait)*
 
 ### دیگر
-- ڈزنی نے اپنی نئی سیریز 'کوون اکیڈمی' اور 'فروزن 3' کے حوالے سے نئی معلومات جاری کیں۔ *[ARY](https://arynews.tv/disney-unveils-first-trailer-for-coven-academy-a-new-supernatural-teen-series)*
-- کِم کارڈشیان اور کرس جی너 کو ڈیفیمیشن کے مقدمے میں بڑی کامیابی ملی ہے۔ *[ARY](https://arynews.tv/kim-kardashian-kris-jenner-receive-big-victory-in-ray-j-defamation-lawsuit)*
-- برطانوی شاہی خاندان کے اراکین اور ان کے ذاتی معاملات کے حوالے سے مختلف خبریں سامنے آئی ہیں۔ *[ARY](https://arynews.tv/how-kate-william-and-harry-fare-in-a-levels-royal-familys-exam-results-revealed)*
+- کیمبرج کے سابق پروفیسر جیسن آرڈے کی موت۔ *[Dawn](https://www.dawn.com/news/2023009/ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead)*
+- مشہور ڈرامہ 'ہاؤس آف دی ڈریگن' سے متعلق خبر۔ *[ARY](https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne)*
+- فلم 'ٹینگلڈ' (Tangled) کا پہلا منظر اور ریلیز کی تاریخ کا اعلان۔ *[ARY](https://arynews.tv/tangled-live-action-movie-gets-first-look)*
 
