@@ -4,44 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Aug-2026 09:03PKT
+Published at: 15-Aug-2026 21:03PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- The government has approved a **15.5 per cent increase** in petroleum dealers' margins, raising them by Rs1.34 per litre to **Rs9.98 per litre** to avert strikes. *[Dawn](https://www.dawn.com/news/2022943/govt-raises-petroleum-dealers-margin-to-rs998-per-litre)* / *[ARY](https://arynews.tv/petrol-dealers-call-off-nationwide-strike-after-govt-offers-margin-hike)*
-- **Container transporters** remain divided and off the roads, causing prolonged disruptions to port operations and external trade. *[Dawn](https://www.dawn.com/news/2022955/containers-to-stay-off-roads-as-transporters-remain-divided)*
-- Shipping traffic in the **Strait of Hormuz** has slowed significantly following US threats of increased economic pressure on Iran. *[ARY](https://arynews.tv/iran-and-the-ongoing-crisis-in-the-strait)*
+- The Khyber Pakhtunkhwa government has rejected a federal proposal to deduct Rs6.4 billion from provincial transfers. *[Dawn](https://www.dawn.com/news/2023050/kp-rejects-centres-proposal-to-deduct-rs64bn-from-federal-transfers)*
+- Analysis explores the potential impact on consumers following the federal government's increase in petroleum dealer commissions. *[Dawn](https://www.dawn.com/news/2023043/who-ultimately-bears-the-cost-of-higher-petroleum-dealer-margins)*
+- Container transporters and major operators remain off the roads, causing ongoing disruptions to port operations and external trade. *[Dawn](https://www.dawn.com/news/2022955/containers-to-stay-off-roads-as-transporters-remain-divided)*
+- Daily exchange rate updates for the UAE Dirham and Saudi Riyal against the Pakistani Rupee. *[ARY News](https://arynews.tv/uae-dirham-to-pakistani-rupee-rate-today-august-15-2026)* / *[ARY News](https://arynews.tv/saudi-riyal-to-pakistani-rupee-rate-today-august-15-2026)*
 
 ### Science & Technology
-- **NADRA** has launched new, locally manufactured, chipless **National Identity Cards (NICs)** that utilize a secure QR code instead of an imported microchip. *[Dawn](https://www.dawn.com/news/2022811/nadra-launches-locally-made-qr-code-based-identity-cards)*
-- **Reliance Industries** and **Rolls-Royce** have announced a partnership to design and manufacture engines for India's indigenous fighter jet program. *[Dawn](https://www.dawn.com/news/2022814/indian-firm-to-make-fighter-jet-engines-with-rolls-royce)*
+- Backlash regarding Claude AI's watermarking feature is reportedly driving users to cancel their subscriptions. *[ARY News](https://arynews.tv/claude-watermark-backlash-drives-users-to-cancel-subscriptions)*
 
 ### Weather
-- The Flood Forecasting Division has warned of potential **high flooding** in storm-water nullahs related to the **Chenab and Ravi rivers** between August 15 and 21. *[Dawn](https://www.dawn.com/news/2022937/chenab-ravi-nullahs-may-enter-high-flood-category)*
+- A fast-growing wildfire in Belgium has burned at least 1,600 hectares. *[ARY News](https://arynews.tv/belgium-wildfire-burns-at-least-1600-hectares)*
 
 ### Politics
-- Serious debates are occurring regarding the creation of **new administrative units** and provinces, which may be a precursor to the proposed **28th Constitutional Amendment**. *[Dawn](https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration)*
+- PML-N leader Nawaz Sharif urged political rivals to ensure that differences do not escalate into personal animosity. *[Dawn](https://www.dawn.com/news/2023039/political-rivals-should-not-let-differences-turn-into-animosity-says-nawaz)*
+- Jamaat-i-Islami has announced countrywide sit-ins and marches against the petroleum levy and other taxes. *[Dawn](https://www.dawn.com/news/2023049/ji-announces-countrywide-protest-against-petroleum-levy-on-sunday)*
+- Istehkam-i-Pakistan Party President Aleem Khan expressed support for the creation of a new Hazara province. *[Dawn](https://www.dawn.com/news/2023044/aleem-khan-expresses-support-for-hazara-province-calls-for-new-administrative-units)*
+- High-level government discussions are underway regarding the creation of new administrative units and a potential 28th Constitutional Amendment. *[Dawn](https://www.dawn.com/news/2022951/new-administrative-units-under-serious-consideration)*
+- President Asif Ali Zardari approved 355 national civil awards and over 1,100 military awards for Independence Day. *[Dawn](https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day)*
 
 ### National
-- **Polling is currently underway** at 23 stations across two constituencies in the Bagh district of Azad Jammu and Kashmir. *[Dawn](https://www.dawn.com/news/2023001/balloting-underway-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district)*
-- President Asif Ali Zardari has approved **355 civil awards** and **1,172 military awards** in recognition of services on Independence Day. *[Dawn](https://www.dawn.com/news/2022933/presidency-announces-355-civil-awards-on-independence-day)*
-- **Gas supply disruptions** persist in several parts of Balochistan after a main gas pipeline was destroyed by explosives in the Kachhi district. *[Dawn](https://www.dawn.com/news/2022935/gas-supply-disruption-persists-in-balochistan-as-repair-work-awaits-security-clearance)*
-- Law enforcement officials killed **two suspects** involved in the fatal shooting of three police officers during a fire exchange in Muridke. *[Dawn](https://www.dawn.com/news/2022832/2-suspects-in-fatal-attacks-on-lahore-cops-killed-in-muridke-fire-exchange-say-police)*
-- An armed attack on the convoy of **Balochistan Home Minister** Mir Ziaullah Langove in Mastung left six people injured, though the minister remained unhurt. *[Dawn](https://www.dawn.com/news/2022775/balochistan-home-minister-unhurt-as-convoy-comes-under-attack-in-mastung)*
-- Pakistan’s leadership emphasized the importance of **unity and reform** during the country's 79th Independence Day celebrations. *[Dawn](https://www.dawn.com/news/2022742/pakistans-leadership-stresses-need-for-unity-reforms-as-nation-celebrates-independence-day)*
+- Polling in two constituencies of AJK's Bagh district has concluded with reported negligible voter turnout. *[Dawn](https://www.dawn.com/news/2023001/polling-concludes-at-23-polling-stations-in-2-constituencies-of-ajks-bagh-district)*
+- Eighteen girls' schools in the border areas of Upper Dir are recommended for a week-long closure due to security concerns. *[Dawn](https://www.dawn.com/news/2023038/18-girls-schools-in-upper-dir-border-areas-recommended-for-week-long-closure-over-security-concerns)*
+- Prime Minister Shehbaz Sharif has directed the NDMA to ensure maximum relief and assistance for citizens in flood-hit areas. *[Dawn](https://www.dawn.com/news/2023012/pm-shehbaz-directs-ndma-to-ensure-relief-for-citizens-in-flood-hit-areas)*
+- Islamabad police have received 30 new vehicles to improve mobility and response times after a 14-year gap. *[Dawn](https://www.dawn.com/news/2023018/islamabad-police-get-30-new-vehicles-ending-14-year-wait)*
+- The Islamabad Bar Association has raised concerns regarding the deteriorating health of Imaan Mazari while in custody. *[Dawn](https://www.dawn.com/news/2022843/islamabad-bar-concerned-about-imaan-mazaris-health)*
+- Updates continue in the Mir Raza Ali murder investigation, with new police personnel joining the team. *[Dawn](https://www.dawn.com/news/2023021/mir-raza-alis-murder-interim-bail-of-deceaseds-business-partner-extended-till-aug-24)* / *[ARY News](https://arynews.tv/mir-raza-ali-case-two-more-police-personnel-join-investigation-team)*
 
 ### International
-- **US President Donald Trump** has signaled plans to claim control over the Hormuz Strait, amid rising regional tensions. *[Dawn](https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon)*
-- **Jared Kushner** is set to visit Israel and Egypt to attempt to bridge gaps regarding a proposed Gaza peace plan. *[Dawn](https://www.dawn.com/news/2022801/trumps-envoy-jared-kushner-to-visit-israel-to-bridge-gaps-on-gaza-plan)*
-- Pakistan, Saudi Arabia, and Turkiye have signed the **Makkah Joint Defence Agreement (MJDA)** to strengthen collective deterrence. *[Dawn](https://www.dawn.com/news/2022984/the-middle-easts-nato)*
-- World leaders, including the Iranian President and US State Secretary, have extended **congratulatory messages** to Pakistan on its Independence Day. *[Dawn](https://www.dawn.com/news/2022800/world-leaders-extend-greetings-to-pakistan-on-independence-day-hail-bilateral-ties)*
-- Interior Minister Mohsin Naqvi met with the **Norwegian Foreign Minister** to discuss counterterrorism cooperation and the use of Afghan soil against Pakistan. *[Dawn](https://www.dawn.com/news/2022764/afghan-soil-being-used-against-pakistan-naqvi-tells-norway-fm-as-two-discuss-counterterrorism-cooperation)*
+- A powerful 7.7-magnitude earthquake struck Indonesia's eastern Flores island, resulting in at least 47 deaths. *[Dawn](https://www.dawn.com/news/2023007/rescuers-search-for-survivors-as-indonesian-77-quake-death-toll-rises-to-47)* / *[ARY News](https://arynews.tv/indonesia-north-sumatra-hit-by-6-4-magnitude-earthquake)*
+- Indian Prime Minister Narendra Modi announced free online coaching and AI training to assist youth with competitive exams. *[Dawn](https://www.dawn.com/news/2023037/indias-modi-woos-youth-with-free-coaching-ai-training)*
+- The Taliban marked five years in power, while aid and rights groups issued warnings regarding escalating humanitarian crises. *[Dawn](https://www.dawn.com/news/2023028/taliban-mark-5-years-in-power-as-aid-groups-warn-of-crisis)*
+- US President Donald Trump has signaled intentions regarding the Hormuz strait amidst tensions involving Iran. *[Dawn](https://www.dawn.com/news/2022956/trump-signals-plan-to-claim-hormuz-soon)*
+- Geopolitical analysis suggests the European Union cannot afford to sideline Pakistan in its strategic calculations. *[Dawn](https://www.dawn.com/news/2023032/the-strategic-imperative-why-europe-cannot-afford-to-sideline-pakistan)*
+- The conflict involving Iran is reportedly having significant economic and strategic impacts on Japan. *[ARY News](https://arynews.tv/how-iran-war-is-quietly-destroying-uss-biggest-ally-i-e-japan)*
+- A Bangladeshi bus driver was reportedly killed in Kuwait. *[ARY News](https://arynews.tv/bangladeshi-bus-driver-killed-in-kuwait)*
+- Former Cambridge professor Jason Arday, involved in a plagiarism scandal, has been found dead in London. *[Dawn](https://www.dawn.com/news/2023009/ex-cambridge-professor-at-centre-of-plagiarism-scandal-found-dead)*
 
 ### Other
-- **Luigi Mangione** has pleaded guilty in a federal case regarding the killing of an insurance CEO. *[ARY](https://arynews.tv/luigi-mangione-admits-killing-insurance-ceo-pleads-guilty-in-federal-case)*
-- Disney has unveiled the first trailer for its new supernatural teen series, ***Coven Academy***. *[ARY](https://arynews.tv/disney-unveils-first-trailer-for-coven-academy-a-new-supernatural-teen-series)*
-- **Kim Kardashian and Kris Jenner** secured a victory in a defamation lawsuit involving Ray J. *[ARY](https://arynews.tv/kim-kardashian-kris-jenner-receive-big-victory-in-ray-j-defamation-lawsuit)*
-- Disney released character teasers featuring a new look for Anna and Elsa in ***Frozen 3***. *[ARY](https://arynews.tv/disney-unveils-new-look-for-anna-and-elsa-in-frozen-3-character-tease)*
-- Various reports have surfaced regarding the **British Royal Family**, covering topics from flying etiquette to internal rifts involving Meghan Markle and Kate Middleton. *[ARY](https://arynews.tv/the-surprising-modest-rule-prince-william-and-kate-middleton-follow-when-flying-commercial)* / *[ARY](https://arynews.tv/meghan-markle-pushes-back-against-prince-william-and-kate-middleton-amid-royal-rift-reports)*
+- A first look and release date have been announced for the upcoming live-action *Tangled* movie. *[ARY News](https://arynews.tv/tangled-live-action-movie-gets-first-look)*
+- Feature content regarding the character dynamics in *House of the Dragon*. *[ARY News](https://arynews.tv/house-of-the-dragon-who-takes-the-iron-throne)*
 
