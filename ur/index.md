@@ -7,27 +7,29 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 17-Aug-2026 09:08PKT 
+ &lrm; 17-Aug-2026 21:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### قومی
-- **یو نیسکو (UNESCO)** میں ملازمتوں کے لیے پاکستانی پیشہ ور افراد درخواست دینے کا طریقہ جان سکتے ہیں۔ *[ARY](https://arynews.tv/unesco-jobs-heres-how-pakistani-professionals-can-apply)*
-- **ردھیکا ریڈی** کی موت کے معاملے میں پولیس نے لڑکے کو حراست میں لے لیا ہے۔ *[ARY](https://arynews.tv/ridhika-ridhi-death-boyfriend-detained-by-police)*
-- ٹک ٹاکر **شمسو بی بی** کے قتل کی سی سی ٹی وی (CCTV) فوٹیج منظر عام پر آگئی ہے۔ *[ARY](https://arynews.tv/tiktoker-shamsoo-bibi-cctv-footage)*
-
-### بین الاقوامی
-- شہزادہ **ہری اور میگن** کے درمیان شاہی اختلافات کیلیفورنیا کے کاروباری ماڈل کے لیے تجارتی نقصان کا باعث بن رہے ہیں۔ *[ARY](https://arynews.tv/harry-and-meghans-royal-rift-become-a-commercial-liability-for-the-california-business-model)*
-- شہزادہ ہری نے میگن پر زور دیا ہے کہ وہ **شاہی موقع** سے فائدہ اٹھائیں کیونکہ یہ موقع زیادہ دیر تک دستیاب نہیں رہے گا۔ *[ARY](https://arynews.tv/prince-harry-urges-meghan-to-seize-royal-chance-this-window-wont-stay-open)*
+### سیاست
+- **پی پی پی** کا وفد کل اپوزیشن لیڈر سے ملاقات کرے گا۔ *[ARY](https://arynews.tv/ppp-delegation-to-meet-with-mahmood-khan-achakzai)*
 
 ### سائنس اور ٹیکنالوجی
-- **اینڈرائیڈ 17 بیٹا 3** اپ ڈیٹ کے ذریعے 'کوئیک سیٹنگز' (Quick Settings) میں بڑی تبدیلیاں متعارف کرائی گئی ہیں۔ *[ARY](https://arynews.tv/android-17-beta-3-update-brings-major-quick-settings-changes)*
+- ایک نئی تحقیق کے مطابق **اسکرین شاٹس** لینے سے یادداشت میں کمی واقع ہو سکتی ہے۔ *[ARY](https://arynews.tv/taking-screenshots-actually-cause-memory-loss-new-study-finds)*
 
-### کھیل
-- **کرسٹیانو رونالڈو** نے ممکنہ ریٹائرمنٹ کا اشارہ دیا ہے، 2026 کا سیزن ان کا پیشہ ورانہ فٹ بال کا آخری سیزن ہو سکتا ہے۔ *[ARY](https://arynews.tv/cristiano-ronaldo-signals-potential-retirement-2026-season-could-be-his-last-in-professional-football)*
+### قومی
+- **ایس ایس جی سی (SSGC)** نے مخصوص علاقوں کے لیے گیس کی فراہمی کا شیڈول جاری کر دیا ہے۔ *[ARY](https://arynews.tv/gas-supply-schedule-announced-for-these-areas-by-ssgc)*
+- **ایچ ایس سی (HSC)** پارٹ ٹو پری انجینئرنگ کے نتائج کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/hsc-part-2-pre-engineering-results-2026-announced)*
+
+### بین الاقوامی
+- **ایران** نے دھمکی دی ہے کہ اگر امریکہ کے ساتھ سفارتی کوششیں ناکام ہوئیں تو وہ ہرمز کے تنگ نظری (Strait of Hormuz) میں جارحانہ کارروائی کر سکتا ہے۔ *[ARY](https://arynews.tv/iran-threatens-to-go-on-offensive-in-strait-of-hormuz)*
+- **کنگ چارلس** نے کسانوں کی خدمات کو سراہا جبکہ ان کے بھتیجے نے اپنے نئے سفر کا آغاز کیا۔ *[ARY](https://arynews.tv/king-charles-honors-farmers-as-nephew-embarks-on-new-journey)*
+
+### صحت
+- حکومت نے سرکاری ملازمین کے لیے **ہیپاٹائٹس اسکریننگ** پروگرام کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/government-employees-to-undergo-hepatitis-screening)*
 
 ### دیگر
-- 'ہیروز' اور 'سکرام' کی اداکارہ **ہیڈن پینیٹیر** کا 36 سال کی عمر میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/heroes-and-scream-actress-hayden-panettiere-passes-away-at-36)*
-- 'اوراپن 2' کی کامیابی کے بعد عمران ہاشمی کی فلم **'جنت 3'** پر کام شروع ہو چکا ہے۔ *[ARY](https://arynews.tv/emraan-hashmis-jannat-3-in-development-after-awarapan-2-success)*
-- **ریٹا اورا** نے لیام پین کی یاد میں جذباتی انداز میں "فار یو" گایا۔ *[ARY](https://arynews.tv/rita-ora-gets-emotional-singing-for-you-for-liam-payne)*
+- جیری برک ہائمر نے **'پائریٹس 6'** کے لیے جونی ڈیپ کے ساتھ مذاکرات کی تصدیق کر دی ہے۔ *[ARY](https://arynews.tv/captain-jack-sparrow-is-back-jerry-bruckheimer-confirms-talks-with-johnny-depp-for-pirates-6)*
+- فلم **'عوارانہ 2'** پیر کے روز بھی مستحکم مجموعہ کے ساتھ 100 کروڑ کے ہدف کے قریب پہنچ گئی۔ *[ARY](https://arynews.tv/awarapan-2-nears-100-crore-mark-with-steady-monday-collection)*
+- **پپا مڈلٹن** کو برکشائر میں اپنے 15 ملین پاؤنڈ کے اسٹیٹ پر "بدصورت" کار پارک کی تعمیر دوبارہ کرنے کا حکم دیا گیا ہے۔ *[ARY](https://arynews.tv/pippa-middleton-ordered-to-redo-ugly-car-park-at-15m-berkshire-estate)*
 
