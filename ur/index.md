@@ -7,31 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 16-Aug-2026 21:06PKT 
+ &lrm; 17-Aug-2026 09:08PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### سائنس اور ٹیکنالوجی
-- سام سنگ گلیکسی S27 الٹرا کے ایک نئے پیٹنٹ سے کیمرے کے افقی ڈیزائن میں بڑی تبدیلی کا انکشاف ہوا ہے۔ *[ARY](https://arynews.tv/samsung-galaxy-s27-patent-reveals-horizontal-camera-redesign)*
-
-### سیاست
-- سہیل آفریدی نے پی ٹی آئی کے بانی کی رہائی کے لیے مارچ کی قیادت کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/sohail-afridi-vows-to-lead-march-for-pti-imran-khan-release)*
-
 ### قومی
-- کراچی میں جی آئی (JI) کے احتجاج کے پیش نظر ٹریفک کے راستوں میں تبدیلی کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/karachi-traffic-diversions-announced-for-protest)*
+- **یو نیسکو (UNESCO)** میں ملازمتوں کے لیے پاکستانی پیشہ ور افراد درخواست دینے کا طریقہ جان سکتے ہیں۔ *[ARY](https://arynews.tv/unesco-jobs-heres-how-pakistani-professionals-can-apply)*
+- **ردھیکا ریڈی** کی موت کے معاملے میں پولیس نے لڑکے کو حراست میں لے لیا ہے۔ *[ARY](https://arynews.tv/ridhika-ridhi-death-boyfriend-detained-by-police)*
+- ٹک ٹاکر **شمسو بی بی** کے قتل کی سی سی ٹی وی (CCTV) فوٹیج منظر عام پر آگئی ہے۔ *[ARY](https://arynews.tv/tiktoker-shamsoo-bibi-cctv-footage)*
 
 ### بین الاقوامی
-- باکس آفس کے اعداد و شمار کے بعد میگھن مارکل اور ہیری کو اپنے کاروباری منصوبوں کو عارضی طور پر روکنے کا مشورہ دیا گیا ہے۔ *[ARY](https://arynews.tv/meghan-markle-and-harry-advised-to-hit-pause-on-business-ventures-after-box-office-numbers)*
-- شہزادہ ولیم نے ہیری کے ساتھ صلح کے امکانات ختم کر دیے ہیں اور اب ان کی تمام تر توجہ کیٹ مڈلٹن اور بچوں پر مرکوز ہے۔ *[ARY](https://arynews.tv/prince-william-closes-door-on-harry-reconciliation-focus-shifts-entirely-to-kate-middleton-and-children)*
-- شاہی خاندان نے تخت نشینی کے قوانین میں تاریخی تبدیلی کا اعلان کیا ہے جس سے صنفی مساوات کو یقینی بنایا جائے گا۔ *[ARY](https://arynews.tv/royal-family-announces-historic-change-to-succession-rules-allowing-gender-equality)*
-- ملکہ رانیہ نے اپنی دوپہنوں کی پیدائش کا جشن منایا ہے، جبکہ شہزادی ایمان اور جمیل تھرمیوٹس نے ان کے ناموں کا انکشاف کر دیا ہے۔ *[ARY](https://arynews.tv/queen-rania-celebrates-birth-of-twin-granddaughters-princess-iman-and-jameel-thermiotis-reveal-names)*
+- شہزادہ **ہری اور میگن** کے درمیان شاہی اختلافات کیلیفورنیا کے کاروباری ماڈل کے لیے تجارتی نقصان کا باعث بن رہے ہیں۔ *[ARY](https://arynews.tv/harry-and-meghans-royal-rift-become-a-commercial-liability-for-the-california-business-model)*
+- شہزادہ ہری نے میگن پر زور دیا ہے کہ وہ **شاہی موقع** سے فائدہ اٹھائیں کیونکہ یہ موقع زیادہ دیر تک دستیاب نہیں رہے گا۔ *[ARY](https://arynews.tv/prince-harry-urges-meghan-to-seize-royal-chance-this-window-wont-stay-open)*
+
+### سائنس اور ٹیکنالوجی
+- **اینڈرائیڈ 17 بیٹا 3** اپ ڈیٹ کے ذریعے 'کوئیک سیٹنگز' (Quick Settings) میں بڑی تبدیلیاں متعارف کرائی گئی ہیں۔ *[ARY](https://arynews.tv/android-17-beta-3-update-brings-major-quick-settings-changes)*
 
 ### کھیل
-- بنگلہ دیش کے کپتان شانتو کا کہنا ہے کہ آسٹریلیا کے خلاف کامیابی کے بعد تیز گیند بازوں پر توجہ دینے کے فوائد مل رہے ہیں۔ *[ARY](https://arynews.tv/bangladesh-captain-shanto-says-pace-focus-reaping-rewards-after-australia-breakthrough)*
-
-### صحت
-- ٹلہ (Tallulah) کی شادی کی تصاویر سے بروس ویلس کی صحت کے بارے میں نئی معلومات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/tallulahs-wedding-photos-provide-new-insight-into-bruce-willis-health)*
+- **کرسٹیانو رونالڈو** نے ممکنہ ریٹائرمنٹ کا اشارہ دیا ہے، 2026 کا سیزن ان کا پیشہ ورانہ فٹ بال کا آخری سیزن ہو سکتا ہے۔ *[ARY](https://arynews.tv/cristiano-ronaldo-signals-potential-retirement-2026-season-could-be-his-last-in-professional-football)*
 
 ### دیگر
-- عمران ہاشمی کی فلم "آوارپن 2" نے پہلے دو دنوں میں 50 کروڑ سے زیادہ کا باکس آفس کلیکشن کر کے کامیابی حاصل کر لی ہے۔ *[ARY](https://arynews.tv/awarapan-2-box-office-collection-emraan-hashmi-sequel-surpasses-50-crores-in-first-two-days)*
+- 'ہیروز' اور 'سکرام' کی اداکارہ **ہیڈن پینیٹیر** کا 36 سال کی عمر میں انتقال ہو گیا۔ *[ARY](https://arynews.tv/heroes-and-scream-actress-hayden-panettiere-passes-away-at-36)*
+- 'اوراپن 2' کی کامیابی کے بعد عمران ہاشمی کی فلم **'جنت 3'** پر کام شروع ہو چکا ہے۔ *[ARY](https://arynews.tv/emraan-hashmis-jannat-3-in-development-after-awarapan-2-success)*
+- **ریٹا اورا** نے لیام پین کی یاد میں جذباتی انداز میں "فار یو" گایا۔ *[ARY](https://arynews.tv/rita-ora-gets-emotional-singing-for-you-for-liam-payne)*
 
