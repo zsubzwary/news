@@ -4,31 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 16-Aug-2026 21:02PKT
+Published at: 17-Aug-2026 09:03PKT
 
 Time to read: 2 mins
 
-### Science & Technology
-- A patent for the **Samsung Galaxy S27 Ultra** reveals a significant redesign featuring a horizontal camera layout. *[ARY](https://arynews.tv/samsung-galaxy-s27-patent-reveals-horizontal-camera-redesign)*
+### International
+- Guidance has been released on how Pakistani professionals can apply for job opportunities at **UNESCO**. *[ARY](https://arynews.tv/unesco-jobs-heres-how-pakistani-professionals-can-apply)*
+- The **Royal rift** between Harry and Meghan is reportedly becoming a commercial liability for their business model in California. *[ARY](https://arynews.tv/harry-and-meghans-royal-rift-become-a-commercial-liability-for-the-california-business-model)*
+- **Prince Harry** has urged Meghan to take advantage of a current "window" of opportunity regarding Royal matters. *[ARY](https://arynews.tv/prince-harry-urges-meghan-to-seize-royal-chance-this-window-wont-stay-open)*
 
-### Politics
-- Sohail Afridi has announced that he will personally lead a march demanding the release of the PTI founder. *[ARY](https://arynews.tv/sohail-afridi-vows-to-lead-march-for-pti-imran-khan-release)*
+### Science & Technology
+- The **Android 17 Beta 3** update is set to introduce significant changes to the Quick Settings interface. *[ARY](https://arynews.tv/android-17-beta-3-update-brings-major-quick-settings-changes)*
 
 ### National
-- Traffic diversions have been announced in **Karachi** in anticipation of a protest by the JI. *[ARY](https://arynews.tv/karachi-traffic-diversions-announced-for-protest)*
-
-### International
-- The **Royal Family** has announced a historic change to succession rules to ensure gender equality. *[ARY](https://arynews.tv/royal-family-announces-historic-change-to-succession-rules-allowing-gender-equality)*
-- Prince William is reportedly shifting his focus entirely to Kate Middleton and his children, closing the door on reconciliation with Prince Harry. *[ARY](https://arynews.tv/prince-william-closes-door-on-harry-reconciliation-focus-shifts-entirely-to-kate-middleton-and-children)*
-- Meghan Markle and Prince Harry have been advised to pause their business ventures following recent box office performance. *[ARY](https://arynews.tv/meghan-markle-and-harry-advised-to-hit-pause-on-business-ventures-after-box-office-numbers)*
-- Queen Rania is celebrating the birth of twin granddaughters, with Princess Iman and Jameel Thermiotis revealing the names. *[ARY](https://arynews.tv/queen-rania-celebrates-birth-of-twin-granddaughters-princess-iman-and-jameel-thermiotis-reveal-names)*
+- Police have detained a boyfriend following the death of **Ridhika Ridhi**. *[ARY](https://arynews.tv/ridhika-ridhi-death-boyfriend-detained-by-police)*
+- CCTV footage has emerged regarding the murder of TikToker **Shamsoo Bibi**. *[ARY](https://arynews.tv/tiktoker-shamsoo-bibi-cctv-footage)*
 
 ### Sports
-- Bangladesh captain Shanto stated that the team's emphasis on **pace bowling** is paying off following a breakthrough against Australia. *[ARY](https://arynews.tv/bangladesh-captain-shanto-says-pace-focus-reaping-rewards-after-australia-breakthrough)*
-
-### Health
-- Recent wedding photos of Tallulah Willis have offered new insights into the health of **Bruce Willis**. *[ARY](https://arynews.tv/tallulahs-wedding-photos-provide-new-insight-into-bruce-willis-health)*
+- **Cristiano Ronaldo** has signaled that the 2026 season could potentially be his last in professional football. *[ARY](https://arynews.tv/cristiano-ronaldo-signals-potential-retirement-2026-season-could-be-his-last-in-professional-football)*
 
 ### Other
-- The Emraan Hashmi sequel, ***Awarapan 2***, has successfully surpassed 50 Crores at the box office within its first two days. *[ARY](https://arynews.tv/awarapan-2-box-office-collection-emraan-hashmi-sequel-surpasses-50-crores-in-first-two-days)*
+- Actress **Hayden Panettiere**, known for *Heroes* and *Scream*, has passed away at the age of 36. *[ARY](https://arynews.tv/heroes-and-scream-actress-hayden-panettiere-passes-away-at-36)*
+- Emraan Hashmi's film **'Jannat 3'** is currently in development following the success of *'Awarapan 2'*. *[ARY](https://arynews.tv/emraan-hashmis-jannat-3-in-development-after-awarapan-2-success)*
+- **Rita Ora** delivered an emotional performance of the song “For You” dedicated to Liam Payne. *[ARY](https://arynews.tv/rita-ora-gets-emotional-singing-for-you-for-liam-payne)*
 
