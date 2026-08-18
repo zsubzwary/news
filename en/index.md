@@ -4,29 +4,25 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 17-Aug-2026 21:02PKT
+Published at: 18-Aug-2026 09:02PKT
 
 Time to read: 2 mins
 
-### Politics
-- A **PPP delegation** is scheduled to meet with opposition leader Mahmood Khan Achakzai tomorrow. *[ARY](https://arynews.tv/ppp-delegation-to-meet-with-mahmood-khan-achakzai)*
-
-### Science & Technology
-- A new study has found that the habit of **taking screenshots** may actually lead to **memory loss**. *[ARY](https://arynews.tv/taking-screenshots-actually-cause-memory-loss-new-study-finds)*
-
-### National
-- SSGC has announced a new **gas supply schedule** for specific areas. *[ARY](https://arynews.tv/gas-supply-schedule-announced-for-these-areas-by-ssgc)*
-- The **HSC Part II pre-engineering results** for 2026 have been officially announced. *[ARY](https://arynews.tv/hsc-part-2-pre-engineering-results-2026-announced)*
+### Economy
+- Gold is showing early indications of reclaiming its status as a **safe-haven asset** following a selloff triggered by the Iran war. *[ARY](https://arynews.tv/gold-shows-early-signs-of-reclaiming-safe-haven-appeal-after-iran-war-selloff)*
 
 ### International
-- **Iran** has threatened to launch an offensive in the **Strait of Hormuz** if diplomatic negotiations with the US fail. *[ARY](https://arynews.tv/iran-threatens-to-go-on-offensive-in-strait-of-hormuz)*
-- **King Charles** has honored farmers while his nephew embarks on a new journey. *[ARY](https://arynews.tv/king-charles-honors-farmers-as-nephew-embarks-on-new-journey)*
+- Saudi Arabia has implemented fines of up to **SR200,000** for violations regarding water conservation. *[ARY](https://arynews.tv/saudi-arabia-imposes-fines-up-to-sr200000-for-water-conservation-violations)*
+- The ISPR has stated that India is refusing to accept defeat regarding the **Marka-e-Haq** narrative. *[ARY](https://arynews.tv/marka-e-haq-unraveling-indias-historical-fabrication)*
 
 ### Health
-- The government has launched a new **hepatitis screening programme** specifically for its employees. *[ARY](https://arynews.tv/government-employees-to-undergo-hepatitis-screening)*
+- The **NICVD** has approved the establishment of a new advanced heart failure program. *[ARY](https://arynews.tv/nicvd-approves-establishment-of-advanced-heart-failure-program)*
 
 ### Other
-- Producer **Jerry Bruckheimer** has confirmed discussions with **Johnny Depp** regarding his return for *Pirates 6*. *[ARY](https://arynews.tv/captain-jack-sparrow-is-back-jerry-bruckheimer-confirms-talks-with-johnny-depp-for-pirates-6)*
-- The film ***Awarapan 2*** is approaching the **100 crore mark** following steady Monday collections. *[ARY](https://arynews.tv/awarapan-2-nears-100-crore-mark-with-steady-monday-collection)*
-- **Pippa Middleton** has been ordered to redo an "ugly" car park at her £15m Berkshire estate. *[ARY](https://arynews.tv/pippa-middleton-ordered-to-redo-ugly-car-park-at-15m-berkshire-estate)*
+- Taylor Swift used a birthday post to promote **Phoebe Bridgers’** upcoming new album. *[ARY](https://arynews.tv/taylor-swift-hypes-up-phoebe-bridgers-new-album-in-birthday-post)*
+- Liam Neeson and Joe Keery star in the production **Cold Storage** on Canal+. *[ARY](https://arynews.tv/cold-storage-liam-neeson-joe-keery-fight-a-deadly-outbreak-on-canal)*
+- Sydney Sweeney and Scooter Braun were seen enjoying an outing along the **Italian coast**. *[ARY](https://arynews.tv/sydney-sweeney-and-scooter-braun-enjoy-italian-coastal-outing)*
+- Victoria Beckham reportedly prevented her son, **Cruz**, from dropping his surname. *[ARY](https://arynews.tv/victoria-beckham-blocked-cruz-from-dropping-surname)*
+- Details regarding Hayden Panettiere’s role as **Kairi** in *Kingdom Hearts* have been explained. *[ARY](https://arynews.tv/hayden-panettieres-role-as-kairi-in-kingdom-hearts-explained)*
+- Information regarding the cast and release window for **The Diplomat** Season 4 on Netflix has been released. *[ARY](https://arynews.tv/the-diplomat-season-4-netflix-release-window-cast-and-what-we-know)*
 
