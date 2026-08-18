@@ -4,25 +4,25 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 18-Aug-2026 09:02PKT
+Published at: 18-Aug-2026 21:02PKT
 
 Time to read: 2 mins
 
-### Economy
-- Gold is showing early indications of reclaiming its status as a **safe-haven asset** following a selloff triggered by the Iran war. *[ARY](https://arynews.tv/gold-shows-early-signs-of-reclaiming-safe-haven-appeal-after-iran-war-selloff)*
+### Science & Technology
+- The **World Humanoid Robot Games** have returned to Beijing, attracting over 2,000 entries. *[ARY](https://arynews.tv/world-humanoid-robot-games-return-to-beijing)*
+- A recent study suggests that **AI is creating new jobs** in more than half of all firms in the UK. *[ARY](https://arynews.tv/ai-creates-new-jobs-in-over-half-of-uk-firms-study)*
+- **Google** has opened a new office in Pakistan and announced that **Gemini will be free for students**. *[ARY](https://arynews.tv/google-opens-pakistan-office-announces-free-gemini-for-students)*
+- Leaks regarding the **iPhone 18 Pro Max** have resulted in conflicting rumors concerning its **design and technical specifications**. *[ARY](https://arynews.tv/iphone-18-pro-max-leaks-spark-conflicting-rumors)*
+
+### National
+- Sindh police have reached out to **Apple** to obtain mobile phone data related to the **Mir Raza Ali case**. *[ARY](https://arynews.tv/mir-raza-ali-case-apple-team-contacted-by-sindh-police)*
+- **BISP beneficiaries** are scheduled to begin receiving their payments through **digital wallets**. *[ARY](https://arynews.tv/digital-wallets-for-bisp-beneficiaries-in-2026)*
 
 ### International
-- Saudi Arabia has implemented fines of up to **SR200,000** for violations regarding water conservation. *[ARY](https://arynews.tv/saudi-arabia-imposes-fines-up-to-sr200000-for-water-conservation-violations)*
-- The ISPR has stated that India is refusing to accept defeat regarding the **Marka-e-Haq** narrative. *[ARY](https://arynews.tv/marka-e-haq-unraveling-indias-historical-fabrication)*
-
-### Health
-- The **NICVD** has approved the establishment of a new advanced heart failure program. *[ARY](https://arynews.tv/nicvd-approves-establishment-of-advanced-heart-failure-program)*
+- **Kuwait** has established a new deadline for its employees. *[ARY](https://arynews.tv/kuwait-sets-new-deadline-for-employees)*
+- Authorities in **Kuwait** have issued a warning specifically directed at **iPhone users**. *[ARY](https://arynews.tv/kuwait-warns-iphone-users)*
 
 ### Other
-- Taylor Swift used a birthday post to promote **Phoebe Bridgers’** upcoming new album. *[ARY](https://arynews.tv/taylor-swift-hypes-up-phoebe-bridgers-new-album-in-birthday-post)*
-- Liam Neeson and Joe Keery star in the production **Cold Storage** on Canal+. *[ARY](https://arynews.tv/cold-storage-liam-neeson-joe-keery-fight-a-deadly-outbreak-on-canal)*
-- Sydney Sweeney and Scooter Braun were seen enjoying an outing along the **Italian coast**. *[ARY](https://arynews.tv/sydney-sweeney-and-scooter-braun-enjoy-italian-coastal-outing)*
-- Victoria Beckham reportedly prevented her son, **Cruz**, from dropping his surname. *[ARY](https://arynews.tv/victoria-beckham-blocked-cruz-from-dropping-surname)*
-- Details regarding Hayden Panettiere’s role as **Kairi** in *Kingdom Hearts* have been explained. *[ARY](https://arynews.tv/hayden-panettieres-role-as-kairi-in-kingdom-hearts-explained)*
-- Information regarding the cast and release window for **The Diplomat** Season 4 on Netflix has been released. *[ARY](https://arynews.tv/the-diplomat-season-4-netflix-release-window-cast-and-what-we-know)*
+- **Princess Eugenie** has reportedly set boundaries with **Sarah Ferguson** in the midst of a scandal. *[ARY](https://arynews.tv/princess-eugenie-sets-boundaries-with-sarah-ferguson-amid-scandal)*
+- **Sarah Ferguson** is facing new restrictions imposed by the royal family. *[ARY](https://arynews.tv/sarah-ferguson-faces-new-royal-restriction)*
 
