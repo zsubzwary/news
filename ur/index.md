@@ -7,27 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Aug-2026 09:07PKT 
+ &lrm; 19-Aug-2026 21:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### Economy
-- امریکی سیکرٹیز اینڈ ایکسچینج کمیشن (SEC) نے کرپٹو کرنسی کے لیے طویل عرصے سے زیر التوا قواعد تجویز کیے ہیں۔ *[ARY](https://arynews.tv/us-sec-proposes-long-awaited-crypto-rules)*
+### معیشت
+- فیڈرل ریزرو کے منٹس سے قبل ڈالر کی قدر میں کمی اور بانڈ مارکیٹ میں استحکام۔ *[ARY](https://arynews.tv/dollar-softens-as-bond-market-steadies-ahead-of-fed-minutes)*
+- ڈیزل کی قیمتوں میں کمی کا اعلان، حتمی نوٹیفکیشن کا انتظار۔ *[ARY](https://arynews.tv/diesel-price-cut-expected-after-ogra-notification)*
 
-### National
-- خیبر پختونخوا حکومت نے صوبے کے پولیس چیف کو تبدیل کرنے کا فیصلہ کر لیا ہے۔ *[ARY](https://arynews.tv/khyber-pakhtunkhwa-govt-decides-to-change-police-chief)*
-- آئرلینڈ میں پاکستانیوں کے لیے ملازمت کے نئے مواقع دستیاب ہیں۔ *[ARY](https://arynews.tv/job-opportunities-for-pakistanis-in-ireland)*
-- ایک نقاب پوش مشتبہ شخص کی رہائشیوں کا پیچھا کرتے ہوئے خود کی ویڈیو بنانے کی ویڈیو سامنے آئی ہے، جس سے علاقے میں خوف و ہراس پھیل گیا ہے۔ *[ARY](https://arynews.tv/masked-suspect-films-himself-stalking-residents-in-chilling-neighborhood-video)*
+### سیاست
+- محمود اچکزی فضل الرحمان کو عبوری وزیراعظم کے طور پر حمایت کرنے کے لیے تیار ہیں۔ *[ARY](https://arynews.tv/mehmood-achakzai-backs-fazal-ur-rehman-as-interim-pm)*
 
-### International
-- ڈونلڈ ٹرمپ نے ایران کے ساتھ کسی بھی قسم کی بات چیت کے منصوبے سے انکار کیا ہے، جبکہ تہران کا دعویٰ ہے کہ ہرمز کا تنگ راستہ اب بھی بند ہے۔ *[ARY](https://arynews.tv/trump-says-no-talks-planned-with-iran)*
+### قومی
+- گوادر میں کار اور گیس باؤزر کے ٹکراؤ کے نتیجے میں 6 افراد ہلاک۔ *[ARY](https://arynews.tv/coastal-highway-accident-claims-multiple-victims)*
 
-### Health
-- ایملیکس (Amylyx) نامی دوا باریٹرک سرجری کروانے والے مریضوں میں خون میں شوگر کی سطح کے اچانک کم ہونے کے واقعات کو کم کرنے میں مددگار ثابت ہو رہی ہے۔ *[ARY](https://arynews.tv/amylyx-drug-cuts-low-blood-sugar-episodes-in-bariatric-surgery-patients)*
+### بین الاقوامی
+- ایران کے اسپیکر کا عراق کا دورہ اور خطے میں 'نئے نظم و نسق' کی تعریف۔ *[ARY](https://arynews.tv/visiting-iraq-irans-parliament-speaker-hails-new-order-in-the-region)*
+- شاہی خاندان کی نایاب تصویر میں شہزادہ آرچی کی اپنے کزن سے حیرت انگیز مشابہت۔ *[ARY](https://arynews.tv/prince-archies-uncanny-resemblance-to-royal-cousin-highlighted-in-rare-family-picture)*
+- انڈونیشیا میں زلزلے کے کئی دنوں بعد 84 سالہ خاتون زندہ مل گئیں۔ *[ARY](https://arynews.tv/indonesia-family-finds-84-year-woman-alive-days-after-earthquake)*
 
-### Other
-- ایریا نا گرانڈے نے اپنے حالیہ کنسرٹ کے دوران اپنے کولر بون (کلائی کے نیچے کی ہڈی) پر نیا ٹیٹو دکھایا۔ *[ARY](https://arynews.tv/ariana-grande-shows-off-new-collarbone-tattoo-during-concert)*
-- ہالی ووڈ کے سکڑتے ہوئے منظر نامے میں مائیکرو ڈراموں کا رجحان بڑھ رہا ہے کیونکہ اسٹوڈیوز اب ٹک ٹاک کی آڈینس کو راغب کرنے کی کوشش کر رہے ہیں۔ *[ARY](https://arynews.tv/microdramas-boom-in-a-shrinking-hollywood-as-studios-chase-a-tiktok-audience)*
-- 'سلو ہارسز' کے چھٹے سیزن کے ٹریلر میں اولیویا کوک کی واپسی کا انکشاف کیا گیا ہے۔ *[ARY](https://arynews.tv/slow-horses-season-6-trailer-finally-reveals-olivia-cookes-return)*
-- ٹیلر سوئفٹ بلیک لائیولی کے بچوں سے متعلق دوستی کی حدود پر غور کر رہی ہیں۔ *[ARY](https://arynews.tv/taylor-swift-weighs-friendship-boundaries-regarding-blake-livelys-children)*
+### دیگر
+- معروف اداکارہ فلائڈا لا کا طویل کیریئر کے بعد پرامن انتقال۔ *[ARY](https://arynews.tv/phyllida-law-dies-peacefully-after-long-acting-career)*
+- کائیلی جینیئر اور ٹموتھی چالامیٹ کو ان کے عروسی لباس پر تنقید کا سامنا۔ *[ARY](https://arynews.tv/kylie-jenner-timothee-chalamet-receive-backlash-over-wedding-dress-see-pic)*
+- ہیدن پینیٹیر کی والدہ نے بیٹی کے زندگی کے مشکل سالوں کے بارے میں بات کی۔ *[ARY](https://arynews.tv/hayden-panettieres-mom-speaks-about-her-daughters-difficult-final-years)*
 
