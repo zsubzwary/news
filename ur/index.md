@@ -7,25 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Aug-2026 21:07PKT 
+ &lrm; 19-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### قومی
-- میر رضا علی کیس میں سندھ پولیس نے موبائل فون ڈیٹا کے حصول کے لیے ایپل کمپنی سے رابطہ کیا ہے۔ *[ARY](https://arynews.tv/mir-raza-ali-case-apple-team-contacted-by-sindh-police)*
-- بے نظیر انکم سپورٹ پروگرام (BISP) کے مستحقین کو ڈیجیٹل والٹس فراہم کرنے کے حوالے سے اہم پیش رفت۔ *[ARY](https://arynews.tv/digital-wallets-for-bisp-beneficiaries-in-2026)*
+### Economy
+- امریکی سیکرٹیز اینڈ ایکسچینج کمیشن (SEC) نے کرپٹو کرنسی کے لیے طویل عرصے سے زیر التوا قواعد تجویز کیے ہیں۔ *[ARY](https://arynews.tv/us-sec-proposes-long-awaited-crypto-rules)*
 
-### بین الاقوامی
-- کویت نے ملازمین کے لیے نئی آخری تاریخ (ڈیڈ لائن) مقرر کر دی ہے۔ *[ARY](https://arynews.tv/kuwait-sets-new-deadline-for-employees)*
+### National
+- خیبر پختونخوا حکومت نے صوبے کے پولیس چیف کو تبدیل کرنے کا فیصلہ کر لیا ہے۔ *[ARY](https://arynews.tv/khyber-pakhtunkhwa-govt-decides-to-change-police-chief)*
+- آئرلینڈ میں پاکستانیوں کے لیے ملازمت کے نئے مواقع دستیاب ہیں۔ *[ARY](https://arynews.tv/job-opportunities-for-pakistanis-in-ireland)*
+- ایک نقاب پوش مشتبہ شخص کی رہائشیوں کا پیچھا کرتے ہوئے خود کی ویڈیو بنانے کی ویڈیو سامنے آئی ہے، جس سے علاقے میں خوف و ہراس پھیل گیا ہے۔ *[ARY](https://arynews.tv/masked-suspect-films-himself-stalking-residents-in-chilling-neighborhood-video)*
 
-### سائنس اور ٹیکنالوجی
-- بیجنگ میں ورلڈ ہیومنائیڈ روبوٹ گیمز کا انعقاد، جن میں 2,000 سے زائد اندراجات سامنے آئے ہیں۔ *[ARY](https://arynews.tv/world-humanoid-robot-games-return-to-beijing)*
-- ایک حالیہ مطالعے کے مطابق، مصنوعی ذہانت (AI) نے برطانیہ کی نصف سے زیادہ کمپنیوں میں نئی ملازمتیں پیدا کی ہیں۔ *[ARY](https://arynews.tv/ai-creates-new-jobs-in-over-half-of-uk-firms-study)*
-- گوگل نے پاکستان میں اپنا دفتر کھول دیا ہے اور طلباء کے لیے 'Gemini' کی مفت خدمات کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/google-opens-pakistan-office-announces-free-gemini-for-students)*
-- کویت میں آئی فون صارفین کے لیے وارننگ جاری کر دی گئی ہے۔ *[ARY](https://arynews.tv/kuwait-warns-iphone-users)*
-- آئی فون 18 پرو میکس کے ڈیزائن اور خصوصیات کے حوالے سے متضاد افواہیں گردش کر رہی ہیں۔ *[ARY](https://arynews.tv/iphone-18-pro-max-leaks-spark-conflicting-rumors)*
+### International
+- ڈونلڈ ٹرمپ نے ایران کے ساتھ کسی بھی قسم کی بات چیت کے منصوبے سے انکار کیا ہے، جبکہ تہران کا دعویٰ ہے کہ ہرمز کا تنگ راستہ اب بھی بند ہے۔ *[ARY](https://arynews.tv/trump-says-no-talks-planned-with-iran)*
 
-### دیگر
-- شہزادی یوجنیا نے حالیہ اسکینڈل کے پیش نظر سارہ فرگوسن کے ساتھ دوری اختیار کرنے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/princess-eugenie-sets-boundaries-with-sarah-ferguson-amid-scandal)*
-- سارہ فرگوسن کو شاہی خاندان کی جانب سے نئی پابندیوں کا سامنا کرنا پڑ رہا ہے۔ *[ARY](https://arynews.tv/sarah-ferguson-faces-new-royal-restriction)*
+### Health
+- ایملیکس (Amylyx) نامی دوا باریٹرک سرجری کروانے والے مریضوں میں خون میں شوگر کی سطح کے اچانک کم ہونے کے واقعات کو کم کرنے میں مددگار ثابت ہو رہی ہے۔ *[ARY](https://arynews.tv/amylyx-drug-cuts-low-blood-sugar-episodes-in-bariatric-surgery-patients)*
+
+### Other
+- ایریا نا گرانڈے نے اپنے حالیہ کنسرٹ کے دوران اپنے کولر بون (کلائی کے نیچے کی ہڈی) پر نیا ٹیٹو دکھایا۔ *[ARY](https://arynews.tv/ariana-grande-shows-off-new-collarbone-tattoo-during-concert)*
+- ہالی ووڈ کے سکڑتے ہوئے منظر نامے میں مائیکرو ڈراموں کا رجحان بڑھ رہا ہے کیونکہ اسٹوڈیوز اب ٹک ٹاک کی آڈینس کو راغب کرنے کی کوشش کر رہے ہیں۔ *[ARY](https://arynews.tv/microdramas-boom-in-a-shrinking-hollywood-as-studios-chase-a-tiktok-audience)*
+- 'سلو ہارسز' کے چھٹے سیزن کے ٹریلر میں اولیویا کوک کی واپسی کا انکشاف کیا گیا ہے۔ *[ARY](https://arynews.tv/slow-horses-season-6-trailer-finally-reveals-olivia-cookes-return)*
+- ٹیلر سوئفٹ بلیک لائیولی کے بچوں سے متعلق دوستی کی حدود پر غور کر رہی ہیں۔ *[ARY](https://arynews.tv/taylor-swift-weighs-friendship-boundaries-regarding-blake-livelys-children)*
 
