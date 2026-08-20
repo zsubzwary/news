@@ -7,27 +7,29 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Aug-2026 21:07PKT 
+ &lrm; 20-Aug-2026 09:08PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- فیڈرل ریزرو کے منٹس سے قبل ڈالر کی قدر میں کمی اور بانڈ مارکیٹ میں استحکام۔ *[ARY](https://arynews.tv/dollar-softens-as-bond-market-steadies-ahead-of-fed-minutes)*
-- ڈیزل کی قیمتوں میں کمی کا اعلان، حتمی نوٹیفکیشن کا انتظار۔ *[ARY](https://arynews.tv/diesel-price-cut-expected-after-ogra-notification)*
+- امریکی قرضہ 40 ٹریلین ڈالر کی حد عبور کر گیا ہے، جو ٹرمپ اور بائیڈن کی حکومتوں کے دور میں دوگنا ہو گیا ہے۔ *[ARY](https://arynews.tv/us-debt-crosses-40-trillion-threshold-under-trump-biden-govts)*
+
+### سائنس اور ٹیکنالوجی
+- روبلوکس بلو لاک سکبڈی (Roblox Blue Lock Skibidi) کے فعال کوڈز جاری کر دیے گئے ہیں جن کے ذریعے کھلاڑی گیم میں مفت رقم حاصل کر سکتے ہیں۔ *[ARY](https://arynews.tv/active-roblox-blue-lock-skibidi-codes-august-2026-redeem-free-in-game-cash)*
 
 ### سیاست
-- محمود اچکزی فضل الرحمان کو عبوری وزیراعظم کے طور پر حمایت کرنے کے لیے تیار ہیں۔ *[ARY](https://arynews.tv/mehmood-achakzai-backs-fazal-ur-rehman-as-interim-pm)*
-
-### قومی
-- گوادر میں کار اور گیس باؤزر کے ٹکراؤ کے نتیجے میں 6 افراد ہلاک۔ *[ARY](https://arynews.tv/coastal-highway-accident-claims-multiple-victims)*
+- ذرائع کے مطابق، پیپلز پارٹی (PPP) قومی اسمبلی میں حکومت کے ایک اہم بل کی حمایت کرنے پر متفق ہوگئی ہے۔ *[ARY](https://arynews.tv/ppp-agrees-to-support-key-government-bill-in-national-assembly)*
 
 ### بین الاقوامی
-- ایران کے اسپیکر کا عراق کا دورہ اور خطے میں 'نئے نظم و نسق' کی تعریف۔ *[ARY](https://arynews.tv/visiting-iraq-irans-parliament-speaker-hails-new-order-in-the-region)*
-- شاہی خاندان کی نایاب تصویر میں شہزادہ آرچی کی اپنے کزن سے حیرت انگیز مشابہت۔ *[ARY](https://arynews.tv/prince-archies-uncanny-resemblance-to-royal-cousin-highlighted-in-rare-family-picture)*
-- انڈونیشیا میں زلزلے کے کئی دنوں بعد 84 سالہ خاتون زندہ مل گئیں۔ *[ARY](https://arynews.tv/indonesia-family-finds-84-year-woman-alive-days-after-earthquake)*
+- شہزادہ ہری اور میگن مارکل نے اپنے بچوں کے ساتھ برطانیہ میں ایک نئی زندگی کا آغاز کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/prince-harry-meghan-markle-announce-new-life-in-britain-with-kids)*
+
+### کھیل
+- تجانی رائنڈرز نے مانچسٹر سٹی سے القادسیہ (Al Qadsiah) کی طرف منتقلی کر لی ہے۔ *[ARY](https://arynews.tv/tijjani-reijnders-moves-from-man-city-to-al-qadsiah)*
 
 ### دیگر
-- معروف اداکارہ فلائڈا لا کا طویل کیریئر کے بعد پرامن انتقال۔ *[ARY](https://arynews.tv/phyllida-law-dies-peacefully-after-long-acting-career)*
-- کائیلی جینیئر اور ٹموتھی چالامیٹ کو ان کے عروسی لباس پر تنقید کا سامنا۔ *[ARY](https://arynews.tv/kylie-jenner-timothee-chalamet-receive-backlash-over-wedding-dress-see-pic)*
-- ہیدن پینیٹیر کی والدہ نے بیٹی کے زندگی کے مشکل سالوں کے بارے میں بات کی۔ *[ARY](https://arynews.tv/hayden-panettieres-mom-speaks-about-her-daughters-difficult-final-years)*
+- مشہور گلوکار پوسٹ میلون (Post Malone) کی کرسٹی لی سے منگنی ہو گئی ہے۔ *[ARY](https://arynews.tv/post-malone-finds-love-again-as-he-gets-engaged-to-christy-lee)*
+- ہیدن پینٹیئر کی موت کے بعد فوجداری تحقیقات کا آغاز کر دیا گیا ہے۔ *[ARY](https://arynews.tv/hayden-panettieres-death-prompts-criminal-investigation)*
+- ڈکوٹا جانسن اور رول ماڈل کا چند ماہ کے تعلق کے بعد خاموشی سے علیحدگی کا فیصلہ ہو گیا ہے۔ *[ARY](https://arynews.tv/dakota-johnson-and-role-model-quietly-split-after-several-months-of-dating)*
+- سیلین ڈیون کے پیرس میں کنسٹرٹ کے شیڈول اور ان کی صحت کے حوالے سے تازہ ترین معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/celine-dion-paris-residency-opening-date-full-concert-schedule-and-latest-health-update)*
+- ڈیمن ہنٹر (Demon Hunter) نے نیٹ فلکس کے خلاف ٹریڈ مارک کا دعویٰ دائر کر دیا ہے۔ *[ARY](https://arynews.tv/demon-hunter-files-trademark-lawsuit-against-netflix)*
 
