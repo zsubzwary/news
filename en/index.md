@@ -4,27 +4,29 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-Aug-2026 21:02PKT
+Published at: 20-Aug-2026 09:03PKT
 
-Time to read: 2 mins
+Time to read: 1 mins
 
 ### Economy
-- The **US dollar** has softened as the bond market stabilizes in anticipation of the **Federal Reserve minutes**. *[ARY](https://arynews.tv/dollar-softens-as-bond-market-steadies-ahead-of-fed-minutes)*
-- A **reduction in diesel prices** has been announced, with the final official notification currently pending. *[ARY](https://arynews.tv/diesel-price-cut-expected-after-ogra-notification)*
+- The **US national debt** has surpassed the **$40 trillion** threshold, having doubled under the Trump and Biden administrations. *[ARY](https://arynews.tv/us-debt-crosses-40-trillion-threshold-under-trump-biden-govts)*
 
 ### Politics
-- **Mahmood Achakzai** has expressed his willingness to support **Fazlur Rehman** for the role of interim Prime Minister. *[ARY](https://arynews.tv/mehmood-achakzai-backs-fazal-ur-rehman-as-interim-pm)*
-
-### National
-- A fatal collision between a car and a gas bowser on the **Makran Coastal Highway** in Gwadar has resulted in **six deaths**. *[ARY](https://arynews.tv/coastal-highway-accident-claims-multiple-victims)*
+- The **PPP** has reportedly agreed to support a key government bill in the **National Assembly**. *[ARY](https://arynews.tv/ppp-agrees-to-support-key-government-bill-in-national-assembly)*
 
 ### International
-- The **Iranian parliament speaker**, during a visit to Iraq, highlighted the emergence of a **"new order"** within the region. *[ARY](https://arynews.tv/visiting-iraq-irans-parliament-speaker-hails-new-order-in-the-region)*
-- An **84-year-old woman** was discovered alive by her family in **Indonesia** several days after an earthquake. *[ARY](https://arynews.tv/indonesia-family-finds-84-year-woman-alive-days-after-earthquake)*
+- **Prince Harry and Meghan Markle** have announced plans to begin a new life in **Britain** with their children. *[ARY](https://arynews.tv/prince-harry-meghan-markle-announce-new-life-in-britain-with-kids)*
+
+### Sports
+- **Tijjani Reijnders** has moved from **Manchester City** to **Al Qadsiah**. *[ARY](https://arynews.tv/tijjani-reijnders-moves-from-man-city-to-al-qadsiah)*
+
+### Health
+- New information regarding **Céline Dion's** health and her **Paris residency** concert schedule has been released. *[ARY](https://arynews.tv/celine-dion-paris-residency-opening-date-full-concert-schedule-and-latest-health-update)*
 
 ### Other
-- Renowned actress **Phyllida Law** has passed away peacefully following a long and distinguished acting career. *[ARY](https://arynews.tv/phyllida-law-dies-peacefully-after-long-acting-career)*
-- **Kylie Jenner and Timothée Chalamet** have faced social media backlash regarding their wedding dress. *[ARY](https://arynews.tv/kylie-jenner-timothee-chalamet-receive-backlash-over-wedding-dress-see-pic)*
-- A rare family photograph has drawn attention to **Prince Archie’s** striking resemblance to a royal cousin. *[ARY](https://arynews.tv/prince-archies-uncanny-resemblance-to-royal-cousin-highlighted-in-rare-family-picture)*
-- The mother of **Hayden Panettiere** has spoken out regarding her daughter's difficult final years. *[ARY](https://arynews.tv/hayden-panettieres-mom-speaks-about-her-daughters-difficult-final-years)*
+- **Post Malone** has announced his engagement to **Christy Lee**. *[ARY](https://arynews.tv/post-malone-finds-love-again-as-he-gets-engaged-to-christy-lee)*
+- A **criminal investigation** has been initiated following the death of **Hayden Panettiere**. *[ARY](https://arynews.tv/hayden-panettieres-death-prompts-criminal-investigation)*
+- **Dakota Johnson** and **Role Model** have reportedly split after dating for several months. *[ARY](https://arynews.tv/dakota-johnson-and-role-model-quietly-split-after-several-months-of-dating)*
+- New **Roblox Blue Lock Skibidi** codes for August 2026 are available to redeem free in-game cash. *[ARY](https://arynews.tv/active-roblox-blue-lock-skibidi-codes-august-2026-redeem-free-in-game-cash)*
+- **Demon Hunter** has filed a **trademark lawsuit** against **Netflix**. *[ARY](https://arynews.tv/demon-hunter-files-trademark-lawsuit-against-netflix)*
 
