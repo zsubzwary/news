@@ -4,29 +4,29 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Aug-2026 09:03PKT
+Published at: 20-Aug-2026 21:02PKT
 
-Time to read: 1 mins
+Time to read: 2 mins
 
 ### Economy
-- The **US national debt** has surpassed the **$40 trillion** threshold, having doubled under the Trump and Biden administrations. *[ARY](https://arynews.tv/us-debt-crosses-40-trillion-threshold-under-trump-biden-govts)*
+- A new vacancy has been announced that offers **Rs. 20,000** during the training period. *[ARY](https://arynews.tv/punjab-vacancies-at-multinational-company-announced)*
+
+### Science & Technology
+- **Fortnite Chapter 7 Season 4** lobby hacks have been discovered, offering players free XP and Sonic sprites. *[ARY](https://arynews.tv/fortnite-chapter-7-season-4-lobby-hacks-free-xp-and-sonic-sprites)*
+- The upcoming **Android 17** update aims to boost device performance by limiting app memory usage. *[ARY](https://arynews.tv/android-17-update-limits-app-memory-usage-to-boost-performance)*
+- UK cinemas are implementing restrictions on **Meta AI** and other smart glasses to prevent piracy. *[ARY](https://arynews.tv/uk-cinemas-restricting-meta-ai-and-other-smart-glasses)*
+- **Micron** has unveiled a **$10 billion** AI memory research lab located in Boise. *[ARY](https://arynews.tv/micron-unveils-10-billion-ai-memory-research-lab-in-boise)*
 
 ### Politics
-- The **PPP** has reportedly agreed to support a key government bill in the **National Assembly**. *[ARY](https://arynews.tv/ppp-agrees-to-support-key-government-bill-in-national-assembly)*
+- The **Federal Constitutional Court** has overturned another judgment made by the Supreme Court. *[ARY](https://arynews.tv/federal-constitutional-court-overturns-another-sc-judgement)*
+- Sources suggest that the **PTI founder** is likely to be shifted to a hospital today. *[ARY](https://arynews.tv/imran-khan-likely-to-be-shifted-to-hospital-today)*
+
+### National
+- A major **traffic jam in Karachi** caused a delay in a cancer patient's urgent hospital visit. *[ARY](https://arynews.tv/karachi-traffic-jam-delays-hospital-visit-of-cancer-stricken-girl)*
 
 ### International
-- **Prince Harry and Meghan Markle** have announced plans to begin a new life in **Britain** with their children. *[ARY](https://arynews.tv/prince-harry-meghan-markle-announce-new-life-in-britain-with-kids)*
-
-### Sports
-- **Tijjani Reijnders** has moved from **Manchester City** to **Al Qadsiah**. *[ARY](https://arynews.tv/tijjani-reijnders-moves-from-man-city-to-al-qadsiah)*
-
-### Health
-- New information regarding **Céline Dion's** health and her **Paris residency** concert schedule has been released. *[ARY](https://arynews.tv/celine-dion-paris-residency-opening-date-full-concert-schedule-and-latest-health-update)*
+- **Prince Harry and Meghan Markle** may encounter unexpected allies during their return to the UK. *[ARY](https://arynews.tv/prince-harry-meghan-markle-may-find-surprising-allies-on-uk-return)*
 
 ### Other
-- **Post Malone** has announced his engagement to **Christy Lee**. *[ARY](https://arynews.tv/post-malone-finds-love-again-as-he-gets-engaged-to-christy-lee)*
-- A **criminal investigation** has been initiated following the death of **Hayden Panettiere**. *[ARY](https://arynews.tv/hayden-panettieres-death-prompts-criminal-investigation)*
-- **Dakota Johnson** and **Role Model** have reportedly split after dating for several months. *[ARY](https://arynews.tv/dakota-johnson-and-role-model-quietly-split-after-several-months-of-dating)*
-- New **Roblox Blue Lock Skibidi** codes for August 2026 are available to redeem free in-game cash. *[ARY](https://arynews.tv/active-roblox-blue-lock-skibidi-codes-august-2026-redeem-free-in-game-cash)*
-- **Demon Hunter** has filed a **trademark lawsuit** against **Netflix**. *[ARY](https://arynews.tv/demon-hunter-files-trademark-lawsuit-against-netflix)*
+- Actor **Vijay Deverakonda** received sweet reactions from fans following a social media post of him napping. *[ARY](https://arynews.tv/vijay-deverakondas-cute-nap-post-gets-sweet-reaction)*
 
