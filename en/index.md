@@ -4,29 +4,29 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Aug-2026 21:02PKT
+Published at: 21-Aug-2026 09:03PKT
 
-Time to read: 2 mins
+Time to read: 1 mins
 
 ### Economy
-- A new vacancy has been announced that offers **Rs. 20,000** during the training period. *[ARY](https://arynews.tv/punjab-vacancies-at-multinational-company-announced)*
-
-### Science & Technology
-- **Fortnite Chapter 7 Season 4** lobby hacks have been discovered, offering players free XP and Sonic sprites. *[ARY](https://arynews.tv/fortnite-chapter-7-season-4-lobby-hacks-free-xp-and-sonic-sprites)*
-- The upcoming **Android 17** update aims to boost device performance by limiting app memory usage. *[ARY](https://arynews.tv/android-17-update-limits-app-memory-usage-to-boost-performance)*
-- UK cinemas are implementing restrictions on **Meta AI** and other smart glasses to prevent piracy. *[ARY](https://arynews.tv/uk-cinemas-restricting-meta-ai-and-other-smart-glasses)*
-- **Micron** has unveiled a **$10 billion** AI memory research lab located in Boise. *[ARY](https://arynews.tv/micron-unveils-10-billion-ai-memory-research-lab-in-boise)*
+- Walmart shares have declined by 10% following reports of slowing sales growth. *[ARY](https://arynews.tv/walmart-shares-slide-10-as-sales-growth-slows)*
+- Petrol prices in Pakistan have been increased for August 21, 2026. *[ARY](https://arynews.tv/petrol-price-in-pakistan-for-august-21-2026)*
 
 ### Politics
-- The **Federal Constitutional Court** has overturned another judgment made by the Supreme Court. *[ARY](https://arynews.tv/federal-constitutional-court-overturns-another-sc-judgement)*
-- Sources suggest that the **PTI founder** is likely to be shifted to a hospital today. *[ARY](https://arynews.tv/imran-khan-likely-to-be-shifted-to-hospital-today)*
+- President Zardari has called for increased public awareness regarding the services provided by the banking mohtasib. *[ARY](https://arynews.tv/president-calls-for-public-awareness-of-banking-mohtasib-services)*
 
 ### National
-- A major **traffic jam in Karachi** caused a delay in a cancer patient's urgent hospital visit. *[ARY](https://arynews.tv/karachi-traffic-jam-delays-hospital-visit-of-cancer-stricken-girl)*
+- Authorities are conducting a crackdown on illegal call centers operating in Pakistan. *[ARY](https://arynews.tv/illegal-call-centers-face-crackdown-in-pakistan)*
 
 ### International
-- **Prince Harry and Meghan Markle** may encounter unexpected allies during their return to the UK. *[ARY](https://arynews.tv/prince-harry-meghan-markle-may-find-surprising-allies-on-uk-return)*
+- Pakistan and Saudi Arabia (KSA) are moving to strengthen cooperation in the sectors of agriculture and food trade. *[ARY](https://arynews.tv/pakistan-ksa-set-to-deepen-agriculture-and-food-trade-cooperation)*
+- Ghent University has suspended an academic who raised questions regarding Jason Arday. *[ARY](https://arynews.tv/ghent-university-suspends-academic-who-questioned-jason-arday)*
+
+### Health
+- Testing has revealed excessive levels of trans-fat in 26 samples of banaspati ghee. *[ARY](https://arynews.tv/excessive-trans-fat-found-in-26-samples-of-banaspati-ghee)*
 
 ### Other
-- Actor **Vijay Deverakonda** received sweet reactions from fans following a social media post of him napping. *[ARY](https://arynews.tv/vijay-deverakondas-cute-nap-post-gets-sweet-reaction)*
+- Actor Adnan Siddiqui shared memories of his family's partition story after watching ‘Main Vaapas Aaunga’. *[ARY](https://arynews.tv/adnan-siddiqui-recalls-familys-partition-story-after-watching-main-vaapas-aaunga)*
+- Saqib Sumeer has gained popularity among viewers for his kind nature during Tamasha Season 5. *[ARY](https://arynews.tv/tamasha-season-5-saqib-sumeer-wins-fans-with-his-kind-nature)*
+- Gayle King has criticized Hayden Panettiere’s mother over remarks made following a death. *[ARY](https://arynews.tv/gayle-king-criticizes-hayden-panettieres-mom-over-post-death-remarks)*
 
