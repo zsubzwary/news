@@ -7,29 +7,29 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Aug-2026 09:07PKT 
+ &lrm; 21-Aug-2026 21:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### معیشت
-- سیلز میں سست روی کے باعث وال مارٹ کے حصص میں 10 فیصد کی کمی واقع ہوئی ہے۔ *[ARY](https://arynews.tv/walmart-shares-slide-10-as-sales-growth-slows)*
-- پاکستان اور سعودی عرب کے درمیان زرعی اور غذائی تجارت کے تعاون کو مزید گہرا کرنے کے لیے اقدامات کیے جائیں گے۔ *[ARY](https://arynews.tv/pakistan-ksa-set-to-deepen-agriculture-and-food-trade-cooperation)*
-- 21 اگست 2026 کے لیے پیٹرول کی قیمت میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-in-pakistan-for-august-21-2026)*
-
 ### سیاست
-- صدر زرداری نے بینکنگ محتسب کی خدمات کے بارے میں عوامی آگاہی بڑھانے کی ضرورت پر زور دیا۔ *[ARY](https://arynews.tv/president-calls-for-public-awareness-of-banking-mohtasib-services)*
+- وزیراعظم شہباز شریف نے سرکاری حکام کی گھوڑہ گاڑی میں آمد پر سخت نوٹس لے لیا ہے۔ *[ARY](https://arynews.tv/pm-shehbaz-takes-strict-notice-of-officials-horse-drawn-carriage-arrival)*
 
 ### قومی
-- پاکستان میں غیر قانونی کال سینٹرز کے خلاف کریک ڈاؤن کا آغاز کر دیا گیا ہے۔ *[ARY](https://arynews.tv/illegal-call-centers-face-crackdown-in-pakistan)*
+- پنجاب حکومت کی جانب سے مفت تعلیم کے مختلف آپشنز پیش کیے گئے ہیں۔ *[ARY](https://arynews.tv/punjab-government-offers-free-education-options)*
+- کراچی ٹریفک پولیس نے 8 ربیع الاول کے جلوسوں کے لیے خصوصی ٹریفک پلان جاری کر دیا ہے۔ *[ARY](https://arynews.tv/karachi-traffic-plan-issued-for-8-rabi-ul-awal-processions)*
 
 ### بین الاقوامی
-- گیٹ یونیورسٹی (Ghent University) نے ایک ایسے ماہرِ تعلیم کو معطل کر دیا ہے جس نے جیسن آرڈے کے حوالے سے سوالات اٹھائے تھے۔ *[ARY](https://arynews.tv/ghent-university-suspends-academic-who-questioned-jason-arday)*
+- چین نے اب تک کی سب سے بڑی آٹو ری کال (auto recall) مہم کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/china-launches-biggest-ever-auto-recall-campaign)*
 
-### صحت
-- بنسپتی گھی کے 26 نمونوں میں ضرورت سے زیادہ ٹرانس فیٹ (trans-fat) پایا گیا ہے۔ *[ARY](https://arynews.tv/excessive-trans-fat-found-in-26-samples-of-banaspati-ghee)*
+### سائنس اور ٹیکنالوجی
+- گوگل جیمنائی (Google Gemini) کی ایک سال کی مفت سبسکرپشن حاصل کرنے کا آسان طریقہ۔ *[ARY](https://arynews.tv/google-gemini-free-subscription-for-one-year-easy-way-to-apply)*
+
+### کھیل
+- دوسرے ٹیسٹ سے قبل کولمبو میں روی چندرا جیڈیجا کی وائرل گفتگو۔ *[ARY](https://arynews.tv/ravindra-jadejas-viral-banter-in-colombo-ahead-of-2nd-test)*
+- فیفا نے ارجنٹائن کے بارے میں ورلڈ کپ کے تبصروں پر مصر کے خلاف تحقیقات شروع کر دی ہیں۔ *[ARY](https://arynews.tv/egypt-in-hot-water-fifa-probes-world-cup-comments-on-argentina)*
+- مین سٹی میں بڑی تبدیلیوں کے بعد میسکہ کو کامیابی کے لیے وقت درکار ہوگا۔ *[ARY](https://arynews.tv/maresca-needs-time-to-succeed-after-big-changes-at-man-city)*
 
 ### دیگر
-- اداکار عدنان صدیقی نے ڈرامہ 'میں واپس آؤں گا' دیکھنے کے بعد اپنے خاندان کی تقسیم کے واقعے کو یاد کیا۔ *[ARY](https://arynews.tv/adnan-siddiqui-recalls-familys-partition-story-after-watching-main-vaapas-aaunga)*
-- تماشا سیزن 5 کے شریک کار ثاقب سمیر اپنے خوش اخلاق رویے کی وجہ سے مداحوں کے دل جیت رہے ہیں۔ *[ARY](https://arynews.tv/tamasha-season-5-saqib-sumeer-wins-fans-with-his-kind-nature)*
-- گیل کنگ نے ہیڈن پینیٹیر کی والدہ کے طرز عمل پر تنقید کی۔ *[ARY](https://arynews.tv/gayle-king-criticizes-hayden-panettieres-mom-over-post-death-remarks)*
+- EA FC 27 کے لیے پی ایس جی (PSG) کے کھلاڑیوں کی ریٹنگز اور کھلاڑیوں کے اعداد و شمار لیک ہو گئے۔ *[ARY](https://arynews.tv/ea-fc-27-psg-player-ratings-leaked-full-squad-stats-top-upgrades)*
+- مائن کرافٹ ڈنجنز II (Minecraft Dungeons II) کے گیم پلے ٹریلر، ریلیز کی تاریخ اور نئے فیچرز کا جائزہ۔ *[ARY](https://arynews.tv/minecraft-dungeons-ii-gameplay-trailer-breakdown-release-date-platforms-and-new-features)*
 
