@@ -7,29 +7,29 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 20-Aug-2026 21:07PKT 
+ &lrm; 21-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- ایک مخصوص نوکری کے لیے ٹریننگ کے دوران 20,000 روپے حاصل کرنے کے حوالے سے معلومات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/punjab-vacancies-at-multinational-company-announced)*
-
-### سائنس اور ٹیکنالوجی
-- اینڈرائیڈ 17 اپ ڈیٹ میں ڈیوائس کی کارکردگی بڑھانے کے لیے ایپ میموری کے استعمال کو محدود کیا جائے گا۔ *[ARY](https://arynews.tv/android-17-update-limits-app-memory-usage-to-boost-performance)*
-- پائریسی کے خدشات کے باعث برطانیہ کے سینما گھروں میں میٹا اے آئی اور دیگر اسمارٹ چشموں پر پابندی لگائی جا رہی ہے۔ *[ARY](https://arynews.tv/uk-cinemas-restricting-meta-ai-and-other-smart-glasses)*
-- مائیکرون نے بوائسی میں 10 ارب ڈالر کے اے آئی میموری ریسرچ لیب کا افتتاح کر دیا ہے۔ *[ARY](https://arynews.tv/micron-unveils-10-billion-ai-memory-research-lab-in-boise)*
+- سیلز میں سست روی کے باعث وال مارٹ کے حصص میں 10 فیصد کی کمی واقع ہوئی ہے۔ *[ARY](https://arynews.tv/walmart-shares-slide-10-as-sales-growth-slows)*
+- پاکستان اور سعودی عرب کے درمیان زرعی اور غذائی تجارت کے تعاون کو مزید گہرا کرنے کے لیے اقدامات کیے جائیں گے۔ *[ARY](https://arynews.tv/pakistan-ksa-set-to-deepen-agriculture-and-food-trade-cooperation)*
+- 21 اگست 2026 کے لیے پیٹرول کی قیمت میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-in-pakistan-for-august-21-2026)*
 
 ### سیاست
-- وفاقی آئینی عدالت نے سپریم کورٹ کے ایک اور فیصلے کو کالعدم قرار دے دیا ہے۔ *[ARY](https://arynews.tv/federal-constitutional-court-overturns-another-sc-judgement)*
-- ذرائع کے مطابق پی ٹی آئی کے بانی کو آج ہسپتال منتقل کیا جا سکتا ہے۔ *[ARY](https://arynews.tv/imran-khan-likely-to-be-shifted-to-hospital-today)*
+- صدر زرداری نے بینکنگ محتسب کی خدمات کے بارے میں عوامی آگاہی بڑھانے کی ضرورت پر زور دیا۔ *[ARY](https://arynews.tv/president-calls-for-public-awareness-of-banking-mohtasib-services)*
 
 ### قومی
-- کراچی میں ٹریفک کے شدید جام کے باعث کینسر کی مریضہ لڑکی کے ہسپتال پہنچنے میں تاخیر ہوئی۔ *[ARY](https://arynews.tv/karachi-traffic-jam-delays-hospital-visit-of-cancer-stricken-girl)*
+- پاکستان میں غیر قانونی کال سینٹرز کے خلاف کریک ڈاؤن کا آغاز کر دیا گیا ہے۔ *[ARY](https://arynews.tv/illegal-call-centers-face-crackdown-in-pakistan)*
 
 ### بین الاقوامی
-- شہزادہ ہری اور میگن مارکل کو برطانیہ واپسی پر غیر متوقع اتحادی ملنے کا امکان ہے۔ *[ARY](https://arynews.tv/prince-harry-meghan-markle-may-find-surprising-allies-on-uk-return)*
+- گیٹ یونیورسٹی (Ghent University) نے ایک ایسے ماہرِ تعلیم کو معطل کر دیا ہے جس نے جیسن آرڈے کے حوالے سے سوالات اٹھائے تھے۔ *[ARY](https://arynews.tv/ghent-university-suspends-academic-who-questioned-jason-arday)*
+
+### صحت
+- بنسپتی گھی کے 26 نمونوں میں ضرورت سے زیادہ ٹرانس فیٹ (trans-fat) پایا گیا ہے۔ *[ARY](https://arynews.tv/excessive-trans-fat-found-in-26-samples-of-banaspati-ghee)*
 
 ### دیگر
-- فورٹ نائٹ چیپٹر 7 سیزن 4 کی لابی ہیکس میں مفت XP اور سونیک اسپرائٹس کا انکشاف ہوا ہے۔ *[ARY](https://arynews.tv/fortnite-chapter-7-season-4-lobby-hacks-free-xp-and-sonic-sprites)*
-- اداکار وجے دیوراکونڈا کی نیند کے متعلق ایک پوسٹ پر مداحوں کا مثبت ردعمل سامنے آیا ہے۔ *[ARY](https://arynews.tv/vijay-deverakondas-cute-nap-post-gets-sweet-reaction)*
+- اداکار عدنان صدیقی نے ڈرامہ 'میں واپس آؤں گا' دیکھنے کے بعد اپنے خاندان کی تقسیم کے واقعے کو یاد کیا۔ *[ARY](https://arynews.tv/adnan-siddiqui-recalls-familys-partition-story-after-watching-main-vaapas-aaunga)*
+- تماشا سیزن 5 کے شریک کار ثاقب سمیر اپنے خوش اخلاق رویے کی وجہ سے مداحوں کے دل جیت رہے ہیں۔ *[ARY](https://arynews.tv/tamasha-season-5-saqib-sumeer-wins-fans-with-his-kind-nature)*
+- گیل کنگ نے ہیڈن پینیٹیر کی والدہ کے طرز عمل پر تنقید کی۔ *[ARY](https://arynews.tv/gayle-king-criticizes-hayden-panettieres-mom-over-post-death-remarks)*
 
