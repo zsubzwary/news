@@ -7,29 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Aug-2026 21:07PKT 
+ &lrm; 22-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
-### سیاست
-- وزیراعظم شہباز شریف نے سرکاری حکام کی گھوڑہ گاڑی میں آمد پر سخت نوٹس لے لیا ہے۔ *[ARY](https://arynews.tv/pm-shehbaz-takes-strict-notice-of-officials-horse-drawn-carriage-arrival)*
-
-### قومی
-- پنجاب حکومت کی جانب سے مفت تعلیم کے مختلف آپشنز پیش کیے گئے ہیں۔ *[ARY](https://arynews.tv/punjab-government-offers-free-education-options)*
-- کراچی ٹریفک پولیس نے 8 ربیع الاول کے جلوسوں کے لیے خصوصی ٹریفک پلان جاری کر دیا ہے۔ *[ARY](https://arynews.tv/karachi-traffic-plan-issued-for-8-rabi-ul-awal-processions)*
+### معیشت
+- وال اسٹریٹ کے انڈیکس ہفتہ وار نقصان کی طرف اشارہ کر رہے ہیں، جبکہ توجہ بانڈ ییلڈز اور ایران پر مرکوز ہے۔ *[ARY](https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus)*
+- آئی پی پی (IPP) معاہدوں میں ترمیم کے بعد پاکستان کو 4.3 ٹریلین روپے کی بچت ہوئی۔ *[ARY](https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts)*
+- پیٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-hiked-diesel-also-becomes-more-expensive)*
+- جیپکو (GEPCO) کی نجکاری کے لیے سرمایہ کاروں کی جانب سے بھرپور دلچسپی دیکھی گئی ہے۔ *[ARY](https://arynews.tv/strong-investor-interest-received-for-gepco-privatization)*
 
 ### بین الاقوامی
-- چین نے اب تک کی سب سے بڑی آٹو ری کال (auto recall) مہم کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/china-launches-biggest-ever-auto-recall-campaign)*
+- شہزادہ ہیری اور دیگر افراد کو ایک ناکام قانونی کارروائی کے نتیجے میں لاکھوں ڈالر ادا کرنے کا حکم دیا گیا ہے۔ *[ARY](https://arynews.tv/prince-harry-and-others-ordered-to-pay-millions-over-failed-lawsuit)*
 
-### سائنس اور ٹیکنالوجی
-- گوگل جیمنائی (Google Gemini) کی ایک سال کی مفت سبسکرپشن حاصل کرنے کا آسان طریقہ۔ *[ARY](https://arynews.tv/google-gemini-free-subscription-for-one-year-easy-way-to-apply)*
+### قومی
+- پاکستان میں پاسپورٹ دفاتر کے اوقات رات 12 بجے تک بڑھا دیے گئے ہیں۔ *[ARY](https://arynews.tv/pakistan-extends-passport-office-hours-to-midnight)*
+- سندھ کے اومبڈس مین نے اسکولوں میں فیسوں میں من مانی اضافے کا نوٹس لیا ہے۔ *[ARY](https://arynews.tv/sindh-ombudsman-takes-notice-of-arbitrary-fee-hikes-in-schools)*
 
 ### کھیل
-- دوسرے ٹیسٹ سے قبل کولمبو میں روی چندرا جیڈیجا کی وائرل گفتگو۔ *[ARY](https://arynews.tv/ravindra-jadejas-viral-banter-in-colombo-ahead-of-2nd-test)*
-- فیفا نے ارجنٹائن کے بارے میں ورلڈ کپ کے تبصروں پر مصر کے خلاف تحقیقات شروع کر دی ہیں۔ *[ARY](https://arynews.tv/egypt-in-hot-water-fifa-probes-world-cup-comments-on-argentina)*
-- مین سٹی میں بڑی تبدیلیوں کے بعد میسکہ کو کامیابی کے لیے وقت درکار ہوگا۔ *[ARY](https://arynews.tv/maresca-needs-time-to-succeed-after-big-changes-at-man-city)*
+- ریڈ بل نے میکس ورسٹاپن کے ساتھ 2030 تک 538 ملین ڈالر کا تاریخی معاہدہ کر لیا ہے۔ *[ARY](https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030)*
+- ورلڈ رگبی اور برطانوی اداروں کی کونکشن (concussion) سے متعلق مقدمات کو خارج کرنے کی درخواست مسترد ہوگئی ہے۔ *[ARY](https://arynews.tv/world-rugby-uk-bodies-lose-bid-to-throw-out-concussion-lawsuits)*
 
-### دیگر
-- EA FC 27 کے لیے پی ایس جی (PSG) کے کھلاڑیوں کی ریٹنگز اور کھلاڑیوں کے اعداد و شمار لیک ہو گئے۔ *[ARY](https://arynews.tv/ea-fc-27-psg-player-ratings-leaked-full-squad-stats-top-upgrades)*
-- مائن کرافٹ ڈنجنز II (Minecraft Dungeons II) کے گیم پلے ٹریلر، ریلیز کی تاریخ اور نئے فیچرز کا جائزہ۔ *[ARY](https://arynews.tv/minecraft-dungeons-ii-gameplay-trailer-breakdown-release-date-platforms-and-new-features)*
+### صحت
+- ہارورڈ کی ایک تحقیق کے مطابق، کائناتی شعاعوں (cosmic radiation) کے اثرات کے باعث ایئر لائن عملے میں کینسر کا خطرہ زیادہ ہو سکتا ہے۔ *[ARY](https://arynews.tv/harvard-study-links-higher-cancer-risk-to-airline-flight-crews-due-to-cosmic-radiation-exposure)*
 
