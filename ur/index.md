@@ -7,27 +7,31 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 22-Aug-2026 09:07PKT 
+ &lrm; 22-Aug-2026 21:08PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- وال اسٹریٹ کے انڈیکس ہفتہ وار نقصان کی طرف اشارہ کر رہے ہیں، جبکہ توجہ بانڈ ییلڈز اور ایران پر مرکوز ہے۔ *[ARY](https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus)*
-- آئی پی پی (IPP) معاہدوں میں ترمیم کے بعد پاکستان کو 4.3 ٹریلین روپے کی بچت ہوئی۔ *[ARY](https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts)*
-- پیٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-hiked-diesel-also-becomes-more-expensive)*
-- جیپکو (GEPCO) کی نجکاری کے لیے سرمایہ کاروں کی جانب سے بھرپور دلچسپی دیکھی گئی ہے۔ *[ARY](https://arynews.tv/strong-investor-interest-received-for-gepco-privatization)*
+- ایپل نے ویژن پرو اور سری ٹیموں سے 200 سے زیادہ ملازمین کی چھانٹی کر دی ہے۔ *[ARY](https://arynews.tv/apple-cuts-over-200-jobs-from-vision-pro-and-siri-teams)*
+- چین کے ریکارڈ آٹو ریکال کے پیچھے گاڑیوں کے دروازوں کے ہینڈلز کا مسئلہ سامنے آیا ہے۔ *[ARY](https://arynews.tv/door-handles-behind-chinas-record-auto-recall)*
 
-### بین الاقوامی
-- شہزادہ ہیری اور دیگر افراد کو ایک ناکام قانونی کارروائی کے نتیجے میں لاکھوں ڈالر ادا کرنے کا حکم دیا گیا ہے۔ *[ARY](https://arynews.tv/prince-harry-and-others-ordered-to-pay-millions-over-failed-lawsuit)*
+### سائنس اور ٹیکنالوجی
+- اوٹر باکس کیس کے نئے لیک سے آئی فون 18 پرو کے ڈیزائن کے حوالے سے افواہیں غلط ثابت ہو گئیں۔ *[ARY](https://arynews.tv/iphone-18-pro-design-rumors-debunked-by-new-otterbox-case-leak)*
+
+### سیاست
+- صدر زرداری نے پاکستان اور ملائیشیا کے درمیان سیکورٹی تعاون کو مزید مضبوط بنانے پر زور دیا۔ *[ARY](https://arynews.tv/president-zardari-calls-for-stronger-pakistan-malaysia-cooperation-in-security)*
 
 ### قومی
-- پاکستان میں پاسپورٹ دفاتر کے اوقات رات 12 بجے تک بڑھا دیے گئے ہیں۔ *[ARY](https://arynews.tv/pakistan-extends-passport-office-hours-to-midnight)*
-- سندھ کے اومبڈس مین نے اسکولوں میں فیسوں میں من مانی اضافے کا نوٹس لیا ہے۔ *[ARY](https://arynews.tv/sindh-ombudsman-takes-notice-of-arbitrary-fee-hikes-in-schools)*
+- باجوڑ اور اس کے گردونواح کے علاقوں کے لیے گیس کی بندش کا الرٹ جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/gas-shutdown-alert-issued-for-bajaur-and-adjoining-areas)*
+
+### بین الاقوامی
+- ایران نے متعدد عراقی آئل ٹینکرز کو ہرمز کے مقام سے گزرنے کی اجازت دے دی ہے۔ *[ARY](https://arynews.tv/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz)*
+- امریکہ کی جانب سے تنقید کے باوجود اسرائیل نے شام میں تازہ حملہ کر دیا۔ *[ARY](https://arynews.tv/israel-conducts-fresh-strike-in-syria-after-us-criticism)*
+- ایران نے امریکہ کے نئے معاشی پابندیاں لگانے کے منصوبوں کی مذمت کی۔ *[ARY](https://arynews.tv/iran-condemns-us-plans-to-announce-new-sanctions)*
 
 ### کھیل
-- ریڈ بل نے میکس ورسٹاپن کے ساتھ 2030 تک 538 ملین ڈالر کا تاریخی معاہدہ کر لیا ہے۔ *[ARY](https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030)*
-- ورلڈ رگبی اور برطانوی اداروں کی کونکشن (concussion) سے متعلق مقدمات کو خارج کرنے کی درخواست مسترد ہوگئی ہے۔ *[ARY](https://arynews.tv/world-rugby-uk-bodies-lose-bid-to-throw-out-concussion-lawsuits)*
+- پریمیئر لیگ کے آغاز میں ہی مین یوٹیڈ کو ہل کے خلاف مایوس کن شکست کا سامنا کرنا پڑا۔ *[ARY](https://arynews.tv/man-utd-humiliated-by-hull-in-dismal-start-to-premier-league-season)*
 
 ### صحت
-- ہارورڈ کی ایک تحقیق کے مطابق، کائناتی شعاعوں (cosmic radiation) کے اثرات کے باعث ایئر لائن عملے میں کینسر کا خطرہ زیادہ ہو سکتا ہے۔ *[ARY](https://arynews.tv/harvard-study-links-higher-cancer-risk-to-airline-flight-crews-due-to-cosmic-radiation-exposure)*
+- پاکستان میں بوتل بند پانی کے 29 برانڈز کو انسانی استعمال کے لیے غیر محفوظ قرار دے دیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-declares-29-bottled-water-brands-unsafe-for-human-consumption)*
 
