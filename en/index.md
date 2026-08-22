@@ -4,29 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-Aug-2026 21:02PKT
+Published at: 22-Aug-2026 09:03PKT
 
 Time to read: 2 mins
 
-### Politics
-- PM Shehbaz has taken **strict notice** regarding the arrival of officials via horse-drawn carriages. *[ARY](https://arynews.tv/pm-shehbaz-takes-strict-notice-of-officials-horse-drawn-carriage-arrival)*
+### Economy
+- Wall Street indexes are anticipating weekly losses, with focus remaining on bond yields and developments in Iran. *[ARY](https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus)*
+- Pakistan has achieved savings of Rs. 4.3 trillion following the revision of Independent Power Producer (IPP) contracts. *[ARY](https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts)*
+- Fuel costs have risen as prices for both petrol and diesel have been hiked. *[ARY](https://arynews.tv/petrol-price-hiked-diesel-also-becomes-more-expensive)*
+- There has been strong investor interest regarding the privatization of GEPCO. *[ARY](https://arynews.tv/strong-investor-interest-received-for-gepco-privatization)*
 
 ### National
-- The Punjab government is providing various **free education options** to citizens. *[ARY](https://arynews.tv/punjab-government-offers-free-education-options)*
-- Karachi traffic police have implemented a **special traffic plan** for the upcoming 8 Rabi-ul-Awal processions. *[ARY](https://arynews.tv/karachi-traffic-plan-issued-for-8-rabi-ul-awal-processions)*
+- Passport office hours in Pakistan have been extended to midnight. *[ARY](https://arynews.tv/pakistan-extends-passport-office-hours-to-midnight)*
+- The Sindh Ombudsman has taken notice of arbitrary fee increases being implemented in schools. *[ARY](https://arynews.tv/sindh-ombudsman-takes-notice-of-arbitrary-fee-hikes-in-schools)*
 
 ### International
-- China has launched its **largest-ever auto recall campaign**. *[ARY](https://arynews.tv/china-launches-biggest-ever-auto-recall-campaign)*
-
-### Science & Technology
-- A guide is available on how to apply for a **one-year free subscription** to Google Gemini. *[ARY](https://arynews.tv/google-gemini-free-subscription-for-one-year-easy-way-to-apply)*
+- Prince Harry and others have been ordered to pay millions of dollars following a failed lawsuit. *[ARY](https://arynews.tv/prince-harry-and-others-ordered-to-pay-millions-over-failed-lawsuit)*
 
 ### Sports
-- Ravindra Jadeja's **viral banter** in Colombo has drawn attention ahead of the 2nd test match. *[ARY](https://arynews.tv/ravindra-jadejas-viral-banter-in-colombo-ahead-of-2nd-test)*
-- FIFA is conducting a **probe into comments** made regarding Argentina during the World Cup in Egypt. *[ARY](https://arynews.tv/egypt-in-hot-water-fifa-probes-world-cup-comments-on-argentina)*
-- Analysis suggests Maresca requires more time to achieve success following **significant changes** at Man City. *[ARY](https://arynews.tv/maresca-needs-time-to-succeed-after-big-changes-at-man-city)*
+- Red Bull has secured Max Verstappen with a historic $538 million contract running through 2030. *[ARY](https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030)*
+- World Rugby and UK sporting bodies have lost their bid to dismiss ongoing concussion-related lawsuits. *[ARY](https://arynews.tv/world-rugby-uk-bodies-lose-bid-to-throw-out-concussion-lawsuits)*
 
-### Other
-- Leaked player ratings and squad statistics for **PSG** have been released for EA FC 27. *[ARY](https://arynews.tv/ea-fc-27-psg-player-ratings-leaked-full-squad-stats-top-upgrades)*
-- A new gameplay trailer for **Minecraft Dungeons II** has detailed the release date, supported platforms, and upcoming features. *[ARY](https://arynews.tv/minecraft-dungeons-ii-gameplay-trailer-breakdown-release-date-platforms-and-new-features)*
+### Health
+- A Harvard study has linked increased cancer risks in airline flight crews to exposure to cosmic radiation. *[ARY](https://arynews.tv/harvard-study-links-higher-cancer-risk-to-airline-flight-crews-due-to-cosmic-radiation-exposure)*
 
