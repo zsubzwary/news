@@ -4,27 +4,31 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Aug-2026 09:03PKT
+Published at: 22-Aug-2026 21:02PKT
 
 Time to read: 2 mins
 
 ### Economy
-- Wall Street indexes are anticipating weekly losses, with focus remaining on bond yields and developments in Iran. *[ARY](https://arynews.tv/wall-st-indexes-eye-weekly-losses-bond-yields-and-iran-in-focus)*
-- Pakistan has achieved savings of Rs. 4.3 trillion following the revision of Independent Power Producer (IPP) contracts. *[ARY](https://arynews.tv/pakistan-saves-rs-4-3-trillion-after-revising-ipp-contracts)*
-- Fuel costs have risen as prices for both petrol and diesel have been hiked. *[ARY](https://arynews.tv/petrol-price-hiked-diesel-also-becomes-more-expensive)*
-- There has been strong investor interest regarding the privatization of GEPCO. *[ARY](https://arynews.tv/strong-investor-interest-received-for-gepco-privatization)*
+- China is facing a record-breaking automobile recall driven by issues with door handles. *[ARY](https://arynews.tv/door-handles-behind-chinas-record-auto-recall)*
+
+### Science & Technology
+- New leaks from OtterBox have reportedly debunked recent design rumors regarding the **iPhone 18 Pro**. *[ARY](https://arynews.tv/iphone-18-pro-design-rumors-debunked-by-new-otterbox-case-leak)*
+- Apple has cut over 200 jobs, specifically impacting the **Vision Pro** and **Siri** teams. *[ARY](https://arynews.tv/apple-cuts-over-200-jobs-from-vision-pro-and-siri-teams)*
+
+### Politics
+- President Zardari has called for enhanced security cooperation between **Pakistan and Malaysia**. *[ARY](https://arynews.tv/president-zardari-calls-for-stronger-pakistan-malaysia-cooperation-in-security)*
 
 ### National
-- Passport office hours in Pakistan have been extended to midnight. *[ARY](https://arynews.tv/pakistan-extends-passport-office-hours-to-midnight)*
-- The Sindh Ombudsman has taken notice of arbitrary fee increases being implemented in schools. *[ARY](https://arynews.tv/sindh-ombudsman-takes-notice-of-arbitrary-fee-hikes-in-schools)*
+- A gas shutdown alert has been issued for **Bajaur** and its adjoining areas. *[ARY](https://arynews.tv/gas-shutdown-alert-issued-for-bajaur-and-adjoining-areas)*
 
 ### International
-- Prince Harry and others have been ordered to pay millions of dollars following a failed lawsuit. *[ARY](https://arynews.tv/prince-harry-and-others-ordered-to-pay-millions-over-failed-lawsuit)*
+- Iran has granted permission for several **Iraqi oil tankers** to pass through the Strait of Hormuz. *[ARY](https://arynews.tv/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz)*
+- Following criticism from the United States, **Israel** has conducted a fresh strike in Syria. *[ARY](https://arynews.tv/israel-conducts-fresh-strike-in-syria-after-us-criticism)*
+- Iran has issued a condemnation regarding the **United States'** plans to announce new sanctions. *[ARY](https://arynews.tv/iran-condemns-us-plans-to-announce-new-sanctions)*
 
 ### Sports
-- Red Bull has secured Max Verstappen with a historic $538 million contract running through 2030. *[ARY](https://arynews.tv/red-bull-pays-up-big-signs-max-verstappen-to-historic-538-million-contract-to-2030)*
-- World Rugby and UK sporting bodies have lost their bid to dismiss ongoing concussion-related lawsuits. *[ARY](https://arynews.tv/world-rugby-uk-bodies-lose-bid-to-throw-out-concussion-lawsuits)*
+- **Manchester United** suffered a humiliating defeat against Hull during a poor start to the Premier League season. *[ARY](https://arynews.tv/man-utd-humiliated-by-hull-in-dismal-start-to-premier-league-season)*
 
 ### Health
-- A Harvard study has linked increased cancer risks in airline flight crews to exposure to cosmic radiation. *[ARY](https://arynews.tv/harvard-study-links-higher-cancer-risk-to-airline-flight-crews-due-to-cosmic-radiation-exposure)*
+- Pakistan has officially declared **29 bottled water brands** unsafe for human consumption. *[ARY](https://arynews.tv/pakistan-declares-29-bottled-water-brands-unsafe-for-human-consumption)*
 
