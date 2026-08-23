@@ -4,31 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Aug-2026 21:02PKT
+Published at: 23-Aug-2026 09:03PKT
 
 Time to read: 2 mins
 
-### Economy
-- China is facing a record-breaking automobile recall driven by issues with door handles. *[ARY](https://arynews.tv/door-handles-behind-chinas-record-auto-recall)*
-
-### Science & Technology
-- New leaks from OtterBox have reportedly debunked recent design rumors regarding the **iPhone 18 Pro**. *[ARY](https://arynews.tv/iphone-18-pro-design-rumors-debunked-by-new-otterbox-case-leak)*
-- Apple has cut over 200 jobs, specifically impacting the **Vision Pro** and **Siri** teams. *[ARY](https://arynews.tv/apple-cuts-over-200-jobs-from-vision-pro-and-siri-teams)*
+### International
+- Saudi Arabia has deported 13,724 illegal residents within a single week. *[ARY](https://arynews.tv/saudi-arabia-deports-13724-illegal-residents-in-a-week)*
+- Authorities in Kuwait have issued warnings to cooperatives to ensure strict compliance with food safety requirements. *[ARY](https://arynews.tv/kuwait-warns-cooperatives-to-comply-with-food-safety-requirements)*
+- A recent lottery draw in Kuwait resulted in 330 women winning homes. *[ARY](https://arynews.tv/330-women-win-homes-in-kuwait-lottery-draw)*
 
 ### Politics
-- President Zardari has called for enhanced security cooperation between **Pakistan and Malaysia**. *[ARY](https://arynews.tv/president-zardari-calls-for-stronger-pakistan-malaysia-cooperation-in-security)*
+- The impact of Trump's tariffs has reportedly reduced Quebec's interest in a rapid separation from Canada. *[ARY](https://arynews.tv/hit-by-trump-tariffs-quebec-loses-appetite-for-quick-separation-from-canada)*
+
+### Science & Technology
+- Bilibili is pursuing global expansion by targeting Western creators in an effort to rival YouTube. *[ARY](https://arynews.tv/bilibili-global-expansion-targets-creators-to-rival-youtube)*
+- Sony is reportedly developing a **PlayStation 6 handheld** device as part of a strategy to return to the portable gaming market. *[ARY](https://arynews.tv/playstation-6-handheld-in-works)*
+- A Chinese robot has reportedly surpassed Usain Bolt's 100m world record during a test run. *[ARY](https://arynews.tv/chinese-robot-beats-usain-bolts-100m-world-record-in-test-run)*
 
 ### National
-- A gas shutdown alert has been issued for **Bajaur** and its adjoining areas. *[ARY](https://arynews.tv/gas-shutdown-alert-issued-for-bajaur-and-adjoining-areas)*
-
-### International
-- Iran has granted permission for several **Iraqi oil tankers** to pass through the Strait of Hormuz. *[ARY](https://arynews.tv/iran-grants-permission-for-a-number-of-iraqi-oil-tankers-to-pass-through-hormuz)*
-- Following criticism from the United States, **Israel** has conducted a fresh strike in Syria. *[ARY](https://arynews.tv/israel-conducts-fresh-strike-in-syria-after-us-criticism)*
-- Iran has issued a condemnation regarding the **United States'** plans to announce new sanctions. *[ARY](https://arynews.tv/iran-condemns-us-plans-to-announce-new-sanctions)*
+- Investigations into the **Mir Raza Ali case** have revealed new details concerning the victim's final 12 hours. *[ARY](https://arynews.tv/mir-ali-raza-case-investigation-reveals-how-mir-raza-spent-his-final-12-hours)*
 
 ### Sports
-- **Manchester United** suffered a humiliating defeat against Hull during a poor start to the Premier League season. *[ARY](https://arynews.tv/man-utd-humiliated-by-hull-in-dismal-start-to-premier-league-season)*
-
-### Health
-- Pakistan has officially declared **29 bottled water brands** unsafe for human consumption. *[ARY](https://arynews.tv/pakistan-declares-29-bottled-water-brands-unsafe-for-human-consumption)*
+- Hull City is seeing significant momentum regarding a potential return to the Premier League. *[ARY](https://arynews.tv/hull-city-in-dreamland-on-premier-league-return)*
+- PSG coach Luis Enrique has expressed concerns regarding Parc des Princes. *[ARY](https://arynews.tv/psg-coach-luis-enrique-worried-about-parc-des-princes)*
 
