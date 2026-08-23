@@ -4,27 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 23-Aug-2026 09:03PKT
+Published at: 23-Aug-2026 21:02PKT
 
 Time to read: 2 mins
 
-### International
-- Saudi Arabia has deported 13,724 illegal residents within a single week. *[ARY](https://arynews.tv/saudi-arabia-deports-13724-illegal-residents-in-a-week)*
-- Authorities in Kuwait have issued warnings to cooperatives to ensure strict compliance with food safety requirements. *[ARY](https://arynews.tv/kuwait-warns-cooperatives-to-comply-with-food-safety-requirements)*
-- A recent lottery draw in Kuwait resulted in 330 women winning homes. *[ARY](https://arynews.tv/330-women-win-homes-in-kuwait-lottery-draw)*
-
 ### Politics
-- The impact of Trump's tariffs has reportedly reduced Quebec's interest in a rapid separation from Canada. *[ARY](https://arynews.tv/hit-by-trump-tariffs-quebec-loses-appetite-for-quick-separation-from-canada)*
+- The KP Chief Minister has confirmed that the **long march** will proceed on September 27, with no changes to the scheduled date. *[ARY](https://arynews.tv/long-march-will-be-held-on-september-27-no-change-in-date-kp-cm)*
 
 ### Science & Technology
-- Bilibili is pursuing global expansion by targeting Western creators in an effort to rival YouTube. *[ARY](https://arynews.tv/bilibili-global-expansion-targets-creators-to-rival-youtube)*
-- Sony is reportedly developing a **PlayStation 6 handheld** device as part of a strategy to return to the portable gaming market. *[ARY](https://arynews.tv/playstation-6-handheld-in-works)*
-- A Chinese robot has reportedly surpassed Usain Bolt's 100m world record during a test run. *[ARY](https://arynews.tv/chinese-robot-beats-usain-bolts-100m-world-record-in-test-run)*
+- A new cyberattack known as the **"Zombie Card Attack"** is reportedly reviving expired Visa cards to facilitate real purchases. *[ARY](https://arynews.tv/zombie-card-attack-revives-expired-visa-cards-for-real-purchases)*
+- YouTube is reportedly offering **millions of dollars** to top content creators to prevent their content from migrating to Netflix. *[ARY](https://arynews.tv/youtube-offers-top-creators-millions-to-keep-content-off-netflix)*
 
 ### National
-- Investigations into the **Mir Raza Ali case** have revealed new details concerning the victim's final 12 hours. *[ARY](https://arynews.tv/mir-ali-raza-case-investigation-reveals-how-mir-raza-spent-his-final-12-hours)*
+- In the **Mir Raza case**, Jibran Nasir has raised questions regarding the judicial commission prior to the release of the police report. *[ARY](https://arynews.tv/mir-raza-case-jibran-nasir-questions-judicial-commission-before-police-report)*
+- The family of **Mir Raza Ali** has expressed their opposition to the formation of a judicial commission. *[ARY](https://arynews.tv/mir-raza-alis-family-opposes-formation-of-judicial-commission)*
+- Detailed information regarding the **reserved seats** for the AJK Assembly has been officially released. *[ARY](https://arynews.tv/ajk-assembly-reserved-seats-details-released)*
+
+### International
+- **Israeli airstrikes** in Gaza have resulted in the deaths of two individuals, including a four-year-old boy. *[ARY](https://arynews.tv/israeli-airstrikes-in-gaza-kill-two-people)*
+- Ukrainian President **Volodymyr Zelensky** has rejected a rival's proposal for a vote, stating such a move would split the nation. *[ARY](https://arynews.tv/volodymyr-zelensky-rejects-rivals-call-for-vote)*
 
 ### Sports
-- Hull City is seeing significant momentum regarding a potential return to the Premier League. *[ARY](https://arynews.tv/hull-city-in-dreamland-on-premier-league-return)*
-- PSG coach Luis Enrique has expressed concerns regarding Parc des Princes. *[ARY](https://arynews.tv/psg-coach-luis-enrique-worried-about-parc-des-princes)*
+- Nordic nations have expressed a **loss of confidence** in FIFA governance and the leadership of Gianni Infantino. *[ARY](https://arynews.tv/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance)*
+- Football star **Erling Haaland** has surprised his fan base with a new buzzcut hairstyle. *[ARY](https://arynews.tv/erling-haaland-surprises-fans-with-new-buzzcut)*
 
