@@ -4,27 +4,25 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 23-Aug-2026 21:02PKT
+Published at: 24-Aug-2026 09:03PKT
 
 Time to read: 2 mins
 
-### Politics
-- The KP Chief Minister has confirmed that the **long march** will proceed on September 27, with no changes to the scheduled date. *[ARY](https://arynews.tv/long-march-will-be-held-on-september-27-no-change-in-date-kp-cm)*
+### Economy
+- **Alibaba** has launched a **$10 billion** share placement in Hong Kong to secure funding for its **AI spending** initiatives. *[ARY](https://arynews.tv/alibaba-launches-10-billion-hong-kong-share-placement-to-fund-ai-spending)*
 
-### Science & Technology
-- A new cyberattack known as the **"Zombie Card Attack"** is reportedly reviving expired Visa cards to facilitate real purchases. *[ARY](https://arynews.tv/zombie-card-attack-revives-expired-visa-cards-for-real-purchases)*
-- YouTube is reportedly offering **millions of dollars** to top content creators to prevent their content from migrating to Netflix. *[ARY](https://arynews.tv/youtube-offers-top-creators-millions-to-keep-content-off-netflix)*
+### Politics
+- The election for the **AJK Assembly Speaker** and **Deputy Speaker** is scheduled to take place today. *[ARY](https://arynews.tv/ajk-assembly-speaker-deputy-speaker-election-to-be-held-today-sources)*
+- Huzaifa Rehman has claimed that the **PTI founder** used harsh language regarding **Aleema Khan**. *[ARY](https://arynews.tv/pti-founder-used-harsh-words-about-aleema-khan-claims-huzaifa-rehman)*
+- The **KP Chief Minister** confirmed that the scheduled **long march** will proceed on **September 27** without any changes to the date. *[ARY](https://arynews.tv/long-march-will-be-held-on-september-27-no-change-in-date-kp-cm)*
+- Journalist Mazhar Abbas remarked on the recurring cycle of attempting to build a **"new Pakistan"** every few years. *[ARY](https://arynews.tv/we-keep-trying-to-build-a-new-pakistan-every-few-years-mazhar-abbas)*
 
 ### National
-- In the **Mir Raza case**, Jibran Nasir has raised questions regarding the judicial commission prior to the release of the police report. *[ARY](https://arynews.tv/mir-raza-case-jibran-nasir-questions-judicial-commission-before-police-report)*
-- The family of **Mir Raza Ali** has expressed their opposition to the formation of a judicial commission. *[ARY](https://arynews.tv/mir-raza-alis-family-opposes-formation-of-judicial-commission)*
-- Detailed information regarding the **reserved seats** for the AJK Assembly has been officially released. *[ARY](https://arynews.tv/ajk-assembly-reserved-seats-details-released)*
-
-### International
-- **Israeli airstrikes** in Gaza have resulted in the deaths of two individuals, including a four-year-old boy. *[ARY](https://arynews.tv/israeli-airstrikes-in-gaza-kill-two-people)*
-- Ukrainian President **Volodymyr Zelensky** has rejected a rival's proposal for a vote, stating such a move would split the nation. *[ARY](https://arynews.tv/volodymyr-zelensky-rejects-rivals-call-for-vote)*
+- Khyber Pakhtunkhwa has announced the **‘Pride of Khyber Pakhtunkhwa Awards 2026’**. *[ARY](https://arynews.tv/kp-announces-pride-of-khyber-pakhtunkhwa-awards-2026)*
 
 ### Sports
-- Nordic nations have expressed a **loss of confidence** in FIFA governance and the leadership of Gianni Infantino. *[ARY](https://arynews.tv/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance)*
-- Football star **Erling Haaland** has surprised his fan base with a new buzzcut hairstyle. *[ARY](https://arynews.tv/erling-haaland-surprises-fans-with-new-buzzcut)*
+- **Babar Azam** is expected to return to the lineup as Pakistan considers roster changes for the **second Test at Lord’s**. *[ARY](https://arynews.tv/babar-azam-slated-to-return-as-pakistan-mulls-changes-for-the-second-test-at-lords)*
+- **Pakistan-backed candidates** achieved a decisive victory in the **ACC board elections** held in Bangkok. *[ARY](https://arynews.tv/pakistan-backed-candidates-clean-sweep-acc-board-elections-in-bangkok)*
+- **Brydon Carse** is currently under investigation following a recent incident. *[ARY](https://arynews.tv/brydon-carse-being-investigated-after-incident)*
+- **Nordic nations** have expressed a loss of confidence in **FIFA governance** and its president, **Infantino**. *[ARY](https://arynews.tv/nordic-nations-say-they-have-lost-confidence-in-infantino-and-fifa-governance)*
 
