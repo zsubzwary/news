@@ -7,27 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 24-Aug-2026 21:07PKT 
+ &lrm; 25-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- پاکستان نے کے-IV واٹر پروجیکٹ کے لیے 7 ارب روپے سے زائد کی رقم منظور کر لی ہے۔ *[ARY](https://arynews.tv/pakistan-approves-over-rs-7-billion-for-k-iv-water-project)*
+- او جی آر اے (OGRA) نے پٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/ogra-increases-petrol-diesel-prices)*
+- ایران پر نئی پابندیوں کے اثرات اور این ویڈیا (Nvidia) کے مالیاتی نتائج کے پیش نظر ٹیکنالوجی سیکٹر کی وجہ سے S&P 500 اور Nasdaq میں گراوٹ دیکھی گئی۔ *[ARY](https://arynews.tv/tech-drags-sp-500-nasdaq-lower-as-more-iran-sanctions-nvidia-earnings-loom)*
+
+### سائنس اور ٹیکنالوجی
+- جی ٹی اے 6 (GTA 6) کے ایک ہیکر نے گیم کی ویڈیو فوٹیج لیک کرنے کے حوالے سے پول (poll) شروع کر دیا ہے۔ *[ARY](https://arynews.tv/gta-6-cyberleek-launches-poll-to-leak-lucia-prologue-footage)*
 
 ### سیاست
-- ناصر حسین شاہ کا کہنا ہے کہ جب تک زرداری صدر ہیں سندھ کو تقسیم نہیں کیا جا سکتا۔ *[ARY](https://arynews.tv/sindh-cannot-be-divided-while-zardari-is-president-nasir-hussain-shah)*
-- بیرسٹر گوہر کے مطابق پی ٹی آئی اب بھی اتحاد میں مولانا فضل الرحمان کو شامل رکھنا چاہتی ہے۔ *[ARY](https://arynews.tv/barrister-gohar-says-pti-still-wants-maulana-fazal-ur-rehman-in-alliance)*
+- رانا ثناء اللہ نے جماعت اسلامی کے احتجاج کو شرمناک قرار دیتے ہوئے اسے ختم کرنے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/ji-protest-has-become-embarrassing-should-announce-its-end-rana-sanaullah)*
 
 ### بین الاقوامی
-- امریکہ ایچ-1 بی (H-1B) ورکر ویزا کے لیے ایک لاکھ ڈالر سے زیادہ کی فیس عائد کرنے والا ہے۔ *[ARY](https://arynews.tv/us-to-impose-more-than-100000-fee-for-h-1b-worker-visas)*
-- ٹرمپ نے کینیڈا کی گاڑیوں پر ٹیرف دوگنا کرنے کا اعلان کیا ہے جس سے تجارتی تنازع میں شدت آگئی ہے۔ *[ARY](https://arynews.tv/trump-doubles-tariffs-on-canada-autos-as-trade-fight-heats-up)*
-- ناروے کی اعلیٰ عدالت نے ماحولیاتی تنازعات سے متعلق تیل کے پرمٹس پر سماعت کا آغاز کر دیا۔ *[ARY](https://arynews.tv/top-norway-court-opens-hearings-over-climate-disputed-oil-permits)*
-- یو ایس ایس ابراہم لنکن کے ملاح کے والد کو امریکی امیگریشن حراست میں لے لیا گیا ہے۔ *[ARY](https://arynews.tv/father-of-sailor-aboard-uss-abraham-lincoln-taken-into-us-immigration-detention)*
+- ایران نے امریکہ کی جانب سے پابندیوں میں اضافے کے بعد جوابی کارروائی کا عزم ظاہر کیا ہے۔ *[ARY](https://arynews.tv/iran-vows-to-retaliate-after-us-widens-sanctions)*
+- امریکہ نے ایران کے ساتھ تجارت کرنے والے ممالک کو خبردار کیا ہے، تاہم فی الحال جرمانے عائد کرنے سے گریز کیا ہے۔ *[ARY](https://arynews.tv/us-threatens-countries-doing-business-with-iran)*
+- غزہ میں اسرائیلی حملوں کے نتیجے میں دو بچوں سمیت پانچ افراد جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/gaza-rescuers-say-israeli-strikes-kill-five-including-two-children)*
+- پاکستان نے بنگلہ دیش کو قانونی اصلاحات اور ڈیجیٹل انصاف کے شعبے میں تعاون کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/pakistan-offers-bangladesh-cooperation-on-legal-reforms-and-digital-justice)*
 
-### کھیل
-- جیانی انفینٹینو نے کرسٹیانو رونالڈو کی 1000 گولز کے تاریخی ہدف کی جانب بڑھنے کی کوشش میں ان کی حمایت کی۔ *[ARY](https://arynews.tv/gianni-infantino-supports-cristiano-ronaldo-on-the-historic-race-to-1000-goals)*
-
-### قومی
-- نادرا نے 'پروف آف لائف' سرٹیفکیٹ دوبارہ حاصل کرنے کا آن لائن طریقہ کار شیئر کر دیا ہے۔ *[ARY](https://arynews.tv/nadra-shares-online-process-to-reobtain-proof-of-life-certificate)*
-- حنا جاوید کیس: پوسٹ مارٹم سے جسم پر متعدد زخموں کا انکشاف ہوا ہے۔ *[ARY](https://arynews.tv/hina-javed-case-post-mortem-reveals-multiple-injuries)*
+### صحت
+- ایلی للی (Eli Lilly) نے برطانیہ میں وزن کم کرنے کے لیے زبانی دوا 'فاؤنڈائیو' (Foundayo) لانچ کر دی ہے۔ *[ARY](https://arynews.tv/eli-lilly-launches-oral-weight-loss-drug-foundayo-in-uk)*
+- ایف ڈی اے (FDA) نے ریجن ایکس بی آئی او (Regenxbio) کی جین تھراپی پر کلینیکل ہولڈ (clinical hold) لگا دیا ہے۔ *[ARY](https://arynews.tv/rgx-121-places-clinical-hold-on-regenxbios-gene-therapy)*
 
