@@ -4,27 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-Aug-2026 21:02PKT
+Published at: 25-Aug-2026 09:03PKT
 
 Time to read: 2 mins
 
 ### Economy
-- The US is set to impose a fee exceeding $100,000 for H-1B worker visas. *[ARY](https://arynews.tv/us-to-impose-more-than-100000-fee-for-h-1b-worker-visas)*
-- Donald Trump has proposed doubling tariffs on Canadian automobiles as trade tensions escalate. *[ARY](https://arynews.tv/trump-doubles-tariffs-on-canada-autos-as-trade-fight-heats-up)*
+- **OGRA** has announced an increase in the prices of petrol and diesel. *[ARY](https://arynews.tv/ogra-increases-petrol-diesel-prices)*
+- The **S&P 500** and **Nasdaq** have been pulled lower by the tech sector amid looming Nvidia earnings and new sanctions on Iran. *[ARY](https://arynews.tv/tech-drags-sp-500-nasdaq-lower-as-more-iran-sanctions-nvidia-earnings-loom)*
+
+### Science & Technology
+- A hacker known as **Cyberleek** has launched a poll regarding the potential leaking of **Lucia prologue footage** from GTA 6. *[ARY](https://arynews.tv/gta-6-cyberleek-launches-poll-to-leak-lucia-prologue-footage)*
 
 ### Politics
-- Nasir Hussain Shah stated that Sindh cannot be divided during President Zardari's term. *[ARY](https://arynews.tv/sindh-cannot-be-divided-while-zardari-is-president-nasir-hussain-shah)*
-- Barrister Gohar mentioned that the PTI still intends to include Maulana Fazal ur Rehman in their alliance. *[ARY](https://arynews.tv/barrister-gohar-says-pti-still-wants-maulana-fazal-ur-rehman-in-alliance)*
-
-### National
-- Pakistan has approved more than Rs. 7 billion for the K-IV water project. *[ARY](https://arynews.tv/pakistan-approves-over-rs-7-billion-for-k-iv-water-project)*
-- NADRA has introduced an online process for citizens to reobtain 'Proof of Life' certificates. *[ARY](https://arynews.tv/nadra-shares-online-process-to-reobtain-proof-of-life-certificate)*
-- The post-mortem in the Hina Javed case has revealed that the victim sustained multiple injuries. *[ARY](https://arynews.tv/hina-javed-case-post-mortem-reveals-multiple-injuries)*
+- **Rana Sanaullah** stated that the **JI protest** has become embarrassing and suggested that the group should announce its end. *[ARY](https://arynews.tv/ji-protest-has-become-embarrassing-should-announce-its-end-rana-sanaullah)*
 
 ### International
-- A high court in Norway has commenced hearings regarding oil permits that are being disputed due to climate concerns. *[ARY](https://arynews.tv/top-norway-court-opens-hearings-over-climate-disputed-oil-permits)*
-- The father of a sailor stationed on the USS Abraham Lincoln has been taken into US immigration detention. *[ARY](https://arynews.tv/father-of-sailor-aboard-uss-abraham-lincoln-taken-into-us-immigration-detention)*
+- **Iran** has vowed to retaliate following the widening of **US sanctions**. *[ARY](https://arynews.tv/iran-vows-to-retaliate-after-us-widens-sanctions)*
+- The **United States** has threatened countries conducting business with Iran but is currently holding off on implementing penalties. *[ARY](https://arynews.tv/us-threatens-countries-doing-business-with-iran)*
+- Rescuers in **Gaza** report that Israeli strikes have killed five individuals, including two children. *[ARY](https://arynews.tv/gaza-rescuers-say-israeli-strikes-kill-five-including-two-children)*
+- **Pakistan** has offered to cooperate with **Bangladesh** regarding digital justice and legal reforms. *[ARY](https://arynews.tv/pakistan-offers-bangladesh-cooperation-on-legal-reforms-and-digital-justice)*
 
-### Sports
-- Gianni Infantino has expressed his support for Cristiano Ronaldo in his pursuit of reaching 1,000 career goals. *[ARY](https://arynews.tv/gianni-infantino-supports-cristiano-ronaldo-on-the-historic-race-to-1000-goals)*
+### Health
+- **Eli Lilly** has launched its oral weight-loss drug, **Foundayo**, in the United Kingdom. *[ARY](https://arynews.tv/eli-lilly-launches-oral-weight-loss-drug-foundayo-in-uk)*
+- The **FDA** has placed a clinical hold on **Regenxbio’s** gene therapy. *[ARY](https://arynews.tv/rgx-121-places-clinical-hold-on-regenxbios-gene-therapy)*
 
