@@ -4,29 +4,27 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 26-Aug-2026 09:03PKT
+Published at: 26-Aug-2026 21:02PKT
 
 Time to read: 2 mins
 
 ### Economy
-- Pakistan’s access to finance initiatives are demonstrating strong progress. *[ARY](https://arynews.tv/pakistans-access-to-finance-initiatives-show-strong-progress)*
-- New petrol prices have been officially notified following a price hike. *[ARY](https://arynews.tv/petrol-price-hiked-new-rates-notified)*
+- A Saudi business delegation is exploring major investment opportunities within Pakistan. *[ARY](https://arynews.tv/saudi-business-delegation-eyes-major-investment-opportunities-in-pakistan)*
 
-### Politics
-- Shafi Jan claims that over 2 million people will participate in the march scheduled for September 27. *[ARY](https://arynews.tv/over-2-million-people-will-join-september-27-march-claims-shafi-jan)*
-- Ahsan Iqbal has warned against the potential weaponization of water under the Indus Waters Treaty. *[ARY](https://arynews.tv/ahsan-iqbal-warns-of-water-weaponization-under-indus-waters-treaty)*
+### Science & Technology
+- Apple has launched the M6 Mac mini and M5 Ultra Mac Studio, both featuring a specialized focus on AI. *[ARY](https://arynews.tv/apple-m6-mac-mini-and-m5-ultra-mac-studio-launch-with-ai-focus)*
+- Meta has reached a $16.68 billion settlement regarding the harms social media causes to children. *[ARY](https://arynews.tv/meta-reaches-16-68-billion-settlement-over-social-media-harms-to-children)*
 
 ### National
-- Reports indicate that the daughter of Habib Jalib is being prevented from operating a food stall. *[ARY](https://arynews.tv/habib-jalibs-daughter-not-even-being-allowed-to-run-a-food-stall)*
+- Mustafa Kamal expressed anger toward a reporter during a media discussion regarding the PIMS tragedy. *[ARY](https://arynews.tv/mustafa-kamal-gets-angry-at-reporter-amid-pims-tragedy-media-talk)*
+- The Child Rights Caucus has demanded a formal investigation into the PIMS fire. *[ARY](https://arynews.tv/child-rights-caucus-demands-pims-fire-probe)*
+- A report revealed that security obstructions and closed entrances delayed fire rescue efforts at PIMS. *[ARY](https://arynews.tv/security-obstructions-and-closed-entrances-delayed-pims-fire-rescue-report-reveals)*
+- New immigration counters at Allama Iqbal International Airport are now operational. *[ARY](https://arynews.tv/allama-iqbal-international-airports-new-immigration-counters-now-operational)*
 
 ### International
-- A pilot successfully executed an emergency ocean landing near a beach in Florida. *[ARY](https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach)*
-- UNICEF has praised Pakistan Customs for its role in facilitating the transport of humanitarian cargo to Afghanistan. *[ARY](https://arynews.tv/unicef-praises-pakistan-customs-for-facilitating-humanitarian-cargo-to-afghanistan)*
-- Airlines are gradually restoring services to the Middle East following the recent conflict in Iran. *[ARY](https://arynews.tv/airlines-gradually-restore-middle-east-services-after-iran-conflict)*
-
-### Sports
-- Umar Gul provided a key fitness update for Babar Azam ahead of the second Test match against England at Lord's. *[ARY](https://arynews.tv/babar-azam-fit-for-lords-test-umar-gul-provides-key-fitness-update-ahead-of-2nd-test-vs-england)*
+- The IRGC stated they have reached an agreement with Oman to share revenues from Hormuz. *[ARY](https://arynews.tv/irgc-say-agreed-with-oman-to-share-revenues-from-hormuz)*
 
 ### Health
-- An analysis of the Keytruda cancer vaccine, exploring its mechanism of action and the barriers preventing its wider use. *[ARY](https://arynews.tv/keytruda-cancer-vaccine-how-does-it-work-and-what-are-the-barriers-to-wider-use)*
+- One death has been reported in the Netherlands caused by the West Nile virus. *[ARY](https://arynews.tv/west-nile-virus-infection-causes-one-death-in-the-netherlands)*
+- Pennsylvania has recorded the first US measles deaths of the year as an outbreak continues to grow. *[ARY](https://arynews.tv/pennsylvania-reports-first-us-measles-deaths-this-year-as-outbreak-grows)*
 
