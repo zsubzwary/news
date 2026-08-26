@@ -7,27 +7,29 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Aug-2026 09:07PKT 
+ &lrm; 26-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- او جی آر اے (OGRA) نے پٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/ogra-increases-petrol-diesel-prices)*
-- ایران پر نئی پابندیوں کے اثرات اور این ویڈیا (Nvidia) کے مالیاتی نتائج کے پیش نظر ٹیکنالوجی سیکٹر کی وجہ سے S&P 500 اور Nasdaq میں گراوٹ دیکھی گئی۔ *[ARY](https://arynews.tv/tech-drags-sp-500-nasdaq-lower-as-more-iran-sanctions-nvidia-earnings-loom)*
-
-### سائنس اور ٹیکنالوجی
-- جی ٹی اے 6 (GTA 6) کے ایک ہیکر نے گیم کی ویڈیو فوٹیج لیک کرنے کے حوالے سے پول (poll) شروع کر دیا ہے۔ *[ARY](https://arynews.tv/gta-6-cyberleek-launches-poll-to-leak-lucia-prologue-footage)*
+- پاکستان میں مالیاتی رسائی کے اقدامات میں نمایاں ترقی دیکھنے میں آئی ہے۔ *[ARY](https://arynews.tv/pakistans-access-to-finance-initiatives-show-strong-progress)*
+- پیٹرول کی قیمتوں میں اضافہ کر دیا گیا ہے اور نئے نرخوں کا نوٹیفکیشن جاری ہو گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-hiked-new-rates-notified)*
 
 ### سیاست
-- رانا ثناء اللہ نے جماعت اسلامی کے احتجاج کو شرمناک قرار دیتے ہوئے اسے ختم کرنے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/ji-protest-has-become-embarrassing-should-announce-its-end-rana-sanaullah)*
+- شفیع جان کا دعویٰ ہے کہ 27 ستمبر کو ہونے والے مارچ میں 20 لاکھ سے زائد لوگ شرکت کریں گے۔ *[ARY](https://arynews.tv/over-2-million-people-will-join-september-27-march-claims-shafi-jan)*
+- احسن اقبال نے سندھ طاس معاہدے کے تحت پانی کو بطور ہتھیار استعمال کرنے کے حوالے سے انتباہ جاری کیا ہے۔ *[ARY](https://arynews.tv/ahsan-iqbal-warns-of-water-weaponization-under-indus-waters-treaty)*
+
+### ملکی
+- یونیسف نے افغانستان کو انسانی امداد پہنچانے میں پاکستان کسٹمز کی سہولت کاری کو سراہا ہے۔ *[ARY](https://arynews.tv/unicef-praises-pakistan-customs-for-facilitating-humanitarian-cargo-to-afghanistan)*
+- حبیب جالب کی بیٹی کو فوڈ اسٹال چلانے سے روکا جا رہا ہے۔ *[ARY](https://arynews.tv/habib-jalibs-daughter-not-even-being-allowed-to-run-a-food-stall)*
 
 ### بین الاقوامی
-- ایران نے امریکہ کی جانب سے پابندیوں میں اضافے کے بعد جوابی کارروائی کا عزم ظاہر کیا ہے۔ *[ARY](https://arynews.tv/iran-vows-to-retaliate-after-us-widens-sanctions)*
-- امریکہ نے ایران کے ساتھ تجارت کرنے والے ممالک کو خبردار کیا ہے، تاہم فی الحال جرمانے عائد کرنے سے گریز کیا ہے۔ *[ARY](https://arynews.tv/us-threatens-countries-doing-business-with-iran)*
-- غزہ میں اسرائیلی حملوں کے نتیجے میں دو بچوں سمیت پانچ افراد جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/gaza-rescuers-say-israeli-strikes-kill-five-including-two-children)*
-- پاکستان نے بنگلہ دیش کو قانونی اصلاحات اور ڈیجیٹل انصاف کے شعبے میں تعاون کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/pakistan-offers-bangladesh-cooperation-on-legal-reforms-and-digital-justice)*
+- فلوریڈا کے ساحل کے قریب ایک پائلٹ نے ایمرجنسی صورتحال میں سمندر میں جہاز اتار لیا۔ *[ARY](https://arynews.tv/pilot-executes-emergency-ocean-landing-near-florida-beach)*
+- ایران کے ساتھ تنازع کے بعد ایئر لائنز مشرق وسطیٰ کی پروازیں بتدریج بحال کر رہی ہیں۔ *[ARY](https://arynews.tv/airlines-gradually-restore-middle-east-services-after-iran-conflict)*
+
+### کھیل
+- انگلینڈ کے خلاف دوسرے ٹیسٹ سے قبل بابر اعظم کی فٹنس کے حوالے سے عمر گل نے اہم اپ ڈیٹ فراہم کی ہے۔ *[ARY](https://arynews.tv/babar-azam-fit-for-lords-test-umar-gul-provides-key-fitness-update-ahead-of-2nd-test-vs-england)*
 
 ### صحت
-- ایلی للی (Eli Lilly) نے برطانیہ میں وزن کم کرنے کے لیے زبانی دوا 'فاؤنڈائیو' (Foundayo) لانچ کر دی ہے۔ *[ARY](https://arynews.tv/eli-lilly-launches-oral-weight-loss-drug-foundayo-in-uk)*
-- ایف ڈی اے (FDA) نے ریجن ایکس بی آئی او (Regenxbio) کی جین تھراپی پر کلینیکل ہولڈ (clinical hold) لگا دیا ہے۔ *[ARY](https://arynews.tv/rgx-121-places-clinical-hold-on-regenxbios-gene-therapy)*
+- کیٹروڈا (Keytruda) کینسر ویکسین کے کام کرنے کے طریقہ کار اور اس کے وسیع استعمال میں حائل رکاوٹوں کا جائزہ لیا گیا۔ *[ARY](https://arynews.tv/keytruda-cancer-vaccine-how-does-it-work-and-what-are-the-barriers-to-wider-use)*
 
