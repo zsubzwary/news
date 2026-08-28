@@ -7,27 +7,27 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 27-Aug-2026 21:07PKT 
+ &lrm; 28-Aug-2026 09:07PKT 
 
 پڑھنے کا وقت : 2 منٹ 
 
 ### معیشت
-- والمارٹ نے منتخب اسٹورز پر **'ٹیپ ٹو پے'** کانٹیکٹ لیس چیک آؤٹ کی سہولت متعارف کروا دی ہے۔ *[ARY](https://arynews.tv/walmart-rolls-out-tap-to-pay-contactless-checkout-at-select-stores)*
-- این ویڈیا (Nvidia) نے اگلے سال فروخت میں **70 فیصد اضافے** کی پیش گوئی کی ہے، جو مصنوعی ذہانت (AI) کے شعبے میں جاری تیزی کا اشارہ ہے۔ *[ARY](https://arynews.tv/nvidia-forecasts-70-sales-growth-next-year-signals-ai-spending-boom-has-years-left-to-run)*
-
-### سائنس اور ٹیکنالوجی
-- اوپن اے آئی (OpenAI) کے **'جالاپینو'** چپ نے نئے بینچ مارک ٹیسٹ میں این ویڈیا کو پیچھے چھوڑ دیا۔ *[ARY](https://arynews.tv/openai-jalapeno-chip-outperforms-nvidia-in-new-benchmark-tests)*
-- سائبر مجرموں نے سات کمپنیوں کو ہیک کرنے کے لیے اسپیس ایکس (SpaceX) کے **'کرسر اے آئی'** ٹول کا استعمال کیا۔ *[ARY](https://arynews.tv/cybercriminals-used-spacexs-cursor-ai-tool-to-hack-seven-companies)*
-
-### قومی
-- پی آئی ایم ایس (PIMS) آگ کے حادثے کے متاثرین نے تحقیقات کے لیے **عدالتی کمیشن** کے قیام کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/pims-tragedy-victims-demand-judicial-commission-to-probe-fire)*
-- پی آئی ایم ایس (PIMS) حادثے کے حوالے سے نئے ہیلتھ سیکرٹری کے ماضی کے الزامات اور تحقیقاتی معاملات سامنے آئے۔ *[ARY](https://arynews.tv/pim-tragedy-new-health-secretarys-past-allegations-and-inquiries-surface)*
-- فیلڈ مارشل عاصم منیر نے جی ایچ کیو (GHQ) میں **کویتی وزیر دفاع** سے ملاقات کی۔ *[ARY](https://arynews.tv/field-marshal-asim-munir-meets-kuwaiti-defence-minister-at-ghq)*
+- برطانیہ کا اسٹاک انڈیکس **FTSE 100** بینکوں اور توانائی کے شعبے میں کمی کی وجہ سے نیچے گر گیا۔ *[ARY](https://arynews.tv/britains-ftse-100-slips-as-banks-energy-stocks-slide)*
+- **NHA** نے قانونی کیس جیت لیا ہے، جس سے قومی خزانے کے کھربوں روپے بچ جائیں گے۔ *[ARY](https://arynews.tv/nha-wins-case-saving-trillions-for-the-national-treasury)*
+- پٹرول کی قیمتوں میں کمی کا باقاعدہ نوٹیفیکیشن جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-price-reduced-notification-issued)*
 
 ### بین الاقوامی
-- سکس فلیگز میجک ماؤنٹین کے **ایکس ٹو (X2) کوسٹر** کے نتیجے میں دماغی چوٹیں اور دو امواتیں رپورٹ ہوئی ہیں۔ *[ARY](https://arynews.tv/six-flags-magic-mountains-x2-coaster-linked-to-traumatic-brain-injuries-and-two-fatalities)*
+- کینیڈا کے ساتھ تجارتی جنگ کے دوران ڈونلڈ ٹرمپ نے جھیل آنٹاریو کا نام تبدیل کر کے **'جھیل امریکہ'** رکھ دیا ہے۔ *[ARY](https://arynews.tv/donald-trump-renames-lake-ontario-as-lake-america)*
+
+### قومی
+- **PIMS** حادثے کے حوالے سے وزیر صحت اور ڈاکٹروں کے بیانات میں تضادات سامنے آئے ہیں۔ *[ARY](https://arynews.tv/pims-tragedy-contradictions-emerge-between-health-minister-doctors-statements)*
+- شاہراہِ فیصل کی بندش کرنے والے مظاہرین کے خلاف مقدمہ درج کر لیا گیا ہے۔ *[ARY](https://arynews.tv/mir-raza-ali-murder-protest-case-registered-against-protesters-over-shahrah-e-faisal-blockade)*
+- **FOSPAH** نے ڈیجیٹل شکایات کے انتظام کے لیے نیا سسٹم، موبائل ایپ اور ویب سائٹ لانچ کر دی ہے۔ *[ARY](https://arynews.tv/fospahs-digital-complaint-management-system-mobile-app-and-new-website-inauguarated)*
 
 ### کھیل
-- سعودی فٹ بال فیڈریشن نے **فیفا (FIFA)** کے حالیہ تنازعے پر اپنی رائے کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/saudi-football-federation-weighs-in-on-fifa-fiasco)*
-- محمد عباس نے **لارڈز** کے میدان میں ایک بڑا کارنامہ انجام دیا۔ *[ARY](https://arynews.tv/mohammad-abbas-achieves-massive-feat-at-lords)*
+- **Reign** نے روبی ہلیڈیک کے ساتھ 2026 کے سیزن کے اختتام تک معاہدہ بڑھا دیا ہے۔ *[ARY](https://arynews.tv/reign-extend-f-ruby-hladek-through-end-of-2026-season)*
+- **Red Bulls** نے جولین ہال کے ساتھ کئی سالوں کا توسیع شدہ معاہدہ کر لیا ہے۔ *[ARY](https://arynews.tv/red-bulls-sign-f-julian-hall-to-multi-year-extension)*
+
+### صحت
+- دمہ کی دوا **Tezspire** نے لیٹ اسٹیج ٹرائل میں کامیابی حاصل کر لی ہے۔ *[ARY](https://arynews.tv/tezspire-asthma-drug-succeeds-in-late-stage-trial)*
 
