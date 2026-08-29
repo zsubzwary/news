@@ -4,49 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 29-Aug-2026 09:03PKT
+Published at: 29-Aug-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Japan spent a record **USD 96 billion** in yen interventions between late July and late August to stabilize the currency. *[Business Recorder](https://www.brecorder.com/news/40436952/japan-spent-record-usd96bn-in-yen-interventions)*
-- Federal Minister Ahsan Iqbal announced an ambition to transform Pakistan into a **USD 1 trillion economy** by 2035. *[Business Recorder](https://www.brecorder.com/news/40436955/ahsan-eyes-usd1trn-economy-by-2035)*
-- Prime Minister Shehbaz Sharif directed the FBR to accelerate reforms and ensure **third-party audits** to curb tax evasion. *[Business Recorder](https://www.brecorder.com/news/40436956/pm-asks-fbr-to-ensure-third-party-audits)*
-- Sensitive Price Indicator (SPI)-based weekly inflation rose by **0.05%**, driven by increases in LPG, diesel, and electricity prices. *[Business Recorder](https://www.brecorder.com/news/40436959/spi-based-weekly-inflation-rises-005pc)*
-- The Privatization Commission has approved **10 out of 12 interested parties** for the privatization of FESCO. *[Business Recorder](https://www.brecorder.com/news/40436960/privatisation-of-fesco-pc-approves-10-out-of-12-parties)*
-- Pakistan’s listed banks reported a total profit of **Rs168 billion** for the second quarter of 2026. *[Business Recorder](https://www.brecorder.com/news/40436961/listed-banks-post-rs168bn-profit-for-2q2026)*
-- Oil refiners have committed to signing agreements under the **Refinery Upgradation Policy**, potentially unlocking USD 6 billion in investment. *[Business Recorder](https://www.brecorder.com/news/40436962/upgradation-policy-oil-refiners-say-committed-to-signing-accords)*
-- The Bank of Punjab (BOP) announced **record results** for the first half of 2026 and an interim dividend of 16%. *[Business Recorder](https://www.brecorder.com/news/40436920/bop-delivers-record-1h26-results-announces-interim-dividend-of-16pc)*
-- **Abdul Wahid Sethi** has assumed charge as the Acting President and CEO of the National Bank of Pakistan (NBP). *[Business Recorder](https://www.brecorder.com/news/40436922/abdul-wahid-sethi-assumes-charge-as-acting-president-amp-ceo-of-nbp)*
-- The **Tarbela fifth extension project** has seen massive cost escalation, rising from Rs82.3 billion to Rs316 billion. *[Business Recorder](https://www.brecorder.com/news/40436924/tarbelas-runaway-cost)*
-- The launch of a **National Olive Value Chain Policy** aims to reduce the country's $4 billion annual edible oil import bill. *[Business Recorder](https://www.brecorder.com/news/40436925/an-olive-branch-to-the-import-bill)*
-- A delegation from the **Korangi Association of Trade and Industry (KATI)** will attend the Trade Expo Indonesia 2026. *[Business Recorder](https://www.brecorder.com/news/40436929/kati-delegation-to-attend-trade-expo-in-indonesia)*
-- United International Group (UIG) announced the formation of the **United Digital Life Insurance Company**. *[Business Recorder](https://www.brecorder.com/news/40436930/uig-announces-united-digital-life-insurance-initiative)*
+- **Pakistan** has made a record early repayment of Rs. 1.2 trillion in domestic debt. *[ARY](https://arynews.tv/pakistan-makes-record-early-repayment-of-rs-1200-billion-loan)*
+- The cumulative domestic debt retired ahead of maturity in Pakistan has surpassed **Rs. 5.92 trillion**. *[Business Recorder](https://www.brecorder.com/news/40436995/pakistan-retires-record-rs12tn-domestic-debt-ahead-of-maturity-khurram-schehzad)*
+- Local **gold prices** in Pakistan saw a significant decline, with the price per tola dropping by Rs. 15,100. *[Business Recorder](https://www.brecorder.com/news/40436992/gold-price-per-tola-plunges-rs15100-in-pakistan)*
+- The Privatisation Commission has extended the deadline for **IESCO** private sector participation expressions of interest to September 21. *[Business Recorder](https://www.brecorder.com/news/40436990/govt-extends-iesco-eoi-submission-deadline-to-sept-21)*
+- **Temasek** has voiced its support for Singapore Airlines' investment in Air India despite growing scrutiny. *[Business Recorder](https://www.brecorder.com/news/40436987/temasek-backs-singapore-airlines-air-india-investment-amid-growing-scrutiny)*
+- **Pakistani seafood** products have achieved a major export milestone by reaching European supermarket shelves. *[Business Recorder](https://www.brecorder.com/news/40436984/pakistani-seafood-earns-a-place-on-european-shelves-a-major-export-milestone)*
+- **Arif Habib Limited** expects Pakistan to meet nearly all seven Quantitative Performance Criteria set by the IMF. *[Business Recorder](https://www.brecorder.com/news/40436982/imf-review-pakistan-expected-to-meet-all-targets-says-ahl)*
 
 ### Science & Technology
-- A **partial lunar eclipse** created a "blood red" celestial display on the Moon. *[ARY](https://arynews.tv/partial-lunar-eclipse-transforms-the-moon-into-a-blood-red-celestial-display)*
+- Pakistan has officially completed its **national semiconductor cluster framework**. *[ARY](https://arynews.tv/pakistans-national-semiconductor-cluster-framework-now-complete)*
+- **OpenAI** plans to cut off AI models for SpaceX-owned **Cursor**, escalating its rivalry with Elon Musk. *[ARY](https://arynews.tv/openai-to-cut-off-ai-models-for-spacex-owned-cursor-escalating-feud-with-musk)*
+
+### Weather
+- Rescuers in **Nepal and China** are searching for nearly 3,000 people missing following devastating, tsunami-like floods. *[Business Recorder](https://www.brecorder.com/news/40437000/rescuers-claw-through-mud-as-nepal-china-flood-missing-toll-nears-3000)*
 
 ### Politics
-- The **Punjab Assembly** passed a resolution addressing the issue of prolonged power outages. *[ARY](https://arynews.tv/punjab-assembly-passes-resolution-against-prolonged-power-outages)*
-- **Barrister Iftikhar Hussain Gilani** was elected as the 17th Prime Minister of Azad Jammu and Kashmir. *[Business Recorder](https://www.brecorder.com/news/40436957/barrister-gilani-elected-17th-ajk-pm)*
-- The government has **withdrawn a contentious telecom bill** from the Senate that allegedly granted excessive rights to telecom entities. *[Business Recorder](https://www.brecorder.com/news/40436958/disputed-telecom-bill-withdrawn-from-senate)*
+- The Pakistani government has urged **CNN** to distinguish between verified records and politically contested allegations regarding **Imran Khan's** health. *[Business Recorder](https://www.brecorder.com/news/40436996/imran-case-govt-urges-cnn-to-distinguish-verified-records-from-politically-contested-allegations)*
 
 ### National
-- A student was **robbed at gunpoint** outside their home in Karachi, an incident captured on CCTV. *[ARY](https://arynews.tv/karachi-cctv-video-shows-student-robbed-at-gunpoint-outside-home)*
-- Islamabad's **fire brigade vehicles** were found to be 20 years old, raising safety concerns. *[ARY](https://arynews.tv/islamabad-fire-brigade-vehicles-found-to-be-20-years-old)*
-- A judicial commission has offered a **Rs0.1 million reward** for information regarding the Mir Raza Ali case. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-offers-reward-for-information)*
-- Prime Minister Shehbaz Sharif has formed a committee to investigate high **gas losses (UFG)** by SSGCL in Balochistan. *[Business Recorder](https://www.brecorder.com/news/40436954/balochistan-pm-body-to-examine-causes-behind-ssgcls-high-ufg-losses)*
+- The Prime Minister has ordered **criminal proceedings** following the fatal PIMS neonatal ward fire. *[ARY](https://arynews.tv/pakistan-pm-orders-criminal-proceedings-over-pims-neonatal-ward-fire)*
+- Eight officials, including the **Executive Director of PIMS**, have been suspended following the neonatal ward fire. *[Business Recorder](https://www.brecorder.com/news/40436989/pims-fire-executive-director-imran-sikandar-among-eight-suspended)*
+- An inquiry commission has identified those responsible for the **Gul Plaza tragedy**. *[ARY](https://arynews.tv/gul-plaza-tragedy-inquiry-commission-identifies-those-responsible)*
+- The government has launched a nationwide crackdown on **illegal petrol pumps** to combat smuggling. *[ARY](https://arynews.tv/govt-shuts-down-illegal-petrol-pumps-nationwide-in-crackdown-on-smuggling)*
+- **Punjab** will introduce a live tracking system for the delivery of driving licenses. *[ARY](https://arynews.tv/punjab-to-introduce-live-tracking-for-driving-licence-deliveries)*
+- The Ministry of Economic Affairs denied reports claiming the **Diamer-Bhasha Dam** power component was cancelled. *[Business Recorder](https://www.brecorder.com/news/40436994/false-and-misleading-govt-denies-cancelling-4500mw-power-component-of-diamer-bhasha-dam)*
+- Field Marshal **Syed Asim Munir** visited Pakistan Ordnance Factories to review local arms and ammunition production. *[Business Recorder](https://www.brecorder.com/news/40436981/field-marshal-munir-witnesses-trials-of-locally-manufactured-arms-ammunition-at-ordnance-factory)*
+- Analysis highlights the economic importance and potential of **Pakistan's large youth population**. *[Business Recorder](https://www.brecorder.com/news/40436999/youth-without-opportunity)*
 
 ### International
-- **Iran** stated that diplomacy is possible provided the United States abandons its current pressure campaign. *[ARY](https://arynews.tv/iran-says-diplomacy-possible-if-us-abandons-pressure-campaign)*
-- Pakistan and **Saudi Arabia** have agreed to strengthen strategic partnerships, focusing on agriculture, food security, and water management. *[Business Recorder](https://www.brecorder.com/news/40436951/cdf-reaffirms-pakistans-commitment-to-boosting-strategic-partnership-with-ksa)* *[Business Recorder](https://www.brecorder.com/news/40436950/agriculture-food-security-water-management-pakistan-ksa-agree-to-expand-cooperation)*
+- **US military families** are experiencing significant emotional distress due to the ongoing six-month war with Iran. *[ARY](https://arynews.tv/us-military-families-ride-roller-coaster-of-emotions-over-six-months-of-iran-war)*
+- **Iceland** is holding a vote to determine whether to resume talks regarding EU membership. *[ARY](https://arynews.tv/iceland-votes-on-whether-to-resume-eu-membership-talks)*
+- **Russia** has extended its ban on diesel and marine fuel exports until September 30 to stabilize its domestic market. *[Business Recorder](https://www.brecorder.com/news/40437001/russia-extends-ban-on-diesel-exports-until-september-30)*
+- A Russian drone strike near **Kyiv** killed at least 37 people after hitting a depot. *[Business Recorder](https://www.brecorder.com/news/40436998/at-least-37-dead-after-russian-strike-on-depot-near-kyiv)*
+- The **Iranian president** reported that foreign trade has dropped by 35% due to US sanctions and blockades. *[Business Recorder](https://www.brecorder.com/news/40436983/iranian-president-says-foreign-trade-down-35-due-to-sanctions-and-blockade)*
 
-### Health
-- The Ministry of Health has ordered a **comprehensive fire safety audit** of all government hospitals. *[ARY](https://arynews.tv/ministry-of-health-orders-comprehensive-fire-safety-audit-of-government-hospitals)*
-- **PIMS** is expected to undergo a high-level inspection in the coming days. *[ARY](https://arynews.tv/pims-likely-to-face-high-level-inspection-tomorrow-sources)*
-- Authorities have ordered a **revision of the regulatory framework** for drug pricing to protect consumers from unjustified increases. *[ARY](https://arynews.tv/pakistan-to-tighten-drug-pricing-rules-orders-drap-to-revise-framework)* *[Business Recorder](https://www.brecorder.com/news/40436928/revision-of-regulatory-framework-governing-drug-pricing-ordered)*
-- **Shifa International Hospitals** has achieved a significant milestone by receiving multiple JCI accreditations. *[Business Recorder](https://www.brecorder.com/news/40436931/shifa-international-hospitals-gets-highest-number-of-jci-accreditations)*
+### Sports
+- Indian javelin star **Neeraj Chopra** will miss the remainder of the 2026 athletics season due to an ankle injury. *[Business Recorder](https://www.brecorder.com/news/40436997/indias-neeraj-chopra-out-for-season-with-ankle-injury)*
+- Tennis champion **Carlos Alcaraz** discussed the mental challenges of his recovery from a wrist injury. *[Business Recorder](https://www.brecorder.com/news/40436991/alcaraz-says-uncertainty-over-comeback-fuelled-intrusive-thoughts)*
+- **Jofra Archer** believes England's new fast-bowling quartet could extend his playing career until age 40. *[Business Recorder](https://www.brecorder.com/news/40436988/england-pace-quartet-might-keep-archer-going-until-he-is-40)*
+- **Liverpool** has reportedly finalized an agreement to sign PSG's Bradley Barcola for up to £123 million. *[Business Recorder](https://www.brecorder.com/news/40436985/liverpool-finalise-agreement-to-sign-psgs-barcola-in-deal-worth-up-to-ps123-million-reports-say)*
 
 ### Other
-- Hollywood studios are competing for the rights to produce content regarding the high-profile **Lindsay Clancy trial**. *[ARY](https://arynews.tv/hollywood-studios-compete-for-rights-to-the-high-profile-lindsay-clancy-trial)*
+- An extended look at ***GTA 6*** on Netflix has revealed massive gameplay upgrades. *[ARY](https://arynews.tv/gta-6-extended-look-on-netflix-reveals-massive-gameplay-upgrades)*
 
