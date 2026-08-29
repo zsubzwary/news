@@ -7,50 +7,52 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Aug-2026 09:09PKT 
+ &lrm; 29-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- جاپان نے ین کی قدر میں بہتری کے لیے ریکارڈ 96 ارب ڈالر خرچ کیے *[Business Recorder](https://www.brecorder.com/news/40436952/japan-spent-record-usd96bn-in-yen-interventions)*
-- وزیراعظم نے بلوچستان میں ایس ایس جی سی ایل کے گیس کے نقصانات کی تحقیقات کے لیے اعلیٰ سطح کی کمیٹی تشکیل دے دی ہے *[Business Recorder](https://www.brecorder.com/news/40436954/balochistan-pm-body-to-examine-causes-behind-ssgcls-high-ufg-losses)*
-- وفاقی وزیر احسن اقبال نے 2035 تک پاکستان کی معیشت کو ایک ٹریلین ڈالر تک لے جانے کا ہدف بیان کیا *[Business Recorder](https://www.brecorder.com/news/40436955/ahsan-eyes-usd1trn-economy-by-2035)*
-- وزیراعظم نے ایف بی آر کو ٹیکس چوری اور اسمگلنگ روکنے کے لیے تھرڈ پارٹی آڈٹ کی ہدایت کی *[Business Recorder](https://www.brecorder.com/news/40436956/pm-asks-fbr-to-ensure-third-party-audits)*
-- ہفتہ وار حساس قیمتوں کے اشاریے (SPI) کے مطابق مہنگائی میں 0.05 فیصد اضافہ ریکارڈ کیا گیا *[Business Recorder](https://www.brecorder.com/news/40436959/spi-based-weekly-inflation-rises-005pc)*
-- فیصل آباد الیکٹرک سپلائی کمپنی (FESCO) کی نجکاری کے لیے 12 میں سے 10 کمپنیوں کو منظور کر لیا گیا *[Business Recorder](https://www.brecorder.com/news/40436960/privatisation-of-fesco-pc-approves-10-out-of-12-parties)*
-- پاکستان کے لسٹڈ بینکوں نے دوسری سہ ماہی کے دوران 168 ارب روپے کا منافع کمایا *[Business Recorder](https://www.brecorder.com/news/40436961/listed-banks-post-rs168bn-profit-for-2q2026)*
-- آئل ریفائنریز نے ریفائنری اپ گریڈیشن پالیسی کے تحت معاہدے کرنے کا عزم ظاہر کیا *[Business Recorder](https://www.brecorder.com/news/40436962/upgradation-policy-oil-refiners-say-committed-to-signing-accords)*
-- بینک آف پنجاب نے پہلی ششماہی کے بہترین مالیاتی نتائج اور 16 فیصد دوران منافع کا اعلان کیا *[Business Recorder](https://www.brecorder.com/news/40436920/bop-delivers-record-1h26-results-announces-interim-dividend-of-16pc)*
-- عبدالواحد ستی نے نیشنل بینک آف پاکستان (NBP) کے عبوری صدر اور سی ای او کے طور پر چارج سنبھال لیا ہے *[Business Recorder](https://www.brecorder.com/news/40436922/abdul-wahid-sethi-assumes-charge-as-acting-president-amp-ceo-of-nbp)*
-- تربیلا پروجیکٹ کی لاگت میں 282 فیصد کا غیر معمولی اضافہ دیکھا گیا ہے *[Business Recorder](https://www.brecorder.com/news/40436924/tarbelas-runaway-cost)*
-- درآمدی بل میں کمی کے لیے نیشنل اولیو ویلیو چین پالیسی کا آغاز کیا گیا *[Business Recorder](https://www.brecorder.com/news/40436925/an-olive-branch-to-the-import-bill)*
-- کورنگی ایسوسی ایشن آف ٹریڈ اینڈ انڈسٹری (KATI) کا وفد انڈونیشیا میں ہونے والی تجارتی نمائش میں شرکت کرے گا *[Business Recorder](https://www.brecorder.com/news/40436929/kati-delegation-to-attend-trade-expo-in-indonesia)*
-- یونائیٹڈ انٹرنیشنل گروپ نے نئی ڈیجیٹل لائف انشورنس کمپنی کے قیام کا اعلان کیا *[Business Recorder](https://www.brecorder.com/news/40436930/uig-announces-united-digital-life-insurance-initiative)*
+- پاکستان نے 1200 ارب روپے کا ریکارڈ قرضہ مقررہ وقت سے پہلے ادا کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-makes-record-early-repayment-of-rs-1200-billion-loan)*
+- پاکستان نے 1.2 ٹریلین روپے کا گھریلو قرضہ مدت ختم ہونے سے قبل واپس کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40436995-pakistan-retires-record-rs12tn-domestic-debt-ahead-of-maturity-khurram-schehzad)*
+- پاکستان میں سونے کی قیمت میں فی تولہ 15,100 روپے کی بڑی کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40436992-gold-price-per-tola-plunges-rs15100-in-pakistan)*
+- روس نے ڈیزل کی برآمدات پر پابندی 30 ستمبر تک بڑھا دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437001/russia-extends-ban-on-diesel-exports-until-september-30)*
+- آئی ایم ایف (IMF) کے جائزے میں توقع ہے کہ پاکستان اپنے تمام اہداف مکمل کر لے گا۔ *[Business Recorder](https://www.brecorder.com/news/40436982-imf-review-pakistan-expected-to-meet-all-targets-says-ahl)*
+- اسلام آباد الیکٹرک سپلائی کمپنی (IESCO) کی نجکاری کے لیے درخواستوں کی آخری تاریخ 21 ستمبر تک بڑھا دی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436990-govt-extends-iesco-eoi-submission-deadline-to-sept-21)*
+- سنگاپور کی سرمایہ کاری کمپنی ٹیمیسیک نے ایئر انڈیا میں سنگاپور ایئر لائنز کی سرمایہ کاری کی حمایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436987-temasek-backs-singapore-airlines-air-india-investment-amid-growing-scrutiny)*
+- ایران میں پابندیوں اور ناکہ بندی کی وجہ سے غیر ملکی تجارت میں 35 فیصد کمی واقع ہوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436983-iranian-president-says-foreign-trade-down-35-due-to-sanctions-and-blockade)*
+- پاکستانی سی فوڈ اب یورپی مارکیٹوں میں پہنچنا شروع ہو گیا ہے، جو کہ ایک بڑا برآمدی سنگ میل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436984-pakistani-seafood-earns-a-place-on-european-shelves-a-major-export-milestone)*
 
 ### سائنس اور ٹیکنالوجی
-- جزوی چاند گرہن کے نتیجے میں چاند "خونی سرخ" رنگ میں تبدیل ہو گیا *[ARY](https://arynews.tv/partial-lunar-eclipse-transforms-the-moon-into-a-blood-red-celestial-display)*
+- پاکستان کا قومی سیمی کنڈکٹر کلسٹر فریم ورک مکمل ہو گیا ہے۔ *[ARY](https://arynews.tv/pakistans-national-semiconductor-cluster-framework-now-complete)*
+- اوپن اے آئی (OpenAI) نے ایلن مسک کی کمپنی کے ٹول 'کرسر' کے لیے اپنے اے آئی ماڈلز کی فراہمی روکنے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/openai-to-cut-off-ai-models-for-spacex-owned-cursor-escalating-feud-with-musk)*
+
+### موسم
+- نیپال اور چین میں سیلاب کے باعث لاپتہ ہونے والوں کی تعداد 3,000 کے قریب پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437000/rescuers-claw-through-mud-as-nepal-china-flood-missing-toll-nears-3000)*
 
 ### سیاست
-- پنجاب اسمبلی نے بجلی کی مسلسل لوڈ شیڈنگ کے خلاف قرارداد منظور کر لی ہے *[ARY](https://arynews.tv/punjab-assembly-passes-resolution-against-prolonged-power-outages)*
-- بیرسٹر افتخار حسین گیلانی آزاد کشمیر کے 17ویں وزیراعظم منتخب ہو گئے ہیں *[Business Recorder](https://www.brecorder.com/news/40436957/barrister-gilani-elected-17th-ajk-pm)*
-- سینیٹ سے متنازعہ ٹیلی کام ری آرگنائزیشن بل واپس لے لیا گیا ہے *[Business Recorder](https://www.brecorder.com/news/40436958/disputed-telecom-bill-withdrawn-from-senate)*
+- حکومت نے سی این این (CNN) پر زور دیا ہے کہ وہ عمران خان کے حوالے سے سیاسی الزامات اور مستند ریکارڈ میں فرق رکھے۔ *[Business Recorder](https://www.brecorder.com/news/40436996-imran-case-govt-urges-cnn-to-distinguish-verified-records-from-politically-contested-allegations)*
 
 ### قومی
-- کراچی میں ایک طالب علم کو گھر کے باہر اسلحے کے زور پر لوٹ لیا گیا *[ARY](https://arynews.tv/karachi-cctv-video-shows-student-robbed-at-gunpoint-outside-home)*
-- اسلام آباد فائر بریگیڈ کے گاڑیاں 20 سال پرانی نکلی ہیں *[ARY](https://arynews.tv/islamabad-fire-brigade-vehicles-found-to-be-20-years-old)*
-- میر رضا علی کیس میں معلومات فراہم کرنے والوں کے لیے 1 لاکھ روپے کا انعام کا اعلان کیا گیا *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-offers-reward-for-information)*
+- حکومت نے ملک بھر میں اسمگلنگ کے خلاف کریک ڈاؤن کرتے ہوئے غیر قانونی پیٹرول پمپس بند کر دیے۔ *[ARY](https://arynews.tv/govt-shuts-down-illegal-petrol-pumps-nationwide-in-crackdown-on-smuggling)*
+- پنجاب میں ڈرائیونگ لائسنس کی ترسیل کے لیے لائیو ٹریکنگ کا نظام متعارف کرایا جائے گا۔ *[ARY](https://arynews.tv/punjab-to-introduce-live-tracking-for-driving-licence-deliveries)*
+- حکومت نے ڈیمر بھاشا ڈیم کے بجلی کے منصوبے کی منسوخی کی خبروں کو غلط اور گمراہ کن قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436994-false-and-misleading-govt-denies-cancelling-4500mw-power-component-of-diamer-bhasha-dam)*
+- فیلڈ مارشل سید عاصم منیر نے پاکستان آرڈیننس فیکٹریز کا دورہ کیا اور دفاعی پیداوار کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40436981-field-marshal-munir-witnesses-trials-of-locally-manufactured-arms-ammunition-at-ordnance-factory)*
+- گُل پلازہ حادثے کی انکوائری کمیشن نے ذمہ دار افراد کی نشاندہی کر دی ہے۔ *[ARY](https://arynews.tv/gul-plaza-tragedy-inquiry-commission-identifies-those-responsible)*
 
 ### بین الاقوامی
-- ایران کا کہنا ہے کہ اگر امریکہ دباؤ ختم کرے تو سفارت کاری کے راستے کھلے ہیں *[ARY](https://arynews.tv/iran-says-diplomacy-possible-if-us-abandons-pressure-campaign)*
-- پاکستان اور سعودی عرب نے زراعت، خوراک کی حفاظت اور پانی کے انتظام میں تعاون بڑھانے پر اتفاق کیا ہے *[Business Recorder](https://www.brecorder.com/news/40436950/agriculture-food-security-water-management-pakistan-ksa-agree-to-expand-cooperation)*
-- پاکستان اور سعودی عرب کے درمیان تزویراتی شراکت داری کو مزید مضبوط کرنے کا عزم کیا گیا *[Business Recorder](https://www.brecorder.com/news/40436951/cdf-reaffirms-pakistans-commitment-to-boosting-strategic-partnership-with-ksa)*
+- ایران اور امریکہ کے درمیان تناؤ کے باعث امریکی فوجی خاندان شدید جذباتی دباؤ کا شکار ہیں۔ *[ARY](https://arynews.tv/us-military-families-ride-roller-coaster-of-emotions-over-six-months-of-iran-war)*
+- آئس لینڈ یورپی یونین کی رکنیت دوبارہ حاصل کرنے کے حوالے سے ووٹنگ کر رہا ہے۔ *[ARY](https://arynews.tv/iceland-votes-on-whether-to-resume-eu-membership-talks)*
+- کییف کے قریب روس کے ڈرون حملے میں کم از کم 37 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40436998-at-least-37-dead-after-russian-strike-on-depot-near-kyiv)*
+
+### کھیل
+- بھارتی ایتھلیٹ نیرج چوپڑا ٹخنے کی چوٹ کی وجہ سے اس سیزن کے لیے باہر ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40436997-indias-neeraj-chopra-out-for-season-with-ankle-injury)*
+- ٹینس اسٹار کارلوس الکاراز نے چوٹ کے بعد واپسی کے حوالے سے ذہنی دباؤ کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40436991-alcaraz-says-uncertainty-over-comeback-fuelled-intrusive-thoughts)*
+- انگلینڈ کے کرکٹر جوفرا آرچر کا کہنا ہے کہ وہ نئے بولنگ کوارٹیٹ کی بدولت 40 سال کی عمر تک کھیل سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40436988-england-pace-quartet-might-keep-archer-going-until-he-is-40)*
+- فٹ بال کلب لیورپول نے پی ایس جی کے کھلاڑی بریکولا کو سائن کرنے کا معاہدہ طے کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40436985-liverpool-finalise-agreement-to-sign-psgs-barcola-in-deal-worth-up-to-ps123-million-reports-say)*
 
 ### صحت
-- وزارت صحت نے تمام سرکاری ہسپتالوں کے لیے جامع فائر سیفٹی آڈٹ کا حکم دیا ہے *[ARY](https://arynews.tv/ministry-of-health-orders-comprehensive-fire-safety-audit-of-government-hospitals)*
-- پی آئی ایم ایس (PIMS) ہسپتال کو کل اعلیٰ سطح کے معائنے کا سامنا کرنا پڑ سکتا ہے *[ARY](https://arynews.tv/pims-likely-to-face-high-level-inspection-tomorrow-sources)*
-- پاکستان میں ادویات کی قیمتوں کے ریگولیٹری فریم ورک میں تبدیلی کا حکم دیا گیا ہے *[ARY](https://arynews.tv/pakistan-to-tighten-drug-pricing-rules-orders-drap-to-revise-framework)*
-- شفا انٹرنیشنل ہسپتال نے عالمی معیار کی متعدد JCI منظوری حاصل کر کے نیا سنگ میل عبور کر لیا ہے *[Business Recorder](https://www.brecorder.com/news/40436931/shifa-international-hospitals-gets-highest-number-of-jci-accreditations)*
+- پی آئی ایم ایس (PIMS) نینیٹل وارڈ آگ کے واقعے پر وزیراعظم نے تحقیقات کا حکم دیا ہے اور ایگزیکٹو ڈائریکٹر سمیت آٹھ حکام کو معطل کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-pm-orders-criminal-proceedings-over-pims-neonatal-ward-fire)* | *[Business Recorder](https://www.brecorder.com/news/40436989-pims-fire-executive-director-imran-sikandar-among-eight-suspended)*
 
 ### دیگر
-- ہالی ووڈ اسٹوڈیوز کے درمیان لائنڈسے کلانسی ٹرائل کے حقوق حاصل کرنے کے لیے مقابلہ جاری ہے *[ARY](https://arynews.tv/hollywood-studios-compete-for-rights-to-the-high-profile-lindsay-clancy-trial)*
+- جی ٹی اے 6 (GTA 6) کے گیم پلے میں بڑی بہتری کے حوالے سے نیٹ فلکس پر نئی معلومات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/gta-6-extended-look-on-netflix-reveals-massive-gameplay-upgrades)*
 
