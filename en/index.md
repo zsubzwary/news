@@ -4,49 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 28-Aug-2026 21:03PKT
+Published at: 29-Aug-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- India's 10-year bond yield reached a two-month high as markets anticipate the Federal Reserve Chair's address. *[Business Recorder](https://www.brecorder.com/news/40436887/indias-10-year-bond-yield-scales-over-2-month-peak-ahead-of-warsh-speech)*
-- India's foreign exchange reserves hit a record $729.33 billion due to sustained capital inflows. *[Business Recorder](https://www.brecorder.com/news/40436884/indias-forex-reserves-hit-record-729-billion-on-sustained-capital-inflows)*
-- Zinc prices approached the $4,000 mark, driven by shrinking stocks on the London Metal Exchange. *[Business Recorder](https://www.brecorder.com/news/40436880/zinc-nears-4000-and-on-track-for-biggest-monthly-jump-since-january)*
-- Sri Lankan shares closed higher, supported by gains in the consumer staples sector. *[Business Recorder](https://www.brecorder.com/news/40436883/sri-lankan-shares-end-higher-on-gains-in-consumer-staples-stocks)*
-- Malaysian palm oil futures rose by more than 1% on Friday, despite logging a weekly loss. *[Business Recorder](https://www.brecorder.com/news/40436879/palm-logs-weekly-loss-snaps-three-week-winning-streak)*
-- Indian shares experienced their third consecutive weekly loss amid Federal Reserve jitters. *[Business Recorder](https://www.brecorder.com/news/40436878/indian-shares-post-weekly-loss-as-fed-jitters-closing-auction-weigh)*
-- India's industrial output growth slowed to 6.7% in July, impacted by a contraction in mining activity. *[Business Recorder](https://www.brecorder.com/news/40436876/indias-july-industrial-output-growth-slows-to-67-yy-as-mining-contracts)*
-- The Indian rupee gained ground this week, bolstered by an increase in dollar liquidity. *[Business Recorder](https://www.brecorder.com/news/40436875/indian-rupee-gains-this-week-as-dollar-supply-surges-ahead-of-deposit-window's-close)*
-- LeapFrog Investments plans to invest up to $100 million in India's healthcare sector over the next two years. *[Business Recorder](https://www.brecorder.com/news/40436874/leapfrog-plans-up-to-100mn-in-india-healthcare-investments-over-two-years)*
-- The Pakistani rupee recorded a marginal gain against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40436872/intra-day-update-rupee-records-gain-against-us-dollar)*
-- India's NBFC body has requested the RBI to ease restrictions on revolving credit products. *[Business Recorder](https://www.brecorder.com/news/40436890/indias-nbfc-body-asks-rbi-to-ease-restrictions-on-revolving-credit)*
-- Experts suggest rooftop solar in Pakistan may be a consumer response to high tariffs rather than a full energy transition. *[Business Recorder](https://www.brecorder.com/news/40436507/rooftop-solar-isnt-energy-transition)*
+- Japan spent a record **USD 96 billion** in yen interventions between late July and late August to stabilize the currency. *[Business Recorder](https://www.brecorder.com/news/40436952/japan-spent-record-usd96bn-in-yen-interventions)*
+- Federal Minister Ahsan Iqbal announced an ambition to transform Pakistan into a **USD 1 trillion economy** by 2035. *[Business Recorder](https://www.brecorder.com/news/40436955/ahsan-eyes-usd1trn-economy-by-2035)*
+- Prime Minister Shehbaz Sharif directed the FBR to accelerate reforms and ensure **third-party audits** to curb tax evasion. *[Business Recorder](https://www.brecorder.com/news/40436956/pm-asks-fbr-to-ensure-third-party-audits)*
+- Sensitive Price Indicator (SPI)-based weekly inflation rose by **0.05%**, driven by increases in LPG, diesel, and electricity prices. *[Business Recorder](https://www.brecorder.com/news/40436959/spi-based-weekly-inflation-rises-005pc)*
+- The Privatization Commission has approved **10 out of 12 interested parties** for the privatization of FESCO. *[Business Recorder](https://www.brecorder.com/news/40436960/privatisation-of-fesco-pc-approves-10-out-of-12-parties)*
+- Pakistan’s listed banks reported a total profit of **Rs168 billion** for the second quarter of 2026. *[Business Recorder](https://www.brecorder.com/news/40436961/listed-banks-post-rs168bn-profit-for-2q2026)*
+- Oil refiners have committed to signing agreements under the **Refinery Upgradation Policy**, potentially unlocking USD 6 billion in investment. *[Business Recorder](https://www.brecorder.com/news/40436962/upgradation-policy-oil-refiners-say-committed-to-signing-accords)*
+- The Bank of Punjab (BOP) announced **record results** for the first half of 2026 and an interim dividend of 16%. *[Business Recorder](https://www.brecorder.com/news/40436920/bop-delivers-record-1h26-results-announces-interim-dividend-of-16pc)*
+- **Abdul Wahid Sethi** has assumed charge as the Acting President and CEO of the National Bank of Pakistan (NBP). *[Business Recorder](https://www.brecorder.com/news/40436922/abdul-wahid-sethi-assumes-charge-as-acting-president-amp-ceo-of-nbp)*
+- The **Tarbela fifth extension project** has seen massive cost escalation, rising from Rs82.3 billion to Rs316 billion. *[Business Recorder](https://www.brecorder.com/news/40436924/tarbelas-runaway-cost)*
+- The launch of a **National Olive Value Chain Policy** aims to reduce the country's $4 billion annual edible oil import bill. *[Business Recorder](https://www.brecorder.com/news/40436925/an-olive-branch-to-the-import-bill)*
+- A delegation from the **Korangi Association of Trade and Industry (KATI)** will attend the Trade Expo Indonesia 2026. *[Business Recorder](https://www.brecorder.com/news/40436929/kati-delegation-to-attend-trade-expo-in-indonesia)*
+- United International Group (UIG) announced the formation of the **United Digital Life Insurance Company**. *[Business Recorder](https://www.brecorder.com/news/40436930/uig-announces-united-digital-life-insurance-initiative)*
+
+### Science & Technology
+- A **partial lunar eclipse** created a "blood red" celestial display on the Moon. *[ARY](https://arynews.tv/partial-lunar-eclipse-transforms-the-moon-into-a-blood-red-celestial-display)*
 
 ### Politics
-- Iftikhar Gillani has been elected as the Prime Minister of AJK. *[ARY](https://arynews.tv/iftikhar-gillani-elected-ajk-prime-minister)*
-- The Punjab Assembly passed a resolution addressing the issue of prolonged power outages. *[ARY](https://arynews.tv/punjab-assembly-passes-resolution-against-prolonged-power-outages)*
-- The Sindh Chief Minister has suspended an order regarding the refusal of promotion by 63 sub-registrars. *[ARY](https://arynews.tv/sindh-suspends-order-accepting-sub-registrars-promotion-refusal)*
+- The **Punjab Assembly** passed a resolution addressing the issue of prolonged power outages. *[ARY](https://arynews.tv/punjab-assembly-passes-resolution-against-prolonged-power-outages)*
+- **Barrister Iftikhar Hussain Gilani** was elected as the 17th Prime Minister of Azad Jammu and Kashmir. *[Business Recorder](https://www.brecorder.com/news/40436957/barrister-gilani-elected-17th-ajk-pm)*
+- The government has **withdrawn a contentious telecom bill** from the Senate that allegedly granted excessive rights to telecom entities. *[Business Recorder](https://www.brecorder.com/news/40436958/disputed-telecom-bill-withdrawn-from-senate)*
 
 ### National
-- A judicial commission has offered a Rs. 0.1 million reward for information regarding the Mir Raza Ali case. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-offers-reward-for-information)*
-- Medical tests are being conducted to confirm a pregnancy in the Nazimabad hospital case. *[ARY](https://arynews.tv/woman-undergoes-medical-tests-to-confirm-pregnancy)*
-- The Hina Javed murder case has been officially declared a high-profile case. *[ARY](https://arynews.tv/hina-javed-murder-case-declared-high-profile)*
-- New recruitment rules for 2026 are set to be implemented in Sindh’s education boards. *[ARY](https://arynews.tv/recruitment-rules-2026-to-be-implemented-in-sindhs-education-boards)*
-- Private Hajj operators have been given a three-day deadline to activate packages or risk losing their quotas. *[ARY](https://arynews.tv/hajj-2027-private-operators-given-three-day-deadline-to-activate-packages-or-risk-quota)*
+- A student was **robbed at gunpoint** outside their home in Karachi, an incident captured on CCTV. *[ARY](https://arynews.tv/karachi-cctv-video-shows-student-robbed-at-gunpoint-outside-home)*
+- Islamabad's **fire brigade vehicles** were found to be 20 years old, raising safety concerns. *[ARY](https://arynews.tv/islamabad-fire-brigade-vehicles-found-to-be-20-years-old)*
+- A judicial commission has offered a **Rs0.1 million reward** for information regarding the Mir Raza Ali case. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-offers-reward-for-information)*
+- Prime Minister Shehbaz Sharif has formed a committee to investigate high **gas losses (UFG)** by SSGCL in Balochistan. *[Business Recorder](https://www.brecorder.com/news/40436954/balochistan-pm-body-to-examine-causes-behind-ssgcls-high-ufg-losses)*
 
 ### International
-- Iran has condemned new US economic sanctions as "state terrorism" and urged other nations to refrain from implementing them. *[Business Recorder](https://www.brecorder.com/news/40436891/iran-urges-other-nations-not-to-join-new-us-sanctions-mediators-focus-on-reopening-strait)*
-- Rescue operations have resumed in Nepal and China following a catastrophic glacier collapse that killed over 500 people. *[Business Recorder](https://www.brecorder.com/news/40436889/nepal-and-china-resume-flood-rescue-after-lake-threat-eases-death-toll-tops-500)*
-- Norway’s King Harald V has passed away at the age of 89. *[Business Recorder](https://www.brecorder.com/news/40436882/king-harald-v-norways-reform-minded-head-of-state-dies-at-89)*
-- India has signed an agreement with the United States to purchase Javelin anti-tank missile systems. *[Business Recorder](https://www.brecorder.com/news/40436877/india-signs-deal-with-us-to-buy-javelin-anti-tank-missile-systems)*
-
-### Sports
-- England's last-wicket duo helped the team reach a total of 290 all out in the second Test against Pakistan. *[ARY](https://arynews.tv/last-wicket-duo-take-england-to-290-all-out)*
-- Manchester United midfielder Carlos Baleba is expected to be sidelined for up to three weeks due to an ankle injury. *[Business Recorder](https://www.brecorder.com/news/40436888/baleba-out-up-to-three-weeks-with-ankle-injury-carrick-says)*
-- UEFA is preparing a legal suit against FIFA President Gianni Infantino, accusing him of "criminal mismanagement." *[Business Recorder](https://www.brecorder.com/news/40436886/uefas-legal-move-massive-escalation-in-bitter-infantino-feud)*
-- Josh Tongue delivered a strong performance with both bat and ball for England at Lord’s. *[Business Recorder](https://www.brecorder.com/news/40436885/all-round-tongue-stars-for-england-in-second-test-against-pakistan)*
+- **Iran** stated that diplomacy is possible provided the United States abandons its current pressure campaign. *[ARY](https://arynews.tv/iran-says-diplomacy-possible-if-us-abandons-pressure-campaign)*
+- Pakistan and **Saudi Arabia** have agreed to strengthen strategic partnerships, focusing on agriculture, food security, and water management. *[Business Recorder](https://www.brecorder.com/news/40436951/cdf-reaffirms-pakistans-commitment-to-boosting-strategic-partnership-with-ksa)* *[Business Recorder](https://www.brecorder.com/news/40436950/agriculture-food-security-water-management-pakistan-ksa-agree-to-expand-cooperation)*
 
 ### Health
-- Pakistan is set to tighten drug pricing rules, with orders issued to DRAP to revise the existing framework. *[ARY](https://arynews.tv/pakistan-to-tighten-drug-pricing-rules-orders-drap-to-revise-framework)*
-- An Indian food safety official has urged food companies to maintain ethical standards in nutrition and labeling. *[Business Recorder](https://www.brecorder.com/news/40436881/hard-handed-indian-official-urges-food-firms-to-be-ethical-amid-labelling-ingredients-row)*
+- The Ministry of Health has ordered a **comprehensive fire safety audit** of all government hospitals. *[ARY](https://arynews.tv/ministry-of-health-orders-comprehensive-fire-safety-audit-of-government-hospitals)*
+- **PIMS** is expected to undergo a high-level inspection in the coming days. *[ARY](https://arynews.tv/pims-likely-to-face-high-level-inspection-tomorrow-sources)*
+- Authorities have ordered a **revision of the regulatory framework** for drug pricing to protect consumers from unjustified increases. *[ARY](https://arynews.tv/pakistan-to-tighten-drug-pricing-rules-orders-drap-to-revise-framework)* *[Business Recorder](https://www.brecorder.com/news/40436928/revision-of-regulatory-framework-governing-drug-pricing-ordered)*
+- **Shifa International Hospitals** has achieved a significant milestone by receiving multiple JCI accreditations. *[Business Recorder](https://www.brecorder.com/news/40436931/shifa-international-hospitals-gets-highest-number-of-jci-accreditations)*
+
+### Other
+- Hollywood studios are competing for the rights to produce content regarding the high-profile **Lindsay Clancy trial**. *[ARY](https://arynews.tv/hollywood-studios-compete-for-rights-to-the-high-profile-lindsay-clancy-trial)*
 
