@@ -7,55 +7,54 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-Aug-2026 09:10PKT 
+ &lrm; 30-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پیٹرولیم وزیر نے اصلاحات، توانائی کی سلامتی اور سرمایہ کاری کے مواقع کا جائزہ لیا۔ *[ARY](https://arynews.tv/petroleum-minister-reviews-reforms-energy-security-and-investment-opportunities)*
-- عالمی منڈی میں فروخت میں اضافے کے باعث سونے کی قیمتوں میں بڑی کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437078/gold-prices-nosedive)*
-- انڈیا کے سب سے بڑے نجی بینک HDFC کے سی ای او سشی دھر جگیشان اکتوبر میں اپنے عہدے سے دستبردار ہو جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40437079/indias-hdfc-bank-ceo-jagdishan-to-step-down-in-october)*
-- ABAD کے چیئرمین نے تعمیراتی صنعت کو فروغ دینے کے لیے ملک بھر میں 'کنسٹرکشن زونز' قائم کرنے کی تجویز دی۔ *[Business Recorder](https://www.brecorder.com/news/40437010/abad-chairman-suggests-setting-up-construction-zones)*
-- RTO حیدرآباد نے سیلز ٹیکس ایکٹ کی خلاف ورزیوں کے خلاف کارروائی کرتے ہوئے متعدد گاڑیاں اور سامان ضبط کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40437012/violation-of-sta-rto-hyderabad-detains-vehicles-goods)*
-- Zindigi اور DAT AI سسٹم نے ڈیجیٹل مالیاتی اور تکنیکی حل تیار کرنے کے لیے مفاہمت کی یادداشت پر دستخط کیے۔ *[Business Recorder](https://www.brecorder.com/news/40437013/mou-signed-zindigi-amp-dat-to-advance-integrated-digital-solutions)*
-- مجوزہ ٹیکس پالیسی کی اہم خصوصیات بیان کی گئیں جو ٹیکس کے بوجھ کو کم کرنے اور دستاویز سازی میں مدد دے سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437014/key-features-of-the-proposed-tax-policy-elaborated)*
+- پاکستان کے ورچوئل اثاثوں کے ریگولیٹری نظام کو 'بٹ کوائن ایشیا' میں بین الاقوامی توجہ حاصل ہوئی۔ *[ARY](https://arynews.tv/pakistans-virtual-assets-regulatory-regime-draws-international-attention-at-bitcoin-asia)*
+- ڈونلڈ ٹرمپ کا کہنا ہے کہ امریکہ وینزویلا سے تیل لے کر اپنے اسٹریٹجک پیٹرولیم ریزرو کو دوبارہ بھرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437105/trump-says-us-will-refill-strategic-petroleum-reserve-using-venezuelan-oil)*
+- پاکستان اور سعودی عرب نے زراعت اور خوراک کی برآمدات کے لیے 3 ارب ڈالر کا ہدف مقرر کرنے پر اتفاق کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437103/pakistan-saudi-arabia-set-3bn-target-for-agricultural-food-exports)*
+- پیٹرو چائنا کے پہلے ششماہی منافع میں 22 فیصد کا اضافہ ریکارڈ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437097/petrochina-h1-net-profit-jumps-22-boosted-by-fuel-sales-oil-price-spike)*
+- امریکی حکومت وینزویلا کے ایک تیل کے منصوبے میں 35 فیصد حصہ لینے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437089/us-to-take-35-stake-in-venezuelan-mogul-betancourts-oil-venture-wsj-reports)*
+- سوئٹزرلینڈ کے بینکنگ شعبے میں ضرورت سے زیادہ ریگولیشن کے خلاف وارننگ جاری کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437098/incoming-swiss-bank-lobby-chief-warns-against-over-regulation-ft-says)*
 
 ### سائنس اور ٹیکنالوجی
-- پنجاب کے وزیر اعلیٰ نے مصنوعی ذہانت اور ڈیجیٹل تعاون کے فروغ کے لیے پنجاب اور گویزہ (چین) کے درمیان ورکنگ گروپ قائم کرنے کی تجویز دی۔ *[Business Recorder](https://www.brecorder.com/news/40437007/international-big-data-expo-cm-proposes-punjab-guizhou-joint-working-group-for-ai-digital-cooperation-smart-agriculture)*
+- ناسا نے فلوریڈا سے ایک طاقتور نیا 'رومن اسپیس ٹیلی سکوپ' کامیابی سے لانچ کر دیا۔ *[ARY](https://arynews.tv/nasa-launches-powerful-new-roman-space-telescope-from-florida)*
+- تحقیق سے پتہ چلا ہے کہ پر آشوب ماحول شیر خوار بچوں کے دماغ کی ساخت کو تبدیل کر سکتے ہیں۔ *[ARY](https://arynews.tv/research-discovers-how-chaotic-environments-reshape-a-babys-brain)*
 
 ### موسم
-- نیپال میں مہلک سیلاب کے بعد موسمیاتی خطرات کے حوالے سے وارننگ جاری کی گئی۔ *[ARY](https://arynews.tv/nepal-warns-of-climate-threat-after-deadly-floods)*
-- کراچی، حیدرآباد اور لاہور سمیت مختلف شہروں کے موسم کی رپورٹ اور پیش گوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437004/the-weather)*
+- نیپال میں سیلاب کی وجہ سے مرنے والوں کی تعداد 781 ہو گئی ہے جبکہ 2,502 افراد اب بھی لاپتہ ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437104/nepal-flood-death-toll-rises-to-781-with-2502-missing-disaster-authority)*
 
 ### سیاست
-- سپریم کورٹ کا حکم: 'ماڈل ایمپلائر' کا مطلب ہے کہ ریاست اور سرکاری ادارے ملازمین کے ساتھ منصفانہ اور عادلانہ سلوک کریں۔ *[Business Recorder](https://www.brecorder.com/news/40437081/model-employer-insinuates-just-treatment-to-employees-sc)*
-- وزیراعظم کے وژن 2047 کے تحت قومی ترقی کے عمل میں نوجوانوں کو مرکزی کردار دینے کا منصوبہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437006/vision-2047-envisages-placing-youth-at-centre-of-national-development)*
-- لاہور ہائی کورٹ نے انسانی اسمگلنگ کے منظم جرائم سے نمٹنے کے لیے خصوصی شہادت کے قوانین بنانے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40437009/human-trafficking-cases-lhc-directs-enactment-of-special-rules-of-evidence)*
-- مفتی عبد الرحیم نے وفاقی وزیر احسن اقبال سے ملاقات کی جس میں تعلیمی اصلاحات اور قومی ترقی پر تبادلہ خیال کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437016/mufti-abdul-rahim-meets-ahsan-iqbal)*
+- علیم خان نے نئے صوبوں کے قیام کے لیے اپنی مہم تیز کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/aleem-khan-announces-intensified-campaign-for-new-provinces)*
+- خواجہ آصف نے لاہور ایئرپورٹ کی سہولیات کا معائنہ کیا۔ *[ARY](https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities)*
+- ترکی، سعودی عرب اور پاکستان کے درمیان دفاعی معاہدے کے تحت پہلی کمیٹی کا اجلاس منعقد ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40437101/turkiye-saudi-arabia-pakistan-to-hold-first-defence-pact-meeting-tomorrow-source-says)*
+- جنوبی کوریا نے اپنی کابینہ میں بڑی تبدیلی کرتے ہوئے نئے وزراء کا اعلان کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437088/south-korea-names-veteran-technocrat-lee-hyoung-il-as-new-finance-chief-in-cabinet-reshuffle)*
+- صدر اور وزیر اعظم نے ترکی کی قیادت اور عوام کو 'وکٹری ڈے' پر مبارکباد دی۔ *[Business Recorder](https://www.brecorder.com/news/40437095/president-pm-felicitate-turkish-leadership-people-on-victory-day)*
 
 ### قومی
-- کراچی میں نومولود بچے کے گمشدگی کے کیس میں ایک خاتون کے اعتراف سے معاملہ حل ہونے کی طرف بڑھ رہا ہے۔ *[ARY](https://arynews.tv/womans-admission-drops-curtain-on-karachi-newborn-missing-case)*
-- پاکستان کے وزیر داخلہ نے کراچی میں پاسپورٹ اور امیگریشن خدمات کے نظام کا جائزہ لیا۔ *[ARY](https://arynews.tv/pakistan-interior-minister-reviews-passport-and-immigration-services-in-karachi)*
-- وزیراعظم نے PIMS نینیٹل وارڈ میں آگ لگنے کے واقعے پر فوجداری کارروائی کا حکم دے دیا ہے۔ *[ARY](https://arynews.tv/pakistan-pm-orders-criminal-proceedings-over-pims-neonatal-ward-fire)*
-- پنجاب ہیلتھ ڈیپارٹمنٹ نے تمام ٹیچنگ ہسپتالوں کو 24 گھنٹوں کے اندر ہنگامی ردعمل اور انخلاء کے منصوبے تیار کرنے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437005/punjab-directs-teaching-hospitals-to-develop-emergency-response-plans)*
-- ایل ڈی اے نے لاہور میں غیر قانونی تجارتی عمارتوں کے خلاف کارروائی کرتے ہوئے 81 جائیدادیں سیل کر دیں۔ *[Business Recorder](https://www.brecorder.com/news/40437008/lda-seals-81-properties)*
-- اسلام آباد میں جرائم پیشہ گروہوں کی جانب سے لوٹ مار اور چوری کی وارداتوں میں اضافہ دیکھا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437011/criminal-gangs-continue-looting-spree-in-islamabad)*
-- خیبر پختونخوا کے وزیر اعلیٰ نے ایبٹ آباد میں ایک جدید پارک کا افتتاح کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437015/kp-cm-inaugurates-702-kanal-abbottabad-park)*
+- چیف آف آرمی اسٹاف فیلڈ مارشل سید اسیم منیر کا ترکی کا سرکاری دورہ۔ *[Business Recorder](https://www.brecorder.com/news/40437096/cdf-munir-arrives-in-turkiye-amid-key-regional-diplomatic-engagements)*
+- کراچی کے علاقے ڈیفنس میں لڑائی جھگڑے کے واقعے میں شامل پولیس افسران کو طلب کرنے کی تیاری ہے۔ *[ARY](https://arynews.tv/karachi-defence-flat-brawl-police-officials-seen-in-cctv-to-be-summoned)*
+- ناظم آباد کے ایک نجی ہسپتال میں میٹرنیٹی کیس نے طبی سوالات کھڑے کر دیے ہیں۔ *[ARY](https://arynews.tv/nazimabad-private-hospital-maternity-case-raises-medical-questions)*
 
 ### بین الاقوامی
-- مغربی کنارے کے ایک گاؤں پر اسرائیلی آباد کاروں کے حملے کا واقعہ پیش آیا۔ *[Business Recorder](https://www.brecorder.com/news/40437075/dozens-of-israeli-settlers-attack-flashpoint-west-bank-village)*
-- ناروے میں شاہ ہیرالڈ کی وفات پر ہزاروں لوگوں نے محل کے باہر سوگ منایا۔ *[Business Recorder](https://www.brecorder.com/news/40437076/norway-mourns-king-harald-as-crowds-gather-at-royal-palace)*
-- پاکستان نے ہیٹی میں گینگ کے ہاتھوں ہونے والے قتل عام کے بعد اقوام متحدہ سے فوری امداد کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437077/pakistan-demands-action-after-brutal-haiti-gang-massacre-claims-47-lives)*
-- زمبیابوے میں چرچ کی مینی بس اور ٹرک کے درمیان تصادم کے نتیجے میں 27 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40437080/zimbabwe-crash-involving-church-minibus-kills-27)*
+- شمالی قبرص کے قریب ایک کشتی الٹنے کے واقعے میں ایک شخص ہلاک ہو گیا۔ *[ARY](https://arynews.tv/boat-with-around-270-people-on-board-capsizes-off-north-cyprus-one-dead)*
+- سوئٹزرلینڈ کے ایک ایونٹ میں فائرنگ کے واقعے میں متعدد افراد کو نشانہ بنایا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437085/several-victims-reported-in-shooting-incident-police-say)*
 
 ### کھیل
-- ڈورٹ مண்ட் نے آسان جیت حاصل کی جبکہ ایلورسبیرگ نے تاریخ رقم کی۔ *[ARY](https://arynews.tv/dortmund-secure-easy-win-as-elversberg-make-history)*
-- لورپول کے مشکل آغاز کے باوجود نئے باس ایراؤلا پرامید نظر آتے ہیں۔ *[ARY](https://arynews.tv/new-boss-iraola-stays-positive-despite-liverpools-winless-start)*
-- اسٹراسبورگ نے لینس کو شکست دے دی۔ *[ARY](https://arynews.tv/winger-yassines-double-helps-strasbourg-beat-lens)*
+- سوریا کمار یادو نے ٹی 20 ٹیم سے باہر کیے جانے پر دکھ کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437100/former-india-captain-suryakumar-rues-t20-omission-after-world-cup-success)*
+- راجر فیڈرر کو انٹرنیشنل ٹینس ہال آف فیم میں شامل کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437091-emotional-federer-full-of-love-and-gratitude-at-hall-of-fame-induction)*
+- محمد عباس نے لارڈز میں پانچ وکٹیں لے کر تاریخی کارکردگی دکھائی۔ *[Business Recorder](https://www.brecorder.com/news/40437090-five-wicket-abbas-has-lords-landmark-as-pakistan-set-389-to-win-second-test)*
+- لیونل میسی نے انٹر میامی کے لیے چار گول کر کے شاندار کارکردگی کا مظاہرہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437086-words-simply-fall-short-inter-miami-interim-coach-marvels-at-messi-masterclass)*
+- ڈائین پری نے مونٹیری اوپن میں اپنا پہلا ڈبلیو ٹی اے سنگلز ٹائٹل جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40437092-parry-defeats-mertens-in-monterrey-to-claim-maiden-wta-singles-title)*
+- ایگا سوائٹیک نے حالیہ کارکردگی میں بہتری کے بعد یو ایس اوپن کے لیے امید ظاہر کی۔ *[Business Recorder](https://www.brecorder.com/news/40437087-iga-swiatek-said-encouraged-by-recent-progress-after-toughest-season-of-career)*
+- ایلینا ریباکینا کو امید ہے کہ وہ اپنی چوٹ سے صحت یاب ہو کر یو ایس اوپن میں حصہ لے سکیں گی۔ *[Business Recorder](https://www.brecorder.com/news/40437093-rybakina-on-track-to-recover-from-injury-and-play-at-us-open)*
 
 ### صحت
-- موڈیرنا اور مرک کی جانب سے کینسر کی ویکسین کے حوالے سے ایک بڑی کامیابی حاصل ہوئی ہے۔ *[ARY](https://arynews.tv/success-after-a-century-of-failures-inside-moderna-and-mercks-cancer-vaccine-breakthrough)*
+- پھیپھڑوں کے کینسر کے علاج کے لیے ریڈی ایشن کے مطالعے میں زندگی کے معیار کے فوائد سامنے آئے ہیں۔ *[ARY](https://arynews.tv/lung-cancer-radiation-study-reveals-surprising-quality-of-life-benefits)*
+- شمالی کیرولائنا میں موبائل پیٹنگ زو کے بکری کے بچوں سے رابطے کے بعد ریبیز (Rabies) کا وارننگ جاری کیا گیا۔ *[ARY](https://arynews.tv/north-carolina-issues-rabies-warning-due-to-contact-with-baby-goats-from-mobile-petting-zoo)*
 
 ### دیگر
-- راک اسٹار گیمز نے GTA 6 کے دو مرکزی کرداروں، جیسن اور لوسیا کے بارے میں تفصیلات فراہم کیں۔ *[ARY](https://arynews.tv/gta-6-dual-protagonists-jason-and-lucia-explained-by-rockstar-games)*
+- ڈالی پارٹن کی کتابوں کی فراہمی کے ذریعے بچوں میں پڑھنے کا شوق پیدا کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437094-dolly-partons-legacy-lives-on-through-book-deliveries-to-kids)*
 
