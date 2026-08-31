@@ -7,54 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-Aug-2026 21:09PKT 
+ &lrm; 31-Aug-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان کے ورچوئل اثاثوں کے ریگولیٹری نظام کو 'بٹ کوائن ایشیا' میں بین الاقوامی توجہ حاصل ہوئی۔ *[ARY](https://arynews.tv/pakistans-virtual-assets-regulatory-regime-draws-international-attention-at-bitcoin-asia)*
-- ڈونلڈ ٹرمپ کا کہنا ہے کہ امریکہ وینزویلا سے تیل لے کر اپنے اسٹریٹجک پیٹرولیم ریزرو کو دوبارہ بھرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437105/trump-says-us-will-refill-strategic-petroleum-reserve-using-venezuelan-oil)*
-- پاکستان اور سعودی عرب نے زراعت اور خوراک کی برآمدات کے لیے 3 ارب ڈالر کا ہدف مقرر کرنے پر اتفاق کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437103/pakistan-saudi-arabia-set-3bn-target-for-agricultural-food-exports)*
-- پیٹرو چائنا کے پہلے ششماہی منافع میں 22 فیصد کا اضافہ ریکارڈ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437097/petrochina-h1-net-profit-jumps-22-boosted-by-fuel-sales-oil-price-spike)*
-- امریکی حکومت وینزویلا کے ایک تیل کے منصوبے میں 35 فیصد حصہ لینے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437089/us-to-take-35-stake-in-venezuelan-mogul-betancourts-oil-venture-wsj-reports)*
-- سوئٹزرلینڈ کے بینکنگ شعبے میں ضرورت سے زیادہ ریگولیشن کے خلاف وارننگ جاری کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437098/incoming-swiss-bank-lobby-chief-warns-against-over-regulation-ft-says)*
+- ایرانی ریال امریکی ڈالر کے مقابلے میں تیزی سے گر کر 20 لاکھ کی سطح سے تجاوز کر گیا۔ *[ARY](https://arynews.tv/iranian-rial-plunges-past-2-million-per-us-dollar-reports)*
+- اگست کے اختتام پر پاکستانی روپیہ امریکی ڈالر کے مقابلے میں مستحکم رہا، جبکہ سعودی ریال اور یو اے ای درہم میں کوئی تبدیلی نہیں آئی۔ *[ARY](https://arynews.tv/pkr-us-dollar-rate-august-end-saudi-riyal-uae-dirham-flat)*
+- بھارت میں خوراک کی بڑھتی ہوئی مہنگائی گھریلو اخراجات کو متاثر کر سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437254/higher-food-inflation-could-constrain-spending-on-non-food-items-india-report-says)*
+- تیل کی قیمتوں میں اضافے اور امریکی فیڈرل ریزرو کے سخت موقف کے باعث وال اسٹریٹ میں گراوٹ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437251/wall-st-slips-as-higher-oil-prices-hawkish-fed-bets-weigh)*
+- بھارتی ریزرو بینک کا فارن ایکسچینج فارورڈ بک ریکارڈ 136.7 ارب ڈالر تک پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437250/indias-rbi-fx-forward-book-hits-record-1367-billion-on-surging-overseas-deposits)*
+- بھارت کے سرکاری انفراسٹرکچر فنڈ نے عالمی اور مقامی سرمایہ کاروں سے 2 ارب ڈالر کی سرمایہ کاری حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437248/indias-state-backed-infra-fund-secures-2bn-commitment-from-global-local-investors)*
+- ریئل اسٹیٹ اور یوٹیلیٹیز کے شعبوں میں بہتری کی وجہ سے سری لنکا کے اسٹاک مارکیٹ میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437247/sri-lankan-shares-rise-on-real-estate-utilities-boost)*
+- بھارتی علاقائی ایئر لائن 'فلائی 91' 20 سے زیادہ نئے طیارے خریدنے کے قریب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437245/indias-fly91-close-to-ordering-at-least-20-atr-turboprops-sources-say)*
+- بھارتی مرکزی بینک نے تیل کی قیمتوں اور امریکی ریٹ میں اضافے کے دباؤ کے خلاف روپیہ کو سہارا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437243/rbi-back-to-rupee-s-rescue-to-counter-oil-fed-headwinds-steps-into-swaps-too)*
+- ایران اور امریکہ کے درمیان کشیدگی کے باعث خلیجی اسٹاک مارکیٹ میں گراوٹ واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437242/gulf-bourses-slip-as-iran-us-escalation-dents-risk-appetite)*
+- سری لنکا میں خوراک کی قیمتوں میں اضافے کی وجہ سے مہنگائی 8 فیصد تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437241/sri-lankas-inflation-index-up-8-year-on-year-in-august-on-higher-food-prices)*
+- جی آر ٹی جیولرز بھارت کی ایک بڑی جیولری کمپنی کا کنٹرول حاصل کرنے کے لیے 109 ملین ڈالر کی ڈیل کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437240/indias-grt-jewellers-seeks-control-of-tribhovandas-bhimji-zaveri-in-up-to-109-million-deal)*
+- کوٹک مہندرا بینک نے اپنے سی ای او کے لیے دو اندرونی امیدواروں کے نام تجویز کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437238/kotak-mahindra-bank-recommends-two-internal-candidates-for-ceo-sources-say)*
+- MSCI کی تبدیلی کے باعث بھارتی اسٹاک مارکیٹ میں ٹریڈنگ والیوم میں نمایاں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437236/msci-rejig-drives-volumes-in-india-stocks-amid-closing-auction-led-swings)*
+- بھارتی کمپنیاں اب قرض لینے کے لیے طویل مدتی قرضوں کی طرف رجوع کر رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437233/indian-firms-turn-to-longer-term-debt-amid-strong-demand-as-yield-gap-narrows)*
 
 ### سائنس اور ٹیکنالوجی
-- ناسا نے فلوریڈا سے ایک طاقتور نیا 'رومن اسپیس ٹیلی سکوپ' کامیابی سے لانچ کر دیا۔ *[ARY](https://arynews.tv/nasa-launches-powerful-new-roman-space-telescope-from-florida)*
-- تحقیق سے پتہ چلا ہے کہ پر آشوب ماحول شیر خوار بچوں کے دماغ کی ساخت کو تبدیل کر سکتے ہیں۔ *[ARY](https://arynews.tv/research-discovers-how-chaotic-environments-reshape-a-babys-brain)*
+- سونی اور وارنر میوزک نے AI ماڈلز کی تربیت میں کاپی رائٹ شدہ موسیقی کے استعمال پر اینتھروپک کے خلاف مقدمہ دائر کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437252/sony-warner-music-sue-anthropic-over-songs-used-in-ai-training)*
+- ایڈوبی سعودی عرب میں اپنے AI ٹولز تک شہریوں کو 12 ماہ کی مفت رسائی فراہم کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437235/adobe-to-offer-free-access-to-ai-tools-in-saudi-arabia-in-4-billion-deal)*
 
 ### موسم
-- نیپال میں سیلاب کی وجہ سے مرنے والوں کی تعداد 781 ہو گئی ہے جبکہ 2,502 افراد اب بھی لاپتہ ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437104/nepal-flood-death-toll-rises-to-781-with-2502-missing-disaster-authority)*
-
-### سیاست
-- علیم خان نے نئے صوبوں کے قیام کے لیے اپنی مہم تیز کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/aleem-khan-announces-intensified-campaign-for-new-provinces)*
-- خواجہ آصف نے لاہور ایئرپورٹ کی سہولیات کا معائنہ کیا۔ *[ARY](https://arynews.tv/khawaja-asif-inspects-lahore-airport-facilities)*
-- ترکی، سعودی عرب اور پاکستان کے درمیان دفاعی معاہدے کے تحت پہلی کمیٹی کا اجلاس منعقد ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40437101/turkiye-saudi-arabia-pakistan-to-hold-first-defence-pact-meeting-tomorrow-source-says)*
-- جنوبی کوریا نے اپنی کابینہ میں بڑی تبدیلی کرتے ہوئے نئے وزراء کا اعلان کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437088/south-korea-names-veteran-technocrat-lee-hyoung-il-as-new-finance-chief-in-cabinet-reshuffle)*
-- صدر اور وزیر اعظم نے ترکی کی قیادت اور عوام کو 'وکٹری ڈے' پر مبارکباد دی۔ *[Business Recorder](https://www.brecorder.com/news/40437095/president-pm-felicitate-turkish-leadership-people-on-victory-day)*
+- پاکستان کے مختلف حصوں میں آج سے بارش اور گرج چمک کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/rain-thunderstorms-expected-from-today-across-pakistan)*
+- نیپال میں سیلاب کی فوری وارننگ نے 900 سے زائد طلباء کی جان بچا لی۔ *[Business Recorder](https://www.brecorder.com/news/40437249/last-minute-flood-warning-saved-over-900-nepal-students-school-head-says)*
+- بھارت میں اگست کے دوران بارش اوسط سے 16 فیصد کم رہی، جس سے مون سون کا خسارہ بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437234/indias-august-rainfall-16-below-average-widening-monsoon-deficit)*
 
 ### قومی
-- چیف آف آرمی اسٹاف فیلڈ مارشل سید اسیم منیر کا ترکی کا سرکاری دورہ۔ *[Business Recorder](https://www.brecorder.com/news/40437096/cdf-munir-arrives-in-turkiye-amid-key-regional-diplomatic-engagements)*
-- کراچی کے علاقے ڈیفنس میں لڑائی جھگڑے کے واقعے میں شامل پولیس افسران کو طلب کرنے کی تیاری ہے۔ *[ARY](https://arynews.tv/karachi-defence-flat-brawl-police-officials-seen-in-cctv-to-be-summoned)*
-- ناظم آباد کے ایک نجی ہسپتال میں میٹرنیٹی کیس نے طبی سوالات کھڑے کر دیے ہیں۔ *[ARY](https://arynews.tv/nazimabad-private-hospital-maternity-case-raises-medical-questions)*
+- کوئٹہ میں ڈبے میں یا کھلا پاؤڈر دودھ فروخت کرنے پر پابندی لگا دی گئی ہے۔ *[ARY](https://arynews.tv/sale-of-loose-powdered-milk-banned-in-quetta)*
+- میر رضا علی کیس میں عدالتی کمیشن کے بجائے JIT کی تشکیل کا مطالبہ کیا گیا ہے۔ *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit)*
+- پی آئی ایم ایس (PIMS) آگ کے واقعے میں سی سی ٹی وی فوٹیج میں ہیرا پھیری کا شبہ ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/pims-fire-senate-na-committees-questions-cctv-footage)*
+- ایف پی ایس سی نے سی ایس ایس 2026 کے تحریری امتحانات کے نتائج کا اعلان کر دیا۔ *[ARY](https://arynews.tv/fpsc-announces-css-2026-written-results)*
 
 ### بین الاقوامی
-- شمالی قبرص کے قریب ایک کشتی الٹنے کے واقعے میں ایک شخص ہلاک ہو گیا۔ *[ARY](https://arynews.tv/boat-with-around-270-people-on-board-capsizes-off-north-cyprus-one-dead)*
-- سوئٹزرلینڈ کے ایک ایونٹ میں فائرنگ کے واقعے میں متعدد افراد کو نشانہ بنایا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437085/several-victims-reported-in-shooting-incident-police-say)*
+- ہیگ کی عدالت نے فیصلہ دیا کہ بھارت سندھ طاس معاہدے کو معطل نہیں کر سکتا۔ *[ARY](https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules)*
+- اسپین کے صدر نے تارکین وطن کے سیلاب میں مراکش کی ذمہ داری سے انکار کر دیا۔ *[ARY](https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge)*
+- ترکی، پاکستان اور سعودی عرب کے درمیان دفاعی معاہدے میں دیگر ممالک کی شمولیت کے لیے روڈ میپ تیار کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437246/turkiye-says-roadmap-being-prepared-for-others-to-join-defence-pact-with-pakistan-and-saudi-arabia)*
+- ایران کے صدر کا کہنا ہے کہ وہ امریکہ کے ساتھ جنگ کا حل مذاکرات کے ذریعے چاہتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437239/iran-still-wants-negotiated-end-to-war-president-says-after-exchanges-of-fire)*
+- اسرائیل اور یونان کے درمیان 3.5 ارب ڈالر کا فضائی دفاعی معاہدہ طے پا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437237/israel-signs-35-billion-air-defence-deal-with-greece)*
 
 ### کھیل
-- سوریا کمار یادو نے ٹی 20 ٹیم سے باہر کیے جانے پر دکھ کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437100/former-india-captain-suryakumar-rues-t20-omission-after-world-cup-success)*
-- راجر فیڈرر کو انٹرنیشنل ٹینس ہال آف فیم میں شامل کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437091-emotional-federer-full-of-love-and-gratitude-at-hall-of-fame-induction)*
-- محمد عباس نے لارڈز میں پانچ وکٹیں لے کر تاریخی کارکردگی دکھائی۔ *[Business Recorder](https://www.brecorder.com/news/40437090-five-wicket-abbas-has-lords-landmark-as-pakistan-set-389-to-win-second-test)*
-- لیونل میسی نے انٹر میامی کے لیے چار گول کر کے شاندار کارکردگی کا مظاہرہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437086-words-simply-fall-short-inter-miami-interim-coach-marvels-at-messi-masterclass)*
-- ڈائین پری نے مونٹیری اوپن میں اپنا پہلا ڈبلیو ٹی اے سنگلز ٹائٹل جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40437092-parry-defeats-mertens-in-monterrey-to-claim-maiden-wta-singles-title)*
-- ایگا سوائٹیک نے حالیہ کارکردگی میں بہتری کے بعد یو ایس اوپن کے لیے امید ظاہر کی۔ *[Business Recorder](https://www.brecorder.com/news/40437087-iga-swiatek-said-encouraged-by-recent-progress-after-toughest-season-of-career)*
-- ایلینا ریباکینا کو امید ہے کہ وہ اپنی چوٹ سے صحت یاب ہو کر یو ایس اوپن میں حصہ لے سکیں گی۔ *[Business Recorder](https://www.brecorder.com/news/40437093-rybakina-on-track-to-recover-from-injury-and-play-at-us-open)*
-
-### صحت
-- پھیپھڑوں کے کینسر کے علاج کے لیے ریڈی ایشن کے مطالعے میں زندگی کے معیار کے فوائد سامنے آئے ہیں۔ *[ARY](https://arynews.tv/lung-cancer-radiation-study-reveals-surprising-quality-of-life-benefits)*
-- شمالی کیرولائنا میں موبائل پیٹنگ زو کے بکری کے بچوں سے رابطے کے بعد ریبیز (Rabies) کا وارننگ جاری کیا گیا۔ *[ARY](https://arynews.tv/north-carolina-issues-rabies-warning-due-to-contact-with-baby-goats-from-mobile-petting-zoo)*
-
-### دیگر
-- ڈالی پارٹن کی کتابوں کی فراہمی کے ذریعے بچوں میں پڑھنے کا شوق پیدا کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437094-dolly-partons-legacy-lives-on-through-book-deliveries-to-kids)*
+- جو روٹ کا کہنا ہے کہ انگلینڈ میں بلے بازوں کی مشکلات کی ایک وجہ نئے بال ہیں۔ *[ARY](https://arynews.tv/root-says-new-balls-behind-batsmens-struggles-in-england)*
 
