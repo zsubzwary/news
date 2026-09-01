@@ -4,51 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 31-Aug-2026 21:03PKT
+Published at: 01-Sep-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Iranian Rial has plunged past the 2 million mark per US Dollar. *[ARY](https://arynews.tv/iranian-rial-plunges-past-2-million-per-us-dollar-reports)*
-- The Pakistani Rupee held steady against the US Dollar, while the Saudi Riyal and UAE Dirham remained flat. *[ARY](https://arynews.tv/pkr-us-dollar-rate-august-end-saudi-riyal-uae-dirham-flat)*
-- Higher food inflation in India may constrain household spending on non-food discretionary items. *[Business Recorder](https://www.brecorder.com/news/40437254/higher-food-inflation-could-constrain-spending-on-non-food-items-india-report-says)*
-- Wall Street indexes slipped due to rising oil prices and hawkish expectations regarding the Federal Reserve. *[Business Recorder](https://www.brecorder.com/news/40437251/wall-st-slips-as-higher-oil-prices-hawkish-fed-bets-weigh)*
-- The Reserve Bank of India's foreign exchange forward position reached a record $136.7 billion in July. *[Business Recorder](https://www.brecorder.com/news/40437250/indias-rbi-fx-forward-book-hits-record-1367-billion-on-surging-overseas-deposits)*
-- India's state-backed infrastructure fund has secured $2 billion in commitments from global and local investors. *[Business Recorder](https://www.brecorder.com/news/40437248/indias-state-backed-infra-fund-secures-2bn-commitment-from-global-local-investors)*
-- Sri Lankan shares saw an increase, bolstered by gains in the real estate and utilities sectors. *[Business Recorder](https://www.brecorder.com/news/40437247/sri-lankan-shares-rise-on-real-estate-utilities-boost)*
-- Indian regional airline Fly91 is reportedly close to ordering at least 20 ATR turboprop aircraft. *[Business Recorder](https://www.brecorder.com/news/40437245/indias-fly91-close-to-ordering-at-least-20-atr-turboprops-sources-say)*
-- The Reserve Bank of India intervened to support the rupee against headwinds from oil prices and the US Fed. *[Business Recorder](https://www.brecorder.com/news/40437243/rbi-back-to-rupee-rescue-to-counter-oil-fed-headwinds-steps-into-swaps-too)*
-- Gulf stock markets declined as renewed US-Iran military escalations dented investor risk appetite. *[Business Recorder](https://www.brecorder.com/news/40437242/gulf-bourses-slip-as-iran-us-escalation-dents-risk-appetite)*
-- Sri Lanka's inflation index rose 8% year-on-year in August, driven largely by increased food prices. *[Business Recorder](https://www.brecorder.com/news/40437241/sri-lankas-inflation-index-up-8-year-on-year-in-august-on-higher-food-prices)*
-- India's GRT Jewellers is seeking to acquire a 74.12% stake in Tribhovandas Bhimji Zaveri in a deal worth up to $109 million. *[Business Recorder](https://www.brecorder.com/news/40437240/indias-grt-jewellers-seeks-control-of-tribhovandas-bhimji-zaveri-in-up-to-109-million-deal)*
-- Kotak Mahindra Bank has recommended two internal candidates to succeed its current CEO. *[Business Recorder](https://www.brecorder.com/news/40437238/kotak-mahindra-bank-recommends-two-internal-candidates-for-ceo-sources-say)*
-- A quarterly MSCI rebalancing drove significant trading volumes in Indian stocks. *[Business Recorder](https://www.brecorder.com/news/40437236/msci-rejig-drives-volumes-in-india-stocks-amid-closing-auction-led-swings)*
-- Indian companies are increasingly turning to longer-term debt due to strong demand and narrowing yield gaps. *[Business Recorder](https://www.brecorder.com/news/40437233/indian-firms-turn-to-longer-term-debt-amid-strong-demand-as-yield-gap-narrows)*
+- **Lilly** has announced plans to acquire Merida Biosciences for up to $2.88 billion to bolster its autoimmune drug portfolio. *[ARY](https://arynews.tv/lilly-to-buy-merida-biosciences-for-up-to-2-88-billion-in-autoimmune-drug-push)*
+- Under a new OGRA notification, **petrol prices** have increased while **diesel prices** have decreased. *[ARY](https://arynews.tv/petrol-price-up-diesel-price-down-under-new-ogra-notification)*
+- **Shein's** shares experienced a decline during its highly anticipated trading debut in Hong Kong. *[Business Recorder](https://www.brecorder.com/news/40437361/shein-shares-slide-in-long-awaited-hong-kong-trading-debut)*
+- **Oil prices** rose above $90 a barrel, driven by renewed fighting between the US and Iran in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40437359/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks)*
+- **Indian shares** are projected to open higher following strong growth data, despite potential volatility from rising crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40437358/indian-shares-to-open-higher-on-strong-growth-data-middle-east-jitters-could-temper-optimism)*
+- **Gold prices** remained subdued as market participants await key US labor market data. *[Business Recorder](https://www.brecorder.com/news/40437357/gold-muted-as-traders-await-us-jobs-data-monitor-mideast-tensions)*
+- **Global bond yields** reached new highs, putting downward pressure on stock markets as oil prices surged. *[Business Recorder](https://www.brecorder.com/news/40437356/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel)*
+- The **Japanese yen** remains steady near the 160 level amid speculation regarding Bank of Japan rate hikes. *[Business Recorder](https://www.brecorder.com/news/40437355/yen-hangs-near-160-amid-boj-rate-hike-bets-dollar-wobbles)*
+- The **Khadijah Women Entrepreneurship Programme** hosted specialized sessions in Sialkot and Gujranwala to support female entrepreneurs. *[Business Recorder](https://www.brecorder.com/news/40437308/khadijah-women-entrepreneurship-programme-psw-tdap-host-two-sessions-in-sialkot-gujranwala)*
+- The **FIA** has registered a criminal case against Unity Foods Limited following SECP findings of alleged fund misuse and financial irregularities. *[Business Recorder](https://www.brecorder.com/news/40437310/alleged-misuse-of-funds-secp-findings-lead-to-fia-case-against-food-co)*
+- **China Huaneng** has accused Pakistani authorities of pressuring the company into a "give-and-take" arrangement regarding capacity payments. *[Business Recorder](https://www.brecorder.com/news/40437321/give-and-take-arrangement-chinese-firm-accuses-authorities-of-forcing-it-to-accept-their-conditions)*
 
 ### Science & Technology
-- Sony and Warner Music have sued Anthropic, alleging the company used copyrighted songs to train its Claude AI models. *[Business Recorder](https://www.brecorder.com/news/40437252/sony-warner-music-sue-anthropic-over-songs-used-in-ai-training)*
-- Adobe has announced a $4 billion deal to provide Saudi Arabian citizens with free access to AI-powered tools. *[Business Recorder](https://www.brecorder.com/news/40437235/adobe-to-offer-free-access-to-ai-tools-in-saudi-arabia-in-4-billion-deal)*
+- **Starlink** has arrived in the UAE, providing new internet connectivity options and pricing details. *[ARY](https://arynews.tv/starlink-arrives-in-the-uae-presenting-new-options-for-internet-with-pricing-and-usage-details)*
 
 ### Weather
-- Rain and thunderstorms are expected across Pakistan starting today. *[ARY](https://arynews.tv/rain-thunderstorms-expected-from-today-across-pakistan)*
-- India's August rainfall was 16% below average, widening the seasonal monsoon deficit. *[Business Recorder](https://www.brecorder.com/news/40437234/indias-august-rainfall-16-below-average-widening-monsoon-deficit)*
+- **Schools** in Islamabad and Rawalpindi have been closed due to heavy rainfall. *[ARY](https://arynews.tv/schools-closed-as-islamabad-rawalpindi-face-heavy-rains)*
+- Pakistan has issued a **high alert** due to potential flood risks in its northern regions. *[ARY](https://arynews.tv/pakistan-issues-high-alert-over-flood-risk-in-northern-areas)*
 
 ### Politics
-- Spanish Prime Minister Sanchez has ruled out Morocco's responsibility regarding the recent surge in migrants. *[ARY](https://arynews.tv/spains-sanchez-rules-out-responsibility-morocco-migrant-surge)*
+- US Army Secretary **Dan Driscoll** has tendered his resignation following a feud with Hegseth. *[ARY](https://arynews.tv/us-army-secretary-dan-driscoll-tenders-resignation)*
+- Prime Minister **Shehbaz Sharif** is set to assume Pakistan’s chairmanship of the SCO Council of Heads of State for the 2026–2027 term. *[Business Recorder](https://www.brecorder.com/news/40437309/sco-chs-for-2026-27-pm-to-assume-pakistans-chairmanship)*
+- **Bilawal Bhutto-Zardari** has dismissed social media rumors regarding his engagement and wedding. *[Business Recorder](https://www.brecorder.com/news/40437320/bilawal-refutes-reports-of-his-engagement-wedding)*
+- **Donald Trump’s** approval rating has hit a low of 33% amid dissatisfaction with the war in Iran and economic management. *[Business Recorder](https://www.brecorder.com/news/40437325/trumps-approval-stuck-at-33pc-democrats-appear-more-fired-up-for-midterms)*
 
 ### National
-- The sale of loose powdered milk has been banned in Quetta. *[ARY](https://arynews.tv/sale-of-loose-powdered-milk-banned-in-quetta)*
-- Legal experts have called for a Joint Investigation Team (JIT) in the Mir Raza Ali case, arguing a judicial commission is insufficient. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-cannot-investigate-murder-case-jibran-nasir-calls-for-jit)*
-- Senate and National Assembly committees have raised concerns that CCTV footage related to the PIMS fire may have been manipulated. *[ARY](https://arynews.tv/pims-fire-senate-na-committees-questions-cctv-footage)*
-- The FPSC has announced the written results for the CSS 2026 examinations. *[ARY](https://arynews.tv/fpsc-announces-css-2026-written-results)*
+- Citizens are now able to challenge incorrect **e-challans** through an online system. *[ARY](https://arynews.tv/citizens-can-challenge-wrong-e-challans-online)*
+- Authorities in Karachi have sealed an **illegal cigarette manufacturing** facility. *[ARY](https://arynews.tv/illegal-cigarette-manufacturing-facility-sealed-in-karachi)*
+- The Pakistani government has tightened regulations and reduced the quota for **blue passport** issuances. *[Business Recorder](https://www.brecorder.com/news/40437307/rules-for-blue-passport-issuance-tightened)*
+- The **AJK government** has begun a phased restoration of internet services across the state. *[Business Recorder](https://www.brecorder.com/news/40437312/ajk-begins-phased-restoration-of-internet-services)*
+- The **Lahore High Court** ruled that the marriage of any girl under the age of 18 is illegal under the Punjab Child Marriage Restraint Act 2026. *[Business Recorder](https://www.brecorder.com/news/40437322/lhc-rules-marriage-of-girl-under-18-illegal)*
 
 ### International
-- The Hague Court ruled that India cannot suspend the Indus Waters Treaty with Pakistan. *[ARY](https://arynews.tv/india-cannot-suspend-indus-waters-treaty-with-pakistan-hague-court-rules)*
-- A last-minute flood warning in Nepal successfully saved the lives of over 900 students and 16 faculty members. *[Business Recorder](https://www.brecorder.com/news/40437249/last-minute-flood-warning-saved-over-900-nepal-students-school-head-says)*
-- Turkiye is preparing a roadmap to facilitate other nations joining the defense pact between Pakistan, Turkiye, and Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40437246/turkiye-says-roadmap-being-prepared-for-others-to-join-defence-pact-with-pakistan-and-saudi-arabia)*
-- Iran's president expressed a desire for a negotiated end to the conflict with the U.S. following recent military exchanges. *[Business Recorder](https://www.brecorder.com/news/40437239/iran-still-wants-negotiated-end-to-war-president-says-after-exchanges-of-fire)*
-- Israel has signed a $3.5 billion air defense deal with Greece as part of Athens' military modernization. *[Business Recorder](https://www.brecorder.com/news/40437237/israel-signs-35-billion-air-defence-deal-with-greece)*
+- **Saudi Arabia** has mandated a 300-meter buffer zone for shared housing located near schools and hospitals. *[ARY](https://arynews.tv/saudi-arabia-imposes-300-meter-buffer-zone-for-shared-housing-near-schools-and-hospitals)*
+- **Kuwait** has officially resumed regular working hours. *[ARY](https://arynews.tv/kuwait-resumes-regular-working-hours)*
+- Officials report a rise in **bomb attacks** carried out by Mexican gangs, including the use of drones. *[Business Recorder](https://www.brecorder.com/news/40437360/bomb-attacks-by-mexican-gangs-on-the-rise-officials-say)*
+- **Pakistan** welcomed an international tribunal's ruling regarding the Indus Waters Treaty, while **India** has categorically rejected the decision. *[Business Recorder](https://www.brecorder.com/news/40437323/pakistan-welcomes-indus-waters-treaty-ruling) / [Business Recorder](https://www.brecorder.com/news/40437324/india-rejects-tribunal-decision)*
+- Ten **missing Iranian fishermen** have been found alive in the UAE and are expected to return home soon. *[Business Recorder](https://www.brecorder.com/news/40437326/iran-says-10-missing-fishermen-found-in-uae)*
 
-### Sports
-- Joe Root suggested that the use of new balls has contributed to the struggles of batsmen in England. *[ARY](https://arynews.tv/root-says-new-balls-behind-batsmens-struggles-in-england)*
+### Other
+- Prominent Pakistani businessman and Polani Group Chairman, **Yahya Polani**, has passed away. *[Business Recorder](https://www.brecorder.com/news/40437311/renowned-businessman-yahya-polani-passes-away)*
 
