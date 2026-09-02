@@ -7,49 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 02-Sep-2026 09:09PKT 
+ &lrm; 02-Sep-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پنجاب حکومت نے خواتین کاروباری افراد اور دستکاروں کے لیے 500 ملین روپے کے بلا سود قرضے کی سکیم منظور کر لی ہے۔ *[ARY](https://arynews.tv/punjab-approves-rs-500m-interest-free-loan-scheme-for-women-entrepreneurs-artisans)*
-- اوگرا نے پیٹرول اور ہائی اسپیڈ ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-high-speed-diesel-prices-increased-by-ogra)*
-- مہنگائی اور تیل کی قیمتوں میں اضافے کے باعث عالمی بانڈ مارکیٹ میں فروخت میں اضافہ ہوا ہے جس سے قرض لینے کی لاگت بڑھ رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437542/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets)*
-- تیل کی قیمتوں اور امریکی بانڈز کی شرح سود میں اضافے سے بھارتی روپیہ دباؤ کا شکار ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437541/rbis-bid-to-lift-indian-rupee-put-to-test-by-oil-us-yields)*
-- ایران کے ساتھ بڑھتی ہوئی کشیدگی اور تیل کی قیمتوں میں اضافے کی وجہ سے بھارتی شیئرز میں گراوٹ کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437539/indian-shares-to-fall-as-widening-iran-conflict-sends-oil-higher)*
-- امریکہ اور ایران کے درمیان لڑائی کے باعث ایشیائی مارکیٹوں میں مندی دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437538/asian-markets-tumble-as-us-iran-fighting-lifts-oil-and-bond-yields)*
-- مشرق وسطیٰ میں کشیدگی اور تیل کی قیمتوں میں اضافے سے ڈالر مضبوط رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437537/dollar-holds-firm-as-middle-east-hostilities-lift-oil)*
-- اسٹینڈرڈ چارٹرڈ بینک اور ڈولمین گروپ نے گھروں کی خریداری کے لیے خصوصی فنانسنگ کے حوالے سے شراکت داری کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437533/scb-dolmen-group-partner-to-introduce-exclusive-home-ownership)*
-- قسط بازار نے نجی طور پر 500 ملین روپے کے سکوک کے ذریعے فنڈز جمع کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437532/qistbazaar-raises-rs500m-through-privately-placed-sukuk)*
-- امریکہ اور ایران کے درمیان حملوں کے بعد تیل کی قیمتوں میں تقریباً 1 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437536/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes)*
-- ایف سی ای پی ایل اور سٹی پاکستان نے سپلائر فنانسنگ کو مضبوط بنانے کے لیے شراکت داری کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437530/fcepl-citi-pakistan-partner-to-strengthen-supplier-financing)*
-- پاکستان اور سعودی عرب کے درمیان غذائی اشیاء کی برآمدات کے لیے ایک مشترکہ ٹاسک فورس کے قیام کی تجویز پیش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437529/establishment-of-pakistan-saudi-arabia-food-export-task-force-urged)*
-- تیل کی قیمتوں اور شرح سود کے خدشات کے باعث سونے کی قیمتیں تین ہفتوں کی کم ترین سطح پر آگئیں۔ *[Business Recorder](https://www.brecorder.com/news/40437535/gold-hits-over-3-week-low-as-mideast-tensions-fan-rate-hike-fears)*
-- پاکستان میں مینوفیکچرنگ پی ایم آئی (PMI) اگست 2026 میں جنگ کے آغاز کے بعد بلند ترین سطح پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437449/hbl-pmi-manufacturing-activity-hits-highest-level-since-war-began)*
-- پاکستان اسٹیٹ آئل نے اپنے ڈیلر پارٹنرز کے لیے 'ایکسلنس ایوارڈز 2026' کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437451/pso-hosts-excellence-awards-2026-for-dealer-partners)*
-- کے الیکٹرک کراچی کے صنعتی شعبے کے لیے بجلی کی فراہمی بہتر بنانے کے لیے 15 ارب روپے کی سرمایہ کاری کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti)*
+- پیٹرول لیوی کے خلاف احتجاج کے سلسلے میں صدر، الیکٹرانکس اور موبائل مارکیٹیں بند رکھی جائیں گی۔ *[ARY](https://arynews.tv/saddar-electronics-and-mobile-markets-to-close-on-jis-call-against-petrol-levy)*
+- نایا ناظم آباد اپارٹمنٹس REIT کے لیے سرمایہ کاروں نے تقریباً 4.5 ارب روپے کی بولیاں لگائیں۔ *[Business Recorder](https://www.brecorder.com/news/40437605/naya-nazimabad-apartments-reit-book-building-attracts-total-bids-of-around-rs45bn)*
+- اوبر (Uber) انتظامیہ نے انتظامیہ کی تہوں کو کم کرنے اور اخراجات میں کمی کے لیے 10 فیصد عملے میں کٹوتی کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437598/uber-plans-10-workforce-cut-to-trim-management-layers)*
+- عالمی مارکیٹوں اور مشرق وسطیٰ کے تناؤ کی وجہ سے بھارتی حصص اور بانڈز میں گراوٹ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437600/indian-bonds-join-global-debt-selloff-bruised-by-oil-and-us-treasury-yields)*
+- بھارت میں سویا آئل کی درآمدات اگست میں ریکارڈ سطح پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40437595/indias-soyoil-imports-hit-record-high-in-august-and-palm-six-month-peak-dealers-say)*
+- پاکستان میں نئی رائڈ ہیولنگ ایپ 'Drivver' جلد ہی لانچ ہونے والی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437594/new-ride-hailing-platform-drivver-set-to-enter-pakistan-market)*
+- کیپری گلوبل (Capri Global) نے اپنی پہلی ڈالر ڈیبٹ سیل کامیابی سے مکمل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437593/capri-global-completes-debut-dollar-debt-sale)*
+- مشرق وسطیٰ میں بڑھتے ہوئے تناؤ کے باعث تانبے اور دیگر دھاتوں کی قیمتوں میں کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437591/copper-leads-base-metals-lower-as-middle-east-tensions-flare-up)*
+- بھارتی مرکزی بینک (RBI) نے روپے کی قدر کو مستحکم رکھنے کے لیے اقدامات تیز کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437597/indian-central-bank-steps-up-rupee-support-soaring-nri-deposits-bolster-firepower)*
+- کمزور طلب اور منافع کے حصول کے لیے فروخت کے باعث پام آئل کی قیمتوں میں کمی آئی۔ *[Business Recorder](https://www.brecorder.com/news/40437589/palm-falls-on-profit-taking-weak-demand)*
 
-### بین الاقوامی
-- امریکہ اور ایران کے درمیان حملوں کا تبادلہ جاری ہے جس سے جنگ کے دوبارہ شروع ہونے کا خدشہ ہے۔ *[ARY](https://arynews.tv/us-and-iran-exchange-attacks-as-lull-in-war-appears-over)*
-- امریکہ نے بحیرہ ہرمز کے قریب ایران پر تازہ حملے کیے ہیں۔ *[ARY](https://arynews.tv/us-launches-fresh-strikes-on-iran-around-strait-of-hormuz)*
-- امریکی فوج نے ایران میں آئی آر جی سی (IRGC) کے اہداف پر حملوں کا ایک نیا سلسلہ مکمل کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437540/us-military-says-it-completed-latest-wave-of-strikes-on-iran)*
-- لنڈسے کینسی کیس میں جیوری کے ممکنہ فیصلے کے حوالے سے قانونی صورتحال۔ *[ARY](https://arynews.tv/lindsay-clancy-verdict-five-ways-jury-could-decide-after-deadlock-report)*
-
-### کھیل
-- جنوبی افریقہ نے کوالیفائرز سے قبل موسیمانے کو نیا کوچ مقرر کر دیا ہے۔ *[ARY](https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers)*
-- بارسلونا نے برازیل کے اسٹار کھلاڑی جیسس کو اپنے ساتھ منسلک کر لیا ہے۔ *[ARY](https://arynews.tv/barcelona-sign-brazilian-striker-jesus)*
-- نیوکاسل نے بیلجیئم کے فارورڈ فرنینڈز پیارڈو کو سائن کر لیا ہے۔ *[ARY](https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo)*
-
-### قومی
-- ایف آئی اے نے حوالہ نیٹ ورک کے الزام میں چار مشتبہ افراد کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/fia-arrests-four-suspects-over-alleged-hawala-network)*
-- لاہور میں ایک ٹریفک وارڈن کے مبینہ دھکے سے شہری کی موت واقع ہوگئی ہے۔ *[ARY](https://arynews.tv/lahore-citizen-dies-after-alleged-push-by-traffic-warden)*
-- یونیورسٹی آف لاہور مکہ معاہدے کے اسٹریٹجک اثرات پر ایک بین الاقوامی کانفرنس کی میزبانی کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40437534/uol-to-host-intl-moot-on-implications-of-makkah-pact)*
-- خواتین کے لیے کام کی جگہوں کو محفوظ بنانے کی ضرورت پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437531/need-stressed-to-make-workplaces-safer-workplaces-for-women)*
+### سائنس اور ٹیکنالوجی
+- ایک نئی سپیکر ٹیکنالوجی متعارف کرائی گئی ہے جس سے صرف ایک شخص ہی بغیر ہیڈ فون کے آواز سن سکے گا۔ *[ARY](https://arynews.tv/new-speakers-let-just-one-person-hear-the-sound-without-headphones)*
+- کینیڈا کی ایک جھیل میں تیرتا ہوا عجیب و غریب جنگل سائنسدانوں اور سوشل میڈیا کے لیے حیرت کا باعث بنا ہے۔ *[ARY](https://arynews.tv/surreal-floating-forest-in-canadian-lake-stumps-scientists-social-media-abuzz)*
 
 ### سیاست
-- پی پی پی کے قانون سازوں نے سندھ کی تقسیم اور 'سندھ دیش' نظریے کی سخت مخالفت کی۔ *[Business Recorder](https://www.brecorder.com/news/40437450/ppp-lawmakers-oppose-any-division-of-sindh-sindhudesh-ideology)*
-- سندھ میں مقامی حکومت کے قانون میں مجوزہ ترامیم پر صوبائی کابینہ میں بحث کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437455/sindh-lg-law-proposed-amendments-discussed)*
+- امریکی صدر ڈونلڈ ٹرمپ کے معاونین نے نومبر کے انتخابات سے قبل ایران کے ساتھ جنگ میں شدت لانے سے گریز کرنے کی کوشش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437601/trump-aides-seek-quiet-in-iran-war-but-say-attacks-may-intensify-after-november-elections)*
 
-### موسم
-- کراچی، لاہور اور حیدرآباد سمیت دیگر شہروں کے موسم کی صورتحال اور آنے والے دن کی پیش گوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437447/the-weather)*
+### قومی
+- پولیس ملازمین کے بچوں کے لیے تعلیمی وظائف میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/education-scholarships-for-police-employees-children-increased)*
+- پولیس اہلکاروں کے مستعوذ (autistic) بچوں کے لیے تعلیمی وظائف کی رقم میں اضافہ کیا گیا ہے۔ *[ARY](https://arynews.tv/education-stipend-for-autistic-children-of-police-personnel-raised)*
+- ایس ایچ سی سی (SHCC) ناظم آباد کے نومولود کیس پر 120 دنوں کے اندر حتمی رپورٹ مکمل کرے گی۔ *[ARY](https://arynews.tv/shcc-to-complete-final-report-on-nazimabad-newborn-case-within-120-days)*
+
+### بین الاقوامی
+- امریکی طیارہ بردار بحری جہاز آرام کے لیے تھائی لینڈ پہنچ گیا۔ *[ARY](https://arynews.tv/us-aircraft-carrier-visits-thailand-for-well-deserved-rest-and-relaxation)*
+- چینی صدر شی جن پنگ نے مصر کے دورے کے دوران مشرق وسطیٰ میں نئے سیکورٹی فریم ورک کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437606/chinas-xi-urges-new-middle-east-security-framework-during-egypt-visit)*
+- پاکستان نے کہا ہے کہ اسلام آباد مفاہمت نامہ امریکہ اور ایران کے درمیان امن مذاکرات کے لیے ایک قابل عمل فریم ورک ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437604/islamabad-mou-remains-framework-for-us-iran-peace-talks-fo)*
+- صدر اردوان نے کہا ہے کہ ترکی شام (SCO) کی رکنیت کے امکانات پر غور کر سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437596/erdogan-says-turkiye-would-consider-full-membership-of-china-and-russia-led-security-bloc)*
+- نیپال میں گلیشیئر کے سیلاب میں بچ جانے والا ایک نیلا گھر سوشل میڈیا پر وائرل ہو گیا۔ *[ARY](https://arynews.tv/the-viral-turquoise-house-that-survived-the-devastating-nepalese-glacier-flash-flood)*
+
+### کھیل
+- بھارت کو 2027 کی پہلی خواتین چیمپئنز ٹرافی کی میزبانی کا حق مل گیا ہے۔ *[ARY](https://arynews.tv/india-grabs-hosting-rights-for-inaugural-womens-champions-trophy-2027-from-sri-lanka)*
+
+### صحت
+- پنجاب میں الرجی کی ادویات کے حوالے سے الرٹ جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/punjab-issues-alert-over-allergy-medicine)*
+- بھارت میں خوراک کے پیکٹ پر وارننگ لیبل لگانے کے مجوزہ قوانین پر بحث چھڑ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437592/too-weak-too-strict-indias-food-warning-labels-draw-fire-from-all-sides)*
+
+### دیگر
+- وینس فلم فیسٹیول میں ڈینی بوائل کی نئی فلم "Ink" کا آغاز ہوا جو برطانوی میڈیا کے حوالے سے ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437603/venice-film-shows-murdoch-shaking-up-hidebound-britain)*
+- میگی گلین ہال نے فلم سازی کی صنعت میں خواتین کے لیے درپیش نظامی رکاوٹوں پر بات کی۔ *[Business Recorder](https://www.brecorder.com/news/40437599/venices-gyllenhaal-says-women-directors-face-systemic-barriers)*
 
