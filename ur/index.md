@@ -7,50 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-Sep-2026 09:09PKT 
+ &lrm; 02-Sep-2026 09:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- للی (Lilly) نے آٹو امیون بیماریوں کے علاج کے لیے میرڈا بائیو سائنسز کو 2.88 ارب ڈالر میں خریدنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/lilly-to-buy-merida-biosciences-for-up-to-2-88-billion-in-autoimmune-drug-push)*
-- او جی آر اے (OGRA) کے نئے نوٹیفکیشن کے تحت پیٹرول کی قیمتوں میں اضافہ اور ڈیزل کی قیمتوں میں کمی کی گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-up-diesel-price-down-under-new-ogra-notification)*
-- ہانگ کانگ اسٹاک ایکسچینج میں شین (Shein) کے حصص کی قیمتوں میں ابتدائی ٹریڈنگ کے دوران کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437361/shein-shares-slide-in-long-awaited-hong-kong-trading-debut)*
-- مشرق وسطیٰ میں جاری لڑائی کی وجہ سے تیل کی قیمتوں میں اضافہ ہوا ہے، جس سے سپلائی میں رکاوٹ کا خدشہ بڑھ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437359/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks)*
-- بھارتی معاشی ترقی کے مضبوط اعداد و شمار کے باعث بھارتی اسٹاک مارکیٹ میں اضافے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437358/indian-shares-to-open-higher-on-strong-growth-data-middle-east-jitters-could-temper-optimism)*
-- امریکی لیبر مارکیٹ کے ڈیٹا اور مشرق وسطیٰ کے تناؤ کے باعث سونے کی قیمتوں میں استحکام دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437357/gold-muted-as-traders-await-us-jobs-data-monitor-mideast-tensions)*
-- عالمی بانڈ مارکیٹ میں فروخت اور تیل کی قیمت 91 ڈالر سے تجاوز کرنے سے اسٹاک مارکیٹوں پر دباؤ بڑھ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437356/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel)*
-- بینک آف جاپان میں شرح سود بڑھانے کے امکانات کے درمیان ین کی قدر میں استحکام برقرار رہا۔ *[Business Recorder](https://www.brecorder.com/news/40437355/yen-hangs-near-160-amid-boj-rate-hike-bets-dollar-wobbles)*
-- سیالکوٹ اور گوجرانوالہ میں خواتین کے لیے انٹرنیشنل ٹریڈ اور ڈیجیٹل ٹولز پر تربیتی سیشنز کا انعقاد کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437308/khadijah-women-entrepreneurship-programme-psw-tdap-host-two-sessions-in-sialkot-gujranwala)*
-- یونٹی فوڈز کے خلاف فنڈز کے غلط استعمال اور مالی بے ضابطگیوں کے الزام میں ایف آئی اے (FIA) نے مقدمہ درج کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437310/alleged-misuse-of-funds-secp-findings-lead-to-fia-case-against-food-co)*
-- چینی کمپنی چائنا ہوانینگ نے پاکستانی حکام پر ادائیگیوں کے بدلے غیر منصفانہ شرائط منوانے کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437321/give-and-take-arrangement-chinese-firm-accuses-authorities-of-forcing-it-to-accept-their-conditions)*
-
-### سائنس اور ٹیکنالوجی
-- متحدہ عرب امارات (UAE) میں اسٹار لنک (Starlink) انٹرنیٹ کی خدمات کا باقاعدہ آغاز ہو گیا ہے۔ *[ARY](https://arynews.tv/starlink-arrives-in-the-uae-presenting-new-options-for-internet-with-pricing-and-usage-details)*
-
-### موسم
-- اسلام آباد اور راولپنڈی میں شدید بارشوں کے باعث اسکولوں کو بند کرنے کا حکم دے دیا گیا ہے۔ *[ARY](https://arynews.tv/schools-closed-as-islamabad-rawalpindi-face-heavy-rains)*
-- پاکستان کے شمالی علاقوں میں سیلاب کے خطرے کے پیش نظر ہائی الرٹ جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-issues-high-alert-over-flood-risk-in-northern-areas)*
-
-### سیاست
-- امریکی فوج کے سیکرٹری ڈریسکول نے حالیہ تنازع کے بعد استعفیٰ دے دیا ہے۔ *[ARY](https://arynews.tv/us-army-secretary-dan-driscoll-tenders-resignation)*
-- وزیراعظم شہباز شریف 2026-27 کے لیے ایس سی او (SCO) کی سربراہی سنبھالیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40437309/sco-chs-for-2026-27-pm-to-assume-pakistans-chairmanship)*
-- بلاول بھٹو زرداری نے سوشل میڈیا پر اپنی شادی اور منگنی سے متعلق افواہوں کی تردید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437320/bilawal-refutes-reports-of-his-engagement-wedding)*
-- ڈونلڈ ٹرمپ کی منظوری کی شرح 33 فیصد پر برقرار ہے جبکہ ڈیموکریٹس کے درمیان سیاسی جوش و خروش بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437325/trumps-approval-stuck-at-33pc-democrats-appear-more-fired-up-for-midterms)*
-- سندھ کے پانی کے معاہدے (Indus Waters Treaty) پر بین الاقوامی ٹربیونل کے فیصلے کو پاکستان نے خوش آمدید کہا ہے جبکہ بھارت نے اسے مسترد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437323/pakistan-welcomes-indus-waters-treaty-ruling)*، *[Business Recorder](https://www.brecorder.com/news/40437324/india-rejects-tribunal-decision)*
-
-### قومی
-- شہری اب غلط ای-چالان کے خلاف آن لائن چیلنج پیش کر سکتے ہیں۔ *[ARY](https://arynews.tv/citizens-can-challenge-wrong-e-challans-online)*
-- کراچی میں سگریٹ بنانے کی ایک غیر قانونی فیکٹری کو سیل کر دیا گیا ہے۔ *[ARY](https://arynews.tv/illegal-cigarette-manufacturing-facility-sealed-in-karachi)*
-- حکومت نے بلیو پاسپورٹ کے اجراء کے قوانین مزید سخت کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437307/rules-for-blue-passport-issuance-tightened)*
-- آزاد کشمیر میں انٹرنیٹ سروسز کی بتدریج بحالی کا عمل شروع ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437312/ajk-begins-phased-restoration-of-internet-services)*
-- لاہور ہائی کورٹ نے حکم دیا ہے کہ 18 سال سے کم عمر لڑکیوں کی شادی غیر قانونی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437322/lhc-rules-marriage-of-girl-under-18-illegal)*
+- پنجاب حکومت نے خواتین کاروباری افراد اور دستکاروں کے لیے 500 ملین روپے کے بلا سود قرضے کی سکیم منظور کر لی ہے۔ *[ARY](https://arynews.tv/punjab-approves-rs-500m-interest-free-loan-scheme-for-women-entrepreneurs-artisans)*
+- اوگرا نے پیٹرول اور ہائی اسپیڈ ڈیزل کی قیمتوں میں اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-high-speed-diesel-prices-increased-by-ogra)*
+- مہنگائی اور تیل کی قیمتوں میں اضافے کے باعث عالمی بانڈ مارکیٹ میں فروخت میں اضافہ ہوا ہے جس سے قرض لینے کی لاگت بڑھ رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437542/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets)*
+- تیل کی قیمتوں اور امریکی بانڈز کی شرح سود میں اضافے سے بھارتی روپیہ دباؤ کا شکار ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437541/rbis-bid-to-lift-indian-rupee-put-to-test-by-oil-us-yields)*
+- ایران کے ساتھ بڑھتی ہوئی کشیدگی اور تیل کی قیمتوں میں اضافے کی وجہ سے بھارتی شیئرز میں گراوٹ کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437539/indian-shares-to-fall-as-widening-iran-conflict-sends-oil-higher)*
+- امریکہ اور ایران کے درمیان لڑائی کے باعث ایشیائی مارکیٹوں میں مندی دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437538/asian-markets-tumble-as-us-iran-fighting-lifts-oil-and-bond-yields)*
+- مشرق وسطیٰ میں کشیدگی اور تیل کی قیمتوں میں اضافے سے ڈالر مضبوط رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437537/dollar-holds-firm-as-middle-east-hostilities-lift-oil)*
+- اسٹینڈرڈ چارٹرڈ بینک اور ڈولمین گروپ نے گھروں کی خریداری کے لیے خصوصی فنانسنگ کے حوالے سے شراکت داری کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437533/scb-dolmen-group-partner-to-introduce-exclusive-home-ownership)*
+- قسط بازار نے نجی طور پر 500 ملین روپے کے سکوک کے ذریعے فنڈز جمع کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437532/qistbazaar-raises-rs500m-through-privately-placed-sukuk)*
+- امریکہ اور ایران کے درمیان حملوں کے بعد تیل کی قیمتوں میں تقریباً 1 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437536/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes)*
+- ایف سی ای پی ایل اور سٹی پاکستان نے سپلائر فنانسنگ کو مضبوط بنانے کے لیے شراکت داری کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437530/fcepl-citi-pakistan-partner-to-strengthen-supplier-financing)*
+- پاکستان اور سعودی عرب کے درمیان غذائی اشیاء کی برآمدات کے لیے ایک مشترکہ ٹاسک فورس کے قیام کی تجویز پیش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437529/establishment-of-pakistan-saudi-arabia-food-export-task-force-urged)*
+- تیل کی قیمتوں اور شرح سود کے خدشات کے باعث سونے کی قیمتیں تین ہفتوں کی کم ترین سطح پر آگئیں۔ *[Business Recorder](https://www.brecorder.com/news/40437535/gold-hits-over-3-week-low-as-mideast-tensions-fan-rate-hike-fears)*
+- پاکستان میں مینوفیکچرنگ پی ایم آئی (PMI) اگست 2026 میں جنگ کے آغاز کے بعد بلند ترین سطح پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437449/hbl-pmi-manufacturing-activity-hits-highest-level-since-war-began)*
+- پاکستان اسٹیٹ آئل نے اپنے ڈیلر پارٹنرز کے لیے 'ایکسلنس ایوارڈز 2026' کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437451/pso-hosts-excellence-awards-2026-for-dealer-partners)*
+- کے الیکٹرک کراچی کے صنعتی شعبے کے لیے بجلی کی فراہمی بہتر بنانے کے لیے 15 ارب روپے کی سرمایہ کاری کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti)*
 
 ### بین الاقوامی
-- سعودی عرب نے اسکولوں اور ہسپتالوں کے قریب رہائشی مکانات کے لیے 300 میٹر کا بفر زون مقرر کیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-imposes-300-meter-buffer-zone-for-shared-housing-near-schools-and-hospitals)*
-- کویت میں کام کے اوقات دوبارہ معمول کے مطابق شروع کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/kuwait-resumes-regular-working-hours)*
-- میکسیکو میں گینگوں کی جانب سے بم حملوں اور ڈرون حملوں میں اضافہ ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437360/bomb-attacks-by-mexican-gangs-on-the-rise-officials-say)*
-- متحدہ عرب امارات میں لاپتہ ہونے والے 10 ایرانی ماہی گیر مل گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437326/iran-says-10-missing-fishermen-found-in-uae)*
+- امریکہ اور ایران کے درمیان حملوں کا تبادلہ جاری ہے جس سے جنگ کے دوبارہ شروع ہونے کا خدشہ ہے۔ *[ARY](https://arynews.tv/us-and-iran-exchange-attacks-as-lull-in-war-appears-over)*
+- امریکہ نے بحیرہ ہرمز کے قریب ایران پر تازہ حملے کیے ہیں۔ *[ARY](https://arynews.tv/us-launches-fresh-strikes-on-iran-around-strait-of-hormuz)*
+- امریکی فوج نے ایران میں آئی آر جی سی (IRGC) کے اہداف پر حملوں کا ایک نیا سلسلہ مکمل کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437540/us-military-says-it-completed-latest-wave-of-strikes-on-iran)*
+- لنڈسے کینسی کیس میں جیوری کے ممکنہ فیصلے کے حوالے سے قانونی صورتحال۔ *[ARY](https://arynews.tv/lindsay-clancy-verdict-five-ways-jury-could-decide-after-deadlock-report)*
 
-### دیگر
-- معروف کاروباری شخصیت یحییٰ پولانی کا انتقال ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437311/renowned-businessman-yahya-polani-passes-away)*
+### کھیل
+- جنوبی افریقہ نے کوالیفائرز سے قبل موسیمانے کو نیا کوچ مقرر کر دیا ہے۔ *[ARY](https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers)*
+- بارسلونا نے برازیل کے اسٹار کھلاڑی جیسس کو اپنے ساتھ منسلک کر لیا ہے۔ *[ARY](https://arynews.tv/barcelona-sign-brazilian-striker-jesus)*
+- نیوکاسل نے بیلجیئم کے فارورڈ فرنینڈز پیارڈو کو سائن کر لیا ہے۔ *[ARY](https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo)*
+
+### قومی
+- ایف آئی اے نے حوالہ نیٹ ورک کے الزام میں چار مشتبہ افراد کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/fia-arrests-four-suspects-over-alleged-hawala-network)*
+- لاہور میں ایک ٹریفک وارڈن کے مبینہ دھکے سے شہری کی موت واقع ہوگئی ہے۔ *[ARY](https://arynews.tv/lahore-citizen-dies-after-alleged-push-by-traffic-warden)*
+- یونیورسٹی آف لاہور مکہ معاہدے کے اسٹریٹجک اثرات پر ایک بین الاقوامی کانفرنس کی میزبانی کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40437534/uol-to-host-intl-moot-on-implications-of-makkah-pact)*
+- خواتین کے لیے کام کی جگہوں کو محفوظ بنانے کی ضرورت پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437531/need-stressed-to-make-workplaces-safer-workplaces-for-women)*
+
+### سیاست
+- پی پی پی کے قانون سازوں نے سندھ کی تقسیم اور 'سندھ دیش' نظریے کی سخت مخالفت کی۔ *[Business Recorder](https://www.brecorder.com/news/40437450/ppp-lawmakers-oppose-any-division-of-sindh-sindhudesh-ideology)*
+- سندھ میں مقامی حکومت کے قانون میں مجوزہ ترامیم پر صوبائی کابینہ میں بحث کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437455/sindh-lg-law-proposed-amendments-discussed)*
+
+### موسم
+- کراچی، لاہور اور حیدرآباد سمیت دیگر شہروں کے موسم کی صورتحال اور آنے والے دن کی پیش گوئی۔ *[Business Recorder](https://www.brecorder.com/news/40437447/the-weather)*
 
