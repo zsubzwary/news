@@ -4,50 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 01-Sep-2026 09:04PKT
+Published at: 02-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- **Lilly** has announced plans to acquire Merida Biosciences for up to $2.88 billion to bolster its autoimmune drug portfolio. *[ARY](https://arynews.tv/lilly-to-buy-merida-biosciences-for-up-to-2-88-billion-in-autoimmune-drug-push)*
-- Under a new OGRA notification, **petrol prices** have increased while **diesel prices** have decreased. *[ARY](https://arynews.tv/petrol-price-up-diesel-price-down-under-new-ogra-notification)*
-- **Shein's** shares experienced a decline during its highly anticipated trading debut in Hong Kong. *[Business Recorder](https://www.brecorder.com/news/40437361/shein-shares-slide-in-long-awaited-hong-kong-trading-debut)*
-- **Oil prices** rose above $90 a barrel, driven by renewed fighting between the US and Iran in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40437359/oil-prices-rise-as-latest-fighting-resurrects-middle-east-supply-disruption-risks)*
-- **Indian shares** are projected to open higher following strong growth data, despite potential volatility from rising crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40437358/indian-shares-to-open-higher-on-strong-growth-data-middle-east-jitters-could-temper-optimism)*
-- **Gold prices** remained subdued as market participants await key US labor market data. *[Business Recorder](https://www.brecorder.com/news/40437357/gold-muted-as-traders-await-us-jobs-data-monitor-mideast-tensions)*
-- **Global bond yields** reached new highs, putting downward pressure on stock markets as oil prices surged. *[Business Recorder](https://www.brecorder.com/news/40437356/bond-selloff-pressures-stocks-as-oil-crosses-91-a-barrel)*
-- The **Japanese yen** remains steady near the 160 level amid speculation regarding Bank of Japan rate hikes. *[Business Recorder](https://www.brecorder.com/news/40437355/yen-hangs-near-160-amid-boj-rate-hike-bets-dollar-wobbles)*
-- The **Khadijah Women Entrepreneurship Programme** hosted specialized sessions in Sialkot and Gujranwala to support female entrepreneurs. *[Business Recorder](https://www.brecorder.com/news/40437308/khadijah-women-entrepreneurship-programme-psw-tdap-host-two-sessions-in-sialkot-gujranwala)*
-- The **FIA** has registered a criminal case against Unity Foods Limited following SECP findings of alleged fund misuse and financial irregularities. *[Business Recorder](https://www.brecorder.com/news/40437310/alleged-misuse-of-funds-secp-findings-lead-to-fia-case-against-food-co)*
-- **China Huaneng** has accused Pakistani authorities of pressuring the company into a "give-and-take" arrangement regarding capacity payments. *[Business Recorder](https://www.brecorder.com/news/40437321/give-and-take-arrangement-chinese-firm-accuses-authorities-of-forcing-it-to-accept-their-conditions)*
-
-### Science & Technology
-- **Starlink** has arrived in the UAE, providing new internet connectivity options and pricing details. *[ARY](https://arynews.tv/starlink-arrives-in-the-uae-presenting-new-options-for-internet-with-pricing-and-usage-details)*
+- Punjab has approved a **Rs 500 million interest-free loan scheme** aimed at supporting women entrepreneurs and artisans. *[ARY](https://arynews.tv/punjab-approves-rs-500m-interest-free-loan-scheme-for-women-entrepreneurs-artisans)*
+- OGRA has announced an **increase in prices** for petrol and high-speed diesel. *[ARY](https://arynews.tv/petrol-high-speed-diesel-prices-increased-by-ogra)*
+- Global **bond selloffs are deepening** as inflation fears and rising energy prices drive borrowing costs higher. *[Business Recorder](https://www.brecorder.com/news/40437542/bond-selloff-deepens-as-inflation-oil-prices-jolt-markets)*
+- The **Indian rupee** is facing pressure from rising U.S. Treasury yields and surging oil prices. *[Business Recorder](https://www.brecorder.com/news/40437541/rbis-bid-to-lift-indian-rupee-put-to-test-by-oil-us-yields)*
+- **Indian shares** are expected to decline following the intensification of the US-Iran conflict and subsequent rise in oil prices. *[Business Recorder](https://www.brecorder.com/news/40437539/indian-shares-to-fall-as-widening-iran-conflict-sends-oil-higher)*
+- **Asian markets** experienced a slump as global bond selloffs and rising oil prices impacted the region. *[Business Recorder](https://www.brecorder.com/news/40437538/asian-markets-tumble-as-us-iran-fighting-lifts-oil-and-bond-yields)*
+- The **U.S. Dollar** remains strong as Middle East hostilities drive up oil prices and revive inflation concerns. *[Business Recorder](https://www.brecorder.com/news/40437537/dollar-holds-firm-as-middle-east-hostilities-lift-oil)*
+- Standard Chartered Bank Pakistan and **Dolmen Group** have partnered to offer exclusive financing for premium home ownership. *[Business Recorder](https://www.brecorder.com/news/40437533/scb-dolmen-group-partner-to-introduce-exclusive-home-ownership)*
+- **QistBazaar** successfully raised PKR 500 million through its first privately placed Sukuk issuance. *[Business Recorder](https://www.brecorder.com/news/40437532/qistbazaar-raises-rs500m-through-privately-placed-sukuk)*
+- **Oil prices** have risen by nearly 1% due to heightened supply disruption concerns following strikes between the US and Iran. *[Business Recorder](https://www.brecorder.com/news/40437536/oil-up-nearly-1-as-us-and-iran-trade-fresh-strikes)*
+- **FCEPL and Citi Pakistan** have entered a partnership to strengthen supplier financing and supply chain resilience. *[Business Recorder](https://www.brecorder.com/news/40437530/fcepl-citi-pakistan-partner-to-strengthen-supplier-financing)*
+- A proposal has been made to establish a **Pakistan–Saudi Arabia Agri-Food Export Task Force** to boost food exports. *[Business Recorder](https://www.brecorder.com/news/40437529/establishment-of-pakistan-saudi-arabia-food-export-task-force-urged)*
+- **Gold prices** hit a three-week low as Middle East tensions fuel fears of inflation and interest rate hikes. *[Business Recorder](https://www.brecorder.com/news/40437535/gold-hits-over-3-week-low-as-mideast-tensions-fan-rate-hike-fears)*
+- The **HBL Pakistan Manufacturing PMI** reached its highest level since the start of the war, hitting 51.8 in August. *[Business Recorder](https://www.brecorder.com/news/40437449/hbl-pmi-manufacturing-activity-hits-highest-level-since-war-began)*
+- **Pakistan State Oil (PSO)** hosted its Excellence Awards 2026 to recognize outstanding retail performance from dealer partners. *[Business Recorder](https://www.brecorder.com/news/40437451/pso-hosts-excellence-awards-2026-for-dealer-partners)*
+- **K-Electric** is investing Rs 15 billion to upgrade power infrastructure and ensure reliable supply for Karachi's industrial sector. *[Business Recorder](https://www.brecorder.com/news/40437454/ke-investing-rs15bn-to-improve-power-infrastructure-chishti)*
 
 ### Weather
-- **Schools** in Islamabad and Rawalpindi have been closed due to heavy rainfall. *[ARY](https://arynews.tv/schools-closed-as-islamabad-rawalpindi-face-heavy-rains)*
-- Pakistan has issued a **high alert** due to potential flood risks in its northern regions. *[ARY](https://arynews.tv/pakistan-issues-high-alert-over-flood-risk-in-northern-areas)*
+- Weather forecasts for **Karachi, Lahore, and Hyderabad** indicate continued warm temperatures with varying humidity levels. *[Business Recorder](https://www.brecorder.com/news/40437447/the-weather)*
 
 ### Politics
-- US Army Secretary **Dan Driscoll** has tendered his resignation following a feud with Hegseth. *[ARY](https://arynews.tv/us-army-secretary-dan-driscoll-tenders-resignation)*
-- Prime Minister **Shehbaz Sharif** is set to assume Pakistan’s chairmanship of the SCO Council of Heads of State for the 2026–2027 term. *[Business Recorder](https://www.brecorder.com/news/40437309/sco-chs-for-2026-27-pm-to-assume-pakistans-chairmanship)*
-- **Bilawal Bhutto-Zardari** has dismissed social media rumors regarding his engagement and wedding. *[Business Recorder](https://www.brecorder.com/news/40437320/bilawal-refutes-reports-of-his-engagement-wedding)*
-- **Donald Trump’s** approval rating has hit a low of 33% amid dissatisfaction with the war in Iran and economic management. *[Business Recorder](https://www.brecorder.com/news/40437325/trumps-approval-stuck-at-33pc-democrats-appear-more-fired-up-for-midterms)*
+- **PPP lawmakers** have expressed strong opposition to any division of Sindh or the "Sindhudesh" ideology. *[Business Recorder](https://www.brecorder.com/news/40437450/ppp-lawmakers-oppose-any-division-of-sindh-sindhudesh-ideology)*
+- The **Sindh provincial cabinet** approved local government reforms, digital mapping of Katcha land, and support packages for wheat growers. *[Business Recorder](https://www.brecorder.com/news/40437455/sindh-lg-law-proposed-amendments-discussed)*
 
 ### National
-- Citizens are now able to challenge incorrect **e-challans** through an online system. *[ARY](https://arynews.tv/citizens-can-challenge-wrong-e-challans-online)*
-- Authorities in Karachi have sealed an **illegal cigarette manufacturing** facility. *[ARY](https://arynews.tv/illegal-cigarette-manufacturing-facility-sealed-in-karachi)*
-- The Pakistani government has tightened regulations and reduced the quota for **blue passport** issuances. *[Business Recorder](https://www.brecorder.com/news/40437307/rules-for-blue-passport-issuance-tightened)*
-- The **AJK government** has begun a phased restoration of internet services across the state. *[Business Recorder](https://www.brecorder.com/news/40437312/ajk-begins-phased-restoration-of-internet-services)*
-- The **Lahore High Court** ruled that the marriage of any girl under the age of 18 is illegal under the Punjab Child Marriage Restraint Act 2026. *[Business Recorder](https://www.brecorder.com/news/40437322/lhc-rules-marriage-of-girl-under-18-illegal)*
+- The **FIA** has arrested four suspects involved in an alleged hawala network. *[ARY](https://arynews.tv/fia-arrests-four-suspects-over-alleged-hawala-network)*
+- A **Lahore citizen** reportedly died following an alleged push by a traffic warden. *[ARY](https://arynews.tv/lahore-citizen-dies-after-alleged-push-by-traffic-warden)*
+- The **University of Lahore (UoL)** will host an international conference to discuss the strategic implications of the Makkah Defence Agreement. *[Business Recorder](https://www.brecorder.com/news/40437534/uol-to-host-intl-moot-on-implications-of-makkah-pact)*
+- **FOSPAH** has emphasized the urgent need to create safer workplaces for women in Pakistan to combat harassment. *[Business Recorder](https://www.brecorder.com/news/40437531/need-stressed-to-make-workplaces-safer-workplaces-for-women)*
 
 ### International
-- **Saudi Arabia** has mandated a 300-meter buffer zone for shared housing located near schools and hospitals. *[ARY](https://arynews.tv/saudi-arabia-imposes-300-meter-buffer-zone-for-shared-housing-near-schools-and-hospitals)*
-- **Kuwait** has officially resumed regular working hours. *[ARY](https://arynews.tv/kuwait-resumes-regular-working-hours)*
-- Officials report a rise in **bomb attacks** carried out by Mexican gangs, including the use of drones. *[Business Recorder](https://www.brecorder.com/news/40437360/bomb-attacks-by-mexican-gangs-on-the-rise-officials-say)*
-- **Pakistan** welcomed an international tribunal's ruling regarding the Indus Waters Treaty, while **India** has categorically rejected the decision. *[Business Recorder](https://www.brecorder.com/news/40437323/pakistan-welcomes-indus-waters-treaty-ruling) / [Business Recorder](https://www.brecorder.com/news/40437324/india-rejects-tribunal-decision)*
-- Ten **missing Iranian fishermen** have been found alive in the UAE and are expected to return home soon. *[Business Recorder](https://www.brecorder.com/news/40437326/iran-says-10-missing-fishermen-found-in-uae)*
+- **US and Iran** have exchanged attacks, marking a significant escalation in the conflict. *[ARY](https://arynews.tv/us-and-iran-exchange-attacks-as-lull-in-war-appears-over)*
+- The **US military** completed a wave of strikes targeting IRGC air defense sites, radar systems, and maritime assets. *[Business Recorder](https://www.brecorder.com/news/40437540/us-military-says-it-completed-latest-wave-of-strikes-on-iran)*
+- Fresh **US airstrikes** were launched against Iran near the Strait of Hormuz. *[ARY](https://arynews.tv/us-launches-fresh-strikes-on-iran-around-strait-of-hormuz)*
+- The **Lindsay Clancy verdict** faces potential outcomes following a reported jury deadlock. *[ARY](https://arynews.tv/lindsay-clancy-verdict-five-ways-jury-could-decide-after-deadlock-report)*
 
-### Other
-- Prominent Pakistani businessman and Polani Group Chairman, **Yahya Polani**, has passed away. *[Business Recorder](https://www.brecorder.com/news/40437311/renowned-businessman-yahya-polani-passes-away)*
+### Sports
+- **South Africa** has appointed Mosimane as their new coach ahead of upcoming qualifiers. *[ARY](https://arynews.tv/south-africa-names-mosimane-new-coach-before-qualifiers)*
+- **Barcelona** has completed the signing of Brazilian striker Jesus. *[ARY](https://arynews.tv/barcelona-sign-brazilian-striker-jesus)*
+- **Newcastle** has signed Belgian forward Fernandez-Pardo. *[ARY](https://arynews.tv/newcastle-sign-belgium-forward-fernandez-pardo)*
 
