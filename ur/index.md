@@ -7,53 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 03-Sep-2026 09:11PKT 
+ &lrm; 03-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- **بھارتی حصص** میں بحالی کی توقع ہے، تاہم بلند تیل کی قیمتیں اس پر دباؤ ڈال سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437726/indian-shares-likely-to-rebound-after-recent-slide-higher-oil-prices-to-cap-upside)*
-- ایشیا میں **حصص اور بانڈز** میں بحالی دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437725/shares-bonds-rally-as-markets-await-signals-for-fed-rates)*
-- امریکی ڈالر اور بانڈز کی قیمتوں میں کمی کے باعث **سونے کی قیمتوں** میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437724/gold-rises-as-dollar-and-yields-ease-with-us-nonfarm-payrolls-report-in-spotlight)*
-- **جاپانی ین** کی قیمت میں اچانک اضافے نے ڈالر پر دباؤ ڈالا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437723/yen-in-the-spotlight-after-sudden-jump)*
-- ایران اور امریکہ کے درمیان فوجی کارروائیوں کے باعث **تیل کی قیمتوں** میں کمی آئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437722/oil-edges-down-as-investors-weigh-uncertainty-over-us-iran-strikes)*
-- احسن اقبال نے گلگت بلتستان میں **100 میگاواٹ کے شمسی منصوبے** پر تیزی سے کام کرنے کی ہدایت کی۔ *[ARY](https://arynews.tv/ahsan-iqbal-directs-fast-track-implementation-of-100mw-solar-project-in-gb)*
-- بیکر ہیوز اور او جی ڈی سی ایل کے درمیان **توانائی کا ایک اہم معاہدہ** طے پا گیا۔ *[ARY](https://arynews.tv/baker-hughes-signs-landmark-energy-agreement-with-ogdcl)*
-- پنجاب حکومت نے **ای-بائیک اسکیم** کے تحت طلباء سے ڈاؤن پیمنٹ لینے کی تجاویز مسترد کر دیں۔ *[Business Recorder](https://www.brecorder.com/news/40437717/e-bike-scheme-cm-rejects-proposals-for-down-payment-charges-other-than-monthly-instalments-from-students)*
-- اے ڈی بی نے پاکستان کی **میکرو اکنامک بہتری** اور ریٹنگ اپ گریڈ کو سراہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437709/adb-lauds-macroeconomic-progress-sovereign-rating-upgrades)*
-- عالمی سطح پر تیل کی قیمتوں میں اضافے کے باعث **پٹرولیم کی قیمتوں** میں اضافہ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437710/petrol-price-hiked-by-rs2.29-hsds-by-rs1.11)*
-- ڈیجیٹل تجارت میں شفافیت کے لیے **مرکزی مرچنٹ ڈیٹا بیس** بنانے کی تجویز دی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437712/real-time-transaction-visibility-centralised-merchant-database-proposed)*
-- شیورون اور اینی نے **وینزویلا میں تیل کے منصوبوں** کو وسعت دینے کا عزم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437713/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye)*
-- ورلڈ بینک پاکستان کے لیے **300 ملین ڈالر کے امدادی پیکج** کی تیاری کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437714/world-bank-plans-package-to-support-transition-to-investment-led-growth)*
-- وفاقی وزیر خزانہ نے ڈوئچ بینک کے حکام کے ساتھ **پاکستان کے معاشی منظر نامے** پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437715/aurangzeb-deutsche-bank-official-discuss-economic-outlook)*
+- پاکستان کے **زرمبادلہ کے ذخائر** میں 19 ملین ڈالر کا اضافہ ہو کر یہ 17.12 ارب ڈالر تک پہنچ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437789/pakistans-forex-reserves-rise-19m-to-1712bn)*
+- پاکستان نے برآمدات کو بحران سے نکلنے کا واحد راستہ قرار دیتے ہوئے **ایشیائی ترقیاتی بینک (ADB)** سے مہارت حاصل کرنے کی درخواست کی ہے۔ *[ARY](https://arynews.tv/pakistan-says-exports-only-way-out-of-an-existential-crisis-seeks-adb-expertise)*
+- پاکستان اسٹاک ایکسچینج نے موسمیاتی تبدیلی کے منصوبوں کے لیے سرمایہ کاری بڑھانے کے لیے برطانیہ کے **MOBILIST** پروگرام کے ساتھ شراکت داری کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437788/psx-partners-with-uks-mobilist-to-boost-sustainable-finance)*
+- امریکہ کا **قرض** 40 ٹریلین ڈالر سے تجاوز کر گیا ہے جبکہ قرض لینے کے اخراجات میں اضافہ ہو رہا ہے۔ *[ARY](https://arynews.tv/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise)*
+- پے پال (PayPal) نے اپنے ری اسٹرکچرنگ پلان کے تحت بھارت میں **220 ملازمتیں** ختم کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437790/paypal-cuts-220-india-jobs-as-part-of-previously-announced-restructuring-plan-source-says)*
+- بھارتی سپریم کورٹ نے نیشنل اسٹاک ایکسچینج (NSE) کے خلاف مارکیٹ ریگولیٹر کی **اپیل مسترد** کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437786/india-top-court-dismisses-market-regulators-plea-against-nse-reports)*
+- بھارتی ریگولیٹر SEBI نے میوچل فنڈز کے لیے **کیش مارکیٹ ٹریڈز** کے نیٹ سیٹلمنٹ کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437785/sebi-proposes-net-settlement-of-cash-market-trades-for-mutual-funds)*
+- سری لنکا کے حصص میں **میٹریل اسٹاکس** کی وجہ سے اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437783/material-stocks-lift-sri-lankan-shares-higher)*
+- دبئی کی قیادت میں **خلیجی ممالک** کے اسٹاک مارکیٹس میں اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437782/dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment)*
+- بھارت کی علاقائی ایئر لائن **Fly91** نے 40 ATR ٹربو پروپس کا بڑا آرڈر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437774/indias-fly91-orders-40-atr-turboprops-in-bet-on-smaller-cities)*
+- سپلائی میں کمی کے باعث **ایلومینیم** کی قیمتیں تین ہفتوں کی بلند ترین سطح پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40437773/aluminium-climbs-to-three-week-high-as-tightness-back-in-focus)*
+- بھارتی ریزرو بینک (RBI) نے بانڈ بائی بیک کی نیلامی میں تمام **بولیوں کو مسترد** کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437772/rbi-rejects-all-bids-in-bond-buyback)*
+- بھارت نے سکیورٹی اور ڈیٹا کے خدشات کی وجہ سے **Alipay+** کے ساتھ ادائیگیوں کے لنک کو روک دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437780/india-stalls-alipay-payments-link-over-security-data-concerns-sources-say)*
 
 ### سائنس اور ٹیکنالوجی
-- سیٹلائٹ کی بڑھتی ہوئی طلب کو پورا کرنے کے لیے **یورپ خلائی لانچوں** میں تیزی لا سکتا ہے۔ *[ARY](https://arynews.tv/europe-may-accelerate-space-launches-to-meet-satellite-demand)*
+- ایپل نے اپنے **iOS 27** میں نیا آئی فون ہینڈ آف فیچر متعارف کرایا ہے۔ *[ARY](https://arynews.tv/apple-adds-new-iphone-handoff-feature-to-ios-27)*
+- ایپل اپنے پہلے **فولڈ ایبل آئی فون** پر فیس آئی ڈی کے بجائے سائیڈ فنگر پرنٹ اسکینر استعمال کرے گا۔ *[ARY](https://arynews.tv/apple-drops-face-id-on-first-foldable-iphone-for-side-fingerprint-scanner)*
+- عالمی جدت کے مقابلے کے دوران ٹیک کے ماہرین کا ایک بڑا ہجوم **چین** کا رخ کر رہا ہے۔ *[ARY](https://arynews.tv/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up)*
+- ایلون مسک کا ماننا ہے کہ **مصنوعی ذہانت (AI)** 2027 تک ڈیجیٹل کاموں میں انسانوں سے آگے نکل جائے گی۔ *[ARY](https://arynews.tv/elon-musk-believes-ai-will-surpass-humans-in-digital-tasks-by-2027)*
+- بھارت کی بھارت فورج اور فرانس کی **Thales** کے درمیان راکٹ سسٹمز بنانے کے لیے اتحاد طے پایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437781/indias-bharat-forge-unit-frances-thales-sign-rocket-systems-alliance)*
+
+### موسم
+- NDMA نے اگلے 72 گھنٹوں کے لیے شمالی علاقوں میں **سیلاب اور لینڈ سلائیڈنگ** کا الرٹ جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437777/ndma-issues-flood-alert-for-northern-areas-over-next-72-hours)*
+- نیپال کی وادی میں **شدید سیلاب** کے باعث بڑے پیمانے پر تباہی ہوئی ہے اور کئی کارکن پھنسے ہوئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437787/in-flood-ravaged-nepal-valley-nothing-is-left-standing)*
 
 ### سیاست
-- جماعت اسلامی نے **پیٹرولیم لیوی اور مہنگائی** کے خلاف مہم تیز کرنے کا عزم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437718/ji-vows-to-step-up-campaign-after-todays-strike)*
-- پنجاب اسمبلی نے **مہارتوں کی ترقی اور انٹرپرینیورشپ اتھارٹی بل** منظور کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437720/pa-approves-skills-development-amp-entrepreneurship-authority-bill-2026)*
-- **نئی صوبوں کے قیام** کے لیے اتفاقِ رائے کے بغیر فیصلہ کرنا ناکام رہے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437716/creation-of-new-provinces-any-decision-without-consensus-would-fail-to-yield-positive-results)*
-- واپڈا سیکیورٹی فورس بل کی منظوری پر وفاقی اسمبلی کی کمیٹی میں **مزید تاخیر**۔ *[Business Recorder](https://www.brecorder.com/news/40437711/wapda-security-force-bill-na-body-again-defers-approval-after-lawmakers-objections)*
-- **پانی کو بطور ہتھیار** استعمال کرنے کے حوالے سے خبردار کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437619/weaponising-a-lifeline)*
+- حکومت اور جماعت اسلامی نے مہنگائی اور پیٹرولیم کی قیمتوں میں کمی کے لیے **کمیٹیوں کی تشکیل** پر اتفاق کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437779/govt-ji-agree-to-form-committees-to-explore-relief-measures)*
+- اسرائیل کے وزیر دفاع نے ایران کو متنبہ کیا ہے کہ اگر اس نے حملہ کیا تو اسرائیل اس کے **توانائی اور شہری ڈھانچے** پر حملہ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437776/israels-katz-threatens-broad-retaliation-if-iran-attacks-israel)*
 
 ### قومی
-- میئر کراچی نے شہر میں جاری **سڑکوں کے ترقیاتی منصوبوں** کا معائنہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437719/mayor-karachi-inspects-road-projects-criticises-political-rivals)*
-- پاکستان اور کرغزستان کے درمیان **دو طرفہ معاہدوں** پر دستخط ہوئے۔ *[ARY](https://arynews.tv/pakistan-kyrgyzstan-sign-bilateral-accords-to-strengthen-multi-sectoral-ties)*
+- پاکستان ایکسپریس وے کی تعمیر سے **کراچی اور کوئٹہ** کے درمیان سفر کا وقت کم ہو جائے گا۔ *[ARY](https://arynews.tv/pakistan-expressway-to-cut-karachi-quetta-travel-time)*
+- یومِ دفاع کے پیش نظر پاکستان **سائبر حملوں** کے ممکنہ خطرے کے باعث ہائی الرٹ پر ہے۔ *[ARY](https://arynews.tv/pakistan-on-high-alert-over-possible-cyber-attacks-ahead-of-defence-day)*
+- ایک انکوائری میں پایا گیا کہ افسران کو **SSP فدا جنوری** کے احکامات کے بغیر بھیجا گیا تھا۔ *[ARY](https://arynews.tv/defence-womens-dispute-inquiry-finds-officers-were-sent-without-ssp-fida-janwaris-orders)*
 
 ### بین الاقوامی
-- ایران اور امریکہ کے درمیان حالیہ حملوں کے بعد **تجارتی دھمکیوں** کا خدشہ پیدا ہو گیا ہے۔ *[ARY](https://arynews.tv/iran-us-trade-threats-after-fresh-strikes)*
-- امریکہ بچوں کے پاسپورٹ کے لیے والدین سے **شہریت کا ثبوت** مانگ سکتا ہے۔ *[ARY](https://arynews.tv/us-may-ask-parents-to-prove-citizenship-or-immigration-status-to-get-passports-for-their-children)*
-- ایران میں فوجی کارروائیوں کے نتیجے میں **شہری ہلاکتوں** پر تشویش کا اظہار کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437727/iran-war-escalation-raises-concern-over-civilian-death-toll)*
-- چارلی کرک کے قتل کے کیس میں **ٹائلر رابنسن** نے خود کو بے گناہ قرار دیا۔ *[ARY](https://arynews.tv/tyler-robinson-pleads-not-guilty-as-utah-judge-approves-capital-trial-in-charlie-kirk-murder-case)*
+- بھارت میں ایک فیکٹری حادثے کے دوران **Sundrop Brands** کے ایک ملازم کی موت واقع ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437791/indias-sundrop-brands-says-employee-dies-in-south-india-factory-accident)*
+- بھارت میں فوڈ سیفٹی مہم کے دوران نیپالی کمپنی کے **نوڈلز** کے خلاف کارروائی کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437784/india-food-safety-crackdown-targets-company-of-nepals-noodle-king)*
+- بھارت میں غیر قانونی لیبلنگ کے واقعات کے بعد **کینیڈا** اپنی درآمدات کے خطرات کا جائزہ لے رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437778/canada-assesses-risks-to-imports-after-india-raid-finds-fake-labels-on-food-products)*
 
 ### کھیل
-- **کنگ چارلس** نے پاکستان کرکٹ ٹیم سے ملاقات کی۔ *[ARY](https://arynews.tv/king-charles-meets-pakistan-cricket-team-at-clarence-house)*
-
-### صحت
-- الٹریہ نے تمباکو کی مصنوعات کے جائزے کے نظام پر **ای ایف ڈی اے کے خلاف** مقدمہ دائر کر دیا۔ *[ARY](https://arynews.tv/altria-sues-fda-over-tobacco-product-review-system)*
-- پی سی جے سی سی آئی نے **گوادر فرینڈ شپ ہسپتال** کے ماڈل کو ملک بھر میں پھیلانے کی سفارش کی۔ *[Business Recorder](https://www.brecorder.com/news/40437721/pcjcci-seeks-replication-of-gwadar-friendship-hospital-model-across-country)*
-
-### دیگر
-- سپر سمیش بروز الٹیمیٹ کے آن لائن مقابلے کے مسئلے کو حل کرنے کے لیے **نیا پیچ** جاری کر دیا گیا ہے۔ *[ARY](https://arynews.tv/super-smash-bros-ultimate-patch-13-0-5-released-to-fix-major-online-battle-glitch)*
+- اسٹوارٹ براڈ نے پاکستان کو **کمزور ٹیم** قرار دینے پر افسوس کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/stuart-broad-regrets-calling-pakistan-a-poor-side)*
+- یووینٹس کے کھلاڑی **کیفی رین تھورم** کی گھٹنے کی سرجری کامیابی سے مکمل ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437775/juventus-midfielder-thuram-undergoes-knee-surgery)*
 
