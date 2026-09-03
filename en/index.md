@@ -4,51 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 03-Sep-2026 09:04PKT
+Published at: 03-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Indian shares are expected to rebound despite pressure from high oil prices and Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40437726/indian-shares-likely-to-rebound-after-recent-slide-higher-oil-prices-to-cap-upside)*
-- Asian markets saw a relief rally in shares and bonds as investors await signals from the US Federal Reserve. *[Business Recorder](https://www.brecorder.com/news/40437725/shares-bonds-rally-as-markets-await-signals-for-fed-rates)*
-- Gold prices rose as the US dollar and Treasury yields eased ahead of important US employment data. *[Business Recorder](https://www.brecorder.com/news/40437724/gold-rises-as-dollar-and-yields-ease-with-us-nonfarm-payrolls-report-in-spotlight)*
-- The Japanese yen maintained its gains following a sudden surge that may have been driven by government intervention. *[Business Recorder](https://www.brecorder.com/news/40437723/yen-in-the-spotlight-after-sudden-jump)*
-- Oil prices edged lower as investors weigh the impact of renewed US-Iran military strikes on supply. *[Business Recorder](https://www.brecorder.com/news/40437722/oil-edges-down-as-investors-weigh-uncertainty-over-us-iran-strikes)*
-- Pakistan's petrol prices were hiked by Rs2.29 per litre due to rising global petroleum rates. *[Business Recorder](https://www.brecorder.com/news/40437710/petrol-price-hiked-by-rs229-hsds-by-rs111)*
-- The World Bank is planning a $300 million package to support Pakistan’s transition toward investment-led growth. *[Business Recorder](https://www.brecorder.com/news/40437714/world-bank-plans-package-to-support-transition-to-investment-led-growth)*
-- The Asian Development Bank (ADB) commended Pakistan's macroeconomic progress and recent sovereign rating upgrades. *[Business Recorder](https://www.brecorder.com/news/40437709/adb-lauds-macroeconomic-progress-sovereign-rating-upgrades)*
-- Pakistan's Finance Minister met with Deutsche Bank officials to discuss the country's economic outlook and investment opportunities. *[Business Recorder](https://www.brecorder.com/news/40437715/aurangzeb-deutsche-bank-official-discuss-economic-outlook)*
-- A centralized merchant database has been proposed in Pakistan to improve real-time transaction visibility and support a cashless economy. *[Business Recorder](https://www.brecorder.com/news/40437712/real-time-transaction-visibility-centralised-merchant-database-proposed)*
-- Baker Hughes has signed a landmark energy agreement with OGDCL. *[ARY](https://arynews.tv/baker-hughes-signs-landmark-energy-agreement-with-ogdcl)*
+- **Pakistan** identifies exports as the only solution to its existential crisis and is seeking expertise from the ADB. *[ARY](https://arynews.tv/pakistan-says-exports-only-way-out-of-an-existential-crisis-seeks-adb-expertise)*
+- **U.S. national debt** has surpassed $40 trillion as borrowing costs rise, despite previous pledges of fiscal restraint. *[ARY](https://arynews.tv/trump-pledged-fiscal-restraint-instead-debt-tops-40-trillion-as-borrowing-costs-rise)*
+- **Pakistan’s foreign exchange reserves** held by the State Bank of India rose by $19 million to $17.12 billion. *[Business Recorder](https://www.brecorder.com/news/40437789/pakistans-forex-reserves-rise-19m-to-1712bn)*
+- **PayPal** has cut approximately 220 jobs in India as part of its ongoing global restructuring and transformation plan. *[Business Recorder](https://www.brecorder.com/news/40437790/paypal-cuts-220-india-jobs-as-part-of-previously-announced-restructuring-plan-source-says)*
+- **The Pakistan Stock Exchange (PSX)** has partnered with the UK’s MOBILIST programme to mobilize investment for sustainable development and climate projects. *[Business Recorder](https://www.brecorder.com/news/40437788/psx-partners-with-uks-mobilist-to-boost-sustainable-finance)*
+- **India’s top court** dismissed the market regulator's appeals against the National Stock Exchange (NSE), removing a hurdle for its planned IPO. *[Business Recorder](https://www.brecorder.com/news/40437786/india-top-court-dismisses-market-regulators-plea-against-nse-reports)*
+- **SEBI** has proposed allowing mutual funds to settle cash market trades on a net basis to improve settlement efficiency. *[Business Recorder](https://www.brecorder.com/news/40437785/sebi-proposes-net-settlement-of-cash-market-trades-for-mutual-funds)*
+- **Sri Lankan shares** closed higher, driven primarily by gains in the materials sector. *[Business Recorder](https://www.brecorder.com/news/40437783/material-stocks-lift-sri-lankan-shares-higher)*
+- **Gulf stock markets** saw gains led by Dubai, supported by strong economic growth data from the UAE and Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40437782/dubai-leads-gulf-gains-as-uae-saudi-growth-data-lift-sentiment)*
+- **India** has stalled a proposal to link Alipay+ with its instant payments system due to national security and data concerns. *[Business Recorder](https://www.brecorder.com/news/40437780/india-stalls-alipay-payments-link-over-security-data-concerns-sources-say)*
+- **Indian airline Fly91** has placed a major order for 40 ATR turboprops to target demand in smaller cities. *[Business Recorder](https://www.brecorder.com/news/40437774/indias-fly91-orders-40-atr-turboprops-in-bet-on-smaller-cities)*
+- **Aluminium prices** hit a three-week high due to physical market supply tightness. *[Business Recorder](https://www.brecorder.com/news/40437773/aluminium-climbs-to-three-week-high-as-tightness-back-in-focus)*
+- **The Reserve Bank of India (RBI)** rejected all bids in a government bond buyback auction due to ample banking liquidity. *[Business Recorder](https://www.brecorder.com/news/40437772/rbi-rejects-all-bids-in-bond-buyback)*
 
 ### Science & Technology
-- A new patch (13.0.5) was released for *Super Smash Bros. Ultimate* to resolve a major online battle glitch. *[ARY](https://arynews.tv/super-smash-bros-ultimate-patch-13-0-5-released-to-fix-major-online-battle-glitch)*
-- Europe may accelerate its space launch frequency to meet the growing global demand for satellites. *[ARY](https://arynews.tv/europe-may-accelerate-space-launches-to-meet-satellite-demand)*
+- **Apple** is adding a new iPhone Handoff feature to iOS 27. *[ARY](https://arynews.tv/apple-adds-new-iphone-handoff-feature-to-ios-27)*
+- **Apple's first foldable iPhone** is reportedly dropping Face ID in favor of a side fingerprint scanner. *[ARY](https://arynews.tv/apple-drops-face-id-on-first-foldable-iphone-for-side-fingerprint-scanner)*
+- **Global innovation** is drawing significant tech interest toward China. *[ARY](https://arynews.tv/tech-pilgrims-flock-to-china-as-global-innovation-race-heats-up)*
+- **Elon Musk** believes that AI will surpass humans in performing digital tasks by 2027. *[ARY](https://arynews.tv/elon-musk-believes-ai-will-surpass-humans-in-digital-tasks-by-2027)*
+- **Bharat Forge and France’s Thales** have signed an alliance to build advanced rocket systems in India. *[Business Recorder](https://www.brecorder.com/news/40437781/indias-bharat-forge-unit-frances-thales-sign-rocket-systems-alliance)*
+
+### Weather
+- **Nepal's Trishuli River valley** has been devastated by catastrophic flooding, leaving the area desolate. *[Business Recorder](https://www.brecorder.com/news/40437787/in-flood-ravaged-nepal-valley-nothing-is-left-standing)*
+- **The NDMA** has issued flood and landslide alerts for northern areas of Pakistan, including Gilgit-Baltistan and KP. *[Business Recorder](https://www.brecorder.com/news/40437777/ndma-issues-flood-alert-for-northern-areas-over-next-72-hours)*
 
 ### Politics
-- The US may require parents to provide proof of citizenship or immigration status when applying for children's passports. *[ARY](https://arynews.tv/us-may-ask-parents-to-prove-citizenship-or-immigration-status-to-get-passports-for-their-children)*
-- Jamaat-e-Islami (JI) vowed to step up its campaign against rising inflation and petroleum levies. *[Business Recorder](https://www.brecorder.com/news/40437718/ji-vows-to-step-up-campaign-after-todays-strike)*
-- The Punjab Assembly has approved the Skills Development and Entrepreneurship Authority Bill 2026. *[Business Recorder](https://www.brecorder.com/news/40437720/pa-approves-skills-development-amp-entrepreneurship-authority-bill-2026)*
-- The PPP stated that any decision regarding the creation of new provinces must be reached through consensus. *[Business Recorder](https://www.brecorder.com/news/40437716/creation-of-new-provinces-any-decision-without-consensus-would-fail-to-yield-positive-results)*
-- The National Assembly Standing Committee on Water Resources deferred the approval of the WAPDA Security Force Bill, 2026. *[Business Recorder](https://www.brecorder.com/news/40437711/wapda-security-force-bill-na-body-again-defers-approval-after-lawmakers-objections)*
+- **The Pakistan government and Jamaat-e-Islami** have agreed to form committees to explore relief measures for rising inflation. *[Business Recorder](https://www.brecorder.com/news/40437779/govt-ji-agree-to-form-committees-to-explore-relief-measures)*
+- **Israel's Defence Minister** has threatened to strike Iran's energy and civilian infrastructure if an attack occurs. *[Business Recorder](https://www.brecorder.com/news/40437776/israels-katz-threatens-broad-retaliation-if-iran-attacks-israel)*
 
 ### National
-- Ahsan Iqbal has directed the fast-track implementation of a 100MW solar project in Gilgit-Baltistan. *[ARY](https://arynews.tv/ahsan-iqbal-directs-fast-track-implementation-of-100mw-solar-project-in-gb)*
-- Karachi Mayor Murtaza Wahab inspected ongoing road development projects and urged officials to expedite completion. *[Business Recorder](https://www.brecorder.com/news/40437719/mayor-karachi-inspects-road-projects-criticises-political-rivals)*
-- The PCJCCI has called for the replication of the China-aided Gwadar Friendship Hospital model across Pakistan. *[Business Recorder](https://www.brecorder.com/news/40437721/pcjcci-seeks-replication-of-gwadar-friendship-hospital-model-across-country)*
-- Under the "CM Maryam Nawaz E-Bike Scheme," 125,000 e-bikes will be provided to students without down payment requirements. *[Business Recorder](https://www.brecorder.com/news/40437717/e-bike-scheme-cm-rejects-proposals-for-down-payment-charges-other-than-monthly-instalments-from-students)*
+- **An inquiry** into a women's dispute found that officers were deployed without the orders of SSP Fida Janwari. *[ARY](https://arynews.tv/defence-womens-dispute-inquiry-finds-officers-were-sent-without-ssp-fida-janwaris-orders)*
+- **The Pakistan Expressway** is expected to significantly reduce travel time between Karachi and Quetta. *[ARY](https://arynews.tv/pakistan-expressway-to-cut-karachi-quetta-travel-time)*
+- **Pakistan is on high alert** for potential cyber attacks in anticipation of Defence Day. *[ARY](https://arynews.tv/pakistan-on-high-alert-over-possible-cyber-attacks-ahead-of-defence-day)*
 
 ### International
-- Trade threats have emerged between Iran and the US following recent military strikes. *[ARY](https://arynews.tv/iran-us-trade-threats-after-fresh-strikes)*
-- The escalation of the Iran war has raised significant concerns regarding civilian death tolls. *[Business Recorder](https://www.brecorder.com/news/40437727/iran-war-escalation-raises-concern-over-civilian-death-toll)*
-- Pakistan and Kyrgyzstan have signed bilateral accords to strengthen multi-sectoral ties. *[ARY](https://arynews.tv/pakistan-kyrgyzstan-sign-bilateral-accords-to-strengthen-multi-sectoral-ties)*
-- Tyler Robinson has pleaded not guilty in the Utah capital murder trial involving Charlie Kirk. *[ARY](https://arynews.tv/tyler-robinson-pleads-not-guilty-as-utah-judge-approves-capital-trial-in-charlie-kirk-murder-case)*
-- Chevron and Eni have committed to expanding major oil projects in Venezuela. *[Business Recorder](https://www.brecorder.com/news/40437713/chevron-eni-commit-to-expand-oil-projects-in-venezuela-under-us-eye)*
-- Concerns have been raised regarding the potential weaponization of water resources following decisions surrounding the Indus Waters Treaty. *[Business Recorder](https://www.brecorder.com/news/40437619/weaponising-a-lifeline)*
+- **An employee died** in a factory accident at a Sundrop Brands subsidiary in Tamil Nadu, India. *[Business Recorder](https://www.brecorder.com/news/40437791/indias-sundrop-brands-says-employee-dies-in-south-india-factory-accident)*
+- **India's food safety crackdown** has targeted the maker of Wai Wai noodles for using unhygienic manufacturing processes. *[Business Recorder](https://www.brecorder.com/news/40437784/india-food-safety-crackdown-targets-company-of-nepals-noodle-king)*
+- **Canada** is assessing import risks following an Indian raid that uncovered food products with fake labels and nutrition info. *[Business Recorder](https://www.brecorder.com/news/40437778/canada-assesses-risks-to-imports-after-india-raid-finds-fake-labels-on-food-products)*
 
 ### Sports
-- King Charles met with the Pakistan cricket team at Clarence House. *[ARY](https://arynews.tv/king-charles-meets-pakistan-cricket-team-at-clarence-house)*
-
-### Health
-- Altria is suing the FDA regarding the current tobacco product review system. *[ARY](https://arynews.tv/altria-sues-fda-over-tobacco-product-review-system)*
+- **Stuart Broad** expressed regret over his previous comments regarding the Pakistan cricket team. *[ARY](https://arynews.tv/stuart-broad-regrets-calling-pakistan-a-poor-side)*
+- **Juventus midfielder Khephren Thuram** has successfully undergone knee surgery. *[Business Recorder](https://www.brecorder.com/news/40437775/juventus-midfielder-thuram-undergoes-knee-surgery)*
 
