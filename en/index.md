@@ -4,51 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Sep-2026 09:03PKT
+Published at: 04-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Indian shares are expected to open higher as investors react to fading prospects of a US Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40437903/indian-shares-may-open-higher-as-traders-trim-fed-hike-bets)*
-- The Indian rupee's recent rally faces potential challenges from rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40437902/indian-rupee-inflow-linked-rbi-backed-optimism-faces-oil-test)*
-- Asian shares rose following a global rally and cooled rate hike fears from the US Federal Reserve. *[Business Recorder](https://www.brecorder.com/news/40437901/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds)*
-- The Japanese yen is on track for its strongest weekly performance in a month as traders bet on an interest rate hike. *[Business Recorder](https://www.brecorder.com/news/40437900/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data)*
-- Oil prices are set for significant weekly gains due to intensifying US-Iran tensions and supply concerns. *[Business Recorder](https://www.brecorder.com/news/40437899/oil-set-for-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions)*
-- Gold prices held steady as market participants await crucial US payrolls data for interest rate clues. *[Business Recorder](https://www.brecorder.com/news/40437898/gold-holds-ground-with-us-payrolls-data-on-radar)*
-- A proposed $6 billion investment to upgrade five oil refineries in Pakistan has been welcomed by business leaders. *[Business Recorder](https://www.brecorder.com/news/40437896/proposal-to-upgrade-oil-refineries-hailed)*
-- The 3P Pakistan 2026 exhibition, showcasing the plastic, printing, and packaging industries, has opened in Lahore. *[Business Recorder](https://www.brecorder.com/news/40437882/3p-pakistan-2026-exhibition-opens-in-lahore)*
-
-### Weather
-- Nepal's catastrophic floods have resulted in estimated property and infrastructure damages of at least $2.56 billion. *[Business Recorder](https://www.brecorder.com/news/40437904/nepal-flood-losses-estimated-at-256-billion-official-says)*
+- Pakistan is stepping up its privatization drive to attract more private investment. *[ARY](https://arynews.tv/pakistan-steps-up-privatization-drive-to-boost-private-investment)*
+- Inflation in Pakistan increased by 0.65% within a single week. *[ARY](https://arynews.tv/inflation-rises-in-pakistan-in-one-week)*
+- The PSX KSE-100 Index closed on a high note, gaining 399 points. *[ARY](https://arynews.tv/psx-closes-high-as-kse-100-index-gains-399-points)*
+- Donald Trump has threatened to stop trading with nations in deficit with the U.S. unless the Federal Reserve cuts interest rates. *[Business Recorder](https://www.brecorder.com/news/40437959/trump-says-if-the-fed-doesnt-cut-rates-hell-stop-trading-with-some-nations)*
+- UAE stock markets saw a jump following reports of solid non-oil private sector growth in August. *[Business Recorder](https://www.brecorder.com/news/40437958/uae-shares-jump-as-pmi-shows-solid-growth-in-august)*
+- Sri Lankan shares rose, bolstered by gains in the communication and healthcare sectors. *[Business Recorder](https://www.brecorder.com/news/40437957/communication-healthcare-stocks-lift-sri-lankan-shares-higher)*
+- India's National Stock Exchange (NSE) is planning to list during the week of September 21 following IPO clearance. *[Business Recorder](https://www.brecorder.com/news/40437953/indias-nse-targets-listing-in-week-of-september-21-after-ipo-clearance-sources-say)*
+- Recent floods in Nepal could result in commercial insurance losses exceeding $132 million, particularly affecting hydropower projects. *[Business Recorder](https://www.brecorder.com/news/40437952/nepal-floods-could-cost-insurers-over-130-million-even-before-death-injury-claims)*
+- Tata Motors' tender offer for the Italian maker Iveco is set to run from September 7 to October 26. *[Business Recorder](https://www.brecorder.com/news/40437949/tata-motors-tender-for-italys-iveco-set-for-september-7-to-october-26)*
+- Global food prices have reached their highest levels since late 2022 due to supply risks from weather and conflict. *[Business Recorder](https://www.brecorder.com/news/40437948/world-food-prices-at-highest-since-2022-as-supply-risks-mount-fao-says)*
+- India's market regulator is pursuing the recovery of gains linked to the Adani Group and Hindenburg Research report. *[Business Recorder](https://www.brecorder.com/news/40437947/india-regulator-presses-ahead-against-hindenburg-others-in-adani-case-sources-say)*
+- India's REC is set to debut its first tokenized corporate bond sale using blockchain technology next week. *[Business Recorder](https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say)*
+- Copper prices edged up, approaching an all-time peak. *[Business Recorder](https://www.brecorder.com/news/40437945/copper-edges-up-on-thinning-stocks-eyes-10-week-winning-streak)*
+- Malaysian palm oil futures rose due to concerns that El Niño could impact production. *[Business Recorder](https://www.brecorder.com/news/40437944/palm-ends-higher-on-el-nino-worries-logs-weekly-gain)*
+- The Pakistani rupee registered a gain against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar)*
+- Indian debt investors are requesting higher short-term borrowing to absorb excess cash in the market. *[Business Recorder](https://www.brecorder.com/news/40437943/india-debt-investors-call-for-higher-short-term-borrowing-to-absorb-excess-cash-sources-say)*
+- Indian shares logged weekly losses as elevated crude prices and bond yields impacted sentiment. *[Business Recorder](https://www.brecorder.com/news/40437942/indian-shares-post-weekly-losses-as-elevated-crude-keeps-sentiment-subdued)*
+- The Indian rupee posted its best weekly performance in five weeks, supported by RBI intervention. *[Business Recorder](https://www.brecorder.com/news/40437941/indian-rupee-logs-best-week-in-five-as-rbi-muscle-power-foreign-deposits-support)*
 
 ### Politics
-- PTI founder has requested an end to the current "system," according to Gandapur. *[ARY](https://arynews.tv/pti-founder-asked-us-to-stop-system-bringing-qazi-faez-isa-says-gandapur)*
-- The Irish Ambassador met with the Punjab Minister for Minority Affairs to discuss inclusive development and social protection. *[Business Recorder](https://www.brecorder.com/news/40437892/minister-irish-envoy-discuss-minority-welfare-inclusive-development)*
+- Azma Bukhari claimed that the KP CM is conducting a street movement using chartered planes. *[ARY](https://arynews.tv/kp-cm-running-street-movement-on-chartered-planes-says-azma-bukhari)*
 
 ### National
-- Punjab has launched a mobile veterinary fleet to provide treatment for livestock. *[ARY](https://arynews.tv/punjab-rolls-out-mobile-veterinary-fleet-for-livestock-treatment)*
-- The CM of Sindh has directed that a modern hospital in Larkana be completed by 2028. *[ARY](https://arynews.tv/cm-sindh-directs-completion-of-modern-hospital-in-larkana-by-2028)*
-- DISCOs' performance will be closely monitored to ensure improved customer care services. *[ARY](https://arynews.tv/discos-performance-to-be-closely-monitored-to-improve-customer-care-services-awais-leghari)*
-- The Lahore Chamber of Commerce and Industry (LCCI) has called for sustainable urban and regional transport planning. *[Business Recorder](https://www.brecorder.com/news/40437890/lcci-calls-for-sustainable-urban-transport-planning)*
-- The Lahore district administration has mandated NOCs for kite and thread manufacturers ahead of the Basant festival. *[Business Recorder](https://www.brecorder.com/news/40437893/nocs-mandatory-for-kite-manufacturers-ahead-of-basant)*
-- Prime Minister Shehbaz Sharif has directed that Daanish University be developed as a specialized model for disadvantaged students. *[Business Recorder](https://www.brecorder.com/news/40437894/pm-directs-to-make-daanish-university-a-model)*
-- The Sindh Governor has urged photojournalists to utilize their skills to promote a positive national image. *[Business Recorder](https://www.brecorder.com/news/40437889/governor-urges-photojournalists-to-promote-positive-journalism)*
+- The FIA has arrested an alleged human-trafficking agent in Lahore. *[ARY](https://arynews.tv/fia-arrests-alleged-human-trafficking-agent-in-lahore)*
+- Security forces killed 48 terrorists during multiple intelligence-based operations across Balochistan. *[Business Recorder](https://www.brecorder.com/news/40437954/security-forces-kill-48-terrorists-in-separate-balochistan-operations-ispr)*
 
 ### International
-- Neighborhood investigations for US citizenship have been revived. *[ARY](https://arynews.tv/neighborhood-investigations-for-us-citizenship-revived)*
-- Bahrain has signed a deal to participate in the Expo 2030 in Riyadh. *[ARY](https://arynews.tv/bahrain-inks-participation-deal-for-expo-2030-riyadh)*
-- Deputy PM Ishaq Dar held discussions with the newly elected OIC Secretary-General regarding regional interests. *[Business Recorder](https://www.brecorder.com/news/40437885/dar-holds-conversation-with-oic-sg-on-phone)*
-- Pakistan will dispatch emergency relief aid to Nepal later this week to assist in flood recovery efforts. *[Business Recorder](https://www.brecorder.com/news/40437886/dispatch-of-emergency-relief-aid-to-nepal-later-this-week-pm)*
-- Federal Minister Ahsan Iqbal suggested that the Makkah Pact should expand its scope to include trade, technology, and education. *[Business Recorder](https://www.brecorder.com/news/40437891/makkah-pact-must-expand-to-trade-technology-education-ahsan)*
+- Chinese President Xi Jinping is expected to bring a large delegation of CEOs on his upcoming visit to the United States. *[ARY](https://arynews.tv/chinas-xi-to-bring-large-ceo-delegation-on-us-visit-sources-say)*
 
 ### Sports
-- FIFA has accused UEFA of conducting a smear campaign regarding the Infantino plan. *[ARY](https://arynews.tv/fifa-accuses-uefa-of-smear-campaign-over-infantino-plan)*
-- World Cup winner Llorente has announced his retirement from Spain national duty. *[ARY](https://arynews.tv/world-cup-winner-llorente-retires-from-spain-duty)*
-- The Pakistan Cricket Board (PCB) held a coaching clinic for 30 school children as part of its Talent Hunt Programme. *[Business Recorder](https://www.brecorder.com/news/40437883/pcb-talent-hunt-programme-coaching-clinic-for-30-schoolkids-held)*
+- Mike Hesson addressed Agha’s absence from a meeting with the King. *[ARY](https://arynews.tv/mike-hesson-opens-up-about-aghas-absence-from-king-meeting)*
+- Interim coach Mike Hesson revealed he played no role in the recent Pakistan squad shake-up. *[ARY](https://arynews.tv/interim-coach-mike-hesson-reveals-no-role-in-pakistan-squad-shake-up)*
+- Ferrari secured a 1-2 finish in Monza, with Leclerc taking the top spot. *[ARY](https://arynews.tv/leclerc-on-top-as-ferrari-take-1-2-in-monza)*
+- The reigning T20 champions, India, are scheduled to face Japan in their first international cricket meeting on September 22. *[Business Recorder](https://www.brecorder.com/news/40437956/world-t20-champions-india-to-face-japan-in-first-international-meeting)*
+- Former coach Jason Gillespie criticized the Pakistan Cricket Board for its mid-series overhaul of the squad and coaching staff. *[Business Recorder](https://www.brecorder.com/news/40437950/gillespie-hits-out-at-pakistan-selectors-after-mid-series-overhaul)*
 
 ### Health
-- Aspen expects Mounjaro sales in Africa to exceed $124 million in 2027. *[ARY](https://arynews.tv/aspen-sees-mounjaro-africa-sales-above-124-million-in-2027)*
-- AbbVie's new blood cancer therapy has shown success in reducing disease progression and death risk during trials. *[ARY](https://arynews.tv/abbvies-blood-cancer-therapy-lowers-disease-progression-death-risk-in-trial)*
-- Doctors are warning of a growing epidemic of retinopathy of pre-maturity (ROP) in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40437887/doctors-warn-of-growing-epidemic-of-pre-maturity-retinopathy)*
-- Ensuring the safety and high quality of nutritious products remains a significant challenge for Pakistan's dairy industry. *[Business Recorder](https://www.brecorder.com/news/40437888/ensuring-safe-high-quality-nutritious-products-termed-challenge)*
+- Punjab authorities have issued a stoppage alert regarding certain batches of injectable medicines. *[ARY](https://arynews.tv/punjab-issues-stoppage-alert-over-injectable-medicine-batches)*
+- India has ordered a Nepali company to discontinue certain products after an investigation found unhygienic manufacturing practices. *[Business Recorder](https://www.brecorder.com/news/40437951/india-food-safety-crackdown-targets-company-of-nepals-noodle-king)*
+
+### Other
+- An Air India A320 incident involving a stall warning injured 24 people during a flight from Phuket to New Delhi. *[Business Recorder](https://www.brecorder.com/news/40437955/air-india-a320-issued-stall-warning-when-seatbelt-signs-off-injuring-24-investigators-say)*
 
