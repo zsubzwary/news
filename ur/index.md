@@ -7,51 +7,54 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 04-Sep-2026 09:08PKT 
+ &lrm; 04-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
-### معیشت
-- بھارتی اسٹاک مارکیٹ میں تیزی کا امکان ہے کیونکہ سرمایہ کاروں کا فیڈرل ریزرو کی شرح سود میں اضافے کے حوالے سے خدشات کم ہو رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437903/indian-shares-may-open-higher-as-traders-trim-fed-hike-bets)*
-- بھارتی روپے کی قدر میں بہتری کے باوجود بڑھتی ہوئی تیل کی قیمتیں اس کے لیے چیلنج ثابت ہو سکتی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437902/indian-rupee-inflow-linked-rbi-backed-optimism-faces-oil-test)*
-- امریکی جاب ڈیٹا سے قبل ایشیائی اسٹاک مارکیٹوں میں تیزی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437901/asian-shares-climb-ahead-of-us-jobs-data-feds-waller-soothes-bonds)*
-- جاپانی ین کی قدر میں ہفتے کے دوران مضبوطی کا رجحان رہا۔ *[Business Recorder](https://www.brecorder.com/news/40437900/yen-headed-for-strongest-week-in-a-month-dollar-flat-ahead-of-payroll-data)*
-- امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی کے باعث تیل کی قیمتوں میں نمایاں اضافہ متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437899/oil-set-for-steepest-weekly-gain-since-mid-july-over-intensifying-us-iran-tensions)*
-- عالمی مارکیٹ میں سونے کی قیمتیں مستحکم رہیں کیونکہ سرمایہ کار امریکی معاشی ڈیٹا کا انتظار کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437898/gold-holds-ground-with-us-payrolls-data-on-radar)*
-- پاکستان کی پانچ آئل ریفائنریز کو اپ گریڈ کرنے کے لیے 6 ارب ڈالر کی سرمایہ کاری کی تجویز کا خیر مقدم کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437896/proposal-to-upgrade-oil-refineries-hailed)*
-- لاہور میں پلاسٹک، پرنٹنگ اور پیکیجنگ کی صنعتوں کی سب سے بڑی نمائش '3P پاکستان 2026' کا آغاز ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437882/3p-pakistan-2026-exhibition-opens-in-lahore)*
-- لاہور چیمبر آف کامرس (LCCI) نے پاکستان میں بہتر نقل و حمل اور شہری منصوبہ بندی کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437890/lcci-calls-for-sustainable-urban-transport-planning)*
+### معاشیات
+- پاکستان نے نجی سرمایہ کاری کو فروغ دینے کے لیے نجکاری کی مہم تیز کر دی ہے۔ *[ARY](https://arynews.tv/pakistan-steps-up-privatization-drive-to-boost-private-investment)*
+- پاکستان میں ایک ہفتے کے دوران مہنگائی میں 0.65 فیصد اضافہ ریکارڈ کیا گیا۔ *[ARY](https://arynews.tv/inflation-rises-in-pakistan-in-one-week)*
+- پاکستان اسٹاک ایکسچینج میں تیزی رہی اور KSE-100 انڈیکس 399 پوائنٹس کے اضافے کے ساتھ بند ہوا۔ *[ARY](https://arynews.tv/psx-closes-high-as-kse-100-index-gains-399-points)*
+- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں مستحکم رہا اور gains درج کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437940/pakistan-rupee-registers-gain-against-us-dollar)*
+- ڈونلڈ ٹرمپ نے دھمکی دی ہے کہ اگر فیڈرل ریزرو نے شرح سود میں کمی نہ کی تو وہ بعض ممالک کے ساتھ تجارت روک دیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40437959/trump-says-if-the-fed-doesnt-cut-rates-hell-stop-trading-with-some-nations)*
+- متحدہ عرب امارات کے حصص میں اضافہ ہوا کیونکہ اگست میں غیر تیل کے نجی شعبے میں مضبوط ترقی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437958/uae-shares-jump-as-pmi-shows-solid-growth-in-august)*
+- سری لنکا کے حصص میں کمیونیکیشن اور ہیلتھ کیئر اسٹاکس کی وجہ سے اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437957/communication-healthcare-stocks-lift-sri-lankan-shares-higher)*
+- بھارت کا نیشنل اسٹاک ایکسچینج (NSE) 21 ستمبر کے ہفتے میں لسٹنگ کا ہدف رکھتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437953/indias-nse-targets-listing-in-week-of-september-21-after-ipo-clearance-sources-say)*
+- نیپال کے سیلاب سے انشورنس کمپنیوں کو 130 ملین ڈالر سے زائد کا نقصان ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437952/nepal-floods-could-cost-insurers-over-130-million-even-before-death-injury-claims)*
+- ٹاٹا موٹرز کی اطالوی کمپنی 'ایویکو' (Iveco) کے لیے ٹینڈر کی مدت 7 ستمبر سے 26 اکتوبر تک ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40437949/tata-motors-tender-for-italys-iveco-set-for-september-7-to-october-26)*
+- عالمی سطح پر خوراک کی قیمتیں 2022 کے بعد بلند ترین سطح پر پہنچ گئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437948/world-food-prices-at-highest-since-2022-as-supply-risks-mount-fao-says)*
+- بھارتی ریگولیٹر اڈانی کیس میں ہنڈنبرگ اور دیگر کے خلاف کارروائی آگے بڑھا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437947/india-regulator-presses-ahead-against-hindenburg-others-in-adani-case-sources-say)*
+- بھارت کا REC اگلے ہفتے بلاک چین ٹیکنالوجی کے ذریعے ٹوکنائزڈ کارپوریٹ بانڈز لانچ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say)*
+- تانبے کی قیمتوں میں اضافہ ہوا اور یہ 10 ہفتوں کی مسلسل جیت کی طرف بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437945/copper-edges-up-on-thinning-stocks-eyes-10-week-winning-streak)*
+- ایلنینو (El Nino) کے خدشات کے باعث پام آئل کی قیمتوں میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40437944/palm-ends-higher-on-el-nino-worries-logs-weekly-gain)*
+- بھارتی قرض دانوں نے اضافی نقد رقم جذب کرنے کے لیے مختصر مدت کے قرضوں میں اضافے کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437943/india-debt-investors-call-for-higher-short-term-borrowing-to-absorb-excess-cash-sources-say)*
+- بھارت کے حصص میں اس ہفتے کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40437942/indian-shares-post-weekly-losses-as-elevated-crude-keeps-sentiment-subdued)*
+- بھارتی روپیہ پانچ ہفتوں میں اپنی بہترین کارکردگی دکھانے میں کامیاب رہا۔ *[Business Recorder](https://www.brecorder.com/news/40437941/indian-rupee-logs-best-week-in-five-as-rbi-muscle-power-foreign-deposits-support)*
+
+### سائنس اور ٹیکنالوجی
+- بھارت کا REC اگلے ہفتے بلاک چین ٹیکنالوجی کا استعمال کرتے ہوئے ٹوکنائزڈ بانڈز جاری کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437946/indias-rec-set-to-debut-tokenised-corporate-bond-sale-next-week-bankers-say)*
 
 ### موسم
-- نیپال میں حالیہ تباہ کن سیلاب سے املاک اور انفراسٹرکچر کو تقریباً 2.56 ارب ڈالر کا نقصان پہنچا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437904/nepal-flood-losses-estimated-at-256-billion-official-says)*
+- ایلنینو (El Nino) اور موسمیاتی تبدیلیوں کے باعث عالمی سطح پر خوراک کی قیمتیں بڑھ رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437948/world-food-prices-at-highest-since-2022-as-supply-risks-mount-fao-says)*
 
 ### سیاست
-- پی ٹی آئی کے بانی کے حوالے سے گنڈاپور کے بیان میں نظام کے حوالے سے اہم خدشات کا اظہار کیا گیا۔ *[ARY](https://arynews.tv/pti-founder-asked-us-to-stop-system-bringing-qazi-faez-isa-says-gandapur)*
-- نائب وزیراعظم اسحاق ڈار نے او آئی سی کے نئے سیکرٹری جنرل سے فون پر گفتگو کی اور فلسطین کے مسائل پر بات کی۔ *[Business Recorder](https://www.brecorder.com/news/40437885/dar-holds-conversation-with-oic-sg-on-phone)*
-- احسن اقبال نے مطالبہ کیا کہ مکہ پیکیٹ کو صرف فوجی نہیں بلکہ تجارتی اور تعلیمی شعبوں تک بھی پھیلایا جانا چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40437891/makkah-pact-must-expand-to-trade-technology-education-ahsan)*
-- آئرش سفیر نے پنجاب میں اقلیتی حقوق اور ہمہ گیر ترقی کے حوالے سے وزیر پنجاب سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40437892/minister-irish-envoy-discuss-minority-welfare-inclusive-development)*
+- ازمہ بخاری کے مطابق کے پی کے وزیر اعلیٰ چارٹرڈ طیاروں کے ذریعے عوامی تحریک چلا رہے ہیں۔ *[ARY](https://arynews.tv/kp-cm-running-street-movement-on-chartered-planes-says-azma-bukhari)*
 
 ### قومی
-- پنجاب حکومت نے مویشیوں کے علاج کے لیے موبائل ویٹرنری فلیٹ کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/punjab-rolls-out-mobile-veterinary-fleet-for-livestock-treatment)*
-- وزیراعلیٰ سندھ نے لرکانہ میں جدید ہسپتال کی تعمیر 2028 تک مکمل کرنے کی ہدایت کی ہے۔ *[ARY](https://arynews.tv/cm-sindh-directs-completion-of-modern-hospital-in-larkana-by-2028)*
-- بجلی فراہم کرنے والی کمپنیوں (DISCOs) کی کارکردگی اور کسٹمر سروس میں بہتری کے لیے کڑی نگرانی کی جائے گی۔ *[ARY](https://arynews.tv/discos-performance-to-be-closely-monitored-to-improve-customer-care-services-awais-leghari)*
-- سندھ کے گورنر نے فوٹو جرنلسٹس سے ملک کا مثبت امیج پروموٹ کرنے کی اپیل کی۔ *[Business Recorder](https://www.brecorder.com/news/40437889/governor-urges-photojournalists-to-promote-positive-journalism)*
-- لاہور میں بسنت کے حوالے سے پتنگ اور دھاگہ بنانے والوں کے لیے این او سی (NOC) لازمی قرار دے دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40437893/nocs-mandatory-for-kite-manufacturers-ahead-of-basant)*
-- وزیر اعظم شہباز شریف نے ہدایت کی کہ دانش یونیورسٹی کو مستحق طلبہ کے لیے ایک بہترین ماڈل کے طور پر تیار کیا جائے۔ *[Business Recorder](https://www.brecorder.com/news/40437894/pm-directs-to-make-daanish-university-a-model)*
+- ایف آئی اے نے لاہور میں انسانی اسمگلنگ کے ایک مبینہ ایجنٹ کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/fia-arrests-alleged-human-trafficking-agent-in-lahore)*
+- بلوچستان میں سکیورٹی فورسز نے مختلف آپریشنز کے دوران 48 دہشت گردوں کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40437954/security-forces-kill-48-terrorists-in-separate-balochistan-operations-ispr)*
 
 ### بین الاقوامی
-- امریکہ میں شہریت کے حصول کے لیے پڑوس کے ذریعے تحقیقاتی عمل کو دوبارہ فعال کر دیا گیا ہے۔ *[ARY](https://arynews.tv/neighborhood-investigations-for-us-citizenship-revived)*
-- بحرین نے ریاض ایکسپو 2030 میں شرکت کے لیے معاہدہ کر لیا ہے۔ *[ARY](https://arynews.tv/bahrain-inks-participation-deal-for-expo-2030-riyadh)*
-- پاکستان نیپال میں سیلاب زدگان کے لیے ہنگامی امدادی سامان بھیجے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437886/dispatch-of-emergency-relief-aid-to-nepal-later-this-week-pm)*
+- چینی صدر شی جن پنگ ایک بڑے سی ای او وفد کے ساتھ امریکہ کا دورہ کریں گے۔ *[ARY](https://arynews.tv/chinas-xi-to-bring-large-ceo-delegation-on-us-visit-sources-say)*
+- بھارت نے نیپال کے 'نوڈل کنگ' کمپنی کی مصنوعات کے خلاف فوڈ سیفٹی کے اقدامات شروع کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40437951/india-food-safety-crackdown-targets-company-of-nepals-noodle-king)*
+- ایئر انڈیا کے طیارے میں تکنیکی خرابی کے باعث 24 افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40437955/air-india-a320-issued-stall-warning-when-seatbelt-signs-off-injuring-24-investigators-say)*
 
 ### کھیل
-- فیفا (FIFA) نے یوئیفا (UEFA) پر بدنام کرنے کی مہم چلانے کا الزام لگایا ہے۔ *[ARY](https://arynews.tv/fifa-accuses-uefa-of-smear-campaign-over-infantino-plan)*
-- سپین کی قومی ٹیم سے ورلڈ کپ فاتح کھلاڑی لورینٹی نے ریٹائرمنٹ کا اعلان کر دیا۔ *[ARY](https://arynews.tv/world-cup-winner-llorente-retires-from-spain-duty)*
-- پی سی بی نے سکول کے بچوں کے لیے کوچنگ کلینک اور ٹیلنٹ ہنٹ پروگرام کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437883/pcb-talent-hunt-programme-coaching-clinic-for-30-schoolkids-held)*
+- مائیک ہیسن نے پاکستان کرکٹ ٹیم کے کھلاڑیوں کی غیر موجودگی اور ٹیم میں تبدیلیوں پر بات کی۔ *[ARY](https://arynews.tv/mike-hesson-opens-up-about-aghas-absence-from-king-meeting)*
+- مونزا ریس میں لیکلرک نے فراری کے ساتھ پہلی پوزیشن حاصل کی۔ *[ARY](https://arynews.tv/leclerc-on-top-as-ferrari-take-1-2-in-monza)*
+- بھارت اور جاپان کے درمیان پہلا بین الاقوامی کرکٹ میچ 22 ستمبر کو کھیلا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40437956/world-t20-champions-india-to-face-japan-in-first-international-meeting)*
+- سابق کوچ جیسن گلیسپیل نے پاکستان کے سلیکٹرز کے فیصلوں پر تنقید کی۔ *[Business Recorder](https://www.brecorder.com/news/40437950/gillespie-hits-out-at-pakistan-selectors-after-mid-series-overhaul)*
 
 ### صحت
-- اسپن (Aspen) کو توقع ہے کہ 2027 تک افریقہ میں 'مونجارو' کی فروخت 124 ملین ڈالر سے تجاوز کر جائے گی۔ *[ARY](https://arynews.tv/aspen-sees-mounjaro-africa-sales-above-124-million-in-2027)*
-- ایبی (AbbVie) کی خون کے کینسر کے علاج کے لیے نئی تھراپی ٹرائلز میں کامیاب رہی۔ *[ARY](https://arynews.tv/abbvies-blood-cancer-therapy-lowers-disease-progression-death-risk-in-trial)*
-- ڈاکٹروں نے پاکستان میں بچوں میں نظر کی بیماری (ROP) کے بڑھتے ہوئے کیسز پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40437887/doctors-warn-of-growing-epidemic-of-pre-maturity-retinopathy)*
-- پاکستان میں غذائی تحفظ اور اعلیٰ معیار کی مصنوعات کی فراہمی کو ایک بڑے چیلنج کے طور پر دیکھا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40437888/ensuring-safe-high-quality-nutritious-products-termed-challenge)*
+- پنجاب میں انجکشن کے مخصوص بیچز کے حوالے سے اسٹاپج الرٹ جاری کیا گیا ہے۔ *[ARY](https://arynews.tv/punjab-issues-stoppage-alert-over-injectable-medicine-batches)*
 
