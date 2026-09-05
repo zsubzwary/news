@@ -4,51 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 05-Sep-2026 09:03PKT
+Published at: 05-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The **State Bank of Pakistan (SBP)** has rejected reports attempting to link the **Raast** payment system to money laundering. *[ARY](https://arynews.tv/sbp-rejects-reports-linking-raast-to-money-laundering)*
-- **NEPRA** has increased electricity prices through monthly and quarterly adjustments. *[ARY](https://arynews.tv/nepra-raises-electricity-prices-under-monthly-and-quarterly-adjustments)*
-- According to the **FAO**, food price inflation accelerated in August due to the impacts of **drought and global conflicts**. *[Business Recorder](https://www.brecorder.com/news/40438020/weather-war-push-up-food-prices-fao)*
-- **US diesel prices** reached a new record high of **USD 5.85 per gallon**, driven by disruptions from the US-Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40438018/us-diesel-price-hits-new-high)*
-- **Oil prices** are trending toward a weekly gain of over **6 percent** despite a slight slide in recent trading. *[Business Recorder](https://www.brecorder.com/news/40438013/oil-slides-heads-for-weekly-gain)*
-- **NEPRA** has made **Battery Energy Storage Systems (BESS)** mandatory for solar and wind projects participating in electricity wheeling auctions. *[Business Recorder](https://www.brecorder.com/news/40438015/bess-made-mandatory-nepra-approves-amendments-to-electricity-wheeling-auction-process)*
-- The **Power Division** is introducing reforms to the **detection billing system** to protect consumers from inflated electricity bills. *[Business Recorder](https://www.brecorder.com/news/40438017/detection-billing-system-power-division-decides-to-introduce-reforms)*
-- **NEPRA** allowed a positive **Fuel Charges Adjustment (FCA)** of Rs2.0581 per unit for July 2026 electricity consumption. *[Business Recorder](https://www.brecorder.com/news/40438016/positive-fca-allowed-nepra-increases-tariff-by-rs20581unit)*
-- Finance Minister **Muhammad Aurangzeb** announced that the Ministry of Finance is working on a **rupee-denominated, dollar-settled bond**. *[Business Recorder](https://www.brecorder.com/news/40438021/mof-working-on-rupee-denominated-dollar-settled-bond-aurangzeb)*
-- **PAEC** and **PSO** have signed a strategic partnership for the efficient supply of petroleum, oil, and lubricants. *[Business Recorder](https://www.brecorder.com/news/40438035/paec-pso-forge-strategic-partnership-for-efficient-fuel-supply)*
-- The **Pakistan International Business Forum (PIBF)** has launched a nationwide campaign against the **petroleum levy tax**. *[Business Recorder](https://www.brecorder.com/news/40438037/pibf-launches-campaign-against-petroleum-levy)*
-- **SMEDA** and **SBP** are exploring **cluster-based lending** to expand financing opportunities for SMEs. *[Business Recorder](https://www.brecorder.com/news/40438042/smeda-sbp-explore-cluster-based-lending-for-smes)*
-- A new government rule requiring power plants to procure coal from the supplier offering the **best available discount** could save **Rs380 million annually**. *[Business Recorder](https://www.brecorder.com/news/40437975/the-discount-nobody-noticed)*
+- The government has reduced the super tax to 8% as part of broad structural reforms. *[ARY](https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani)*
+- Americans faced record-high gasoline prices during the Labor Day weekend. *[ARY](https://arynews.tv/americans-hit-with-record-high-labor-day-weekend-gasoline-prices)*
+- Gold prices in Pakistan decreased, with the price per tola reaching Rs465,536. *[Business Recorder](https://www.brecorder.com/news/40438057/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- Pakistan's Power Division has resolved 11,695 pending net metering cases. *[Business Recorder](https://www.brecorder.com/news/40438055/power-division-resolves-11695-pending-net-metering-cases)*
+- Foxconn expects its third-quarter performance to outperform market expectations due to strong AI-related demand. *[Business Recorder](https://www.brecorder.com/news/40438053/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength)*
 
 ### Science & Technology
-- Leaked pricing for the **iPhone 18 Pro** suggests a **$200 price increase** due to soaring memory costs. *[ARY](https://arynews.tv/iphone-18-pro-price-leak-suggests-a-200-jump-as-memory-costs-soar)*
+- WhatsApp is testing a new feature that allows users to pin up to four messages in chats. *[ARY](https://arynews.tv/whatsapp-tests-new-limit-to-let-users-pin-up-to-four-messages-in-chats)*
+
+### Weather
+- Sydney is experiencing a spring heatwave, raising the risk of extreme bushfires. *[Business Recorder](https://www.brecorder.com/news/40438048/sydney-sweats-in-spring-hot-spell-faces-extreme-bushfire-risk)*
 
 ### Politics
-- **Asif Ali Zardari** held a five-hour meeting with **Bilawal Bhutto** in London. *[ARY](https://arynews.tv/zardari-meets-bilawal-bhutto-in-london-for-five-hours)*
-- **Ali Amin Gandapur** claimed that the plan to "minus" the **PTI founder** actually began in November 2020. *[ARY](https://arynews.tv/ali-amin-gandapur-claims-minus-pti-founder-plan-began-in-november-2020)*
-- **Prime Minister Shehbaz Sharif** advocated for a stronger and more effective **United Nations** to promote global peace and security. *[Business Recorder](https://www.brecorder.com/news/40438038/pm-for-strong-effective-un-in-promoting-peace-security)*
+- A Pakistani minister has proposed the establishment of a one-stop center for port services. *[ARY](https://arynews.tv/pakistan-minister-proposes-one-stop-center-for-port-services)*
+- Interior Minister Mohsin Naqvi advocated for the creation of new provinces, including Islamabad province, to reflect public will. *[ARY](https://arynews.tv/i-am-the-biggest-proponent-of-islamabad-province-says-mohsin-naqvi) / [Business Recorder](https://www.brecorder.com/news/40438064/naqvi-says-decision-on-new-provinces-must-reflect-public-will)*
+- Former West Indies cricket captain Brian Lara called for proper, independent medical care and dignity for Imran Khan. *[Business Recorder](https://www.brecorder.com/news/40438067/brian-lara-calls-for-proper-independent-medical-care-for-imran-khan)*
 
 ### National
-- A man in **Chiniot** allegedly murdered his wife and three children following a **land dispute**. *[ARY](https://arynews.tv/chiniot-husband-allegedly-kills-wife-and-three-children-over-land-dispute)*
-- Pakistan has finalized the details for **private Hajj packages**. *[ARY](https://arynews.tv/pakistan-finalizes-private-hajj-packages)*
-- **Pakistan passport offices** will remain open on **Saturdays** for the next two months. *[ARY](https://arynews.tv/pakistan-passport-offices-to-open-on-saturdays-for-two-months)*
-- **PAMRA** has launched the **"Mandi Mart"** project in Kahna Kacha, Multan, and Faisalabad to modernize agricultural markets. *[Business Recorder](https://www.brecorder.com/news/40438036/pamra-launches-mandi-mart-project-in-three-cities)*
-- **Punjab** is being recognized as a model for **wildlife conservation**, having rescued thousands of animals and birds. *[Business Recorder](https://www.brecorder.com/news/40438039/punjab-emerging-as-a-model-in-conservation-promotion-of-wildlife)*
-- The Punjab government has ordered the **digitalisation of horticulture revenue collection** to increase agency income. *[Business Recorder](https://www.brecorder.com/news/40438040/punjab-orders-digitalisation-of-horticulture-revenue-collection)*
-- Sindh's Senior Minister **Sharjeel Inam Memon** reviewed plans to expand **public transport services**, including electric taxis and BRT. *[Business Recorder](https://www.brecorder.com/news/40438041/sharjeel-reviews-plans-to-expand-public-transport-services)*
-- A steering committee met to review the progress and implementation challenges of the **Karachi Water and Services Improvement Project (KWSIP)**. *[Business Recorder](https://www.brecorder.com/news/40438044/steering-committee-reviews-progress-of-kwsip)*
+- CCTV footage captured a citizen being robbed after being offered assistance at an ATM. *[ARY](https://arynews.tv/cctv-video-shows-citizen-robbed-after-being-offered-help-at-atm)*
+- The body of mountaineer Syed Ali Shah has been recovered months after his disappearance. *[ARY](https://arynews.tv/mountaineer-syed-ali-shahs-body-recovered-after-months)*
 
 ### International
-- The **US and its allies** are pushing to have the **IAEA** report **Iran** to the UN Security Council regarding nuclear non-proliferation breaches. *[Business Recorder](https://www.brecorder.com/news/40438014/us-allies-want-iaea-board-to-report-iran-to-unsc-diplomats)*
-- The **US Treasury Department** has imposed new **sanctions on Turkish entities** linked to Iran. *[Business Recorder](https://www.brecorder.com/news/40438011/us-targets-turkish-entities-with-iran-related-sanctions)*
-- A major **Houthi offensive** to control the **Bab al-Mandab strait** in the Red Sea has resulted in over **120 deaths**. *[Business Recorder](https://www.brecorder.com/news/40438012/houthi-bid-to-seize-gateway-to-red-sea-leaves-120-dead)*
+- US forces struck three Iranian oil tankers following ballistic missile attacks by the IRGC on American naval ships. *[ARY](https://arynews.tv/us-military-says-it-destroyed-3-iranian-oil-tankers) / [Business Recorder](https://www.brecorder.com/news/40438065/us-strikes-three-iranian-oil-tankers-after-irgc-attack-on-american-naval-ships-central-command-says)*
+- Explosions were heard near Iran's Kharg Island, with unconfirmed reports suggesting an Iranian tanker was targeted by a US missile. *[Business Recorder](https://www.brecorder.com/news/40438056/explosions-heard-near-irans-kharg-island-in-gulf-origin-unknown-fars-news-says)*
+- Renewed clashes between Yemen's government forces and Houthis have killed more than 60 people. *[Business Recorder](https://www.brecorder.com/news/40438063/fresh-yemen-clashes-kill-more-than-60-military-medical-sources)*
+- The death toll from a ferry disaster off the coast of Cyprus has risen to 13, with 15 people still missing. *[Business Recorder](https://www.brecorder.com/news/40438062/death-toll-in-cyprus-ferry-disaster-rises-to-13)*
+- A Chinese national was rescued from a tunnel in Nepal ten days after a devastating flash flood. *[ARY](https://arynews.tv/chinese-national-rescued-from-nepal-tunnel-ten-days-after-flash-flood) / [Business Recorder](https://www.brecorder.com/news/40438061/chinese-national-rescued-from-nepal-tunnel-ten-days-after-flash-flood)*
+- US envoys Steve Witkoff and Jared Kushner arrived in Moscow to discuss a peace plan for the Russia-Ukraine conflict. *[Business Recorder](https://www.brecorder.com/news/40438060/trump-envoys-land-in-moscow-for-russia-ukraine-peace-push)*
+- The US ambassador to Israel stated that there are no Israeli plans to forcibly displace Palestinians from Gaza. *[Business Recorder](https://www.brecorder.com/news/40438059/us-ambassador-says-israel-not-planning-forced-displacement-from-gaza)*
+- An IAEA-brokered localized ceasefire has taken effect to allow repairs at the Zaporizhzhia nuclear power plant in Ukraine. *[Business Recorder](https://www.brecorder.com/news/40438054/localized-ceasefire-in-effect-to-enable-repairs-to-zaporizhzhia-nuclear-plant-iaea-says)*
+- South Korean Foreign Minister Cho Hyun is visiting Nepal to meet with officials and support search-and-rescue efforts. *[Business Recorder](https://www.brecorder.com/news/40438052/south-korean-foreign-minister-to-visit-nepal-during-through-monday)*
+- An explosion at a military base in Bolivia killed at least 10 people and injured dozens due to a fireworks stockpile blast. *[Business Recorder](https://www.brecorder.com/news/40438051/explosion-at-bolivia-military-base-kills-at-least-10-dozens-injured)*
+- The US embassy in Cuba issued a health alert due to a spike in intestinal illnesses linked to failing water and electricity infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438050/us-embassy-issues-health-alert-for-cuba-amid-oil-blockade-sanctions)*
+- A mudslide triggered by heavy rains in China's Jiangxi province has left one dead and 11 people missing. *[Business Recorder](https://www.brecorder.com/news/40438046/one-dead-11-people-missing-after-mudslide-in-chinas-jiangxi-province)*
 
 ### Sports
-- **Mike Hesson** has distanced himself from recent **PCB decisions** regarding Sarfaraz Ahmed and Umar Gul. *[ARY](https://arynews.tv/mike-hesson-distances-himself-from-pcb-decisions-on-sarfaraz-ahmed-and-umar-gul)*
+- Serena and Venus Williams made a celebrated return to the US Open in doubles play despite a first-round exit. *[Business Recorder](https://www.brecorder.com/news/40438049/williams-sisters-us-open-return-becomes-celebration-despite-first-round-exit)*
+- Jessica Pegula advanced to the US Open fourth round after rallying to defeat Leylah Fernandez. *[Business Recorder](https://www.brecorder.com/news/40438047/no-3-jessica-pegula-rallies-from-slow-start-to-reach-us-open-fourth-round)*
 
 ### Health
-- A **Salmonella outbreak** linked to **pumpkin seeds** has infected 81 people in **France**. *[ARY](https://arynews.tv/salmonella-outbreak-linked-to-pumpkin-seeds-infects-81-in-france)*
+- Surgeons at Karachi's NICVD successfully removed a bullet from a 12-year-old's heart. *[ARY](https://arynews.tv/bullet-removed-from-twelve-year-olds-heart-in-karachis-nicvd)*
 
