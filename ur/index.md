@@ -7,52 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 06-Sep-2026 09:10PKT 
+ &lrm; 06-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- حکومت نے ڈھانچہ جاتی اصلاحات کے تحت سپر ٹیکس کو کم کر کے 8 فیصد کر دیا ہے۔ *[ARY](https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani)*
-- پاکستان میں سونے کی قیمتوں میں بڑی کمی آئی ہے، جہاں 24 قیراط سونے کی قیمت میں 3,600 روپے فی تولہ کا زوال ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438088/gold-dips-by-rs3600)*
-- پرسنل بیگیج اسکیم کے تحت استعمال شدہ گاڑیوں کی درآمد کو ختم کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438089/auto-imports-under-personal-baggage)*
-- عالمی ریٹیل برانڈ MOB نے پاکستان میں اپنا پہلا اسٹور کراچی میں کھول دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438098/mob-brings-a-global-off-price-retail-experience-to-pakistan)*
-- ECO تجارتی معاہدے (ECOTA) کو بہتر بنانے اور علاقائی تجارت کو فروغ دینے کا مطالبہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438100/demand-for-revamp-of-eco-trade-agreement)*
-- بندرگاہوں کی خدمات کو بہتر بنانے کے لیے ایک ون اسٹاپ سینٹر کے قیام کی تجویز پیش کی گئی ہے۔ *[ARY](https://arynews.tv/pakistan-minister-proposes-one-stop-center-for-port-services)*
-- NAFSA نے کیڑے مار ادویات اور زرعی شعبے کے اسٹیک ہولڈرز کے ساتھ ایک تعارفی نشست منعقد کی۔ *[Business Recorder](https://www.brecorder.com/news/40438105/nafsa-holds-introductory-session)*
-- امریکہ میں ملازمتوں کی شرح میں تبدیلی کے امکانات کے حوالے سے ماہرین کے اندازے۔ *[Business Recorder](https://www.brecorder.com/news/40438109/us-employment-rate-likely-to-be-unchanged)*
+- برازیل کی عدالت نے سگما لیتھیم مائن کے لائسنس معطل کر دیے ہیں۔ *[ARY](https://arynews.tv/brazilian-court-suspends-licenses-for-sigma-lithium-mine)*
+- اوپیک پلس (OPEC+) نے اکتوبر کے لیے تیل کی پیداوار کی پالیسی میں کوئی تبدیلی نہیں کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438165/opec-keeps-oil-output-policy-unchanged-for-october)*
+- امریکی معاشی دباؤ کے باعث ایران کے تیل برآمدات اور ہرمز کے مقام پر اثرات بڑھ رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438172/irans-hormuz-leverage-wanes-as-us-economic-squeeze-bites)*
 
 ### سائنس اور ٹیکنالوجی
-- Xiaomi نے ڈریگن اسکیل EV بیٹری متعارف کرائی ہے جس کے ساتھ آگ لگنے کی صورت میں لائف ٹائم ریپلیسمنٹ کی ضمانت دی گئی ہے۔ *[ARY](https://arynews.tv/xiaomi-introduces-dragonscale-ev-battery-with-lifetime-fire-replacement-guarantee)*
-- گوگل نے Gmail، Docs اور Keep میں Gemini وائس ٹولز کا اضافہ کر دیا ہے۔ *[ARY](https://arynews.tv/google-adds-gemini-voice-tools-to-gmail-docs-and-keep)*
+- ایپل کے نئے فولڈ ایبل فون 'آئی فون الٹرا' کی قیمت 2,000 ڈالر سے شروع ہونے کے امکانات ہیں۔ *[ARY](https://arynews.tv/iphone-ultra-price-leaks-show-apples-first-foldable-starts-at-2000)*
 
 ### موسم
-- پاکستان میں ستمبر کے دوران اوسط سے زیادہ درجہ حرارت اور معمول سے کم بارش کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438103/pakistan-likely-to-experience-above-average-temperatures-in-sept)*
+- انڈونیشیا میں آتش فشاں پھٹنے سے کئی ایئرپورٹس پر پروازیں معطل اور تعلیمی ادارے بند کر دیے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438160/indonesias-anak-krakatau-eruption-halts-flights-schools-fishing)*
 
 ### سیاست
-- PPP نے وفاق کو سندھ کی آئینی حیثیت میں مداخلت کرنے کے خلاف خبردار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438087/ppp-warns-centre-against-interfering-in-sindhs-constitutional-status)*
-- دفاع وزیر خواجہ آصف نے نئے صوبوں کے حوالے سے PPP پر "دوہرا معیار" رکھنے کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438104/debate-over-new-provinces-intensifies-khawaja-asif-accuses-ppp-of-double-standard)*
-- سندھ کے سینئر وزیر شارجیل انعام میمن نے وفاقی وزیر خواجہ آصف کے بیانات پر وضاحت کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438096/sharjeel-demands-federal-govt-clarify-asifs-remarks)*
+- پاکستانی وزیر خارجہ اسحاق ڈار نے سعودی عرب، مصر اور ترکیہ کے ہم منصبوں سے علاقائی سلامتی اور دفاعی تعاون پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40438167/fm-dar-discusses-regional-security-makkah-pact-with-saudi-egyptian-turkish-counterparts)*
 
-### ملکی
-- پاکستان میں آج یومِ دفاع اور یومِ شہداء منایا جا رہا ہے۔ *[ARY](https://arynews.tv/defence-and-martyrs-day-is-being-observed-in-pakistan)*
-- وزیراعظم شہباز شریف نے یومِ دفاع کے موقع پر افواج اور شہداء کو خراجِ عقیدت پیش کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438095/defence-day-pm-pays-tribute-to-martyrs)*
-- علی جافری کے حملے کے کیس میں عدالت نے مشتبہ شخص کو عبوری ضمانت دے دی۔ *[ARY](https://arynews.tv/ali-jafri-assault-case-court-grants-suspect-interim-bail)*
-- اسلام آباد میں گزشتہ ایک ہفتے کے دوران جرائم کے 40 سے زائد واقعات رپورٹ ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40438093/at-least-40-incidents-of-various-crimes-reported-in-islamabad-in-one-week)*
-- پنجاب میں منشیات کی فروخت اور استعمال کے خلاف بڑے پیمانے پر کریک ڈاؤن شروع کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438094/ccd-punjab-launches-crackdown-on-narcotics)*
-- کراچی کے میئر مرتضیٰ وہاب نے ایمپریس مارکیٹ میں کتاب میلے کا افتتاح کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438099/mayor-opens-book-fair-at-empress-market)*
-- پنجاب حکومت نے ماحولیاتی قوانین کی خلاف ورزیوں کے خلاف سخت کارروائی شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438102/punjab-intensifies-crackdown-on-environment-law-violations)*
-- سی ای او پی سی بی ڈی ڈی اے نے لاہور میں جاری ترقیاتی منصوبوں کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40438108/ceo-cbd-orders-the-expedited-site-clearance-at-bab-e-pakistan)*
-- سیکیورٹی ہسپتال سیالکوٹ کو اپ گریڈ کرنے کے منصوبے کا افتتاح کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438106/asif-manshaullah-inaugurate-upgraded-social-security-hospital)*
-- "ستھرا پنجاب" اقدام کے ذریعے صوبے میں صفائی کے نظام میں بڑی تبدیلی لائی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438107/suthra-punjab-initiative-has-revolutionised-sanitation-work-minister)*
-- سندھ کے وزیر اعلیٰ نے مقامی خواتین کے حقوق کے تحفظ اور بااختیار بنانے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438101/sindh-cm-calls-for-protection-empowerment-of-women-girls)*
+### قومی
+- کراچی کے علاقے نعمائش چورنگی کو سیکیورٹی خدشات کے پیش نظر تمام اطراف سے بند کر دیا گیا۔ *[ARY](https://arynews.tv/karachis-numaish-chowrangi-closed-from-all-sides-over-security-concerns)*
+- خیبر پختونخوا میں سیکیورٹی فورسز نے متعدد آپریشنز کے دوران 21 دہشت گردوں کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438162/security-forces-killed-21-terrorists-in-multiple-kp-operations-ispr)*
+- پی ٹی آئی رہنما حماد اظہر کو ملتان سے گرفتار کر کے لاہور منتقل کر دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438168/pti-leader-hammad-azhar-reportedly-arrested-in-multan)*
+- کراچی میں میر رضا کا چہلم ادا کیا گیا، جہاں ان کے والد نے انصاف کے لیے جدوجہد جاری رکھنے کا عہد کیا۔ *[ARY](https://arynews.tv/mir-razas-chehlum-held-in-karachi-father-vows-to-continue-fight-for-justice)*
 
 ### بین الاقوامی
-- امریکہ نے وینزویلا کے تیل کے معاملے میں اپنی پوزیشن کو تحفظ دینے کے لیے اقدامات کیے ہیں۔ *[ARY](https://arynews.tv/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says)*
-- مستقل عدالت کے فیصلے کے مطابق سندھ طاس معاہدہ (IWT) مکمل طور پر نافذ العمل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438090/the-iwt-stands)*
+- یوکرین جنگ کے خاتمے کے لیے امریکی ایلچیوں نے کیف میں صدر زیلنسکی سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40438170/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push)*
+- روس نے جرمنی پر جنگ کی خواہش کرنے کا الزام لگاتے ہوئے ڈرون حملوں کے الزامات مسترد کر دیے۔ *[ARY](https://arynews.tv/germany-wants-war-again-russia-fm-says-dismissing-drone-accusations)*
+- یمن میں حکومتی افواج اور حوثی باغیوں کے درمیان جھڑپوں میں 140 سے زائد افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438175/more-than-140-killed-in-latest-yemen-clashes-military-sources)*
+- پاکستان اور سات دیگر مسلم ممالک نے غزہ کے فلسطینیوں کے جبری نقل مکانی کے منصوبوں کی شدید مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438169/pakistan-7-other-countries-reject-forced-displacement-of-palestinians-from-gaza)*
+- ایران کے پارلیمنٹ سپیکر نے امریکی حملوں کے جواب میں سخت اور دردناک کارروائی کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438166/irans-response-to-us-attacks-will-be-more-painful-parliament-speaker-says)*
+- پاکستان نے بھارت میں ایک صدی پرانے مسجد کی مسماری کی شدید مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438173/pakistan-condemns-demolition-of-century-old-mosque-in-india)*
+- پاکستان نے سیلاب زدہ نیپال کی امداد کے لیے 100 ٹن انسانی ہمدردی کا سامان بھیجا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438171/pakistan-sends-100-tonnes-of-humanitarian-aid-to-flood-hit-nepal)*
+- جرمنی نے ایئرپورٹ پر ڈرون حملوں کے بعد روس کی تخریبی کارروائیوں کے خلاف دفاعی نظام مضبوط کرنے کا منصوبہ بنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438163/germany-plans-anti-sabotage-shield-after-airport-drone-attack-reports)*
+- امریکی طیارہ بردار 'ابراہم لنکن' پانچ روزہ دورے کے بعد تھائی لینڈ سے روانہ ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438164/us-carrier-abraham-lincoln-departs-thailand-after-respite-visit)*
+- نیپال میں ایک خاتون، جسے خاندان نے مردہ سمجھ لیا تھا، کئی دنوں بعد زندہ مل گئی۔ *[ARY](https://arynews.tv/nepali-woman-found-alive-days-after-family-began-mourning-rites)*
 
-### صحت
-- ایک تحقیق کے مطابق امریکہ میں 12 سال سے کم عمر بچوں کو وزن کم کرنے والی ادویات دی جا رہی ہیں۔ *[ARY](https://arynews.tv/glp-weight-loss-drugs-us-children-prescribed-study-finds)*
+### کھیل
+- فٹ بال کے عالمی ادارے فیفا نے تصدیق کی ہے کہ جیانی انفانٹینو دوبارہ صدر کے انتخاب میں حصہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40438174/fifa-confirms-infantino-will-run-in-presidential-election)*
+- یو ایس اوپن میں الیگزینڈر زیورف نے ٹیبیلو کو شکست دے کر چوتھے راؤنڈ میں جگہ بنا لی۔ *[Business Recorder](https://www.brecorder.com/news/40438159/zverev-reaches-us-open-fourth-round-with-win-over-tabilo)*
+- لیونل میسی نے انٹر میامی کے لیے اپنے پہلے میچ میں گول اسسٹ فراہم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438156/messi-sets-up-miami-goal-in-first-game-since-argentina-retirement)*
+- فٹ بال کے میچ کے دوران مسی کے مداحوں نے کرسٹیانو رونالڈو کا مذاق اڑانے کے لیے نعرے لگائے۔ *[ARY](https://arynews.tv/messi-chants-mock-cristiano-ronaldo-during-al-nassrs-defeat)*
+- یو ایس اوپن میں ایوا جووچ نے اپنی دوست الیگزینڈرا ایالا کے خلاف فیصلہ کن جیت حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40438157/jovic-puts-friendship-with-eala-on-hold-to-win-three-hour-battle-at-us-open)*
+- ٹینس کھلاڑی ایگا سویاتیک نے یو ایس اوپن کے بڑے اسٹیڈیم کے بجائے چھوٹے اور پرسکون اسٹیڈیم میں کھیلنے کو ترجیح دی۔ *[Business Recorder](https://www.brecorder.com/news/40438161/swiatek-happy-to-swap-noisy-ashe-spotlight-for-intimate-grandstand)*
 
 ### دیگر
-- پیکجز مال میں ایک بڑا گیمنگ ٹورنامنٹ شروع کیا گیا ہے۔ *[ARY](https://arynews.tv/baaz-brings-a-major-gaming-tournament-to-packages-mall-and-its-live-now)*
+- گیم 'دی بلڈ آف ڈان والکر' نے صرف دو دنوں میں 10 لاکھ سے زیادہ کا فروخت کا ہدف عبور کر لیا۔ *[ARY](https://arynews.tv/the-blood-of-dawnwalker-sells-over-1-million-copies-in-just-two-days)*
 
