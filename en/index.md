@@ -4,51 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 06-Sep-2026 09:05PKT
+Published at: 06-Sep-2026 21:04PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- A Pakistani minister has proposed a one-stop center to streamline port services. *[ARY](https://arynews.tv/pakistan-minister-proposes-one-stop-center-for-port-services)*
-- The government has reduced the super tax to 8% as part of broad structural reforms. *[ARY](https://arynews.tv/govt-cut-super-tax-to-8-percent-as-part-of-broad-structural-reforms-says-kiyani)*
-- The price of 24-karat gold fell by Rs3,600 per tola. *[Business Recorder](https://www.brecorder.com/news/40438088/gold-dips-by-rs3600)*
-- The government has abolished the Personal Baggage Scheme for used vehicle imports to prevent commercial misuse. *[Business Recorder](https://www.brecorder.com/news/40438089/auto-imports-under-personal-baggage)*
-- International retail brand MOB has officially launched its first store in Karachi. *[Business Recorder](https://www.brecorder.com/news/40438098/mob-brings-a-global-off-price-retail-experience-to-pakistan)*
-- The President of FPCCI called for a revamp of the ECO Trade Agreement to enhance regional trade. *[Business Recorder](https://www.brecorder.com/news/40438100/demand-for-revamp-of-eco-trade-agreement)*
-- The newly established National Agri-Trade and Food Safety Authority (NAFSA) held its first stakeholder consultation. *[Business Recorder](https://www.brecorder.com/news/40438105/nafsa-holds-introductory-session)*
-- US employment growth is expected to remain steady, with the unemployment rate forecast at 4.1%. *[Business Recorder](https://www.brecorder.com/news/40438109/us-employment-rate-likely-to-be-unchanged)*
+- A Brazilian court has suspended licenses for the **Sigma Lithium** mine. *[ARY](https://arynews.tv/brazilian-court-suspends-licenses-for-sigma-lithium-mine)*
+- Iran's economic leverage in the Hormuz Strait is diminishing as the U.S. intensifies its economic offensive and naval blockade. *[Business Recorder](https://www.brecorder.com/news/40438172/irans-hormuz-leverage-wanes-as-us-economic-squeeze-bites)*
+- **OPEC+** has decided to keep its oil output policy unchanged for October. *[Business Recorder](https://www.brecorder.com/news/40438165/opec-keeps-oil-output-policy-unchanged-for-october)*
 
 ### Science & Technology
-- Xiaomi has introduced the Dragonscale EV battery, which comes with a lifetime fire replacement guarantee. *[ARY](https://arynews.tv/xiaomi-introduces-dragonscale-ev-battery-with-lifetime-fire-replacement-guarantee)*
-- Google is integrating Gemini voice tools into Gmail, Docs, and Keep. *[ARY](https://arynews.tv/google-adds-gemini-voice-tools-to-gmail-docs-and-keep)*
+- Leaked pricing suggests Apple's first foldable **iPhone Ultra** could start at $2,000. *[ARY](https://arynews.tv/iphone-ultra-price-leaks-show-apples-first-foldable-starts-at-2000)*
+- The video game ***The Blood of Dawnwalker*** achieved massive success, selling over 1 million copies in just two days. *[ARY](https://arynews.tv/the-blood-of-dawnwalker-sells-over-1-million-copies-in-just-two-days)*
 
 ### Weather
-- Pakistan is expected to experience above-average temperatures and below-normal rainfall in September. *[Business Recorder](https://www.brecorder.com/news/40438103/pakistan-likely-to-experience-above-average-temperatures-in-sept)*
+- The eruption of **Mount Anak Krakatau** in Indonesia has led to the suspension of flights, schools, and fishing activities. *[Business Recorder](https://www.brecorder.com/news/40438160/indonesias-anak-krakatau-eruption-halts-flights-schools-fishing)*
 
 ### Politics
-- The PPP has warned the federal government against interfering in the constitutional status of Sindh. *[Business Recorder](https://www.brecorder.com/news/40438087/ppp-warns-centre-against-interfering-in-sindhs-constitutional-status)*
-- Sindh Minister Sharjeel Inam Memon demanded clarification regarding Defence Minister Khawaja Asif's remarks about Sindh. *[Business Recorder](https://www.brecorder.com/news/40438096/sharjeel-demands-federal-govt-clarify-asifs-remarks)*
-- Debates over the creation of new provinces have intensified following accusations of "double standards" by Khawaja Asif. *[Business Recorder](https://www.brecorder.com/news/40438104/debate-over-new-provinces-intensifies-khawaja-asif-accuses-ppp-of-double-standard)*
+- U.S. peace envoys met with President **Volodymyr Zelenskiy** in Kyiv to discuss potential avenues for ending the Russia-Ukraine war. *[ARY](https://arynews.tv/us-envoys-hold-talks-with-zelensky-on-first-kyiv-visit) / [Business Recorder](https://www.brecorder.com/news/40438170/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push)*
+- Germany is planning a broad package of measures to create an **anti-sabotage shield** following recent drone attacks. *[Business Recorder](https://www.brecorder.com/news/40438163/germany-plans-anti-sabotage-shield-after-airport-drone-attack-reports)*
+- Pakistan and seven other Muslim nations have issued a joint statement rejecting the proposed **forced displacement of Palestinians** from Gaza. *[Business Recorder](https://www.brecorder.com/news/40438169/pakistan-7-other-countries-reject-forced-displacement-of-palestinians-from-gaza)*
 
 ### National
-- Pakistan is observing Defence and Martyrs Day; PM Shehbaz Sharif paid tribute to the nation's martyrs and armed forces. *[ARY](https://arynews.tv/defence-and-martyrs-day-is-being-observed-in-pakistan)*
-- The court has granted interim bail to a suspect involved in the Ali Jafri assault case. *[ARY](https://arynews.tv/ali-jafri-assault-case-court-grants-suspect-interim-bail)*
-- At least 40 criminal incidents, including carjackings and robberies, were reported in Islamabad over the past week. *[Business Recorder](https://www.brecorder.com/news/40438093/at-least-40-incidents-of-various-crimes-reported-in-islamabad-in-one-week)*
-- CCD Punjab has launched a large-scale crackdown on the sale and use of narcotics. *[Business Recorder](https://www.brecorder.com/news/40438094/ccd-punjab-launches-crackdown-on-narcotics)*
-- Karachi Mayor Murtaza Wahab inaugurated a book fair at the restored Empress Market. *[Business Recorder](https://www.brecorder.com/news/40438099/mayor-opens-book-fair-at-empress-market)*
-- Sindh CM Murad Ali Shah emphasized the protection and empowerment of indigenous women and girls. *[Business Recorder](https://www.brecorder.com/news/40438101/sindh-cm-calls-for-protection-empowerment-of-women-girls)*
-- The Punjab government is intensifying enforcement against environmental law violations. *[Business Recorder](https://www.brecorder.com/news/40438102/punjab-intensifies-crackdown-on-environment-law-violations)*
-- An upgraded Social Security Hospital in Sialkot was inaugurated by federal and provincial ministers. *[Business Recorder](https://www.brecorder.com/news/40438106/asif-manshaullah-inaugurate-upgraded-social-security-hospital)*
-- The Suthra Punjab initiative has expanded sanitation and waste management services to rural areas. *[Business Recorder](https://www.brecorder.com/news/40438107/suthra-punjab-initiative-has-revolutionised-sanitation-work-minister)*
-- The CEO of PCBDDA has ordered the expedited site clearance at Bab-e-Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438108/ceo-cbd-orders-the-expedited-site-clearance-at-bab-e-pakistan)*
+- The **chehlum** of Mir Raza was held in Karachi, where his father vowed to continue the fight for justice. *[ARY](https://arynews.tv/mir-razas-chehlum-held-in-karachi-father-vows-to-continue-fight-for-justice)*
+- Karachi's **Numaish Chowrangi** has been closed from all sides due to security concerns. *[ARY](https://arynews.tv/karachis-numaish-chowrangi-closed-from-all-sides-over-security-concerns)*
+- PTI leader **Hammad Azhar** has been reportedly arrested in Multan in connection with the May 9, 2023, unrest. *[Business Recorder](https://www.brecorder.com/news/40438168/pti-leader-hammad-azhar-reportedly-arrested-in-multan)*
+- Deputy Prime Minister and Foreign Minister **Ishaq Dar** held discussions with counterparts from Saudi Arabia, Egypt, and Turkiye regarding regional security and the Makkah Defence Alliance. *[Business Recorder](https://www.brecorder.com/news/40438167/fm-dar-discusses-regional-security-makkah-pact-with-saudi-egyptian-turkish-counterparts)*
+- Security forces killed **21 terrorists** during multiple operations across Khyber Pakhtunkhwa province. *[Business Recorder](https://www.brecorder.com/news/40438162/security-forces-killed-21-terrorists-in-multiple-kp-operations-ispr)*
 
 ### International
-- The US has structured its Venezuela oil position to protect it from dilution. *[ARY](https://arynews.tv/us-structured-venezuela-oil-position-to-protect-it-from-dilution-official-says)*
-- The Permanent Court of Arbitration ruled that the Indus Waters Treaty (IWT) remains fully in force. *[Business Recorder](https://www.brecorder.com/news/40438090/the-iwt-stands)*
+- Iran has warned that any further attacks against its interests will receive a "faster, heavier and **more painful response**." *[ARY](https://arynews.tv/iran-to-tackle-economic-issues-says-further-attacks-will-be-more-painful) / [Business Recorder](https://www.brecorder.com/news/40438166/irans-response-to-us-attacks-will-be-more-painful-parliament-speaker-says)*
+- A **Nepali woman** was found alive days after her family had already begun her mourning rites. *[ARY](https://arynews.tv/nepali-woman-found-alive-days-after-family-began-mourning-rites)*
+- More than **140 people** were killed in recent clashes between Yemeni government forces and Houthi rebels. *[Business Recorder](https://www.brecorder.com/news/40438175/more-than-140-killed-in-latest-yemen-clashes-military-sources)*
+- Pakistan has condemned the **demolition of a century-old mosque** in Saharanpur, India. *[Business Recorder](https://www.brecorder.com/news/40438173/pakistan-condemns-demolition-of-century-old-mosque-in-india)*
+- Pakistan dispatched **100 tonnes of humanitarian aid**, including medicines and hygiene kits, to flood-hit Nepal. *[Business Recorder](https://www.brecorder.com/news/40438171/pakistan-sends-100-tonnes-of-humanitarian-aid-to-flood-hit-nepal)*
+- The U.S. aircraft carrier **Abraham Lincoln** has departed Thailand following a five-day port visit. *[Business Recorder](https://www.brecorder.com/news/40438164/us-carrier-abraham-lincoln-departs-thailand-after-respite-visit)*
+- The Kremlin stated that while talks between **Vladimir Putin** and U.S. envoys were "highly useful," there is currently no sign of a breakthrough in the Ukraine war. *[Business Recorder](https://www.brecorder.com/news/40438158/kremlin-says-ukraine-talks-with-us-envoys-were-useful-no-sign-of-breakthrough)*
 
 ### Sports
-- Baaz is hosting a major gaming tournament at Packages Mall. *[ARY](https://arynews.tv/baaz-brings-a-major-gaming-tournament-to-packages-mall-and-its-live-now)*
-
-### Health
-- A study indicates an increase in weight-loss drug prescriptions for children under 12 in the US. *[ARY](https://arynews.tv/glp-weight-loss-drugs-us-children-prescribed-study-finds)*
+- **Lionel Messi** provided an assist in his first game for Inter Miami since retiring from international duty. *[Business Recorder](https://www.brecorder.com/news/40438156/messi-sets-up-miami-goal-in-first-game-since-argentina-retirement)*
+- Fans mocked **Cristiano Ronaldo** with Messi chants during Al-Nassr’s recent defeat. *[ARY](https://arynews.tv/messi-chants-mock-cristiano-ronaldo-during-al-nassrs-defeat)*
+- **Gianni Infantino** has confirmed he will stand for re-election as FIFA President in March 2027. *[Business Recorder](https://www.brecorder.com/news/40438174/fifa-confirms-infantino-will-run-in-presidential-election)*
+- **Alexander Zverev** secured a spot in the fourth round of the U.S. Open after defeating Alejandro Tabilo. *[Business Recorder](https://www.brecorder.com/news/40438159/zverev-reaches-us-open-fourth-round-with-win-over-tabilo)*
+- **Iva Jovic** defeated Alexandra Eala in a three-hour battle to reach the fourth round of the U.S. Open. *[Business Recorder](https://www.brecorder.com/news/40438157/jovic-puts-friendship-with-eala-on-hold-to-win-three-hour-battle-at-us-open)*
+- **Iga Swiatek** expressed her preference for the more intimate Grandstand venue over the noisy Arthur Ashe Stadium. *[Business Recorder](https://www.brecorder.com/news/40438161/swiatek-happy-to-swap-noisy-ashe-spotlight-for-intimate-grandstand)*
 
