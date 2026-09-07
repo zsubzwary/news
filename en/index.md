@@ -4,48 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 06-Sep-2026 21:04PKT
+Published at: 07-Sep-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- A Brazilian court has suspended licenses for the **Sigma Lithium** mine. *[ARY](https://arynews.tv/brazilian-court-suspends-licenses-for-sigma-lithium-mine)*
-- Iran's economic leverage in the Hormuz Strait is diminishing as the U.S. intensifies its economic offensive and naval blockade. *[Business Recorder](https://www.brecorder.com/news/40438172/irans-hormuz-leverage-wanes-as-us-economic-squeeze-bites)*
-- **OPEC+** has decided to keep its oil output policy unchanged for October. *[Business Recorder](https://www.brecorder.com/news/40438165/opec-keeps-oil-output-policy-unchanged-for-october)*
+- Foxconn expects its third-quarter performance to outperform market expectations due to robust demand for AI technology. *[Business Recorder](https://www.brecorder.com/news/40438275/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength)*
+- The Indian rupee is expected to remain stable with support from the Reserve Bank of India, despite pressures from rising oil prices and potential US Fed rate hikes. *[Business Recorder](https://www.brecorder.com/news/40438272/indian-rupee-may-withstand-oil-fed-pressures-with-rbi-support)*
+- Asian shares saw a rally following a strong US jobs report, though rising oil prices due to Middle East tensions caused caution elsewhere. *[Business Recorder](https://www.brecorder.com/news/40438271/asia-shares-bounce-others-cautious-as-oil-rises)*
+- The US dollar experienced minimal movement despite increased expectations for a Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40438270/dollar-gets-little-lift-from-boost-in-fed-hike-expectations)*
+- Indian shares are projected to see modest gains, though investors remain wary of escalating tensions in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40438269/indian-shares-set-for-modest-gains-but-mideast-tensions-keep-investors-wary)*
+- Gold prices declined as strong US payroll data reinforced expectations for higher interest rates. *[Business Recorder](https://www.brecorder.com/news/40438268/gold-eases-as-robust-us-payrolls-boost-rate-hike-bets-inflation-data-in-focus)*
+- Oil prices extended their gains following tit-for-tat maritime strikes between the US and Iran in the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40438263/oil-extends-gains-after-us-and-iran-strike-ships)*
+- The Hyderabad Chamber of Small Traders expressed concern that daily fluctuations in petrol and diesel prices are making it difficult for businesses and households to manage budgets. *[Business Recorder](https://www.brecorder.com/news/40438251/daily-changes-in-pol-prices-unacceptable)*
 
 ### Science & Technology
-- Leaked pricing suggests Apple's first foldable **iPhone Ultra** could start at $2,000. *[ARY](https://arynews.tv/iphone-ultra-price-leaks-show-apples-first-foldable-starts-at-2000)*
-- The video game ***The Blood of Dawnwalker*** achieved massive success, selling over 1 million copies in just two days. *[ARY](https://arynews.tv/the-blood-of-dawnwalker-sells-over-1-million-copies-in-just-two-days)*
-
-### Weather
-- The eruption of **Mount Anak Krakatau** in Indonesia has led to the suspension of flights, schools, and fishing activities. *[Business Recorder](https://www.brecorder.com/news/40438160/indonesias-anak-krakatau-eruption-halts-flights-schools-fishing)*
+- Germany's first commercial space rocket has successfully reached orbit. *[ARY](https://arynews.tv/german-space-rocket-reaches-orbit-in-europes-first-commercial-launch)*
 
 ### Politics
-- U.S. peace envoys met with President **Volodymyr Zelenskiy** in Kyiv to discuss potential avenues for ending the Russia-Ukraine war. *[ARY](https://arynews.tv/us-envoys-hold-talks-with-zelensky-on-first-kyiv-visit) / [Business Recorder](https://www.brecorder.com/news/40438170/us-envoys-make-first-kyiv-visit-amid-ukraine-war-peace-push)*
-- Germany is planning a broad package of measures to create an **anti-sabotage shield** following recent drone attacks. *[Business Recorder](https://www.brecorder.com/news/40438163/germany-plans-anti-sabotage-shield-after-airport-drone-attack-reports)*
-- Pakistan and seven other Muslim nations have issued a joint statement rejecting the proposed **forced displacement of Palestinians** from Gaza. *[Business Recorder](https://www.brecorder.com/news/40438169/pakistan-7-other-countries-reject-forced-displacement-of-palestinians-from-gaza)*
+- Donald Trump’s approval rating has fallen to 33% as economic concerns grow ahead of the midterms. *[ARY](https://arynews.tv/trumps-approval-rating-falls-to-33-as-economic-concerns-mount-ahead-of-midterms)*
+- A proposed governance overhaul for Islamabad includes the creation of an elected assembly and increased local autonomy. *[ARY](https://arynews.tv/islamabad-governance-overhaul-proposes-elected-assembly-chief-executive-and-greater-local-autonomy)*
+- Fazal ur Rehman has called for a national political dialogue to address various ongoing issues. *[ARY](https://arynews.tv/fazal-ur-rehman-calls-for-national-political-dialogue-on-all-issues)*
 
 ### National
-- The **chehlum** of Mir Raza was held in Karachi, where his father vowed to continue the fight for justice. *[ARY](https://arynews.tv/mir-razas-chehlum-held-in-karachi-father-vows-to-continue-fight-for-justice)*
-- Karachi's **Numaish Chowrangi** has been closed from all sides due to security concerns. *[ARY](https://arynews.tv/karachis-numaish-chowrangi-closed-from-all-sides-over-security-concerns)*
-- PTI leader **Hammad Azhar** has been reportedly arrested in Multan in connection with the May 9, 2023, unrest. *[Business Recorder](https://www.brecorder.com/news/40438168/pti-leader-hammad-azhar-reportedly-arrested-in-multan)*
-- Deputy Prime Minister and Foreign Minister **Ishaq Dar** held discussions with counterparts from Saudi Arabia, Egypt, and Turkiye regarding regional security and the Makkah Defence Alliance. *[Business Recorder](https://www.brecorder.com/news/40438167/fm-dar-discusses-regional-security-makkah-pact-with-saudi-egyptian-turkish-counterparts)*
-- Security forces killed **21 terrorists** during multiple operations across Khyber Pakhtunkhwa province. *[Business Recorder](https://www.brecorder.com/news/40438162/security-forces-killed-21-terrorists-in-multiple-kp-operations-ispr)*
+- Jam Kamal has called for a fact-based debate regarding the history of Lasbela. *[ARY](https://arynews.tv/jam-kamal-calls-for-fact-based-debate-on-lasbela-history)*
+- Hafiz Naeem emphasized national unity, stating that slogans for Sindhu Desh will not succeed in Pakistan. *[ARY](https://arynews.tv/no-slogan-of-sindhu-desh-will-work-there-is-only-one-pakistan-hafiz-naeem)*
+- The Pakistan Petroleum Dealers Association has labeled the sealing of petrol pumps by the KMC as illegal. *[Business Recorder](https://www.brecorder.com/news/40438262/ppda-terms-petrol-pump-sealing-by-kmc-illegal)*
+- Punjab Assembly Speaker Malik Muhammad Ahmad Khan paid tribute to the nation's martyrs on Defence Day. *[Business Recorder](https://www.brecorder.com/news/40438252/defence-day-a-reminder-of-sacrifices-of-martyrs-veterans)*
+- Hydro workers are demanding the re-merger of power distribution companies (Discos) into WAPDA and opposing privatization. *[Business Recorder](https://www.brecorder.com/news/40438253/hydro-union-demands-discos-re-merger-into-wapda)*
+- IESCO has notified a power suspension programme in various areas due to scheduled maintenance work. *[Business Recorder](https://www.brecorder.com/news/40438254/iesco-notifies-power-suspension-programme)*
+- The historic Kamran Ki Baradari in Lahore is slated for restoration and beautification. *[Business Recorder](https://www.brecorder.com/news/40438259/riverfront-hotel-to-be-constructed-at-kamrans-baradari)*
+- An International Travelers Vaccination Centre is being established at Lahore airport to assist passengers traveling abroad. *[Business Recorder](https://www.brecorder.com/news/40438255/international-travelers-vaccination-centre-to-be-set-up-at-lahore-airport)*
+- PESCO has issued a notification ending the deduction of union funds from employee salaries. *[Business Recorder](https://www.brecorder.com/news/40438257/pesco-ends-union-fund-cut-from-salaries)*
+- Prime Minister Shehbaz Sharif commended the Pakistan Air Force for its professional performance on PAF Day. *[Business Recorder](https://www.brecorder.com/news/40438258/pm-commends-paf-for-outstanding-performance)*
+- Shah Abdul Latif University organized a speech competition in observance of Defence Day. *[Business Recorder](https://www.brecorder.com/news/40438260/defence-day-salu-organises-speech-competition)*
 
 ### International
-- Iran has warned that any further attacks against its interests will receive a "faster, heavier and **more painful response**." *[ARY](https://arynews.tv/iran-to-tackle-economic-issues-says-further-attacks-will-be-more-painful) / [Business Recorder](https://www.brecorder.com/news/40438166/irans-response-to-us-attacks-will-be-more-painful-parliament-speaker-says)*
-- A **Nepali woman** was found alive days after her family had already begun her mourning rites. *[ARY](https://arynews.tv/nepali-woman-found-alive-days-after-family-began-mourning-rites)*
-- More than **140 people** were killed in recent clashes between Yemeni government forces and Houthi rebels. *[Business Recorder](https://www.brecorder.com/news/40438175/more-than-140-killed-in-latest-yemen-clashes-military-sources)*
-- Pakistan has condemned the **demolition of a century-old mosque** in Saharanpur, India. *[Business Recorder](https://www.brecorder.com/news/40438173/pakistan-condemns-demolition-of-century-old-mosque-in-india)*
-- Pakistan dispatched **100 tonnes of humanitarian aid**, including medicines and hygiene kits, to flood-hit Nepal. *[Business Recorder](https://www.brecorder.com/news/40438171/pakistan-sends-100-tonnes-of-humanitarian-aid-to-flood-hit-nepal)*
-- The U.S. aircraft carrier **Abraham Lincoln** has departed Thailand following a five-day port visit. *[Business Recorder](https://www.brecorder.com/news/40438164/us-carrier-abraham-lincoln-departs-thailand-after-respite-visit)*
-- The Kremlin stated that while talks between **Vladimir Putin** and U.S. envoys were "highly useful," there is currently no sign of a breakthrough in the Ukraine war. *[Business Recorder](https://www.brecorder.com/news/40438158/kremlin-says-ukraine-talks-with-us-envoys-were-useful-no-sign-of-breakthrough)*
+- An Amazon Prime Air cargo plane crashed at Miami International Airport, resulting in at least five deaths. *[ARY](https://arynews.tv/amazon-prime-air-cargo-plane-crash-claims-at-least-five-lives)*
 
 ### Sports
-- **Lionel Messi** provided an assist in his first game for Inter Miami since retiring from international duty. *[Business Recorder](https://www.brecorder.com/news/40438156/messi-sets-up-miami-goal-in-first-game-since-argentina-retirement)*
-- Fans mocked **Cristiano Ronaldo** with Messi chants during Al-Nassr’s recent defeat. *[ARY](https://arynews.tv/messi-chants-mock-cristiano-ronaldo-during-al-nassrs-defeat)*
-- **Gianni Infantino** has confirmed he will stand for re-election as FIFA President in March 2027. *[Business Recorder](https://www.brecorder.com/news/40438174/fifa-confirms-infantino-will-run-in-presidential-election)*
-- **Alexander Zverev** secured a spot in the fourth round of the U.S. Open after defeating Alejandro Tabilo. *[Business Recorder](https://www.brecorder.com/news/40438159/zverev-reaches-us-open-fourth-round-with-win-over-tabilo)*
-- **Iva Jovic** defeated Alexandra Eala in a three-hour battle to reach the fourth round of the U.S. Open. *[Business Recorder](https://www.brecorder.com/news/40438157/jovic-puts-friendship-with-eala-on-hold-to-win-three-hour-battle-at-us-open)*
-- **Iga Swiatek** expressed her preference for the more intimate Grandstand venue over the noisy Arthur Ashe Stadium. *[Business Recorder](https://www.brecorder.com/news/40438161/swiatek-happy-to-swap-noisy-ashe-spotlight-for-intimate-grandstand)*
+- In football, Mainz defeated Hamburg, while Augsburg has moved to the top of the standings. *[ARY](https://arynews.tv/mainz-thrash-hamburg-as-augsburg-move-to-top)*
+
+### Health
+- Oncologists are investigating the potential of Ivermectin as a possible treatment for cancer. *[ARY](https://arynews.tv/is-ivermectin-a-possible-cure-for-cancer)*
+- Scientists have discovered a new tick-borne virus that causes undiagnosed flu-like symptoms. *[ARY](https://arynews.tv/new-tick-borne-virus-with-undiagnosed-flu-like-symptoms-is-discovered-by-scientists)*
+- A significant dengue outbreak in Bangladesh is putting immense strain on the country's hospital system. *[Business Recorder](https://www.brecorder.com/news/40438273/bangladesh-dengue-outbreak-accelerates-as-hospitals-come-under-strain)*
+- Health experts in Pakistan are calling for obesity to be treated as a chronic disease following a sharp rise in obesity rates. *[Business Recorder](https://www.brecorder.com/news/40438256/obesity-emerges-as-major-health-challenge)*
 
