@@ -4,50 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 07-Sep-2026 09:04PKT
+Published at: 07-Sep-2026 21:04PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Foxconn expects its third-quarter performance to outperform market expectations due to robust demand for AI technology. *[Business Recorder](https://www.brecorder.com/news/40438275/foxconn-says-third-quarter-to-outperform-market-expectations-on-ai-strength)*
-- The Indian rupee is expected to remain stable with support from the Reserve Bank of India, despite pressures from rising oil prices and potential US Fed rate hikes. *[Business Recorder](https://www.brecorder.com/news/40438272/indian-rupee-may-withstand-oil-fed-pressures-with-rbi-support)*
-- Asian shares saw a rally following a strong US jobs report, though rising oil prices due to Middle East tensions caused caution elsewhere. *[Business Recorder](https://www.brecorder.com/news/40438271/asia-shares-bounce-others-cautious-as-oil-rises)*
-- The US dollar experienced minimal movement despite increased expectations for a Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40438270/dollar-gets-little-lift-from-boost-in-fed-hike-expectations)*
-- Indian shares are projected to see modest gains, though investors remain wary of escalating tensions in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40438269/indian-shares-set-for-modest-gains-but-mideast-tensions-keep-investors-wary)*
-- Gold prices declined as strong US payroll data reinforced expectations for higher interest rates. *[Business Recorder](https://www.brecorder.com/news/40438268/gold-eases-as-robust-us-payrolls-boost-rate-hike-bets-inflation-data-in-focus)*
-- Oil prices extended their gains following tit-for-tat maritime strikes between the US and Iran in the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40438263/oil-extends-gains-after-us-and-iran-strike-ships)*
-- The Hyderabad Chamber of Small Traders expressed concern that daily fluctuations in petrol and diesel prices are making it difficult for businesses and households to manage budgets. *[Business Recorder](https://www.brecorder.com/news/40438251/daily-changes-in-pol-prices-unacceptable)*
+- NEPRA has made a decision regarding direct access to the electricity network. *[ARY](https://arynews.tv/leghari-hails-nepra-decision-on-direct-access-to-electricity-network)*
+- SE Fruits & Vegetables has received PSX approval for an IPO aiming to raise up to Rs1.92bn. *[Business Recorder](https://www.brecorder.com/news/40438326/se-fruits-amp-vegetables-secures-psx-approval-for-ipo-to-raise-up-to-rs192bn)*
+- Alternative-fuel car sales in India outpaced petrol vehicles in August for the first time. *[Business Recorder](https://www.brecorder.com/news/40438322/alternative-fuel-car-sales-in-india-top-petrol-on-cost-e20-concerns-dealers-body-says)*
+- The Reserve Bank of India sold at least $8 billion to stabilize the rupee. *[Business Recorder](https://www.brecorder.com/news/40438321/indian-central-bank-unloaded-at-least-8-billion-last-week-to-anchor-rupee-bankers-say)*
+- Saudi PIF has launched a new firm to develop tourism and residential areas on the Al-Khafji coastline. *[Business Recorder](https://www.brecorder.com/news/40438319/saudi-pif-launches-firm-to-develop-tourism-residential-area-on-gulf-coast)*
+- Aggressive vegetable oil imports in India are causing port congestion and unloading delays. *[Business Recorder](https://www.brecorder.com/news/40438318/indias-vegetable-oil-imports-strain-port-storage-delaying-unloading)*
+- The Indian rupee remained flat due to RBI interventions and rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40438317/indian-rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs)*
+- Copper prices are approaching record highs due to tight supplies outside the US. *[Business Recorder](https://www.brecorder.com/news/40438316/copper-heads-towards-record-high-focus-on-tight-supplies-outside-us)*
+- Malaysian palm oil futures hit a two-week high following stronger Dalian palm olein prices. *[Business Recorder](https://www.brecorder.com/news/40438315/palm-extends-gains-hits-two-week-high-on-stronger-dalian-palm-olein)*
+- Indian stocks fell to a six-week low as IT stocks slid and oil concerns increased. *[Business Recorder](https://www.brecorder.com/news/40438314/indian-stocks-slip-to-six-week-low-as-it-slides-oil-worries-mount)*
+- Bank of Maharashtra and Canara Bank are planning dollar debt issuances this month. *[Business Recorder](https://www.brecorder.com/news/40438313/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say)*
+- The Pakistani rupee has registered gains against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40438311/intra-day-update-rupee-records-gain-against-us-dollar)*
 
 ### Science & Technology
-- Germany's first commercial space rocket has successfully reached orbit. *[ARY](https://arynews.tv/german-space-rocket-reaches-orbit-in-europes-first-commercial-launch)*
+- Leaked hands-on video reveals new Dark Cherry and Blue colors for the iPhone 18 Pro. *[ARY](https://arynews.tv/iphone-18-pro-leaked-hands-on-video-reveals-new-dark-cherry-blue-colors)*
+- Nintendo has lifted Switch 2 console bans following a server error that caused false lockouts. *[ARY](https://arynews.tv/nintendo-lifts-switch-2-console-bans-after-server-error-sparks-false-lockout)*
 
 ### Politics
-- Donald Trump’s approval rating has fallen to 33% as economic concerns grow ahead of the midterms. *[ARY](https://arynews.tv/trumps-approval-rating-falls-to-33-as-economic-concerns-mount-ahead-of-midterms)*
-- A proposed governance overhaul for Islamabad includes the creation of an elected assembly and increased local autonomy. *[ARY](https://arynews.tv/islamabad-governance-overhaul-proposes-elected-assembly-chief-executive-and-greater-local-autonomy)*
-- Fazal ur Rehman has called for a national political dialogue to address various ongoing issues. *[ARY](https://arynews.tv/fazal-ur-rehman-calls-for-national-political-dialogue-on-all-issues)*
+- Jamaat-e-Islami has proposed six measures to abolish the petroleum levy. *[ARY](https://arynews.tv/jamaat-e-islami-proposes-six-measures-to-abolish-petroleum-levy)*
 
 ### National
-- Jam Kamal has called for a fact-based debate regarding the history of Lasbela. *[ARY](https://arynews.tv/jam-kamal-calls-for-fact-based-debate-on-lasbela-history)*
-- Hafiz Naeem emphasized national unity, stating that slogans for Sindhu Desh will not succeed in Pakistan. *[ARY](https://arynews.tv/no-slogan-of-sindhu-desh-will-work-there-is-only-one-pakistan-hafiz-naeem)*
-- The Pakistan Petroleum Dealers Association has labeled the sealing of petrol pumps by the KMC as illegal. *[Business Recorder](https://www.brecorder.com/news/40438262/ppda-terms-petrol-pump-sealing-by-kmc-illegal)*
-- Punjab Assembly Speaker Malik Muhammad Ahmad Khan paid tribute to the nation's martyrs on Defence Day. *[Business Recorder](https://www.brecorder.com/news/40438252/defence-day-a-reminder-of-sacrifices-of-martyrs-veterans)*
-- Hydro workers are demanding the re-merger of power distribution companies (Discos) into WAPDA and opposing privatization. *[Business Recorder](https://www.brecorder.com/news/40438253/hydro-union-demands-discos-re-merger-into-wapda)*
-- IESCO has notified a power suspension programme in various areas due to scheduled maintenance work. *[Business Recorder](https://www.brecorder.com/news/40438254/iesco-notifies-power-suspension-programme)*
-- The historic Kamran Ki Baradari in Lahore is slated for restoration and beautification. *[Business Recorder](https://www.brecorder.com/news/40438259/riverfront-hotel-to-be-constructed-at-kamrans-baradari)*
-- An International Travelers Vaccination Centre is being established at Lahore airport to assist passengers traveling abroad. *[Business Recorder](https://www.brecorder.com/news/40438255/international-travelers-vaccination-centre-to-be-set-up-at-lahore-airport)*
-- PESCO has issued a notification ending the deduction of union funds from employee salaries. *[Business Recorder](https://www.brecorder.com/news/40438257/pesco-ends-union-fund-cut-from-salaries)*
-- Prime Minister Shehbaz Sharif commended the Pakistan Air Force for its professional performance on PAF Day. *[Business Recorder](https://www.brecorder.com/news/40438258/pm-commends-paf-for-outstanding-performance)*
-- Shah Abdul Latif University organized a speech competition in observance of Defence Day. *[Business Recorder](https://www.brecorder.com/news/40438260/defence-day-salu-organises-speech-competition)*
+- Jibran Nasir has accused the Sindh government and police of protecting killers in the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-jibran-nasir-accuses-sindh-government-police-of-protecting-killers)*
+- NADRA has announced new services for computerized arms licenses. *[ARY](https://arynews.tv/nadra-announces-services-for-computerized-arms-licences)*
+- A fire at Landhi EPZ has spread to an adjoining building and remains uncontrolled. *[ARY](https://arynews.tv/landhi-epz-fire-flames-spread-to-adjoining-building-as-blaze-remains-uncontrolled)*
+- Guidance has been released on how to renew CNICs via the NADRA PakID app. *[ARY](https://arynews.tv/how-to-renew-cnic-via-nadra-pakid-app)*
+- A Defence Day event in Karachi honored fallen soldiers and military heroes. *[Business Recorder](https://www.brecorder.com/news/40438310/defence-day-event-in-karachi-honours-fallen-soldiers-and-military-heroes)*
 
 ### International
-- An Amazon Prime Air cargo plane crashed at Miami International Airport, resulting in at least five deaths. *[ARY](https://arynews.tv/amazon-prime-air-cargo-plane-crash-claims-at-least-five-lives)*
+- Saudi Arabia is preparing to grant the IAEA more intrusive powers regarding nuclear inspections. *[Business Recorder](https://www.brecorder.com/news/40438329/saudi-arabia-preparing-to-grant-iaea-more-intrusive-powers-grossi-says)*
+- A building collapse in Delhi, India, has killed at least six people. *[Business Recorder](https://www.brecorder.com/news/40438325/six-killed-in-delhi-building-collapse-rescuers-search-through-rubble)*
+- The Kremlin has not ruled out the resumption of peace talks between Russia, Ukraine, and the US. *[Business Recorder](https://www.brecorder.com/news/40438324/kremlin-says-it-does-not-rule-out-restart-of-peace-talks-with-ukraine-and-us)*
+- Oman evacuated 16 crew members from the Saudi-owned vessel Sidr after an attack by Iran. *[Business Recorder](https://www.brecorder.com/news/40438320/oman-says-it-evacuated-16-crew-members-of-saudi-sidr-vessel-attacked-by-iran)*
+- India's defence panel has cleared purchase proposals worth approximately $11.6 billion. *[Business Recorder](https://www.brecorder.com/news/40438312/indian-defence-panel-clears-purchase-proposals-worth-116-billion)*
 
 ### Sports
-- In football, Mainz defeated Hamburg, while Augsburg has moved to the top of the standings. *[ARY](https://arynews.tv/mainz-thrash-hamburg-as-augsburg-move-to-top)*
+- Kylian Mbappe addressed claims linking his PSG exit to the club's Champions League triumphs. *[ARY](https://arynews.tv/kylian-mbappe-addresses-claims-linking-psg-champions-league-triumphs-to-his-exit)*
+- Jose Mourinho stated he feels no added pressure during his second spell at Real Madrid. *[Business Recorder](https://www.brecorder.com/news/40438328/mourinho-not-feeling-pressure-to-win-champions-league-in-second-real-madrid-spell)*
+- Temba Bavuma will captain the South Africa ODI squad in their series against Australia. *[Business Recorder](https://www.brecorder.com/news/40438327/bavuma-to-captain-south-africa-odi-squad-against-australia)*
+- Kevin Pietersen has been appointed as a specialist mentor for England's white-ball teams. *[Business Recorder](https://www.brecorder.com/news/40438323/pietersen-back-in-england-colours-as-mentor-in-build-up-to-2027-world-cup)*
 
 ### Health
-- Oncologists are investigating the potential of Ivermectin as a possible treatment for cancer. *[ARY](https://arynews.tv/is-ivermectin-a-possible-cure-for-cancer)*
-- Scientists have discovered a new tick-borne virus that causes undiagnosed flu-like symptoms. *[ARY](https://arynews.tv/new-tick-borne-virus-with-undiagnosed-flu-like-symptoms-is-discovered-by-scientists)*
-- A significant dengue outbreak in Bangladesh is putting immense strain on the country's hospital system. *[Business Recorder](https://www.brecorder.com/news/40438273/bangladesh-dengue-outbreak-accelerates-as-hospitals-come-under-strain)*
-- Health experts in Pakistan are calling for obesity to be treated as a chronic disease following a sharp rise in obesity rates. *[Business Recorder](https://www.brecorder.com/news/40438256/obesity-emerges-as-major-health-challenge)*
+- A trial by Novo Nordisk shows that Wegovy significantly cut obesity rates in young children. *[ARY](https://arynews.tv/wegovy-cut-obesity-rates-in-young-children-in-trial-novo-nordisk)*
 
