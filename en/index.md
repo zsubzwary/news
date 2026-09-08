@@ -4,51 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 07-Sep-2026 21:04PKT
+Published at: 08-Sep-2026 09:04PKT
 
 Time to read: 3 mins
 
 ### Economy
-- NEPRA has made a decision regarding direct access to the electricity network. *[ARY](https://arynews.tv/leghari-hails-nepra-decision-on-direct-access-to-electricity-network)*
-- SE Fruits & Vegetables has received PSX approval for an IPO aiming to raise up to Rs1.92bn. *[Business Recorder](https://www.brecorder.com/news/40438326/se-fruits-amp-vegetables-secures-psx-approval-for-ipo-to-raise-up-to-rs192bn)*
-- Alternative-fuel car sales in India outpaced petrol vehicles in August for the first time. *[Business Recorder](https://www.brecorder.com/news/40438322/alternative-fuel-car-sales-in-india-top-petrol-on-cost-e20-concerns-dealers-body-says)*
-- The Reserve Bank of India sold at least $8 billion to stabilize the rupee. *[Business Recorder](https://www.brecorder.com/news/40438321/indian-central-bank-unloaded-at-least-8-billion-last-week-to-anchor-rupee-bankers-say)*
-- Saudi PIF has launched a new firm to develop tourism and residential areas on the Al-Khafji coastline. *[Business Recorder](https://www.brecorder.com/news/40438319/saudi-pif-launches-firm-to-develop-tourism-residential-area-on-gulf-coast)*
-- Aggressive vegetable oil imports in India are causing port congestion and unloading delays. *[Business Recorder](https://www.brecorder.com/news/40438318/indias-vegetable-oil-imports-strain-port-storage-delaying-unloading)*
-- The Indian rupee remained flat due to RBI interventions and rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40438317/indian-rupee-ends-flat-hemmed-in-by-rbi-intervention-oil-pangs)*
-- Copper prices are approaching record highs due to tight supplies outside the US. *[Business Recorder](https://www.brecorder.com/news/40438316/copper-heads-towards-record-high-focus-on-tight-supplies-outside-us)*
-- Malaysian palm oil futures hit a two-week high following stronger Dalian palm olein prices. *[Business Recorder](https://www.brecorder.com/news/40438315/palm-extends-gains-hits-two-week-high-on-stronger-dalian-palm-olein)*
-- Indian stocks fell to a six-week low as IT stocks slid and oil concerns increased. *[Business Recorder](https://www.brecorder.com/news/40438314/indian-stocks-slip-to-six-week-low-as-it-slides-oil-worries-mount)*
-- Bank of Maharashtra and Canara Bank are planning dollar debt issuances this month. *[Business Recorder](https://www.brecorder.com/news/40438313/bank-of-maharashtra-canara-bank-eye-dollar-debt-issuance-this-month-bankers-say)*
-- The Pakistani rupee has registered gains against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40438311/intra-day-update-rupee-records-gain-against-us-dollar)*
+- A massive hike in **petrol prices** has been announced in Pakistan. *[ARY](https://arynews.tv/massive-hike-in-petrol-price-announced-in-pakistan)*
+- The **Japanese yen** reached a seven-month high against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40438429/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi)*
+- **Gold prices** climbed as the US dollar weakened ahead of upcoming inflation data. *[Business Recorder](https://www.brecorder.com/news/40438428/gold-gains-as-dollar-eases-with-us-inflation-data-on-radar)*
+- **Oil prices** rose due to increased supply concerns stemming from Middle East conflicts. *[Business Recorder](https://www.brecorder.com/news/40438427/oil-rises-as-risks-of-prolonged-mideast-conflict-heighten-supply-worries)*
+- **Oil prices** hit a six-week high following threats from Iran to strike energy infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438399/oil-prices-rise-to-six-week-highs)*
+- The **TCP** clarified that it has not been tasked with ensuring domestic sugar price stability. *[Business Recorder](https://www.brecorder.com/news/40438390/tcp-clarifies-ecc-directives-on-sugar-price-stability)*
+- **Volkswagen** is restructuring, with one German plant slated to switch to defense production. *[Business Recorder](https://www.brecorder.com/news/40438391/volkswagen-finds-defence-future-for-german-plant-amid-major-overhaul)*
+- **Nepra**'s decision regarding Use of System Charges (UoSC) has been welcomed by the energy ministry. *[Business Recorder](https://www.brecorder.com/news/40438394/nepras-uosc-decision-hailed)*
+- **Petrol prices** increased by Rs12.90 per litre, while High-Speed Diesel rose by Rs3.72. *[Business Recorder](https://www.brecorder.com/news/40438397/petrol-price-hiked-by-rs1290-hsds-by-rs372)*
+- **SNGPL** is facing a severe liquidity crunch due to Rs 174 billion in outstanding dues. *[Business Recorder](https://www.brecorder.com/news/40438402/sngpl-facing-serious-liquidity-crunch)*
+- **Nepra** notified a quarterly tariff adjustment that will increase consumer electricity bills by approximately Rs12.67bn. *[Business Recorder](https://www.brecorder.com/news/40438403/nepra-adjusts-quarterly-tariff-consumers-to-pay-additional-rs1267bn)*
+- **Nepra** approved uniform grid charges for bulk power consumers and open-access users. *[Business Recorder](https://www.brecorder.com/news/40438404/nepra-greenlights-uosc-for-bulk-consumers)*
 
 ### Science & Technology
-- Leaked hands-on video reveals new Dark Cherry and Blue colors for the iPhone 18 Pro. *[ARY](https://arynews.tv/iphone-18-pro-leaked-hands-on-video-reveals-new-dark-cherry-blue-colors)*
-- Nintendo has lifted Switch 2 console bans following a server error that caused false lockouts. *[ARY](https://arynews.tv/nintendo-lifts-switch-2-console-bans-after-server-error-sparks-false-lockout)*
+- **Microsoft** has uncovered a massive phishing campaign that utilizes the ASCII smuggling technique. *[ARY](https://arynews.tv/microsoft-uncovers-massive-phishing-campaign-exploiting-ascii-smuggling-technique)*
 
 ### Politics
-- Jamaat-e-Islami has proposed six measures to abolish the petroleum levy. *[ARY](https://arynews.tv/jamaat-e-islami-proposes-six-measures-to-abolish-petroleum-levy)*
+- **Khawaja Asif** stated that the Sindh Assembly's stance cannot prevent the implementation of new provinces. *[ARY](https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation)*
+- **President Zardari** cut short his visit to London due to significant political developments in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438387/president-cuts-short-his-london-visit)*
+- The **opposition** warned the government against making hasty decisions regarding the creation of new provinces. *[Business Recorder](https://www.brecorder.com/news/40438395/new-provinces-opposition-warns-govt-against-hasty-decision)*
+- The **Federal Constitutional Court** has been urged to expedite a hearing regarding the petroleum levy. *[Business Recorder](https://www.brecorder.com/news/40438389/fcc-urged-to-fix-hearing-date-in-pl-petition)*
 
 ### National
-- Jibran Nasir has accused the Sindh government and police of protecting killers in the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-jibran-nasir-accuses-sindh-government-police-of-protecting-killers)*
-- NADRA has announced new services for computerized arms licenses. *[ARY](https://arynews.tv/nadra-announces-services-for-computerized-arms-licences)*
-- A fire at Landhi EPZ has spread to an adjoining building and remains uncontrolled. *[ARY](https://arynews.tv/landhi-epz-fire-flames-spread-to-adjoining-building-as-blaze-remains-uncontrolled)*
-- Guidance has been released on how to renew CNICs via the NADRA PakID app. *[ARY](https://arynews.tv/how-to-renew-cnic-via-nadra-pakid-app)*
-- A Defence Day event in Karachi honored fallen soldiers and military heroes. *[Business Recorder](https://www.brecorder.com/news/40438310/defence-day-event-in-karachi-honours-fallen-soldiers-and-military-heroes)*
+- A fresh investigation has been ordered into the **Ayat Noor case**. *[ARY](https://arynews.tv/ayat-noor-case-fresh-investigation-into-the-case-ordered)*
+- The **Punjab forensic lab** was unable to access iPhone and Apple Watch data in the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-punjab-forensic-lab-unable-to-access-iphone-apple-watch-data-deemed-insignificant)*
+- **Mohsin Naqvi** has ordered the digitization of operations at CDA facilitation centers. *[ARY](https://arynews.tv/mohsin-naqvi-orders-digitization-of-cda-facilitation-centers-operations)*
 
 ### International
-- Saudi Arabia is preparing to grant the IAEA more intrusive powers regarding nuclear inspections. *[Business Recorder](https://www.brecorder.com/news/40438329/saudi-arabia-preparing-to-grant-iaea-more-intrusive-powers-grossi-says)*
-- A building collapse in Delhi, India, has killed at least six people. *[Business Recorder](https://www.brecorder.com/news/40438325/six-killed-in-delhi-building-collapse-rescuers-search-through-rubble)*
-- The Kremlin has not ruled out the resumption of peace talks between Russia, Ukraine, and the US. *[Business Recorder](https://www.brecorder.com/news/40438324/kremlin-says-it-does-not-rule-out-restart-of-peace-talks-with-ukraine-and-us)*
-- Oman evacuated 16 crew members from the Saudi-owned vessel Sidr after an attack by Iran. *[Business Recorder](https://www.brecorder.com/news/40438320/oman-says-it-evacuated-16-crew-members-of-saudi-sidr-vessel-attacked-by-iran)*
-- India's defence panel has cleared purchase proposals worth approximately $11.6 billion. *[Business Recorder](https://www.brecorder.com/news/40438312/indian-defence-panel-clears-purchase-proposals-worth-116-billion)*
+- **Italy** has outlined golden visa requirements and capital routes for European residency. *[ARY](https://arynews.tv/italy-golden-visa-requirements-and-capital-routes-towards-european-residency)*
+- **Donald Trump** suggested renaming the state of New Mexico to "New America." *[Business Recorder](https://www.brecorder.com/news/40438392/trump-suggests-renaming-new-mexico-state-new-america)*
+- The **Oxford University** Pitt Rivers Museum will return human remains to the Naga community. *[Business Recorder](https://www.brecorder.com/news/40438393/oxford-university-museum-to-return-human-remains-to-naga-people)*
+- Pakistan's **Foreign Office** rejected India's claims regarding the status of IIOJK. *[Business Recorder](https://www.brecorder.com/news/40438388/fo-rejects-indias-baseless-claims-on-status-of-iiojk)*
+- **Houthis** have accused Saudi Arabia of conducting air raids and missile strikes. *[Business Recorder](https://www.brecorder.com/news/40438396/houthis-accuse-saudi-arabia-of-air-raids-missile-strikes)*
+- The **UAE** is developing alternative energy export routes to mitigate risks from the US-Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40438398/gulf-cannot-rely-on-us-alone-for-security-qatar)*
+- **Iran** warned that US energy company facilities are "exposed" to potential retaliation. *[Business Recorder](https://www.brecorder.com/news/40438400/iran-says-us-energy-cos-facilities-are-exposed)*
 
 ### Sports
-- Kylian Mbappe addressed claims linking his PSG exit to the club's Champions League triumphs. *[ARY](https://arynews.tv/kylian-mbappe-addresses-claims-linking-psg-champions-league-triumphs-to-his-exit)*
-- Jose Mourinho stated he feels no added pressure during his second spell at Real Madrid. *[Business Recorder](https://www.brecorder.com/news/40438328/mourinho-not-feeling-pressure-to-win-champions-league-in-second-real-madrid-spell)*
-- Temba Bavuma will captain the South Africa ODI squad in their series against Australia. *[Business Recorder](https://www.brecorder.com/news/40438327/bavuma-to-captain-south-africa-odi-squad-against-australia)*
-- Kevin Pietersen has been appointed as a specialist mentor for England's white-ball teams. *[Business Recorder](https://www.brecorder.com/news/40438323/pietersen-back-in-england-colours-as-mentor-in-build-up-to-2027-world-cup)*
+- **Erling Haaland** has unveiled a World Cup jersey collection featuring stars like Neymar and Mbappe. *[ARY](https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham)*
 
 ### Health
-- A trial by Novo Nordisk shows that Wegovy significantly cut obesity rates in young children. *[ARY](https://arynews.tv/wegovy-cut-obesity-rates-in-young-children-in-trial-novo-nordisk)*
+- Shocking figures reveal that **480 newborns** died at Mithi hospital within an eight-month period. *[ARY](https://arynews.tv/shocking-figures-emerge-from-mithi-hospital-as-480-newborns-die-in-eight-months)*
+
+### Other
+- **Rockstar Games** is facing a trial in Scotland regarding employee sackings. *[ARY](https://arynews.tv/rockstar-games-faces-trial-in-scotland-over-sackings)*
 
