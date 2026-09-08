@@ -4,53 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 08-Sep-2026 09:04PKT
+Published at: 08-Sep-2026 21:04PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- A massive hike in **petrol prices** has been announced in Pakistan. *[ARY](https://arynews.tv/massive-hike-in-petrol-price-announced-in-pakistan)*
-- The **Japanese yen** reached a seven-month high against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40438429/yen-extends-rally-to-new-seven-month-high-dollar-subdued-ahead-of-cpi)*
-- **Gold prices** climbed as the US dollar weakened ahead of upcoming inflation data. *[Business Recorder](https://www.brecorder.com/news/40438428/gold-gains-as-dollar-eases-with-us-inflation-data-on-radar)*
-- **Oil prices** rose due to increased supply concerns stemming from Middle East conflicts. *[Business Recorder](https://www.brecorder.com/news/40438427/oil-rises-as-risks-of-prolonged-mideast-conflict-heighten-supply-worries)*
-- **Oil prices** hit a six-week high following threats from Iran to strike energy infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438399/oil-prices-rise-to-six-week-highs)*
-- The **TCP** clarified that it has not been tasked with ensuring domestic sugar price stability. *[Business Recorder](https://www.brecorder.com/news/40438390/tcp-clarifies-ecc-directives-on-sugar-price-stability)*
-- **Volkswagen** is restructuring, with one German plant slated to switch to defense production. *[Business Recorder](https://www.brecorder.com/news/40438391/volkswagen-finds-defence-future-for-german-plant-amid-major-overhaul)*
-- **Nepra**'s decision regarding Use of System Charges (UoSC) has been welcomed by the energy ministry. *[Business Recorder](https://www.brecorder.com/news/40438394/nepras-uosc-decision-hailed)*
-- **Petrol prices** increased by Rs12.90 per litre, while High-Speed Diesel rose by Rs3.72. *[Business Recorder](https://www.brecorder.com/news/40438397/petrol-price-hiked-by-rs1290-hsds-by-rs372)*
-- **SNGPL** is facing a severe liquidity crunch due to Rs 174 billion in outstanding dues. *[Business Recorder](https://www.brecorder.com/news/40438402/sngpl-facing-serious-liquidity-crunch)*
-- **Nepra** notified a quarterly tariff adjustment that will increase consumer electricity bills by approximately Rs12.67bn. *[Business Recorder](https://www.brecorder.com/news/40438403/nepra-adjusts-quarterly-tariff-consumers-to-pay-additional-rs1267bn)*
-- **Nepra** approved uniform grid charges for bulk power consumers and open-access users. *[Business Recorder](https://www.brecorder.com/news/40438404/nepra-greenlights-uosc-for-bulk-consumers)*
+- The SECP and Askari Bank have completed an API integration to facilitate faster corporate account opening with reduced documentation. *[Business Recorder](https://www.brecorder.com/news/40438494/secp-askari-bank-integrate-systems-for-faster-corporate-account-opening)*
+- Copper prices hit a record peak on the London Metal Exchange due to tight supply and weak mine output. *[Business Recorder](https://www.brecorder.com/news/40438491/copper-hits-record-high-on-weak-supply-outside-us)*
+- Reliance Industries plans its first local debt sale in three years, aiming to raise $1.32 billion. *[Business Recorder](https://www.brecorder.com/news/40438490/indias-reliance-plans-first-local-debt-sale-after-3-years-with-132-bln-fundraise-bankers-say)*
+- The UN trade agency warns that disruptions in the Strait of Hormuz are disproportionately impacting small and medium-sized businesses. *[Business Recorder](https://www.brecorder.com/news/40438488/hormuz-disruptions-hitting-small-businesses-hardest-un-trade-agency-warns)*
+- Most Gulf stocks saw modest gains as traders remained cautious regarding the US-Iran standoff and Saudi energy strikes. *[Business Recorder](https://www.brecorder.com/news/40438487/most-gulf-stocks-edge-up-amid-caution-over-us-iran-standoff-saudi-energy-strikes)*
+- Prime Minister Shehbaz Sharif met with the business community to discuss challenges and solutions for boosting national exports. *[Business Recorder](https://www.brecorder.com/news/40438486/pm-shehbaz-seeks-business-communitys-input-on-boosting-exports)*
+- Indian trading firm AlphaGrep has raised 2 billion rupees through bonds to expand its AI and machine-learning infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438485/indias-leading-high-frequency-trading-firm-turns-to-bonds-for-capital)*
+- The Reserve Bank of India has been actively intervening in the foreign exchange market to support the Indian rupee against rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40438482/indian-central-bank-extends-intervention-streak-to-support-indian-rupee-traders-say)*
+- London’s FTSE 100 edged lower as an oil rally fueled concerns over inflation. *[Business Recorder](https://www.brecorder.com/news/40438480/london-shares-inch-lower-as-oil-rally-fuels-inflation-concerns)*
+- The Singaporean government defended Singapore Airlines' stake in Air India, citing the need for overseas expansion. *[Business Recorder](https://www.brecorder.com/news/40438479/singapore-defends-flag-carrier-s-air-india-bet-cites-need-to-expand-overseas)*
+- Indian banks face potential rupee depreciation pressure due to significant unhedged FX risks on overseas deposits. *[Business Recorder](https://www.brecorder.com/news/40438477/indian-banks-leave-sizeable-fx-risk-open-on-overseas-deposits-creating-potential-rupee-overhang)*
+- The Pakistani rupee recorded gains against the US dollar in recent intraday trading. *[Business Recorder](https://www.brecorder.com/news/40438476/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Sri Lankan shares closed lower, dragged down by the materials and financial sectors. *[Business Recorder](https://www.brecorder.com/news/40438495/materials-and-financials-drag-sri-lankan-shares-lower)*
 
 ### Science & Technology
-- **Microsoft** has uncovered a massive phishing campaign that utilizes the ASCII smuggling technique. *[ARY](https://arynews.tv/microsoft-uncovers-massive-phishing-campaign-exploiting-ascii-smuggling-technique)*
+- A new species of frog has been identified after being discovered in a museum collection where it had been hidden for a century. *[ARY](https://arynews.tv/new-frog-species-identified-after-being-hidden-in-museum-for-a-century)*
+
+### Weather
+- Pakistan's planning minister has directed a comprehensive audit and early preparations for the 2027 monsoon season. *[ARY](https://arynews.tv/planning-minister-directs-comprehensive-audit-and-early-preparations-for-monsoon-2027)*
 
 ### Politics
-- **Khawaja Asif** stated that the Sindh Assembly's stance cannot prevent the implementation of new provinces. *[ARY](https://arynews.tv/new-provinces-khawaja-asif-says-sindh-assemblys-stance-cannot-stop-implementation)*
-- **President Zardari** cut short his visit to London due to significant political developments in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438387/president-cuts-short-his-london-visit)*
-- The **opposition** warned the government against making hasty decisions regarding the creation of new provinces. *[Business Recorder](https://www.brecorder.com/news/40438395/new-provinces-opposition-warns-govt-against-hasty-decision)*
-- The **Federal Constitutional Court** has been urged to expedite a hearing regarding the petroleum levy. *[Business Recorder](https://www.brecorder.com/news/40438389/fcc-urged-to-fix-hearing-date-in-pl-petition)*
+- The Pakistan Senate has officially launched its new mobile application. *[ARY](https://arynews.tv/senate-mobile-app-launched-in-pakistan)*
 
 ### National
-- A fresh investigation has been ordered into the **Ayat Noor case**. *[ARY](https://arynews.tv/ayat-noor-case-fresh-investigation-into-the-case-ordered)*
-- The **Punjab forensic lab** was unable to access iPhone and Apple Watch data in the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-punjab-forensic-lab-unable-to-access-iphone-apple-watch-data-deemed-insignificant)*
-- **Mohsin Naqvi** has ordered the digitization of operations at CDA facilitation centers. *[ARY](https://arynews.tv/mohsin-naqvi-orders-digitization-of-cda-facilitation-centers-operations)*
+- Authorities report that runners of a fake NADRA website have stolen the data of approximately 10 million Pakistani citizens. *[ARY](https://arynews.tv/fake-nadra-site-runners-stole-10mn-pakistani-citizens-data)*
+- Pakistan has unveiled a comprehensive 10-year plan dedicated to shark conservation. *[ARY](https://arynews.tv/pakistan-unveils-10-year-plan-for-shark-conservation)*
+- Pakistan's Ministry of Foreign Affairs has strongly condemned Houthi attacks on civilian and economic targets in Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40438489/pakistan-condemns-houthi-attacks-on-saudi-arabia)*
 
 ### International
-- **Italy** has outlined golden visa requirements and capital routes for European residency. *[ARY](https://arynews.tv/italy-golden-visa-requirements-and-capital-routes-towards-european-residency)*
-- **Donald Trump** suggested renaming the state of New Mexico to "New America." *[Business Recorder](https://www.brecorder.com/news/40438392/trump-suggests-renaming-new-mexico-state-new-america)*
-- The **Oxford University** Pitt Rivers Museum will return human remains to the Naga community. *[Business Recorder](https://www.brecorder.com/news/40438393/oxford-university-museum-to-return-human-remains-to-naga-people)*
-- Pakistan's **Foreign Office** rejected India's claims regarding the status of IIOJK. *[Business Recorder](https://www.brecorder.com/news/40438388/fo-rejects-indias-baseless-claims-on-status-of-iiojk)*
-- **Houthis** have accused Saudi Arabia of conducting air raids and missile strikes. *[Business Recorder](https://www.brecorder.com/news/40438396/houthis-accuse-saudi-arabia-of-air-raids-missile-strikes)*
-- The **UAE** is developing alternative energy export routes to mitigate risks from the US-Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40438398/gulf-cannot-rely-on-us-alone-for-security-qatar)*
-- **Iran** warned that US energy company facilities are "exposed" to potential retaliation. *[Business Recorder](https://www.brecorder.com/news/40438400/iran-says-us-energy-cos-facilities-are-exposed)*
+- Spain has declassified intelligence reports regarding the recent migrant rush in Ceuta. *[ARY](https://arynews.tv/spain-declassifies-intelligence-reports-into-ceuta-migrant-rush)*
+- The US is seeking increased access to Venezuela's mineral resources, such as gold, following its engagement with the country's oil sector. *[Business Recorder](https://www.brecorder.com/news/40438478/us-seeks-more-access-to-venezuelas-mineral-wealth-after-tapping-its-oil-sources-say)*
+- Israel has announced the closure of the British consulate in East Jerusalem in response to import bans on West Bank settlements by the UK, France, and Canada. *[Business Recorder](https://www.brecorder.com/news/40438496/israel-to-close-british-consulate-in-east-jerusalem-after-uk-france-and-canada-ban-imports-from-settlements)*
+- France will begin the process of banning products originating from Israeli settlements in the occupied West Bank. *[Business Recorder](https://www.brecorder.com/news/40438492/france-to-ban-products-from-israeli-settlements-in-west-bank-foreign-minister)*
+- The 26th SCO Summit in Bishkek highlighted the emergence of a multipolar Eurasia and the transition of the chairmanship to Pakistan for 2027. *[Business Recorder](https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape)*
 
 ### Sports
-- **Erling Haaland** has unveiled a World Cup jersey collection featuring stars like Neymar and Mbappe. *[ARY](https://arynews.tv/erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham)*
-
-### Health
-- Shocking figures reveal that **480 newborns** died at Mithi hospital within an eight-month period. *[ARY](https://arynews.tv/shocking-figures-emerge-from-mithi-hospital-as-480-newborns-die-in-eight-months)*
-
-### Other
-- **Rockstar Games** is facing a trial in Scotland regarding employee sackings. *[ARY](https://arynews.tv/rockstar-games-faces-trial-in-scotland-over-sackings)*
+- Japan has named its squad for a historic T20I match against India during the Pre-Asian games. *[ARY](https://arynews.tv/japan-names-squad-for-history-making-t20i-against-india-in-pre-asian-games-clash)*
+- Cricketer Babar Azam expressed surprise regarding recent sweeping changes within the Pakistan team. *[ARY](https://arynews.tv/babar-azam-surprised-over-sweeping-pakistan-changes)*
+- The Belgian Cats have emerged as favorites in the FIBA Women’s Basketball World Cup 2026 held in Berlin. *[ARY](https://arynews.tv/fiba-womens-basketball-world-cup-2026-belgian-cats-rise-as-favorites-in-berlin)*
+- Pakistan’s junior hockey team has qualified for the Men’s Junior Hockey Asia Cup semi-finals after a 5-2 victory over Malaysia. *[Business Recorder](https://www.brecorder.com/news/40438483/pakistan-qualify-for-junior-hockey-asia-cup-semi-finals-after-beating-malaysia-5-2)*
+- Liverpool has announced a major five-year sponsorship deal with Turkish Airlines, estimated to be worth over £300 million. *[Business Recorder](https://www.brecorder.com/news/40438481/liverpool-announce-five-year-sponsorship-deal-with-turkish-airlines)*
 
