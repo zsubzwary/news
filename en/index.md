@@ -4,50 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 08-Sep-2026 21:04PKT
+Published at: 09-Sep-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The SECP and Askari Bank have completed an API integration to facilitate faster corporate account opening with reduced documentation. *[Business Recorder](https://www.brecorder.com/news/40438494/secp-askari-bank-integrate-systems-for-faster-corporate-account-opening)*
-- Copper prices hit a record peak on the London Metal Exchange due to tight supply and weak mine output. *[Business Recorder](https://www.brecorder.com/news/40438491/copper-hits-record-high-on-weak-supply-outside-us)*
-- Reliance Industries plans its first local debt sale in three years, aiming to raise $1.32 billion. *[Business Recorder](https://www.brecorder.com/news/40438490/indias-reliance-plans-first-local-debt-sale-after-3-years-with-132-bln-fundraise-bankers-say)*
-- The UN trade agency warns that disruptions in the Strait of Hormuz are disproportionately impacting small and medium-sized businesses. *[Business Recorder](https://www.brecorder.com/news/40438488/hormuz-disruptions-hitting-small-businesses-hardest-un-trade-agency-warns)*
-- Most Gulf stocks saw modest gains as traders remained cautious regarding the US-Iran standoff and Saudi energy strikes. *[Business Recorder](https://www.brecorder.com/news/40438487/most-gulf-stocks-edge-up-amid-caution-over-us-iran-standoff-saudi-energy-strikes)*
-- Prime Minister Shehbaz Sharif met with the business community to discuss challenges and solutions for boosting national exports. *[Business Recorder](https://www.brecorder.com/news/40438486/pm-shehbaz-seeks-business-communitys-input-on-boosting-exports)*
-- Indian trading firm AlphaGrep has raised 2 billion rupees through bonds to expand its AI and machine-learning infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438485/indias-leading-high-frequency-trading-firm-turns-to-bonds-for-capital)*
-- The Reserve Bank of India has been actively intervening in the foreign exchange market to support the Indian rupee against rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40438482/indian-central-bank-extends-intervention-streak-to-support-indian-rupee-traders-say)*
-- London’s FTSE 100 edged lower as an oil rally fueled concerns over inflation. *[Business Recorder](https://www.brecorder.com/news/40438480/london-shares-inch-lower-as-oil-rally-fuels-inflation-concerns)*
-- The Singaporean government defended Singapore Airlines' stake in Air India, citing the need for overseas expansion. *[Business Recorder](https://www.brecorder.com/news/40438479/singapore-defends-flag-carrier-s-air-india-bet-cites-need-to-expand-overseas)*
-- Indian banks face potential rupee depreciation pressure due to significant unhedged FX risks on overseas deposits. *[Business Recorder](https://www.brecorder.com/news/40438477/indian-banks-leave-sizeable-fx-risk-open-on-overseas-deposits-creating-potential-rupee-overhang)*
-- The Pakistani rupee recorded gains against the US dollar in recent intraday trading. *[Business Recorder](https://www.brecorder.com/news/40438476/intra-day-update-rupee-records-gain-against-us-dollar)*
-- Sri Lankan shares closed lower, dragged down by the materials and financial sectors. *[Business Recorder](https://www.brecorder.com/news/40438495/materials-and-financials-drag-sri-lankan-shares-lower)*
+- Petrol and diesel prices have been increased again in Pakistan. *[ARY](https://arynews.tv/petrol-diesel-prices-hiked-again-in-pakistan)*
+- Wall Street declined as rising oil prices fueled inflation concerns ahead of upcoming CPI data. *[ARY](https://arynews.tv/wall-st-slips-as-steep-oil-prices-stoke-inflation-concerns-ahead-of-cpi)*
+- Oil prices rose to a six-week high following Houthi attacks on Saudi Arabian sites. *[ARY](https://arynews.tv/oil-rises-to-six-week-high-following-houthi-attack-on-saudi-sites)*
+- The United States has banned imports of Canadian motorcycles, dairy, and alcohol, escalating an existing trade war. *[Business Recorder](https://www.brecorder.com/news/40438612/us-to-ban-canadian-motorcycle-dairy-alcohol-imports-as-trade-war-sizzles)*
+- Shipping traffic through the Strait of Hormuz remains below the 10-day average. *[Business Recorder](https://www.brecorder.com/news/40438611/shipping-traffic-via-strait-of-hormuz-stays-below-10-day-average-data-shows)*
+- The Indian rupee faces downward pressure as Brent crude prices approach $100 per barrel. *[Business Recorder](https://www.brecorder.com/news/40438610/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence)*
+- Asian stock markets remained subdued as oil prices approached $100 amidst escalating Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40438609/oil-heads-for-100-asia-stocks-subdued-as-middle-east-tensions-escalate)*
+- Indian shares are expected to have a muted start as climbing oil prices impact market sentiment. *[Business Recorder](https://www.brecorder.com/news/40438608/indian-shares-eye-muted-start-as-oil-climbs-on-intensifying-mideast-tensions)*
+- The Japanese yen strengthened against a wobbling US dollar as oil prices trended toward $100. *[Business Recorder](https://www.brecorder.com/news/40438607/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment)*
+- Oil prices are nearing $100 per barrel due to heightened supply risks from fresh Middle East strikes. *[Business Recorder](https://www.brecorder.com/news/40438606/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks)*
+- FPCCI expressed grave concerns that volatile global oil markets are threatening Pakistan's macroeconomic stability and export competitiveness. *[Business Recorder](https://www.brecorder.com/news/40438513/rising-pressures-on-macroeconomic-stability-highlighted)*
+- Goods transporters in Pakistan announced a 5% increase in fares following the hike in petroleum prices. *[Business Recorder](https://www.brecorder.com/news/40438514/goods-transporters-announce-5pc-increase-in-fares)*
+- Shareholders of The Bank of Punjab approved a Rs30 billion equity injection by the Government of Punjab. *[Business Recorder](https://www.brecorder.com/news/40438515/bop-shareholders-approve-rs30bn-equity-injection-by-punjab-govt)*
 
 ### Science & Technology
-- A new species of frog has been identified after being discovered in a museum collection where it had been hidden for a century. *[ARY](https://arynews.tv/new-frog-species-identified-after-being-hidden-in-museum-for-a-century)*
-
-### Weather
-- Pakistan's planning minister has directed a comprehensive audit and early preparations for the 2027 monsoon season. *[ARY](https://arynews.tv/planning-minister-directs-comprehensive-audit-and-early-preparations-for-monsoon-2027)*
+- Business leaders have urged the government to finalize satellite-internet regulations and establish transparent licensing. *[Business Recorder](https://www.brecorder.com/news/40438600/mian-zahid-urges-govt-to-complete-satellite-internet-regulations)*
+- SUPARCO has called for increased use of satellite-based data to manage climate resilience and disaster risks in Sindh. *[Business Recorder](https://www.brecorder.com/news/40438604/climate-resilience-in-sindh-symposium-highlights-use-of-satellite-tech)*
 
 ### Politics
-- The Pakistan Senate has officially launched its new mobile application. *[ARY](https://arynews.tv/senate-mobile-app-launched-in-pakistan)*
+- Jamaat-e-Islami may conduct a march towards Islamabad, according to leader Hafez Naeem. *[ARY](https://arynews.tv/jamaat-e-islami-may-march-towards-islamabad-hafez-naeem-says)*
 
 ### National
-- Authorities report that runners of a fake NADRA website have stolen the data of approximately 10 million Pakistani citizens. *[ARY](https://arynews.tv/fake-nadra-site-runners-stole-10mn-pakistani-citizens-data)*
-- Pakistan has unveiled a comprehensive 10-year plan dedicated to shark conservation. *[ARY](https://arynews.tv/pakistan-unveils-10-year-plan-for-shark-conservation)*
-- Pakistan's Ministry of Foreign Affairs has strongly condemned Houthi attacks on civilian and economic targets in Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40438489/pakistan-condemns-houthi-attacks-on-saudi-arabia)*
+- Pakistan and New Zealand have reaffirmed their commitment to strengthening cooperation in education and skills. *[ARY](https://arynews.tv/pakistan-and-new-zealand-reaffirm-commitment-to-strengthen-education-and-skills-cooperation)*
+- The federal government is reviewing measures to strengthen the governance and financial sustainability of Daanish schools. *[Business Recorder](https://www.brecorder.com/news/40438599/measures-to-strengthen-daanish-schools-governance-reviewed)*
+- The Senate Housing Committee has directed NAB to investigate the alleged annexation of forest land in the Sky Gardens Housing Scheme. *[Business Recorder](https://www.brecorder.com/news/40438601/sky-gardens-housing-scheme-nab-directed-to-probe-annexation-of-shamilaat-amp-forest-land)*
+- The Chairman of PAEC reaffirmed Pakistan's commitment to international standards for nuclear and radiation safety. *[Business Recorder](https://www.brecorder.com/news/40438602/nuclear-radiation-safety-nuclear-security-paec-chief-reaffirms-commitment-to-international-standards)*
+- Three Adiala jail inmates have challenged an IHC verdict in the Federal Constitutional Court to seek access to private hospital medical facilities. *[Business Recorder](https://www.brecorder.com/news/40438605/medical-facilities-three-adiala-jail-inmates-move-fcc-to-callenge-ihc-verdict)*
+- A fire broke out at the office of Karachi Mayor Murtaza Wahab, causing damage to furniture and the room. *[Business Recorder](https://www.brecorder.com/news/40438512/fire-damages-mayors-office)*
 
 ### International
-- Spain has declassified intelligence reports regarding the recent migrant rush in Ceuta. *[ARY](https://arynews.tv/spain-declassifies-intelligence-reports-into-ceuta-migrant-rush)*
-- The US is seeking increased access to Venezuela's mineral resources, such as gold, following its engagement with the country's oil sector. *[Business Recorder](https://www.brecorder.com/news/40438478/us-seeks-more-access-to-venezuelas-mineral-wealth-after-tapping-its-oil-sources-say)*
-- Israel has announced the closure of the British consulate in East Jerusalem in response to import bans on West Bank settlements by the UK, France, and Canada. *[Business Recorder](https://www.brecorder.com/news/40438496/israel-to-close-british-consulate-in-east-jerusalem-after-uk-france-and-canada-ban-imports-from-settlements)*
-- France will begin the process of banning products originating from Israeli settlements in the occupied West Bank. *[Business Recorder](https://www.brecorder.com/news/40438492/france-to-ban-products-from-israeli-settlements-in-west-bank-foreign-minister)*
-- The 26th SCO Summit in Bishkek highlighted the emergence of a multipolar Eurasia and the transition of the chairmanship to Pakistan for 2027. *[Business Recorder](https://www.brecorder.com/news/40438484/bishkek-sco-summit-multipolar-eurasia-takes-shape)*
+- Wizz Air and Ryanair are calling for an overhaul of the UK's air traffic control services following flight disruptions. *[ARY](https://arynews.tv/wizz-air-ryanair-call-for-nats-overhaul-after-uk-flight-disruption)*
+- Saudi Arabia has warned that Houthi aggression draws a red line and vowed to defend national interests. *[ARY](https://arynews.tv/saudi-arabia-warns-houthi-aggression-draws-red-line-vows-to-defend-national-interests)*
+- Air traffic control issues have caused disruptions to departing flights at major UK airports. *[ARY](https://arynews.tv/air-traffic-control-issue-disrupts-departing-flights-at-major-uk-airports)*
+- Ukraine is contracting approximately 1,000 Patriot missiles from allies, supported by a European Union loan. *[Business Recorder](https://www.brecorder.com/news/40438613/ukraine-contracting-around-1000-patriot-missiles-from-allies-defence-chief-says)*
 
 ### Sports
-- Japan has named its squad for a historic T20I match against India during the Pre-Asian games. *[ARY](https://arynews.tv/japan-names-squad-for-history-making-t20i-against-india-in-pre-asian-games-clash)*
-- Cricketer Babar Azam expressed surprise regarding recent sweeping changes within the Pakistan team. *[ARY](https://arynews.tv/babar-azam-surprised-over-sweeping-pakistan-changes)*
-- The Belgian Cats have emerged as favorites in the FIBA Women’s Basketball World Cup 2026 held in Berlin. *[ARY](https://arynews.tv/fiba-womens-basketball-world-cup-2026-belgian-cats-rise-as-favorites-in-berlin)*
-- Pakistan’s junior hockey team has qualified for the Men’s Junior Hockey Asia Cup semi-finals after a 5-2 victory over Malaysia. *[Business Recorder](https://www.brecorder.com/news/40438483/pakistan-qualify-for-junior-hockey-asia-cup-semi-finals-after-beating-malaysia-5-2)*
-- Liverpool has announced a major five-year sponsorship deal with Turkish Airlines, estimated to be worth over £300 million. *[Business Recorder](https://www.brecorder.com/news/40438481/liverpool-announce-five-year-sponsorship-deal-with-turkish-airlines)*
+- Footballer Karim Benzema performed Umrah in Makkah and shared photos from the holy site. *[ARY](https://arynews.tv/benzema-performs-umrah-shares-photos-from-makkah)*
+
+### Health
+- The combination of Imfinzi and Imdelltra has been shown to help lung cancer patients live longer. *[ARY](https://arynews.tv/imfinzi-imdelltra-combo-helps-lung-cancer-patients-live-longer)*
+- Punjab's health sector is being aligned with global standards through expanded cooperation with Chinese medical institutions. *[Business Recorder](https://www.brecorder.com/news/40438603/punjabs-health-sector-being-aligned-with-global-standards-minister)*
+
+### Other
+- Italian luxury house Dolce & Gabbana launched "Your Devotion Eau de Parfum Intense" during an event in Karachi. *[Business Recorder](https://www.brecorder.com/news/40438511/your-devotion-eau-de-parfum-intense-launched-in-karachi)*
 
