@@ -7,51 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 09-Sep-2026 09:10PKT 
+ &lrm; 09-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان میں پیٹرول اور ڈیزل کی قیمتوں میں دوبارہ اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-diesel-prices-hiked-again-in-pakistan)*
-- تیل کی قیمتوں میں اضافے اور مہنگائی کے خدشات کے باعث وال اسٹریٹ میں گراوٹ دیکھی گئی۔ *[ARY](https://arynews.tv/wall-st-slips-as-steep-oil-prices-stoke-inflation-concerns-ahead-of-cpi)*
-- حوثی حملوں کے باعث تیل کی قیمتیں چھ ہفتوں کی بلند ترین سطح پر پہنچ گئیں۔ *[ARY](https://arynews.tv/oil-rises-to-six-week-high-following-houthi-attack-on-saudi-sites)*
-- امریکہ نے تجارتی جنگ کے تناظر میں کینیڈا سے درآمد ہونے والے مشروبات، موٹر سائیکل اور ڈیری مصنوعات پر پابندی لگا دی۔ *[Business Recorder](https://www.brecorder.com/news/40438612/us-to-ban-canadian-motorcycle-dairy-alcohol-imports-as-trade-war-sizzles)*
-- بحرِ احمر کے تنگ ترین مقام 'اسٹریٹ آف ہرمز' میں تجارتی جہازوں کی آمد و رفت میں کمی ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40438611/shipping-traffic-via-strait-of-hormuz-stays-below-10-day-average-data-shows)*
-- تیل کی قیمتوں میں اضافے کے باعث بھارتی روپے پر دباؤ بڑھنے کا خدشہ۔ *[Business Recorder](https://www.brecorder.com/news/40438610/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence)*
-- مشرق وسطیٰ میں کشیدگی اور تیل کی قیمتوں میں اضافے سے ایشیائی اسٹاک مارکیٹس میں گراوٹ۔ *[Business Recorder](https://www.brecorder.com/news/40438609/oil-heads-for-100-asia-stocks-subdued-as-middle-east-tensions-escalate)*
-- مشرق وسطیٰ کے حالات اور تیل کی قیمتوں میں اضافے سے بھارتی شیئرز میں دھیمی کارکردگی کا امکان۔ *[Business Recorder](https://www.brecorder.com/news/40438608/indian-shares-eye-muted-start-as-oil-climbs-on-intensifying-mideast-tensions)*
-- جاپانی ین مستحکم رہا جبکہ تیل کی قیمتوں میں اضافے نے عالمی مارکیٹ کے جذبات کو متاثر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438607/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment)*
-- مشرق وسطیٰ میں حالیہ حملوں اور سپلائی کے خطرات کے باعث تیل کی قیمت 100 ڈالر کے قریب پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40438606/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks)*
-- پاکستان میں سیٹلائٹ انٹرنیٹ کے لیے شفاف لائسنسنگ اور ریگولیشنز مکمل کرنے کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40438600/mian-zahid-urges-govt-to-complete-satellite-internet-regulations)*
-- عالمی تیل کی مارکیٹ کے اتار چڑھاؤ سے پاکستان کے میکرو اکنامک استحکام کو خطرات۔ *[Business Recorder](https://www.brecorder.com/news/40438513/rising-pressures-on-macroeconomic-stability-highlighted)*
-- پیٹرولیم مصنوعات کی قیمتوں میں اضافے کے بعد سامان لانے والے ٹرانسپورٹرز نے کرایوں میں 5 فیصد اضافے کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438514/goods-transporters-announce-5pc-increase-in-fares)*
-- بینک آف پنجاب کے شیئر ہولڈرز نے حکومت پنجاب کی جانب سے 30 ارب روپے کی سرمایہ کاری کی منظوری دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40438515/bop-shareholders-approve-rs30bn-equity-injection-by-punjab-govt)*
+- بجلی کی قیمت میں 52 پیسے فی یونٹ کا اضافہ کیا گیا ہے۔ *[ARY](https://arynews.tv/electricity-price-hiked-by-52-paisas-per-unit)*
+- این آئی سی ایل (NICL) نے تین اسٹریٹجک منصوبوں کے لیے 3 ارب روپے (تقریباً 11 ملین ڈالر) کی سرمایہ کاری منظور کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438662/nicl-to-invest-11mn-for-expansion-hub-relocation)*
+- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں 0.01 روپے اضافے کے ساتھ 277.36 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438656/intra-day-update-rupee-records-gain-against-us-dollar)*
+- مشرق وسطیٰ میں کشیدگی کے باعث خلیجی اسٹاک مارکیٹیں سرخ رنگ میں بند ہوئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438674/most-gulf-bourses-in-red-as-middle-east-conflict-escalates)*
+- بھارتی آئی ٹی کمپنی Coforge کے شیئرز 8.7 فیصد گر کر 1,780.70 روپے کی سطح پر آگئے۔ *[Business Recorder](https://www.brecorder.com/news/40438673/indias-coforge-slides-nearly-9-as-chairman-quits-over-board-evaluation-concerns)*
+- بھارتی ریزرو بینک کی مداخلت کے بعد روپیہ 95.2250 سے بہتر ہو کر 95.07 فی ڈالر پر مستحکم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438672/india-central-bank-likely-steps-in-to-stem-indian-rupees-oil-outflow-driven-fall-traders-say)*
+- سری لنکا کا CSE All-Share انڈیکس 0.35 فیصد کم ہو کر 21,466 پوائنٹس پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40438670/utilities-industrials-drag-sri-lankan-shares-lower)*
+- بھارت کے NSE کا IPO 1,700 سے 1,785 بھارتی روپے فی شیئر کے درمیان ہو سکتا ہے، جس سے اس کی مالیت 4.4 ٹریلین روپے ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40438665/nse-likely-to-price-ipo-at-1700-1785-indian-rupees-per-share-source-says)*
+- کوئت کے پیٹرولیم کارپوریشن نے خلیج ہرمز سے باہر جہازوں کے درمیان ٹرانسفر (STS) کی پیشکش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438663/kuwait-petroleum-offering-ship-to-ship-transfers-outside-hormuz-to-buyers-official-says)*
+- بھارتی RBL بینک 500 ملین ڈالر کا ڈالر ڈیٹ سیل جاری کرنے کی منصوبہ بندی کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438660/rbl-bank-set-for-debut-dollar-debt-sale-eyes-5-year-funding-bankers-say)*
+- تانبے (Copper) کی قیمتیں 0.5 فیصد گر کر 14,641 ڈالر فی میٹرک ٹن ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438659/copper-slips-from-record-highs-on-middle-east-worries)*
+- ملائیشین پام آئل فیوچرز 0.18 فیصد کم ہو کر 4,967 رنگٹ فی میٹرک ٹن پر بند ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40438657/palm-slips-for-second-session-as-profit-taking-weighs)*
+- ڈچ فن ٹیک کمپنی Adyen بھارت میں اپنے آپریشنز کو وسعت دینے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438655/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion)*
+- ML-1 پروجیکٹ کا ڈیزائن اکتوبر تک مکمل کرنے کا اے ڈی بی (ADB) نے اعادہ کیا۔ *[ARY](https://arynews.tv/ml-1-project-design-to-be-completed-by-october-adb-reaffirms)*
 
 ### سائنس اور ٹیکنالوجی
-- سندھ میں موسمیاتی تبدیلیوں سے نمٹنے کے لیے سیٹلائٹ ٹیکنالوجی کے استعمال پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438604/climate-resilience-in-sindh-symposium-highlights-use-of-satellite-tech)*
+- ایپل کے نئے سی ای او جان ٹرنس کے دورانیے میں کمپنی کے پہلے فولڈنگ آئی فون کے لانچ کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438666/apple-expected-to-unveil-first-folding-phone-with-new-ceo-ternus-in-command)*
 
 ### سیاست
-- جماعت اسلامی کی جانب سے اسلام آباد مارچ کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/jamaat-e-islami-may-march-towards-islamabad-hafez-naeem-says)*
+- این پی پی (ANP) پیٹرولیم لیوی کے خلاف جمعیت علماء کے احتجاج میں شامل ہوگی۔ *[ARY](https://arynews.tv/anp-to-join-ji-protests-over-petroleum-levy)*
+- پی ایم ایل ایف (PML-F) نے عارف خان ساقی کیس سے لاتعلقی کا اظہار کیا ہے، جبکہ علی گوہر شاہ پی پی پی میں شامل ہو گئے ہیں۔ *[ARY](https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp)*
+- پاکستان نے غیر قانونی اسرائیلی بستیوں کی مصنوعات پر برطانیہ کی پابندی کا خیر مقدم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438671/pakistan-welcomes-uk-ban-on-illegal-israeli-settlement-goods)*
+- دفاع وزیر خواجہ محمد آصف کے مطابق مکہ دفاعی معاہدہ سعودی عرب پر جارحیت کی صورت میں فعال ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438667/makkah-defence-pact-may-become-operational-if-saudi-arabia-faces-aggression-asif)*
+- سربیا کے صدر ولک نے پارلیمنٹ تحلیل کر کے اگلے ماہ ضمنی انتخابات کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438661/serbias-president-vucic-dissolves-parliament-calls-snap-elections)*
 
-### قومی
-- پاکستان اور نیوزی لینڈ کے درمیان تعلیم اور مہارتوں کے شعبے میں تعاون کو مضبوط بنانے کا عہد۔ *[ARY](https://arynews.tv/pakistan-and-new-zealand-reaffirm-commitment-to-strengthen-education-and-skills-cooperation)*
-- دانیش اسکولوں کے نظم و نسق اور انتظامی امور کو بہتر بنانے کے اقدامات کا جائزہ لیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438599/measures-to-strengthen-daanish-schools-governance-reviewed)*
-- اسکائی گارڈنز ہاؤسنگ اسکیم میں سرکاری اور جنگلاتی زمین کے قبضے کی تحقیقات کا حکم۔ *[Business Recorder](https://www.brecorder.com/news/40438601/sky-gardens-housing-scheme-nab-directed-to-probe-annexation-of-shamilaat-amp-forest-land)*
-- پی اے ای سی (PAEC) کے چیئرمین کا جوہری اور تابکاری کی حفاظت کے عالمی معیار پر عمل درآمد کا عزم۔ *[Business Recorder](https://www.brecorder.com/news/40438602/nuclear-radiation-safety-nuclear-security-paec-chief-reaffirms-commitment-to-international-standards)*
-- پنجاب کے صحت کے شعبے کو عالمی معیار کے مطابق بنانے اور چین کے ساتھ تعاون بڑھانے کا اعلان۔ *[Business Recorder](https://www.brecorder.com/news/40438603/punjabs-health-sector-being-aligned-with-global-standards-minister)*
-- اڈیالہ جیل کے قیدیوں کی نجی ہسپتالوں میں طبی معائنے کے حصول کے لیے قانونی چارہ جوئی۔ *[Business Recorder](https://www.brecorder.com/news/40438605/medical-facilities-three-adiala-jail-inmates-move-fcc-to-callenge-ihc-verdict)*
-- کراچی کے میئر کے دفتر میں آگ لگنے سے نقصان پہنچا لیکن کوئی جانی نقصان نہیں ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438512/fire-damages-mayors-office)*
+### ملکی
+- میر رضا قتل کیس میں ٹیسٹ فائر شیلز کی اصلیت پر سوالات اٹھائے جا رہے ہیں۔ *[ARY](https://arynews.tv/mir-raza-murder-case-questions-raised-over-authenticity-of-test-fire-shells)*
+- گل پلازہ آگ کیس میں عدالت نے JIT بنانے سے انکار کر دیا ہے، جبکہ دفاعی وکلاء نے پولیس پر سرکاری اداروں کو بچانے کا الزام لگایا ہے۔ *[ARY](https://arynews.tv/gul-plaza-fire-case-defense-accuses-police-of-shielding-govt-agencies-as-court-refuses-jit)*
+- سندھ حکومت نے شو روم گاڑیوں پر جرمانے میں نرمی کی ہے۔ *[ARY](https://arynews.tv/sindh-eases-penalties-on-showroom-cars)*
 
 ### بین الاقوامی
-- برطانیہ میں پروازوں کی بندش کے بعد ایئر ٹریفک کنٹرول کے نظام میں اصلاحات کا مطالبہ۔ *[ARY](https://arynews.tv/wizz-air-ryanair-call-for-nats-overhaul-after-uk-flight-disruption)*
-- سعودی عرب کی جانب سے حوثیوں کی جارحیت کے خلاف سخت وارننگ اور قومی مفادات کے دفاع کا عزم۔ *[ARY](https://arynews.tv/saudi-arabia-warns-houthi-aggression-draws-red-line-vows-to-defend-national-interests)*
-- برطانیہ کے بڑے ہوائی اڈوں پر ایئر ٹریفک کنٹرول کے مسائل سے پروازوں میں خلل پیدا ہوا۔ *[ARY](https://arynews.tv/air-traffic-control-issue-disrupts-departing-flights-at-major-uk-airports)*
-- یوکرین کا اتحادیوں سے پیٹریاٹ میزائلوں کی فراہمی کا مطالبہ۔ *[Business Recorder](https://www.brecorder.com/news/40438613/ukraine-contracting-around-1000-patriot-missiles-from-allies-defence-chief-says)*
+- سعودی عرب نے پرائیویٹ سیکٹر کے لیے قومی دن کی چھٹی کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-announces-national-day-holiday-for-private-sector)*
+- حوثی حملوں کے ایک دن بعد سعودی عرب نے اپنے جنوبی شہر میں الرٹ ختم کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-lifts-alert-in-southern-city-a-day-after-houthi-strikes)*
 
 ### صحت
-- پھیپھڑوں کے کینسر کے مریضوں کی زندگی بچانے کے لیے نئی علاج کی ترکیب کے فوائد۔ *[ARY](https://arynews.tv/imfinzi-imdelltra-combo-helps-lung-cancer-patients-live-longer)*
+- پنجاب حکومت نے 'گلائیکوسٹنگ' (Glycosting) انجکشن کے ایک مخصوص بیچ کے لیے استعمال روکنے کا الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/punjab-issues-stoppage-alert-for-a-batch-of-glycosting-injection)*
+- بھارتی فوڈ انڈسٹری نے سپریم کورٹ میں پیکجنگ پر وارننگ لیبلز کے حوالے سے قانونی اعتراض دائر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438668/food-industry-in-india-calls-for-review-of-warning-label-thresholds)*
 
 ### دیگر
-- فٹ بال اسٹار بنزما کا عمرہ ادا کرنا اور مکہ سے تصاویر شیئر کرنا۔ *[ARY](https://arynews.tv/benzema-performs-umrah-shares-photos-from-makkah)*
-- کراچی میں ڈولس اینڈ گبا نا کے نئے پرفیوم کی خصوصی لانچ۔ *[Business Recorder](https://www.brecorder.com/news/40438511/your-devotion-eau-de-parfum-intense-launched-in-karachi)*
+- ٹورنٹو انٹرنیشنل فلم فیسٹیول اپنی 51 ویں ایڈیشن میں تقریباً 300 فلموں کے ساتھ نوجوان سامعین کو متوجہ کرنے کا ہدف رکھتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438675/toronto-international-film-festival-targets-younger-audience-with-independent-premieres)*
 
