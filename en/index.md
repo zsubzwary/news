@@ -4,53 +4,35 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Sep-2026 09:04PKT
+Published at: 09-Sep-2026 21:05PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Petrol and diesel prices have been increased again in Pakistan. *[ARY](https://arynews.tv/petrol-diesel-prices-hiked-again-in-pakistan)*
-- Wall Street declined as rising oil prices fueled inflation concerns ahead of upcoming CPI data. *[ARY](https://arynews.tv/wall-st-slips-as-steep-oil-prices-stoke-inflation-concerns-ahead-of-cpi)*
-- Oil prices rose to a six-week high following Houthi attacks on Saudi Arabian sites. *[ARY](https://arynews.tv/oil-rises-to-six-week-high-following-houthi-attack-on-saudi-sites)*
-- The United States has banned imports of Canadian motorcycles, dairy, and alcohol, escalating an existing trade war. *[Business Recorder](https://www.brecorder.com/news/40438612/us-to-ban-canadian-motorcycle-dairy-alcohol-imports-as-trade-war-sizzles)*
-- Shipping traffic through the Strait of Hormuz remains below the 10-day average. *[Business Recorder](https://www.brecorder.com/news/40438611/shipping-traffic-via-strait-of-hormuz-stays-below-10-day-average-data-shows)*
-- The Indian rupee faces downward pressure as Brent crude prices approach $100 per barrel. *[Business Recorder](https://www.brecorder.com/news/40438610/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence)*
-- Asian stock markets remained subdued as oil prices approached $100 amidst escalating Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40438609/oil-heads-for-100-asia-stocks-subdued-as-middle-east-tensions-escalate)*
-- Indian shares are expected to have a muted start as climbing oil prices impact market sentiment. *[Business Recorder](https://www.brecorder.com/news/40438608/indian-shares-eye-muted-start-as-oil-climbs-on-intensifying-mideast-tensions)*
-- The Japanese yen strengthened against a wobbling US dollar as oil prices trended toward $100. *[Business Recorder](https://www.brecorder.com/news/40438607/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment)*
-- Oil prices are nearing $100 per barrel due to heightened supply risks from fresh Middle East strikes. *[Business Recorder](https://www.brecorder.com/news/40438606/oil-nears-100-as-fresh-middle-east-strikes-raise-supply-risks)*
-- FPCCI expressed grave concerns that volatile global oil markets are threatening Pakistan's macroeconomic stability and export competitiveness. *[Business Recorder](https://www.brecorder.com/news/40438513/rising-pressures-on-macroeconomic-stability-highlighted)*
-- Goods transporters in Pakistan announced a 5% increase in fares following the hike in petroleum prices. *[Business Recorder](https://www.brecorder.com/news/40438514/goods-transporters-announce-5pc-increase-in-fares)*
-- Shareholders of The Bank of Punjab approved a Rs30 billion equity injection by the Government of Punjab. *[Business Recorder](https://www.brecorder.com/news/40438515/bop-shareholders-approve-rs30bn-equity-injection-by-punjab-govt)*
+- Indian IT firm Coforge shares fell 8.7% to a three-week low of 1,780.70 rupees, while the Nifty IT index declined approximately 3%. *[Business Recorder](https://www.brecorder.com/news/40438673/indias-coforge-slides-nearly-9-as-chairman-quits-over-board-evaluation-concerns)*
+- The Indian rupee recovered to 95.07 per dollar after hitting a session low of 95.2250 following intervention by the Reserve Bank of India. *[Business Recorder](https://www.brecorder.com/news/40438672/india-central-bank-likely-steps-in-to-stem-indian-rupees-oil-outflow-driven-fall-traders-say)*
+- Sri Lankan CSE All-Share index settled 0.35% lower at 21,466 points, with Ceylinco Holdings and Hayleys Plc losing 33.66 and 14.89 points respectively. *[Business Recorder](https://www.brecorder.com/news/40438670/utilities-industrials-drag-sri-lankan-shares-lower)*
+- India's $100 billion packaged-food industry filed a Supreme Court submission to contest planned health warning labels announced on August 28. *[Business Recorder](https://www.brecorder.com/news/40438668/food-industry-in-india-calls-for-review-of-warning-label-thresholds)*
+- National Stock Exchange of India is expected to price its IPO between 1,700 and 1,785 rupees per share, aiming for a market capitalization of 4.4 trillion rupees ($46.41 billion). *[Business Recorder](https://www.brecorder.com/news/40438665/nse-likely-to-price-ipo-at-1700-1785-indian-rupees-per-share-source-says)*
+- Indian sponge iron prices surged to a two-year high in August, supported by 336 plants producing approximately 50 million metric tons. *[Business Recorder](https://www.brecorder.com/news/40438664/indian-sponge-iron-at-two-year-high-boosted-by-costly-coal-imports-domestic-shortages)*
+- Kuwait Petroleum Corp is offering ship-to-ship (STS) transfers outside the Strait of Hormuz to ensure safe transportation for buyers. *[Business Recorder](https://www.brecorder.com/news/40438663/kuwait-petroleum-offering-ship-to-ship-transfers-outside-hormuz-to-buyers-official-says)*
+- Nimir Industrial Chemicals Limited (NICL) approved Rs3 billion (~$11 million) for projects including a new Palmitic Acid plant and the relocation of an oleochemicals facility to Hub, Balochistan. *[Business Recorder](https://www.brecorder.com/news/40438662/nicl-to-invest-11mn-for-expansion-hub-relocation)*
+- RBL Bank aims to raise approximately $500 million through a five-year U.S. dollar-denominated bond with initial price guidance at U.S. Treasuries plus a 150 basis point spread. *[Business Recorder](https://www.brecorder.com/news/40438660/rbl-bank-set-for-debut-dollar-debt-sale-eyes-5-year-funding-bankers-say)*
+- Three-month copper on the London Metal Exchange slipped 0.5% to $14,641 per metric ton after reaching an all-time high of $14,779. *[Business Recorder](https://www.brecorder.com/news/40438659/copper-slips-from-record-highs-on-middle-east-worries)*
+- The Reserve Bank of India is likely deploying dollar/rupee sell-buy swaps for September and October maturity, with forward premiums rising approximately 2.5%. *[Business Recorder](https://www.brecorder.com/news/40438658/india-central-bank-likely-deploys-fx-swaps-to-mop-up-overseas-deposit-driven-liquidity-traders-say)*
+- Malaysian palm oil futures for November delivery fell 0.18% (9 ringgit) to 4,967 ringgit ($1,220.99) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40438657/palm-slips-for-second-session-as-profit-taking-weighs)*
+- The Pakistani rupee closed at 277.36, gaining Re0.01 against the US dollar in the interbank market. *[Business Recorder](https://www.brecorder.com/news/40438656/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Dutch fintech Adyen plans to expand its Indian operations and increase local hiring to target the country's digital payments market. *[Business Recorder](https://www.brecorder.com/news/40438655/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion)*
+- Most Gulf stock markets closed lower as Middle East conflicts, including Houthi strikes on Saudi oil installations and U.S. strikes on Iranian tankers, weighed on investor sentiment. *[Business Recorder](https://www.brecorder.com/news/40438674/most-gulf-bourses-in-red-as-middle-east-conflict-escalates)*
 
 ### Science & Technology
-- Business leaders have urged the government to finalize satellite-internet regulations and establish transparent licensing. *[Business Recorder](https://www.brecorder.com/news/40438600/mian-zahid-urges-govt-to-complete-satellite-internet-regulations)*
-- SUPARCO has called for increased use of satellite-based data to manage climate resilience and disaster risks in Sindh. *[Business Recorder](https://www.brecorder.com/news/40438604/climate-resilience-in-sindh-symposium-highlights-use-of-satellite-tech)*
-
-### Politics
-- Jamaat-e-Islami may conduct a march towards Islamabad, according to leader Hafez Naeem. *[ARY](https://arynews.tv/jamaat-e-islami-may-march-towards-islamabad-hafez-naeem-says)*
-
-### National
-- Pakistan and New Zealand have reaffirmed their commitment to strengthening cooperation in education and skills. *[ARY](https://arynews.tv/pakistan-and-new-zealand-reaffirm-commitment-to-strengthen-education-and-skills-cooperation)*
-- The federal government is reviewing measures to strengthen the governance and financial sustainability of Daanish schools. *[Business Recorder](https://www.brecorder.com/news/40438599/measures-to-strengthen-daanish-schools-governance-reviewed)*
-- The Senate Housing Committee has directed NAB to investigate the alleged annexation of forest land in the Sky Gardens Housing Scheme. *[Business Recorder](https://www.brecorder.com/news/40438601/sky-gardens-housing-scheme-nab-directed-to-probe-annexation-of-shamilaat-amp-forest-land)*
-- The Chairman of PAEC reaffirmed Pakistan's commitment to international standards for nuclear and radiation safety. *[Business Recorder](https://www.brecorder.com/news/40438602/nuclear-radiation-safety-nuclear-security-paec-chief-reaffirms-commitment-to-international-standards)*
-- Three Adiala jail inmates have challenged an IHC verdict in the Federal Constitutional Court to seek access to private hospital medical facilities. *[Business Recorder](https://www.brecorder.com/news/40438605/medical-facilities-three-adiala-jail-inmates-move-fcc-to-callenge-ihc-verdict)*
-- A fire broke out at the office of Karachi Mayor Murtaza Wahab, causing damage to furniture and the room. *[Business Recorder](https://www.brecorder.com/news/40438512/fire-damages-mayors-office)*
+- Apple is expected to unveil its first folding iPhone under new CEO John Ternus, following a fiscal year where the iPhone generated $209.6 billion in sales. *[Business Recorder](https://www.brecorder.com/news/40438666/apple-expected-to-unveil-first-folding-phone-with-new-ceo-ternus-in-command)*
 
 ### International
-- Wizz Air and Ryanair are calling for an overhaul of the UK's air traffic control services following flight disruptions. *[ARY](https://arynews.tv/wizz-air-ryanair-call-for-nats-overhaul-after-uk-flight-disruption)*
-- Saudi Arabia has warned that Houthi aggression draws a red line and vowed to defend national interests. *[ARY](https://arynews.tv/saudi-arabia-warns-houthi-aggression-draws-red-line-vows-to-defend-national-interests)*
-- Air traffic control issues have caused disruptions to departing flights at major UK airports. *[ARY](https://arynews.tv/air-traffic-control-issue-disrupts-departing-flights-at-major-uk-airports)*
-- Ukraine is contracting approximately 1,000 Patriot missiles from allies, supported by a European Union loan. *[Business Recorder](https://www.brecorder.com/news/40438613/ukraine-contracting-around-1000-patriot-missiles-from-allies-defence-chief-says)*
-
-### Sports
-- Footballer Karim Benzema performed Umrah in Makkah and shared photos from the holy site. *[ARY](https://arynews.tv/benzema-performs-umrah-shares-photos-from-makkah)*
-
-### Health
-- The combination of Imfinzi and Imdelltra has been shown to help lung cancer patients live longer. *[ARY](https://arynews.tv/imfinzi-imdelltra-combo-helps-lung-cancer-patients-live-longer)*
-- Punjab's health sector is being aligned with global standards through expanded cooperation with Chinese medical institutions. *[Business Recorder](https://www.brecorder.com/news/40438603/punjabs-health-sector-being-aligned-with-global-standards-minister)*
+- Pakistan welcomed the United Kingdom’s decision to ban goods originating from illegal Israeli settlements in the Occupied West Bank. *[Business Recorder](https://www.brecorder.com/news/40438671/pakistan-welcomes-uk-ban-on-illegal-israeli-settlement-goods)*
+- Serbia’s President Aleksandar Vucic has dissolved parliament and announced snap elections for next month. *[Business Recorder](https://www.brecorder.com/news/40438661/serbias-president-vucic-dissolves-parliament-calls-snap-elections)*
+- The Makkah Joint Defence Agreement between Pakistan, Saudi Arabia, and Turkiye could become operational if the conflict in Yemen spills into Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40438667/makkah-defence-pact-may-become-operational-if-saudi-arabia-faces-aggression-asif)*
 
 ### Other
-- Italian luxury house Dolce & Gabbana launched "Your Devotion Eau de Parfum Intense" during an event in Karachi. *[Business Recorder](https://www.brecorder.com/news/40438511/your-devotion-eau-de-parfum-intense-launched-in-karachi)*
+- The 51st Toronto International Film Festival will feature nearly 300 films, aiming to attract younger audiences through independent premieres. *[Business Recorder](https://www.brecorder.com/news/40438675/toronto-international-film-festival-targets-younger-audience-with-independent-premieres)*
 
