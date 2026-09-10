@@ -7,53 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 10-Sep-2026 09:09PKT 
+ &lrm; 10-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- برینٹ کروڈ فی بیرل 100 ڈالر کی سطح سے اوپر برقرار رہا کیونکہ ایران اور امریکہ کے درمیان بحری جہازوں پر حملوں کے باعث توانائی کی فراہمی میں خلل کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438814/currency-markets-subdued-as-oil-shock-lifts-global-yields-ecb-us-inflation-eyed)*
-- اسپاٹ گولڈ کی قیمت میں 0.3 فیصد اضافہ ہوا اور یہ 4,412.84 ڈالر فی اونس پر پہنچ گیا، جبکہ دسمبر کی ترسیل کے لیے امریکی گولڈ فیوچرز 0.1 فیصد گر کر 4,457.10 ڈالر پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40438812/gold-edges-higher-on-weaker-dollar-us-inflation-data-in-focus)*
+- مشرق بینک نے متحدہ عرب امارات میں پاکستانیوں کے لیے سرحد پار بینکنگ کے عمل کو سادہ بنا دیا ہے۔ *[ARY](https://arynews.tv/mashreq-simplifies-cross-border-banking-for-pakistanis-in-the-uae)*
+- امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی کے باعث خلیجی اسٹاک مارکیٹس میں کمی واقع ہوئی؛ ایران نے 10 جہازوں پر حملہ کیا جبکہ امریکہ نے 5 ایرانی ٹینکرز کو ڈبو دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities)*
+- اگست میں بھارت کے مساواتی فنڈز (Equity Funds) میں بہاؤ میں تقریباً 20 فیصد اضافہ ہوا جبکہ سسٹمائیٹک انویسٹمنٹ پلان (SIP) کے ذریعے سرمایہ کاری 322.97 ارب روپے (3.39 ارب ڈالر) تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40438877/indias-equity-fund-inflows-rise-nearly-a-fifth-in-august-monthly-savings-plan-contributions-hit-a-record)*
+- دبئی ایئرپورٹس کو توقع ہے کہ اس سال مسافروں کی تعداد 70 ملین تک پہنچ جائے گی، تاہم اصل ہدف (100 ملین) اب 2027 تک پہنچ سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says)*
+- سری لنکا کی اسٹاک مارکیٹ (CSE All-Share index) 0.5 فیصد گر کر 21,357.74 پوائنٹس پر بند ہوئی، جس میں ریئل اسٹیٹ اور ٹیک اسٹاکس کی وجہ سے کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40438872/real-estate-tech-stocks-drag-sri-lankan-shares-lower)*
+- بھارتی ریزرو بینک (RBI) روپے کی حمایت کے لیے فارن ایکسچینج سویپس کے ذریعے مارکیٹ سے اضافی رقم نکال رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee)*
+- تانبے (Copper) کی قیمتیں 0.2 فیصد گر کر 14,743 ڈالر فی میٹرک ٹن پر آگئیں، جبکہ یہ پہلے 14,875 ڈالر کی ریکارڈ سطح پر پہنچی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40438869/copper-slips-on-profit-taking-after-scaling-fresh-record-high)*
+- بھارت کے NSE آئی پی او (IPO) کے لیے قیمتوں کا دائرہ 1,700 سے 1,785 روپے فی شیئر کے درمیان مقرر کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438868/top-investors-in-indias-nse-ipo-trim-stake-sales-sources-say)*
+- ایپل نے بھارت میں آئی فون کی قیمتوں میں 41 فیصد تک اضافہ کر دیا ہے، جبکہ امریکہ میں یہ اضافہ 10 سے 21 فیصد کے درمیان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438867/india-gets-one-of-worlds-steepest-iphone-price-hikes)*
+- چیری (Chery) پاکستان نے اپنی نئی الیکٹرک گاڑی 'چیری Q' کی بکنگ 15 لاکھ روپے میں شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438866/chery-q-bookings-open-with-pkr-15-million-your-q-to-beat-the-fuel-bill)*
+- چیریٹ سیمنٹ (Cherat Cement) این آئی سی ایل (NICL) کے کم از کم 30 فیصد حصص خریدنے کی خواہش کا اظہار کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438865/cherat-cement-seeks-to-acquire-30-stake-in-nicl)*
+- ایس ای سی پی (SECP) نے REIT ریگولیشنز میں ترمیم کی تجویز دی ہے جس کے تحت اثاثوں کی حد 75 فیصد سے کم کر کے 65 فیصد کی جا سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438864/secp-proposes-reforms-to-accelerate-growth-in-pakistans-reit-sector)*
+- مالیشیا میں پام آئل کی قیمتیں 1.63 فیصد گر کر 4,885 رنگٹ فی میٹرک ٹن پر آگئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438863/palm-slips-over-1-on-weaker-soyoil-bearish-mpob-data)*
+- ایس بی آئی (SBI) میوچل فنڈ کے مطابق، مہنگائی کے باعث 10 سالہ بانڈ کی شرح منافع 7 فیصد سے تجاوز کر جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40438862/sbi-mutual-fund-says-10-year-yield-will-soar-beyond-7)*
 
 ### سائنس اور ٹیکنالوجی
-- ایک اے آئی (AI) محقق نے انتھروپک (Anthropic) کمپنی سے استعفیٰ دے دیا اور اسے انسانی زندگی کے ساتھ جوا کھیلنے سے تشبیہ دی۔ *[ARY](https://arynews.tv/gambling-with-our-lives-ai-researcher-quits-anthropic)*
-- نینٹینڈو ڈائریکٹ ستمبر 2026 میں سوئچ اور اگلی نسل کے کنسولز کے لیے نئے گیمز کا انکشاف کیا گیا۔ *[ARY](https://arynews.tv/nintendo-direct-sept-2026-reveals-highly-packed-games-for-switch-and-next-gen)*
-- ویزا (Visa)، ماسٹر کارڈ (Mastercard) اور اینٹ انٹرنیشنل (Ant International) نے اے آئی ایجنٹس کی شناخت اور تصدیق کے لیے ایک مشترکہ 'نال-یور-ایجنٹ' (Know-Your-Agent) فریم ورک پر تعاون کا آغاز کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438815/payment-firms-visa-mastercard-and-ant-international-team-up-on-ai-agent-trust-framework)*
-
-### موسم
-- عالمی فضائی معیار کے انڈیکس کے مطابق لاہور دنیا کے 16 ویں سب سے زیادہ آلودہ شہر بن گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438794/lahore-moves-to-16th-position-among-worlds-most-polluted-cities)*
+- سیمسنگ ایپل کے ممکنہ فولڈ ایبل آئی فون کے چیلنج کا مقابلہ کرنے کے لیے تیاریاں کر رہی ہے۔ *[ARY](https://arynews.tv/welcome-to-foldables-samsung-braces-for-apples-foldable-iphone-challenge)*
+- بھارت کا پے منٹس اتھارٹی مصنوعی ذہانت (AI) ایجنٹس کے لین دین کی نگرانی کے لیے ایک رجسٹری بنانے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438876/india-plans-ai-registry-as-it-looks-to-roll-out-agentic-payments-sources-say)*
+- ویتنامی کار ساز کمپنی ون فیسٹ (VinFast) بھارت کے لیے دو مخصوص الیکٹرک گاڑیاں تیار کرنے کا منصوبہ بنا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438861/vinfast-plans-to-develop-two-india-specific-evs-in-strategy-shift-sources-say)*
 
 ### سیاست
-- حافظ نعیم نے سندھ میں کرپشن کے باعث عوام کی مشکلات کا ذکر کیا۔ *[ARY](https://arynews.tv/hafiz-naeem-says-people-are-suffering-due-to-corruption-in-sindh)*
-- قانونی اور سیاسی ماہرین نے لاہور میں ایک سیمینار کے دوران صوبائی گورننس اور جمہوری مکالمے کے چیلنجز پر بحث کی۔ *[Business Recorder](https://www.brecorder.com/news/40438790/experts-examine-state-of-provincial-governance-democratic-discourse)*
+- ڈونلڈ ٹرمپ نے وعدہ کیا ہے کہ اگر ریپبلکن جیت گئے تو وہ 5,000 ڈالر کا پے آؤٹ دیں گے۔ *[ARY](https://arynews.tv/trump-promises-5000-payout-if-republicans-win)*
 
 ### قومی
-- عارف خان ساقی کیس میں مرکزی ملزم کنین شاہ کو ضمانت دے دی گئی ہے۔ *[ARY](https://arynews.tv/arif-khan-saqi-case-main-accused-kunain-shah-granted-bail)*
-- وزارت نے پاسپورٹ کی تصدیق کے عمل کو تیز، آسان اور زیادہ موثر بنانے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/verification-process-for-passports-to-be-made-faster-easier-and-more-efficient-minister)*
-- پاکستان کام کی جگہوں پر حفاظت کو بہتر بنانے کے لیے 'نیشنل او ایس ایچ (OSH) فریم ورک' کے ذریعے اقدامات کرے گا۔ *[ARY](https://arynews.tv/pakistan-to-strengthen-workplace-safety-through-national-osh-framework)*
-- ایکٹنگ پریزیڈنٹ سید یوسف رضا گیلانی نے ملک کی معاشی ترقی کے لیے خواتین کی برابر شرکت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438802/women-remained-pivotal-to-pakistans-national-progress-gillani)*
-- یونیسف نے بچوں کے حقوق کے تحفظ کے لیے پنجاب حکومت کی جامع 'چائلڈ پروٹیکشن پالیسی' کی تعریف کی۔ *[Business Recorder](https://www.brecorder.com/news/40438801/unicef-praises-punjab-govts-child-protection-initiatives)*
-- سندھ میں دہشت گردی اور انتہا پسندی کے خلاف کوششوں کو مضبوط بنانے کے لیے 'سندھ پالیسی ڈائیلاگ' منعقد ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438800/stronger-coordination-linked-to-strengthen-counter-terrorism-efforts)*
-- پنجاب حکومت نے بسنت کے میلے کے لیے شہر کی خوبصورتی اور ثقافتی سجاوٹ کا منصوبہ تیار کرنے کے احکامات جاری کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438797/punjab-orders-grand-beautification-plan-for-basant-festival)*
-- لاہور ہائی کورٹ نے ایف آئی اے (FIA) ڈائریکٹر کو ایک مسافر کو جہاز سے اتارنے کے معاملے میں توہینِ عدالت کی درخواست پر نوٹس جاری کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438796/notice-issued-to-fia-director)*
-- لاہور ہائی کورٹ نے پنجاب ہیلتھ کیئر کمیشن کی جانب سے ایک میٹرنٹی ہوم کو سیل کرنے کے فیصلے کو برقرار رکھا۔ *[Business Recorder](https://www.brecorder.com/news/40438795/lhc-upholds-phc-decision)*
-- خیبر پختونخوا کے وزیر اعلیٰ نے جنوری سے اگست 2026 کے دوران موصول ہونے والی کل 3,551 شکایات کا جائزہ لیا، جن میں سے 499 کا ازالہ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438793/public-complaints-redressal-kp-cm-reviews-mechanism)*
-- بلوچستان کے کرن اور واشک کے اضلاع میں سیکورٹی فورسز کے کامیاب آپریشن کے دوران 11 دہشت گرد مارے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438791/cm-commends-forces-for-successful-operation-in-btan)*
+- پاکستان نے ٹیلی کمیونیکیشن کے شعبے سے متعلق تنازعات کے حل کے لیے ٹربیونل کا افتتاح کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-inaugurates-tribunal-for-resolution-of-disputes-relating-to-telecommunication-sector)*
+- پی اے اے (PAA) نے کراچی اور لاہور کے ایئر ٹریفک پروجیکٹ کے لیے تکنیکی بولیاں کھول دی ہیں۔ *[ARY](https://arynews.tv/paa-completes-technical-bid-opening-for-karachi-lahore-air-traffic-project)*
 
 ### بین الاقوامی
-- ایران اور امریکہ کے درمیان بحری جہازوں پر حملوں کی بڑی لہر نے شپنگ کے شعبے کو شدید متاثر کیا ہے۔ *[ARY](https://arynews.tv/us-and-iran-hit-tankers-in-biggest-wave-of-attacks-on-shipping)*
-- لبنان میں اسرائیلی میزائل حملے کے نتیجے میں ایک رپورٹر کے قریب دھماکہ ہوا۔ *[ARY](https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter)*
-- ڈونلڈ ٹرمپ نے ایران کے 'پک ایکس ماؤنٹین' (Pickaxe Mountain) پر ممکنہ امریکی کارروائی کا ذکر کرتے ہوئے ایران کو خبردار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438813/trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute)*
-- فلپائن کے علاقے پالوان میں ایک جہاز (MV June Aster) میں آگ لگنے سے 5 افراد ہلاک اور 80 سے زائد لاپتہ ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438811/five-dead-more-than-80-missing-after-philippine-ferry-fire)*
-- چینی صدر شی جن پنگ کا دورہ بھارت سفارتی تعلقات میں بہتری لا سکتا ہے، تاہم تجارتی رکاوٹیں برقرار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438810/xis-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion)*
-- برطانیہ کے ایئر ٹریفک کنٹرول فراہم کرنے والے ادارے NATS کے سسٹم کی خرابی کی وجہ سے 2,000 پروازیں منسوخ ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438773/uk-gives-air-traffic-provider-a-week-to-probe-outage-that-halted-flights)*
+- عالمی ادارہ صحت (WHO) کے جنوب مشرقی ایشیا کے سربراہ اور شیخ حسینہ کی بیٹی صائمہ واجد نے فراڈ تحقیقات کے بعد استعفیٰ دے دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438875/sheikh-hasinas-daughter-resigns-as-who-regional-head-after-fraud-allegations)*
+- الجزائر نے متحدہ عرب امارات کے ساتھ سفارتی تعلقات منقطع کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438874/algeria-cuts-diplomatic-ties-with-the-uae)*
+- بھارت 12-13 ستمبر کو بی آر آئی سی ایس (BRICS) سربراہی اجلاس کی میزبانی کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40438860/india-hosts-brics-summit-as-iran-war-tests-bloc-unity)*
 
 ### کھیل
-- کیوراسو نے مینیجر ایڈووکاٹ (Advocaat) کے معاہدے میں توسیع کر دی ہے۔ *[ARY](https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year)*
-- چیمپیئنز لیگ میں بارسلونا نے فینورڈ کو شکست دی جبکہ ڈیمیرووچ نے اسٹٹگارٹ کے لیے ہیٹ ٹرک مکمل کی۔ *[ARY](https://arynews.tv/barcelona-thrash-feyenoord-in-champions-league-as-demirovic-hits-stuttgart-hat-trick)*
-- پی سی بی کے ٹیلنٹ ہنٹ پروگرام کے تحت نیشنل کرکٹ اکیڈمی میں اسکول کے بچوں کے لیے کوچنگ کلینک منعقد کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438799/second-coaching-clinic-held-for-school-kids-at-nca)*
+- گابریل جیزس نے بارسلونا کے لیے اپنا پہلا چیمپئنز لیگ گول اسکور کیا۔ *[ARY](https://arynews.tv/gabriel-jesus-reflects-on-different-emotion-after-scoring-first-barcelona-champions-league-goal)*
+- اوکا فور (Okafor) نے یاکن کی قیادت میں سوئٹزرلینڈ کے لیے کھیلنے سے انکار کر دیا۔ *[ARY](https://arynews.tv/okafor-refuses-to-play-for-switzerland-under-yakin)*
+- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز میں برتری حاصل کر لی ہے اور سیریز جیتنے کے قریب ہے۔ *[ARY](https://arynews.tv/england-dominate-pakistan-close-in-on-test-series-sweep)*
 
-### دیگر
-- فاطمہ فرٹیلائزر کے برانڈ 'سرسبز' نے اپنے سوشل میڈیا مہم 'دل سے دیکھو سرسبز پاکستان' کے فاتحین کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438798/sarsabz-announces-winners-of-dil-se-dekho-sarsabz-pakistan-drive)*
-- ڈی ڈبلیو پی (DWP) گروپ نے اپنے 'تعمیرِ مستقبل سمر انٹرنشپ پروگرام 2026' کی تکمیل کا جشن منایا، جس میں 36 انٹرنز شامل تھے۔ *[Business Recorder](https://www.brecorder.com/news/40438792/dwp-group-celebrates-tameer-e-mustaqbal-summer-internship-program)*
+### صحت
+- گیٹس فاؤنڈیشن پاکستان میں 620,000 خواتین اور بچوں کی مدد کرنے کا منصوبہ بنا رہی ہے۔ *[ARY](https://arynews.tv/gates-foundation-plans-to-support-620000-women-and-children-in-pakistan)*
+- مصطفیٰ کمال نے بڑھتی ہوئی ضروریات کے پیش نظر صحت کے شعبے میں مزید سرمایہ کاری کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/mustafa-kamal-calls-for-greater-health-investment-as-pakistans-needs-grow)*
+- وزیر اعظم شہباز شریف نے گیٹس فاؤنڈیشن کے وفد سے پولیو کے خاتمے، صحت اور غذائیت کے شعبوں میں تعاون پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40438879/pm-shehbaz-gates-foundation-delegation-discuss-polio-eradication-key-reforms)*
+- بھارت میں خوراک کی پیکنگ پر سخت 'ریڈ وارننگ لیبلز' متعارف کرانے کا امکان ہے، جس سے 100 ارب ڈالر کی صنعت متاثر ہو سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438870/india-signals-stricter-red-warning-labels-in-setback-for-big-food)*
 
