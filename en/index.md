@@ -4,35 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Sep-2026 21:05PKT
+Published at: 10-Sep-2026 09:04PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- Indian IT firm Coforge shares fell 8.7% to a three-week low of 1,780.70 rupees, while the Nifty IT index declined approximately 3%. *[Business Recorder](https://www.brecorder.com/news/40438673/indias-coforge-slides-nearly-9-as-chairman-quits-over-board-evaluation-concerns)*
-- The Indian rupee recovered to 95.07 per dollar after hitting a session low of 95.2250 following intervention by the Reserve Bank of India. *[Business Recorder](https://www.brecorder.com/news/40438672/india-central-bank-likely-steps-in-to-stem-indian-rupees-oil-outflow-driven-fall-traders-say)*
-- Sri Lankan CSE All-Share index settled 0.35% lower at 21,466 points, with Ceylinco Holdings and Hayleys Plc losing 33.66 and 14.89 points respectively. *[Business Recorder](https://www.brecorder.com/news/40438670/utilities-industrials-drag-sri-lankan-shares-lower)*
-- India's $100 billion packaged-food industry filed a Supreme Court submission to contest planned health warning labels announced on August 28. *[Business Recorder](https://www.brecorder.com/news/40438668/food-industry-in-india-calls-for-review-of-warning-label-thresholds)*
-- National Stock Exchange of India is expected to price its IPO between 1,700 and 1,785 rupees per share, aiming for a market capitalization of 4.4 trillion rupees ($46.41 billion). *[Business Recorder](https://www.brecorder.com/news/40438665/nse-likely-to-price-ipo-at-1700-1785-indian-rupees-per-share-source-says)*
-- Indian sponge iron prices surged to a two-year high in August, supported by 336 plants producing approximately 50 million metric tons. *[Business Recorder](https://www.brecorder.com/news/40438664/indian-sponge-iron-at-two-year-high-boosted-by-costly-coal-imports-domestic-shortages)*
-- Kuwait Petroleum Corp is offering ship-to-ship (STS) transfers outside the Strait of Hormuz to ensure safe transportation for buyers. *[Business Recorder](https://www.brecorder.com/news/40438663/kuwait-petroleum-offering-ship-to-ship-transfers-outside-hormuz-to-buyers-official-says)*
-- Nimir Industrial Chemicals Limited (NICL) approved Rs3 billion (~$11 million) for projects including a new Palmitic Acid plant and the relocation of an oleochemicals facility to Hub, Balochistan. *[Business Recorder](https://www.brecorder.com/news/40438662/nicl-to-invest-11mn-for-expansion-hub-relocation)*
-- RBL Bank aims to raise approximately $500 million through a five-year U.S. dollar-denominated bond with initial price guidance at U.S. Treasuries plus a 150 basis point spread. *[Business Recorder](https://www.brecorder.com/news/40438660/rbl-bank-set-for-debut-dollar-debt-sale-eyes-5-year-funding-bankers-say)*
-- Three-month copper on the London Metal Exchange slipped 0.5% to $14,641 per metric ton after reaching an all-time high of $14,779. *[Business Recorder](https://www.brecorder.com/news/40438659/copper-slips-from-record-highs-on-middle-east-worries)*
-- The Reserve Bank of India is likely deploying dollar/rupee sell-buy swaps for September and October maturity, with forward premiums rising approximately 2.5%. *[Business Recorder](https://www.brecorder.com/news/40438658/india-central-bank-likely-deploys-fx-swaps-to-mop-up-overseas-deposit-driven-liquidity-traders-say)*
-- Malaysian palm oil futures for November delivery fell 0.18% (9 ringgit) to 4,967 ringgit ($1,220.99) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40438657/palm-slips-for-second-session-as-profit-taking-weighs)*
-- The Pakistani rupee closed at 277.36, gaining Re0.01 against the US dollar in the interbank market. *[Business Recorder](https://www.brecorder.com/news/40438656/intra-day-update-rupee-records-gain-against-us-dollar)*
-- Dutch fintech Adyen plans to expand its Indian operations and increase local hiring to target the country's digital payments market. *[Business Recorder](https://www.brecorder.com/news/40438655/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion)*
-- Most Gulf stock markets closed lower as Middle East conflicts, including Houthi strikes on Saudi oil installations and U.S. strikes on Iranian tankers, weighed on investor sentiment. *[Business Recorder](https://www.brecorder.com/news/40438674/most-gulf-bourses-in-red-as-middle-east-conflict-escalates)*
+- Brent crude futures remained above **$100 a barrel** following a surge in prices driven by US-Iran shipping attacks. *[Business Recorder](https://www.brecorder.com/news/40438814)*
+- Spot gold rose by **0.3% to $4,412.84 per ounce**, while US gold futures for December delivery fell **0.1% to $4,457.10**. *[Business Recorder](https://www.brecorder.com/news/40438812)*
 
 ### Science & Technology
-- Apple is expected to unveil its first folding iPhone under new CEO John Ternus, following a fiscal year where the iPhone generated $209.6 billion in sales. *[Business Recorder](https://www.brecorder.com/news/40438666/apple-expected-to-unveil-first-folding-phone-with-new-ceo-ternus-in-command)*
+- **Ant International, Mastercard, and Visa** launched a **Know-Your-Agent** interoperability framework to identify and verify AI agents capable of making purchases. *[Business Recorder](https://www.brecorder.com/news/40438815)*
+- An AI researcher resigned from **Anthropic**, describing the current trajectory of AI development as "gambling with our lives." *[ARY](https://arynews.tv/gambling-with-our-lives-ai-researcher-quits-anthropic)*
+- The **Nintendo Direct Sept 2026** presentation revealed a lineup of new games for the Switch and upcoming next-generation consoles. *[ARY](https://arynews.tv/nintendo-direct-sept-2026-reveals-highly-packed-games-for-switch-and-next-gen)*
+
+### Weather
+- Lahore has moved to the **16th position** among the world’s most polluted cities according to the global air quality index. *[Business Recorder](https://www.brecorder.com/news/40438794)*
+
+### Politics
+- Acting President Syed Yousaf Raza Gillani stated that Pakistan's economic potential requires the equal participation of **women** as leaders and policymakers. *[Business Recorder](https://www.brecorder.com/news/40438802/women-remained-pivotal-to-pakistans-national-progress-gillani)*
+- Hafiz Naeem attributed public suffering in **Sindh** to widespread corruption. *[ARY](https://arynews.tv/hafiz-naeem-says-people-are-suffering-due-to-corruption-in-sindh)*
+- The **Sindh policy dialogue**, supported by the British High Commission, called for enhanced coordination and stronger legislation to combat terrorism. *[Business Recorder](https://www.brecorder.com/news/40438800-stronger-coordination-linked-to-strengthen-counter-terrorism-efforts)*
+- The **KP Chief Minister's Complaint Cell** processed **3,551 complaints** between January and August 2026, successfully resolving **499** of them. *[Business Recorder](https://www.brecorder.com/news/40438793-public-complaints-redressal-kp-cm-reviews-mechanism)*
+- Legal and political experts gathered at the **South Asian Free Media Association** to discuss the state of provincial governance and democratic discourse in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438790-experts-examine-state-of-provincial-governance-democratic-discourse)*
+
+### National
+- **Kunain Shah**, the main accused in the **Arif Khan Saqi case**, has been granted bail. *[ARY](https://arynews.tv/arif-khan-saqi-case-main-accused-kunain-shah-granted-bail)*
+- The **Lahore High Court** issued a notice to the **FIA director** regarding a contempt of court petition involving a passenger offloaded on August 08, requesting a reply by **September 25**. *[Business Recorder](https://www.brecorder.com/news/40438796-notice-issued-to-fia-director)*
+- The **LHC** upheld a decision by the **Punjab Health Care Commission (PHC)** to seal the maternity home of Farhat Batool due to illegal practice. *[Business Recorder](https://www.brecorder.com/news/40438795-lhc-upholds-phc-decision)*
+- The **Punjab government** has approved a comprehensive **Child Protection Policy** to provide healthcare, education, and legal assistance to children. *[Business Recorder](https://www.brecorder.com/news/40438801-unicef-praises-punjab-govts-child-protection-initiatives)*
+- Punjab Housing and Urban Development Minister **Bilal Yasin** ordered a beautification plan for the upcoming **Basant Festival**. *[Business Recorder](https://www.brecorder.com/news/40438797-punjab-orders-grand-beautification-plan-for-basant-festival)*
+- Security forces conducted an intelligence-based operation in **Kharan and Washuk districts** of Balochistan, eliminating **11 terrorists**. *[Business Recorder](https://www.brecorder.com/news/40438791-cm-commends-forces-for-successful-operation-in-btan)*
+- Pakistan is moving to strengthen workplace safety through the implementation of a **National OSH Framework**. *[ARY](https://arynews.tv/pakistan-to-strengthen-workplace-safety-through-national-osh-framework)*
+- A new ministerial initiative aims to make the **passport verification process** faster and more efficient. *[ARY](https://arynews.tv/verification-process-for-passports-to-be-made-faster-easier-and-more-efficient-minister)*
 
 ### International
-- Pakistan welcomed the United Kingdom’s decision to ban goods originating from illegal Israeli settlements in the Occupied West Bank. *[Business Recorder](https://www.brecorder.com/news/40438671/pakistan-welcomes-uk-ban-on-illegal-israeli-settlement-goods)*
-- Serbia’s President Aleksandar Vucic has dissolved parliament and announced snap elections for next month. *[Business Recorder](https://www.brecorder.com/news/40438661/serbias-president-vucic-dissolves-parliament-calls-snap-elections)*
-- The Makkah Joint Defence Agreement between Pakistan, Saudi Arabia, and Turkiye could become operational if the conflict in Yemen spills into Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40438667/makkah-defence-pact-may-become-operational-if-saudi-arabia-faces-aggression-asif)*
+- The **US and Iran** engaged in the largest wave of maritime attacks on shipping since the start of the war. *[ARY](https://arynews.tv/us-and-iran-hit-tankers-in-biggest-wave-of-attacks-on-shipping)*
+- **President Donald Trump** warned Iran regarding activity at **Pickaxe Mountain**, a fortified site near the Natanz uranium enrichment facility. *[Business Recorder](https://www.brecorder.com/news/40438813-trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute)*
+- An **Israeli missile strike** hit near a Lebanese reporter. *[ARY](https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter)*
+- **Chinese President Xi Jinping** is set to visit **New Delhi**, a move expected to aid diplomatic relations despite ongoing business and regulatory hurdles. *[Business Recorder](https://www.brecorder.com/news/40438810-xis-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion)*
+- A ferry fire on the **MV June Aster** off Palawan island, Philippines, resulted in **5 deaths** and more than **80 people missing**. *[Business Recorder](https://www.brecorder.com/news/40438811-five-dead-more-than-80-missing-after-philippine-ferry-fire)*
+- The UK's **NATS air traffic provider** is investigating a system outage that caused **2,000 flight cancellations**. *[Business Recorder](https://www.brecorder.com/news/40438773-uk-gives-air-traffic-provider-a-week-to-probe-outage-that-halted-flights)*
+
+### Sports
+- Curacao has extended the contract of manager **Advocaat** following a turbulent year. *[ARY](https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year)*
+- **Barcelona** defeated Feyenoord in the Champions League, while **Demirovic** scored a hat-trick for Stuttgart. *[ARY](https://arynews.tv/barcelona-thrash-feyenoord-in-champions-league-as-demirovic-hits-stuttgart-hat-trick)*
+- The **PCB Talent Hunt Programme for Schools** is training students across **1,400 schools** and **100 districts**, with mentors including **Shaheen Shah Afridi, Haris Rauf, and Mohammad Nawaz**. *[Business Recorder](https://www.brecorder.com/news/40438799-second-coaching-clinic-held-for-school-kids-at-nca)*
 
 ### Other
-- The 51st Toronto International Film Festival will feature nearly 300 films, aiming to attract younger audiences through independent premieres. *[Business Recorder](https://www.brecorder.com/news/40438675/toronto-international-film-festival-targets-younger-audience-with-independent-premieres)*
+- **Sarsabz (Fatima Fertilizer)** announced the winners of its "Dil Se Dekho Sarsabz Pakistan" social media campaign. *[Business Recorder](https://www.brecorder.com/news/40438798-sarsabz-announces-winners-of-dil-se-dekho-sarsabz-pakistan-drive)*
+- **DWP Group** concluded its "Tameer-e-Mustaqbal Summer Internship Program 2026," which included **36 interns**. *[Business Recorder](https://www.brecorder.com/news/40438792-dwp-group-celebrates-tameer-e-mustaqbal-summer-internship-program)*
 
