@@ -7,49 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 09-Sep-2026 21:10PKT 
+ &lrm; 10-Sep-2026 09:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- بجلی کی قیمت میں 52 پیسے فی یونٹ کا اضافہ کیا گیا ہے۔ *[ARY](https://arynews.tv/electricity-price-hiked-by-52-paisas-per-unit)*
-- این آئی سی ایل (NICL) نے تین اسٹریٹجک منصوبوں کے لیے 3 ارب روپے (تقریباً 11 ملین ڈالر) کی سرمایہ کاری منظور کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438662/nicl-to-invest-11mn-for-expansion-hub-relocation)*
-- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں 0.01 روپے اضافے کے ساتھ 277.36 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438656/intra-day-update-rupee-records-gain-against-us-dollar)*
-- مشرق وسطیٰ میں کشیدگی کے باعث خلیجی اسٹاک مارکیٹیں سرخ رنگ میں بند ہوئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438674/most-gulf-bourses-in-red-as-middle-east-conflict-escalates)*
-- بھارتی آئی ٹی کمپنی Coforge کے شیئرز 8.7 فیصد گر کر 1,780.70 روپے کی سطح پر آگئے۔ *[Business Recorder](https://www.brecorder.com/news/40438673/indias-coforge-slides-nearly-9-as-chairman-quits-over-board-evaluation-concerns)*
-- بھارتی ریزرو بینک کی مداخلت کے بعد روپیہ 95.2250 سے بہتر ہو کر 95.07 فی ڈالر پر مستحکم ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438672/india-central-bank-likely-steps-in-to-stem-indian-rupees-oil-outflow-driven-fall-traders-say)*
-- سری لنکا کا CSE All-Share انڈیکس 0.35 فیصد کم ہو کر 21,466 پوائنٹس پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40438670/utilities-industrials-drag-sri-lankan-shares-lower)*
-- بھارت کے NSE کا IPO 1,700 سے 1,785 بھارتی روپے فی شیئر کے درمیان ہو سکتا ہے، جس سے اس کی مالیت 4.4 ٹریلین روپے ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40438665/nse-likely-to-price-ipo-at-1700-1785-indian-rupees-per-share-source-says)*
-- کوئت کے پیٹرولیم کارپوریشن نے خلیج ہرمز سے باہر جہازوں کے درمیان ٹرانسفر (STS) کی پیشکش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438663/kuwait-petroleum-offering-ship-to-ship-transfers-outside-hormuz-to-buyers-official-says)*
-- بھارتی RBL بینک 500 ملین ڈالر کا ڈالر ڈیٹ سیل جاری کرنے کی منصوبہ بندی کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438660/rbl-bank-set-for-debut-dollar-debt-sale-eyes-5-year-funding-bankers-say)*
-- تانبے (Copper) کی قیمتیں 0.5 فیصد گر کر 14,641 ڈالر فی میٹرک ٹن ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438659/copper-slips-from-record-highs-on-middle-east-worries)*
-- ملائیشین پام آئل فیوچرز 0.18 فیصد کم ہو کر 4,967 رنگٹ فی میٹرک ٹن پر بند ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40438657/palm-slips-for-second-session-as-profit-taking-weighs)*
-- ڈچ فن ٹیک کمپنی Adyen بھارت میں اپنے آپریشنز کو وسعت دینے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438655/dutch-fintech-adyen-sees-long-term-india-opportunity-plans-local-expansion)*
-- ML-1 پروجیکٹ کا ڈیزائن اکتوبر تک مکمل کرنے کا اے ڈی بی (ADB) نے اعادہ کیا۔ *[ARY](https://arynews.tv/ml-1-project-design-to-be-completed-by-october-adb-reaffirms)*
+- برینٹ کروڈ فی بیرل 100 ڈالر کی سطح سے اوپر برقرار رہا کیونکہ ایران اور امریکہ کے درمیان بحری جہازوں پر حملوں کے باعث توانائی کی فراہمی میں خلل کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438814/currency-markets-subdued-as-oil-shock-lifts-global-yields-ecb-us-inflation-eyed)*
+- اسپاٹ گولڈ کی قیمت میں 0.3 فیصد اضافہ ہوا اور یہ 4,412.84 ڈالر فی اونس پر پہنچ گیا، جبکہ دسمبر کی ترسیل کے لیے امریکی گولڈ فیوچرز 0.1 فیصد گر کر 4,457.10 ڈالر پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40438812/gold-edges-higher-on-weaker-dollar-us-inflation-data-in-focus)*
 
 ### سائنس اور ٹیکنالوجی
-- ایپل کے نئے سی ای او جان ٹرنس کے دورانیے میں کمپنی کے پہلے فولڈنگ آئی فون کے لانچ کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438666/apple-expected-to-unveil-first-folding-phone-with-new-ceo-ternus-in-command)*
+- ایک اے آئی (AI) محقق نے انتھروپک (Anthropic) کمپنی سے استعفیٰ دے دیا اور اسے انسانی زندگی کے ساتھ جوا کھیلنے سے تشبیہ دی۔ *[ARY](https://arynews.tv/gambling-with-our-lives-ai-researcher-quits-anthropic)*
+- نینٹینڈو ڈائریکٹ ستمبر 2026 میں سوئچ اور اگلی نسل کے کنسولز کے لیے نئے گیمز کا انکشاف کیا گیا۔ *[ARY](https://arynews.tv/nintendo-direct-sept-2026-reveals-highly-packed-games-for-switch-and-next-gen)*
+- ویزا (Visa)، ماسٹر کارڈ (Mastercard) اور اینٹ انٹرنیشنل (Ant International) نے اے آئی ایجنٹس کی شناخت اور تصدیق کے لیے ایک مشترکہ 'نال-یور-ایجنٹ' (Know-Your-Agent) فریم ورک پر تعاون کا آغاز کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438815/payment-firms-visa-mastercard-and-ant-international-team-up-on-ai-agent-trust-framework)*
+
+### موسم
+- عالمی فضائی معیار کے انڈیکس کے مطابق لاہور دنیا کے 16 ویں سب سے زیادہ آلودہ شہر بن گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438794/lahore-moves-to-16th-position-among-worlds-most-polluted-cities)*
 
 ### سیاست
-- این پی پی (ANP) پیٹرولیم لیوی کے خلاف جمعیت علماء کے احتجاج میں شامل ہوگی۔ *[ARY](https://arynews.tv/anp-to-join-ji-protests-over-petroleum-levy)*
-- پی ایم ایل ایف (PML-F) نے عارف خان ساقی کیس سے لاتعلقی کا اظہار کیا ہے، جبکہ علی گوہر شاہ پی پی پی میں شامل ہو گئے ہیں۔ *[ARY](https://arynews.tv/arif-khan-saqi-case-pml-f-distances-itself-from-incident-says-ali-gohar-shah-joined-ppp)*
-- پاکستان نے غیر قانونی اسرائیلی بستیوں کی مصنوعات پر برطانیہ کی پابندی کا خیر مقدم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438671/pakistan-welcomes-uk-ban-on-illegal-israeli-settlement-goods)*
-- دفاع وزیر خواجہ محمد آصف کے مطابق مکہ دفاعی معاہدہ سعودی عرب پر جارحیت کی صورت میں فعال ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438667/makkah-defence-pact-may-become-operational-if-saudi-arabia-faces-aggression-asif)*
-- سربیا کے صدر ولک نے پارلیمنٹ تحلیل کر کے اگلے ماہ ضمنی انتخابات کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438661/serbias-president-vucic-dissolves-parliament-calls-snap-elections)*
+- حافظ نعیم نے سندھ میں کرپشن کے باعث عوام کی مشکلات کا ذکر کیا۔ *[ARY](https://arynews.tv/hafiz-naeem-says-people-are-suffering-due-to-corruption-in-sindh)*
+- قانونی اور سیاسی ماہرین نے لاہور میں ایک سیمینار کے دوران صوبائی گورننس اور جمہوری مکالمے کے چیلنجز پر بحث کی۔ *[Business Recorder](https://www.brecorder.com/news/40438790/experts-examine-state-of-provincial-governance-democratic-discourse)*
 
-### ملکی
-- میر رضا قتل کیس میں ٹیسٹ فائر شیلز کی اصلیت پر سوالات اٹھائے جا رہے ہیں۔ *[ARY](https://arynews.tv/mir-raza-murder-case-questions-raised-over-authenticity-of-test-fire-shells)*
-- گل پلازہ آگ کیس میں عدالت نے JIT بنانے سے انکار کر دیا ہے، جبکہ دفاعی وکلاء نے پولیس پر سرکاری اداروں کو بچانے کا الزام لگایا ہے۔ *[ARY](https://arynews.tv/gul-plaza-fire-case-defense-accuses-police-of-shielding-govt-agencies-as-court-refuses-jit)*
-- سندھ حکومت نے شو روم گاڑیوں پر جرمانے میں نرمی کی ہے۔ *[ARY](https://arynews.tv/sindh-eases-penalties-on-showroom-cars)*
+### قومی
+- عارف خان ساقی کیس میں مرکزی ملزم کنین شاہ کو ضمانت دے دی گئی ہے۔ *[ARY](https://arynews.tv/arif-khan-saqi-case-main-accused-kunain-shah-granted-bail)*
+- وزارت نے پاسپورٹ کی تصدیق کے عمل کو تیز، آسان اور زیادہ موثر بنانے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/verification-process-for-passports-to-be-made-faster-easier-and-more-efficient-minister)*
+- پاکستان کام کی جگہوں پر حفاظت کو بہتر بنانے کے لیے 'نیشنل او ایس ایچ (OSH) فریم ورک' کے ذریعے اقدامات کرے گا۔ *[ARY](https://arynews.tv/pakistan-to-strengthen-workplace-safety-through-national-osh-framework)*
+- ایکٹنگ پریزیڈنٹ سید یوسف رضا گیلانی نے ملک کی معاشی ترقی کے لیے خواتین کی برابر شرکت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438802/women-remained-pivotal-to-pakistans-national-progress-gillani)*
+- یونیسف نے بچوں کے حقوق کے تحفظ کے لیے پنجاب حکومت کی جامع 'چائلڈ پروٹیکشن پالیسی' کی تعریف کی۔ *[Business Recorder](https://www.brecorder.com/news/40438801/unicef-praises-punjab-govts-child-protection-initiatives)*
+- سندھ میں دہشت گردی اور انتہا پسندی کے خلاف کوششوں کو مضبوط بنانے کے لیے 'سندھ پالیسی ڈائیلاگ' منعقد ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438800/stronger-coordination-linked-to-strengthen-counter-terrorism-efforts)*
+- پنجاب حکومت نے بسنت کے میلے کے لیے شہر کی خوبصورتی اور ثقافتی سجاوٹ کا منصوبہ تیار کرنے کے احکامات جاری کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438797/punjab-orders-grand-beautification-plan-for-basant-festival)*
+- لاہور ہائی کورٹ نے ایف آئی اے (FIA) ڈائریکٹر کو ایک مسافر کو جہاز سے اتارنے کے معاملے میں توہینِ عدالت کی درخواست پر نوٹس جاری کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438796/notice-issued-to-fia-director)*
+- لاہور ہائی کورٹ نے پنجاب ہیلتھ کیئر کمیشن کی جانب سے ایک میٹرنٹی ہوم کو سیل کرنے کے فیصلے کو برقرار رکھا۔ *[Business Recorder](https://www.brecorder.com/news/40438795/lhc-upholds-phc-decision)*
+- خیبر پختونخوا کے وزیر اعلیٰ نے جنوری سے اگست 2026 کے دوران موصول ہونے والی کل 3,551 شکایات کا جائزہ لیا، جن میں سے 499 کا ازالہ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438793/public-complaints-redressal-kp-cm-reviews-mechanism)*
+- بلوچستان کے کرن اور واشک کے اضلاع میں سیکورٹی فورسز کے کامیاب آپریشن کے دوران 11 دہشت گرد مارے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438791/cm-commends-forces-for-successful-operation-in-btan)*
 
 ### بین الاقوامی
-- سعودی عرب نے پرائیویٹ سیکٹر کے لیے قومی دن کی چھٹی کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-announces-national-day-holiday-for-private-sector)*
-- حوثی حملوں کے ایک دن بعد سعودی عرب نے اپنے جنوبی شہر میں الرٹ ختم کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-lifts-alert-in-southern-city-a-day-after-houthi-strikes)*
+- ایران اور امریکہ کے درمیان بحری جہازوں پر حملوں کی بڑی لہر نے شپنگ کے شعبے کو شدید متاثر کیا ہے۔ *[ARY](https://arynews.tv/us-and-iran-hit-tankers-in-biggest-wave-of-attacks-on-shipping)*
+- لبنان میں اسرائیلی میزائل حملے کے نتیجے میں ایک رپورٹر کے قریب دھماکہ ہوا۔ *[ARY](https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter)*
+- ڈونلڈ ٹرمپ نے ایران کے 'پک ایکس ماؤنٹین' (Pickaxe Mountain) پر ممکنہ امریکی کارروائی کا ذکر کرتے ہوئے ایران کو خبردار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438813/trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute)*
+- فلپائن کے علاقے پالوان میں ایک جہاز (MV June Aster) میں آگ لگنے سے 5 افراد ہلاک اور 80 سے زائد لاپتہ ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40438811/five-dead-more-than-80-missing-after-philippine-ferry-fire)*
+- چینی صدر شی جن پنگ کا دورہ بھارت سفارتی تعلقات میں بہتری لا سکتا ہے، تاہم تجارتی رکاوٹیں برقرار ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438810/xis-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion)*
+- برطانیہ کے ایئر ٹریفک کنٹرول فراہم کرنے والے ادارے NATS کے سسٹم کی خرابی کی وجہ سے 2,000 پروازیں منسوخ ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40438773/uk-gives-air-traffic-provider-a-week-to-probe-outage-that-halted-flights)*
 
-### صحت
-- پنجاب حکومت نے 'گلائیکوسٹنگ' (Glycosting) انجکشن کے ایک مخصوص بیچ کے لیے استعمال روکنے کا الرٹ جاری کیا ہے۔ *[ARY](https://arynews.tv/punjab-issues-stoppage-alert-for-a-batch-of-glycosting-injection)*
-- بھارتی فوڈ انڈسٹری نے سپریم کورٹ میں پیکجنگ پر وارننگ لیبلز کے حوالے سے قانونی اعتراض دائر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438668/food-industry-in-india-calls-for-review-of-warning-label-thresholds)*
+### کھیل
+- کیوراسو نے مینیجر ایڈووکاٹ (Advocaat) کے معاہدے میں توسیع کر دی ہے۔ *[ARY](https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year)*
+- چیمپیئنز لیگ میں بارسلونا نے فینورڈ کو شکست دی جبکہ ڈیمیرووچ نے اسٹٹگارٹ کے لیے ہیٹ ٹرک مکمل کی۔ *[ARY](https://arynews.tv/barcelona-thrash-feyenoord-in-champions-league-as-demirovic-hits-stuttgart-hat-trick)*
+- پی سی بی کے ٹیلنٹ ہنٹ پروگرام کے تحت نیشنل کرکٹ اکیڈمی میں اسکول کے بچوں کے لیے کوچنگ کلینک منعقد کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40438799/second-coaching-clinic-held-for-school-kids-at-nca)*
 
 ### دیگر
-- ٹورنٹو انٹرنیشنل فلم فیسٹیول اپنی 51 ویں ایڈیشن میں تقریباً 300 فلموں کے ساتھ نوجوان سامعین کو متوجہ کرنے کا ہدف رکھتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438675/toronto-international-film-festival-targets-younger-audience-with-independent-premieres)*
+- فاطمہ فرٹیلائزر کے برانڈ 'سرسبز' نے اپنے سوشل میڈیا مہم 'دل سے دیکھو سرسبز پاکستان' کے فاتحین کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438798/sarsabz-announces-winners-of-dil-se-dekho-sarsabz-pakistan-drive)*
+- ڈی ڈبلیو پی (DWP) گروپ نے اپنے 'تعمیرِ مستقبل سمر انٹرنشپ پروگرام 2026' کی تکمیل کا جشن منایا، جس میں 36 انٹرنز شامل تھے۔ *[Business Recorder](https://www.brecorder.com/news/40438792/dwp-group-celebrates-tameer-e-mustaqbal-summer-internship-program)*
 
