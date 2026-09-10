@@ -4,53 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 10-Sep-2026 09:04PKT
+Published at: 10-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Brent crude futures remained above **$100 a barrel** following a surge in prices driven by US-Iran shipping attacks. *[Business Recorder](https://www.brecorder.com/news/40438814)*
-- Spot gold rose by **0.3% to $4,412.84 per ounce**, while US gold futures for December delivery fell **0.1% to $4,457.10**. *[Business Recorder](https://www.brecorder.com/news/40438812)*
+- Mashreq has launched services to simplify cross-border banking for Pakistani residents in the UAE. *[ARY](https://arynews.tv/mashreq-simplifies-cross-border-banking-for-pakistanis-in-the-uae)*
+- Most Gulf stock markets declined due to US-Iran hostilities, following an escalation where Iran struck **10 vessels** near the Strait of Hormuz after the U.S. sank **five Iranian tankers**. *[Business Recorder](https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities)*
+- India’s systematic investment plan (SIP) contributions rose by **1.1%** to an all-time high of **322.97 billion rupees ($3.39 billion)** in August. *[Business Recorder](https://www.brecorder.com/news/40438877/indias-equity-fund-inflows-rise-nearly-a-fifth-in-august-monthly-savings-plan-contributions-hit-a-record)*
+- Dubai Airports has revised its annual passenger traffic projection to **70 million** for this year, down from an original target of nearly **100 million** due to regional conflicts and airspace closures. *[Business Recorder](https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says)*
+- The Sri Lankan CSE All-Share index fell **0.5%** to **21,357.74 points**, with Melstacorp Plc and Ceylon Brewing Holdings Plc losing **16.28 points** and **8.81 points** respectively. *[Business Recorder](https://www.brecorder.com/news/40438872/real-estate-tech-stocks-drag-sri-lankan-shares-lower)*
+- The Reserve Bank of India's use of FX swaps has caused one-year annualized implied forward premiums to rise by almost **30 basis points** over two days. *[Business Recorder](https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee)*
+- Three-month copper prices on the London Metal Exchange fell **0.2% to $14,743** per metric ton after hitting a record high of **$14,875**. *[Business Recorder](https://www.brecorder.com/news/40438869/copper-slips-on-profit-taking-after-scaling-fresh-record-high)*
+- Investors in India's National Stock Exchange (NSE) are reducing stake sales ahead of an IPO expected to be priced between **1,700-1,785 rupees** per share. *[Business Recorder](https://www.brecorder.com/news/40438868/top-investors-in-indias-nse-ipo-trim-stake-sales-sources-say)*
+- Chery Master Pakistan has opened bookings for the Chery Q electric vehicle at **PKR 1.5 million**. *[Business Recorder](https://www.brecorder.com/news/40438866/chery-q-bookings-open-with-pkr-15-million-your-q-to-beat-the-fuel-bill)*
+- Cherat Cement Company Limited (CCCL) has expressed intent to acquire at least **30%** of the ordinary shares of Nimir Industrial Chemicals Limited (NICL). *[Business Recorder](https://www.brecorder.com/news/40438865/cherat-cement-seeks-to-acquire-30-stake-in-nicl)*
+- The SECP has proposed amending REIT Regulations to reduce real estate income and asset thresholds from **75% to 65%**. *[Business Recorder](https://www.brecorder.com/news/40438864/secp-proposes-reforms-to-accelerate-growth-in-pakistans-reit-sector)*
+- Malaysian palm oil futures (November delivery) slipped **1.63%** to **4,885 ringgit ($1,202.61)** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40438863/palm-slips-over-1-on-weaker-soyoil-bearish-mpob-data)*
+- SBI Mutual Fund, which manages **$29 billion** in debt, predicts the Indian 10-year bond yield will rise above **7%** due to inflation and Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40438862/sbi-mutual-fund-says-10-year-yield-will-soar-beyond-7)*
 
 ### Science & Technology
-- **Ant International, Mastercard, and Visa** launched a **Know-Your-Agent** interoperability framework to identify and verify AI agents capable of making purchases. *[Business Recorder](https://www.brecorder.com/news/40438815)*
-- An AI researcher resigned from **Anthropic**, describing the current trajectory of AI development as "gambling with our lives." *[ARY](https://arynews.tv/gambling-with-our-lives-ai-researcher-quits-anthropic)*
-- The **Nintendo Direct Sept 2026** presentation revealed a lineup of new games for the Switch and upcoming next-generation consoles. *[ARY](https://arynews.tv/nintendo-direct-sept-2026-reveals-highly-packed-games-for-switch-and-next-gen)*
-
-### Weather
-- Lahore has moved to the **16th position** among the world’s most polluted cities according to the global air quality index. *[Business Recorder](https://www.brecorder.com/news/40438794)*
+- Samsung is preparing for a market challenge from Apple's upcoming foldable iPhone models. *[ARY](https://arynews.tv/welcome-to-foldables-samsung-braces-for-apples-foldable-iphone-challenge)*
+- India's National Payments Corporation of India (NPCI) is developing a registry to monitor AI agents making transactions through its Unified Agentic Protocol. *[Business Recorder](https://www.brecorder.com/news/40438876/india-plans-ai-registry-as-it-looks-to-roll-out-agentic-payments-sources-say)*
+- Apple increased iPhone prices in India by up to **41%** following its "Surprise and Shine" event, significantly higher than the **10% to 21%** increases seen in the U.S. *[Business Recorder](https://www.brecorder.com/news/40438867/india-gets-one-of-worlds-steepest-iphone-price-hikes)*
+- Vietnamese automaker VinFast plans to develop **two** new electric vehicles specifically for the Indian market. *[Business Recorder](https://www.brecorder.com/news/40438861/vinfast-plans-to-develop-two-india-specific-evs-in-strategy-shift-sources-say)*
 
 ### Politics
-- Acting President Syed Yousaf Raza Gillani stated that Pakistan's economic potential requires the equal participation of **women** as leaders and policymakers. *[Business Recorder](https://www.brecorder.com/news/40438802/women-remained-pivotal-to-pakistans-national-progress-gillani)*
-- Hafiz Naeem attributed public suffering in **Sindh** to widespread corruption. *[ARY](https://arynews.tv/hafiz-naeem-says-people-are-suffering-due-to-corruption-in-sindh)*
-- The **Sindh policy dialogue**, supported by the British High Commission, called for enhanced coordination and stronger legislation to combat terrorism. *[Business Recorder](https://www.brecorder.com/news/40438800-stronger-coordination-linked-to-strengthen-counter-terrorism-efforts)*
-- The **KP Chief Minister's Complaint Cell** processed **3,551 complaints** between January and August 2026, successfully resolving **499** of them. *[Business Recorder](https://www.brecorder.com/news/40438793-public-complaints-redressal-kp-cm-reviews-mechanism)*
-- Legal and political experts gathered at the **South Asian Free Media Association** to discuss the state of provincial governance and democratic discourse in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438790-experts-examine-state-of-provincial-governance-democratic-discourse)*
+- Donald Trump has promised a **$5,000** payout to supporters if Republicans win. *[ARY](https://arynews.tv/trump-promises-5000-payout-if-republicans-win)*
+- India is set to host the BRICS Leaders’ Summit in New Delhi on **September 12-13**. *[Business Recorder](https://www.brecorder.com/news/40438860/india-hosts-brics-summit-as-iran-war-tests-bloc-unity)*
 
 ### National
-- **Kunain Shah**, the main accused in the **Arif Khan Saqi case**, has been granted bail. *[ARY](https://arynews.tv/arif-khan-saqi-case-main-accused-kunain-shah-granted-bail)*
-- The **Lahore High Court** issued a notice to the **FIA director** regarding a contempt of court petition involving a passenger offloaded on August 08, requesting a reply by **September 25**. *[Business Recorder](https://www.brecorder.com/news/40438796-notice-issued-to-fia-director)*
-- The **LHC** upheld a decision by the **Punjab Health Care Commission (PHC)** to seal the maternity home of Farhat Batool due to illegal practice. *[Business Recorder](https://www.brecorder.com/news/40438795-lhc-upholds-phc-decision)*
-- The **Punjab government** has approved a comprehensive **Child Protection Policy** to provide healthcare, education, and legal assistance to children. *[Business Recorder](https://www.brecorder.com/news/40438801-unicef-praises-punjab-govts-child-protection-initiatives)*
-- Punjab Housing and Urban Development Minister **Bilal Yasin** ordered a beautification plan for the upcoming **Basant Festival**. *[Business Recorder](https://www.brecorder.com/news/40438797-punjab-orders-grand-beautification-plan-for-basant-festival)*
-- Security forces conducted an intelligence-based operation in **Kharan and Washuk districts** of Balochistan, eliminating **11 terrorists**. *[Business Recorder](https://www.brecorder.com/news/40438791-cm-commends-forces-for-successful-operation-in-btan)*
-- Pakistan is moving to strengthen workplace safety through the implementation of a **National OSH Framework**. *[ARY](https://arynews.tv/pakistan-to-strengthen-workplace-safety-through-national-osh-framework)*
-- A new ministerial initiative aims to make the **passport verification process** faster and more efficient. *[ARY](https://arynews.tv/verification-process-for-passports-to-be-made-faster-easier-and-more-efficient-minister)*
+- Pakistan has inaugurated a new tribunal dedicated to the resolution of disputes within the telecommunication sector. *[ARY](https://arynews.tv/pakistan-inaugurates-tribunal-for-resolution-of-disputes-relating-to-telecommunication-sector)*
+- The Pakistan Airports Authority (PAA) has completed the technical bid opening for the air traffic project involving Karachi and Lahore. *[ARY](https://arynews.tv/paa-completes-technical-bid-opening-for-karachi-lahore-air-traffic-project)*
 
 ### International
-- The **US and Iran** engaged in the largest wave of maritime attacks on shipping since the start of the war. *[ARY](https://arynews.tv/us-and-iran-hit-tankers-in-biggest-wave-of-attacks-on-shipping)*
-- **President Donald Trump** warned Iran regarding activity at **Pickaxe Mountain**, a fortified site near the Natanz uranium enrichment facility. *[Business Recorder](https://www.brecorder.com/news/40438813-trump-says-activity-seen-at-irans-pickaxe-mountain-urges-tehran-not-to-get-cute)*
-- An **Israeli missile strike** hit near a Lebanese reporter. *[ARY](https://arynews.tv/israeli-missile-strike-hits-near-lebanese-reporter)*
-- **Chinese President Xi Jinping** is set to visit **New Delhi**, a move expected to aid diplomatic relations despite ongoing business and regulatory hurdles. *[Business Recorder](https://www.brecorder.com/news/40438810-xis-india-visit-to-help-diplomatic-thaw-but-business-ties-bound-by-suspicion)*
-- A ferry fire on the **MV June Aster** off Palawan island, Philippines, resulted in **5 deaths** and more than **80 people missing**. *[Business Recorder](https://www.brecorder.com/news/40438811-five-dead-more-than-80-missing-after-philippine-ferry-fire)*
-- The UK's **NATS air traffic provider** is investigating a system outage that caused **2,000 flight cancellations**. *[Business Recorder](https://www.brecorder.com/news/40438773-uk-gives-air-traffic-provider-a-week-to-probe-outage-that-halted-flights)*
+- Algeria has abruptly severed diplomatic relations with the United Arab Emirates, citing "provocative or hostile" actions. *[Business Recorder](https://www.brecorder.com/news/40438874/algeria-cuts-diplomatic-ties-with-the-uae)*
 
 ### Sports
-- Curacao has extended the contract of manager **Advocaat** following a turbulent year. *[ARY](https://arynews.tv/curacao-extend-manager-advocaats-contract-after-turbulent-year)*
-- **Barcelona** defeated Feyenoord in the Champions League, while **Demirovic** scored a hat-trick for Stuttgart. *[ARY](https://arynews.tv/barcelona-thrash-feyenoord-in-champions-league-as-demirovic-hits-stuttgart-hat-trick)*
-- The **PCB Talent Hunt Programme for Schools** is training students across **1,400 schools** and **100 districts**, with mentors including **Shaheen Shah Afridi, Haris Rauf, and Mohammad Nawaz**. *[Business Recorder](https://www.brecorder.com/news/40438799-second-coaching-clinic-held-for-school-kids-at-nca)*
+- Gabriel Jesus has scored his first goal for Barcelona in the Champions League. *[ARY](https://arynews.tv/gabriel-jesus-reflects-on-different-emotion-after-scoring-first-barcelona-champions-league-goal)*
+- Footballer Okafor has refused to play for the Swiss national team under coach Yakin. *[ARY](https://arynews.tv/okafor-refuses-to-play-for-switzerland-under-yakin)*
+- England is currently dominating Pakistan and is close to completing a Test series sweep. *[ARY](https://arynews.tv/england-dominate-pakistan-close-in-on-test-series-sweep)*
 
-### Other
-- **Sarsabz (Fatima Fertilizer)** announced the winners of its "Dil Se Dekho Sarsabz Pakistan" social media campaign. *[Business Recorder](https://www.brecorder.com/news/40438798-sarsabz-announces-winners-of-dil-se-dekho-sarsabz-pakistan-drive)*
-- **DWP Group** concluded its "Tameer-e-Mustaqbal Summer Internship Program 2026," which included **36 interns**. *[Business Recorder](https://www.brecorder.com/news/40438792-dwp-group-celebrates-tameer-e-mustaqbal-summer-internship-program)*
+### Health
+- The Gates Foundation has announced plans to support **620,000** women and children in Pakistan. *[ARY](https://arynews.tv/gates-foundation-plans-to-support-620000-women-and-children-in-pakistan)*
+- Mustafa Kamal has called for increased health investment to address growing requirements in Pakistan. *[ARY](https://arynews.tv/mustafa-kamal-calls-for-greater-health-investment-as-pakistans-needs-grow)*
+- Prime Minister Shehbaz Sharif met with Gates Foundation representatives Kalpana Kochhar and Anita Zaidi to discuss polio eradication, nutrition, and health reforms. *[Business Recorder](https://www.brecorder.com/news/40438879/pm-shehbaz-gates-foundation-delegation-discuss-polio-eradication-key-reforms)*
+- Saima Wazed, the WHO Southeast Asia head and daughter of former Bangladeshi PM Sheikh Hasina, has resigned following fraud investigations. *[Business Recorder](https://www.brecorder.com/news/40438875/sheikh-hasinas-daughter-resigns-as-who-regional-head-after-fraud-allegations)*
+- The Indian government is considering the implementation of stricter red warning labels for food packaging. *[Business Recorder](https://www.brecorder.com/news/40438870/india-signals-stricter-red-warning-labels-in-setback-for-big-food)*
 
