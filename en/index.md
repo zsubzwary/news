@@ -4,49 +4,35 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 11-Sep-2026 09:04PKT
+Published at: 11-Sep-2026 21:04PKT
 
-Time to read: 4 mins
+Time to read: 3 mins
 
 ### Economy
-- Pakistan has disbursed **Rs.51 billion** under the Apna Ghar Housing Scheme. *[ARY](https://arynews.tv/pakistan-disburses-rs-51-billion-under-apna-ghar-housing-scheme)*
-- The FIA arrested a bank manager involving alleged fraudulent transactions totaling **Rs.420 million** through fake accounts. *[ARY](https://arynews.tv/fia-arrests-bank-manager-over-alleged-rs-420-million-fake-account-transactions)*
-- A **105-kilometre** rail connectivity project is being developed to link Thar coal reserves to the national railway network to enhance energy security. *[Business Recorder](https://www.brecorder.com/news/40439002/thar-coal-rail-link-set-to-boost-energy-security)*
-- The Special Technology Zones Authority (STZA) is shifting its focus from residential development toward technology and industrial production. *[Business Recorder](https://www.brecorder.com/news/40439001/govt-shifts-focus-of-special-technology-zones-to-industrial-and-tech-investment-stza-chairman-tells-na-panel)*
-- The Korangi Association of Trade and Industry (KATI) has demanded a review of the decision to fix petroleum prices daily to ensure economic predictability. *[Business Recorder](https://www.brecorder.com/news/40438996/fix-petroleum-prices-daily-president-kati-demands-pm-ogra-to-review-decision)*
-- The Pakistan Business Forum (PBF) has urged the Prime Minister to reduce the petroleum levy by **Rs.60 per litre**. *[Business Recorder](https://www.brecorder.com/news/40438995/pm-urged-to-reduce-petroleum-levy-by-rs60-per-litre)*
-- The Naya Nazimabad Apartments REIT attracted **Rs.5.6 billion** in investor demand, oversubscribing the book-building phase **eight times** and the general subscription **4.3 times**. *[Business Recorder](https://www.brecorder.com/news/40438993/naya-nazimabad-apartments-reit-attracts-rs56bn-demand)*
-- IPAK Group reported a sevenfold surge in FY2026 profit to **Rs.4.95 billion** (up from Rs.664 million), with sales increasing **23%** to **Rs.42.17 billion**. *[Business Recorder](https://www.brecorder.com/news/40438990/ipak-reports-sevenfold-surge-in-fy26-profit)*
-- A **Rs.3 billion** export-insurance risk pool for SMEs has been established through the Export Development Fund and EXIM Bank of Pakistan. *[Business Recorder](https://www.brecorder.com/news/40438989/export-insurance-risk-pool-for-smes-welcomed)*
-- The CDWP approved a revised development plan worth **Rs.4.15 billion** for the University of the Punjab to strengthen research infrastructure. *[Business Recorder](https://www.brecorder.com/news/40438985/cdwp-approves-revised-plan-worth-rs415bn-for-pu)*
-- Deputy Prime Minister Ishaq Dar chaired meetings to advance export promotion (including **GSP+** opportunities in the EU) and discuss economic reforms with the ACCA team. *[Business Recorder](https://www.brecorder.com/news/40438991/key-measures-to-support-exports-ministries-provinces-directed-to-maintain-momentum) & [Business Recorder](https://www.brecorder.com/news/40438984/aurangzeb-discusses-economic-reform-priorities-with-acca-team)*
-
-### Science & Technology
-- The government is working to leverage the IT sector and digital technologies to improve the efficiency and accessibility of public service delivery. *[Business Recorder](https://www.brecorder.com/news/40438988/dar-chairs-meeting-on-it-for-better-public-services)*
-
-### Weather
-- August has been recorded as the hottest month ever globally, driven by the emergence of a large El Nino. *[ARY](https://arynews.tv/august-hottest-month-ever-recorded-globally-as-el-nino-emerges)*
-
-### Politics
-- JD Vance is gaining significant attention within the MAGA movement as Republican leadership looks toward future candidates. *[ARY](https://arynews.tv/jd-vance-seizes-maga-spotlight-us-midterm-elections)*
-- Jamaat-e-Islami (JI) unveiled a six-point plan aimed at ending levies to save over **Rs.6 trillion**. *[ARY](https://arynews.tv/ji-unveils-six-point-plan-to-end-levy-save-over-rs-6-trillion)*
-- The National Assembly’s Standing Committee on Climate Change expressed concern regarding inconsistent data reported by the Climate Change Ministry. *[Business Recorder](https://www.brecorder.com/news/40438992/ministry-shares-with-na-panel-na-body-concerned-at-inconsistency-of-data-reported-in-briefs)*
+- India’s foreign exchange reserves reached a record high of **$785.7 billion** for the week ending September 4, following a **$45 billion** week-on-week surge. *[Business Recorder](https://www.brecorder.com/news/40439054/indias-fx-reserves-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows)*
+- The Indian rupee declined **1.1%** over the week to end at **95.55**, its sharpest weekly drop in four months due to rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40439051/indian-rupee-sees-sharpest-weekly-drop-in-four-months-on-oil-worries)*
+- The Reserve Bank of India (RBI) partially canceled a **6.20%** 2029 bond auction, accepting bids of only **45.06 billion rupees ($471.12 million)** out of a planned **110 billion rupees**. *[Business Recorder](https://www.brecorder.com/news/40439060/india-partially-cancels-debt-sale-for-first-time-in-a-year-as-rates-spike)*
+- UAE stock markets rose as crude oil was on track to gain more than **7%** for the week, driven by Middle East shipping route disruptions. *[Business Recorder](https://www.brecorder.com/news/40439061/uae-shares-gain-as-regional-conflict-fuels-oil-supply-concerns)*
+- Malaysian palm oil futures fell **1.37%** (67 ringgit) to **4,818 ringgit ($1,184.37)** per metric ton, hitting a two-week low. *[Business Recorder](https://www.brecorder.com/news/40439052/palm-hits-two-week-low-on-rising-stocks)*
+- Sri Lanka’s CSE All-Share index settled **0.12%** higher at **21,382.74 points**, led by Haycarb Plc and Cargills (Ceylon) Plc. *[Business Recorder](https://www.brecorder.com/news/40439055/basic-materials-industrials-lift-sri-lankan-shares-higher)*
+- The Pakistani rupee appreciated by **0.01%** in the interbank market, closing at **277.32** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40439047/pakistan-rupee-registers-gain-against-us-dollar)*
+- Indian equity benchmarks logged a fifth consecutive weekly loss, with the **Nifty 50** dropping **0.34%** to **23,398.1** and the **BSE Sensex** losing **0.16%** to **74,781.76**. *[Business Recorder](https://www.brecorder.com/news/40439050/india-stocks-log-fifth-weekly-loss-as-oil-fears-grip-markets)*
+- Amazon Pay India is planning to expand its services beyond payments to include travel and other insurance products. *[Business Recorder](https://www.brecorder.com/news/40439062/amazon-pay-plans-to-expand-insurance-offerings-in-broader-financial-services-push-in-india)*
+- Finance Minister Nirmala Sitharaman proposed a new forum for Indian tech firms to coordinate engagement with foreign regulators. *[Business Recorder](https://www.brecorder.com/news/40439045/india-needs-forum-for-tech-firms-to-engage-foreign-regulators-finance-minister-says)*
 
 ### National
-- A baby's hand was amputated in Karachi following alleged medical negligence. *[ARY](https://arynews.tv/babys-hand-amputated-after-alleged-medical-negligence-in-karachi)*
-- Civil Defense has advised citizens to install gas detection systems at home to prevent house fires. *[ARY](https://arynews.tv/civil-defense-asks-citizens-to-put-a-gas-detection-system-at-home-to-avoid-house-fire)*
-- Karachi Safe City cameras identified an SHO driving a vehicle with a fake number plate. *[ARY](https://arynews.tv/karachi-safe-city-cameras-expose-sho-driving-with-fake-number-plate)*
-- The Sindh Assembly’s Standing Committee on Home Affairs reviewed progress on preventing drug sales near educational institutions. *[Business Recorder](https://www.brecorder.com/news/40439000/sindh-pa-committee-reviews-action-against-drugs)*
-- The National Institute of Banking & Finance–Pakistan (NIBAF-P) is working to integrate financial literacy into national and provincial curricula. *[Business Recorder](https://www.brecorder.com/news/40438999/shaping-pakistans-future-through-integrating-financial-literacy-in-curriculum)*
-- Families of **10** Pakistani sailors held hostage by Somali pirates for over **140 days** have threatened a hunger strike outside the Supreme Court’s Karachi Registry. *[Business Recorder](https://www.brecorder.com/news/40438998/seafarers-families-threaten-hunger-strike-outside-apex-court)*
-- Deputy Prime Minister Ishaq Dar reviewed development and uplift priorities for Azad Jammu & Kashmir (AJK). *[Business Recorder](https://www.brecorder.com/news/40438987/dar-chairs-meeting-to-review-uplift-priorities-in-ajk)*
+- Prime Minister Shehbaz Sharif has ordered that electricity load shedding in any part of the country must not exceed **two hours** due to disruptions in RLNG supply. *[Business Recorder](https://www.brecorder.com/news/40439059/pm-shehbaz-orders-two-hour-limit-on-power-cuts-in-countrys-any-area)*
 
 ### International
-- Pakistan and Portugal have agreed to enhance bilateral cooperation within the olive sector. *[ARY](https://arynews.tv/pakistan-portugal-agree-to-strengthen-cooperation-in-olive-sector)*
-- Kuwaiti schools have implemented strict new rules regarding donations, social media usage, and student privacy. *[ARY](https://arynews.tv/kuwait-schools-enforce-strict-new-rules-on-donations-social-media-and-student-privacy-2026)*
-- The High Commissioner of Rwanda to Pakistan met with the Federal Minister for Board of Investment to discuss boosting bilateral trade and investment. *[Business Recorder](https://www.brecorder.com/news/40438997/rwanda-hc-kwibuka-esdras-calls-on-minister-for-boi-qaiser-ahmed-sheikh)*
-- The Turkish Consul General in Lahore offered support to facilitate new educational collaboration between Turkey and Pakistan. *[Business Recorder](https://www.brecorder.com/news/40439003/turkish-cg-offers-support-for-education)*
+- Yemen’s Houthis have seized control of the strategic **Perim island** and the mainland coastal town of **Dhubab**, tightening their grip on the Bab el-Mandeb Strait. *[Business Recorder](https://www.brecorder.com/news/40439056/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane)*
+- Saudi Arabia launched **two airstrikes** targeting the airport in the strategic city of Mocha, which is currently under Houthi control. *[Business Recorder](https://www.brecorder.com/news/40439057/saudi-arabia-launches-two-airstrikes-on-mocha-airport-houthi-media)*
+- Prime Minister Narendra Modi and Russian President Vladimir Putin agreed to strengthen bilateral cooperation in energy and defense sectors ahead of the BRICS summit. *[Business Recorder](https://www.brecorder.com/news/40439046/modi-putin-agree-to-strengthen-india-russia-partnership-on-eve-of-brics-summit)*
 
-### Health
-- The Entrepreneurship and Youth Development Society (EYDS) has urged parents to take an active role in preventing youth access to tobacco and nicotine products. *[Business Recorder](https://www.brecorder.com/news/40438994/parents-urged-to-play-active-role-in-preventing-youth-access-to-tobacco)*
+### Politics
+- Pakistan is facing increased diplomatic pressure to maintain its role as a mediator between Saudi Arabia and Tehran amid escalating Houthi-Saudi hostilities. *[Business Recorder](https://www.brecorder.com/news/40439044/as-saudi-tensions-with-houthis-escalate-mediator-pakistan-faces-pressure-to-choose-a-side)*
+
+### Sports
+- Members of Pakistan’s **under-19 cricket team** were targeted by masked protesters in Portsmouth, England, after being mistaken for asylum seekers. *[Business Recorder](https://www.brecorder.com/news/40439063/when-a-pakistani-cricketer-becomes-a-migrant-before-he-becomes-a-person)*
+- Former Australian captain Ricky Ponting described the growth of cricket in the United States as a "**slow-burn**," noting the need for grassroots development. *[Business Recorder](https://www.brecorder.com/news/40439049/growth-of-cricket-in-us-a-slow-burn-says-ponting)*
+- Arsenal manager Mikel Arteta is preparing his squad for an upcoming Champions League fixture against Napoli. *[Business Recorder](https://www.brecorder.com/news/40439053/no-excuses-no-surprises-artetas-arsenal-prepare-for-anything)*
 
