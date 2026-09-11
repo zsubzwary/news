@@ -7,51 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 10-Sep-2026 21:10PKT 
+ &lrm; 11-Sep-2026 09:09PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- مشرق بینک نے متحدہ عرب امارات میں پاکستانیوں کے لیے سرحد پار بینکنگ کے عمل کو سادہ بنا دیا ہے۔ *[ARY](https://arynews.tv/mashreq-simplifies-cross-border-banking-for-pakistanis-in-the-uae)*
-- امریکہ اور ایران کے درمیان بڑھتی ہوئی کشیدگی کے باعث خلیجی اسٹاک مارکیٹس میں کمی واقع ہوئی؛ ایران نے 10 جہازوں پر حملہ کیا جبکہ امریکہ نے 5 ایرانی ٹینکرز کو ڈبو دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438878/most-gulf-bourses-ease-amid-escalating-us-iran-hostilities)*
-- اگست میں بھارت کے مساواتی فنڈز (Equity Funds) میں بہاؤ میں تقریباً 20 فیصد اضافہ ہوا جبکہ سسٹمائیٹک انویسٹمنٹ پلان (SIP) کے ذریعے سرمایہ کاری 322.97 ارب روپے (3.39 ارب ڈالر) تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40438877/indias-equity-fund-inflows-rise-nearly-a-fifth-in-august-monthly-savings-plan-contributions-hit-a-record)*
-- دبئی ایئرپورٹس کو توقع ہے کہ اس سال مسافروں کی تعداد 70 ملین تک پہنچ جائے گی، تاہم اصل ہدف (100 ملین) اب 2027 تک پہنچ سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438873/dubai-airports-projects-70-million-passengers-this-year-as-traffic-recovers-ceo-says)*
-- سری لنکا کی اسٹاک مارکیٹ (CSE All-Share index) 0.5 فیصد گر کر 21,357.74 پوائنٹس پر بند ہوئی، جس میں ریئل اسٹیٹ اور ٹیک اسٹاکس کی وجہ سے کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40438872/real-estate-tech-stocks-drag-sri-lankan-shares-lower)*
-- بھارتی ریزرو بینک (RBI) روپے کی حمایت کے لیے فارن ایکسچینج سویپس کے ذریعے مارکیٹ سے اضافی رقم نکال رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438871/rbis-liquidity-mop-up-via-fx-swaps-offers-a-channel-of-support-for-rupee)*
-- تانبے (Copper) کی قیمتیں 0.2 فیصد گر کر 14,743 ڈالر فی میٹرک ٹن پر آگئیں، جبکہ یہ پہلے 14,875 ڈالر کی ریکارڈ سطح پر پہنچی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40438869/copper-slips-on-profit-taking-after-scaling-fresh-record-high)*
-- بھارت کے NSE آئی پی او (IPO) کے لیے قیمتوں کا دائرہ 1,700 سے 1,785 روپے فی شیئر کے درمیان مقرر کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438868/top-investors-in-indias-nse-ipo-trim-stake-sales-sources-say)*
-- ایپل نے بھارت میں آئی فون کی قیمتوں میں 41 فیصد تک اضافہ کر دیا ہے، جبکہ امریکہ میں یہ اضافہ 10 سے 21 فیصد کے درمیان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438867/india-gets-one-of-worlds-steepest-iphone-price-hikes)*
-- چیری (Chery) پاکستان نے اپنی نئی الیکٹرک گاڑی 'چیری Q' کی بکنگ 15 لاکھ روپے میں شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438866/chery-q-bookings-open-with-pkr-15-million-your-q-to-beat-the-fuel-bill)*
-- چیریٹ سیمنٹ (Cherat Cement) این آئی سی ایل (NICL) کے کم از کم 30 فیصد حصص خریدنے کی خواہش کا اظہار کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438865/cherat-cement-seeks-to-acquire-30-stake-in-nicl)*
-- ایس ای سی پی (SECP) نے REIT ریگولیشنز میں ترمیم کی تجویز دی ہے جس کے تحت اثاثوں کی حد 75 فیصد سے کم کر کے 65 فیصد کی جا سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438864/secp-proposes-reforms-to-accelerate-growth-in-pakistans-reit-sector)*
-- مالیشیا میں پام آئل کی قیمتیں 1.63 فیصد گر کر 4,885 رنگٹ فی میٹرک ٹن پر آگئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438863/palm-slips-over-1-on-weaker-soyoil-bearish-mpob-data)*
-- ایس بی آئی (SBI) میوچل فنڈ کے مطابق، مہنگائی کے باعث 10 سالہ بانڈ کی شرح منافع 7 فیصد سے تجاوز کر جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40438862/sbi-mutual-fund-says-10-year-yield-will-soar-beyond-7)*
+- حکومتِ پاکستان نے اپنا گھر ہاؤسنگ اسکیم کے تحت **51 ارب روپے** جاری کر دیے ہیں۔ *[ARY](https://arynews.tv/pakistan-disburses-rs-51-billion-under-apna-ghar-housing-scheme)*
+- پاکستان اور پرتگال نے زیتون کے شعبے میں باہمی تعاون کو مزید مضبوط بنانے پر اتفاق کیا ہے۔ *[ARY](https://arynews.tv/pakistan-portugal-agree-to-strengthen-cooperation-in-olive-sector)*
+- تھر کول کو قومی ریلوے نیٹ ورک سے منسلک کرنے کے لیے **105 کلومیٹر** طویل ریلوے لنک کا منصوبہ جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439002/thar-coal-rail-link-set-to-boost-energy-security)*
+- پاکستان بزنس فورم (PBF) نے وزیراعظم سے پیٹرولیم لیوی میں **60 روپے فی لیٹر** کمی کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438995/pm-urged-to-reduce-petroleum-levy-by-rs60-per-litre)*
+- کوہنگی ایسوسی ایشن آف ٹریڈ اینڈ انڈسٹری (KATI) نے پیٹرولیم قیمتوں کے روزانہ تعین کے فیصلے پر نظرثانی کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438996/fix-petroleum-prices-daily-president-kati-demands-pm-ogra-to-review-decision)*
+- نیا نجم آباد اپارٹمنٹس REIT کے لیے سرمایہ کاروں کی جانب سے **5.6 ارب روپے** کی طلب موصول ہوئی، جو کہ اصل رقم سے آٹھ گنا زیادہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438993/naya-nazimabad-apartments-reit-attracts-rs56bn-demand)*
+- آئی پی اے کے (IPAK) گروپ کا سال 2026 کا خالص منافع سات گنا بڑھ کر **4.95 ارب روپے** تک پہنچ گیا جبکہ سیلز میں **23 فیصد** اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40438990/ipak-reports-sevenfold-surge-in-fy26-profit)*
+- چھوٹے اور درمیانے درجے کے اداروں (SMEs) کے لیے **3 ارب روپے** کا ایکسپورٹ انشورنس رسک پول قائم کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438989/export-insurance-risk-pool-for-smes-welcomed)*
+- پنجاب یونیورسٹی کے تعلیمی اور تحقیقی ڈھانچے کی بہتری کے لیے **4.15 ارب روپے** کا نظرثانی شدہ منصوبہ منظور کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438985/cdwp-approves-revised-plan-worth-rs415bn-for-pu)*
+- وفاقی وزیرِ خزانہ محمد اورنگزیب نے ACCA کی ٹیم کے ساتھ مل کر معاشی اصلاحات اور پرائیویٹ سیکٹر کی مضبوطی پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438984/aurangzeb-discusses-economic-reform-priorities-with-acca-team)*
 
 ### سائنس اور ٹیکنالوجی
-- سیمسنگ ایپل کے ممکنہ فولڈ ایبل آئی فون کے چیلنج کا مقابلہ کرنے کے لیے تیاریاں کر رہی ہے۔ *[ARY](https://arynews.tv/welcome-to-foldables-samsung-braces-for-apples-foldable-iphone-challenge)*
-- بھارت کا پے منٹس اتھارٹی مصنوعی ذہانت (AI) ایجنٹس کے لین دین کی نگرانی کے لیے ایک رجسٹری بنانے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438876/india-plans-ai-registry-as-it-looks-to-roll-out-agentic-payments-sources-say)*
-- ویتنامی کار ساز کمپنی ون فیسٹ (VinFast) بھارت کے لیے دو مخصوص الیکٹرک گاڑیاں تیار کرنے کا منصوبہ بنا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438861/vinfast-plans-to-develop-two-india-specific-evs-in-strategy-shift-sources-say)*
+- اسپیشل ٹیکنالوجی زونز اتھارٹی (STZA) اب رہائشی ترقی کے بجائے صنعتی اور ٹیکنالوجی کی سرمایہ کاری پر توجہ مرکوز کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40439001/govt-shifts-focus-of-special-technology-zones-to-industrial-and-tech-investment-stza-chairman-tells-na-panel)*
+- نائب وزیراعظم نے عوامی خدمات کی فراہمی کو بہتر بنانے کے لیے آئی ٹی سیکٹر اور ڈیجیٹل ٹیکنالوجی کے استعمال پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438988/dar-chairs-meeting-on-it-for-better-public-services)*
+
+### موسم
+- ایل نینو کے اثرات کی وجہ سے اگست کا مہینہ عالمی سطح پر ریکارڈ شدہ گرم ترین مہینہ بن گیا۔ *[ARY](https://arynews.tv/august-hottest-month-ever-recorded-globally-as-el-nino-emerges)*
 
 ### سیاست
-- ڈونلڈ ٹرمپ نے وعدہ کیا ہے کہ اگر ریپبلکن جیت گئے تو وہ 5,000 ڈالر کا پے آؤٹ دیں گے۔ *[ARY](https://arynews.tv/trump-promises-5000-payout-if-republicans-win)*
+- جی آئی (JI) نے **6 ٹریلین روپے** سے زائد کی بچت کے لیے چھ نکاتی منصوبہ پیش کیا۔ *[ARY](https://arynews.tv/ji-unveils-six-point-plan-to-end-levy-save-over-rs-6-trillion)*
+- امریکی سیاست میں جے ڈی وینس ریپبلکن پارٹی کی توجہ کا مرکز بن رہے ہیں۔ *[ARY](https://arynews.tv/jd-vance-seizes-maga-spotlight-us-midterm-elections)*
 
 ### قومی
-- پاکستان نے ٹیلی کمیونیکیشن کے شعبے سے متعلق تنازعات کے حل کے لیے ٹربیونل کا افتتاح کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-inaugurates-tribunal-for-resolution-of-disputes-relating-to-telecommunication-sector)*
-- پی اے اے (PAA) نے کراچی اور لاہور کے ایئر ٹریفک پروجیکٹ کے لیے تکنیکی بولیاں کھول دی ہیں۔ *[ARY](https://arynews.tv/paa-completes-technical-bid-opening-for-karachi-lahore-air-traffic-project)*
+- کراچی میں طبی غفلت کے باعث ایک شیر خوار بچے کا ہاتھ کاٹ دیا گیا۔ *[ARY](https://arynews.tv/babys-hand-amputated-after-alleged-medical-negligence-in-karachi)*
+- سیف سٹی کیمروں نے کراچی میں جعلی نمبر پلیٹ کے ساتھ گاڑی چلاتے ہوئے ایک ایس ایچ او کو بے نقاب کر دیا۔ *[ARY](https://arynews.tv/karachi-safe-city-cameras-expose-sho-driving-with-fake-number-plate)*
+- ایف آئی اے نے **420 ملین روپے** کے جعلی اکاؤنٹ کے لین دین کے الزام میں ایک بینک مینیجر کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/fia-arrests-bank-manager-over-alleged-rs-420-million-fake-account-transactions)*
+- سندھ اسمبلی کی کمیٹی نے تعلیمی اداروں کے گرد منشیات کی فروخت کے خلاف کارروائیوں کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40439000/sindh-pa-committee-reviews-action-against-drugs)*
+- صومالیہ کے بحری قزاقوں کے ہاتھوں اغوا شدہ **10 پاکستانی** جہاز رانوں کے خاندانوں نے بھوک ہڑتال کا خطرہ دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438998/seafarers-families-threaten-hunger-strike-outside-apex-court)*
+- قومی اسمبلی کی موسمیاتی تبدیلی کمیٹی نے وزارت کے فراہم کردہ ڈیٹا میں تضاد پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438992/ministry-shares-with-na-panel-na-body-concerned-at-inconsistency-of-data-reported-in-briefs)*
+- نائب وزیراعظم نے آزاد جموں و کشمیر میں ترقیاتی ترجیحات کے نفاذ کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40438987/dar-chairs-meeting-to-review-uplift-priorities-in-ajk)*
 
 ### بین الاقوامی
-- عالمی ادارہ صحت (WHO) کے جنوب مشرقی ایشیا کے سربراہ اور شیخ حسینہ کی بیٹی صائمہ واجد نے فراڈ تحقیقات کے بعد استعفیٰ دے دیا۔ *[Business Recorder](https://www.brecorder.com/news/40438875/sheikh-hasinas-daughter-resigns-as-who-regional-head-after-fraud-allegations)*
-- الجزائر نے متحدہ عرب امارات کے ساتھ سفارتی تعلقات منقطع کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40438874/algeria-cuts-diplomatic-ties-with-the-uae)*
-- بھارت 12-13 ستمبر کو بی آر آئی سی ایس (BRICS) سربراہی اجلاس کی میزبانی کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40438860/india-hosts-brics-summit-as-iran-war-tests-bloc-unity)*
-
-### کھیل
-- گابریل جیزس نے بارسلونا کے لیے اپنا پہلا چیمپئنز لیگ گول اسکور کیا۔ *[ARY](https://arynews.tv/gabriel-jesus-reflects-on-different-emotion-after-scoring-first-barcelona-champions-league-goal)*
-- اوکا فور (Okafor) نے یاکن کی قیادت میں سوئٹزرلینڈ کے لیے کھیلنے سے انکار کر دیا۔ *[ARY](https://arynews.tv/okafor-refuses-to-play-for-switzerland-under-yakin)*
-- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز میں برتری حاصل کر لی ہے اور سیریز جیتنے کے قریب ہے۔ *[ARY](https://arynews.tv/england-dominate-pakistan-close-in-on-test-series-sweep)*
+- کویت کے اسکولوں نے عطیات، سوشل میڈیا اور طلباء کی پرائیویسی کے حوالے سے سخت نئے قوانین نافذ کر دیے ہیں۔ *[ARY](https://arynews.tv/kuwait-schools-enforce-strict-new-rules-on-donations-social-media-and-student-privacy-2026)*
+- ترکی کے قونصل جنرل نے پاکستان کے ساتھ تعلیمی شعبے میں تعاون بڑھانے کی پیشکش کی۔ *[Business Recorder](https://www.brecorder.com/news/40439003/turkish-cg-offers-support-for-education)*
+- روانڈا کے ہائی کمشنر نے پاکستان کے ساتھ دو طرفہ تجارت اور سرمایہ کاری بڑھانے کے لیے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40438997/rwanda-hc-kwibuka-esdras-calls-on-minister-for-boi-qaiser-ahmed-sheikh)*
 
 ### صحت
-- گیٹس فاؤنڈیشن پاکستان میں 620,000 خواتین اور بچوں کی مدد کرنے کا منصوبہ بنا رہی ہے۔ *[ARY](https://arynews.tv/gates-foundation-plans-to-support-620000-women-and-children-in-pakistan)*
-- مصطفیٰ کمال نے بڑھتی ہوئی ضروریات کے پیش نظر صحت کے شعبے میں مزید سرمایہ کاری کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/mustafa-kamal-calls-for-greater-health-investment-as-pakistans-needs-grow)*
-- وزیر اعظم شہباز شریف نے گیٹس فاؤنڈیشن کے وفد سے پولیو کے خاتمے، صحت اور غذائیت کے شعبوں میں تعاون پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40438879/pm-shehbaz-gates-foundation-delegation-discuss-polio-eradication-key-reforms)*
-- بھارت میں خوراک کی پیکنگ پر سخت 'ریڈ وارننگ لیبلز' متعارف کرانے کا امکان ہے، جس سے 100 ارب ڈالر کی صنعت متاثر ہو سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438870/india-signals-stricter-red-warning-labels-in-setback-for-big-food)*
+- نوجوانوں کو تمباکو نوشی سے بچانے کے لیے والدین کو فعال کردار ادا کرنے کی اپیل کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40438994/parents-urged-to-play-active-role-in-preventing-youth-access-to-tobacco)*
+
+### دیگر
+- سول ڈیفنس نے گھروں میں آگ سے بچاؤ کے لیے گیس ڈیٹیکشن سسٹم لگانے کی ہدایت کی ہے۔ *[ARY](https://arynews.tv/civil-defense-asks-citizens-to-put-a-gas-detection-system-at-home-to-avoid-house-fire)*
+- نیشنل انسٹی ٹیوٹ آف بینکنگ اینڈ فنانس نے قومی نصاب میں مالیاتی خواندگی کو شامل کرنے کے لیے ورکشاپ کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40438999/shaping-pakistans-future-through-integrating-financial-literacy-in-curriculum)*
 
