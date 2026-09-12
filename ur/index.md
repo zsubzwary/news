@@ -7,37 +7,43 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 11-Sep-2026 21:09PKT 
+ &lrm; 12-Sep-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں 0.01 فیصد اضافے کے ساتھ انٹر بینک مارکیٹ میں 277.32 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439047/pakistan-rupee-registers-gain-against-us-dollar)*
-- ایمیزون پے انڈیا اپنی مالیاتی خدمات کے دائرہ کار کو بڑھانے کے لیے ٹریول انشورنس سمیت دیگر مصنوعات متعارف کروانے پر غور کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439062/amazon-pay-plans-to-expand-insurance-offerings-in-broader-financial-services-push-in-india)*
-- تیل کی قیمتوں میں ہفتہ وار 7 فیصد اضافے اور مشرق وسطیٰ میں سپلائی کے خدشات کے باعث متحدہ عرب امارات کے اسٹاک مارکیٹس میں اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439061/uae-shares-gain-as-regional-conflict-fuels-oil-supply-concerns)*
-- ریزرو بینک آف انڈیا نے 6.20% شرح سود والے 2029 کے بانڈ کے لیے 110 ارب روپے کے بجائے صرف 45.06 ارب روپے کی بولیوں کو قبول کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439060/india-partially-cancels-debt-sale-for-first-time-in-a-year-as-rates-spike)*
-- تیل کی قیمتوں میں تیزی کے باعث بھارتی روپیہ ہفتہ وار بنیادوں پر 1.1 فیصد گر کر 95.55 پر آگیا، جبکہ برینٹ آئل کی قیمت 110 ڈالر کے قریب پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439051/indian-rupee-sees-sharpest-weekly-drop-in-four-months-on-oil-worries)*
-- سری لنکا کا CSE آل شیئر انڈیکس 0.12 فیصد اضافے کے ساتھ 21,382.74 پوائنٹس پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439055/basic-materials-industrials-lift-sri-lankan-shares-higher)*
-- بھارت کے غیر ملکی زر کے ذخائر ہفتہ وار بنیادوں پر 45 ارب ڈالر کے اضافے کے ساتھ ریکارڈ 785.7 ارب ڈالر تک پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40439054/indias-fx-reserves-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows)*
-- ملائیشیا میں پام آئل کے مستقبل کے نرخ 1.37 فیصد گر کر 4,818 رنگٹ ($1,184.37) فی میٹرک ٹن پر آگئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439052/palm-hits-two-week-low-on-rising-stocks)*
-- تیل کے خدشات کے باعث بھارتی اسٹاک مارکیٹ کے Nifty 50 انڈیکس میں 0.34% اور BSE Sensex میں 0.16% کی کمی دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439050/india-stocks-log-fifth-weekly-loss-as-oil-fears-grip-markets)*
+- **SE Fruits and Vegetable Limited** کو **30 ملین** عام شیئرز کے آئی پی او (IPO) کے لیے SECP سے منظوری مل گئی ہے، جس کے لیے بک بلڈنگ کا عمل **21 اور 22 ستمبر** کو ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40439140/se-fruits-vegs-secures-secp-approval-for-ipo)*
+- پنجاب میں آٹے کی فراہمی معمول کے مطابق جاری ہے، جہاں حکومت کی گندم سے تیار کردہ **10 کلوگرام** آٹے کا تھیلا **1,100 روپے** میں دستیاب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439135/flour-supply-in-punjab-being-closely-monitored)*
+- **EPBD** تھنک ٹینک نے **75 سالہ** معاشی اور سماجی اعداد و شمار پر مشتمل مفت 'پاکستان اکنامک ڈیش بورڈ' لانچ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439104/75-years-of-statistics-on-free-digital-platform-epbd-think-tank-rolls-out-pakistan-economic-dashboard)*
+- لاہور چیمبر آف کامرس اینڈ انڈسٹری (LCCI) کی الیکشن کمیشن نے شفاف اور پرامن انتخابات کے لیے تمام انتظامات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439145/lcci-ec-finalises-arrangements-for-elections)*
+- گلیات ڈویلپمنٹ اتھارٹی (GDA) کے مطابق تھنڈیانی انٹیگریٹڈ ٹورزم زون کے منصوبے کے لیے پرائیویٹ سیکٹر سے **23 ارب روپے** کی سرمایہ کاری متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439107/gda-dg-anticipates-rs23bn-private-investment-in-thandiani)*
 
 ### سائنس اور ٹیکنالوجی
-- بھارتی وزیر خزانہ نے ٹیکنالوجی کمپنیوں کے لیے ایک ایسا فورم بنانے کی تجویز دی ہے جو انہیں غیر ملکی ریگولیٹرز کے ساتھ ہم آہنگی سے کام کرنے میں مدد دے سکے۔ *[Business Recorder](https://www.brecorder.com/news/40439045/india-needs-forum-for-tech-firms-to-engage-foreign-regulators-finance-minister-says)*
+- سینیٹ کی آئی ٹی کمیٹی کے اجلاس میں **Ufone** کی ری برانڈنگ، **Starlink** کا آغاز، **Etisalat** کے **800 ملین امریکی ڈالر** کے واجبات اور **Jazz** کے موبائل صارفین پر زائد چارجز جیسے اہم امور پر غور کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439111/senate-panel-meeting-on-monday-ufone-rebranding-starlink-and-etisalat-top-agenda)*
+
+### موسم
+- پی ڈی ایم اے (PDMA) پنجاب نے مون سون کی بارشوں کے آخری سلسلے کا الرٹ جاری کیا ہے، جس کا **12 سے 17 ستمبر** کے درمیان ہونے کا امکان ہے، جس میں لاہور، سیالکوٹ اور راولپنڈی سمیت کئی اضلاع شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439139/pdma-issues-alert-of-final-spell-of-monsoon-rains)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے بجلی کی لوڈ شیڈنگ کو کسی بھی علاقے میں دو گھنٹے سے زیادہ نہ ہونے دینے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439059/pm-shehbaz-orders-two-hour-limit-on-power-cuts-in-countrys-any-area)*
+- وزیراعلیٰ پنجاب مریم نواز شریف نے صوبے کے ایم پی ایز (MPAs) کو ترقیاتی منصوبوں کے معیار اور شفافیت کی نگرانی کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439144/cm-directs-mpas-to-ensure-quality-transparency-in-projects)*
+- تحریک تحفظِ عینِ پاکستان (TTAP) نے وزیراعلیٰ کے لندن دورے پر تنقید کرتے ہوئے ریاستی طیارے کے استعمال پر **10 ارب روپے** کے اخراجات کی شفافیت کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439142/ttap-criticises-cms-recent-trip-to-london)*
+- پی ٹی آئی (PTI) نے اسلام آباد ہائی کورٹ میں حکومت کی درخواست کے طریقہ کار پر اعتراض کرتے ہوئے کہا کہ پارٹی کو مدعو نہیں کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439103/sept-27-long-march-pti-criticises-ihcs-handling-of-govt-plea)*
 
 ### قومی
-- یمن میں سعودی عرب اور حوثی گروپ کے درمیان بڑھتے ہوئے تناؤ کے دوران پاکستان پر دونوں فریقوں میں سے کسی ایک کا انتخاب کرنے کا دباؤ بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439044/as-saudi-tensions-with-houthis-escalate-mediator-pakistan-faces-pressure-to-choose-a-side)*
+- نیشنل جوڈیشل پالیسی میکنگ کمیٹی (NJPMC) نے یکم ستمبر 2025 سے 31 جولائی 2026 کے درمیان **1.46 ملین** وقت بند مقدمات اور **133,457** ماڈل کورٹ مقدمات کے فیصلے پر ضلع عدلیہ کی کارکردگی کو سراہا۔ *[Business Recorder](https://www.brecorder.com/news/40439108/njpmc-commends-district-judiciarys-performance)*
+- لاہور ہائی کورٹ نے پنجاب کے میڈیکل کالجز کو افغان طلباء کو نکالنے اور ان کے امتحانی پرچے منسوخ کرنے سے روک دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439109/lhc-restrains-medical-colleges-from-expelling-afghan-students)*
+- سینیٹ کمیٹی نے پاکستان پوسٹ کی مالی حالت کو بہتر بنانے کے لیے ڈیجیٹلائزیشن اور ممکنہ نجکاری سمیت جامع اصلاحات کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439106/senate-body-calls-for-a-sweeping-overhaul-of-pakistan-post)*
+- سینیٹ کمیٹی نے پی آئی اے (PIA) کے ایک اہلکار کے خلاف تادیبی کارروائی اور اے ایس ایف (ASF) افسر کے خلاف انکوائری کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439105/senate-body-recommends-disciplinary-action-against-pia-official)*
+- پنجاب کے وزیر زراعت سید عاشق حسین کیرمانی نے کپاس کی پیداوار کے ہدف کے حصول کے حوالے سے امید کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439137/minister-hopes-for-achieving-cotton-production-target)*
+- ملتان میں PHDEC اور مینگو ریسرچ انسٹی ٹیوٹ نے آم کے کاشتکاروں کے لیے جدید پیداواری طریقوں پر ورکشاپ کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439143/phdec-organises-workshop)*
 
 ### بین الاقوامی
-- سعودی عرب نے یمن کے اسٹریٹجک شہر موچہ کے ایئرپورٹ پر دو فضائی حملے کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439057/saudi-arabia-launches-two-airstrikes-on-mocha-airport-houthi-media)*
-- حوثی باغیوں نے باب المندب کے مقام پر اسٹریٹجک جزیرہ پیرم اور ساحلی شہر دھباب پر قبضہ کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439056/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane)*
-- بھارتی وزیراعظم نریندر مودی اور روسی صدر ولادیمیر پیوٹن نے توانائی اور دفاع کے شعبوں میں دوطرفہ شراکت داری کو مزید مضبوط کرنے پر اتفاق کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439046/modi-putin-agree-to-strengthen-india-russia-partnership-on-eve-of-brics-summit)*
+- ڈپٹی پرائم منسٹر اسحاق ڈار نے **15 سے 16 نومبر 2026** کو پاکستان میں منعقد ہونے والے ای سی او (ECO) کونسل آف منسٹرز کے اجلاس کی تیاریوں کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40439136/dar-reviews-preparations-for-eco-council-of-ministers)*
+- علی اسد گیلانی کو چین میں پاکستان کا نیا سفیر مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439110/ali-asad-gilani-named-ambassador-to-china)*
 
 ### کھیل
-- انگلینڈ کے شہر پورٹسماؤتھ میں احتجاجی مظاہرین نے غلط فہمی کے تحت پاکستان کی انڈر-19 کرکٹ ٹیم کے کھلاڑیوں کو پناہ گزین سمجھ کر ہراساں کرنے کی کوشش کی۔ *[Business Recorder](https://www.brecorder.com/news/40439063/when-a-pakistani-cricketer-becomes-a-migrant-before-he-becomes-a-person)*
-- رائکی پونٹنگ کے مطابق امریکہ میں کرکٹ کی ترقی کا عمل توقع کے مطابق تیز نہیں ہے، تاہم 2028 اولمپکس کے بعد اس میں بہتری کی امید ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439049/growth-of-cricket-in-us-a-slow-burn-says-ponting)*
-- آرسنل کے مینیجر مائیکل آرٹیٹا چیمپیئنز لیگ کے میچوں کے لیے اپنی ٹیم کی تیاریوں کے حوالے سے انتہائی سخت اور غیر روایتی حکمت عملی اپنائے ہوئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439053/no-excuses-no-surprises-artetas-arsenal-prepare-for-anything)*
+- پی سی بی (PCB) نے 2026-27 کے سیزن کے لیے کوچ ایجوکیشن شیڈول کا اعلان کیا ہے جس میں **ایک** ٹیوٹر ٹریننگ ورکشاپ اور **چھ** لیول 1 سرٹیفیکیشن کورسز شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439138/pcb-coach-education-schedule-announced)*
+
+### دیگر
+- یونیورسٹی آف لاہور اور برطانیہ کی یونیورسٹی آف پلیموتھ کے درمیان بین الاقوامی تعلیمی تعاون کے لیے شراکت داری کا آغاز کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439141/university-of-lahore-university-of-plymouth-celebrate-partnership)*
 
