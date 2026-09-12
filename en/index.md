@@ -4,35 +4,43 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 11-Sep-2026 21:04PKT
+Published at: 12-Sep-2026 09:03PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- India’s foreign exchange reserves reached a record high of **$785.7 billion** for the week ending September 4, following a **$45 billion** week-on-week surge. *[Business Recorder](https://www.brecorder.com/news/40439054/indias-fx-reserves-surge-45-billion-on-week-to-hit-record-high-on-robust-capital-flows)*
-- The Indian rupee declined **1.1%** over the week to end at **95.55**, its sharpest weekly drop in four months due to rising oil prices. *[Business Recorder](https://www.brecorder.com/news/40439051/indian-rupee-sees-sharpest-weekly-drop-in-four-months-on-oil-worries)*
-- The Reserve Bank of India (RBI) partially canceled a **6.20%** 2029 bond auction, accepting bids of only **45.06 billion rupees ($471.12 million)** out of a planned **110 billion rupees**. *[Business Recorder](https://www.brecorder.com/news/40439060/india-partially-cancels-debt-sale-for-first-time-in-a-year-as-rates-spike)*
-- UAE stock markets rose as crude oil was on track to gain more than **7%** for the week, driven by Middle East shipping route disruptions. *[Business Recorder](https://www.brecorder.com/news/40439061/uae-shares-gain-as-regional-conflict-fuels-oil-supply-concerns)*
-- Malaysian palm oil futures fell **1.37%** (67 ringgit) to **4,818 ringgit ($1,184.37)** per metric ton, hitting a two-week low. *[Business Recorder](https://www.brecorder.com/news/40439052/palm-hits-two-week-low-on-rising-stocks)*
-- Sri Lanka’s CSE All-Share index settled **0.12%** higher at **21,382.74 points**, led by Haycarb Plc and Cargills (Ceylon) Plc. *[Business Recorder](https://www.brecorder.com/news/40439055/basic-materials-industrials-lift-sri-lankan-shares-higher)*
-- The Pakistani rupee appreciated by **0.01%** in the interbank market, closing at **277.32** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40439047/pakistan-rupee-registers-gain-against-us-dollar)*
-- Indian equity benchmarks logged a fifth consecutive weekly loss, with the **Nifty 50** dropping **0.34%** to **23,398.1** and the **BSE Sensex** losing **0.16%** to **74,781.76**. *[Business Recorder](https://www.brecorder.com/news/40439050/india-stocks-log-fifth-weekly-loss-as-oil-fears-grip-markets)*
-- Amazon Pay India is planning to expand its services beyond payments to include travel and other insurance products. *[Business Recorder](https://www.brecorder.com/news/40439062/amazon-pay-plans-to-expand-insurance-offerings-in-broader-financial-services-push-in-india)*
-- Finance Minister Nirmala Sitharaman proposed a new forum for Indian tech firms to coordinate engagement with foreign regulators. *[Business Recorder](https://www.brecorder.com/news/40439045/india-needs-forum-for-tech-firms-to-engage-foreign-regulators-finance-minister-says)*
+- SE Fruits and Vegetable Limited has secured SECP approval (dated Sept 9) and PSX approval (dated Sept 7) for an IPO of 30 million ordinary shares, with book-building scheduled for September 21 and 22. *[Business Recorder](https://www.brecorder.com/news/40439140/se-fruits-vegs-secures-secp-approval-for-ipo)*
+- The EPBD Think Tank launched the 'Pakistan Economic Dashboard,' a free digital platform providing over 75 years of official economic and social statistics across ten subject areas. *[Business Recorder](https://www.brecorder.com/news/40439104/75-years-of-statistics-on-free-digital-platform-epbd-think-tank-rolls-out-pakistan-economic-dashboard)*
+- The Punjab Food Safety and Consumer Protection Department confirmed that 10kg bags of flour are being supplied at Rs 1,100 following the continuous grinding of government wheat. *[Business Recorder](https://www.brecorder.com/news/40439135/flour-supply-in-punjab-being-closely-monitored)*
+- Galiyat Development Authority (GDA) anticipates Rs 23 billion in private investment for the Thandiani Integrated Tourism Zone (ITZ) project. *[Business Recorder](https://www.brecorder.com/news/40439107/gda-dg-anticipates-rs23bn-private-investment-in-thandiani)*
+- Punjab Agriculture Minister Syed Ashiq Hussain Kirmani reviewed cotton, wheat, and smog control measures in Multan, expressing optimism regarding cotton production targets. *[Business Recorder](https://www.brecorder.com/news/40439137/minister-hopes-for-achieving-cotton-production-target)*
 
-### National
-- Prime Minister Shehbaz Sharif has ordered that electricity load shedding in any part of the country must not exceed **two hours** due to disruptions in RLNG supply. *[Business Recorder](https://www.brecorder.com/news/40439059/pm-shehbaz-orders-two-hour-limit-on-power-cuts-in-countrys-any-area)*
+### Science & Technology
+- The Senate Standing Committee on IT and Telecommunication will meet to discuss Ufone's rebranding, the launch of Starlink, USD 800 million in outstanding Etisalat dues, and alleged overcharging by Jazz. *[Business Recorder](https://www.brecorder.com/news/40439111/senate-panel-meeting-on-monday-ufone-rebranding-starlink-and-etisalat-top-agenda)*
 
-### International
-- Yemen’s Houthis have seized control of the strategic **Perim island** and the mainland coastal town of **Dhubab**, tightening their grip on the Bab el-Mandeb Strait. *[Business Recorder](https://www.brecorder.com/news/40439056/yemens-houthis-reach-strategic-island-at-mouth-of-vital-shipping-lane)*
-- Saudi Arabia launched **two airstrikes** targeting the airport in the strategic city of Mocha, which is currently under Houthi control. *[Business Recorder](https://www.brecorder.com/news/40439057/saudi-arabia-launches-two-airstrikes-on-mocha-airport-houthi-media)*
-- Prime Minister Narendra Modi and Russian President Vladimir Putin agreed to strengthen bilateral cooperation in energy and defense sectors ahead of the BRICS summit. *[Business Recorder](https://www.brecorder.com/news/40439046/modi-putin-agree-to-strengthen-india-russia-partnership-on-eve-of-brics-summit)*
+### Weather
+- PDMA Punjab issued an alert for the ninth and final monsoon spell, expected to hit the province between September 12 and 17, impacting regions including Lahore, Rawalpindi, and Sialkot. *[Business Recorder](https://www.brecorder.com/news/40439139/pdma-issues-alert-of-final-spell-of-monsoon-rains)*
 
 ### Politics
-- Pakistan is facing increased diplomatic pressure to maintain its role as a mediator between Saudi Arabia and Tehran amid escalating Houthi-Saudi hostilities. *[Business Recorder](https://www.brecorder.com/news/40439044/as-saudi-tensions-with-houthis-escalate-mediator-pakistan-faces-pressure-to-choose-a-side)*
+- TTAP Punjab criticized Chief Minister Maryam Nawaz's London trip, demanding transparency regarding the authorization of Rs 10 billion for state aircraft use. *[Business Recorder](https://www.brecorder.com/news/40439142/ttap-criticises-cms-recent-trip-to-london)*
+- PTI questioned the Islamabad High Court's (IHC) handling of a government petition regarding the party's planned September 27 long march, alleging a lack of due process. *[Business Recorder](https://www.brecorder.com/news/40439103/sept-27-long-march-pti-criticises-ihcs-handling-of-govt-plea)*
+- Chief Minister Punjab Maryam Nawaz directed MPAs to monitor the quality and transparency of development projects in their respective areas. *[Business Recorder](https://www.brecorder.com/news/40439144/cm-directs-mpas-to-ensure-quality-transparency-in-projects)*
+
+### National
+- The LCCI Election Commission finalized arrangements for transparent and lawful elections following an Executive Committee meeting. *[Business Recorder](https://www.brecorder.com/news/40439145/lcci-ec-finalises-arrangements-for-elections)*
+- The PHDEC and Mango Research Institute (MRI) Multan organized a workshop for mango growers focusing on modern pruning and disease management. *[Business Recorder](https://www.brecorder.com/news/40439143/phdec-organises-workshop)*
+- The Senate Committee on Rules of Procedure and Privileges recommended disciplinary action against a PIA official and an inquiry into an ASF officer for alleged misconduct. *[Business Recorder](https://www.brecorder.com/news/40439105/senate-body-recommends-disciplinary-action-against-pia-official)*
+- The Senate Standing Committee on Communications called for a sweeping overhaul of Pakistan Post, including potential privatization and digitization. *[Business Recorder](https://www.brecorder.com/news/40439106/senate-body-calls-for-a-sweeping-overhaul-of-pakistan-post)*
+- The NJPMC reported that the district judiciary disposed of 1.46 million time-bound cases and 133,457 Model Court cases between September 1, 2025, and July 31, 2026. *[Business Recorder](https://www.brecorder.com/news/40439108/njpmc-commends-district-judiciarys-performance)*
+- The Lahore High Court (LHC) restrained medical colleges across Punjab from expelling Afghan students or cancelling their examination papers. *[Business Recorder](https://www.brecorder.com/news/40439109/lhc-restrains-medical-colleges-from-expelling-afghan-students)*
+
+### International
+- Deputy PM Ishaq Dar reviewed preparations for the ECO Council of Ministers meeting, which Pakistan is set to host on November 15–16, 2026. *[Business Recorder](https://www.brecorder.com/news/40439136/dar-reviews-preparations-for-eco-council-of-ministers)*
+- Ali Asad Gilani has been appointed as Pakistan’s new Ambassador to China, succeeding Khalil Hashmi. *[Business Recorder](https://www.brecorder.com/news/40439110/ali-asad-gilani-named-ambassador-to-china)*
 
 ### Sports
-- Members of Pakistan’s **under-19 cricket team** were targeted by masked protesters in Portsmouth, England, after being mistaken for asylum seekers. *[Business Recorder](https://www.brecorder.com/news/40439063/when-a-pakistani-cricketer-becomes-a-migrant-before-he-becomes-a-person)*
-- Former Australian captain Ricky Ponting described the growth of cricket in the United States as a "**slow-burn**," noting the need for grassroots development. *[Business Recorder](https://www.brecorder.com/news/40439049/growth-of-cricket-in-us-a-slow-burn-says-ponting)*
-- Arsenal manager Mikel Arteta is preparing his squad for an upcoming Champions League fixture against Napoli. *[Business Recorder](https://www.brecorder.com/news/40439053/no-excuses-no-surprises-artetas-arsenal-prepare-for-anything)*
+- The PCB announced the 'Coach Education Schedule' for the 2026-27 season, featuring one tutor training workshop, six Level 1 courses, and two Level 2 courses. *[Business Recorder](https://www.brecorder.com/news/40439138/pcb-coach-education-schedule-announced)*
+
+### Other
+- The University of Lahore and the University of Plymouth (UK) have launched a new collaborative partnership for transnational higher education. *[Business Recorder](https://www.brecorder.com/news/40439141/university-of-lahore-university-of-plymouth-celebrate-partnership)*
 
