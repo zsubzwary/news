@@ -4,43 +4,41 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Sep-2026 09:03PKT
+Published at: 12-Sep-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- SE Fruits and Vegetable Limited has secured SECP approval (dated Sept 9) and PSX approval (dated Sept 7) for an IPO of 30 million ordinary shares, with book-building scheduled for September 21 and 22. *[Business Recorder](https://www.brecorder.com/news/40439140/se-fruits-vegs-secures-secp-approval-for-ipo)*
-- The EPBD Think Tank launched the 'Pakistan Economic Dashboard,' a free digital platform providing over 75 years of official economic and social statistics across ten subject areas. *[Business Recorder](https://www.brecorder.com/news/40439104/75-years-of-statistics-on-free-digital-platform-epbd-think-tank-rolls-out-pakistan-economic-dashboard)*
-- The Punjab Food Safety and Consumer Protection Department confirmed that 10kg bags of flour are being supplied at Rs 1,100 following the continuous grinding of government wheat. *[Business Recorder](https://www.brecorder.com/news/40439135/flour-supply-in-punjab-being-closely-monitored)*
-- Galiyat Development Authority (GDA) anticipates Rs 23 billion in private investment for the Thandiani Integrated Tourism Zone (ITZ) project. *[Business Recorder](https://www.brecorder.com/news/40439107/gda-dg-anticipates-rs23bn-private-investment-in-thandiani)*
-- Punjab Agriculture Minister Syed Ashiq Hussain Kirmani reviewed cotton, wheat, and smog control measures in Multan, expressing optimism regarding cotton production targets. *[Business Recorder](https://www.brecorder.com/news/40439137/minister-hopes-for-achieving-cotton-production-target)*
+- Gold prices in Pakistan rose by **Rs. 400** per tola, reaching **Rs. 457,136**, while 10-gram gold increased by **Rs. 343** to **Rs. 391,920**. *[Business Recorder](https://www.brecorder.com/news/40439167/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
 
 ### Science & Technology
-- The Senate Standing Committee on IT and Telecommunication will meet to discuss Ufone's rebranding, the launch of Starlink, USD 800 million in outstanding Etisalat dues, and alleged overcharging by Jazz. *[Business Recorder](https://www.brecorder.com/news/40439111/senate-panel-meeting-on-monday-ufone-rebranding-starlink-and-etisalat-top-agenda)*
-
-### Weather
-- PDMA Punjab issued an alert for the ninth and final monsoon spell, expected to hit the province between September 12 and 17, impacting regions including Lahore, Rawalpindi, and Sialkot. *[Business Recorder](https://www.brecorder.com/news/40439139/pdma-issues-alert-of-final-spell-of-monsoon-rains)*
-
-### Politics
-- TTAP Punjab criticized Chief Minister Maryam Nawaz's London trip, demanding transparency regarding the authorization of Rs 10 billion for state aircraft use. *[Business Recorder](https://www.brecorder.com/news/40439142/ttap-criticises-cms-recent-trip-to-london)*
-- PTI questioned the Islamabad High Court's (IHC) handling of a government petition regarding the party's planned September 27 long march, alleging a lack of due process. *[Business Recorder](https://www.brecorder.com/news/40439103/sept-27-long-march-pti-criticises-ihcs-handling-of-govt-plea)*
-- Chief Minister Punjab Maryam Nawaz directed MPAs to monitor the quality and transparency of development projects in their respective areas. *[Business Recorder](https://www.brecorder.com/news/40439144/cm-directs-mpas-to-ensure-quality-transparency-in-projects)*
+- Anthropic CEO Dario Amodei has urged AI companies to moderate the pace of model development to better manage potential risks and misuse. *[Business Recorder](https://www.brecorder.com/news/40439182/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse)*
 
 ### National
-- The LCCI Election Commission finalized arrangements for transparent and lawful elections following an Executive Committee meeting. *[Business Recorder](https://www.brecorder.com/news/40439145/lcci-ec-finalises-arrangements-for-elections)*
-- The PHDEC and Mango Research Institute (MRI) Multan organized a workshop for mango growers focusing on modern pruning and disease management. *[Business Recorder](https://www.brecorder.com/news/40439143/phdec-organises-workshop)*
-- The Senate Committee on Rules of Procedure and Privileges recommended disciplinary action against a PIA official and an inquiry into an ASF officer for alleged misconduct. *[Business Recorder](https://www.brecorder.com/news/40439105/senate-body-recommends-disciplinary-action-against-pia-official)*
-- The Senate Standing Committee on Communications called for a sweeping overhaul of Pakistan Post, including potential privatization and digitization. *[Business Recorder](https://www.brecorder.com/news/40439106/senate-body-calls-for-a-sweeping-overhaul-of-pakistan-post)*
-- The NJPMC reported that the district judiciary disposed of 1.46 million time-bound cases and 133,457 Model Court cases between September 1, 2025, and July 31, 2026. *[Business Recorder](https://www.brecorder.com/news/40439108/njpmc-commends-district-judiciarys-performance)*
-- The Lahore High Court (LHC) restrained medical colleges across Punjab from expelling Afghan students or cancelling their examination papers. *[Business Recorder](https://www.brecorder.com/news/40439109/lhc-restrains-medical-colleges-from-expelling-afghan-students)*
+- The Sindh government announced that employees retiring from **January 1, 2027**, will receive their pensions and basic financial entitlements on their actual day of retirement. *[Business Recorder](https://www.brecorder.com/news/40439174/sindh-decides-to-pay-pension-on-retirement-day-from-jan-2027)*
+- Adviser to the Prime Minister on Political Affairs, Rana Sanaullah, stated that any debate regarding the creation of new provinces should be held within the Parliament. *[Business Recorder](https://www.brecorder.com/news/40439178/rana-sanaullah-says-new-provinces-debate-should-take-place-in-parliament)*
+- The Airport Health Department has made **NADRA-integrated digital vaccination proof** mandatory for Umrah pilgrims departing from Pakistan, covering polio, meningitis, yellow fever, and influenza. *[Business Recorder](https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers)*
 
 ### International
-- Deputy PM Ishaq Dar reviewed preparations for the ECO Council of Ministers meeting, which Pakistan is set to host on November 15–16, 2026. *[Business Recorder](https://www.brecorder.com/news/40439136/dar-reviews-preparations-for-eco-council-of-ministers)*
-- Ali Asad Gilani has been appointed as Pakistan’s new Ambassador to China, succeeding Khalil Hashmi. *[Business Recorder](https://www.brecorder.com/news/40439110/ali-asad-gilani-named-ambassador-to-china)*
+- Reports suggest Chinese entities provided Iran with satellite imagery of a Jordanian air base prior to a missile strike on **July 17** that killed **three US soldiers**. *[Business Recorder](https://www.brecorder.com/news/40439181/iran-got-chinese-satellite-images-before-deadly-strike-on-us-troops-report)*
+- Indian Prime Minister Narendra Modi and Chinese President Xi Jinping have agreed to work toward resolving border disputes during the **BRICS summit** in New Delhi. *[Business Recorder](https://www.brecorder.com/news/40439180/modi-xi-expressed-commitment-to-resolving-border-issue-india)*
+- The death toll from the **M/V June Aster** ferry fire in the Philippines has risen to **76** after the discovery of **41 additional bodies**. *[Business Recorder](https://www.brecorder.com/news/40439176/philippine-ferry-fire-death-toll-climbs-to-76-as-identification-process-begins)*
+- Bahrain has announced it will not participate in the upcoming meeting in Oman regarding the Strait of Hormuz, citing that regional stability cannot be achieved through appeasement. *[Business Recorder](https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran)*
+- Ukrainian President Volodymyr Zelensky expressed a willingness to meet Russian President Vladimir Putin at the **G20 summit in Miami** this December to discuss ending the war. *[Business Recorder](https://www.brecorder.com/news/40439172/zelensky-open-to-meeting-putin-at-g20-in-miami)*
+- U.S. President Donald Trump stated that Iran is likely responsible for an aerial attack on a Saudi Arabian pipeline used to bypass the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline)*
+- A meeting between Iran and Gulf states in Oman regarding the Strait of Hormuz is not expected to result in a signed agreement. *[Business Recorder](https://www.brecorder.com/news/40439179/no-signed-hormuz-deal-expected-yet-from-oman-meeting-on-monday-iranian-official-says)*
 
 ### Sports
-- The PCB announced the 'Coach Education Schedule' for the 2026-27 season, featuring one tutor training workshop, six Level 1 courses, and two Level 2 courses. *[Business Recorder](https://www.brecorder.com/news/40439138/pcb-coach-education-schedule-announced)*
+- England secured a **3-0 series whitewash** over Pakistan in Test cricket, winning the third Test at Edgbaston by eight wickets, aided by Joe Root's unbeaten **62**. *[Business Recorder](https://www.brecorder.com/news/40439171/root-takes-charge-guiding-england-to-series-whitewash-over-pakistan)*
+- India's T20 captain Shreyas Iyer noted that Jasprit Bumrah requires game time during the **three-match series against Afghanistan** to regain confidence following injury. *[Business Recorder](https://www.brecorder.com/news/40439177/fit-again-bumrah-needs-game-time-says-india-skipper-iyer)*
+- Europe has taken a **7-5 lead** over the United States in the Solheim Cup after world number one Nelly Korda suffered a defeat. *[Business Recorder](https://www.brecorder.com/news/40439169/korda-finally-beaten-as-europe-grasp-slender-solheim-lead)*
+
+### Health
+- Advances in healthcare and sanitation in Pakistan are leading to longer life expectancies, though this presents new economic challenges regarding the cost of aging. *[Business Recorder](https://www.brecorder.com/news/40439173/living-longer-is-a-blessing-but-can-we-afford-it)*
 
 ### Other
-- The University of Lahore and the University of Plymouth (UK) have launched a new collaborative partnership for transnational higher education. *[Business Recorder](https://www.brecorder.com/news/40439141/university-of-lahore-university-of-plymouth-celebrate-partnership)*
+- Pop singer Lady Gaga has welcomed her first child with fiancé Michael Polansky. *[Business Recorder](https://www.brecorder.com/news/40439168/lady-gaga-welcomes-first-child-with-fiance)*
+- The Israeli-made documentary "**NAZA**," which analyzes the killing of civilians in Gaza, received a **25-minute standing ovation** at the Venice Film Festival. *[Business Recorder](https://www.brecorder.com/news/40439165/gaza-film-malkovich-drama-vie-for-venice-top-prize)*
+- Celine Dion is scheduled to perform her first full concert in **six years** in Paris, with **30,000 fans** expected to attend. *[Business Recorder](https://www.brecorder.com/news/40439164-a-legend-celine-dion-poised-for-emotional-comeback-in-paris)*
+- Actor James McAvoy premiered his supernatural drama "**Faith**" at the Toronto International Film Festival (TIFF). *[Business Recorder](https://www.brecorder.com/news/40439166-james-mcavoy-brings-new-film-faith-to-toronto-fest)*
 
