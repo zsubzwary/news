@@ -7,43 +7,40 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 12-Sep-2026 09:08PKT 
+ &lrm; 12-Sep-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- **SE Fruits and Vegetable Limited** کو **30 ملین** عام شیئرز کے آئی پی او (IPO) کے لیے SECP سے منظوری مل گئی ہے، جس کے لیے بک بلڈنگ کا عمل **21 اور 22 ستمبر** کو ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40439140/se-fruits-vegs-secures-secp-approval-for-ipo)*
-- پنجاب میں آٹے کی فراہمی معمول کے مطابق جاری ہے، جہاں حکومت کی گندم سے تیار کردہ **10 کلوگرام** آٹے کا تھیلا **1,100 روپے** میں دستیاب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439135/flour-supply-in-punjab-being-closely-monitored)*
-- **EPBD** تھنک ٹینک نے **75 سالہ** معاشی اور سماجی اعداد و شمار پر مشتمل مفت 'پاکستان اکنامک ڈیش بورڈ' لانچ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439104/75-years-of-statistics-on-free-digital-platform-epbd-think-tank-rolls-out-pakistan-economic-dashboard)*
-- لاہور چیمبر آف کامرس اینڈ انڈسٹری (LCCI) کی الیکشن کمیشن نے شفاف اور پرامن انتخابات کے لیے تمام انتظامات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439145/lcci-ec-finalises-arrangements-for-elections)*
-- گلیات ڈویلپمنٹ اتھارٹی (GDA) کے مطابق تھنڈیانی انٹیگریٹڈ ٹورزم زون کے منصوبے کے لیے پرائیویٹ سیکٹر سے **23 ارب روپے** کی سرمایہ کاری متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439107/gda-dg-anticipates-rs23bn-private-investment-in-thandiani)*
+- پاکستان میں سونے کی قیمت میں 400 روپے فی تولہ اضافہ ہوا ہے، جس کے بعد سونے کی قیمت 457,136 روپے فی تولہ ہو گئی ہے، جبکہ 10 گرام سونا 391,920 روپے میں فروخت کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439167/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- سینیٹ کی آئی ٹی کمیٹی کے اجلاس میں **Ufone** کی ری برانڈنگ، **Starlink** کا آغاز، **Etisalat** کے **800 ملین امریکی ڈالر** کے واجبات اور **Jazz** کے موبائل صارفین پر زائد چارجز جیسے اہم امور پر غور کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439111/senate-panel-meeting-on-monday-ufone-rebranding-starlink-and-etisalat-top-agenda)*
-
-### موسم
-- پی ڈی ایم اے (PDMA) پنجاب نے مون سون کی بارشوں کے آخری سلسلے کا الرٹ جاری کیا ہے، جس کا **12 سے 17 ستمبر** کے درمیان ہونے کا امکان ہے، جس میں لاہور، سیالکوٹ اور راولپنڈی سمیت کئی اضلاع شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439139/pdma-issues-alert-of-final-spell-of-monsoon-rains)*
+- اینتھروپک (Anthropic) کے سی ای او ڈاریو امودی نے مصنوعی ذہانت (AI) کے ماڈلز کی ترقی کی رفتار کو کم کرنے کی ضرورت پر زور دیا ہے تاکہ اس کے غلط استعمال کے خطرات کو کم کرنے کے لیے وقت فراہم کیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40439182/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse)*
 
 ### سیاست
-- وزیراعلیٰ پنجاب مریم نواز شریف نے صوبے کے ایم پی ایز (MPAs) کو ترقیاتی منصوبوں کے معیار اور شفافیت کی نگرانی کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439144/cm-directs-mpas-to-ensure-quality-transparency-in-projects)*
-- تحریک تحفظِ عینِ پاکستان (TTAP) نے وزیراعلیٰ کے لندن دورے پر تنقید کرتے ہوئے ریاستی طیارے کے استعمال پر **10 ارب روپے** کے اخراجات کی شفافیت کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439142/ttap-criticises-cms-recent-trip-to-london)*
-- پی ٹی آئی (PTI) نے اسلام آباد ہائی کورٹ میں حکومت کی درخواست کے طریقہ کار پر اعتراض کرتے ہوئے کہا کہ پارٹی کو مدعو نہیں کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439103/sept-27-long-march-pti-criticises-ihcs-handling-of-govt-plea)*
+- وزیراعظم کے سیاسی امور کے مشیر رانا ثناء اللہ کا کہنا ہے کہ نئے صوبوں کے قیام کے حوالے سے بحث کسی معاشی فورم یا سیمینار کے بجائے پارلیمنٹ میں ہونی چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40439178/rana-sanaullah-says-new-provinces-debate-should-take-place-in-parliament)*
 
 ### قومی
-- نیشنل جوڈیشل پالیسی میکنگ کمیٹی (NJPMC) نے یکم ستمبر 2025 سے 31 جولائی 2026 کے درمیان **1.46 ملین** وقت بند مقدمات اور **133,457** ماڈل کورٹ مقدمات کے فیصلے پر ضلع عدلیہ کی کارکردگی کو سراہا۔ *[Business Recorder](https://www.brecorder.com/news/40439108/njpmc-commends-district-judiciarys-performance)*
-- لاہور ہائی کورٹ نے پنجاب کے میڈیکل کالجز کو افغان طلباء کو نکالنے اور ان کے امتحانی پرچے منسوخ کرنے سے روک دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439109/lhc-restrains-medical-colleges-from-expelling-afghan-students)*
-- سینیٹ کمیٹی نے پاکستان پوسٹ کی مالی حالت کو بہتر بنانے کے لیے ڈیجیٹلائزیشن اور ممکنہ نجکاری سمیت جامع اصلاحات کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439106/senate-body-calls-for-a-sweeping-overhaul-of-pakistan-post)*
-- سینیٹ کمیٹی نے پی آئی اے (PIA) کے ایک اہلکار کے خلاف تادیبی کارروائی اور اے ایس ایف (ASF) افسر کے خلاف انکوائری کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439105/senate-body-recommends-disciplinary-action-against-pia-official)*
-- پنجاب کے وزیر زراعت سید عاشق حسین کیرمانی نے کپاس کی پیداوار کے ہدف کے حصول کے حوالے سے امید کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439137/minister-hopes-for-achieving-cotton-production-target)*
-- ملتان میں PHDEC اور مینگو ریسرچ انسٹی ٹیوٹ نے آم کے کاشتکاروں کے لیے جدید پیداواری طریقوں پر ورکشاپ کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439143/phdec-organises-workshop)*
+- سندھ حکومت نے فیصلہ کیا ہے کہ یکم جنوری 2027 سے ریٹائر ہونے والے ملازمین کو ان کی ریٹائرمنٹ کے دن ہی پنشن اور دیگر بنیادی مالی واجبات ادا کیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439174/sindh-decides-to-pay-pension-on-retirement-day-from-jan-2027)*
+- ایئرپورٹ ہیلتھ ڈیپارٹمنٹ نے اعلان کیا ہے کہ عمرہ کے لیے جانے والے پاکستانی مسافروں کے لیے نادرا کے ساتھ مربوط ڈیجیٹل ویکسینیشن ثبوت (پولیو، میننجائٹس، یلو فیور اور انفلوئنزا) لازمی ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers)*
 
 ### بین الاقوامی
-- ڈپٹی پرائم منسٹر اسحاق ڈار نے **15 سے 16 نومبر 2026** کو پاکستان میں منعقد ہونے والے ای سی او (ECO) کونسل آف منسٹرز کے اجلاس کی تیاریوں کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40439136/dar-reviews-preparations-for-eco-council-of-ministers)*
-- علی اسد گیلانی کو چین میں پاکستان کا نیا سفیر مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439110/ali-asad-gilani-named-ambassador-to-china)*
+- چین نے اردن میں امریکی فوج کے اڈے پر حملے سے قبل اور بعد میں ایران کو سیٹلائٹ تصاویر فراہم کیں، جس کے نتیجے میں ہونے والے حملے میں تین امریکی فوجیوں کی ہلاکت ہوئی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40439181/iran-got-chinese-satellite-images-before-deadly-strike-on-us-troops-report)*
+- بھارتی وزیر اعظم نریندر مودی اور چینی صدر شی جن پنگ نے برکس (BRICS) سربراہی اجلاس کے موقع پر سرحدی تنازع کو حل کرنے کے لیے مل کر کام کرنے کا عہد کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439180/modi-xi-expressed-commitment-to-resolving-border-issue-india)*
+- عمان میں ایران اور خلیجی ریاستوں کے درمیان ہونے والے اجلاس میں بحر ہرمز کے حوالے سے کسی باقاعدہ معاہدے کی توقع نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439179/no-signed-hormuz-deal-expected-yet-from-oman-meeting-on-monday-iranian-official-says)*
+- بحرین نے اعلان کیا ہے کہ وہ ایران کے ساتھ بحر ہرمز کے معاملے پر عمان میں ہونے والے مجوزہ اجلاس میں شرکت نہیں کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran)*
+- فلپائن میں کشتی کے جلنے کے نتیجے میں ہلاک ہونے والوں کی تعداد بڑھ کر 76 ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439176/philippine-ferry-fire-death-toll-climbs-to-76-as-identification-process-begins)*
+- یوکرینی صدر ولادیمیر زیلنسکی نے مائامی میں جی 20 سربراہی اجلاس کے دوران روسی صدر ولادیمیر پوتن سے جنگ کے خاتمے کے لیے ملاقات کرنے کی آمادگی ظاہر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439172/zelensky-open-to-meeting-putin-at-g20-in-miami)*
+- امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ سعودی عرب کی اہم آئل پائپ لائن پر ہونے والے فضائی حملے کے لیے ایران ممکنہ طور پر ذمہ دار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline)*
 
 ### کھیل
-- پی سی بی (PCB) نے 2026-27 کے سیزن کے لیے کوچ ایجوکیشن شیڈول کا اعلان کیا ہے جس میں **ایک** ٹیوٹر ٹریننگ ورکشاپ اور **چھ** لیول 1 سرٹیفیکیشن کورسز شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439138/pcb-coach-education-schedule-announced)*
+- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز میں 3-0 سے کامیابی حاصل کی، جس میں جو روٹ نے ناقابل شکست 62 رنز بنائے اور انگلینڈ نے آٹھ وکٹوں سے میچ جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40439171/root-takes-charge-guiding-england-to-series-whitewash-over-pakistan)*
+- انڈیا کی ٹی 20 کپتان شریایس ائیئر کا کہنا ہے کہ جسپریت بمراہ کو افغانستان کے خلاف سیریز میں خود اعتمادی بحال کرنے کے لیے کھیل کے مواقع کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439177/fit-again-bumrah-needs-game-time-says-india-skipper-iyer)*
+- گولف کے مقابلے سولہیم کپ میں یورپ نے امریکہ پر 7-5 کی برتری حاصل کر لی ہے، جس میں دنیا کی نمبر ون کھلاڑی نیلی کورڈا کو شکست کا سامنا کرنا پڑا۔ *[Business Recorder](https://www.brecorder.com/news/40439169/korda-finally-beaten-as-europe-grasp-slender-solheim-lead)*
 
 ### دیگر
-- یونیورسٹی آف لاہور اور برطانیہ کی یونیورسٹی آف پلیموتھ کے درمیان بین الاقوامی تعلیمی تعاون کے لیے شراکت داری کا آغاز کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439141/university-of-lahore-university-of-plymouth-celebrate-partnership)*
+- پاپ اسٹار لیڈی گاگا نے اپنے منگیتر مائیکل پولانسی کے ساتھ اپنے پہلے بچے کی پیدائش کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439168/lady-gaga-welcomes-first-child-with-fiance)*
+- اسکاٹش اداکار جیمز میک ایوئے کی نئی فلم 'فیتھ' (Faith) ٹورنٹو انٹرنیشنل فلم فیسٹیول میں پیش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439166/james-mcavoy-brings-new-film-faith-to-toronto-fest)*
+- وینس فلم فیسٹیول میں غزہ پر مبنی دستاویزی فلم 'نازا' (NAZA) اور جان ملکووچ کی فلم کے درمیان ٹاپ ایوارڈ کے لیے مقابلہ ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439165/gaza-film-malkovich-drama-vie-for-venice-top-prize)*
+- مشہور گلوکارہ سیلین ڈیون چھ سالوں کے بعد پیرس میں اپنے پہلے مکمل کنسرٹ کے ذریعے اسٹیج پر واپسی کرنے کے لیے تیار ہیں، جس میں تقریباً 30,000 مداحوں کی شرکت متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439164/a-legend-celine-dion-poised-for-emotional-comeback-in-paris)*
 
