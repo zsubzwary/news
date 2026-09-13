@@ -4,41 +4,37 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 12-Sep-2026 21:03PKT
+Published at: 13-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Gold prices in Pakistan rose by **Rs. 400** per tola, reaching **Rs. 457,136**, while 10-gram gold increased by **Rs. 343** to **Rs. 391,920**. *[Business Recorder](https://www.brecorder.com/news/40439167/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- The Federal Board of Revenue (FBR) has imposed a Federal Excise Duty (FED) of **Rs 80 per litre** on three petroleum products: petroleum top naphtha, white spirit/mineral turpentine oil (MTT), and solvent oil, effective July 1, 2026. *[Business Recorder](https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products)*
+- Nepra Chairman Waseem Mukhtar has called for transparent demand projections from ISMO, DISCOs, and CPPA-G to align generation capacity with electricity demand in the **Integrated System Plan (ISP) 2025-35**. *[Business Recorder](https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections)*
+- The government is finalizing a plan to provide whitelisted, uninterrupted internet access to the IT sector to help achieve a **$15 billion** export target. *[Business Recorder](https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza)*
+- Prime Minister Shehbaz Sharif defended the decision to export approximately **108,000 metric tonnes (MT)** of imported sugar to prevent financial losses caused by the approaching expiry of the commodity's shelf life. *[Business Recorder](https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar)*
+- The Pakistan-Africa Economic Council (PAEC) was launched with a target to increase bilateral trade to **USD 15 billion by 2030**. *[Business Recorder](https://www.brecorder.com/news/40439236/paec-launched-to-raise-trade-to-usd15bn-by-2030)*
+- Bilal Bin Saqib, Chairman of the Pakistan Virtual Assets Regulatory Authority (PVARA), called for global cooperation on regulatory frameworks for digital assets during a session at the United Nations. *[Business Recorder](https://www.brecorder.com/news/40439233/pakistan-calls-for-global-cooperation-on-digital-assets)*
 
-### Science & Technology
-- Anthropic CEO Dario Amodei has urged AI companies to moderate the pace of model development to better manage potential risks and misuse. *[Business Recorder](https://www.brecorder.com/news/40439182/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse)*
+### Politics
+- Punjab Chief Minister Maryam Nawaz Sharif stated the provincial government is focused on the development of all cities and villages, highlighting recent progress in **Pakpattan**. *[Business Recorder](https://www.brecorder.com/news/40439237/development-amp-improvement-of-every-city-amp-village-govts-mission-maryam)*
+- The Election Commission of Pakistan (ECP) promoted four officers from **BS-19 to BS-20**, including Khurshid Alam, who was promoted to the newly created position of Additional Director, and reshuffled 65 other officers. *[Business Recorder](https://www.brecorder.com/news/40439246/four-ecp-officers-promoted-65-shuffled)*
+- Chief Justice of Pakistan (CJP) Justice Yahya Afridi emphasized the need for well-supported and professionally equipped judicial officers to maintain a responsive district judiciary. *[Business Recorder](https://www.brecorder.com/news/40439245/cjp-says-district-judiciary-backbone-of-justice-system)*
+- Ambassador-designate to China, Ali Asad Gilani, met with Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar to discuss deepening the All-Weather Strategic Cooperative Partnership. *[Business Recorder](https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm)*
 
 ### National
-- The Sindh government announced that employees retiring from **January 1, 2027**, will receive their pensions and basic financial entitlements on their actual day of retirement. *[Business Recorder](https://www.brecorder.com/news/40439174/sindh-decides-to-pay-pension-on-retirement-day-from-jan-2027)*
-- Adviser to the Prime Minister on Political Affairs, Rana Sanaullah, stated that any debate regarding the creation of new provinces should be held within the Parliament. *[Business Recorder](https://www.brecorder.com/news/40439178/rana-sanaullah-says-new-provinces-debate-should-take-place-in-parliament)*
-- The Airport Health Department has made **NADRA-integrated digital vaccination proof** mandatory for Umrah pilgrims departing from Pakistan, covering polio, meningitis, yellow fever, and influenza. *[Business Recorder](https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers)*
+- Federal Minister for Commerce Jam Kamal Khan held bilateral meetings with counterparts from **Sri Lanka, Bangladesh, and Qatar** at the BRI Summit to discuss trade, connectivity, and food security. *[Business Recorder](https://www.brecorder.com/news/40439234/bri-summit-jam-focuses-on-regional-connectivity-food-security)*
+- Muhammad Sohail Chaudhry (BS-20) has been appointed as the Inspector General of Police (IGP) for Islamabad, replacing Syed Ali Nasir Rizvi. *[Business Recorder](https://www.brecorder.com/news/40439248/sohail-chaudhry-made-islamabad-igp)*
 
 ### International
-- Reports suggest Chinese entities provided Iran with satellite imagery of a Jordanian air base prior to a missile strike on **July 17** that killed **three US soldiers**. *[Business Recorder](https://www.brecorder.com/news/40439181/iran-got-chinese-satellite-images-before-deadly-strike-on-us-troops-report)*
-- Indian Prime Minister Narendra Modi and Chinese President Xi Jinping have agreed to work toward resolving border disputes during the **BRICS summit** in New Delhi. *[Business Recorder](https://www.brecorder.com/news/40439180/modi-xi-expressed-commitment-to-resolving-border-issue-india)*
-- The death toll from the **M/V June Aster** ferry fire in the Philippines has risen to **76** after the discovery of **41 additional bodies**. *[Business Recorder](https://www.brecorder.com/news/40439176/philippine-ferry-fire-death-toll-climbs-to-76-as-identification-process-begins)*
-- Bahrain has announced it will not participate in the upcoming meeting in Oman regarding the Strait of Hormuz, citing that regional stability cannot be achieved through appeasement. *[Business Recorder](https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran)*
-- Ukrainian President Volodymyr Zelensky expressed a willingness to meet Russian President Vladimir Putin at the **G20 summit in Miami** this December to discuss ending the war. *[Business Recorder](https://www.brecorder.com/news/40439172/zelensky-open-to-meeting-putin-at-g20-in-miami)*
-- U.S. President Donald Trump stated that Iran is likely responsible for an aerial attack on a Saudi Arabian pipeline used to bypass the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline)*
-- A meeting between Iran and Gulf states in Oman regarding the Strait of Hormuz is not expected to result in a signed agreement. *[Business Recorder](https://www.brecorder.com/news/40439179/no-signed-hormuz-deal-expected-yet-from-oman-meeting-on-monday-iranian-official-says)*
-
-### Sports
-- England secured a **3-0 series whitewash** over Pakistan in Test cricket, winning the third Test at Edgbaston by eight wickets, aided by Joe Root's unbeaten **62**. *[Business Recorder](https://www.brecorder.com/news/40439171/root-takes-charge-guiding-england-to-series-whitewash-over-pakistan)*
-- India's T20 captain Shreyas Iyer noted that Jasprit Bumrah requires game time during the **three-match series against Afghanistan** to regain confidence following injury. *[Business Recorder](https://www.brecorder.com/news/40439177/fit-again-bumrah-needs-game-time-says-india-skipper-iyer)*
-- Europe has taken a **7-5 lead** over the United States in the Solheim Cup after world number one Nelly Korda suffered a defeat. *[Business Recorder](https://www.brecorder.com/news/40439169/korda-finally-beaten-as-europe-grasp-slender-solheim-lead)*
+- Iraq's North Oil Company signed a **25-year contract** with KEPPT to develop the Ajil oilfield, aiming to raise gas output to **300 million standard cubic feet per day** and oil production to **40,000 barrels per day**. *[Business Recorder](https://www.brecorder.com/news/40439238/iraq-signs-25-year-deal-to-develop-ajil-oilfield)*
+- Saudi Arabia temporarily shut down its **1,200-km East-West oil pipeline** following a drone attack originating from Iraq. *[Business Recorder](https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline)*
+- Iraq closed **three border crossings** with Iran and dismissed the military commander in Missan province following drone attacks targeting the Saudi Arabian pipeline. *[Business Recorder](https://www.brecorder.com/news/40439241/iraq-closes-three-iran-crossings-after-drone-launch)*
+- The 11-nation BRICS group, including leaders from China, Russia, Iran, and India, issued a joint statement at a New Delhi summit calling for "maximum restraint" in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40439242/brics-nations-urge-maximum-restraint)*
+- Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met on the sidelines of the BRICS summit to pledge the rebuilding of business and transport links. *[Business Recorder](https://www.brecorder.com/news/40439243/modi-xi-push-business-links-border-peace-as-ties-revive)*
+- The Pakistan Foreign Office issued a statement condemning the drone attacks on the East-West Pipeline in the Riyadh and Madinah regions of Saudi Arabia as a violation of international law. *[Business Recorder](https://www.brecorder.com/news/40439247/pakistan-condemns-attacks-on-ksa)*
+- US President Donald Trump indicated a trade deal with Canada could arrive "fairly soon" but demanded the removal of tariffs on US farmers. *[Business Recorder](https://www.brecorder.com/news/40439239/trump-says-us-canada-trade-deal-likely-fairly-soon)*
 
 ### Health
-- Advances in healthcare and sanitation in Pakistan are leading to longer life expectancies, though this presents new economic challenges regarding the cost of aging. *[Business Recorder](https://www.brecorder.com/news/40439173/living-longer-is-a-blessing-but-can-we-afford-it)*
-
-### Other
-- Pop singer Lady Gaga has welcomed her first child with fiancé Michael Polansky. *[Business Recorder](https://www.brecorder.com/news/40439168/lady-gaga-welcomes-first-child-with-fiance)*
-- The Israeli-made documentary "**NAZA**," which analyzes the killing of civilians in Gaza, received a **25-minute standing ovation** at the Venice Film Festival. *[Business Recorder](https://www.brecorder.com/news/40439165/gaza-film-malkovich-drama-vie-for-venice-top-prize)*
-- Celine Dion is scheduled to perform her first full concert in **six years** in Paris, with **30,000 fans** expected to attend. *[Business Recorder](https://www.brecorder.com/news/40439164-a-legend-celine-dion-poised-for-emotional-comeback-in-paris)*
-- Actor James McAvoy premiered his supernatural drama "**Faith**" at the Toronto International Film Festival (TIFF). *[Business Recorder](https://www.brecorder.com/news/40439166-james-mcavoy-brings-new-film-faith-to-toronto-fest)*
+- The Democratic Republic of Congo has recorded more than **7,000 Ebola cases** in its current outbreak, resulting in nearly **3,400 deaths**. *[Business Recorder](https://www.brecorder.com/news/40439249/worst-dr-congo-ebola-epidemic-ever-passes-7000-cases)*
 
