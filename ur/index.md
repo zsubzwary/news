@@ -7,40 +7,37 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 12-Sep-2026 21:09PKT 
+ &lrm; 13-Sep-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان میں سونے کی قیمت میں 400 روپے فی تولہ اضافہ ہوا ہے، جس کے بعد سونے کی قیمت 457,136 روپے فی تولہ ہو گئی ہے، جبکہ 10 گرام سونا 391,920 روپے میں فروخت کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439167/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- فیڈرل بورڈ آف ریونیو (FBR) نے یکم جولائی 2026 سے تین پیٹرولیم مصنوعات (پیٹرولیم ٹاپ نافتھا، وائٹ سپرٹ/منرل ٹرپنٹ آئل، اور سالوینٹ آئل) پر **80 روپے فی لیٹر** فیڈرل ایکسائز ڈیوٹی (FED) عائد کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products)*
+- وزیر اعظم شہباز شریف نے تقریباً **108,000 میٹرک ٹن** درآمد شدہ چینی برآمد کرنے کے فیصلے کا دفاع کرتے ہوئے اسے شیلف لائف ختم ہونے سے ہونے والے مالی نقصان سے بچنے کے لیے ضروری قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar)*
+- پاکستان اور افریقی ممالک کے درمیان قائم ہونے والے 'پاکستان افریقہ اکنامک کونسل' (PAEC) کا مقصد **2030 تک** دوطرفہ تجارت کو **15 ارب ڈالر** تک پہنچانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439236/paec-launched-to-raise-trade-to-usd15bn-by-2030)*
+- نیپرا (Nepra) کے چیئرمین وسیم مختار نے بجلی کی طلب کے تخمینوں میں ISMO، DISCOs اور CPPA-G کے درمیان فرق پر تشویش کا اظہار کرتے ہوئے شفاف طریقہ کار کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections)*
+- وفاقی وزیر تجارت جام کمال خان نے ہانگ کانگ میں بی آر آئی (BRI) سمٹ کے موقع پر علاقائی رابطوں اور غذائی تحفظ پر علاقائی رہنماؤں سے ملاقاتیں کیں۔ *[Business Recorder](https://www.brecorder.com/news/40439234/bri-summit-jam-focuses-on-regional-connectivity-food-security)*
 
 ### سائنس اور ٹیکنالوجی
-- اینتھروپک (Anthropic) کے سی ای او ڈاریو امودی نے مصنوعی ذہانت (AI) کے ماڈلز کی ترقی کی رفتار کو کم کرنے کی ضرورت پر زور دیا ہے تاکہ اس کے غلط استعمال کے خطرات کو کم کرنے کے لیے وقت فراہم کیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40439182/anthropic-ceo-urges-ai-companies-to-slow-model-development-amid-fears-over-misuse)*
+- وزیر مملکت بلال بن ثاقب نے اقوام متحدہ میں ڈیجیٹل اثاثوں اور بلاک چین کے ذریعے پائیدار ترقی کے لیے عالمی تعاون کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439233/pakistan-calls-for-global-cooperation-on-digital-assets)*
+- آئی ٹی وزیر شذا فاطمہ خواجہ نے آئی ٹی برآمدات کے **15 ارب ڈالر** کے ہدف کو حاصل کرنے کے لیے آئی ٹی سیکٹر کو بلا تعطل انٹرنیٹ فراہم کرنے کا منصوبہ تیار کرنے کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza)*
 
 ### سیاست
-- وزیراعظم کے سیاسی امور کے مشیر رانا ثناء اللہ کا کہنا ہے کہ نئے صوبوں کے قیام کے حوالے سے بحث کسی معاشی فورم یا سیمینار کے بجائے پارلیمنٹ میں ہونی چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40439178/rana-sanaullah-says-new-provinces-debate-should-take-place-in-parliament)*
-
-### قومی
-- سندھ حکومت نے فیصلہ کیا ہے کہ یکم جنوری 2027 سے ریٹائر ہونے والے ملازمین کو ان کی ریٹائرمنٹ کے دن ہی پنشن اور دیگر بنیادی مالی واجبات ادا کیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439174/sindh-decides-to-pay-pension-on-retirement-day-from-jan-2027)*
-- ایئرپورٹ ہیلتھ ڈیپارٹمنٹ نے اعلان کیا ہے کہ عمرہ کے لیے جانے والے پاکستانی مسافروں کے لیے نادرا کے ساتھ مربوط ڈیجیٹل ویکسینیشن ثبوت (پولیو، میننجائٹس، یلو فیور اور انفلوئنزا) لازمی ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40439170/pakistan-makes-nadra-integrated-vaccination-proof-mandatory-for-umrah-travelers)*
+- وزیراعلیٰ پنجاب مریم نواز شریف نے ہر شہر اور گاؤں کی ترقی کو حکومت کا مشن قرار دیتے ہوئے پاکپتن کی ترقیاتی سرگرمیوں کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439237/development-amp-improvement-of-every-city-amp-village-govts-mission-maryam)*
+- چیف جسٹس پاکستان یحییٰ آفریدی نے کہا کہ ضلعی عدلیہ انصاف کے نظام کی ریڑھ کی ہڈی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439245/cjp-says-district-judiciary-backbone-of-justice-system)*
+- الیکشن کمیشن نے **4 افسران** کو BS-19 سے BS-20 تک ترقی دی اور **65 افسران** کی تنظیم نو (reshuffle) کی۔ *[Business Recorder](https://www.brecorder.com/news/40439246/four-ecp-officers-promoted-65-shuffled)*
+- وفاقی حکومت نے کیپٹن محمد سہیل چوہدری (BS-20) کو اسلام آباد کا نیا آئی جی پی (IGP) مقرر کیا، جو سید علی ناصر رضوی کی جگہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439248/sohail-chaudhry-made-islamabad-igp)*
+- چین میں پاکستان کے نامزد سفیر علی اسد گیلانی نے نائب وزیراعظم اسحاق ڈار سے ملاقات کی تاکہ دوطرفہ تعلقات کو مزید مضبوط بنایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm)*
 
 ### بین الاقوامی
-- چین نے اردن میں امریکی فوج کے اڈے پر حملے سے قبل اور بعد میں ایران کو سیٹلائٹ تصاویر فراہم کیں، جس کے نتیجے میں ہونے والے حملے میں تین امریکی فوجیوں کی ہلاکت ہوئی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40439181/iran-got-chinese-satellite-images-before-deadly-strike-on-us-troops-report)*
-- بھارتی وزیر اعظم نریندر مودی اور چینی صدر شی جن پنگ نے برکس (BRICS) سربراہی اجلاس کے موقع پر سرحدی تنازع کو حل کرنے کے لیے مل کر کام کرنے کا عہد کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439180/modi-xi-expressed-commitment-to-resolving-border-issue-india)*
-- عمان میں ایران اور خلیجی ریاستوں کے درمیان ہونے والے اجلاس میں بحر ہرمز کے حوالے سے کسی باقاعدہ معاہدے کی توقع نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439179/no-signed-hormuz-deal-expected-yet-from-oman-meeting-on-monday-iranian-official-says)*
-- بحرین نے اعلان کیا ہے کہ وہ ایران کے ساتھ بحر ہرمز کے معاملے پر عمان میں ہونے والے مجوزہ اجلاس میں شرکت نہیں کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439175/bahrain-says-wont-participate-in-hormuz-meeting-with-iran)*
-- فلپائن میں کشتی کے جلنے کے نتیجے میں ہلاک ہونے والوں کی تعداد بڑھ کر 76 ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439176/philippine-ferry-fire-death-toll-climbs-to-76-as-identification-process-begins)*
-- یوکرینی صدر ولادیمیر زیلنسکی نے مائامی میں جی 20 سربراہی اجلاس کے دوران روسی صدر ولادیمیر پوتن سے جنگ کے خاتمے کے لیے ملاقات کرنے کی آمادگی ظاہر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439172/zelensky-open-to-meeting-putin-at-g20-in-miami)*
-- امریکی صدر ڈونلڈ ٹرمپ نے کہا ہے کہ سعودی عرب کی اہم آئل پائپ لائن پر ہونے والے فضائی حملے کے لیے ایران ممکنہ طور پر ذمہ دار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439163/trump-says-iran-probably-responsible-for-attack-on-saudi-pipeline)*
+- عراق نے Ajil آئل فیلڈ کی ترقی کے لیے KEPPT کے ساتھ **25 سالہ معاہدہ** کیا ہے، جس کا مقصد گیس کی پیداوار کو **300 ملین** سٹینڈرڈ کیوبک فٹ اور تیل کی پیداوار کو **40,000 بیرل روزانہ** تک بڑھانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439238/iraq-signs-25-year-deal-to-develop-ajil-oilfield)*
+- سعودی عرب نے ڈرون حملے کے بعد اپنے ایسٹ-ویسٹ آئل پائپ لائن کو حفاظتی طور پر بند کر دیا ہے، جس سے توانائی کی قیمتوں میں اضافے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline)*
+- سعودی پائپ لائن پر حملے کے بعد عراق نے ایران کے ساتھ **تین سرحدی گزرگاہیں** بند کر دی ہیں اور مسن صوبے کے فوجی کمانڈر کو برطرف کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439241/iraq-closes-three-iran-crossings-after-drone-launch)*
+- بی آر آئی سی ایس (BRICS) ممالک بشمول چین اور روس نے نئی دہلی میں ہونے والی سمٹ میں مشرق وسطیٰ میں تحمل اختیار کرنے کی اپیل کی۔ *[Business Recorder](https://www.brecorder.com/news/40439242/brics-nations-urge-maximum-restraint)*
+- بھارتی وزیر اعظم نریندر مودی اور چینی صدر شی جن پنگ نے نئی دہلی میں ملاقات کی اور تجارتی روابط اور سرحدی امن بڑھانے کا عزم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439243/modi-xi-push-business-links-border-peace-as-ties-revive)*
+- امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ کینیڈا کے ساتھ تجارتی معاہدہ جلد ممکن ہے، تاہم انہوں نے کینیڈا سے امریکی کسانوں پر سے ٹیرف ختم کرنے کا مطالبہ بھی کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439239/trump-says-us-canada-trade-deal-likely-fairly-soon)*
+- پاکستان نے سعودی عرب کی ایسٹ-ویسٹ پائپ لائن پر ہونے والے ڈرون حملوں کی سخت مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439247/pakistan-condemns-attacks-on-ksa)*
 
-### کھیل
-- انگلینڈ نے پاکستان کے خلاف ٹیسٹ سیریز میں 3-0 سے کامیابی حاصل کی، جس میں جو روٹ نے ناقابل شکست 62 رنز بنائے اور انگلینڈ نے آٹھ وکٹوں سے میچ جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40439171/root-takes-charge-guiding-england-to-series-whitewash-over-pakistan)*
-- انڈیا کی ٹی 20 کپتان شریایس ائیئر کا کہنا ہے کہ جسپریت بمراہ کو افغانستان کے خلاف سیریز میں خود اعتمادی بحال کرنے کے لیے کھیل کے مواقع کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439177/fit-again-bumrah-needs-game-time-says-india-skipper-iyer)*
-- گولف کے مقابلے سولہیم کپ میں یورپ نے امریکہ پر 7-5 کی برتری حاصل کر لی ہے، جس میں دنیا کی نمبر ون کھلاڑی نیلی کورڈا کو شکست کا سامنا کرنا پڑا۔ *[Business Recorder](https://www.brecorder.com/news/40439169/korda-finally-beaten-as-europe-grasp-slender-solheim-lead)*
-
-### دیگر
-- پاپ اسٹار لیڈی گاگا نے اپنے منگیتر مائیکل پولانسی کے ساتھ اپنے پہلے بچے کی پیدائش کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439168/lady-gaga-welcomes-first-child-with-fiance)*
-- اسکاٹش اداکار جیمز میک ایوئے کی نئی فلم 'فیتھ' (Faith) ٹورنٹو انٹرنیشنل فلم فیسٹیول میں پیش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439166/james-mcavoy-brings-new-film-faith-to-toronto-fest)*
-- وینس فلم فیسٹیول میں غزہ پر مبنی دستاویزی فلم 'نازا' (NAZA) اور جان ملکووچ کی فلم کے درمیان ٹاپ ایوارڈ کے لیے مقابلہ ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439165/gaza-film-malkovich-drama-vie-for-venice-top-prize)*
-- مشہور گلوکارہ سیلین ڈیون چھ سالوں کے بعد پیرس میں اپنے پہلے مکمل کنسرٹ کے ذریعے اسٹیج پر واپسی کرنے کے لیے تیار ہیں، جس میں تقریباً 30,000 مداحوں کی شرکت متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439164/a-legend-celine-dion-poised-for-emotional-comeback-in-paris)*
+### صحت
+- جمہوریہ کانگو (DR Congo) میں ایبولا کا اب تک کا بدترین حملہ ریکارڈ کیا گیا ہے جس میں **7,000 سے زائد کیسز** اور تقریباً **3,400 اموات** ہو چکی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439249/worst-dr-congo-ebola-epidemic-ever-passes-7000-cases)*
 
