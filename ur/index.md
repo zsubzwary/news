@@ -7,37 +7,39 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Sep-2026 09:08PKT 
+ &lrm; 13-Sep-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- فیڈرل بورڈ آف ریونیو (FBR) نے یکم جولائی 2026 سے تین پیٹرولیم مصنوعات (پیٹرولیم ٹاپ نافتھا، وائٹ سپرٹ/منرل ٹرپنٹ آئل، اور سالوینٹ آئل) پر **80 روپے فی لیٹر** فیڈرل ایکسائز ڈیوٹی (FED) عائد کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products)*
-- وزیر اعظم شہباز شریف نے تقریباً **108,000 میٹرک ٹن** درآمد شدہ چینی برآمد کرنے کے فیصلے کا دفاع کرتے ہوئے اسے شیلف لائف ختم ہونے سے ہونے والے مالی نقصان سے بچنے کے لیے ضروری قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar)*
-- پاکستان اور افریقی ممالک کے درمیان قائم ہونے والے 'پاکستان افریقہ اکنامک کونسل' (PAEC) کا مقصد **2030 تک** دوطرفہ تجارت کو **15 ارب ڈالر** تک پہنچانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439236/paec-launched-to-raise-trade-to-usd15bn-by-2030)*
-- نیپرا (Nepra) کے چیئرمین وسیم مختار نے بجلی کی طلب کے تخمینوں میں ISMO، DISCOs اور CPPA-G کے درمیان فرق پر تشویش کا اظہار کرتے ہوئے شفاف طریقہ کار کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections)*
-- وفاقی وزیر تجارت جام کمال خان نے ہانگ کانگ میں بی آر آئی (BRI) سمٹ کے موقع پر علاقائی رابطوں اور غذائی تحفظ پر علاقائی رہنماؤں سے ملاقاتیں کیں۔ *[Business Recorder](https://www.brecorder.com/news/40439234/bri-summit-jam-focuses-on-regional-connectivity-food-security)*
+- سعودی عرب کی اہم پائپ لائن میں خرابی کی وجہ سے عالمی تیل کی سپلائی میں 4 فیصد کمی کا خطرہ پیدا ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439290/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply)*
+- وزیر اعظم شہباز شریف نے موٹر سائیکل، رکشہ اور چھوٹی گاڑیوں کے صارفین کے لیے فی لیٹر 100 روپے کے خصوصی ایندھن ریلیف کا اعلان کیا ہے، جبکہ حال ہی میں پٹرول کی قیمت میں 3.05 روپے اور ڈیزل میں 5.37 روپے کا اضافہ کیا گیا تھا۔ *[Business Recorder](https://www.brecorder.com/news/40439285/pm-shehbaz-announces-rs100-per-litre-fuel-relief-for-bikes-rickshaws-small-cars)*
+- جرمن کمپنیوں نے چین میں اپنی سرمایہ کاری میں ایک تہائی اضافہ کیا ہے، جس کے تحت انہوں نے گزشتہ سال کے مقابلے میں 5.6 ارب یورو ($6.50 ارب ڈالر) زیادہ سرمایہ کاری کی ہے جبکہ امریکہ میں سرمایہ کاری کم کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439281/german-firms-lift-china-investment-as-us-outlays-fall-iw-study-shows)*
 
 ### سائنس اور ٹیکنالوجی
-- وزیر مملکت بلال بن ثاقب نے اقوام متحدہ میں ڈیجیٹل اثاثوں اور بلاک چین کے ذریعے پائیدار ترقی کے لیے عالمی تعاون کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439233/pakistan-calls-for-global-cooperation-on-digital-assets)*
-- آئی ٹی وزیر شذا فاطمہ خواجہ نے آئی ٹی برآمدات کے **15 ارب ڈالر** کے ہدف کو حاصل کرنے کے لیے آئی ٹی سیکٹر کو بلا تعطل انٹرنیٹ فراہم کرنے کا منصوبہ تیار کرنے کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza)*
+- اوپن اے آئی (OpenAI) کے سی ای او سیم آلٹمین نے اعلان کیا ہے کہ کمپنی 2026 میں آئی پی او (IPO) نہیں کرے گی، اور انہوں نے مصنوعی ذہانت (AI) سے انسانیت کے خاتمے کے 10 فیصد خطرے کو "غیر قابل قبول" قرار دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439271/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable)*
 
-### سیاست
-- وزیراعلیٰ پنجاب مریم نواز شریف نے ہر شہر اور گاؤں کی ترقی کو حکومت کا مشن قرار دیتے ہوئے پاکپتن کی ترقیاتی سرگرمیوں کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439237/development-amp-improvement-of-every-city-amp-village-govts-mission-maryam)*
-- چیف جسٹس پاکستان یحییٰ آفریدی نے کہا کہ ضلعی عدلیہ انصاف کے نظام کی ریڑھ کی ہڈی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439245/cjp-says-district-judiciary-backbone-of-justice-system)*
-- الیکشن کمیشن نے **4 افسران** کو BS-19 سے BS-20 تک ترقی دی اور **65 افسران** کی تنظیم نو (reshuffle) کی۔ *[Business Recorder](https://www.brecorder.com/news/40439246/four-ecp-officers-promoted-65-shuffled)*
-- وفاقی حکومت نے کیپٹن محمد سہیل چوہدری (BS-20) کو اسلام آباد کا نیا آئی جی پی (IGP) مقرر کیا، جو سید علی ناصر رضوی کی جگہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439248/sohail-chaudhry-made-islamabad-igp)*
-- چین میں پاکستان کے نامزد سفیر علی اسد گیلانی نے نائب وزیراعظم اسحاق ڈار سے ملاقات کی تاکہ دوطرفہ تعلقات کو مزید مضبوط بنایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm)*
+### قومی
+- وزیر اعظم شہباز شریف نے سعودی عرب کے ولی عہد سے ٹیلی فون پر گفتگو کی اور سعودی شہری اور معاشی ڈھانچے پر حوثی حملوں کی شدید مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439286/pm-shehbaz-condemns-houthi-attacks-on-saudi-arabia-in-call-with-crown-prince)*
+- کراچی کے علاقے گل بہی شیر شاہ میں سیکیورٹی فورسز اور دہشت گردوں کے درمیان ہونے والے ایک آپریشن میں ایک انتہائی مطلوب دہشت گرد ہلاک کر دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439276/security-forces-kill-highly-wanted-terrorist-in-karachi-operation)*
 
 ### بین الاقوامی
-- عراق نے Ajil آئل فیلڈ کی ترقی کے لیے KEPPT کے ساتھ **25 سالہ معاہدہ** کیا ہے، جس کا مقصد گیس کی پیداوار کو **300 ملین** سٹینڈرڈ کیوبک فٹ اور تیل کی پیداوار کو **40,000 بیرل روزانہ** تک بڑھانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439238/iraq-signs-25-year-deal-to-develop-ajil-oilfield)*
-- سعودی عرب نے ڈرون حملے کے بعد اپنے ایسٹ-ویسٹ آئل پائپ لائن کو حفاظتی طور پر بند کر دیا ہے، جس سے توانائی کی قیمتوں میں اضافے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline)*
-- سعودی پائپ لائن پر حملے کے بعد عراق نے ایران کے ساتھ **تین سرحدی گزرگاہیں** بند کر دی ہیں اور مسن صوبے کے فوجی کمانڈر کو برطرف کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439241/iraq-closes-three-iran-crossings-after-drone-launch)*
-- بی آر آئی سی ایس (BRICS) ممالک بشمول چین اور روس نے نئی دہلی میں ہونے والی سمٹ میں مشرق وسطیٰ میں تحمل اختیار کرنے کی اپیل کی۔ *[Business Recorder](https://www.brecorder.com/news/40439242/brics-nations-urge-maximum-restraint)*
-- بھارتی وزیر اعظم نریندر مودی اور چینی صدر شی جن پنگ نے نئی دہلی میں ملاقات کی اور تجارتی روابط اور سرحدی امن بڑھانے کا عزم کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439243/modi-xi-push-business-links-border-peace-as-ties-revive)*
-- امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ کینیڈا کے ساتھ تجارتی معاہدہ جلد ممکن ہے، تاہم انہوں نے کینیڈا سے امریکی کسانوں پر سے ٹیرف ختم کرنے کا مطالبہ بھی کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439239/trump-says-us-canada-trade-deal-likely-fairly-soon)*
-- پاکستان نے سعودی عرب کی ایسٹ-ویسٹ پائپ لائن پر ہونے والے ڈرون حملوں کی سخت مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439247/pakistan-condemns-attacks-on-ksa)*
+- ایران اور خلیجی ریاستوں کے درمیان عمان کے شہر سلالہ میں ہونے والی ملاقات کا مقصد مشرق وسطیٰ میں سیکورٹی تعاون کو مضبوط بنانا اور اسٹریٹ آف ہرمز کے معاملات پر بات چیت کرنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439292/iran-says-oman-meeting-aims-to-boost-security-cooperation)*
+- ڈونلڈ ٹرمپ کا کہنا ہے کہ نومبر میں ہونے والے امریکی وسط مدتی انتخابات کے فوراً بعد ایران کے ساتھ جنگ ختم ہو سکتی ہے، جس کے نتیجے میں تیل کی قیمتوں میں بڑی کمی آئے گی۔ *[Business Recorder](https://www.brecorder.com/news/40439291/trump-reiterates-that-he-sees-iran-war-ending-after-us-midterm-elections)*
+- متحدہ عرب امارات کی جانب سے ایران کے ساتھ تجارتی روابط معطل ہونے کے باوجود دبئی کے بازاروں میں ایرانی اشیاء (زعفران، زیرہ، پستے وغیرہ) کی تجارت کا سلسلہ جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439288/irans-economic-ties-to-dubai-hard-to-break-despite-war)*
+- غزہ میں اسرائیلی فضائی حملے کے نتیجے میں کم از کم دو فلسطینی جاں بحق اور 13 افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40439284/israeli-strike-kills-two-people-in-gaza-medics-say)*
+- فلپائن میں ایک جہاز میں آگ لگنے کے نتیجے میں 76 افراد ہلاک ہو گئے ہیں، جن کی شناخت میں کئی ماہ لگ سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439280/philippine-ferry-fire-victims-may-take-months-to-identify-authorities-say)*
+- روسی ایٹمی ادارے کے سربراہ نے الزام لگایا ہے کہ یوکرین نے ڈیزل کے ٹرکوں پر حملہ کر کے زاپوریژیا ایٹمی پلانٹ کی حفاظت کو خطرے میں ڈال دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439279/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant)*
+- یوکرین کے شہر اودیسا پر روسی ڈرون حملے میں کم از کم پانچ افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40439278/russian-drone-attack-injures-five-in-ukraines-odesa-officials-say)*
 
-### صحت
-- جمہوریہ کانگو (DR Congo) میں ایبولا کا اب تک کا بدترین حملہ ریکارڈ کیا گیا ہے جس میں **7,000 سے زائد کیسز** اور تقریباً **3,400 اموات** ہو چکی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439249/worst-dr-congo-ebola-epidemic-ever-passes-7000-cases)*
+### کھیل
+- پاکستان نے ملائیشیا کو 4-2 سے شکست دے کر جونیئر ایشیا کپ ہاکی میں کانسی کا تمغہ جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439283/pakistan-fight-back-from-two-goal-deficit-to-beat-malaysia-win-junior-asia-cup-bronze)*
+- انگلینڈ کے ہاتھوں سیریز ہارنے کے بعد پاکستان کی آئی سی سی ٹیسٹ رینکنگ گر کر 9 ویں نمبر پر پہنچ گئی ہے، جو اس کی تاریخ کی بدترین رینکنگ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439277/pakistan-slip-to-ninth-place-in-test-rankings-after-england-whitewash)*
+- ایلینا ریباکینا نے یو ایس اوپن کے فائنل میں اے رینا سابالینکا کو 6-4، 5-7، 6-2 سے شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40439275/sabalenka-feels-weight-of-three-peat-in-us-open-final-loss)*
+- یو ایس اوپن کے مردوں کے فائنل کے ٹکٹوں کی قیمتوں میں 27 فیصد کمی دیکھی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439274/ticket-prices-for-shelton-zverev-us-open-final-down-27)*
+- یو ایس اوپن کے فائنل میں بین شیلتن اور الیگزینڈر زویر کے درمیان مقابلہ ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40439273/shelton-bids-to-end-us-mens-major-drought-in-final-with-zverev)*
+- انگلینڈ کے کپتان جو روٹ نے پاکستان کے خلاف 3-0 کی سیریز جیت کے بعد اپنی ٹیم کی کارکردگی پر اطمینان کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439272/root-pleased-with-englands-response-to-unusual-summer)*
+
+### دیگر
+- مشہور گلوکارہ سیلین ڈیون نے چھ سال کے وقفے کے بعد پیرس میں اپنے کنسرٹ کے ذریعے اسٹیج پر شاندار واپسی کی۔ *[Business Recorder](https://www.brecorder.com/news/40439282/paris-cheers-the-power-of-celine-dion)*
 
