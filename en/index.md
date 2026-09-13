@@ -4,37 +4,40 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 13-Sep-2026 09:03PKT
+Published at: 13-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Federal Board of Revenue (FBR) has imposed a Federal Excise Duty (FED) of **Rs 80 per litre** on three petroleum products: petroleum top naphtha, white spirit/mineral turpentine oil (MTT), and solvent oil, effective July 1, 2026. *[Business Recorder](https://www.brecorder.com/news/40439231/fbr-slaps-rs80litre-fed-on-3-pol-products)*
-- Nepra Chairman Waseem Mukhtar has called for transparent demand projections from ISMO, DISCOs, and CPPA-G to align generation capacity with electricity demand in the **Integrated System Plan (ISP) 2025-35**. *[Business Recorder](https://www.brecorder.com/news/40439232/gaps-in-demand-estimates-nepra-chief-calls-for-transparent-power-generation-projections)*
-- The government is finalizing a plan to provide whitelisted, uninterrupted internet access to the IT sector to help achieve a **$15 billion** export target. *[Business Recorder](https://www.brecorder.com/news/40439244/it-sector-govt-finalising-plan-to-ensure-uninterrupted-internet-access-shaza)*
-- Prime Minister Shehbaz Sharif defended the decision to export approximately **108,000 metric tonnes (MT)** of imported sugar to prevent financial losses caused by the approaching expiry of the commodity's shelf life. *[Business Recorder](https://www.brecorder.com/news/40439235/pm-defends-decision-to-export-imported-sugar)*
-- The Pakistan-Africa Economic Council (PAEC) was launched with a target to increase bilateral trade to **USD 15 billion by 2030**. *[Business Recorder](https://www.brecorder.com/news/40439236/paec-launched-to-raise-trade-to-usd15bn-by-2030)*
-- Bilal Bin Saqib, Chairman of the Pakistan Virtual Assets Regulatory Authority (PVARA), called for global cooperation on regulatory frameworks for digital assets during a session at the United Nations. *[Business Recorder](https://www.brecorder.com/news/40439233/pakistan-calls-for-global-cooperation-on-digital-assets)*
+- A potential outage of a major Saudi Arabian pipeline to the Red Sea threatens a loss of up to **4% of the global oil supply**, which could worsen global supply crunches and drive fuel prices to record highs. *[Business Recorder](https://www.brecorder.com/news/40439290/saudi-pipeline-outage-threatens-loss-of-4-of-global-oil-supply)*
+- Prime Minister Shehbaz Sharif announced a **Rs. 100 per litre** fuel relief scheme for motorcycle, rickshaw, and small-car users, following recent price hikes of **Rs. 3.05 per litre** for petrol and **Rs. 5.37 per litre** for high-speed diesel (HSD). *[Business Recorder](https://www.brecorder.com/news/40439285/pm-shehbaz-announces-rs100-per-litre-fuel-relief-for-bikes-rickshaws-small-cars)*
+- German firms increased their investment in China by **€5.6 billion ($6.50 billion)** during the first half of 2026, while simultaneously reducing outlays in the United States. *[Business Recorder](https://www.brecorder.com/news/40439281/german-firms-lift-china-investment-as-us-outlays-fall-iw-study-shows)*
+
+### Science & Technology
+- OpenAI CEO Sam Altman announced the company will **not launch an IPO in 2026**, citing "unacceptable" safety risks regarding the potential for artificial intelligence to cause human extinction by the end of the decade. *[Business Recorder](https://www.brecorder.com/news/40439271/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable)*
 
 ### Politics
-- Punjab Chief Minister Maryam Nawaz Sharif stated the provincial government is focused on the development of all cities and villages, highlighting recent progress in **Pakpattan**. *[Business Recorder](https://www.brecorder.com/news/40439237/development-amp-improvement-of-every-city-amp-village-govts-mission-maryam)*
-- The Election Commission of Pakistan (ECP) promoted four officers from **BS-19 to BS-20**, including Khurshid Alam, who was promoted to the newly created position of Additional Director, and reshuffled 65 other officers. *[Business Recorder](https://www.brecorder.com/news/40439246/four-ecp-officers-promoted-65-shuffled)*
-- Chief Justice of Pakistan (CJP) Justice Yahya Afridi emphasized the need for well-supported and professionally equipped judicial officers to maintain a responsive district judiciary. *[Business Recorder](https://www.brecorder.com/news/40439245/cjp-says-district-judiciary-backbone-of-justice-system)*
-- Ambassador-designate to China, Ali Asad Gilani, met with Deputy Prime Minister and Foreign Minister Senator Mohammad Ishaq Dar to discuss deepening the All-Weather Strategic Cooperative Partnership. *[Business Recorder](https://www.brecorder.com/news/40439250/ambassador-appointed-to-china-meets-dpm)*
+- Prime Minister Shehbaz Sharif held a telephone conversation with Saudi Crown Prince Mohammed bin Salman to condemn **Houthi attacks** on Saudi Arabia’s civilian and economic infrastructure. *[Business Recorder](https://www.brecorder.com/news/40439286/pm-shehbaz-condemns-houthi-attacks-on-saudi-arabia-in-call-with-crown-prince)*
 
 ### National
-- Federal Minister for Commerce Jam Kamal Khan held bilateral meetings with counterparts from **Sri Lanka, Bangladesh, and Qatar** at the BRI Summit to discuss trade, connectivity, and food security. *[Business Recorder](https://www.brecorder.com/news/40439234/bri-summit-jam-focuses-on-regional-connectivity-food-security)*
-- Muhammad Sohail Chaudhry (BS-20) has been appointed as the Inspector General of Police (IGP) for Islamabad, replacing Syed Ali Nasir Rizvi. *[Business Recorder](https://www.brecorder.com/news/40439248/sohail-chaudhry-made-islamabad-igp)*
+- Pakistan Rangers and the Counter Terrorism Department (CTD) killed a **highly wanted terrorist** during a joint intelligence-based operation in the Gulbai Sher Shah area of Karachi. *[Business Recorder](https://www.brecorder.com/news/40439276/security-forces-kill-highly-wanted-terrorist-in-karachi-operation)*
 
 ### International
-- Iraq's North Oil Company signed a **25-year contract** with KEPPT to develop the Ajil oilfield, aiming to raise gas output to **300 million standard cubic feet per day** and oil production to **40,000 barrels per day**. *[Business Recorder](https://www.brecorder.com/news/40439238/iraq-signs-25-year-deal-to-develop-ajil-oilfield)*
-- Saudi Arabia temporarily shut down its **1,200-km East-West oil pipeline** following a drone attack originating from Iraq. *[Business Recorder](https://www.brecorder.com/news/40439240/saudi-arabia-shuts-down-east-west-oil-pipeline)*
-- Iraq closed **three border crossings** with Iran and dismissed the military commander in Missan province following drone attacks targeting the Saudi Arabian pipeline. *[Business Recorder](https://www.brecorder.com/news/40439241/iraq-closes-three-iran-crossings-after-drone-launch)*
-- The 11-nation BRICS group, including leaders from China, Russia, Iran, and India, issued a joint statement at a New Delhi summit calling for "maximum restraint" in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40439242/brics-nations-urge-maximum-restraint)*
-- Indian Prime Minister Narendra Modi and Chinese President Xi Jinping met on the sidelines of the BRICS summit to pledge the rebuilding of business and transport links. *[Business Recorder](https://www.brecorder.com/news/40439243/modi-xi-push-business-links-border-peace-as-ties-revive)*
-- The Pakistan Foreign Office issued a statement condemning the drone attacks on the East-West Pipeline in the Riyadh and Madinah regions of Saudi Arabia as a violation of international law. *[Business Recorder](https://www.brecorder.com/news/40439247/pakistan-condemns-attacks-on-ksa)*
-- US President Donald Trump indicated a trade deal with Canada could arrive "fairly soon" but demanded the removal of tariffs on US farmers. *[Business Recorder](https://www.brecorder.com/news/40439239/trump-says-us-canada-trade-deal-likely-fairly-soon)*
+- Iran is scheduled to meet with Gulf states in **Salalah, Oman**, to discuss security cooperation and the strategic importance of the **Strait of Hormuz**. *[Business Recorder](https://www.brecorder.com/news/40439292/iran-says-oman-meeting-aims-to-boost-security-cooperation)*
+- US President Donald Trump expressed his expectation that the Iran war will conclude following the **US midterm elections in November**, suggesting this could lead to a significant drop in gasoline prices. *[Business Recorder](https://www.brecorder.com/news/40439291/trump-reiterates-that-he-sees-iran-war-ending-after-us-midterm-elections)*
+- Despite the UAE's recent suspension of trade and financial exchanges with Tehran, Iranian merchants continue to maintain strong economic ties in **old Dubai** through the trade of goods like saffron and pistachios. *[Business Recorder](https://www.brecorder.com/news/40439288/irans-economic-ties-to-dubai-hard-to-break-despite-war)*
+- An Israeli airstrike in the **Tel Al-Hawa** neighborhood of western Gaza City killed at least **two Palestinians** and wounded **13 others**. *[Business Recorder](https://www.brecorder.com/news/40439284/israeli-strike-kills-two-people-in-gaza-medics-say)*
+- A maritime disaster in the Philippines involving a ferry fire resulted in the deaths of **76 people**, with authorities warning that identification via DNA may take months. *[Business Recorder](https://www.brecorder.com/news/40439280/philippine-ferry-fire-victims-may-take-months-to-identify-authorities-say)*
+- Russia’s state nuclear energy corporation accused Ukraine of attacking diesel fuel trucks, resulting in the deaths of **two Russian servicemen** and endangering the **Zaporizhzhia nuclear power plant**. *[Business Recorder](https://www.brecorder.com/news/40439279/russian-nuclear-head-says-ukraine-attacked-fuel-trucks-endangered-zaporizhzhia-plant)*
+- A Russian drone attack on the Ukrainian city of **Odesa** wounded at least **five people** and caused damage to residential districts. *[Business Recorder](https://www.brecorder.com/news/40439278/russian-drone-attack-injures-five-in-ukraines-odesa-officials-say)*
 
-### Health
-- The Democratic Republic of Congo has recorded more than **7,000 Ebola cases** in its current outbreak, resulting in nearly **3,400 deaths**. *[Business Recorder](https://www.brecorder.com/news/40439249/worst-dr-congo-ebola-epidemic-ever-passes-7000-cases)*
+### Sports
+- Pakistan secured the **bronze medal** at the 2026 Men’s Hockey Junior Asia Cup in China after defeating Malaysia **4-2**. *[Business Recorder](https://www.brecorder.com/news/40439283/pakistan-fight-back-from-two-goal-deficit-to-beat-malaysia-win-junior-asia-cup-bronze)*
+- Following a series whitewash by England, Pakistan's Test cricket team has dropped to **9th place** in the ICC Test rankings, its lowest position in history. *[Business Recorder](https://www.brecorder.com/news/40439277/pakistan-slip-to-ninth-place-in-test-rankings-after-england-whitewash)*
+- Elena Rybakina defeated Aryna Sabalenka with a score of **6-4, 5-7, 6-2** to win the US Open women's final. *[Business Recorder](https://www.brecorder.com/news/40439275/sabalenka-feels-weight-of-three-peat-in-us-open-final-loss)*
+- Ticket prices for the US Open men's final between **Ben Shelton** and **Alexander Zverev** saw a decrease of **27%**. *[Business Recorder](https://www.brecorder.com/news/40439274/ticket-prices-for-shelton-zverev-us-open-final-down-27)*
+- England completed a **3-0 series shutout** against Pakistan in Test cricket under the captaincy of Joe Root. *[Business Recorder](https://www.brecorder.com/news/40439272/root-pleased-with-englands-response-to-unusual-summer)*
+
+### Other
+- Celine Dion made her first stage appearance in six years in Paris, marking her return following her **2022 diagnosis** of stiff person syndrome. *[Business Recorder](https://www.brecorder.com/news/40439282/paris-cheers-the-power-of-celine-dion)*
 
