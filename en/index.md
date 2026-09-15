@@ -4,51 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Sep-2026 09:03PKT
+Published at: 15-Sep-2026 21:05PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Wall Street experienced a decline as concerns regarding AI development impacted chipmakers. *[ARY](https://arynews.tv/wall-street-drops-as-ai-worries-pummel-chipmakers)*
-- OGRA has issued a notification for a hike in both petrol and diesel prices. *[ARY](https://arynews.tv/petrol-price-diesel-rate-hiked-further-as-ogra-issues-notification)*
-- The Government of Pakistan is pushing state-owned enterprises (SOEs) to adopt better financial discipline and governance. *[ARY](https://arynews.tv/pakistan-pushes-state-owned-enterprises-to-improve-financial-discipline-and-governance)*
-- The Canadian dollar hit a 12-day low following inflation data that met market expectations. *[ARY](https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations)*
-- KP wheat reserves have dropped to 189,000 tonnes, raising supply concerns. *[ARY](https://arynews.tv/kp-wheat-reserves-drop-to-189000-tonnes-amid-supply-concerns)*
-- The Indian rupee fell by more than 1% last week, closing at 95.55 per dollar, while Brent crude remains above $100 a barrel. *[Business Recorder](https://www.brecorder.com/news/40439547/indian-rupee-bonds-eye-fed-decision-rate-outlook)*
-- Houthi attacks on Saudi energy infrastructure could disrupt up to 4% of the global oil supply. *[Business Recorder](https://www.brecorder.com/news/40439546/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings)*
-- The US Dollar is trading near a two-week high as surging oil prices bolster expectations of a US Federal Reserve interest rate hike. *[Business Recorder](https://www.brecorder.com/news/40439544/dollar-near-two-week-high-as-oil-surge-lifts-yields-fed-hike-bets)*
-- Oil prices rose on Tuesday, with Brent crude futures increasing by 1.18% to $106.93 a barrel and US WTI futures up 1.24% to $102.65 a barrel. *[Business Recorder](https://www.brecorder.com/news/40439536/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns)*
-- The Punjab Revenue Authority (PRA) will establish a Digital Central Monitoring Cell to track business records and curb tax evasion, specifically targeting food chains. *[Business Recorder](https://www.brecorder.com/news/40439533/pra-to-set-up-digital-cell-to-curb-tax-evasion)*
+- India's July balance of payments recorded a **$20.8 billion surplus** (up from $0.3 billion last year) driven by foreign-exchange inflows, despite a **$7 billion current account deficit**; net transfers rose to **$13.2 billion**. *[Business Recorder](https://www.brecorder.com/news/40439610/indias-july-balance-of-payments-surplus-jumps-to-208-billion-on-surge-in-fx-inflows)*
+- Nigeria's NLNG aims to start its **$10 billion Train 7 LNG project** by the end of 2027, which will increase capacity from 22 million to **30 million metric tons per year**. *[Business Recorder](https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027)*
+- India's benchmark **Nifty 50 fell 1.19% to 23,118.6**, marking a 5-month low due to elevated oil prices and bond yields. *[Business Recorder](https://www.brecorder.com/news/40439593/indias-nifty-50-closes-at-5-month-low-on-elevated-oil-prices-bond-yields)*
+- Sri Lanka’s economy grew by **4.2% year-on-year** in Q2, with industry expanding by **7.3%**, agriculture by **2.3%**, and services by **2.7%**. *[Business Recorder](https://www.brecorder.com/news/40439599/sri-lankas-economy-grew-42-in-q2-despite-pressures-from-iran-war)*
+- India's August goods trade deficit narrowed to **$26.86 billion** as gold imports saw a sharp decline. *[Business Recorder](https://www.brecorder.com/news/40439592/indias-august-goods-trade-deficit-narrows-as-gold-imports-plunge)*
+- Malaysian palm oil futures rose **0.68% to 4,883 ringgit** per metric ton following increases in crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40439596/palm-oil-gains-for-second-straight-session-on-crude-prices)*
+- Brent crude rose more than 2% to **$108.20 a barrel**, impacting global inflation concerns. *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
+- London's **FTSE 100 index fell 0.59% to 10,634.49 points** as rising oil prices lifted bond yields. *[Business Recorder](https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus)*
+- Saudi Arabia’s benchmark index dropped **0.9%**, weighed down by a **1.3% fall in Saudi Arabian Mining Company** and a **0.6% dip in Saudi Aramco**. *[Business Recorder](https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump)*
+- Pakistan-born executive Sabir Sami, former global CEO of KFC (Jan 2022–Feb 2025), has been appointed to the board of **Chipotle Mexican Grill**. *[Business Recorder](https://www.brecorder.com/news/40439612/who-is-sabir-sami-pakistan-born-former-kfc-ceo-appointed-to-chipotles-board)*
+- India is considering levying charges on **UPI transactions exceeding 2,000 rupees** following recent legislative changes. *[Business Recorder](https://www.brecorder.com/news/40439600/india-consults-banks-payment-firms-on-fees-for-large-upi-payments-sources-say)*
+- Moody's has revised Bangladesh’s credit outlook to **“stable”** from “negative” due to easing political pressures. *[Business Recorder](https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures)*
+- The State Bank of Pakistan (SBP) concluded its first **Regulatory Sandbox cohort**, with **four fintechs** clearing testing in remittances, open banking, and merchant onboarding. *[Business Recorder](https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing)*
+- Minister Musadik Malik stated that **Rs. 2,000 petrol relief** provides essential food security for poor families. *[ARY](https://arynews.tv/rs2000-petrol-relief-could-mean-food-on-the-table-for-poor-families-musadik-malik)*
+- An announcement has been made regarding the **Rs. 200 prize bond draw**. *[ARY](https://arynews.tv/rs-200-prize-bond-draw-announced-see-full-list-here)*
+- Kuwait is seeking a **multi-billion dollar subterranean pipeline network** to protect global crude market supplies. *[ARY](https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies)*
+- Traders are increasing bets on an **October rate hike by the Reserve Bank of India** as inflation and oil prices rise. *[Business Recorder](https://www.brecorder.com/news/40439606/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets)*
 
 ### Science & Technology
-- Pakistan is working toward the development of a national open-source education data platform. *[ARY](https://arynews.tv/pakistan-moves-to-build-national-open-source-education-data-platform)*
+- Investors have expressed growing nervousness regarding a potential **slowdown in global AI spending** following industry warnings. *[ARY](https://arynews.tv/investors-nervous-about-ai-spending-slowdown-after-industry-warnings)*
 
 ### Politics
-- Acting PTI chairman Gohar Ali Khan warned against the use of force during the party's planned September 27 march in Islamabad. *[Business Recorder](https://www.brecorder.com/news/40439540/september-27-march-gohar-warns-against-potential-use-of-force-against-pti-workers)*
-- The Election Commission of Pakistan (ECP) has rescheduled two cases against the Pashtunkhwa Milli Awami Party (PkMAP) until next month. *[Business Recorder](https://www.brecorder.com/news/40439541/ecp-reschedules-two-cases-against-pkmap-till-next-month)*
-- An Anti-Terrorism Court (ATC) ordered the blocking of passports for 24 parliamentarians, including KP Chief Minister Sohail Afridi and PTI provincial president Junaid Akbar. *[Business Recorder](https://www.brecorder.com/news/40439539/atc-orders-blocking-of-passports-for-afridi-other-pti-mps)*
-- Chief of Defence Forces Field Marshal Syed Asim Munir reaffirmed Pakistan's commitment to strengthening bilateral ties with Lebanon during a meeting with Lebanese Minister Ahmad Al Hajjar. *[Business Recorder](https://www.brecorder.com/news/40439538/cdf-reaffirms-commitment-to-stronger-ties-with-lebanon)*
-- Federal Minister Mohammad Hanif Abbasi called for national unity and accused Afghanistan of serving as a hub for foreign-sponsored terrorism. *[Business Recorder](https://www.brecorder.com/news/40439534/regional-adversaries-cannot-undermine-national-security-abbasi)*
-- KP Chief Minister Sohail Afridi staged a protest inside a police van in Lahore following the arrest of senior PTI leaders. *[Business Recorder](https://www.brecorder.com/news/40439537/kp-cm-stages-protest-in-police-van-after-arrest-of-pti-leaders)*
-- The Federal Constitutional Court (FCC) issued a notice to KP CM Sohail Afridi regarding a petition filed by Sher Afzal Khan Marwat challenging his appointment. *[Business Recorder](https://www.brecorder.com/news/40439528/plea-of-marwat-fcc-issues-notice-to-afridi)*
-- National Assembly Speaker Sardar Ayaz Sadiq highlighted the importance of democratic institutions on the International Day of Democracy. *[Business Recorder](https://www.brecorder.com/news/40439535/international-day-of-democracy-today-speaker-says-strong-democratic-system-guarantee-of-prosperous-future)*
-- French Ambassador Nicolas Galey paid a farewell call on President Asif Ali Zardari. *[Business Recorder](https://www.brecorder.com/news/40439529/france-ambassador-pays-farewell-calls-on-president)*
+- Pakistan and Lebanon have agreed to deepen **diplomatic and security cooperation** following meetings between Lebanon’s Interior Minister and Pakistani officials, including Ishaq Dar and Mohsin Naqvi. *[Business Recorder](https://www.brecorder.com/news/40439608/pakistan-lebanon-agree-to-deepen-diplomatic-security-ties)*
 
 ### National
-- ARY News obtained the sale deeds for plots 503 and 504 of the Idara Noor-e-Haq building. *[ARY](https://arynews.tv/idara-noor-e-haq-building-sale-deeds-of-plots-503-504-obtained-by-ary-news)*
-- The Inter Boards Coordination Commission (IBCC) stated that the NCCIA found no evidence that Cambridge exam paper leakages originated from Pakistan. *[Business Recorder](https://www.brecorder.com/news/40439532/cambridge-exam-papers-nccia-found-no-evidence-of-leakage-from-pakistan-ibcc)*
+- The Punjab government has approved the implementation of **digital credentials for arms licences**. *[ARY](https://arynews.tv/punjab-approves-digital-credentials-for-arms-licences)*
+- A 43-page inquiry into the **PIMS fire** held the hospital administration responsible for safety failures that caused the **deaths of 14 newborn babies**. *[Business Recorder](https://www.brecorder.com/news/40439603/pims-fire-inquiry-report-finds-major-safety-failures-behind-deaths-of-newborns)*
+- A firing demo video of **MLO Dr. Osama** has surfaced in connection to the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-mlo-dr-osamas-firing-demo-video-surfaces)*
 
 ### International
-- Saudi Arabia has warned it will react "firmly" to ongoing Houthi attacks. *[ARY](https://arynews.tv/saudi-arabia-warns-it-will-react-firmly-to-houthi-attacks)*
-- The US military reported that the war with Iran has resulted in a munitions shortfall. *[ARY](https://arynews.tv/us-military-says-iran-war-has-led-to-munitions-shortfall)*
-- Yemen's Houthis launched new missile and drone attacks on Saudi Arabia, prompting urgent deliberations in Riyadh. *[Business Recorder](https://www.brecorder.com/news/40439548/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall)*
-- Gulf Arab states have postponed planned talks with Iran amid concerns over Middle East conflict expansion and oil supply threats. *[Business Recorder](https://www.brecorder.com/news/40439548/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall)*
+- The UN reports that over **100,000 people** have been internally displaced by the renewed Yemen conflict, with thousands more fleeing to Djibouti. *[Business Recorder](https://www.brecorder.com/news/40439611/yemen-conflict-displaces-over-100000-people-un-says)*
+- The **Indian rupee settled at 95.9550 per dollar**, its weakest level in over a month, amid concerns over oil prices and US Fed policy. *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
+- The Reserve Bank of India (RBI) has filed a caveat to be heard regarding the **listing of Tata Sons** after rejecting its bid to deregister as an NBFC. *[Business Recorder](https://www.brecorder.com/news/40439604/rbi-files-caveat-after-rejecting-tata-sons-bid-to-avoid-listing-source-says)*
 
 ### Sports
-- The National Under-19 Championship is commencing, featuring 20 teams from 16 cricket regions and approximately 400 players. *[Business Recorder](https://www.brecorder.com/news/40439531/national-u-19-championship-to-commence-from-today)*
+- Michael Carrick has urged **Manchester United** to use the "pain" from their recent derby to fuel their upcoming match against Brighton. *[ARY](https://arynews.tv/carrick-urges-man-utd-to-use-derby-pain-as-fuel-against-brighton)*
 
-### Health
-- Tylenol manufacturer and various pharmacy chains are urging a US appeals court to revisit a decision regarding an alleged link to autism. *[ARY](https://arynews.tv/tylenol-maker-pharmacy-chains-urge-us-appeals-court-to-revisit-decision-over-alleged-autism-link)*
-- The deadline for the implementation of the NADRA-integrated vaccination card for Umrah pilgrims has been extended to September 25, 2026. *[Business Recorder](https://www.brecorder.com/news/40439542/umrah-pilgrims-deadline-for-vaccination-card-extended)*
-- The Sindh Drug Court rejected the interim bail applications of four individuals (Ijaz, Rafiq, Younis, and Muaz) in a case involving the sale of unregistered and substandard medicines. *[Business Recorder](https://www.brecorder.com/news/40439527/unregistered-medicines-case-drug-court-rejects-interim-bail-of-four)*
+### Other
+- Oman’s **Muttrah cable car** has cleared global safety tests and is nearing its official launch. *[ARY](https://arynews.tv/omans-muttrah-cable-car-clears-global-safety-test-nears-launch)*
+- Detailed information regarding the **Germany skilled worker visa process** has been provided. *[ARY](https://arynews.tv/germany-skilled-worker-visa-process-explained)*
 
