@@ -7,46 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 15-Sep-2026 09:08PKT 
+ &lrm; 15-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- وال اسٹریٹ میں مصنوعی ذہانت (AI) سے متعلق خدشات کے باعث چپ بنانے والی کمپنیوں کے حصص میں گراوٹ دیکھی گئی۔ *[ARY](https://arynews.tv/wall-street-drops-as-ai-worries-pummel-chipmakers)*
-- او جی آر اے (OGRA) کی جانب سے نوٹیفکیشن جاری کیے جانے کے بعد پٹرول اور ڈیزل کی قیمتوں میں مزید اضافہ کر دیا گیا۔ *[ARY](https://arynews.tv/petrol-price-diesel-rate-hiked-further-as-ogra-issues-notification)*
-- کینیڈین ڈالر مہنگائی کے ڈیٹا کے توقعات کے مطابق آنے کے بعد 12 روزہ کم ترین سطح پر پہنچ گیا۔ *[ARY](https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations)*
-- تیل کی قیمتوں میں اضافے اور امریکی فیڈرل ریزرو کے ریٹ میں اضافے کے امکانات کے باعث بھارتی روپیہ گزشتہ ہفتے 1 فیصد سے زائد گر کر 95.55 فی ڈالر پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439547/indian-rupee-bonds-eye-fed-decision-rate-outlook)*
-- ایشیائی حصص میں تیل کی قیمتوں میں اضافے اور مصنوعی ذہانت (AI) کی ترقی میں سست روی کے مطالبات کے باعث غیر یقینی صورتحال رہی۔ *[Business Recorder](https://www.brecorder.com/news/40439546/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings)*
-- برینٹ کروڈ کی قیمت میں 1.18 فیصد اضافہ ہو کر 106.93 ڈالر فی بیرل اور ڈبلیو ٹی آئی (WTI) 102.65 ڈالر فی بیرل پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439536/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns)*
-- پنجاب ریونیو اتھارٹی (PRA) ٹیکس چوری روکنے کے لیے ایک ڈیجیٹل سینٹرل مانیٹرنگ سیل قائم کرے گی جو فوڈ چینز کے ڈیجیٹل اور نقد ادائیگیوں کے ریکارڈ کی جانچ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439533/pra-to-set-up-digital-cell-to-curb-tax-evasion)*
+- کویت عالمی خام تیل کی سپلائی کو محفوظ بنانے کے لیے اربوں ڈالر کے زیر زمین پائپ لائن نیٹ ورک کے منصوبے پر کام کر رہا ہے۔ *[ARY](https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies)*
+- وزیر توانائی مسدک ملک کے مطابق 2000 روپے پٹرول ریلیف غریب خاندانوں کے لیے خوراک کے حصول میں مددگار ثابت ہو سکتا ہے۔ *[ARY](https://arynews.tv/rs2000-petrol-relief-could-mean-food-on-the-table-for-poor-families-musadik-malik)*
+- پاکستانی نژاد سابق KFC سی ای او صابر سمی کو امریکی ریسٹورنٹ چین چیپوٹلے (Chipotle) کے بورڈ آف ڈائریکٹرز میں مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439612/who-is-sabir-sami-pakistan-born-former-kfc-ceo-appointed-to-chipotles-board)*
+- بھارت کا جولائی کا بیلنس آف پیمنٹ سرپلس بڑھ کر 20.8 ارب ڈالر ہو گیا ہے، جبکہ کرنٹ اکاؤنٹ خسارہ 7 ارب ڈالر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40439610/indias-july-balance-of-payments-surplus-jumps-to-208-billion-on-surge-in-fx-inflows)*
+- حوثی حملوں اور ہرمز کے مقام پر بحری نقل و حمل میں کمی کے باعث خلیجی اسٹاک مارکیٹس میں گراوٹ دیکھی گئی، جس میں سعودی عرب کا انڈیکس 0.9 فیصد گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump)*
+- سری لنکا کی معیشت اپریل سے جون کے دوران 4.2 فیصد سالانہ بنیادوں پر بڑھی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439607/sri-lankan-shares-edge-lower-as-communication-services-it-stocks-weigh)*
+- بھارت میں یو پی آئی (UPI) کے ذریعے ہونے والی 2,000 روپے سے زائد کی بڑی ٹرانزیکشنز پر فیس لگانے کے لیے بینکوں اور ادائیگی کرنے والی کمپنیوں کے ساتھ مشاورت جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439600/india-consults-banks-payment-firms-on-fees-for-large-upi-payments-sources-say)*
+- نائجیریا کے ایل این جی پروڈیوسر NLNG نے 10 ارب ڈالر کے ٹرین 7 منصوبے کو 2027 کے آخر تک شروع کرنے کا ہدف رکھا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027)*
+- لندن کے اسٹاک مارکیٹ میں FTSE 100 انڈیکس 0.59 فیصد گر کر 10,634.49 پوائنٹس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus)*
+- مونڈیز (Moody's) نے سیاسی اور بیرونی دباؤ میں کمی کے بعد بنگلہ دیش کے کریڈٹ آؤٹ لک کو 'نیگیٹو' سے بدل کر 'اسٹیبل' کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures)*
+- بھارت کا اگست کا تجارتی خسارہ سونے کی درآمدات میں شدید کمی کی وجہ سے 26.86 ارب ڈالر تک محدود ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439592/indias-august-goods-trade-deficit-narrows-as-gold-imports-plunge)*
+- اسٹیٹ بینک آف پاکستان (SBP) نے اپنے ریگولیٹری سینڈ باکس کا پہلا مرحلہ مکمل کر لیا ہے جس میں 4 پن ٹیک (fintech) کمپنیوں نے کامیابی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing)*
+- بھارت کا Nifty 50 انڈیکس تیل کی بڑھتی قیمتوں کی وجہ سے 1.19 فیصد گر کر 23,118.6 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439593/indias-nifty-50-closes-at-5-month-low-on-elevated-oil-prices-bond-yields)*
+- بھارتی روپیہ گر کر 95.9550 فی ڈالر پر آگیا جبکہ برینٹ کروڈ کی قیمت 108.20 ڈالر فی بیرل تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
+- ملائیشیا میں پام آئل کی قیمت 0.68 فیصد اضافے کے ساتھ 4,883 رنگٹ فی میٹرک ٹن پر رہی۔ *[Business Recorder](https://www.brecorder.com/news/40439596/palm-oil-gains-for-second-straight-session-on-crude-prices)*
 
 ### سائنس اور ٹیکنالوجی
-- پاکستان قومی سطح پر ایک اوپن سورس ایجوکیشن ڈیٹا پلیٹ فارم بنانے کی کوشش کر رہا ہے۔ *[ARY](https://arynews.tv/pakistan-moves-to-build-national-open-source-education-data-platform)*
-
-### سیاست
-- پی ٹی آئی کے عبوری چیئرمین گوہر علی خان نے 27 ستمبر کے اسلام آباد مارچ کے حوالے سے پنجاب حکومت کو سیاسی کارکنوں پر طاقت کے استعمال سے باز رہنے کا کہا۔ *[Business Recorder](https://www.brecorder.com/news/40439540/september-27-march-gohar-warns-against-potential-use-of-force-against-pti-workers)*
-- الیکشن کمیشن نے پختونخوا ملی عوامی پارٹی (PkMAP) کے خلاف اندرونی انتخابات نہ کروانے سے متعلق دو کیسز کی سماعت اگلے ماہ تک ملتوی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439541/ecp-reschedules-two-cases-against-pkmap-till-next-month)*
-- اینٹی ٹیررازم کورٹ نے 26 نومبر کے احتجاج کے کیس میں 24 پارلیمنٹ اراکین بشمول کے پی کے کے وزیراعلیٰ سہیل آفریدی کے پاسپورٹ بلاک کرنے کا حکم دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439539/atc-orders-blocking-of-passports-for-afridi-other-pti-mps)*
-- وفاقی آئینی عدالت (FCC) نے کے پی کے کے وزیراعلیٰ سہیل آفریدی کی تقرری کو چیلنج کرنے والی درخواست پر نوٹس جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439528/plea-of-marwat-fcc-issues-notice-to-afridi)*
-- وفاقی وزیر ریلوے محمد حنیف عباسی نے کہا ہے کہ علاقائی حریف پاکستان کی قومی سلامتی کو نقصان نہیں پہنچا سکتے۔ *[Business Recorder](https://www.brecorder.com/news/40439534/regional-adversaries-cannot-undermine-national-security-abbasi)*
+- مصنوعی ذہانت (AI) پر اخراجات میں ممکنہ کمی کے خدشات کی وجہ سے سرمایہ کاروں میں بے چینی پائی جا رہی ہے۔ *[ARY](https://arynews.tv/investors-nervous-about-ai-spending-slowdown-after-industry-warnings)*
 
 ### قومی
-- خیبرپختونخوا میں گندم کے ذخائر سپلائی کے خدشات کے باعث 189,000 ٹن تک گر گئے۔ *[ARY](https://arynews.tv/kp-wheat-reserves-drop-to-189000-tonnes-amid-supply-concerns)*
-- عمرہ زائرین کے لیے نادرا (NADRA) کے انٹیگریٹڈ ویکسینیشن کارڈ کے نفاذ کی ڈیڈ لائن 25 ستمبر 2026 تک بڑھا دی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439542-umrah-pilgrims-deadline-for-vaccination-card-extended)*
-- آئی بی سی سی (IBCC) نے بتایا کہ این سی سی آئی اے (NCCIA) کو کیمبرج امتحانی پرچیاں پاکستان سے لیک ہونے کا کوئی ثبوت نہیں ملا۔ *[Business Recorder](https://www.brecorder.com/news/40439532-cambridge-exam-papers-nccia-found-no-evidence-of-leakage-from-pakistan-ibcc)*
-- چیف آف آرمی اسٹاف فیلڈ مارشل سید عاصم منیر نے لبنان کے وزیر داخلہ سے ملاقات میں دوطرفہ تعلقات کو مزید مضبوط کرنے کا عزم دہرایا۔ *[Business Recorder](https://www.brecorder.com/news/40439538-cdf-reaffirms-commitment-to-stronger-ties-with-lebanon)*
-- فرانسیسی سفیر نکولاس گیلے نے صدر آصف علی زرداری سے ملاقات کی اور پاکستان کے ساتھ دوطرفہ تعلقات پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439529-france-ambassador-pays-farewell-calls-on-president)*
-- قومی اسمبلی کے سپیکر سردار ایاز صادق نے عالمی دنِ جمہوریت کے موقع پر مضبوط جمہوری نظام کو خوشحال مستقبل کی ضمانت قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439535-international-day-of-democracy-today-speaker-says-strong-democratic-system-guarantee-of-prosperous-future)*
+- پنجاب حکومت نے اسلحہ لائسنس کے لیے ڈیجیٹل اسناد (digital credentials) کے استعمال کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/punjab-approves-digital-credentials-for-arms-licences)*
+- میر رضا کیس کے حوالے سے ایم ایل او ڈاکٹر اسامہ کی فائرنگ ڈیمو ویڈیو منظر عام پر آگئی ہے۔ *[ARY](https://arynews.tv/mir-raza-case-mlo-dr-osamas-firing-demo-video-surfaces)*
+- پاکستان اور لبنان کے درمیان سیکورٹی، قانون نافذ کرنے والے اداروں اور سفارتی تعلقات کو مزید گہرا کرنے پر اتفاق کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439608/pakistan-lebanon-agree-to-deepen-diplomatic-security-ties)*
+- 200 روپے کے پرائز بانڈ کے ڈرا کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/rs-200-prize-bond-draw-announced-see-full-list-here)*
 
 ### بین الاقوامی
-- سعودی عرب نے حوثی حملوں کے جواب میں سخت کارروائی کرنے کا انتباہ جاری کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-warns-it-will-react-firmly-to-houthi-attacks)*
-- امریکی فوج کا کہنا ہے کہ ایران کے ساتھ جنگ کی وجہ سے گولہ بارود کی کمی کا سامنا ہے۔ *[ARY](https://arynews.tv/us-military-says-iran-war-has-led-to-munitions-shortfall)*
-- حوثیوں نے سعودی اہداف پر نئے حملے کیے جبکہ بحیرہ احمر میں تناؤ برقرار رہنے سے عالمی تیل کی سپلائی کے خطرات بڑھ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439548/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall)*
-
-### کھیل
-- نیشنل انڈر-19 کرکٹ چیمپئن شپ کا آغاز آج سے ہو رہا ہے جس میں 16 ریجنز کی 20 ٹیمیں اور تقریباً 400 کھلاڑی حصہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439531-national-u-19-championship-to-commence-from-today)*
+- یمن میں جاری تنازع کی وجہ سے 1 لاکھ سے زائد افراد بے گھر ہو چکے ہیں اور ہزاروں افراد بحری راستے سے صومالیہ (Djibouti) کی طرف ہجرت کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439611/yemen-conflict-displaces-over-100000-people-un-says)*
+- حوثی حملوں کے باعث خوفزدہ یمنی لوگ جنوب کی طرف ہجرت کر رہے ہیں۔ *[ARY](https://arynews.tv/alarmed-yemenis-flee-south-as-houthis-keep-up-attacks)*
 
 ### صحت
-- ٹائلی نول بنانے والی کمپنی نے آٹزم کے ساتھ ممکنہ تعلق کے معاملے پر امریکی اپیل کورٹ سے فیصلے پر نظرثانی کی درخواست کی ہے۔ *[ARY](https://arynews.tv/tylenol-maker-pharmacy-chains-urge-us-appeals-court-to-revisit-decision-over-alleged-autism-link)*
-- سندھ ڈرگ کورٹ نے غیر رجسٹرڈ اور ناقص ادویات کی فروخت کے کیس میں چار ملزمان کی عبوری ضمانت مسترد کر دی۔ *[Business Recorder](https://www.brecorder.com/news/40439527-unregistered-medicines-case-drug-court-rejects-interim-bail-of-four)*
+- پی آئی ایم ایس (PIMS) ہسپتال میں آتشزدگی کے نتیجے میں 14 شیر خوار بچوں کی موت ہو گئی، جس کی تحقیقاتی رپورٹ میں ہسپتال انتظامیہ کی سنگین حفاظتی کوتاہیوں کو ذمہ دار قرار دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439603/pims-fire-inquiry-report-finds-major-safety-failures-behind-deaths-of-newborns)*
+
+### کھیل
+- کرک نے مانچسٹر یونائیٹڈ کو مشورہ دیا ہے کہ وہ برائٹن کے خلاف میچ میں اپنی پچھلی شکست کے دکھ کو طاقت کے طور پر استعمال کریں۔ *[ARY](https://arynews.tv/carrick-urges-man-utd-to-use-derby-pain-as-fuel-against-brighton)*
+
+### دیگر
+- عمان کے متراح کیبل کار نے عالمی حفاظتی ٹیسٹ پاس کر لیے ہیں اور یہ جلد لانچ ہونے کے قریب ہے۔ *[ARY](https://arynews.tv/omans-muttrah-cable-car-clears-global-safety-test-nears-launch)*
+- جرمنی کے سکلڈ ورکر ویزا کے حصول کے عمل کی تفصیلات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/germany-skilled-worker-visa-process-explained)*
 
