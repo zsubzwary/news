@@ -7,50 +7,46 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 14-Sep-2026 21:10PKT 
+ &lrm; 15-Sep-2026 09:08PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان اسٹاک ایکسچینج (PSX) میں شدید گراوٹ ریکارڈ کی گئی، جس کے نتیجے میں KSE-100 انڈیکس 2,500 پوائنٹس سے زائد گر گیا۔ *[ARY](https://arynews.tv/psx-stocks-fall-sharply-as-kse-100-index-loses-over-2500-points)*
-- اقتصادی رابطہ کمیٹی (ECC) نے وزیراعظم کے فیول ریلیف اسکیم کے نفاذ کے لیے 75 ارب روپے کے تکنیکی اضافی گرانٹ کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439437/ecc-approves-rs75bn-for-pms-fuel-relief-scheme)*
-- پیٹرولیم وزیر کے مطابق حکومت فیول ریلیف اسکیم پر ماہانہ 25 ارب روپے خرچ کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40439428/govt-to-spend-rs25bn-a-month-on-fuel-relief-scheme-petroleum-minister)*
-- اسٹیٹ بینک کے مطابق، سال 2026 کی پہلی ششماہی کے دوران پاکستان کے بینکنگ سیکٹر کے بیلنس شیٹ میں 9.1 فیصد اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439436-pakistan-banking-sector-remains-resilient-in-h1cy26-sbp)*
-- امریکی ٹریژری کے 10 سالہ بانڈز کی پیداوار (yields) 5 فیصد تک پہنچ گئی ہے، جو اکتوبر 2023 کے بعد بلند ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439438/us-10-year-yields-reach-5-highest-since-2023)*
-- تانبے (Copper) کی قیمتوں میں کمی کے ساتھ یہ تین ہفتوں کی کم ترین سطح 14,065 ڈالر فی میٹرک ٹن پر آگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439432-copper-sinks-to-3-week-low-as-dollar-firms-lme-stocks-rise)*
-- خلیجی فن ٹیک کمپنی 'Tabby' نے 233 ملین ڈالر کی فنڈنگ حاصل کرنے کے بعد 6.5 ارب ڈالر کی مالیت (valuation) حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439422-gulf-fintech-tabby-clinches-6-5-billion-valuation-after-latest-funding-round)*
-- بھارت میں اگست کے دوران تھوک قیمتیں (wholesale prices) گزشتہ سال کے مقابلے میں 9.92 فیصد بڑھ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40439423-india-wholesale-prices-rise-9-92-year-on-year-in-august)*
-- لندن کا FTSE 100 انڈیکس 0.55 فیصد کے اضافے کے ساتھ 10,708.76 پوائنٹس پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439425-uks-ftse-100-rises-as-oil-stocks-gain-key-announcements-in-focus)*
-- ملائیشیا میں پام آئل کے بیچ کے معاہدے میں 0.81 فیصد اضافہ ہوا اور قیمت 4,853 رنگٹ فی میٹرک ٹن ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40439421-palm-oil-closes-up-after-crude-prices-climb-higher)*
-- عربی ڈرلنگ نے تقریباً 2 ارب ریال (532.5 ملین ڈالر) کا پانچ سالہ گیس ڈرلنگ کنٹریکٹ حاصل کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439433-gulf-equities-mixed-as-saudi-energy-shipping-security-concerns-weigh)*
-- سری لنکا کے اسٹاک مارکیٹ میں 0.3 فیصد کمی دیکھی گئی اور CSE All-Share انڈیکس 21,313.92 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439429-sri-lankan-shares-fall-as-healthcare-energy-stocks-drag)*
+- وال اسٹریٹ میں مصنوعی ذہانت (AI) سے متعلق خدشات کے باعث چپ بنانے والی کمپنیوں کے حصص میں گراوٹ دیکھی گئی۔ *[ARY](https://arynews.tv/wall-street-drops-as-ai-worries-pummel-chipmakers)*
+- او جی آر اے (OGRA) کی جانب سے نوٹیفکیشن جاری کیے جانے کے بعد پٹرول اور ڈیزل کی قیمتوں میں مزید اضافہ کر دیا گیا۔ *[ARY](https://arynews.tv/petrol-price-diesel-rate-hiked-further-as-ogra-issues-notification)*
+- کینیڈین ڈالر مہنگائی کے ڈیٹا کے توقعات کے مطابق آنے کے بعد 12 روزہ کم ترین سطح پر پہنچ گیا۔ *[ARY](https://arynews.tv/canadian-dollar-hits-12-day-low-as-inflation-data-meets-expectations)*
+- تیل کی قیمتوں میں اضافے اور امریکی فیڈرل ریزرو کے ریٹ میں اضافے کے امکانات کے باعث بھارتی روپیہ گزشتہ ہفتے 1 فیصد سے زائد گر کر 95.55 فی ڈالر پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439547/indian-rupee-bonds-eye-fed-decision-rate-outlook)*
+- ایشیائی حصص میں تیل کی قیمتوں میں اضافے اور مصنوعی ذہانت (AI) کی ترقی میں سست روی کے مطالبات کے باعث غیر یقینی صورتحال رہی۔ *[Business Recorder](https://www.brecorder.com/news/40439546/asian-shares-waver-as-oil-and-yields-rise-ahead-of-fed-boj-meetings)*
+- برینٹ کروڈ کی قیمت میں 1.18 فیصد اضافہ ہو کر 106.93 ڈالر فی بیرل اور ڈبلیو ٹی آئی (WTI) 102.65 ڈالر فی بیرل پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439536/oil-prices-rise-as-saudi-pipeline-outage-fresh-attacks-raise-supply-concerns)*
+- پنجاب ریونیو اتھارٹی (PRA) ٹیکس چوری روکنے کے لیے ایک ڈیجیٹل سینٹرل مانیٹرنگ سیل قائم کرے گی جو فوڈ چینز کے ڈیجیٹل اور نقد ادائیگیوں کے ریکارڈ کی جانچ کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40439533/pra-to-set-up-digital-cell-to-curb-tax-evasion)*
 
 ### سائنس اور ٹیکنالوجی
-- آریکل (Oracle) نے AI انفراسٹرکچر کے قرضوں کے بڑھتے ہوئے بوجھ کے باعث ملازمین کی نئی کھیپ کو ملازمتوں سے فارغ کرنا شروع کر دیا ہے۔ *[ARY](https://arynews.tv/oracle-begins-new-round-of-layoffs-as-ai-infrastructure-debt-mounts)*
-- ایلون مسک کی X Corp اور SpaceXAI نے ایپل کے خلاف جاری اینٹی ٹرسٹ مقدمے کو ٹیکساس کی وفاقی عدالت میں ختم کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439441/musks-x-corp-and-spacexai-resolve-antitrust-lawsuit-against-apple)*
-- ایپل نے پاکستان کے لیے اپنے پہلے 'ہیڈ آف گورنمنٹ افیئرز' کے طور پر سلمان ڈار کو مقرر کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439439/apple-appoints-first-head-of-government-affairs-for-pakistan)*
+- پاکستان قومی سطح پر ایک اوپن سورس ایجوکیشن ڈیٹا پلیٹ فارم بنانے کی کوشش کر رہا ہے۔ *[ARY](https://arynews.tv/pakistan-moves-to-build-national-open-source-education-data-platform)*
 
 ### سیاست
-- سندھ اسمبلی نے لوکل گورنمنٹ ایکٹ 2026 کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/sindh-assembly-gives-green-light-to-local-government-act-2026)*
-- اینٹی تھرارسٹ کورٹ (ATC) نے سہیل آفریدی، اسد قاسم اور پی ٹی آئی کے 22 قانون سازوں کے پاسپورٹ بلاک کرنے کا حکم دے دیا ہے۔ *[ARY](https://arynews.tv/atc-orders-passport-block-for-sohail-afridi-asad-qaiser-22-pti-lawmakers)*
+- پی ٹی آئی کے عبوری چیئرمین گوہر علی خان نے 27 ستمبر کے اسلام آباد مارچ کے حوالے سے پنجاب حکومت کو سیاسی کارکنوں پر طاقت کے استعمال سے باز رہنے کا کہا۔ *[Business Recorder](https://www.brecorder.com/news/40439540/september-27-march-gohar-warns-against-potential-use-of-force-against-pti-workers)*
+- الیکشن کمیشن نے پختونخوا ملی عوامی پارٹی (PkMAP) کے خلاف اندرونی انتخابات نہ کروانے سے متعلق دو کیسز کی سماعت اگلے ماہ تک ملتوی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439541/ecp-reschedules-two-cases-against-pkmap-till-next-month)*
+- اینٹی ٹیررازم کورٹ نے 26 نومبر کے احتجاج کے کیس میں 24 پارلیمنٹ اراکین بشمول کے پی کے کے وزیراعلیٰ سہیل آفریدی کے پاسپورٹ بلاک کرنے کا حکم دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439539/atc-orders-blocking-of-passports-for-afridi-other-pti-mps)*
+- وفاقی آئینی عدالت (FCC) نے کے پی کے کے وزیراعلیٰ سہیل آفریدی کی تقرری کو چیلنج کرنے والی درخواست پر نوٹس جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439528/plea-of-marwat-fcc-issues-notice-to-afridi)*
+- وفاقی وزیر ریلوے محمد حنیف عباسی نے کہا ہے کہ علاقائی حریف پاکستان کی قومی سلامتی کو نقصان نہیں پہنچا سکتے۔ *[Business Recorder](https://www.brecorder.com/news/40439534/regional-adversaries-cannot-undermine-national-security-abbasi)*
 
 ### قومی
-- بی آئی ای کے (BIEK) نے 2026 کے ایچ ایس سی کامرس ریگولر اور پرائیویٹ گروپ کے نتائج کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/biek-announces-2026-hsc-commerce-regular-group-results-check-here)* | *[ARY](https://arynews.tv/biek-announces-2026-hsc-commerce-private-group-results-check-here)*
-- میر حسن ماری کے ضرورت مند خاندانوں کو 700 سولر سسٹم فراہم کیے جائیں گے۔ *[ARY](https://arynews.tv/needy-families-in-mir-hassan-mari-to-receive-700-solar-systems)*
-- میر رضا کیس میں کمیشن سرمایہ کاروں کے بیانات ویڈیو لنک کے ذریعے ریکارڈ کرے گا۔ *[ARY](https://arynews.tv/mir-raza-case-commission-to-record-statements-of-investors-via-video-link)*
-- انڈونیشیا کے نیوی چیف نے جی ایچ کیو (GHQ) میں چیف آف آرمی اسٹاف جنرل عاصم منیر سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40439430-indonesia-navy-chief-meets-field-marshal-asim-munir-at-ghq)*
-- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں مستحکم ہو کر اضافہ ریکارڈ کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439426-intra-day-update-rupee-records-gain-against-us-dollar)*
+- خیبرپختونخوا میں گندم کے ذخائر سپلائی کے خدشات کے باعث 189,000 ٹن تک گر گئے۔ *[ARY](https://arynews.tv/kp-wheat-reserves-drop-to-189000-tonnes-amid-supply-concerns)*
+- عمرہ زائرین کے لیے نادرا (NADRA) کے انٹیگریٹڈ ویکسینیشن کارڈ کے نفاذ کی ڈیڈ لائن 25 ستمبر 2026 تک بڑھا دی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439542-umrah-pilgrims-deadline-for-vaccination-card-extended)*
+- آئی بی سی سی (IBCC) نے بتایا کہ این سی سی آئی اے (NCCIA) کو کیمبرج امتحانی پرچیاں پاکستان سے لیک ہونے کا کوئی ثبوت نہیں ملا۔ *[Business Recorder](https://www.brecorder.com/news/40439532-cambridge-exam-papers-nccia-found-no-evidence-of-leakage-from-pakistan-ibcc)*
+- چیف آف آرمی اسٹاف فیلڈ مارشل سید عاصم منیر نے لبنان کے وزیر داخلہ سے ملاقات میں دوطرفہ تعلقات کو مزید مضبوط کرنے کا عزم دہرایا۔ *[Business Recorder](https://www.brecorder.com/news/40439538-cdf-reaffirms-commitment-to-stronger-ties-with-lebanon)*
+- فرانسیسی سفیر نکولاس گیلے نے صدر آصف علی زرداری سے ملاقات کی اور پاکستان کے ساتھ دوطرفہ تعلقات پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439529-france-ambassador-pays-farewell-calls-on-president)*
+- قومی اسمبلی کے سپیکر سردار ایاز صادق نے عالمی دنِ جمہوریت کے موقع پر مضبوط جمہوری نظام کو خوشحال مستقبل کی ضمانت قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439535-international-day-of-democracy-today-speaker-says-strong-democratic-system-guarantee-of-prosperous-future)*
 
 ### بین الاقوامی
-- یمن کے حوثیوں نے سعودی عرب کے خمیس مشيط میں فوجی ایئر بیس پر درجنوں میزائلوں اور ڈرون سے حملہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439440/gulf-states-call-off-meeting-with-iran-houthis-launch-new-attack-on-saudi)*
-- خلیجی ریاستوں نے ایران کے ساتھ طے شدہ ملاقات منسوخ کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439440/gulf-states-call-off-meeting-with-iran-houthis-launch-new-attack-on-saudi)*
-- لبنان کے جنوبی شہر پر اسرائیلی حملوں میں 6 بچوں سمیت کم از کم 13 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40439435-israeli-strikes-on-southern-lebanese-town-kill-13-as-fears-of-escalation-mount)*
-- بنگلہ دیش کے وزیر توانائی کے مطابق ایل این جی (LNG) کی بلند قیمتوں کی وجہ سے ملک کی صنعتی ترقی سست ہو رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439431-bangladeshs-industrial-growth-hurt-by-high-lng-prices-minister-says)*
-- بھارت کی کمپنی GAIL کے چیئرمین کے مطابق 20 ڈالر فی ایم ایم بی ٹی یو (mmBtu) سے زیادہ ایل این جی کی قیمتیں ڈیمانڈ کو متاثر کر رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439427-lng-prices-above-20-per-mmbtu-to-hurt-demand-chairman-of-indias-gail-says)*
+- سعودی عرب نے حوثی حملوں کے جواب میں سخت کارروائی کرنے کا انتباہ جاری کر دیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-warns-it-will-react-firmly-to-houthi-attacks)*
+- امریکی فوج کا کہنا ہے کہ ایران کے ساتھ جنگ کی وجہ سے گولہ بارود کی کمی کا سامنا ہے۔ *[ARY](https://arynews.tv/us-military-says-iran-war-has-led-to-munitions-shortfall)*
+- حوثیوں نے سعودی اہداف پر نئے حملے کیے جبکہ بحیرہ احمر میں تناؤ برقرار رہنے سے عالمی تیل کی سپلائی کے خطرات بڑھ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439548/houthis-strike-saudi-targets-anew-as-talks-over-strait-of-hormuz-stall)*
 
 ### کھیل
-- کرکٹر کیمرون گرین نے پرتھ میں اپنی دیرینہ ساتھی ایملی ریڈووڈ سے شادی کر لی ہے۔ *[ARY](https://arynews.tv/cameron-green-gets-married-to-long-time-partner-emily-redwood-in-perth)*
+- نیشنل انڈر-19 کرکٹ چیمپئن شپ کا آغاز آج سے ہو رہا ہے جس میں 16 ریجنز کی 20 ٹیمیں اور تقریباً 400 کھلاڑی حصہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439531-national-u-19-championship-to-commence-from-today)*
 
 ### صحت
-- پھیپھڑوں کے کینسر کے لیے تیار کردہ دوا 'Gotistobart' کے طبی آزمائش کے نتائج میں مریضوں کی زندگی میں اضافے کے مثبت ثبوت ملے ہیں۔ *[ARY](https://arynews.tv/gotistobart-lung-cancer-drug-candidate-prolonged-lives-in-trial)*
+- ٹائلی نول بنانے والی کمپنی نے آٹزم کے ساتھ ممکنہ تعلق کے معاملے پر امریکی اپیل کورٹ سے فیصلے پر نظرثانی کی درخواست کی ہے۔ *[ARY](https://arynews.tv/tylenol-maker-pharmacy-chains-urge-us-appeals-court-to-revisit-decision-over-alleged-autism-link)*
+- سندھ ڈرگ کورٹ نے غیر رجسٹرڈ اور ناقص ادویات کی فروخت کے کیس میں چار ملزمان کی عبوری ضمانت مسترد کر دی۔ *[Business Recorder](https://www.brecorder.com/news/40439527-unregistered-medicines-case-drug-court-rejects-interim-bail-of-four)*
 
