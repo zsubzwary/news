@@ -4,49 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Sep-2026 21:05PKT
+Published at: 16-Sep-2026 09:03PKT
 
-Time to read: 4 mins
+Time to read: 5 mins
 
 ### Economy
-- India's July balance of payments recorded a **$20.8 billion surplus** (up from $0.3 billion last year) driven by foreign-exchange inflows, despite a **$7 billion current account deficit**; net transfers rose to **$13.2 billion**. *[Business Recorder](https://www.brecorder.com/news/40439610/indias-july-balance-of-payments-surplus-jumps-to-208-billion-on-surge-in-fx-inflows)*
-- Nigeria's NLNG aims to start its **$10 billion Train 7 LNG project** by the end of 2027, which will increase capacity from 22 million to **30 million metric tons per year**. *[Business Recorder](https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027)*
-- India's benchmark **Nifty 50 fell 1.19% to 23,118.6**, marking a 5-month low due to elevated oil prices and bond yields. *[Business Recorder](https://www.brecorder.com/news/40439593/indias-nifty-50-closes-at-5-month-low-on-elevated-oil-prices-bond-yields)*
-- Sri Lanka’s economy grew by **4.2% year-on-year** in Q2, with industry expanding by **7.3%**, agriculture by **2.3%**, and services by **2.7%**. *[Business Recorder](https://www.brecorder.com/news/40439599/sri-lankas-economy-grew-42-in-q2-despite-pressures-from-iran-war)*
-- India's August goods trade deficit narrowed to **$26.86 billion** as gold imports saw a sharp decline. *[Business Recorder](https://www.brecorder.com/news/40439592/indias-august-goods-trade-deficit-narrows-as-gold-imports-plunge)*
-- Malaysian palm oil futures rose **0.68% to 4,883 ringgit** per metric ton following increases in crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40439596/palm-oil-gains-for-second-straight-session-on-crude-prices)*
-- Brent crude rose more than 2% to **$108.20 a barrel**, impacting global inflation concerns. *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
-- London's **FTSE 100 index fell 0.59% to 10,634.49 points** as rising oil prices lifted bond yields. *[Business Recorder](https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus)*
-- Saudi Arabia’s benchmark index dropped **0.9%**, weighed down by a **1.3% fall in Saudi Arabian Mining Company** and a **0.6% dip in Saudi Aramco**. *[Business Recorder](https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump)*
-- Pakistan-born executive Sabir Sami, former global CEO of KFC (Jan 2022–Feb 2025), has been appointed to the board of **Chipotle Mexican Grill**. *[Business Recorder](https://www.brecorder.com/news/40439612/who-is-sabir-sami-pakistan-born-former-kfc-ceo-appointed-to-chipotles-board)*
-- India is considering levying charges on **UPI transactions exceeding 2,000 rupees** following recent legislative changes. *[Business Recorder](https://www.brecorder.com/news/40439600/india-consults-banks-payment-firms-on-fees-for-large-upi-payments-sources-say)*
-- Moody's has revised Bangladesh’s credit outlook to **“stable”** from “negative” due to easing political pressures. *[Business Recorder](https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures)*
-- The State Bank of Pakistan (SBP) concluded its first **Regulatory Sandbox cohort**, with **four fintechs** clearing testing in remittances, open banking, and merchant onboarding. *[Business Recorder](https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing)*
-- Minister Musadik Malik stated that **Rs. 2,000 petrol relief** provides essential food security for poor families. *[ARY](https://arynews.tv/rs2000-petrol-relief-could-mean-food-on-the-table-for-poor-families-musadik-malik)*
-- An announcement has been made regarding the **Rs. 200 prize bond draw**. *[ARY](https://arynews.tv/rs-200-prize-bond-draw-announced-see-full-list-here)*
-- Kuwait is seeking a **multi-billion dollar subterranean pipeline network** to protect global crude market supplies. *[ARY](https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies)*
-- Traders are increasing bets on an **October rate hike by the Reserve Bank of India** as inflation and oil prices rise. *[Business Recorder](https://www.brecorder.com/news/40439606/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets)*
+- Additional customs and regulatory duties are set to be removed as part of a new auto policy aimed at increasing vehicle affordability for consumers. *[ARY](https://arynews.tv/auto-policy-aims-to-make-vehicles-more-affordable-for-consumers-pms-aide)*
+- The Oil and Gas Regulatory Authority (OGRA) has implemented hikes in petrol and diesel prices, impacting motorists. *[ARY](https://arynews.tv/another-blow-for-motorists-as-ogra-hikes-petrol-diesel-prices)*
+- Universal Gas Distribution Company (UGDC) represented Pakistan at the Gastech Exhibition & Conference 2026 in Thailand (Sept 14–17), marking the country's first participation in the 54-year history of the forum. *[Business Recorder](https://www.brecorder.com/news/40439711/ugdc-establishes-national-presence-at-gastech-expo)*
+- A seminar on the "Use of System Charges" (UoSC) framework highlighted the need for greater clarity and non-discriminatory treatment for consumers under Pakistan's new electricity charge system. *[Business Recorder](https://www.brecorder.com/news/40439710/speakers-raise-questions-over-new-electricity-charges-system)*
+- The Small and Medium Enterprises Development Authority (SMEDA) has partnered with Japan’s SMRJ to connect Pakistani SMEs to the 'J-GoodTech' B2B platform. *[Business Recorder](https://www.brecorder.com/news/40439709/smeda-gears-up-to-connect-smes-with-japans-b2b-platform)*
+- SECP Chairman Dr. Kabir Ahmed Sidhu reported that Pakistan's insurance industry holds approximately Rs4 trillion in assets with annual premiums totaling Rs708 billion. *[Business Recorder](https://www.brecorder.com/news/40439708/secp-chief-highlights-importance-of-digital-transformation)*
+- The 9th edition of the Leaders in Islamabad Business Summit (LIIBS) 2026, themed “The Next Move,” is scheduled to take place in Islamabad this Thursday. *[Business Recorder](https://www.brecorder.com/news/40439702/nutshell-group-to-host-9th-edition-of-liibs-2026-tomorrow)*
+- Industry leader Mian Zahid urged the federal government to cover approximately Rs. 1,700 billion in surplus electricity capacity charges from the federal budget rather than consumer bills. *[Business Recorder](https://www.brecorder.com/news/40439700/mian-zahid-demands-paying-capacity-charges-from-federal-budget)*
+- Mastercard and the Bank of Khyber (BoK) have entered a strategic alliance to expand digital payment solutions and support a cashless economy in Khyber Pakhtunkhwa. *[Business Recorder](https://www.brecorder.com/news/40439699/mastercard-and-bok-partner-to-accelerate-digital-payments)*
+- The Lahore Chamber of Commerce & Industry (LCCI) has requested the FBR to extend the income tax return filing deadline for Tax Year 2026 from September 30 to October 31. *[Business Recorder](https://www.brecorder.com/news/40439698/lcci-seeks-extension-in-income-tax-return-filing-deadline)*
 
 ### Science & Technology
-- Investors have expressed growing nervousness regarding a potential **slowdown in global AI spending** following industry warnings. *[ARY](https://arynews.tv/investors-nervous-about-ai-spending-slowdown-after-industry-warnings)*
+- A study has revealed that consuming YouTube sports content fails to boost real-world physical activity levels. *[ARY](https://arynews.tv/youtube-sports-content-fails-to-boost-real-world-physical-activity-study-finds)*
+- Bill Gates warned that without deliberate intervention, artificial intelligence could deepen existing global injustices. *[ARY](https://arynews.tv/bill-gates-warns-ai-could-deepen-global-injustice-without-deliberate-intervention)*
+- According to a GSMA report, Pakistan has one of the world's largest mobile internet usage gaps, with approximately 140 million people lacking mobile internet usage despite being within broadband coverage. *[Business Recorder](https://www.brecorder.com/news/40439704/mobile-internet-usage-gap-pakistan-ranks-among-top-countries-by-absolute-number)*
+
+### Weather
+- The Punjab local government has mandated wet-mechanical road cleaning across all districts to combat seasonal smog. *[Business Recorder](https://www.brecorder.com/news/40439707/punjab-mandates-wet-cleaning-to-combat-smog)*
 
 ### Politics
-- Pakistan and Lebanon have agreed to deepen **diplomatic and security cooperation** following meetings between Lebanon’s Interior Minister and Pakistani officials, including Ishaq Dar and Mohsin Naqvi. *[Business Recorder](https://www.brecorder.com/news/40439608/pakistan-lebanon-agree-to-deepen-diplomatic-security-ties)*
+- PTI Punjab MPs have agreed to intensify public outreach through the "Street Movement" in Lahore. *[Business Recorder](https://www.brecorder.com/news/40439706/pti-punjab-mps-agree-to-sustain-intensify-public-outreach)*
+- The PTI has criticized the Federal Constitutional Court’s (FCC) decision to seek Supreme Court records regarding the hospital transfer of Imran Khan. *[Business Recorder](https://www.brecorder.com/news/40439705/iks-hospital-transfer-case-pti-criticises-fcc-intervention-to-sc-order)*
+- President Asif Ali Zardari emphasized that the Pak-China strategic relationship must be reinforced through deeper economic cooperation. *[Business Recorder](https://www.brecorder.com/news/40439703/pak-china-strategic-trust-must-be-sustained-reinforced-president)*
+- A Jamaat-e-Islami (JI) delegation met with federal ministers to discuss relief measures for two- and three-wheelers and small cars amid the fuel crisis. *[Business Recorder](https://www.brecorder.com/news/40439696/fuel-crisis-ji-panel-hails-relief-measures-in-meeting-with-ministers)*
+- PTI Interim Chairman Barrister Gohar Ali Khan criticized the Punjab police for failing to provide security to KP Chief Minister Sohail Afridi during his visit to Lahore. *[Business Recorder](https://www.brecorder.com/news/40439695/gohar-slams-punjab-police-for-mistreating-afridi)*
 
 ### National
-- The Punjab government has approved the implementation of **digital credentials for arms licences**. *[ARY](https://arynews.tv/punjab-approves-digital-credentials-for-arms-licences)*
-- A 43-page inquiry into the **PIMS fire** held the hospital administration responsible for safety failures that caused the **deaths of 14 newborn babies**. *[Business Recorder](https://www.brecorder.com/news/40439603/pims-fire-inquiry-report-finds-major-safety-failures-behind-deaths-of-newborns)*
-- A firing demo video of **MLO Dr. Osama** has surfaced in connection to the Mir Raza case. *[ARY](https://arynews.tv/mir-raza-case-mlo-dr-osamas-firing-demo-video-surfaces)*
+- An eight-member probe team has been established to investigate the recent killings in Surjani Town. *[ARY](https://arynews.tv/surjani-town-killings-eight-member-team-formed-to-probe-deaths)*
+- An anti-terrorism court has sent former PTI MPA Shabbir Gujjar to jail for an identification parade related to the attack on the Corps Commander House. *[Business Recorder](https://www.brecorder.com/news/40439694/corps-commander-house-former-pti-mpa-sent-to-jail-for-identification-parade)*
 
 ### International
-- The UN reports that over **100,000 people** have been internally displaced by the renewed Yemen conflict, with thousands more fleeing to Djibouti. *[Business Recorder](https://www.brecorder.com/news/40439611/yemen-conflict-displaces-over-100000-people-un-says)*
-- The **Indian rupee settled at 95.9550 per dollar**, its weakest level in over a month, amid concerns over oil prices and US Fed policy. *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
-- The Reserve Bank of India (RBI) has filed a caveat to be heard regarding the **listing of Tata Sons** after rejecting its bid to deregister as an NBFC. *[Business Recorder](https://www.brecorder.com/news/40439604/rbi-files-caveat-after-rejecting-tata-sons-bid-to-avoid-listing-source-says)*
+- Police in Gurugram have filed attempt-to-murder charges in a recent hit-and-run case. *[ARY](https://arynews.tv/gurugram-shocker-police-slap-attempt-to-murder-charge-in-hit-and-run-case)*
+- The Congressional Budget Office reported that the Iran war has cost the US military $38 billion. *[ARY](https://arynews.tv/iran-war-has-cost-us-military-38-bn-congressional-budget-office)*
+- Egypt has voiced its support for Saudi Arabia and called for the protection of unhindered sea routes. *[ARY](https://arynews.tv/cairo-egypt-stands-with-saudi-urges-unhindered-sea-routes)*
+- Saudi Arabia has endorsed a National SME strategy aimed at creating 500,000 jobs by 2030. *[ARY](https://arynews.tv/saudi-arabia-endorses-national-sme-strategy-to-create-500000-jobs-by-2030)*
+- Qatar has issued a warning against the potential closure of the critical Bab al Mandab maritime strait. *[ARY](https://arynews.tv/qatar-warns-against-closure-of-critical-bab-al-mandab-maritime-strait)*
+- The Indian rupee faces significant pressure and is expected to potentially slip past the 96 mark due to high oil prices and a potential US Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40439731/indian-rupee-faces-more-pressure-with-likely-fed-rate-hike-compounding-oil-pain)*
+- A Saudi-led military coalition reported that air defenses successfully destroyed a Houthi drone near Makkah. *[Business Recorder](https://www.brecorder.com/news/40439730/saudi-coalition-says-houthi-drone-destroyed-near-makkah)*
 
 ### Sports
-- Michael Carrick has urged **Manchester United** to use the "pain" from their recent derby to fuel their upcoming match against Brighton. *[ARY](https://arynews.tv/carrick-urges-man-utd-to-use-derby-pain-as-fuel-against-brighton)*
+- A National Assembly standing committee has directed the Pakistan Football Federation (PFF) to align its constitution and rules with FIFA requirements. *[Business Recorder](https://www.brecorder.com/news/40439701/na-panel-directs-pff-to-align-constitution-rules-with-fifa-requirements)*
 
-### Other
-- Oman’s **Muttrah cable car** has cleared global safety tests and is nearing its official launch. *[ARY](https://arynews.tv/omans-muttrah-cable-car-clears-global-safety-test-nears-launch)*
-- Detailed information regarding the **Germany skilled worker visa process** has been provided. *[ARY](https://arynews.tv/germany-skilled-worker-visa-process-explained)*
+### Health
+- The LCCI held a session regarding an integrated online portal for alternative medicines and health products, involving officials from the Drug Regulatory Authority of Pakistan (DRAP). *[Business Recorder](https://www.brecorder.com/news/40439697/alternative-medicines-health-products-lcci-holds-session-on-integrated-online-portal)*
 
