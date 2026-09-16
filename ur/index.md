@@ -7,47 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 15-Sep-2026 21:10PKT 
+ &lrm; 16-Sep-2026 09:09PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- کویت عالمی خام تیل کی سپلائی کو محفوظ بنانے کے لیے اربوں ڈالر کے زیر زمین پائپ لائن نیٹ ورک کے منصوبے پر کام کر رہا ہے۔ *[ARY](https://arynews.tv/kuwait-seeks-multi-billion-dollar-subterranean-pipeline-network-to-shield-global-crude-market-supplies)*
-- وزیر توانائی مسدک ملک کے مطابق 2000 روپے پٹرول ریلیف غریب خاندانوں کے لیے خوراک کے حصول میں مددگار ثابت ہو سکتا ہے۔ *[ARY](https://arynews.tv/rs2000-petrol-relief-could-mean-food-on-the-table-for-poor-families-musadik-malik)*
-- پاکستانی نژاد سابق KFC سی ای او صابر سمی کو امریکی ریسٹورنٹ چین چیپوٹلے (Chipotle) کے بورڈ آف ڈائریکٹرز میں مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439612/who-is-sabir-sami-pakistan-born-former-kfc-ceo-appointed-to-chipotles-board)*
-- بھارت کا جولائی کا بیلنس آف پیمنٹ سرپلس بڑھ کر 20.8 ارب ڈالر ہو گیا ہے، جبکہ کرنٹ اکاؤنٹ خسارہ 7 ارب ڈالر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40439610/indias-july-balance-of-payments-surplus-jumps-to-208-billion-on-surge-in-fx-inflows)*
-- حوثی حملوں اور ہرمز کے مقام پر بحری نقل و حمل میں کمی کے باعث خلیجی اسٹاک مارکیٹس میں گراوٹ دیکھی گئی، جس میں سعودی عرب کا انڈیکس 0.9 فیصد گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439609/most-gulf-bourses-in-red-on-houthi-attack-and-hormuz-shipping-slump)*
-- سری لنکا کی معیشت اپریل سے جون کے دوران 4.2 فیصد سالانہ بنیادوں پر بڑھی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439607/sri-lankan-shares-edge-lower-as-communication-services-it-stocks-weigh)*
-- بھارت میں یو پی آئی (UPI) کے ذریعے ہونے والی 2,000 روپے سے زائد کی بڑی ٹرانزیکشنز پر فیس لگانے کے لیے بینکوں اور ادائیگی کرنے والی کمپنیوں کے ساتھ مشاورت جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439600/india-consults-banks-payment-firms-on-fees-for-large-upi-payments-sources-say)*
-- نائجیریا کے ایل این جی پروڈیوسر NLNG نے 10 ارب ڈالر کے ٹرین 7 منصوبے کو 2027 کے آخر تک شروع کرنے کا ہدف رکھا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439602/nigerias-nlng-aims-to-start-up-train-7-lng-project-by-end-2027)*
-- لندن کے اسٹاک مارکیٹ میں FTSE 100 انڈیکس 0.59 فیصد گر کر 10,634.49 پوائنٹس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40439601/london-shares-slip-as-higher-oil-prices-lift-bond-yields-boe-in-focus)*
-- مونڈیز (Moody's) نے سیاسی اور بیرونی دباؤ میں کمی کے بعد بنگلہ دیش کے کریڈٹ آؤٹ لک کو 'نیگیٹو' سے بدل کر 'اسٹیبل' کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439597/moodys-revises-bangladeshs-outlook-to-stable-on-easing-political-and-external-pressures)*
-- بھارت کا اگست کا تجارتی خسارہ سونے کی درآمدات میں شدید کمی کی وجہ سے 26.86 ارب ڈالر تک محدود ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439592/indias-august-goods-trade-deficit-narrows-as-gold-imports-plunge)*
-- اسٹیٹ بینک آف پاکستان (SBP) نے اپنے ریگولیٹری سینڈ باکس کا پہلا مرحلہ مکمل کر لیا ہے جس میں 4 پن ٹیک (fintech) کمپنیوں نے کامیابی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40439594/sbp-concludes-first-regulatory-sandbox-cohort-four-fintechs-clear-testing)*
-- بھارت کا Nifty 50 انڈیکس تیل کی بڑھتی قیمتوں کی وجہ سے 1.19 فیصد گر کر 23,118.6 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439593/indias-nifty-50-closes-at-5-month-low-on-elevated-oil-prices-bond-yields)*
-- بھارتی روپیہ گر کر 95.9550 فی ڈالر پر آگیا جبکہ برینٹ کروڈ کی قیمت 108.20 ڈالر فی بیرل تک پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439595/indian-rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount)*
-- ملائیشیا میں پام آئل کی قیمت 0.68 فیصد اضافے کے ساتھ 4,883 رنگٹ فی میٹرک ٹن پر رہی۔ *[Business Recorder](https://www.brecorder.com/news/40439596/palm-oil-gains-for-second-straight-session-on-crude-prices)*
+- آٹو پالیسی کے تحت گاڑیوں کو صارفین کے لیے سستا بنانے کے لیے اضافی کسٹمز اور ریگولیٹری ڈیوٹی ختم کی جائے گی۔ *[ARY](https://arynews.tv/auto-policy-aims-to-make-vehicles-more-affordable-for-consumers-pms-aide)*
+- اوگرا (OGRA) کی جانب سے پٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/another-blow-for-motorists-as-ogra-hikes-petrol-diesel-prices)*
+- یونیورسل گیس ڈسٹری بیوشن کمپنی (UGDC) نے تھائی لینڈ میں منعقدہ گیس ٹیک ایکسپو 2026 میں پاکستان کی نمائندگی کرتے ہوئے ملک میں توانائی کے شعبے میں اہم مقام حاصل کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439711/ugdc-establishes-national-presence-at-gastech-expo)*
+- بجلی کے نئے چارجز کے نظام (UoSC فریم ورک) پر ماہرین نے شفافیت اور صارفین کے ساتھ غیر امتیازی سلوک کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439710/speakers-raise-questions-over-new-electricity-charges-system)*
+- سما (SMEDA) نے پاکستانی چھوٹے اور درمیانے درجے کے اداروں (SMEs) کو جاپانی بی ٹو بی پلیٹ فارم 'J-GoodTech' سے جوڑنے کے لیے تعاون کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439709/smeda-gears-up-to-connect-smes-with-japans-b2b-platform)*
+- ایس ای سی پی (SECP) کے چیئرمین نے انشورنس مارکیٹ کی ڈیجیٹلائزیشن پر زور دیا، جس کے اثاثے تقریباً 4 ٹریلین روپے اور سالانہ پریمیم 708 بلین روپے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439708/secp-chief-highlights-importance-of-digital-transformation)*
+- اسلام آباد میں 9ویں 'لیڈرز ان اسلام آباد بزنس سمٹ' (LIIBS 2026) کا انعقاد کیا جائے گا جس کا موضوع "دی نیکٹ موو" ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439702/nutshell-group-to-host-9th-edition-of-liibs-2026-tomorrow)*
+- میاں زاہد نے مطالبہ کیا کہ 2025-2026 کے لیے بجلی کے تقریباً 1,700 بلین روپے کے کپیسٹی چارجز صارفین کے بلوں کے بجائے وفاقی بجٹ سے ادا کیے جائیں۔ *[Business Recorder](https://www.brecorder.com/news/40439700/mian-zahid-demands-paying-capacity-charges-from-federal-budget)*
+- ماسٹر کارڈ اور بینک آف خیبر (BoK) نے ڈیجیٹل ادائیگیوں کے نظام کو وسعت دینے کے لیے اسٹریٹجک شراکت داری کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439699/mastercard-and-bok-partner-to-accelerate-digital-payments)*
+- لاہور چیمبر آف کامرس (LCCI) نے انکم ٹیکس ریٹرن جمع کرانے کی ڈیڈ لائن 30 ستمبر سے بڑھا کر 31 اکتوبر کرنے کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439698/lcci-seeks-extension-in-income-tax-return-filing-deadline)*
 
 ### سائنس اور ٹیکنالوجی
-- مصنوعی ذہانت (AI) پر اخراجات میں ممکنہ کمی کے خدشات کی وجہ سے سرمایہ کاروں میں بے چینی پائی جا رہی ہے۔ *[ARY](https://arynews.tv/investors-nervous-about-ai-spending-slowdown-after-industry-warnings)*
-
-### قومی
-- پنجاب حکومت نے اسلحہ لائسنس کے لیے ڈیجیٹل اسناد (digital credentials) کے استعمال کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/punjab-approves-digital-credentials-for-arms-licences)*
-- میر رضا کیس کے حوالے سے ایم ایل او ڈاکٹر اسامہ کی فائرنگ ڈیمو ویڈیو منظر عام پر آگئی ہے۔ *[ARY](https://arynews.tv/mir-raza-case-mlo-dr-osamas-firing-demo-video-surfaces)*
-- پاکستان اور لبنان کے درمیان سیکورٹی، قانون نافذ کرنے والے اداروں اور سفارتی تعلقات کو مزید گہرا کرنے پر اتفاق کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439608/pakistan-lebanon-agree-to-deepen-diplomatic-security-ties)*
-- 200 روپے کے پرائز بانڈ کے ڈرا کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/rs-200-prize-bond-draw-announced-see-full-list-here)*
-
-### بین الاقوامی
-- یمن میں جاری تنازع کی وجہ سے 1 لاکھ سے زائد افراد بے گھر ہو چکے ہیں اور ہزاروں افراد بحری راستے سے صومالیہ (Djibouti) کی طرف ہجرت کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439611/yemen-conflict-displaces-over-100000-people-un-says)*
-- حوثی حملوں کے باعث خوفزدہ یمنی لوگ جنوب کی طرف ہجرت کر رہے ہیں۔ *[ARY](https://arynews.tv/alarmed-yemenis-flee-south-as-houthis-keep-up-attacks)*
-
-### صحت
-- پی آئی ایم ایس (PIMS) ہسپتال میں آتشزدگی کے نتیجے میں 14 شیر خوار بچوں کی موت ہو گئی، جس کی تحقیقاتی رپورٹ میں ہسپتال انتظامیہ کی سنگین حفاظتی کوتاہیوں کو ذمہ دار قرار دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439603/pims-fire-inquiry-report-finds-major-safety-failures-behind-deaths-of-newborns)*
+- بل گیٹس نے خبردار کیا ہے کہ اگر بروقت اقدامات نہ کیے گئے تو مصنوعی ذہانت (AI) عالمی ناانصافیوں کو مزید گہرا کر سکتی ہے۔ *[ARY](https://arynews.tv/bill-gates-warns-ai-could-deepen-global-injustice-without-deliberate-intervention)*
+- جی ایس ایم اے (GSMA) کی رپورٹ کے مطابق، پاکستان میں تقریباً 140 ملین لوگ موبائل براڈ بینڈ کوریج میں ہونے کے باوجود انٹرنیٹ استعمال نہیں کر رہے، جو کہ عالمی سطح پر ایک بڑا فرق ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439704/mobile-internet-usage-gap-pakistan-ranks-among-top-countries-by-absolute-number)*
 
 ### کھیل
-- کرک نے مانچسٹر یونائیٹڈ کو مشورہ دیا ہے کہ وہ برائٹن کے خلاف میچ میں اپنی پچھلی شکست کے دکھ کو طاقت کے طور پر استعمال کریں۔ *[ARY](https://arynews.tv/carrick-urges-man-utd-to-use-derby-pain-as-fuel-against-brighton)*
+- پارلیمانی کمیٹی نے پاکستان فٹ بال فیڈریشن (PFF) کو ہدایت کی ہے کہ وہ اپنے آئین اور قواعد کو فیفا (FIFA) کے تقاضوں کے مطابق بنائے۔ *[Business Recorder](https://www.brecorder.com/news/40439701/na-panel-directs-pff-to-align-constitution-rules-with-fifa-requirements)*
+
+### سیاست
+- پی ٹی آئی کے پنجاب کے اراکین نے لاہور میں عوامی رابطہ مہم (Street Movement) کو مزید تیز کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439706/pti-punjab-mps-agree-to-sustain-intensify-public-outreach)*
+- پی ٹی آئی نے عمران خان کی ہسپتال منتقلی کے حوالے سے فیڈرل کانস্টিٹیوشنل کورٹ (FCC) کے فیصلے پر تنقید کرتے ہوئے عدالتی خودمختاری پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439705/iks-hospital-transfer-case-pti-criticises-fcc-intervention-to-sc-order)*
+- صدر آصف علی زرداری نے پاک چین اسٹریٹجک اعتماد اور اقتصادی تعاون کو مزید مضبوط بنانے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439703/pak-china-strategic-trust-must-be-sustained-reinforced-president)*
+- جماعت اسلامی کے ایک وفد نے پیٹرولیم اور مالیاتی وزرای سے ملاقات کی اور ایندھن کے بحران پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439696/fuel-crisis-ji-panel-hails-relief-measures-in-meeting-with-ministers)*
+- بیارسٹر گوہر علی خان نے وزیراعلیٰ ساہیل آفریدی کے ساتھ پنجاب پولیس کے برتاؤ پر شدید برہمی کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439695/gohar-slams-punjab-police-for-mistreating-afridi)*
+
+### قومی
+- سرجانی ٹاؤن قتل کے واقعات کی تحقیقات کے لیے آٹھ رکنی ٹیم تشکیل دے دی گئی ہے۔ *[ARY](https://arynews.tv/surjani-town-killings-eight-member-team-formed-to-probe-deaths)*
+- پنجاب حکومت نے سموگ سے نمٹنے کے لیے تمام اضلاع میں سڑکوں کی گیلی صفائی (wet-mechanical cleaning) کو لازمی قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439707/punjab-mandates-wet-cleaning-to-combat-smog)*
+- سابق پی ٹی آئی ایم پی اے شبیر گجر کو کورپس کمانڈر ہاؤس حملے کے کیس میں شناختی پیرےڈ کے لیے جیل بھیج دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439694/corps-commander-house-former-pti-mpa-sent-to-jail-for-identification-parade)*
+
+### بین الاقوامی
+- امریکی کنگریسی بجٹ آفس کے مطابق ایران جنگ کی وجہ سے امریکی فوج کو 38 بلین ڈالر کا نقصان پہنچا ہے۔ *[ARY](https://arynews.tv/iran-war-has-cost-us-military-38-bn-congressional-budget-office)*
+- مصر نے سعودی عرب کے ساتھ اظہار یکجہتی کرتے ہوئے سمندری راستوں کو بلا روک ٹوک کھلا رکھنے پر زور دیا۔ *[ARY](https://arynews.tv/cairo-egypt-stands-with-saudi-urges-unhindered-sea-routes)*
+- سعودی عرب نے نیشنل ایس ایم ای (SME) حکمت عملی کی منظوری دی ہے جس کا مقصد 2030 تک 500,000 ملازمتیں پیدا کرنا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-endorses-national-sme-strategy-to-create-500000-jobs-by-2030)*
+- قطر نے باب المندب کے اہم سمندری راستے کو بند کرنے کے خلاف خبردار کیا ہے۔ *[ARY](https://arynews.tv/qatar-warns-against-closure-of-critical-bab-al-mandab-maritime-strait)*
+- بھارتی روپے پر تیل کی بڑھتی ہوئی قیمتوں اور امریکی فیڈرل ریزرو کی ممکنہ شرح سود میں اضافے کے باعث دباؤ بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439731/indian-rupee-faces-more-pressure-with-likely-fed-rate-hike-compounding-oil-pain)*
+- سعودی افواج نے مکہ مکرمہ کے قریب ایک حوثی ڈرون کو تباہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439730/saudi-coalition-says-houthi-drone-destroyed-near-makkah)*
+- گروگراہم (بھارت) میں ہٹ اینڈ رن کیس میں پولیس نے قتل کی کوشش کا الزام عائد کر دیا ہے۔ *[ARY](https://arynews.tv/gurugram-shocker-police-slap-attempt-to-murder-charge-in-hit-and-run-case)*
+
+### صحت
+- لاہور چیمبر آف کامرس (LCCI) نے متبادل ادویات اور صحت کی مصنوعات کے لیے ایک مربوط آن لائن پورٹل کے حوالے سے سیشن منعقد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439697/alternative-medicines-health-products-lcci-holds-session-on-integrated-online-portal)*
 
 ### دیگر
-- عمان کے متراح کیبل کار نے عالمی حفاظتی ٹیسٹ پاس کر لیے ہیں اور یہ جلد لانچ ہونے کے قریب ہے۔ *[ARY](https://arynews.tv/omans-muttrah-cable-car-clears-global-safety-test-nears-launch)*
-- جرمنی کے سکلڈ ورکر ویزا کے حصول کے عمل کی تفصیلات فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/germany-skilled-worker-visa-process-explained)*
+- ایک تحقیق کے مطابق یوٹیوب اسپورٹس مواد حقیقی دنیا کی جسمانی سرگرمیوں کو بڑھانے میں ناکام رہا ہے۔ *[ARY](https://arynews.tv/youtube-sports-content-fails-to-boost-real-world-physical-activity-study-finds)*
 
