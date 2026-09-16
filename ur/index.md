@@ -7,53 +7,45 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 16-Sep-2026 09:09PKT 
+ &lrm; 16-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- آٹو پالیسی کے تحت گاڑیوں کو صارفین کے لیے سستا بنانے کے لیے اضافی کسٹمز اور ریگولیٹری ڈیوٹی ختم کی جائے گی۔ *[ARY](https://arynews.tv/auto-policy-aims-to-make-vehicles-more-affordable-for-consumers-pms-aide)*
-- اوگرا (OGRA) کی جانب سے پٹرول اور ڈیزل کی قیمتوں میں اضافہ کر دیا گیا ہے۔ *[ARY](https://arynews.tv/another-blow-for-motorists-as-ogra-hikes-petrol-diesel-prices)*
-- یونیورسل گیس ڈسٹری بیوشن کمپنی (UGDC) نے تھائی لینڈ میں منعقدہ گیس ٹیک ایکسپو 2026 میں پاکستان کی نمائندگی کرتے ہوئے ملک میں توانائی کے شعبے میں اہم مقام حاصل کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439711/ugdc-establishes-national-presence-at-gastech-expo)*
-- بجلی کے نئے چارجز کے نظام (UoSC فریم ورک) پر ماہرین نے شفافیت اور صارفین کے ساتھ غیر امتیازی سلوک کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439710/speakers-raise-questions-over-new-electricity-charges-system)*
-- سما (SMEDA) نے پاکستانی چھوٹے اور درمیانے درجے کے اداروں (SMEs) کو جاپانی بی ٹو بی پلیٹ فارم 'J-GoodTech' سے جوڑنے کے لیے تعاون کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439709/smeda-gears-up-to-connect-smes-with-japans-b2b-platform)*
-- ایس ای سی پی (SECP) کے چیئرمین نے انشورنس مارکیٹ کی ڈیجیٹلائزیشن پر زور دیا، جس کے اثاثے تقریباً 4 ٹریلین روپے اور سالانہ پریمیم 708 بلین روپے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439708/secp-chief-highlights-importance-of-digital-transformation)*
-- اسلام آباد میں 9ویں 'لیڈرز ان اسلام آباد بزنس سمٹ' (LIIBS 2026) کا انعقاد کیا جائے گا جس کا موضوع "دی نیکٹ موو" ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439702/nutshell-group-to-host-9th-edition-of-liibs-2026-tomorrow)*
-- میاں زاہد نے مطالبہ کیا کہ 2025-2026 کے لیے بجلی کے تقریباً 1,700 بلین روپے کے کپیسٹی چارجز صارفین کے بلوں کے بجائے وفاقی بجٹ سے ادا کیے جائیں۔ *[Business Recorder](https://www.brecorder.com/news/40439700/mian-zahid-demands-paying-capacity-charges-from-federal-budget)*
-- ماسٹر کارڈ اور بینک آف خیبر (BoK) نے ڈیجیٹل ادائیگیوں کے نظام کو وسعت دینے کے لیے اسٹریٹجک شراکت داری کا اعلان کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439699/mastercard-and-bok-partner-to-accelerate-digital-payments)*
-- لاہور چیمبر آف کامرس (LCCI) نے انکم ٹیکس ریٹرن جمع کرانے کی ڈیڈ لائن 30 ستمبر سے بڑھا کر 31 اکتوبر کرنے کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439698/lcci-seeks-extension-in-income-tax-return-filing-deadline)*
+- بھارتی اسٹاک ایکسچینج NSE نے اپنے آئی پی او (IPO) سے قبل 100 سے زائد اینکر انویسٹرز کو **67.45 ارب روپے ($702.93 ملین)** کے شیئرز الاٹ کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439796/indias-nse-allots-shares-worth-703-million-to-anchor-investors-sources-say)*
+- عالمی مارکیٹ میں سونے کی قیمتوں میں **1%** سے زائد اضافہ ہوا، جبکہ سپاٹ گولڈ **4,353.82 ڈالر** فی اونس پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439791/gold-gains-over-1-as-oil-yields-slip-ahead-of-fed-rate-decision)*
+- بھارت میں سبزیوں کے تیل کی قیمتوں میں گزشتہ ایک سال میں تقریباً **20 فیصد** اضافہ ہوا ہے، جس کے بعد حکومت درآمدی ٹیکس کم کرنے پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439790/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb)*
+- امریکہ میں فیڈرل ریزرو کے فیصلے سے قبل نیسڈیک (Nasdaq) اور ایس اینڈ پی 500 (S&P 500) کے انڈیکس میں اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439789/nasdaq-sampp-500-climb-ahead-of-keenly-awaited-fed-decision)*
+- سری لنکا کے اسٹاک مارکیٹ کا سی ای ایس ای (CSE) آل شیئر انڈیکس **0.61 فیصد** گر کر **21,133.41** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439788/sri-lankan-shares-fall-for-third-straight-session)*
+- تانبے کی قیمتوں میں **1.1 فیصد** اضافہ ہوا اور یہ **14,231 ڈالر** فی میٹرک ٹن پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40439786/copper-rises-with-signs-of-active-demand-from-china)*
+- خلیجی ممالک کی زیادہ تر اسٹاک مارکیٹس میں کمی دیکھی گئی، جبکہ سعودی عرب کی مارکیٹ مستحکم رہی۔ *[Business Recorder](https://www.brecorder.com/news/40439784/most-gulf-markets-fall-as-regional-risks-escalate-saudi-flat-on-supply-reassurance-reports)*
+- بھارت میں یو پی آئی (UPI) کے تحت **2,000 روپے** سے زائد کی تجارتی ادائیگیوں پر **0.4 فیصد** فیس عائد کرنے کا فیصلہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439783/indias-upi-fee-faces-retailer-broker-pushback)*
+- فنانس ڈویژن نے سرکاری اداروں (SOEs) کے مالیاتی حالات کے حوالے سے خبروں کی تردید کرتے ہوئے **35.8 ارب روپے** کے خالص مالیاتی آمد (net fiscal inflow) کا حوالہ دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439781/finance-division-rejects-claims-of-soe-financial-deterioration-cites-rs358bn-net-fiscal-inflow)*
+- پاکستان کے کرنٹ اکاؤنٹ میں اگست 2026 میں **98 ملین ڈالر** کا خسارہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439780/pakistan-posts-98mn-ca-deficit-in-august-2026)*
+- بھارتی روپیہ کمزور ہو کر **95.9550** فی ڈالر کی سطح پر بند ہوا، جو کہ چھ ہفتوں کی کم ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439779/indian-rupee-languishes-at-six-week-low-ahead-of-fed-outcome-rbi-limits-losses)*
+- بھارتی اسٹاک مارکیٹ میں اضافہ ہوا، جہاں Nifty 50 میں **0.43 فیصد** اور Sensex میں **0.45 فیصد** اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439778/indian-shares-edge-higher-after-selloff-oil-us-rate-worries-cap-gains)*
+- سیکিউرٹیز اینڈ ایکسچینج کمیشن آف پاکستان (SECP) نے انشورنس گارنٹیوں کو مزید محفوظ اور قابل اعتماد بنانے کے لیے اصلاحات کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439777/secp-proposes-reforms-to-strengthen-insurance-guarantees)*
 
 ### سائنس اور ٹیکنالوجی
-- بل گیٹس نے خبردار کیا ہے کہ اگر بروقت اقدامات نہ کیے گئے تو مصنوعی ذہانت (AI) عالمی ناانصافیوں کو مزید گہرا کر سکتی ہے۔ *[ARY](https://arynews.tv/bill-gates-warns-ai-could-deepen-global-injustice-without-deliberate-intervention)*
-- جی ایس ایم اے (GSMA) کی رپورٹ کے مطابق، پاکستان میں تقریباً 140 ملین لوگ موبائل براڈ بینڈ کوریج میں ہونے کے باوجود انٹرنیٹ استعمال نہیں کر رہے، جو کہ عالمی سطح پر ایک بڑا فرق ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439704/mobile-internet-usage-gap-pakistan-ranks-among-top-countries-by-absolute-number)*
-
-### کھیل
-- پارلیمانی کمیٹی نے پاکستان فٹ بال فیڈریشن (PFF) کو ہدایت کی ہے کہ وہ اپنے آئین اور قواعد کو فیفا (FIFA) کے تقاضوں کے مطابق بنائے۔ *[Business Recorder](https://www.brecorder.com/news/40439701/na-panel-directs-pff-to-align-constitution-rules-with-fifa-requirements)*
-
-### سیاست
-- پی ٹی آئی کے پنجاب کے اراکین نے لاہور میں عوامی رابطہ مہم (Street Movement) کو مزید تیز کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439706/pti-punjab-mps-agree-to-sustain-intensify-public-outreach)*
-- پی ٹی آئی نے عمران خان کی ہسپتال منتقلی کے حوالے سے فیڈرل کانস্টিٹیوشنل کورٹ (FCC) کے فیصلے پر تنقید کرتے ہوئے عدالتی خودمختاری پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439705/iks-hospital-transfer-case-pti-criticises-fcc-intervention-to-sc-order)*
-- صدر آصف علی زرداری نے پاک چین اسٹریٹجک اعتماد اور اقتصادی تعاون کو مزید مضبوط بنانے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439703/pak-china-strategic-trust-must-be-sustained-reinforced-president)*
-- جماعت اسلامی کے ایک وفد نے پیٹرولیم اور مالیاتی وزرای سے ملاقات کی اور ایندھن کے بحران پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439696/fuel-crisis-ji-panel-hails-relief-measures-in-meeting-with-ministers)*
-- بیارسٹر گوہر علی خان نے وزیراعلیٰ ساہیل آفریدی کے ساتھ پنجاب پولیس کے برتاؤ پر شدید برہمی کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439695/gohar-slams-punjab-police-for-mistreating-afridi)*
+- سیمسنگ نے Galaxy S26 سیریز کے لیے مستحکم Android 17 پر مبنی **One UI 9** اپ ڈیٹ جاری کر دی ہے۔ *[ARY](https://arynews.tv/samsung-rolls-out-stable-android-17-based-one-ui-9-update-for-galaxy-s26-series)*
+- مائیکروسافٹ کے AI چیف مصطفیٰ سلیمان نے Anthropic کے AI شعور (consciousness) سے متعلق تربیت کے طریقہ کار پر تنقید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439792/microsoft-ai-chief-calls-out-anthropics-approach-to-ai-consciousness)*
 
 ### قومی
-- سرجانی ٹاؤن قتل کے واقعات کی تحقیقات کے لیے آٹھ رکنی ٹیم تشکیل دے دی گئی ہے۔ *[ARY](https://arynews.tv/surjani-town-killings-eight-member-team-formed-to-probe-deaths)*
-- پنجاب حکومت نے سموگ سے نمٹنے کے لیے تمام اضلاع میں سڑکوں کی گیلی صفائی (wet-mechanical cleaning) کو لازمی قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439707/punjab-mandates-wet-cleaning-to-combat-smog)*
-- سابق پی ٹی آئی ایم پی اے شبیر گجر کو کورپس کمانڈر ہاؤس حملے کے کیس میں شناختی پیرےڈ کے لیے جیل بھیج دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439694/corps-commander-house-former-pti-mpa-sent-to-jail-for-identification-parade)*
+- پاکستان اور جنوبی کوریا نے آلو کے بیجوں کی پیداوار کے سلسلے میں باہمی تعاون بڑھانے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/pakistan-and-south-korea-expand-cooperation-on-potato-seed-production)*
+- کراچی ایئرپورٹ پر فائرنگ کے واقعے میں شاہین فورس کا ایک اہلکار شہید اور ایک دوسرا اہلکار زخمی ہو گیا۔ *[ARY](https://arynews.tv/karachi-airport-firing-shaheen-force-official-martyred-another-injured)*
+- احسن اقبال کے مطابق 'کوانٹم ویلی پاکستان' کا آغاز اسٹارٹ اپس اور ہائی ٹیک کمپنیوں کے لیے نئے راستے کھولے گا۔ *[ARY](https://arynews.tv/quantum-valley-pakistan-to-open-new-pathways-for-startups-high-tech-firms-ahsan-iqbal)*
+- پاکستان نے ایکسٹرا ورجن زیتون کے تیل اور عوامی صحت کو فروغ دینے والے عالمی اتحاد میں شمولیت اختیار کر لی ہے۔ *[ARY](https://arynews.tv/pakistan-joins-global-alliance-promoting-extra-virgin-olive-oil-and-public-health)*
+- بحری امور کے وفاقی وزیر محمد جنید انور چوہدری نے ٹیکسٹائل برآمد کنندگان کے لیے بندرگاہوں پر کسٹمز اور ٹرانزٹ کے طریقہ کار کو بہتر بنانے کی ہدایت کی۔ *[Business Recorder](https://www.brecorder.com/news/40439795/maritime-minister-seeks-measures-to-ease-textile-exporters-port-issues)*
+- کراچی میں غیرت کے نام پر قتل کی کوشش کے دوران ایک شخص اور حملہ آور کا ساتھی ہلاک ہو گیا۔ *[ARY](https://arynews.tv/karachi-honour-killing-attempt-leaves-victim-attackers-accomplice-dead)*
 
 ### بین الاقوامی
-- امریکی کنگریسی بجٹ آفس کے مطابق ایران جنگ کی وجہ سے امریکی فوج کو 38 بلین ڈالر کا نقصان پہنچا ہے۔ *[ARY](https://arynews.tv/iran-war-has-cost-us-military-38-bn-congressional-budget-office)*
-- مصر نے سعودی عرب کے ساتھ اظہار یکجہتی کرتے ہوئے سمندری راستوں کو بلا روک ٹوک کھلا رکھنے پر زور دیا۔ *[ARY](https://arynews.tv/cairo-egypt-stands-with-saudi-urges-unhindered-sea-routes)*
-- سعودی عرب نے نیشنل ایس ایم ای (SME) حکمت عملی کی منظوری دی ہے جس کا مقصد 2030 تک 500,000 ملازمتیں پیدا کرنا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-endorses-national-sme-strategy-to-create-500000-jobs-by-2030)*
-- قطر نے باب المندب کے اہم سمندری راستے کو بند کرنے کے خلاف خبردار کیا ہے۔ *[ARY](https://arynews.tv/qatar-warns-against-closure-of-critical-bab-al-mandab-maritime-strait)*
-- بھارتی روپے پر تیل کی بڑھتی ہوئی قیمتوں اور امریکی فیڈرل ریزرو کی ممکنہ شرح سود میں اضافے کے باعث دباؤ بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439731/indian-rupee-faces-more-pressure-with-likely-fed-rate-hike-compounding-oil-pain)*
-- سعودی افواج نے مکہ مکرمہ کے قریب ایک حوثی ڈرون کو تباہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40439730/saudi-coalition-says-houthi-drone-destroyed-near-makkah)*
-- گروگراہم (بھارت) میں ہٹ اینڈ رن کیس میں پولیس نے قتل کی کوشش کا الزام عائد کر دیا ہے۔ *[ARY](https://arynews.tv/gurugram-shocker-police-slap-attempt-to-murder-charge-in-hit-and-run-case)*
+- سعودی عرب نے غیر قانونی لیبر ریکروٹمنٹ ایجنسیوں پر **250,000 ریال** تک جرمانے عائد کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/saudi-arabia-penalizes-unauthorized-labor-recruitment-agencies-with-fine-of-up-to-sr250000)*
+- اٹلی نے فاشسٹ سلام (salute) کرنے پر **16** رومہ (Roma) مداحوں پر پابندی عائد کر دی ہے۔ *[ARY](https://arynews.tv/italy-bans-16-roma-fans-over-fascist-salute)*
+- چینی وزیر خارجہ وانگ ای نے ایران اور امریکہ پر زور دیا کہ وہ تحمل کا مظاہرہ کریں اور بات چیت کا سلسلہ دوبارہ شروع کریں۔ *[Business Recorder](https://www.brecorder.com/news/40439785/chinas-top-diplomat-urges-iran-us-to-show-restraint-revive-talks)*
 
-### صحت
-- لاہور چیمبر آف کامرس (LCCI) نے متبادل ادویات اور صحت کی مصنوعات کے لیے ایک مربوط آن لائن پورٹل کے حوالے سے سیشن منعقد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439697/alternative-medicines-health-products-lcci-holds-session-on-integrated-online-portal)*
-
-### دیگر
-- ایک تحقیق کے مطابق یوٹیوب اسپورٹس مواد حقیقی دنیا کی جسمانی سرگرمیوں کو بڑھانے میں ناکام رہا ہے۔ *[ARY](https://arynews.tv/youtube-sports-content-fails-to-boost-real-world-physical-activity-study-finds)*
+### کھیل
+- مین سٹی کے کوچ میسرکا نے میچ کے بعد VAR کے حوالے سے جاری بحث پر تشویش کا اظہار کیا۔ *[ARY](https://arynews.tv/man-city-boss-maresca-laments-var-debate-after-win)*
+- F1 نے بحرین میں **2027** کے پری سیزن ٹیسٹ کی تاریخوں کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/f1-reveals-2027-pre-season-test-dates-in-bahrain)*
+- ریٹائرڈ ٹینس اسٹار رافیل نڈال اپنی اکیڈمی کی 10 ویں سالگرہ کے موقع پر نمائش کے میچ (exhibition matches) کھیلیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40439794/retired-great-nadal-to-play-in-exhibition-matches)*
+- فیفا (FIFA) نے اپنے منسوخ شدہ سرمایہ کاری منصوبے کے جائزے کو کونسل کے سامنے پیش کرنے کا کہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439787/fifa-says-review-of-shelved-investment-plan-to-be-presented-to-council)*
 
