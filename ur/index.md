@@ -7,44 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 17-Sep-2026 09:09PKT 
+ &lrm; 17-Sep-2026 21:11PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پیٹرول کی قیمت **400 روپے** کے قریب پہنچنے کا خدشہ ہے کیونکہ OGRA نے قیمتوں میں اضافے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/petrol-nears-rs400-as-ogra-announces-fresh-price-hike)*
-- پاکستان کے سیمنٹ سیکٹر میں مالی سال 2026 کے دوران منافع میں **13 فیصد** اضافہ دیکھا گیا، تاہم اگست 2026 میں ترسیلات تقریباً **4 ملین ٹن** رہ گئیں جو کہ گزشتہ سال کے مقابلے میں **0.7 فیصد** کم ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439830/cement-earnings-rise-recovery-turns-uneven)*
-- ایمیزون نے امریکہ میں اپنے آپریشنز کے لیے کم از کم فی گھنٹہ اجرت میں **1 ڈالر** کا اضافہ کر کے اسے **20 ڈالر** کر دیا ہے۔ *[ARY](https://arynews.tv/amazon-raises-minimum-hourly-pay-by-1-to-20-for-us-operations-workers)*
-- لاہور چیمبر آف کامرس (LCCI) کے مطابق پاکستان کی برآمدات **30 ارب ڈالر** کی سطح پر رکی ہوئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439844/exports-stuck-around-the-usd30bn-mark-lcci-chief)*
-- پاکستان شوگر ملز ایسوسی ایشن (PSMA) نے خبردار کیا ہے کہ اگر **10 لاکھ ٹن** اضافی چینی کی برآمد کی اجازت نہ دی گئی تو کرشنگ سیزن میں تاخیر ہو سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439851/psma-says-surplus-sugar-may-delay-crushing-season)*
-- امریکی فیڈرل ریزرو نے شرح سود میں **25 بیسس پوائنٹس** کا اضافہ کر دیا ہے، جبکہ گولڈمین سیکس نے اکتوبر میں مزید اضافے کی توقع ظاہر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439917/goldman-sachs-now-sees-fed-hiking-again-in-october)*
-- امریکی ڈالر اپنی **سات ہفتوں** کی بلند ترین سطح پر پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439913/hawkish-fed-lifts-dollar-to-seven-week-high-as-focus-turn-to-boj)*
-- سونے کی قیمتوں میں **1.1 فیصد** اضافہ ہوا اور یہ **4,310.49 ڈالر** فی اونس تک پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439912/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls)*
-- عالمی مارکیٹ میں برینٹ کروڈ **104.59 ڈالر** اور ڈبلیو ٹی آئی (WTI) **101.29 ڈالر** فی بیرل پر گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439910/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease)*
-- بھارتی روپیہ امریکی ڈالر کے مقابلے میں **96** کی سطح کو عبور کر کے کمزور ہونے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439915/hawkish-fed-adds-to-indian-rupee-troubles-traders-watch-96usd-hurdle)*
-- بھارت میں سبزیوں کے تیل کی بڑھتی ہوئی قیمتوں کے پیش نظر درآمدی ٹیکسوں میں کمی پر غور کیا جا رہا ہے۔ *[ARY](https://arynews.tv/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb)*
+- حکومت اور پیٹرولیم ڈیلرز کے درمیان پٹرول ریلیف پیکج کے تحت 100 روپے فی لیٹر سبسڈی کی ادائیگی کے طریقہ کار پر اتفاق ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439989/government-petroleum-dealers-reach-agreement-on-fuel-relief-package)*
+- اسٹیٹ بینک آف پاکستان نے 10 روپے کے نوٹ کو ختم کرنے کی خبروں کو غلط قرار دیتے ہوئے ان کی تردید کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439986-sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless)*
+- اسٹیٹ بینک کے پاس غیر ملکی زر کے ذخائر گزشتہ ہفتے میں 3.061 ارب ڈالر اضافے کے ساتھ 21.389 ارب ڈالر تک پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40439985-sbp-held-forex-reserves-surge-over-3bn-to-213bn)*
+- کراچی پورٹ کا لائنر شپنگ کنیکٹیویٹی انڈیکس (PLSCI) دوسری سہتائی کے دوران ریکارڈ 343.02 تک پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439981-karachi-ports-liner-shipping-connectivity-hits-record-high)*
+- پاکستان کی کل برآمدات (2025) 30.67 ارب ڈالر تھیں، جو عالمی برآمدات (25.61 ٹریلین ڈالر) کا صرف 0.12 فیصد ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40439979-pakistans-export-trap-and-revealed-comparative-advantage)*
+- سری لنکا کے اسٹاک مارکیٹ کا CSE آل شیئر انڈیکس 0.52 فیصد گر کر 21,023.43 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439977-sri-lankan-shares-extend-losing-streak-as-communication-real-estate-stocks-weigh)*
+- تانبے (Copper) کی قیمتیں 1.2 فیصد اضافے کے ساتھ 14,408 ڈالر فی میٹرک ٹن پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40439976-copper-rallies-as-chinese-buyers-return-to-the-market)*
+- ورلڈ بینک نے سالانہ 112 ارب ڈالر کی ریکارڈ نجی سرمایہ کاری اکٹھا کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439969-world-bank-boosts-private-capital-mobilization-to-record-112-billion)*
+- بینک آف انگلینڈ نے شرح سود 3.75 فیصد پر برقرار رکھی ہے، تاہم افراط زر کے 4 فیصد سے تجاوز کرنے کی وارننگ دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439972-bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates)*
+- ملائیشیا میں پام آئل کی قیمتوں میں 1.16 فیصد کمی آئی ہے اور یہ 4,940 رنگٹ پر آگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439970-palm-oil-falls-over-1-on-exports-rival-oils-weakness)*
+- وفاقی آئینی عدالت نے این بی پی (NBP) کے پنشنرز کے حق میں فیصلہ دیتے ہوئے بینک کی اپیل مسترد کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439974-nbp-pensioners-entitled-to-govt-pension-increases-after-court-dismisses-banks-appeal)*
+- گلف ممالک کی اسٹاک مارکیٹس امریکی فیڈرل ریزرو کی شرح سود میں اضافے کے بعد بہتر کارکردگی کے ساتھ بند ہوئیں۔ *[Business Recorder](https://www.brecorder.com/news/40439982-most-gulf-bourses-end-higher-as-investers-weigh-fed-rate-hike)*
+- انڈیا کا انفرا اسٹرکچر لینڈر NaBFID دسمبر تک 4 ارب ڈالر کا سرمایہ اکٹھا کرنے کا ہدف رکھتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439971-india-infra-lender-targets-4bn-in-dollar-funding-by-december-exec-says)*
+- انڈین ریزرو بینک مارکیٹ سے اضافی رقم جذب کرنے کے لیے بانڈز کی فروخت میں اضافہ کر سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439973-india-rbi-may-increase-debt-sales-to-drain-liquidity-after-first-such-auction-in-9-years)*
 
 ### سائنس اور ٹیکنالوجی
-- اوپن اے آئی (OpenAI) نے مصنوعی ذہانت (AI) کے غلط استعمال کے **6 نئے کیسز** کا انکشاف کیا ہے۔ *[ARY](https://arynews.tv/openai-reveals-six-new-cases-of-ai-misbehavior-vows-transparency)*
-- ہواوے (Huawei) نے سال **2027** میں دو نئے اے آئی چپس، **960DT** (پہلی سہ ماہی میں) اور **Ascend 960PR** (تیسری سہ ماہی میں) لانچ کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439916/chinas-huawei-to-launch-two-new-ai-chips-in-2027)*
-- iOS 27 کے نئے اپ ڈیٹ میں 'Find My' فیچر کے ذریعے صارفین اپنی لوکیشن بغیر کسی الرٹ کے عارضی طور پر چھپا سکیں گے۔ *[ARY](https://arynews.tv/find-my-update-in-ios-27-lets-users-temporarily-hide-location-without-alerts)*
+- جرمن عدالت نے میٹا (Meta) کو انسٹاگرام اور فیس بک پر جعلی اشتہارات چلانے کا ذمہ دار قرار دے دیا ہے۔ *[ARY](https://arynews.tv/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook)*
 
 ### سیاست
-- وزیر مملکہ برائے داخلہ طلال چوہدری کا بیان کہ بعض سیاسی جماعتوں اور کارکنوں کا تعلق **دہشت گرد نیٹ ورکس** سے ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439837/some-political-parties-workers-involved-in-terrorist-networks-talal)*
-- سپریم کورٹ نے سابق وزیراعظم عمران خان کی نجی ہسپتال میں منتقلی کی درخواست پر اٹارنی جنرل سے قانونی اختیار کے حوالے سے رائے طلب کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439838/ik-hospital-transfer-pleas-sc-seeks-agps-views-on-jurisdiction)*
-- پنجاب میں کرپشن کے خلاف کارروائی کے دوران گزشتہ **13 دنوں** میں **791 پولیس اہلکاروں** کے خلاف سخت ایکشن لیا گیا، جبکہ **78 اہلکاروں** کو برطرف کر دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40439847/corruption-action-taken-against-791-police-officers-minister)*
-- پنجاب اسمبلی کی قائمہ کمیٹی نے لیبر ڈپارٹمنٹ کو **دو ہفتوں** کے اندر لیبر عدالتیں فعال کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439853/pa-panel-seeks-labour-courts-activation-in-2-weeks)*
-- وزیراعلیٰ پنجاب مریم نواز نے ماحولیاتی تحفظ اور اوزون کی تہہ کے تحفظ کے لیے عملی اقدامات کرنے کا عزم ظاہر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439852/practical-steps-taken-to-protect-environment-cm)*
+- سپریم کورٹ نے حقوق کی وکیل ایمان مزاری اور ان کے شوہر کی 17 سالہ قید کی سزا معطل کر کے انہیں ضمانت پر رہا کرنے کا حکم دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439983-supreme-court-suspends-sentences-of-rights-lawyer-mazari-and-husband)*
+- میر رضا علی کیس میں عدالتی کمیشن نے پہلے تفتیشی افسر سے پوچھ گچھ کی ہے، جبکہ احمد بھردے کے انٹرویوز کو ایک مخصوص تاثر پیدا کرنے والا قرار دیا گیا ہے۔ *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-questions-first-investigating-officer-in-case)* | *[ARY](https://arynews.tv/mir-raza-case-commission-says-ahmed-bhardays-interviews-create-impression-he-was-launched)*
 
 ### قومی
-- سرجانی ٹاؤن فیملی قتل کیس کی تحقیقات کے دوران ایک قریبی جاننے والے کو حراست میں لے لیا گیا ہے۔ *[ARY](https://arynews.tv/surjani-town-family-killings-close-acquaintance-detained-as-investigation-advances)*
-- کراچی میں پولیس افسران پر ہونے والے جان لیوا حملے کے بعد **دو مشتبہ افراد** کو گرفتار کر لیا گیا ہے۔ *[ARY](https://arynews.tv/karachi-firing-two-suspects-arrested-after-deadly-attack-on-police-officials)*
+- پنجاب میں اب موٹر سائیکل سوار غلط ای-چلان کو آن لائن چیلنج کر سکیں گے۔ *[ARY](https://arynews.tv/motorists-can-challenge-incorrect-e-challans-online-in-punjab)*
+- وفاقی حکومت کے نئے کفایت شعاری اقدامات کے تحت مارکیٹوں اور بازاروں کے اوقات کار تبدیل کر دیے گئے ہیں، جس کے تحت دکانیں رات 9 بجے بند ہوں گی۔ *[Business Recorder](https://www.brecorder.com/news/40439975-markets-to-close-at-9pm-as-govt-notifies-fresh-austerity-fuel-conservation-measures)*
+- پنجاب حکومت نے اس خبر کی تردید کر دی ہے کہ صوبے میں تین روزہ اسکولوں کی تعطیلات ہوں گی۔ *[ARY](https://arynews.tv/punjab-rejects-reports-of-three-day-school-holiday)*
+- کراچی ایئرپورٹ پر ہونے والے حملے میں گرفتار دو مشتبہ افراد کا مجرمانہ ریکارڈ سامنے آیا ہے۔ *[ARY](https://arynews.tv/karachi-airport-attack-criminal-records-of-two-arrested-suspects-revealed)*
 
 ### بین الاقوامی
-- یمن میں سعودی سرحد کے قریب یمنی افواج اور حوثیوں کے درمیان جھڑپیں ہوئیں۔ *[ARY](https://arynews.tv/yemeni-forces-clash-with-houthis-near-saudi-border)*
-- سارک چیمبر آف کامرس اینڈ انڈسٹری (SAARC CCI) کے ایک اعلیٰ وفد نے لندن میں **10 ڈاؤننگ اسٹریٹ** کا تاریخی دورہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40439843/saarc-chamber-president-leads-high-level-team-to-10-downing-street)*
-- امریکی صدر ڈونلڈ ٹرمپ نے فیڈرل ریزرو کی جانب سے شرح سود میں اضافے پر سخت تنقید کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439918/trump-lashes-out-at-fed-after-warsh-backs-rate-hike)*
+- سویڈن کے وزیر اعظم اولف کرسٹرسن نے الیکشن ہارنے کے بعد استعفیٰ دے دیا ہے، جبکہ سوشل ڈیموکریٹس کی قیادت میں اپوزیشن نے 176 سیٹیں حاصل کیں۔ *[Business Recorder](https://www.brecorder.com/news/40439987-swedens-prime-minister-steps-down-after-losing-election)*
+- سعودی عرب میں حوثیوں کے ڈرون کو ناکام بنانے کے دوران ایک یمنی شہری ہلاک اور ایک پاکستانی شہری زخمی ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40439984-one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis)*
+- چین نے سعودی عرب کی درخواست پر ایران سے مطالبہ کیا ہے کہ وہ حوثیوں پر قابو پائے۔ *[ARY](https://arynews.tv/china-asks-iran-to-rein-in-houthis-after-saudi-appeal-reuters-reports)*
+- امریکی صدر ٹرمپ، چینی صدر شی جن پنگ کی میزبانی کریں گے۔ *[ARY](https://arynews.tv/trump-to-host-xi-amid-pomp-low-expectations)*
+- عمان نے قومی دن کے حوالے سے اشیاء کی تیاری کے لیے پہلے سے منظوری لینا لازمی قرار دے دیا ہے۔ *[ARY](https://arynews.tv/oman-mandates-prior-approval-for-national-day-merchandise-production)*
 
 ### کھیل
-- ایک این ایف ایل (NFL) اسٹار پر فلسطینی لڑکی کا نام ظاہر کرنے پر جرمانہ عائد کیا گیا ہے۔ *[ARY](https://arynews.tv/nfl-star-fined-for-displaying-name-of-slain-palestinian-girl)*
+- برطانوی ٹینس کھلاڑی جو سالزبری (Joe Salisbury) نے 34 سال کی عمر میں پیشہ ورانہ ٹینس سے ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40439988-former-doubles-world-number-one-salisbury-retires)*
+- جرمنی کے کوچ جرگن کلوپ نے کہا ہے کہ جرمنوں کو انتہا پسندی کے بجائے قومی فخر کا اظہار کرنے کا حق ہونا چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40439980-klopp-says-germany-must-reclaim-national-pride-from-wrong-people)*
+- سورو گنگولی کی بائیو پیک شوٹنگ کے حوالے سے لیسٹر شائر کو 27 پوائنٹس کی سزا کا تعلق جوڑا گیا ہے۔ *[ARY](https://arynews.tv/sourav-ganguly-biopic-shoot-linked-to-leicestershires-27-point-penalty)*
 
