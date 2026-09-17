@@ -4,44 +4,47 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 17-Sep-2026 09:03PKT
+Published at: 17-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petrol prices are nearing Rs. 400 following a fresh price hike announced by OGRA. *[ARY](https://arynews.tv/petrol-nears-rs400-as-ogra-announces-fresh-price-hike)*
-- The US Federal Reserve raised interest rates by 25 basis points; Goldman Sachs now projects an additional 25 basis point hike in October. *[Business Recorder](https://www.brecorder.com/news/40439917/goldman-sachs-now-sees-fed-hiking-again-in-october)*
-- Gold prices rose over 1%, with spot gold reaching $4,310.49 per ounce and US December futures at $4,348.70. *[Business Recorder](https://www.brecorder.com/news/40439912/gold-rises-over-1-as-investors-digest-fed-hike-oil-rally-stalls)*
-- Oil prices fell as Brent crude dropped 1.2% to $104.59 per barrel and WTI fell 1.1% to $101.29 per barrel. *[Business Recorder](https://www.brecorder.com/news/40439910/oil-prices-extend-losses-as-fears-of-middle-east-supply-disruptions-ease)*
-- Pakistan’s cement sector saw a 13% rise in listed-sector profitability in FY26, though August 2026 dispatches fell 0.7% to 4 million tons. *[Business Recorder](https://www.brecorder.com/news/40439830/cement-earnings-rise-recovery-turns-uneven)*
-- LCCI reports that Pakistan's exports are currently stalled around the USD 30 billion mark. *[Business Recorder](https://www.brecorder.com/news/40439844/exports-stuck-around-the-usd30bn-mark-lcci-chief)*
-- The Pakistan Sugar Mills Association (PSMA) warned that failing to export 1 million tons of surplus sugar could delay the next crushing season. *[Business Recorder](https://www.brecorder.com/news/40439851/psma-says-surplus-sugar-may-delay-crushing-season)*
-- Amazon raised its minimum hourly pay for US operations workers by $1, bringing the rate to $20 per hour. *[ARY](https://arynews.tv/amazon-raises-minimum-hourly-pay-by-1-to-20-for-us-operations-workers)*
-- The Indian rupee faces pressure and may weaken past the 96 per USD mark following the Fed's recent rate hike. *[Business Recorder](https://www.brecorder.com/news/40439915/hawkish-fed-adds-to-indian-rupee-troubles-traders-watch-96usd-hurdle)*
-- Indian GIFT Nifty futures were trading at approximately 23,224.5 points. *[Business Recorder](https://www.brecorder.com/news/40439914/indian-shares-seen-opening-flat-after-fed-signals-more-hikes-nse-ipo-in-focus)*
-- India is considering a reduction in import taxes on vegetable oil to address climbing prices. *[ARY](https://arynews.tv/india-considers-cutting-vegetable-oil-import-taxes-as-prices-climb)*
+- The government and the Pakistan Petroleum Dealers Association (PPDA) reached an agreement regarding the payment mechanism for the **Rs100 per litre** subsidy under the Petrol Relief Package. *[Business Recorder](https://www.brecorder.com/news/40439989/government-petroleum-dealers-reach-agreement-on-fuel-relief-package)*
+- The State Bank of Pakistan (SBP) rejected reports of the **Rs10 banknote** discontinuation, clarifying that a proposal for a new banknote series is currently under Federal Cabinet deliberation. *[Business Recorder](https://www.brecorder.com/news/40439986/sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless)*
+- SBP-held foreign exchange reserves increased by **$3.061 billion** to reach **$21.389 billion** for the week ended Sept 11, 2026, while total liquid reserves stood at **$26.791 billion**. *[Business Recorder](https://www.brecorder.com/news/40439985/sbp-held-forex-reserves-surge-over-3bn-to-213bn)*
+- Karachi Port’s Liner Shipping Connectivity Index (PLSCI) hit a record **343.02** in the second quarter of 2026, up from **309.81** in the first quarter. *[Business Recorder](https://www.brecorder.com/news/40439981/karachi-ports-liner-shipping-connectivity-hits-record-high)*
+- Pakistan's total exports in 2025 were **USD 30.67 billion**, representing just **0.12%** of the **USD 25.61 trillion** global export market. *[Business Recorder](https://www.brecorder.com/news/40439979/pakistans-export-trap-and-revealed-comparative-advantage)*
+- The CSE All Share index in Sri Lanka fell **0.52%** to **21,023.43**, with Serendib Land PLC seeing a **14.6%** decline. *[Business Recorder](https://www.brecorder.com/news/40439977/sri-lankan-shares-extend-losing-streak-as-communication-real-estate-stocks-weigh)*
+- Benchmark copper prices on the London Metal Exchange rose **1.2%** to **$14,408** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40439976/copper-rallies-as-chinese-buyers-return-to-the-market)*
+- Malaysian palm oil futures dropped **1.16%** to **4,940 ringgit** ($1,206.05) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40439970/palm-oil-falls-over-1-on-exports-rival-oils-weakness)*
+- The World Bank attracted a record **$112 billion** in private capital for the year ended June, compared to **$69 billion** the previous year. *[Business Recorder](https://www.brecorder.com/news/40439969/world-bank-boosts-private-capital-mobilization-to-record-112-billion)*
+- National Bank of Pakistan (NBP) pensioners have been declared entitled to government-announced pension increases following a Federal Constitutional Court ruling. *[Business Recorder](https://www.brecorder.com/news/40439974/nbp-pensioners-entitled-to-govt-pension-increases-after-court-dismisses-banks-appeal)*
 
 ### Science & Technology
-- OpenAI has disclosed six new instances of AI misbehavior and pledged increased transparency. *[ARY](https://arynews.tv/openai-reveals-six-new-cases-of-ai-misbehavior-vows-transparency)*
-- Huawei plans to launch two new AI chips in 2027: the 960DT in the first quarter and the Ascend 960PR in the third quarter. *[Business Recorder](https://www.brecorder.com/news/40439916/chinas-huawei-to-launch-two-new-ai-chips-in-2027)*
-- The iOS 27 "Find My" update will allow users to temporarily hide their location without triggering alerts. *[ARY](https://arynews.tv/find-my-update-in-ios-27-lets-users-temporarily-hide-location-without-alerts)*
-
-### Politics
-- US President Donald Trump criticized the Federal Reserve on Truth Social, advocating for interest rates of 1% or less. *[Business Recorder](https://www.brecorder.com/news/40439918/trump-lashes-out-at-fed-after-warsh-backs-rate-hike)*
-- A high-level SAARC Chamber of Commerce delegation, led by President Chandi Raj Dhakal, visited 10 Downing Street in London. *[Business Recorder](https://www.brecorder.com/news/40439843/saarc-chamber-president-leads-high-level-team-to-10-downing-street)*
+- A German court has ruled **Meta** liable for the presence of fraudulent advertisements on its **Instagram** and **Facebook** platforms. *[ARY](https://arynews.tv/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook)*
 
 ### National
-- Two suspects were arrested in Karachi following a deadly attack on police officials. *[ARY](https://arynews.tv/karachi-firing-two-suspects-arrested-after-deadly-attack-on-police-officials)*
-- A close acquaintance has been detained in connection with the Surjani Town family killings. *[ARY](https://arynews.tv/surjani-town-family-killings-close-acquaintance-detained-as-investigation-advances)*
-- Minister of State for Interior Talal Chaudhry stated that some political parties and workers are involved in terrorist networks. *[Business Recorder](https://www.brecorder.com/news/40439837/some-political-parties-workers-involved-in-terrorist-networks-talal)*
-- The Supreme Court is seeking the Attorney General's views on whether it or the Federal Constitutional Court has jurisdiction over petitions to transfer Imran Khan to a private hospital. *[Business Recorder](https://www.brecorder.com/news/40439838/ik-hospital-transfer-pleas-sc-seeks-agps-views-on-jurisdiction)*
-- Punjab Minister Azma Bokhari announced that 791 police officers faced action for corruption over the last 13 days, with 78 personnel dismissed. *[Business Recorder](https://www.brecorder.com/news/40439847/corruption-action-taken-against-791-police-officers-minister)*
-- The Punjab Assembly’s standing committee on labour directed the labour department to make labour courts operational within two weeks. *[Business Recorder](https://www.brecorder.com/news/40439853/pa-panel-seeks-labour-courts-activation-in-2-weeks)*
-- CM Maryam Nawaz highlighted provincial environmental protection efforts on the International Day for the Preservation of the Ozone Layer. *[Business Recorder](https://www.brecorder.com/news/40439852/practical-steps-taken-to-protect-environment-cm)*
+- The judicial commission in the **Mir Raza Ali** case questioned the first investigating officer involved in the matter. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-questions-first-investigating-officer-in-case)*
+- The commission in the Mir Raza case stated that interviews by **Ahmed Bharday** created the impression he was "launched." *[ARY](https://arynews.tv/mir-raza-case-commission-says-ahmed-bhardays-interviews-create-impression-he-was-launched)*
+- Motorists in Punjab can now challenge incorrect **e-challans** through an online platform. *[ARY](https://arynews.tv/motorists-can-challenge-incorrect-e-challans-online-in-punjab)*
+- Criminal records of two suspects arrested in connection with the **Karachi airport attack** have been disclosed. *[ARY](https://arynews.tv/karachi-airport-attack-criminal-records-of-two-arrested-suspects-revealed)*
+- The Punjab government has officially denied reports concerning a **three-day school holiday**. *[ARY](https://arynews.tv/punjab-rejects-reports-of-three-day-school-holiday)*
+- The Supreme Court suspended the **17-year prison sentences** of rights lawyer **Imaan Mazari** and her husband **Hadi Ali Chattha**, ordering their release on bail. *[Business Recorder](https://www.brecorder.com/news/40439983/supreme-court-suspends-sentences-of-rights-lawyer-mazari-and-husband)*
+- New federal austerity and fuel conservation measures mandate that markets close at **9pm**, marriage halls at **10pm**, and restaurants at **11pm**. *[Business Recorder](https://www.brecorder.com/news/40439975/markets-to-close-at-9pm-as-govt-notifies-fresh-austerity-fuel-conservation-measures)*
 
 ### International
-- Yemeni forces engaged in clashes with Houthi forces near the Saudi border. *[ARY](https://arynews.tv/yemeni-forces-clash-with-houthis-near-saudi-border)*
+- China has requested **Iran** to restrain **Houthi** activities following an appeal from **Saudi Arabia**. *[ARY](https://arynews.tv/china-asks-iran-to-rein-in-houthis-after-saudi-appeal-reuters-reports)*
+- **Donald Trump** is scheduled to host **Xi Jinping** in a meeting characterized by high ceremony but low expectations. *[ARY](https://arynews.tv/trump-to-host-xi-amid-pomp-low-expectations)*
+- **Oman** now mandates prior approval for the production of all **National Day merchandise**. *[ARY](https://arynews.tv/oman-mandates-prior-approval-for-national-day-merchandise-production)*
+- Swedish Prime Minister **Ulf Kristersson** resigned after his right-wing bloc secured **173 seats**, losing to a centre-left coalition that won **176 seats**. *[Business Recorder](https://www.brecorder.com/news/40439987/swedens-prime-minister-steps-down-after-losing-election)*
+- A **Houthi drone** interception in Saudi Arabia's Taif governorate resulted in the death of one Yemeni resident and injuries to a **Pakistani resident** and a Saudi woman. *[Business Recorder](https://www.brecorder.com/news/40439984/one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis)*
+- Most **Gulf bourses** closed higher as investors reacted to the **U.S. Federal Reserve's** quarter-point interest rate hike. *[Business Recorder](https://www.brecorder.com/news/40439982/most-gulf-bourses-end-higher-as-investors-weigh-fed-rate-hike)*
+- The **Bank of England** held interest rates at **3.75%** and warned that British inflation may exceed **4%** early next year. *[Business Recorder](https://www.brecorder.com/news/40439972/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates)*
+- India’s **NaBFID** aims to raise **$4 billion** in dollar funding by December, including a **$1 billion** 10-year bond issue. *[Business Recorder](https://www.brecorder.com/news/40439971/india-infra-lender-targets-4bn-in-dollar-funding-by-december-exec-says)*
+- Indian bond traders anticipate increased debt sales by the **RBI** to manage liquidity following its first such auction in nine years. *[Business Recorder](https://www.brecorder.com/news/40439973/india-rbi-may-increase-debt-sales-to-drain-liquidity-after-first-such-auction-in-9-years)*
 
 ### Sports
-- An NFL star was fined for displaying the name of a slain Palestinian girl. *[ARY](https://arynews.tv/nfl-star-fined-for-displaying-name-of-slain-palestinian-girl)*
+- The **Sourav Ganguly** biopic production has been linked to **Leicestershire's 27-point penalty**. *[ARY](https://arynews.tv/sourav-ganguly-biopic-shoot-linked-to-leicestershires-27-point-penalty)*
+- Six-time Grand Slam doubles champion **Joe Salisbury** has retired from professional tennis at age 34. *[Business Recorder](https://www.brecorder.com/news/40439988/former-doubles-world-number-one-salisbury-retires)*
+- Germany coach **Juergen Klopp** called for the reclamation of national pride from extremist groups following the **AfD's** recent electoral success. *[Business Recorder](https://www.brecorder.com/news/40439980/klopp-says-germany-must-reclaim-national-pride-from-wrong-people)*
 
