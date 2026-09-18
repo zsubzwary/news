@@ -7,43 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Sep-2026 09:09PKT 
+ &lrm; 18-Sep-2026 21:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- جاپان کے مرکزی بینک نے شرح سود میں اضافہ کر کے اسے 31 سال کی بلند ترین سطح 1.25 فیصد تک پہنچا دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440100/boj-raises-interest-rates-to-31-year-high-in-widely-expected-move)*
-- عالمی مارکیٹ میں خام تیل کی قیمتوں میں 1 فیصد کمی واقع ہوئی؛ برینٹ کرود 103.77 ڈالر اور یو ایس ڈبلیو ٹی آئی (WTI) 100.88 ڈالر فی بیرل پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40440095/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions)*
-- پاکستان میں پیٹرول کی قیمت میں 43 پیسے فی لیٹر کی کمی (نئی قیمت 390.79 روپے) جبکہ ہائی اسپیڈ ڈیزل (HSD) کی قیمت میں 3.47 روپے کا اضافہ (نئی قیمت 424.92 روپے) کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440079/petrol-price-cut-by-43-paise-hsds-up-by-rs347)*
-- کراچی پورٹ نے شپنگ کنیکٹیویٹی کے حوالے سے اب تک کا سب سے بڑا ریکارڈ قائم کر لیا ہے۔ *[ARY](https://arynews.tv/karachi-port-records-highest-ever-shipping-connectivity)*
-- کراچی انڈسٹریل پارک کے لینڈ لیز اور مراعاتی فریم ورک کو حتمی شکل دی جا رہی ہے۔ *[ARY](https://arynews.tv/karachi-industrial-parks-land-lease-and-incentive-framework-nears-finalization)*
-- ماہرین کے مطابق سرکاری ادارے (SOEs) اب ناقابل برداشت نقصانات کا شکار ہو چکے ہیں اور فوری اصلاحات کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440075/soes-have-become-nearly-unsustainable-mian-zahid)*
-- بھارتی کرنسی (روپیہ) اور اسٹاک مارکیٹ میں تیل کی قیمتوں میں کمی اور آئی پی اوز (IPOs) کے باعث بہتری کے امکانات ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440098/indian-rupee-may-find-breathing-room-on-ipo-linked-inflows-oil-retreat)*
-- جاپانی ین (Yen) ڈالر اور یورو کے مقابلے میں کمزوری کا شکار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440096/yen-weak-ahead-of-boj-decision-rate-hike-expected)*
-- کینیا کے ہائی کمشنر نے پاکستان کے ساتھ تجارتی تعلقات کو مزید بڑھانے پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440067/kenyan-hc-for-enhancing-trade-with-pakistan)*
+- مالی سال 26 (FY26) میں پاکستان کی جی ڈی پی (GDP) کی شرح نمو بحال ہو کر **3.7 فیصد** تک پہنچ گئی ہے۔ *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
+- تیل کی صنعت نے خبردار کیا ہے کہ پاکستان کو پٹرول اور ڈیزل کی قلت کا سامنا کرنا پڑ سکتا ہے۔ *[ARY](https://arynews.tv/pakistan-may-face-petrol-and-diesel-shortages-oil-industry-warns)*
+- حکومت نے بجلی کی تقسیم کرنے والی کمپنیوں (DISCOs) کی نجکاری میں ترکیہ کی دلچسپی کا خیر مقدم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440167/pakistan-welcomes-turkish-interest-in-disco-privatisation)*
+- وزیراعظم شہباز شریف نے **20 سالہ** موٹر سائیکلوں اور رکشوں (جو **1 جنوری 2006** یا اس کے بعد رجسٹر ہوئے) کو فیول ریلیف اسکیم میں شامل کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440159/pm-directs-inclusion-of-20-year-old-motorcycles-rickshaws-in-fuel-relief-scheme)*
+- وارن بف کے استعفیٰ کے بعد ان کے بیٹے **ہاورڈ بفٹ** برکشائر ہیتھ وے کے چیئرمین بن گئے ہیں، جو کہ **1.1 ٹریلین ڈالر** کا گروپ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440163/warren-buffett-steps-down-as-berkshire-chairman-son-howard-succeeds)*
+- سری لنکا کا اسٹاک انڈیکس **0.16 فیصد** اضافے کے ساتھ **21,056.26** پر بند ہوا، تاہم پورے ہفتے کے دوران اس میں **1.6 فیصد** کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40440160/sri-lankan-shares-end-four-day-slide-but-log-worst-week-in-over-two-months)*
+- بھارت میں یکم اپریل سے 17 ستمبر تک براہ راست ٹیکسوں کی وصولی **13 فیصد** بڑھ کر **12.1 ٹریلین روپے** ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440158/indias-net-direct-tax-collections-rise-13-from-april-1-sept-17)*
+- ابو ظہبی کا انڈیکس **1.1 فیصد** بڑھ گیا جبکہ دبئی کا مارکیٹ گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440156/abu-dhabi-gains-on-ihc-rally-dubai-falls)*
+- ایپل پے (Apple Pay) بھارت میں **ایکسس بینک** کے کریڈٹ کارڈز کے ذریعے لانچ کرنے کی تیاری کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440154/apple-pay-eyes-india-rollout-with-axis-bank-sources-say)*
+- لندن کا **FTSE 100** انڈیکس **0.6 فیصد** گر کر **10,751.57** پوائنٹس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40440152/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise)*
+- ٹٹا گروپ کی کمپنیوں کی مارکیٹ ویلیو میں **4 ارب ڈالر** کی کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40440151/tata-group-firms-shed-4-billion-in-market-value-amid-holding-company-rift)*
+- بھارت کے بینک آف مہاراشٹرا نے **500 ملین ڈالر** کا ڈالر قرضہ جاری کیا جس کا کوپن ریٹ **6.1120%** ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440147/bank-of-maharashtra-raises-500-million-in-debut-dollar-debt-tightens-pricing)*
+
+### سائنس اور ٹیکنالوجی
+- یوکے (UK) میں ایئر ٹریفک کنٹرول کے نظام میں تعطل کا سبب سافٹ ویئر کی خرابی قرار دی گئی ہے۔ *[ARY](https://arynews.tv/uk-air-traffic-control-outage-caused-by-software-defect)*
+- اسٹیم (Steam) پر نیا گیم 'Blackwood' لانچ کیا گیا ہے۔ *[ARY](https://arynews.tv/new-steam-hit-blackwood-allows-you-to-be-john-wick)*
 
 ### سیاست
-- پنجاب اسمبلی کے اپوزیشن لیڈر نے دہشت گردی کے خلاف قانون (Anti-Terrorism Act) میں حالیہ ترامیم کے خلاف لاہور ہائی کورٹ میں چیلنج کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440070/punjab-opposition-leader-challenges-anti-terror-amendments)*
-- وزیر اطلاعات ازما بخاری نے وزیر اعلیٰ پنجاب مریم نواز کی ادائیگی کے حوالے سے ہونے والی بحث کو محض پروپیگنڈا قرار دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440078/cheque-clearing-date-unnecessary-propaganda-being-spread-azma)*
-- تحریک تحفظِ آئین پاکستان (TTAP) نے پی ٹی آئی رہنما اعجاز ستی کی پولیس हिरासत میں موت پر عدالتی تحقیقات کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440077/ttap-seeks-judicial-probe-into-ijaz-sattis-death)*
-- سینیٹ کی قانون و انصاف کمیٹی نے پاکستان کے قانون و انصاف کمیشن (LJCP) کی سفارشات پر عمل درآمد میں تاخیر پر تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440074/ljcp-recommendations-senate-body-concerned-at-delay-in-implementation)*
-
-### بین الاقوامی
-- امریکہ نے سعودی عرب کو 24.3 بلین ڈالر مالیت کے ایف-35 لائٹننگ II لڑاکا طیارے فروخت کرنے کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440102/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia)*
-- جنوبی کوریا کے صدر نے اعلان کیا ہے کہ وہ مشرق وسطیٰ کے تنازع میں فوجی مداخلت نہیں کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440101/south-koreas-lee-says-will-not-deploy-military-to-get-involved-in-middle-east-conflict)*
-- اقوام متحدہ (UN) میں اگلے ہفتے عالمی رہنماؤں کی اہم نشست ہونے والی ہے۔ *[ARY](https://arynews.tv/why-are-world-leaders-at-the-un-next-week-and-what-will-they-talk-about)*
+- وزیراعظم شہباز شریف نے کفایت شعاری کی مہم کے تحت اقوام متحدہ (UNGA) کے وفد کے سائز میں کمی کر دی ہے۔ *[ARY](https://arynews.tv/pm-sharif-scales-back-unga-delegation-in-austerity-drive)*
+- پی ٹی آئی کے اسلام آباد مارچ کے لیے سرکاری وسائل کے استعمال پر پابندی لگا دی گئی ہے۔ *[ARY](https://arynews.tv/use-of-official-resources-for-pti-islamabad-march-banned)*
+- فیصل کریم کنڈی کا کہنا ہے کہ اسلام آباد مارچ سے پی ٹی آئی کے بانی رہا نہیں ہو سکے گا۔ *[ARY](https://arynews.tv/islamabad-march-wont-free-pti-founder-says-faisal-karim-kundi)*
+- پی ٹی آئی کے قانون ساز پٹرول کی قیمتوں میں اضافے کے خلاف احتجاج کے لیے گدھا گاڑی پر سندھ اسمبلی پہنچے۔ *[ARY](https://arynews.tv/pti-lawmakers-reach-sindh-assembly-on-donkey-cart-to-protest-petrol-price-hike)*
+- وزیر داخلہ محسن نقوی کا کہنا ہے کہ اسلام آباد ہائی کورٹ کے حکم کے بعد وفاقی دارالحکومت میں کسی بھی قسم کے احتجاج کی اجازت نہیں دی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40440165/govt-to-stop-anyone-marching-on-islamabad-in-every-possible-way-naqvi)*
 
 ### قومی
-- وزیر اعلیٰ پنجاب نے ملتان میں الیکٹرک بس سروس کا افتتاح کیا۔ *[ARY](https://arynews.tv/cm-punjab-inaugurates-electric-bus-service-in-multan)*
-- لاہور ہائی کورٹ نے ڈسپنسر پر عائد 300,000 روپے کا جرمانہ بحال کر دیا ہے اور قرار دیا ہے کہ ڈسپنسر خود مختار طور پر ایلوپیتھک علاج نہیں کر سکتا۔ *[Business Recorder](https://www.brecorder.com/news/40440068/lhc-restores-rs300000-fine-on-dispenser)*
+- کوہستان اسکینڈل میں **117 ملین روپے** کے ایک اور پلیا بارگن (Plea Bargain) کی منظوری دے دی گئی۔ *[ARY](https://arynews.tv/another-plea-bargain-of-rs-117-million-in-kohistan-scandal-approved)*
 
-### صحت
-- پنجاب میں پولیو کے خاتمے کی مہم کے تحت 13 منتخب اضلاع میں 10.64 ملین سے زائد بچوں کو ویکسین لگانے کا ہدف مقرر کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440071/punjab-targets-1064m-children-in-anti-polio-drive)*
-- لاہور جنرل ہسپتال کے مطابق بچوں کو ہیپاٹائٹس سے بچانے کے لیے بروقت ویکسینیشن، صاف پانی اور محفوظ طبی آلات کا استعمال لازمی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440076/strongest-shields-against-hepatitis-among-children-described)*
-- امریکہ میں خواتین کے لیے ٹیسٹوسٹیرون تھراپی کے استعمال پر غور کیا جا رہا ہے۔ *[ARY](https://arynews.tv/us-examines-testosterone-therapy-for-women)*
+### بین الاقوامی
+- نوبل فاؤنڈیشن نے انعامات کی رقم میں **9 فیصد** اضافہ کرتے ہوئے اسے **1.2 ملین ڈالر** (12 ملین سویڈش کرونہ) کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440164/nobel-foundation-raises-prize-money-for-each-award-to-12-million)*
+- یمن کے تنازع میں گزشتہ دو ہفتوں کے دوران **112,000** افراد بے گھر ہو گئے جبکہ تقریباً **3,000** افراد بحری راستے سے جibouti ہجرت کر گئے۔ *[Business Recorder](https://www.brecorder.com/news/40440155/yemen-conflict-displaces-112000-people-inside-country-thousands-flee-to-djibouti-un-migration-agency-says)*
+
+### کھیل
+- کرسٹینانو رونالڈو کو پرتگال کے نئے مینیجر جورج جیسس کے پہلے **25 کھلاڑیوں** کے اسکواڈ میں شامل کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440162/ronaldo-included-in-jesus-first-portugal-squad)*
+- کایلیان ایمباپے نے نائیکی (Nike) کے ساتھ دو دہائیوں پرانا شراکت داری ختم کر کے سوئس برانڈ 'On' کے ساتھ معاہدہ کیا ہے۔ 'On' کے شیئرز میں **5 فیصد** اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440161/mbappe-leaves-nike-signs-with-on-as-it-forays-into-soccer)*
+- جنوبی افریقہ کے فاسٹ بولر لنگی نگیدی زخمی ہونے کے باعث آسٹریلیا کے خلاف ون ڈے سیریز سے باہر ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40440157/another-quick-bowler-out-of-south-africa-team-to-take-on-australia)*
+- عالمی نمبر ون ٹینس کھلاڑی ایلینا ریباکینا چوٹ کی وجہ سے بلی جے کنگ کپ فائنلز سے باہر ہو گئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440149/world-number-one-rybakina-to-miss-billie-jean-king-cup-finals-after-demanding-month)*
+- جاپان کے شہر ناگویا میں ایشین گیمز کا آغاز ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440150/japan-yet-to-catch-asian-games-fever-as-nagoya-welcomes-athletes)*
 
 ### دیگر
-- نیو بیلنس (New Balance) نے ٹریڈ مارک کی خلاف ورزی کے الزام میں ڈیکاتھلون (Decathlon) کے خلاف مقدمہ دائر کر دیا ہے۔ *[ARY](https://arynews.tv/new-balance-sues-decathlon-for-trademark-infringement-over-shoe-logo)*
-- ٹیک ٹو (Take-Two) نے تصدیق کی ہے کہ جی ٹی اے 6 (GTA 6) کا آن لائن ورژن سنگل پلیئر ورژن کے ریلیز کے کافی عرصے بعد لانچ ہوگا۔ *[ARY](https://arynews.tv/gta-6-online-will-launch-well-after-single-player-release-take-two-confirms)*
-- NIPP اور UNFPA نے موسمیاتی تبدیلیوں کے خواتین اور لڑکیوں پر اثرات کے حوالے سے ایک گول میز نشست کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440069/nipp-unfpa-discuss-climate-change-impact-on-women)*
+- لندن میں شہزادی ڈائنا کے مشہور "ریوینج ڈریس" کی نمائش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40440166/revenge-dress-shows-princess-dianas-lasting-appeal-amid-royal-family-war-of-words)*
 
