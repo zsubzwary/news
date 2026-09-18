@@ -4,47 +4,45 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 17-Sep-2026 21:04PKT
+Published at: 18-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The government and the Pakistan Petroleum Dealers Association (PPDA) reached an agreement regarding the payment mechanism for the **Rs100 per litre** subsidy under the Petrol Relief Package. *[Business Recorder](https://www.brecorder.com/news/40439989/government-petroleum-dealers-reach-agreement-on-fuel-relief-package)*
-- The State Bank of Pakistan (SBP) rejected reports of the **Rs10 banknote** discontinuation, clarifying that a proposal for a new banknote series is currently under Federal Cabinet deliberation. *[Business Recorder](https://www.brecorder.com/news/40439986/sbp-rejects-reports-of-rs10-banknote-discontinuation-as-baseless)*
-- SBP-held foreign exchange reserves increased by **$3.061 billion** to reach **$21.389 billion** for the week ended Sept 11, 2026, while total liquid reserves stood at **$26.791 billion**. *[Business Recorder](https://www.brecorder.com/news/40439985/sbp-held-forex-reserves-surge-over-3bn-to-213bn)*
-- Karachi Port’s Liner Shipping Connectivity Index (PLSCI) hit a record **343.02** in the second quarter of 2026, up from **309.81** in the first quarter. *[Business Recorder](https://www.brecorder.com/news/40439981/karachi-ports-liner-shipping-connectivity-hits-record-high)*
-- Pakistan's total exports in 2025 were **USD 30.67 billion**, representing just **0.12%** of the **USD 25.61 trillion** global export market. *[Business Recorder](https://www.brecorder.com/news/40439979/pakistans-export-trap-and-revealed-comparative-advantage)*
-- The CSE All Share index in Sri Lanka fell **0.52%** to **21,023.43**, with Serendib Land PLC seeing a **14.6%** decline. *[Business Recorder](https://www.brecorder.com/news/40439977/sri-lankan-shares-extend-losing-streak-as-communication-real-estate-stocks-weigh)*
-- Benchmark copper prices on the London Metal Exchange rose **1.2%** to **$14,408** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40439976/copper-rallies-as-chinese-buyers-return-to-the-market)*
-- Malaysian palm oil futures dropped **1.16%** to **4,940 ringgit** ($1,206.05) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40439970/palm-oil-falls-over-1-on-exports-rival-oils-weakness)*
-- The World Bank attracted a record **$112 billion** in private capital for the year ended June, compared to **$69 billion** the previous year. *[Business Recorder](https://www.brecorder.com/news/40439969/world-bank-boosts-private-capital-mobilization-to-record-112-billion)*
-- National Bank of Pakistan (NBP) pensioners have been declared entitled to government-announced pension increases following a Federal Constitutional Court ruling. *[Business Recorder](https://www.brecorder.com/news/40439974/nbp-pensioners-entitled-to-govt-pension-increases-after-court-dismisses-banks-appeal)*
+- The Bank of Japan (BOJ) raised its policy interest rate to a 31-year high of **1.25%** (up from 1%) following a **7-2** vote to combat inflation risks. *[Business Recorder](https://www.brecorder.com/news/40440100/boj-raises-interest-rates-to-31-year-high-in-widely-expected-move)*
+- Petrol prices decreased by **43 paise** to **Rs. 390.79/L**, while High Speed Diesel (HSD) prices rose by **Rs. 3.47** to **Rs. 424.92/L**. *[Business Recorder](https://www.brecorder.com/news/40440079/petrol-price-cut-by-43-paise-hsds-up-by-rs347)*
+- Oil prices fell by **1%** for a third consecutive session, with Brent crude dropping to **$103.77** per barrel and US WTI falling to **$100.88** per barrel. *[Business Recorder](https://www.brecorder.com/news/40440095/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions)*
+- The Japanese Yen weakened by **0.1%** to **156.19 yen** per dollar ahead of the central bank's rate decision. *[Business Recorder](https://www.brecorder.com/news/40440096/yen-weak-ahead-of-boj-decision-rate-hike-expected)*
+- Karachi Port has recorded its highest-ever shipping connectivity. *[ARY](https://arynews.tv/karachi-port-records-highest-ever-shipping-connectivity)*
+- Mian Zahid Hussain of the PBIF warned that State-Owned Enterprises (SOEs) have become nearly unsustainable due to deep-rooted structural problems. *[Business Recorder](https://www.brecorder.com/news/40440075/soes-have-become-nearly-unsustainable-mian-zahid)*
+- Indian shares and the rupee are expected to see support from retreating oil prices and anticipated foreign portfolio inflows from large IPOs. *[Business Recorder](https://www.brecorder.com/news/40440098/indian-rupee-may-find-breathing-room-on-ipo-linked-inflows-oil-retreat)*
+- The framework for the Karachi Industrial Park’s Land Lease and Incentive program is nearing finalization. *[ARY](https://arynews.tv/karachi-industrial-parks-land-lease-and-incentive-framework-nears-finalization)*
 
-### Science & Technology
-- A German court has ruled **Meta** liable for the presence of fraudulent advertisements on its **Instagram** and **Facebook** platforms. *[ARY](https://arynews.tv/german-court-rules-meta-liable-for-fake-ads-on-instagram-facebook)*
+### Politics
+- Leader of the Opposition in the Punjab Assembly, Moeenuddin Riaz Qureshi, has challenged recent amendments to the Anti-Terrorism Act, 1997, in the Lahore High Court, specifically contesting the insertion of **Section 21AAA** which allows for confidential trials. *[Business Recorder](https://www.brecorder.com/news/40440070/punjab-opposition-leader-challenges-anti-terror-amendments)*
+- Punjab Minister Azma Bokhari dismissed claims regarding Chief Minister Maryam Nawaz’s payment, clarifying that standard banking procedures for cheque clearance typically take one day. *[Business Recorder](https://www.brecorder.com/news/40440078/cheque-clearing-date-unnecessary-propaganda-being-spread-azma)*
+- The Senate Standing Committee on Law and Justice expressed concern regarding delays in the implementation of recommendations made by the Law and Justice Commission of Pakistan (LJCP). *[Business Recorder](https://www.brecorder.com/news/40440074/ljcp-recommendations-senate-body-concerned-at-delay-in-implementation)*
+- Muhammad Zubair has raised questions regarding the legitimacy of a payment slip associated with Maryam Nawaz. *[ARY](https://arynews.tv/no-bank-will-accept-this-slip-muhammad-zubair-questions-maryam-nawazs-payment)*
 
 ### National
-- The judicial commission in the **Mir Raza Ali** case questioned the first investigating officer involved in the matter. *[ARY](https://arynews.tv/mir-raza-ali-case-judicial-commission-questions-first-investigating-officer-in-case)*
-- The commission in the Mir Raza case stated that interviews by **Ahmed Bharday** created the impression he was "launched." *[ARY](https://arynews.tv/mir-raza-case-commission-says-ahmed-bhardays-interviews-create-impression-he-was-launched)*
-- Motorists in Punjab can now challenge incorrect **e-challans** through an online platform. *[ARY](https://arynews.tv/motorists-can-challenge-incorrect-e-challans-online-in-punjab)*
-- Criminal records of two suspects arrested in connection with the **Karachi airport attack** have been disclosed. *[ARY](https://arynews.tv/karachi-airport-attack-criminal-records-of-two-arrested-suspects-revealed)*
-- The Punjab government has officially denied reports concerning a **three-day school holiday**. *[ARY](https://arynews.tv/punjab-rejects-reports-of-three-day-school-holiday)*
-- The Supreme Court suspended the **17-year prison sentences** of rights lawyer **Imaan Mazari** and her husband **Hadi Ali Chattha**, ordering their release on bail. *[Business Recorder](https://www.brecorder.com/news/40439983/supreme-court-suspends-sentences-of-rights-lawyer-mazari-and-husband)*
-- New federal austerity and fuel conservation measures mandate that markets close at **9pm**, marriage halls at **10pm**, and restaurants at **11pm**. *[Business Recorder](https://www.brecorder.com/news/40439975/markets-to-close-at-9pm-as-govt-notifies-fresh-austerity-fuel-conservation-measures)*
+- The Punjab provincial task force has set a target to vaccinate **10.64 million** children under the age of five during an anti-polio campaign starting September 21 across 13 districts. *[Business Recorder](https://www.brecorder.com/news/40440071/punjab-targets-1064m-children-in-anti-polio-drive)*
+- The Lahore High Court (LHC) restored a **Rs. 300,000** fine imposed by the Punjab Healthcare Commission (PHC) on a dispenser. *[Business Recorder](https://www.brecorder.com/news/40440068/lhc-restores-rs300000-fine-on-dispenser)*
+- Tehreek-e-Tahafuz-e-Ayin-e-Pakistan (TTAP) Punjab has demanded a judicial probe into the death of PTI leader Ijaz Satti, who allegedly suffered a cardiac arrest while in police custody. *[Business Recorder](https://www.brecorder.com/news/40440077/ttap-seeks-judicial-probe-into-ijaz-sattis-death)*
+- The Chief Minister of Punjab has inaugurated a new electric bus service in Multan. *[ARY](https://arynews.tv/cm-punjab-inaugurates-electric-bus-service-in-multan)*
+- Punjab Finance Minister Mian Mujtaba Shuja-ur-Rehman stated the provincial government is actively implementing measures to attract investment and accelerate industrial development. *[Business Recorder](https://www.brecorder.com/news/40440072/punjab-steps-up-measures-to-boost-business-investment)*
 
 ### International
-- China has requested **Iran** to restrain **Houthi** activities following an appeal from **Saudi Arabia**. *[ARY](https://arynews.tv/china-asks-iran-to-rein-in-houthis-after-saudi-appeal-reuters-reports)*
-- **Donald Trump** is scheduled to host **Xi Jinping** in a meeting characterized by high ceremony but low expectations. *[ARY](https://arynews.tv/trump-to-host-xi-amid-pomp-low-expectations)*
-- **Oman** now mandates prior approval for the production of all **National Day merchandise**. *[ARY](https://arynews.tv/oman-mandates-prior-approval-for-national-day-merchandise-production)*
-- Swedish Prime Minister **Ulf Kristersson** resigned after his right-wing bloc secured **173 seats**, losing to a centre-left coalition that won **176 seats**. *[Business Recorder](https://www.brecorder.com/news/40439987/swedens-prime-minister-steps-down-after-losing-election)*
-- A **Houthi drone** interception in Saudi Arabia's Taif governorate resulted in the death of one Yemeni resident and injuries to a **Pakistani resident** and a Saudi woman. *[Business Recorder](https://www.brecorder.com/news/40439984/one-killed-as-saudi-arabia-intercepts-drone-launched-by-yemens-houthis)*
-- Most **Gulf bourses** closed higher as investors reacted to the **U.S. Federal Reserve's** quarter-point interest rate hike. *[Business Recorder](https://www.brecorder.com/news/40439982/most-gulf-bourses-end-higher-as-investors-weigh-fed-rate-hike)*
-- The **Bank of England** held interest rates at **3.75%** and warned that British inflation may exceed **4%** early next year. *[Business Recorder](https://www.brecorder.com/news/40439972/bank-of-england-sounds-inflation-alarm-as-it-holds-interest-rates)*
-- India’s **NaBFID** aims to raise **$4 billion** in dollar funding by December, including a **$1 billion** 10-year bond issue. *[Business Recorder](https://www.brecorder.com/news/40439971/india-infra-lender-targets-4bn-in-dollar-funding-by-december-exec-says)*
-- Indian bond traders anticipate increased debt sales by the **RBI** to manage liquidity following its first such auction in nine years. *[Business Recorder](https://www.brecorder.com/news/40439973/india-rbi-may-increase-debt-sales-to-drain-liquidity-after-first-such-auction-in-9-years)*
+- The US Department of State has approved a potential **$24.3 billion** sale of Lockheed Martin’s **F-35 Lightning II** fighter jets to Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40440102/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia)*
+- South Korean President Lee Jae Myung announced that the country will not deploy military assets to the Middle East to avoid involvement in the Iran war. *[Business Recorder](https://www.brecorder.com/news/40440101/south-koreas-lee-says-will-not-deploy-military-to-get-involved-in-middle-east-conflict)*
+- Kenyan High Commissioner Lieutenant General Peter Mbogo Nijru (retd) called for increased engagement to boost bilateral trade between Kenya and Pakistan. *[Business Recorder](https://www.brecorder.com/news/40440067/kenyan-hc-for-enhancing-trade-with-pakistan)*
+- World leaders are scheduled to convene at the UN next week to discuss various global issues. *[ARY](https://arynews.tv/why-are-world-leaders-at-the-un-next-week-and-what-will-they-talk-about)*
 
-### Sports
-- The **Sourav Ganguly** biopic production has been linked to **Leicestershire's 27-point penalty**. *[ARY](https://arynews.tv/sourav-ganguly-biopic-shoot-linked-to-leicestershires-27-point-penalty)*
-- Six-time Grand Slam doubles champion **Joe Salisbury** has retired from professional tennis at age 34. *[Business Recorder](https://www.brecorder.com/news/40439988/former-doubles-world-number-one-salisbury-retires)*
-- Germany coach **Juergen Klopp** called for the reclamation of national pride from extremist groups following the **AfD's** recent electoral success. *[Business Recorder](https://www.brecorder.com/news/40439980/klopp-says-germany-must-reclaim-national-pride-from-wrong-people)*
+### Health
+- The US is currently examining the potential for testosterone therapy for women. *[ARY](https://arynews.tv/us-examines-testosterone-therapy-for-women)*
+- Medical experts at Lahore General Hospital emphasized that timely newborn vaccination and clean water are the primary defenses against hepatitis in children. *[Business Recorder](https://www.brecorder.com/news/40440076/strongest-shields-against-hepatitis-among-children-described)*
+
+### Other
+- Take-Two has confirmed that the **GTA 6 Online** component will launch significantly after the release of the single-player mode. *[ARY](https://arynews.tv/gta-6-online-will-launch-well-after-single-player-release-take-two-confirms)*
+- New Balance has initiated legal action against Decathlon for trademark infringement regarding a shoe logo. *[ARY](https://arynews.tv/new-balance-sues-decathlon-for-trademark-infringement-over-shoe-logo)*
+- The National Institute of Public Policy (NIPP) and UNFPA held a roundtable to discuss how climate change impacts the health and safety of women and girls. *[Business Recorder](https://www.brecorder.com/news/40440069/nipp-unfpa-discuss-climate-change-impact-on-women)*
 
