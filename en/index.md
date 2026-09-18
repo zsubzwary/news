@@ -4,45 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 18-Sep-2026 09:03PKT
+Published at: 18-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Bank of Japan (BOJ) raised its policy interest rate to a 31-year high of **1.25%** (up from 1%) following a **7-2** vote to combat inflation risks. *[Business Recorder](https://www.brecorder.com/news/40440100/boj-raises-interest-rates-to-31-year-high-in-widely-expected-move)*
-- Petrol prices decreased by **43 paise** to **Rs. 390.79/L**, while High Speed Diesel (HSD) prices rose by **Rs. 3.47** to **Rs. 424.92/L**. *[Business Recorder](https://www.brecorder.com/news/40440079/petrol-price-cut-by-43-paise-hsds-up-by-rs347)*
-- Oil prices fell by **1%** for a third consecutive session, with Brent crude dropping to **$103.77** per barrel and US WTI falling to **$100.88** per barrel. *[Business Recorder](https://www.brecorder.com/news/40440095/oil-prices-fall-1-on-hopes-of-limited-supply-disruptions)*
-- The Japanese Yen weakened by **0.1%** to **156.19 yen** per dollar ahead of the central bank's rate decision. *[Business Recorder](https://www.brecorder.com/news/40440096/yen-weak-ahead-of-boj-decision-rate-hike-expected)*
-- Karachi Port has recorded its highest-ever shipping connectivity. *[ARY](https://arynews.tv/karachi-port-records-highest-ever-shipping-connectivity)*
-- Mian Zahid Hussain of the PBIF warned that State-Owned Enterprises (SOEs) have become nearly unsustainable due to deep-rooted structural problems. *[Business Recorder](https://www.brecorder.com/news/40440075/soes-have-become-nearly-unsustainable-mian-zahid)*
-- Indian shares and the rupee are expected to see support from retreating oil prices and anticipated foreign portfolio inflows from large IPOs. *[Business Recorder](https://www.brecorder.com/news/40440098/indian-rupee-may-find-breathing-room-on-ipo-linked-inflows-oil-retreat)*
-- The framework for the Karachi Industrial Park’s Land Lease and Incentive program is nearing finalization. *[ARY](https://arynews.tv/karachi-industrial-parks-land-lease-and-incentive-framework-nears-finalization)*
+- Pakistan’s **GDP growth** is projected to recover to **3.7 percent** in **FY26**, according to Finance Minister Aurangzeb. *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
+- The oil industry has issued a warning that Pakistan may encounter shortages of both **petrol and diesel**. *[ARY](https://arynews.tv/pakistan-may-face-petrol-and-diesel-shortages-oil-industry-warns)*
+- The Pakistani government has welcomed interest from **Turkish investors** regarding the privatisation of the country's **power distribution companies (DISCOs)**. *[Business Recorder](https://www.brecorder.com/news/40440167/pakistan-welcomes-turkish-interest-in-disco-privatisation)*
+- Sri Lankan shares ended a four-day slide with the **CSE All Share index** rising **0.16%** to **21,056.26**, despite recording its worst weekly decline (1.6%) in over two months. *[Business Recorder](https://www.brecorder.com/news/40440160/sri-lankan-shares-end-four-day-slide-but-log-worst-week-in-over-two-months)*
+- India’s **net direct tax collections** rose **13%** year-on-year to **12.1 trillion rupees ($126.28 billion)** between April 1 and September 17. *[Business Recorder](https://www.brecorder.com/news/40440158/indias-net-direct-tax-collections-rise-13-from-april-1-sept-17)*
+- Abu Dhabi’s benchmark index rose **1.1%**, supported by a **4.8% surge** in International Holding Company (IHC), while the Dubai market declined. *[Business Recorder](https://www.brecorder.com/news/40440156/abu-dhabi-gains-on-ihc-rally-dubai-falls)*
+- London’s **FTSE 100** index retreated by **0.6%** to settle at **10,751.57 points**. *[Business Recorder](https://www.brecorder.com/news/40440152/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise)*
+- **Tata Group** companies lost **$4 billion** in market value following investor uncertainty over the leadership and potential listing of **Tata Sons**. *[Business Recorder](https://www.brecorder.com/news/40440151/tata-group-firms-shed-4-billion-in-market-value-amid-holding-company-rift)*
+- India’s **Bank of Maharashtra** successfully raised **$500 million** through its inaugural five-year U.S. dollar-denominated bonds with a coupon of **6.1120%**. *[Business Recorder](https://www.brecorder.com/news/40440147/bank-of-maharashtra-raises-500-million-in-debut-dollar-debt-tightens-pricing)*
+- Currency markets observed divergence between the **US Dollar** and the **British Pound** as the Fed and Bank of England prepared for policy decisions. *[Business Recorder](https://www.brecorder.com/news/40440153/when-the-dollar-and-pound-hear-different-inflation-stories)*
+
+### Science & Technology
+- A **software defect** has been identified as the cause of a recent **UK air traffic control outage**. *[ARY](https://arynews.tv/uk-air-traffic-control-outage-caused-by-software-defect)*
+- **Apple** is preparing to launch **Apple Pay** in India, reportedly partnering with **Axis Bank** to expand its footprint in the country. *[Business Recorder](https://www.brecorder.com/news/40440154/apple-pay-eyes-india-rollout-with-axis-bank-sources-say)*
 
 ### Politics
-- Leader of the Opposition in the Punjab Assembly, Moeenuddin Riaz Qureshi, has challenged recent amendments to the Anti-Terrorism Act, 1997, in the Lahore High Court, specifically contesting the insertion of **Section 21AAA** which allows for confidential trials. *[Business Recorder](https://www.brecorder.com/news/40440070/punjab-opposition-leader-challenges-anti-terror-amendments)*
-- Punjab Minister Azma Bokhari dismissed claims regarding Chief Minister Maryam Nawaz’s payment, clarifying that standard banking procedures for cheque clearance typically take one day. *[Business Recorder](https://www.brecorder.com/news/40440078/cheque-clearing-date-unnecessary-propaganda-being-spread-azma)*
-- The Senate Standing Committee on Law and Justice expressed concern regarding delays in the implementation of recommendations made by the Law and Justice Commission of Pakistan (LJCP). *[Business Recorder](https://www.brecorder.com/news/40440074/ljcp-recommendations-senate-body-concerned-at-delay-in-implementation)*
-- Muhammad Zubair has raised questions regarding the legitimacy of a payment slip associated with Maryam Nawaz. *[ARY](https://arynews.tv/no-bank-will-accept-this-slip-muhammad-zubair-questions-maryam-nawazs-payment)*
+- Prime Minister Shehbaz Sharif has reduced the size of the **UNGA delegation** as part of an ongoing **austerity drive**. *[ARY](https://arynews.tv/pm-sharif-scales-back-unga-delegation-in-austerity-drive)*
+- Interior Minister Mohsin Naqvi announced that the government will prevent any marches on Islamabad and will file **contempt of court proceedings** against those violating IHC rulings. *[Business Recorder](https://www.brecorder.com/news/40440165/govt-to-stop-anyone-marching-on-islamabad-in-every-possible-way-naqvi)*
+- The use of **official resources** for the PTI Islamabad march has been strictly banned. *[ARY](https://arynews.tv/use-of-official-resources-for-pti-islamabad-march-banned)*
+- Faisal Karim Kundi stated that the planned Islamabad march will not succeed in freeing the **PTI founder**. *[ARY](https://arynews.tv/islamabad-march-wont-free-pti-founder-says-faisal-karim-kundi)*
 
 ### National
-- The Punjab provincial task force has set a target to vaccinate **10.64 million** children under the age of five during an anti-polio campaign starting September 21 across 13 districts. *[Business Recorder](https://www.brecorder.com/news/40440071/punjab-targets-1064m-children-in-anti-polio-drive)*
-- The Lahore High Court (LHC) restored a **Rs. 300,000** fine imposed by the Punjab Healthcare Commission (PHC) on a dispenser. *[Business Recorder](https://www.brecorder.com/news/40440068/lhc-restores-rs300000-fine-on-dispenser)*
-- Tehreek-e-Tahafuz-e-Ayin-e-Pakistan (TTAP) Punjab has demanded a judicial probe into the death of PTI leader Ijaz Satti, who allegedly suffered a cardiac arrest while in police custody. *[Business Recorder](https://www.brecorder.com/news/40440077/ttap-seeks-judicial-probe-into-ijaz-sattis-death)*
-- The Chief Minister of Punjab has inaugurated a new electric bus service in Multan. *[ARY](https://arynews.tv/cm-punjab-inaugurates-electric-bus-service-in-multan)*
-- Punjab Finance Minister Mian Mujtaba Shuja-ur-Rehman stated the provincial government is actively implementing measures to attract investment and accelerate industrial development. *[Business Recorder](https://www.brecorder.com/news/40440072/punjab-steps-up-measures-to-boost-business-investment)*
+- A **Rs. 117 million plea bargain** has been approved in connection with the **Kohistan scandal**. *[ARY](https://arynews.tv/another-plea-bargain-of-rs-117-million-in-kohistan-scandal-approved)*
+- PTI lawmakers utilized a **donkey cart** to reach the Sindh Assembly in protest against increased **petrol prices**. *[ARY](https://arynews.tv/pti-lawmakers-reach-sindh-assembly-on-donkey-cart-to-protest-petrol-price-hike)*
+- PM Shehbaz Sharif directed the inclusion of **20-year-old motorcycles, rickshaws, and Qingqi rickshaws** (registered on or after **January 1, 2006**) in the **Fuel Relief Scheme**. *[Business Recorder](https://www.brecorder.com/news/40440159/pm-directs-inclusion-of-20-year-old-motorcycles-rickshaws-in-fuel-relief-scheme)*
 
 ### International
-- The US Department of State has approved a potential **$24.3 billion** sale of Lockheed Martin’s **F-35 Lightning II** fighter jets to Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40440102/us-clears-way-for-243-billion-fighter-jet-sale-to-saudi-arabia)*
-- South Korean President Lee Jae Myung announced that the country will not deploy military assets to the Middle East to avoid involvement in the Iran war. *[Business Recorder](https://www.brecorder.com/news/40440101/south-koreas-lee-says-will-not-deploy-military-to-get-involved-in-middle-east-conflict)*
-- Kenyan High Commissioner Lieutenant General Peter Mbogo Nijru (retd) called for increased engagement to boost bilateral trade between Kenya and Pakistan. *[Business Recorder](https://www.brecorder.com/news/40440067/kenyan-hc-for-enhancing-trade-with-pakistan)*
-- World leaders are scheduled to convene at the UN next week to discuss various global issues. *[ARY](https://arynews.tv/why-are-world-leaders-at-the-un-next-week-and-what-will-they-talk-about)*
+- The **Nobel Foundation** has increased the prize money for its annual awards by **9%**, raising the total value to **12 million Swedish crowns ($1.22 million)** per category. *[Business Recorder](https://www.brecorder.com/news/40440164/nobel-foundation-raises-prize-money-for-each-award-to-12-million)*
+- **Warren Buffett** is stepping down as Chairman of **Berkshire Hathaway**, with his son **Howard Buffett** succeeding him. *[Business Recorder](https://www.brecorder.com/news/40440163/warren-buffett-steps-down-as-berkshire-chairman-son-howard-succeeds)*
+- The **Yemen conflict** has displaced **112,000 people** internally within the last two weeks, while approximately **3,000** have fled to **Djibouti**. *[Business Recorder](https://www.brecorder.com/news/40440155/yemen-conflict-displaces-112000-people-inside-country-thousands-flee-to-djibouti-un-migration-agency-says)*
+- **Princess Diana's** "revenge dress" was displayed in **London** amidst ongoing public interest in the British Royal Family. *[Business Recorder](https://www.brecorder.com/news/40440166/revenge-dress-shows-princess-dianas-lasting-appeal-amid-royal-family-war-of-words)*
 
-### Health
-- The US is currently examining the potential for testosterone therapy for women. *[ARY](https://arynews.tv/us-examines-testosterone-therapy-for-women)*
-- Medical experts at Lahore General Hospital emphasized that timely newborn vaccination and clean water are the primary defenses against hepatitis in children. *[Business Recorder](https://www.brecorder.com/news/40440076/strongest-shields-against-hepatitis-among-children-described)*
+### Sports
+- **Cristiano Ronaldo** has been included in manager Jorge Jesus' first **25-man Portugal squad** for the upcoming Nations League matches. *[Business Recorder](https://www.brecorder.com/news/40440162/ronaldo-included-in-jesus-first-portugal-squad)*
+- **Kylian Mbappe** has signed with Swiss brand **On**, ending his partnership with **Nike**; shares of **On** rose **5%** in premarket trading. *[Business Recorder](https://www.brecorder.com/news/40440161/mbappe-leaves-nike-signs-with-on-as-it-forays-into-soccer)*
+- South African bowler **Lungi Ngidi** has been ruled out of the upcoming ODI series against **Australia** due to a **right hamstring injury**. *[Business Recorder](https://www.brecorder.com/news/40440157/another-quick-bowler-out-of-south-africa-team-to-take-on-australia)*
+- World number one **Elena Rybakina** will miss the **Billie Jean King Cup Finals** due to the physical demands of her recent schedule. *[Business Recorder](https://www.brecorder.com/news/40440149/world-number-one-rybakina-to-miss-billie-jean-king-cup-finals-after-demanding-month)*
+- The **Asian Games** are being held in **Nagoya, Japan**. *[Business Recorder](https://www.brecorder.com/news/40440150/japan-yet-to-catch-asian-games-fever-as-nagoya-welcomes-athletes)*
 
 ### Other
-- Take-Two has confirmed that the **GTA 6 Online** component will launch significantly after the release of the single-player mode. *[ARY](https://arynews.tv/gta-6-online-will-launch-well-after-single-player-release-take-two-confirms)*
-- New Balance has initiated legal action against Decathlon for trademark infringement regarding a shoe logo. *[ARY](https://arynews.tv/new-balance-sues-decathlon-for-trademark-infringement-over-shoe-logo)*
-- The National Institute of Public Policy (NIPP) and UNFPA held a roundtable to discuss how climate change impacts the health and safety of women and girls. *[Business Recorder](https://www.brecorder.com/news/40440069/nipp-unfpa-discuss-climate-change-impact-on-women)*
+- A new Steam title, **Blackwood**, has been released, offering gameplay inspired by the **John Wick** series. *[ARY](https://arynews.tv/new-steam-hit-blackwood-allows-you-to-be-john-wick)*
 
