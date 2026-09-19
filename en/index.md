@@ -4,45 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-Sep-2026 09:03PKT
+Published at: 19-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The CPPA is seeking an electricity price increase of **Rs. 1.73 per unit**. *[ARY](https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase)*
-- The Petroleum Division announced a reduction in petrol prices by **Rs. 1.65 per litre** (from Rs. 390.79 to Rs. 389.14) and High Speed Diesel (HSD) by **88 paise** for September 19–21. *[Business Recorder](https://www.brecorder.com/news/40440232/petrol-price-reduced-by-rs165-per-litre-diesels-by-88-paise)*
-- Punjab and KP have slashed their wheat import demand by **200,000 tonnes**. *[ARY](https://arynews.tv/punjab-kp-take-u-turn-on-wheat-imports-slash-demand-by-200000-tonnes)*
-- Pakistan's GDP growth recovered to **3.7 percent** in FY26. *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
-- Senior Director of The Coca-Cola Company, Dr. Faisal Hashmi, urged the government to adopt a balanced fiscal policy to bring the large informal sector under regulatory oversight. *[Business Recorder](https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy)*
-- The Food Security and Agriculture Centre of Excellence (FACE) launched an initiative with Verdora Ventures to provide geotextile drying sheets to chili farmers to meet export quality standards. *[Business Recorder](https://www.brecorder.com/news/40440225/initiative-launched-to-help-chili-farmers-achieve-export-quality-standards)*
-- Pakistan's foreign exchange reserves reached an all-time high of **USD 21.4 billion**. *[Business Recorder](https://www.brecorder.com/news/40440227/pm-lauds-fm-team-as-fx-reserves-hit-all-time-high-of-usd214bn)*
-- The Securities and Exchange Commission of Pakistan (SECP) recommended increasing the number of Insurance Tribunals to ensure equitable geographical distribution across provinces. *[Business Recorder](https://www.brecorder.com/news/40440230/secp-suggests-more-insurance-tribunals)*
-- Textile sector exports increased by **5.55% YoY** during July-August 2026-27, totaling **USD 3.379 billion**. *[Business Recorder](https://www.brecorder.com/news/40440237/jul-aug-textile-exports-climb-555pc-yoy)*
-- Sensitive Price Index (SPI)-based inflation rose by **0.49%** for the week ending September 17, 2026, driven by price hikes in diesel (**7.29%**), petrol (**6.40%**), and LPG (**3.26%**). *[Business Recorder](https://www.brecorder.com/news/40440238/spi-based-inflation-rises-slightly)*
-- Mobile phone imports declined **8.85% YoY** during July-August, falling to **USD 274.129 million** from USD 300.741 million in the previous year. *[Business Recorder](https://www.brecorder.com/news/40440241/jul-aug-mobile-phone-imports-decline-885pc-yoy)*
-- APTMA and the EU have begun discussions regarding the renewal of the **GSP+** trade facility, with the EU noting that human rights and labor reforms are essential for retention beyond 2027. *[Business Recorder](https://www.brecorder.com/news/40440240/aptma-eu-open-talks-on-gsp-renewal)*
-- The Punjab Green Credit Program offers citizens the opportunity to earn **Rs. 20,000** through cycling. *[ARY](https://arynews.tv/punjab-green-credit-program-earn-rs-20000-by-just-cycling)*
+- The Competition Commission of Pakistan (CCP) imposed a **Rs60 million** penalty on the All Pakistan Edible Oil Tanker Owners Association (APEOTOA) for price fixing (**Rs30 million**) and market allocation (**Rs30 million**). *[Business Recorder](https://www.brecorder.com/news/40440262/ccp-fines-edible-oil-tanker-owners-body-rs60mn-for-cartelisation)*
+- Gold prices in Pakistan fell by **Rs100 per tola** to reach **Rs460,236**, while 10-gram gold declined by **Rs85** to **Rs394,578**. *[Business Recorder](https://www.brecorder.com/news/40440261/gold-price-declines-by-rs100-per-tola-in-pakistan)*
+- Chery Master Pakistan launched the **Chery Q** at a limited-time introductory price of **PKR 5,554,000**, which includes a complimentary **7kW home charger** worth **PKR 100,000**. *[Business Recorder](https://www.brecorder.com/news/40440254/chery-master-pakistan-launches-chery-q-setting-a-new-standard-in-everyday-mobility-at-pkr-5554000-for-a-limited-time)*
+- The Securities and Exchange Commission of Pakistan (SECP) disposed of **98%** of its adjudication caseload (**573 cases**) and imposed penalties exceeding **Rs4.73 billion**. *[Business Recorder](https://www.brecorder.com/news/40440253/secp-disposes-of-98-adjudication-caseload-imposes-rs4.73bn-in-penalties)*
+- The Prime Minister’s Special Relief fuel subsidy scheme has been extended to internet-blind areas through SMS redemption. *[Business Recorder](https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption)*
 
 ### Science & Technology
-- Brazil police seized electronic devices from a former iFood employee as part of a trade secrets investigation. *[ARY](https://arynews.tv/brazil-police-seize-devices-from-former-ifood-employee-in-trade-secrets-probe)*
+- A new study reveals that deaf people develop sharper peripheral vision through the process of brain rewiring. *[ARY](https://arynews.tv/deaf-people-develop-sharper-peripheral-vision-through-brain-rewiring-study-reveals)*
+- AI company Anthropic is reportedly considering the release of a new AI model ahead of its upcoming IPO. *[ARY](https://arynews.tv/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say)*
+- A Stanford University study suggests that the human brain actually functions as two separate organs. *[ARY](https://arynews.tv/human-brain-is-actually-two-separate-organs-stanford-study-reveals)*
 
 ### Politics
-- The Islamabad High Court (IHC) ruled that political parties and leaders have no lawful right to occupy public roads, highways, or buildings within the federal capital. *[Business Recorder](https://www.brecorder.com/news/40440234/federal-capital-ihc-places-restrictions-on-political-protests)*
-- Interior Minister Mohsin Naqvi warned that no protesters will be allowed to enter Islamabad following the IHC verdict and threatened contempt of court petitions against violators. *[Business Recorder](https://www.brecorder.com/news/40440235/no-protester-will-be-allowed-to-enter-islamabad-naqvi)*
+- Deputy Prime Minister Ishaq Dar held talks with Iranian Foreign Minister Abbas Araghchi to emphasize the need for uninterrupted energy supplies and safe maritime passage. *[Business Recorder](https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions)*
 
 ### National
-- A suicide explosion at a mosque in Kohat's police lines resulted in at least **21 deaths**, including seven police personnel such as SP Akbar Shinwari. *[ARY](https://arynews.tv/at-least-16-martyred-57-injured-in-kohat-mosque-bomb-blast)* *[Business Recorder](https://www.brecorder.com/news/40440236/at-least-17-including-cops-martyred-in-kohat-blast)*
-- Pakistan climbed **22 places** in the 2026 Environmental Performance Index (EPI), moving from 179th to **157th** globally with a score of **29.03**. *[Business Recorder](https://www.brecorder.com/news/40440223/environmental-performance-index-pakistan-climbs-22-places)*
-- The Punjab Agriculture Department advised citizens to begin winter vegetable cultivation (including cauliflower, cabbage, and potatoes) during September and October. *[Business Recorder](https://www.brecorder.com/news/40440228/punjab-advises-starting-winter-vegetable-cultivation)*
-- The Punjab Home Department has repatriated **142,820 illegal Afghan nationals** to date, contributing to a total of **2,760,653** illegal Afghan residents repatriated from Pakistan. *[Business Recorder](https://www.brecorder.com/news/40440229/punjab-repatriates-142820-illegal-afghans-in-ongoing-crackdown)*
+- Chakwal police have released the official procedure for citizens to obtain a juvenile driving permit. *[ARY](https://arynews.tv/how-to-get-juvenile-driving-permit-chakwal-police-shares-procedure)*
+- MDCAT 2026 is scheduled for Sunday, with Sindh establishing **9 exam centers**, including **2 in Karachi**. *[ARY](https://arynews.tv/mdcat-2026-set-for-sunday-sindh-establishes-9-exam-centers-including-2-in-karachi)*
+- Security forces killed **11 terrorists** during Operation Radd-ul-Fitna Three in the Panjgur and Chagai districts of Balochistan. *[Business Recorder](https://www.brecorder.com/news/40440259/11-terrorists-killed-in-security-operations-in-panjgur-chagai-state-media)*
+- ParkView City Islamabad has signed an agreement with McDonald’s to open a new restaurant at Downtown Islamabad. *[Business Recorder](https://www.brecorder.com/news/40440256/parkview-city-islamabad-signs-agreement-with-mcdonalds-for-new-restaurant-at-downtown-islamabad)*
+- The government has called for a mechanism to address unaccredited IT institutions to ensure graduates possess internationally competitive skills. *[Business Recorder](https://www.brecorder.com/news/40440251/govt-moves-to-strengthen-it-education-standards)*
+- The death toll from the attack on the Kohat police headquarters has risen to **31**, including **16 police personnel**. *[Business Recorder](https://www.brecorder.com/news/40440248/death-toll-from-attack-at-police-hq-in-kohat-rises-to-31)*
 
 ### International
-- Aramco plans to increase Gulf exports to **60 million barrels** during September and October. *[ARY](https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct)*
-- The US is planning to implement Medicaid most-favored-nation pricing for specific drugs across all states. *[ARY](https://arynews.tv/us-plans-medicaid-most-favored-nation-pricing-for-some-drugs-in-all-states)*
-- Turkish Ambassador Irfan Neziroglu met with Deputy Prime Minister Ishaq Dar to discuss bilateral cooperation and upcoming diplomatic engagements. *[Business Recorder](https://www.brecorder.com/news/40440231/turkiye-envoy-neziroglu-calls-on-dar)*
-- Pakistan’s military spokesman, Ahmed Sharif Chaudhry, stated the country will go to "any extent" to defend ally Saudi Arabia against Houthi attacks. *[Business Recorder](https://www.brecorder.com/news/40440233/pakistan-vows-to-defend-ksa-to-any-extent)*
+- A *Washington Post* report states that US troop deaths during the Iran war exceed the official Pentagon count by at least **four**. *[ARY](https://arynews.tv/us-troop-deaths-during-iran-war-exceed-pentagon-count-by-at-least-four-washington-post-reports)*
+- The UN has permitted the Palestinian president to address the assembly via video after the US denied his visa. *[ARY](https://arynews.tv/un-allows-palestinian-president-to-again-speak-via-video-after-us-denies-visa)*
+- Large plumes of smoke were observed near Riyadh airport following alerts regarding potential aerial attacks by the Houthi group. *[Business Recorder](https://www.brecorder.com/news/40440264/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat)*
+- Canada expressed optimism regarding the conclusion of the Comprehensive Economic Partnership Agreement (CEPA) trade talks with India by the end of the year. *[Business Recorder](https://www.brecorder.com/news/40440263/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-says)*
+- Denmark and Greenland clarified that a new security agreement with the US will not result in a loss of Greenland's sovereignty. *[Business Recorder](https://www.brecorder.com/news/40440260/greenland-denmark-say-us-deal-will-not-cede-sovereignty)*
+- Dmitry Medvedev stated that recent US sanctions against Russia justify the implementation of "military deterrence." *[Business Recorder](https://www.brecorder.com/news/40440258/us-sanctions-merit-russian-military-deterrence-medvedev-says)*
+- The US has approved a potential **$2.68 billion** sale of air defense equipment to Ukraine. *[Business Recorder](https://www.brecorder.com/news/40440257/us-approves-potential-27bn-air-defense-sale-to-ukraine)*
+- Iran executed Hossein Pedaran for allegedly providing intelligence regarding missile sites in Isfahan province to Mossad. *[Business Recorder](https://www.brecorder.com/news/40440250/iran-executes-man-accused-of-providing-missile-info-to-israel-judiciary)*
+- China is investigating Meituan unit Beijing Sankuai Information Technology for suspected antitrust and unfair competition violations. *[Business Recorder](https://www.brecorder.com/news/40440246/china-investigates-meituan-and-alibaba-units-for-suspected-antitrust-violations)*
 
 ### Sports
-- The Pakistan Cricket Board (PCB) has launched a nationwide school cricket program to discover future talent. *[ARY](https://arynews.tv/season-two-of-pcb-talent-hunt-programme-for-schools-to-begin-from-saturday)*
-- The logo for the Pak-China Friendship Summer Games 2026 was unveiled; the event will take place in Lahore from **September 24 to 28** and is expected to host approximately **2,000 athletes**. *[Business Recorder](https://www.brecorder.com/news/40440226/pak-china-friendship-summer-games-logo-unveiled)*
+- Millwall and West Ham played to a **2-2** draw. *[ARY](https://arynews.tv/millwall-west-ham-share-four-goals-in-2-2-draw)*
+- Sophie Cunningham responded to public backlash regarding her participation in Team USA games. *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-backlash-over-team-usa-games)*
+- New Zealand all-rounder Rachin Ravindra is a doubt for the upcoming series against India after dislocating his right shoulder during a promotional shoot. *[Business Recorder](https://www.brecorder.com/news/40440247/new-zealands-ravindra-a-doubt-for-india-series-after-injury-in-promotional-shoot)*
+- OCA President Sheikh Joaan bin Hamad Al Thani urged politicians to remain out of sports following a diplomatic incident at the Asian Games. *[Business Recorder](https://www.brecorder.com/news/40440245/asian-olympic-boss-says-politicians-need-to-stay-out-of-sport-at-nagoya-games)*
+
+### Health
+- Authorities in Rawalpindi confirmed **nine dengue cases** and have destroyed over **180,000 larval sites**. *[ARY](https://arynews.tv/nine-dengue-cases-confirmed-in-rawalpindi-over-180000-larval-sites-destroyed)*
 
