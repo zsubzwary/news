@@ -7,45 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Sep-2026 09:09PKT 
+ &lrm; 19-Sep-2026 21:10PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- سی پی پی اے (CPPA) نے بجلی کی قیمت میں **1.73 روپے فی یونٹ** اضافے کی درخواست کی ہے۔ *[ARY](https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase)*
-- اوگرا (OGRA) نے پٹرول اور ڈیزل کی قیمتوں میں کمی کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-price-diesel-rate-reduced-by-ogra)*
-- پنجاب گرین کریڈٹ پروگرام کے تحت سائیکلنگ کے ذریعے **20,000 روپے** کمانے کا موقع دیا جا رہا ہے۔ *[ARY](https://arynews.tv/punjab-green-credit-program-earn-rs-20000-by-just-cycling)*
-- پنجاب اور خیبرپختونخوا نے گندم کی درآمدی طلب میں **200,000 ٹن** کی کمی کر دی ہے۔ *[ARY](https://arynews.tv/punjab-kp-take-u-turn-on-wheat-imports-slash-demand-by-200000-tonnes)*
-- آرامکو ستمبر اور اکتوبر میں خلیجی برآمدات کو **60 ملین بیرل** تک بڑھانے کا ارادہ رکھتی ہے۔ *[ARY](https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct)*
-- وزیر خزانہ اورنگزیب کے مطابق مالی سال 2026 میں پاکستان کی جی ڈی پی (GDP) ترقی کی شرح **3.7 فیصد** رہی ہے۔ *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
-- کوکا کولا کے سینئر ڈائریکٹر ڈاکٹر فیصل ہاشمی نے متوازن مالیاتی پالیسی کی تجویز دی ہے تاکہ غیر رسمی شعبے کو باقاعدہ معیشت میں لایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy)*
-- فیڈ (FACE) نے سرخ مرچ کے کاشتکاروں کو برآمدی معیار حاصل کرنے کے لیے جیو ٹیکسٹائل ڈرائینگ شیٹس تقسیم کیں۔ *[Business Recorder](https://www.brecorder.com/news/40440225/initiative-launched-to-help-chili-farmers-achieve-export-quality-standards)*
-- پاکستان کے غیر ملکی زرانہ ذخائر (FX reserves) ریکارڈ **21.4 ارب ڈالر** تک پہنچ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440227/pm-lauds-fm-team-as-fx-reserves-hit-all-time-high-of-usd214bn)*
-- ایس ای سی پی (SECP) نے انشورنس شکایات کے ازالے کے لیے مزید انشورنس ٹریبونلز کے قیام کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440230/secp-suggests-more-insurance-tribunals)*
-- پیٹرول کی قیمت میں **1.65 روپے** (نئی قیمت 389.14 روپے) اور ڈیزل میں **88 پیسے** کمی کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440232/petrol-price-reduced-by-rs165-per-litre-diesels-by-88-paise)*
-- جولائی-اگست کے دوران ٹیکسٹائل کی برآمدات میں **5.55 فیصد** اضافہ ہوا ہے جو کہ **3.379 ارب ڈالر** بنتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440237/jul-aug-textile-exports-climb-555pc-yoy)*
-- حساس قیمت انڈیکس (SPI) کے مطابق مہنگائی میں **0.49 فیصد** اضافہ ہوا، جس میں ڈیزل (7.29%) اور پٹرول (6.40%) کی قیمتوں میں اضافہ شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440238/spi-based-inflation-rises-slightly)*
-- پاکستان کی ٹیکسٹائل انڈسٹری اور یورپی یونین نے GSP+ سہولت کی تجدید پر بات چیت شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440240/aptma-eu-open-talks-on-gsp-renewal)*
-- جولائی-اگست میں موبائل فون کی درآمدات میں **8.85 فیصد** کمی آئی ہے جو کہ **274.129 ملین ڈالر** رہ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440241/jul-aug-mobile-phone-imports-decline-885pc-yoy)*
-- وزیر خزانہ نے لندن میں ہونے والی کانفرنس میں پاکستان کی میکرو اکنامک استحکام کی پیشرفت کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440243/macroeconomic-stability-minister-outlines-progress)*
+- فیول سبسڈی اسکیم کو انٹرنیٹ سے محروم علاقوں تک ایس ایم ایس (SMS) کے ذریعے پہنچا دیا گیا ہے تاکہ شہری اپنے ٹوکنوں کی واپسی کر سکیں۔ *[Business Recorder](https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption)*
+- کمپٹیشن کمیشن آف پاکستان (CCP) نے ایڈیبل آئل ٹینکر مالکان کی تنظیم (APEOTOA) پر قیمتوں میں ملی بھگت اور مارکیٹ میں تقسیم کے جرم میں 60 ملین روپے جرمانہ عائد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440262/ccp-fines-edible-oil-tanker-owners-body-rs60mn-for-cartelisation)*
+- پاکستان میں سونے کی قیمت میں فی تولہ 100 روپے کی کمی ہوئی ہے، جس کے بعد سونے کی نئی قیمت 460,236 روپے فی تولہ ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440261/gold-price-declines-by-rs100-per-tola-in-pakistan)*
+- چیری ماسٹر پاکستان نے نئی گاڑی 'Chery Q' متعارف کروا دی ہے جس کی محدود مدت کے لیے قیمت 5,554,000 روپے مقرر کی گئی ہے، ساتھ ہی 100,000 روپے مالیت کا ہوم چارجر بھی مفت دیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440254/chery-master-pakistan-launches-chery-q-setting-a-new-standard-in-everyday-mobility-at-pkr-5554000-for-a-limited-time)*
+- ایس ای سی پی (SECP) نے اپنے 98 فیصد ایڈجوڈیکیشن کیسز کا فیصلہ کرتے ہوئے کمپنیوں ایکٹ کی خلاف ورزی پر 4.73 ارب روپے سے زائد کے جرمانے عائد کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440253/secp-disposes-of-98-adjudication-caseload-imposes-rs4.73bn-in-penalties)*
 
-### سیاست
-- ترکی کے سفیر نے نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار سے ملاقات کی اور دو طرفہ تعاون پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440231/turkiye-envoy-neziroglu-calls-on-dar)*
-- اسلام آباد ہائی کورٹ نے قرار دیا ہے کہ کسی بھی سیاسی جماعت یا لیڈر کو وفاقی دارالحکومت کی عوامی سڑکوں یا عمارتوں پر قبضہ کرنے کا حق حاصل نہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440234/federal-capital-ihc-places-restrictions-on-political-protests)*
-- وزیر داخلہ محسن نقوی نے خبردار کیا ہے کہ اسلام آباد میں کسی بھی احتجاجی کو داخل ہونے کی اجازت نہیں دی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40440235/no-protester-will-be-allowed-to-enter-islamabad-naqvi)*
-- پاکستان کے فوجی ترجمان نے کہا ہے کہ پاکستان سعودی عرب کے دفاع کے لیے کسی بھی حد تک جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440233/pakistan-vows-to-defend-ksa-to-any-extent)*
+### سائنس اور ٹیکنالوجی
+- ایک نئی تحقیق کے مطابق بہرے افراد اپنے دماغی ڈھانچے میں تبدیلی (brain rewiring) کے ذریعے بہتر 'پیری فیرل ویژن' (peripheral vision) حاصل کر لیتے ہیں۔ *[ARY](https://arynews.tv/deaf-people-develop-sharper-peripheral-vision-through-brain-rewiring-study-reveals)*
+- مصنوعی ذہانت (AI) بنانے والی کمپنی 'Anthropic' اپنے آئی پی او (IPO) سے قبل ایک نیا ماڈل لانچ کرنے پر غور کر رہی ہے۔ *[ARY](https://arynews.tv/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say)*
+- اسٹینفورڈ یونیورسٹی کی ایک تحقیق کے مطابق انسانی دماغ دراصل دو الگ الگ اعضاء پر مشتمل ہے۔ *[ARY](https://arynews.tv/human-brain-is-actually-two-separate-organs-stanford-study-reveals)*
 
 ### قومی
-- کوہاٹ میں مسجد میں ہونے والے دھماکے میں ہلاکتوں کی تعداد بڑھ کر **21** ہو گئی ہے۔ *[ARY](https://arynews.tv/at-least-16-martyred-57-injured-in-kohat-mosque-bomb-blast)*
-- ماحولیاتی کارکردگی انڈیکس (EPI) میں پاکستان 22 درجے بہتر ہو کر **157 ویں** نمبر پر آگیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440223/environmental-performance-index-pakistan-climbs-22-places)*
-- پنجاب محکمہ زراعت نے ستمبر اور اکتوبر میں سردیوں کی سبزیوں کی کاشت شروع کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440228/punjab-advises-starting-winter-vegetable-cultivation)*
-- پنجاب نے جاری کریک ڈاؤن کے دوران **142,820** غیر قانونی افغان شہریوں کو واپس بھیج دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440229/punjab-repatriates-142820-illegal-afghans-in-ongoing-crackdown)*
+- چکوال پولیس نے کم عمر ڈرائیونگ پرمٹ (juvenile driving permit) حاصل کرنے کے طریقہ کار کی تفصیلات جاری کر دی ہیں۔ *[ARY](https://arynews.tv/how-to-get-juvenile-driving-permit-chakwal-police-shares-procedure)*
+- ایم ڈی کیٹ (MDCAT) 2026 اتوار کو منعقد ہوگا، سندھ میں کراچی سمیت کل 9 امتحانی مراکز قائم کیے گئے ہیں۔ *[ARY](https://arynews.tv/mdcat-2026-set-for-sunday-sindh-establishes-9-exam-centers-including-2-in-karachi)*
+- بلوچستان میں 'آپریشن رد الفتن 3' کے دوران پنجگور اور چاگی کے علاقوں میں 11 دہشت گرد مارے گئے، جن میں سے 5 دہشت گرد 'فتنہ الہندستان' سے تعلق رکھتے تھے۔ *[Business Recorder](https://www.brecorder.com/news/40440259/11-terrorists-killed-in-security-operations-in-panjgur-chagai-state-media)*
+- پارک ویو سٹی اسلام آباد اور میکڈونلڈز کے درمیان اسلام آباد ڈاؤن ٹاؤن میں ایک نیا ریسٹورنٹ کھولنے کا معاہدہ طے پا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440256/parkview-city-islamabad-signs-agreement-with-mcdonalds-for-new-restaurant-at-downtown-islamabad)*
+- حکومت نے آئی ٹی (IT) تعلیم کے معیار کو بہتر بنانے اور غیر تسلیم شدہ اداروں کے خلاف کارروائی کے لیے جامع طریقہ کار تیار کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440251/govt-moves-to-strengthen-it-education-standards)*
+- کوہاٹ پولیس ہیڈ کوارٹر پر حملے اور دھماکے میں ہلاک ہونے والوں کی تعداد بڑھ کر 31 ہو گئی ہے، جن میں 16 پولیس اہلکار شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440248/death-toll-from-attack-at-police-hq-in-kohat-rises-to-31)*
 
 ### بین الاقوامی
-- برازیل کی پولیس نے تجارتی رازوں کی جانچ کے سلسلے میں iFood کے سابق ملازم سے آلات قبضے میں لیے ہیں۔ *[ARY](https://arynews.tv/brazil-police-seize-devices-from-former-ifood-employee-in-trade-secrets-probe)*
-- امریکہ نے تمام ریاستوں میں بعض ادویات کے لیے میڈیکیڈ (Medicaid) قیمتوں کے نئے نظام کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/us-plans-medicaid-most-favored-nation-pricing-for-some-drugs-in-all-states)*
+- واشنگٹن پوسٹ کے مطابق ایران کے ساتھ جنگ کے دوران امریکی فوجیوں کی ہلاکتوں کی تعداد پینٹاگون کے فراہم کردہ اعداد و شمار سے کم از کم چار زیادہ ہے۔ *[ARY](https://arynews.tv/us-troop-deaths-during-iran-war-exceed-pentagon-count-by-at-least-four-washington-post-reports)*
+- امریکی ویزا نہ ملنے کے بعد اقوام متحدہ نے فلسطینی صدر کو ویڈیو لنک کے ذریعے خطاب کرنے کی اجازت دے دی ہے۔ *[ARY](https://arynews.tv/un-allows-palestinian-president-to-again-speak-via-video-after-us-denies-visa)*
+- یمن کے حوثی گروپ کے حملوں کے خطرے کے بعد سعودی عرب نے ریاض میں الرٹ جاری کیے، جس کے بعد ایئرپورٹ کے قریب دھواں اور آگ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40440264/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat)*
+- کینیڈا کو توقع ہے کہ وہ سال کے اختتام تک بھارت کے ساتھ جامع اقتصادی شراکت داری کے معاہدے (CEPA) پر بات چیت مکمل کر لے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440263/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-says)*
+- گرین لینڈ اور ڈنمارک نے واضح کیا ہے کہ امریکہ کے ساتھ کسی بھی معاہدے سے گرین لینڈ کی خودمختاری متاثر نہیں ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40440260/greenland-denmark-say-us-deal-will-not-cede-sovereignty)*
+- روسی رہنما دمیتری مدویدیف نے کہا ہے کہ امریکی پابندیوں کے جواب میں روس کو فوجی دفاعی اقدامات کرنے کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440258/us-sanctions-merit-russian-military-deterrence-medvedev-says)*
+- امریکہ نے یوکرین کو 2.68 ارب ڈالر مالیت کے فضائی دفاعی سامان کی فروخت کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440257/us-approves-potential-27bn-air-defense-sale-to-ukraine)*
+- اسحاق ڈار نے ایرانی وزیر خارجہ سے فون پر گفتگو کے دوران علاقائی تناؤ کے درمیان توانائی کی بلا تعطل فراہمی پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions)*
+- ایران نے اسرائیلی انٹیلی جنس کو میزائل سائٹس کے بارے میں معلومات فراہم کرنے کے الزام میں ایک شخص کو پھانسی دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40440250/iran-executes-man-accused-of-providing-missile-info-to-israel-judiciary)*
+- سعودی سول ڈیفنس نے ریاض اور الخرج کے لیے جاری کردہ الرٹ کے بعد خطرے کی منسوخی (all-clear) کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440249/saudi-civil-defence-sends-all-clear-after-alerts-issued-for-capital-riyadh)*
+- چین نے میٹوان اور علی بابا کے یونٹس کے خلاف ممکنہ اینٹی ٹرسٹ (antitrust) خلاف ورزیوں کی تحقیقات شروع کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440246/china-investigates-meituan-and-alibaba-units-for-suspected-antitrust-violations)*
 
 ### کھیل
-- پاکستان کرکٹ بورڈ (PCB) نے ملک گیر اسکول کرکٹ پروگرام کا آغاز کر دیا ہے تاکہ نئے ٹیلنٹ کو تلاش کیا جا سکے۔ *[ARY](https://arynews.tv/season-two-of-pcb-talent-hunt-programme-for-schools-to-begin-from-saturday)*
-- لاہور میں **24 سے 28 ستمبر** تک پاک چین دوستی کے موسم گرما کے کھیلوں کا انعقاد کیا جائے گا، جس میں تقریباً **2,000 ایتھلیٹس** حصہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440226/pak-china-friendship-summer-games-logo-unveiled)*
+- مل وال اور ویسٹ ہیم کے درمیان فٹ بال میچ 2-2 کے برابر رہا۔ *[ARY](https://arynews.tv/millwall-west-ham-share-four-goals-in-2-2-draw)*
+- امریکی کھلاڑی سوفی کننگھم نے ٹیم یو ایس اے کے خلاف ہونے والی تنقید کا جواب دیا۔ *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-backlash-over-team-usa-games)*
+- نیوزی لینڈ کے آل راؤنڈر رشین ریویندرا کندھے کی چوٹ کے باعث بھارت کے خلاف ہونے والی ٹی ٹوینٹی سیریز کے لیے مشکوک ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440247/new-zealands-ravindra-a-doubt-for-india-series-after-injury-in-promotional-shoot)*
+- ایشین اولمپک باس نے کہا ہے کہ ناگویہ گیمز کے دوران سیاست دانوں کو کھیلوں کے معاملات سے دور رہنا چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40440245/asian-olympic-boss-says-politicians-need-to-stay-out-of-sport-at-nagoya-games)*
+
+### صحت
+- راولپنڈی میں ڈینگی کے 9 کیسز کی تصدیق کی گئی جبکہ 180,000 سے زائد لاروا سائٹس کو تباہ کر دیا گیا۔ *[ARY](https://arynews.tv/nine-dengue-cases-confirmed-in-rawalpindi-over-180000-larval-sites-destroyed)*
 
