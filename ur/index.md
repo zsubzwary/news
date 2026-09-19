@@ -7,49 +7,45 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 18-Sep-2026 21:09PKT 
+ &lrm; 19-Sep-2026 09:09PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- مالی سال 26 (FY26) میں پاکستان کی جی ڈی پی (GDP) کی شرح نمو بحال ہو کر **3.7 فیصد** تک پہنچ گئی ہے۔ *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
-- تیل کی صنعت نے خبردار کیا ہے کہ پاکستان کو پٹرول اور ڈیزل کی قلت کا سامنا کرنا پڑ سکتا ہے۔ *[ARY](https://arynews.tv/pakistan-may-face-petrol-and-diesel-shortages-oil-industry-warns)*
-- حکومت نے بجلی کی تقسیم کرنے والی کمپنیوں (DISCOs) کی نجکاری میں ترکیہ کی دلچسپی کا خیر مقدم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440167/pakistan-welcomes-turkish-interest-in-disco-privatisation)*
-- وزیراعظم شہباز شریف نے **20 سالہ** موٹر سائیکلوں اور رکشوں (جو **1 جنوری 2006** یا اس کے بعد رجسٹر ہوئے) کو فیول ریلیف اسکیم میں شامل کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440159/pm-directs-inclusion-of-20-year-old-motorcycles-rickshaws-in-fuel-relief-scheme)*
-- وارن بف کے استعفیٰ کے بعد ان کے بیٹے **ہاورڈ بفٹ** برکشائر ہیتھ وے کے چیئرمین بن گئے ہیں، جو کہ **1.1 ٹریلین ڈالر** کا گروپ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440163/warren-buffett-steps-down-as-berkshire-chairman-son-howard-succeeds)*
-- سری لنکا کا اسٹاک انڈیکس **0.16 فیصد** اضافے کے ساتھ **21,056.26** پر بند ہوا، تاہم پورے ہفتے کے دوران اس میں **1.6 فیصد** کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40440160/sri-lankan-shares-end-four-day-slide-but-log-worst-week-in-over-two-months)*
-- بھارت میں یکم اپریل سے 17 ستمبر تک براہ راست ٹیکسوں کی وصولی **13 فیصد** بڑھ کر **12.1 ٹریلین روپے** ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440158/indias-net-direct-tax-collections-rise-13-from-april-1-sept-17)*
-- ابو ظہبی کا انڈیکس **1.1 فیصد** بڑھ گیا جبکہ دبئی کا مارکیٹ گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440156/abu-dhabi-gains-on-ihc-rally-dubai-falls)*
-- ایپل پے (Apple Pay) بھارت میں **ایکسس بینک** کے کریڈٹ کارڈز کے ذریعے لانچ کرنے کی تیاری کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440154/apple-pay-eyes-india-rollout-with-axis-bank-sources-say)*
-- لندن کا **FTSE 100** انڈیکس **0.6 فیصد** گر کر **10,751.57** پوائنٹس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40440152/londons-ftse-100-retreats-as-banks-energy-weigh-but-eyes-weekly-rise)*
-- ٹٹا گروپ کی کمپنیوں کی مارکیٹ ویلیو میں **4 ارب ڈالر** کی کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40440151/tata-group-firms-shed-4-billion-in-market-value-amid-holding-company-rift)*
-- بھارت کے بینک آف مہاراشٹرا نے **500 ملین ڈالر** کا ڈالر قرضہ جاری کیا جس کا کوپن ریٹ **6.1120%** ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440147/bank-of-maharashtra-raises-500-million-in-debut-dollar-debt-tightens-pricing)*
-
-### سائنس اور ٹیکنالوجی
-- یوکے (UK) میں ایئر ٹریفک کنٹرول کے نظام میں تعطل کا سبب سافٹ ویئر کی خرابی قرار دی گئی ہے۔ *[ARY](https://arynews.tv/uk-air-traffic-control-outage-caused-by-software-defect)*
-- اسٹیم (Steam) پر نیا گیم 'Blackwood' لانچ کیا گیا ہے۔ *[ARY](https://arynews.tv/new-steam-hit-blackwood-allows-you-to-be-john-wick)*
+- سی پی پی اے (CPPA) نے بجلی کی قیمت میں **1.73 روپے فی یونٹ** اضافے کی درخواست کی ہے۔ *[ARY](https://arynews.tv/electricity-price-hike-cppa-seeks-rs1-point-73-per-unit-increase)*
+- اوگرا (OGRA) نے پٹرول اور ڈیزل کی قیمتوں میں کمی کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-price-diesel-rate-reduced-by-ogra)*
+- پنجاب گرین کریڈٹ پروگرام کے تحت سائیکلنگ کے ذریعے **20,000 روپے** کمانے کا موقع دیا جا رہا ہے۔ *[ARY](https://arynews.tv/punjab-green-credit-program-earn-rs-20000-by-just-cycling)*
+- پنجاب اور خیبرپختونخوا نے گندم کی درآمدی طلب میں **200,000 ٹن** کی کمی کر دی ہے۔ *[ARY](https://arynews.tv/punjab-kp-take-u-turn-on-wheat-imports-slash-demand-by-200000-tonnes)*
+- آرامکو ستمبر اور اکتوبر میں خلیجی برآمدات کو **60 ملین بیرل** تک بڑھانے کا ارادہ رکھتی ہے۔ *[ARY](https://arynews.tv/aramco-to-boost-gulf-exports-to-60-million-barrels-in-sept-and-oct)*
+- وزیر خزانہ اورنگزیب کے مطابق مالی سال 2026 میں پاکستان کی جی ڈی پی (GDP) ترقی کی شرح **3.7 فیصد** رہی ہے۔ *[ARY](https://arynews.tv/pakistans-gdp-growth-recovered-to-3point7-percent-in-fy26-says-finance-minister-aurangzeb)*
+- کوکا کولا کے سینئر ڈائریکٹر ڈاکٹر فیصل ہاشمی نے متوازن مالیاتی پالیسی کی تجویز دی ہے تاکہ غیر رسمی شعبے کو باقاعدہ معیشت میں لایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40440224/govt-urged-to-go-for-a-balanced-fiscal-policy)*
+- فیڈ (FACE) نے سرخ مرچ کے کاشتکاروں کو برآمدی معیار حاصل کرنے کے لیے جیو ٹیکسٹائل ڈرائینگ شیٹس تقسیم کیں۔ *[Business Recorder](https://www.brecorder.com/news/40440225/initiative-launched-to-help-chili-farmers-achieve-export-quality-standards)*
+- پاکستان کے غیر ملکی زرانہ ذخائر (FX reserves) ریکارڈ **21.4 ارب ڈالر** تک پہنچ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440227/pm-lauds-fm-team-as-fx-reserves-hit-all-time-high-of-usd214bn)*
+- ایس ای سی پی (SECP) نے انشورنس شکایات کے ازالے کے لیے مزید انشورنس ٹریبونلز کے قیام کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440230/secp-suggests-more-insurance-tribunals)*
+- پیٹرول کی قیمت میں **1.65 روپے** (نئی قیمت 389.14 روپے) اور ڈیزل میں **88 پیسے** کمی کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440232/petrol-price-reduced-by-rs165-per-litre-diesels-by-88-paise)*
+- جولائی-اگست کے دوران ٹیکسٹائل کی برآمدات میں **5.55 فیصد** اضافہ ہوا ہے جو کہ **3.379 ارب ڈالر** بنتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440237/jul-aug-textile-exports-climb-555pc-yoy)*
+- حساس قیمت انڈیکس (SPI) کے مطابق مہنگائی میں **0.49 فیصد** اضافہ ہوا، جس میں ڈیزل (7.29%) اور پٹرول (6.40%) کی قیمتوں میں اضافہ شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440238/spi-based-inflation-rises-slightly)*
+- پاکستان کی ٹیکسٹائل انڈسٹری اور یورپی یونین نے GSP+ سہولت کی تجدید پر بات چیت شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440240/aptma-eu-open-talks-on-gsp-renewal)*
+- جولائی-اگست میں موبائل فون کی درآمدات میں **8.85 فیصد** کمی آئی ہے جو کہ **274.129 ملین ڈالر** رہ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440241/jul-aug-mobile-phone-imports-decline-885pc-yoy)*
+- وزیر خزانہ نے لندن میں ہونے والی کانفرنس میں پاکستان کی میکرو اکنامک استحکام کی پیشرفت کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440243/macroeconomic-stability-minister-outlines-progress)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے کفایت شعاری کی مہم کے تحت اقوام متحدہ (UNGA) کے وفد کے سائز میں کمی کر دی ہے۔ *[ARY](https://arynews.tv/pm-sharif-scales-back-unga-delegation-in-austerity-drive)*
-- پی ٹی آئی کے اسلام آباد مارچ کے لیے سرکاری وسائل کے استعمال پر پابندی لگا دی گئی ہے۔ *[ARY](https://arynews.tv/use-of-official-resources-for-pti-islamabad-march-banned)*
-- فیصل کریم کنڈی کا کہنا ہے کہ اسلام آباد مارچ سے پی ٹی آئی کے بانی رہا نہیں ہو سکے گا۔ *[ARY](https://arynews.tv/islamabad-march-wont-free-pti-founder-says-faisal-karim-kundi)*
-- پی ٹی آئی کے قانون ساز پٹرول کی قیمتوں میں اضافے کے خلاف احتجاج کے لیے گدھا گاڑی پر سندھ اسمبلی پہنچے۔ *[ARY](https://arynews.tv/pti-lawmakers-reach-sindh-assembly-on-donkey-cart-to-protest-petrol-price-hike)*
-- وزیر داخلہ محسن نقوی کا کہنا ہے کہ اسلام آباد ہائی کورٹ کے حکم کے بعد وفاقی دارالحکومت میں کسی بھی قسم کے احتجاج کی اجازت نہیں دی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40440165/govt-to-stop-anyone-marching-on-islamabad-in-every-possible-way-naqvi)*
+- ترکی کے سفیر نے نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار سے ملاقات کی اور دو طرفہ تعاون پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440231/turkiye-envoy-neziroglu-calls-on-dar)*
+- اسلام آباد ہائی کورٹ نے قرار دیا ہے کہ کسی بھی سیاسی جماعت یا لیڈر کو وفاقی دارالحکومت کی عوامی سڑکوں یا عمارتوں پر قبضہ کرنے کا حق حاصل نہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440234/federal-capital-ihc-places-restrictions-on-political-protests)*
+- وزیر داخلہ محسن نقوی نے خبردار کیا ہے کہ اسلام آباد میں کسی بھی احتجاجی کو داخل ہونے کی اجازت نہیں دی جائے گی۔ *[Business Recorder](https://www.brecorder.com/news/40440235/no-protester-will-be-allowed-to-enter-islamabad-naqvi)*
+- پاکستان کے فوجی ترجمان نے کہا ہے کہ پاکستان سعودی عرب کے دفاع کے لیے کسی بھی حد تک جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440233/pakistan-vows-to-defend-ksa-to-any-extent)*
 
 ### قومی
-- کوہستان اسکینڈل میں **117 ملین روپے** کے ایک اور پلیا بارگن (Plea Bargain) کی منظوری دے دی گئی۔ *[ARY](https://arynews.tv/another-plea-bargain-of-rs-117-million-in-kohistan-scandal-approved)*
+- کوہاٹ میں مسجد میں ہونے والے دھماکے میں ہلاکتوں کی تعداد بڑھ کر **21** ہو گئی ہے۔ *[ARY](https://arynews.tv/at-least-16-martyred-57-injured-in-kohat-mosque-bomb-blast)*
+- ماحولیاتی کارکردگی انڈیکس (EPI) میں پاکستان 22 درجے بہتر ہو کر **157 ویں** نمبر پر آگیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440223/environmental-performance-index-pakistan-climbs-22-places)*
+- پنجاب محکمہ زراعت نے ستمبر اور اکتوبر میں سردیوں کی سبزیوں کی کاشت شروع کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440228/punjab-advises-starting-winter-vegetable-cultivation)*
+- پنجاب نے جاری کریک ڈاؤن کے دوران **142,820** غیر قانونی افغان شہریوں کو واپس بھیج دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440229/punjab-repatriates-142820-illegal-afghans-in-ongoing-crackdown)*
 
 ### بین الاقوامی
-- نوبل فاؤنڈیشن نے انعامات کی رقم میں **9 فیصد** اضافہ کرتے ہوئے اسے **1.2 ملین ڈالر** (12 ملین سویڈش کرونہ) کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440164/nobel-foundation-raises-prize-money-for-each-award-to-12-million)*
-- یمن کے تنازع میں گزشتہ دو ہفتوں کے دوران **112,000** افراد بے گھر ہو گئے جبکہ تقریباً **3,000** افراد بحری راستے سے جibouti ہجرت کر گئے۔ *[Business Recorder](https://www.brecorder.com/news/40440155/yemen-conflict-displaces-112000-people-inside-country-thousands-flee-to-djibouti-un-migration-agency-says)*
+- برازیل کی پولیس نے تجارتی رازوں کی جانچ کے سلسلے میں iFood کے سابق ملازم سے آلات قبضے میں لیے ہیں۔ *[ARY](https://arynews.tv/brazil-police-seize-devices-from-former-ifood-employee-in-trade-secrets-probe)*
+- امریکہ نے تمام ریاستوں میں بعض ادویات کے لیے میڈیکیڈ (Medicaid) قیمتوں کے نئے نظام کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/us-plans-medicaid-most-favored-nation-pricing-for-some-drugs-in-all-states)*
 
 ### کھیل
-- کرسٹینانو رونالڈو کو پرتگال کے نئے مینیجر جورج جیسس کے پہلے **25 کھلاڑیوں** کے اسکواڈ میں شامل کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440162/ronaldo-included-in-jesus-first-portugal-squad)*
-- کایلیان ایمباپے نے نائیکی (Nike) کے ساتھ دو دہائیوں پرانا شراکت داری ختم کر کے سوئس برانڈ 'On' کے ساتھ معاہدہ کیا ہے۔ 'On' کے شیئرز میں **5 فیصد** اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440161/mbappe-leaves-nike-signs-with-on-as-it-forays-into-soccer)*
-- جنوبی افریقہ کے فاسٹ بولر لنگی نگیدی زخمی ہونے کے باعث آسٹریلیا کے خلاف ون ڈے سیریز سے باہر ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40440157/another-quick-bowler-out-of-south-africa-team-to-take-on-australia)*
-- عالمی نمبر ون ٹینس کھلاڑی ایلینا ریباکینا چوٹ کی وجہ سے بلی جے کنگ کپ فائنلز سے باہر ہو گئی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440149/world-number-one-rybakina-to-miss-billie-jean-king-cup-finals-after-demanding-month)*
-- جاپان کے شہر ناگویا میں ایشین گیمز کا آغاز ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440150/japan-yet-to-catch-asian-games-fever-as-nagoya-welcomes-athletes)*
-
-### دیگر
-- لندن میں شہزادی ڈائنا کے مشہور "ریوینج ڈریس" کی نمائش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40440166/revenge-dress-shows-princess-dianas-lasting-appeal-amid-royal-family-war-of-words)*
+- پاکستان کرکٹ بورڈ (PCB) نے ملک گیر اسکول کرکٹ پروگرام کا آغاز کر دیا ہے تاکہ نئے ٹیلنٹ کو تلاش کیا جا سکے۔ *[ARY](https://arynews.tv/season-two-of-pcb-talent-hunt-programme-for-schools-to-begin-from-saturday)*
+- لاہور میں **24 سے 28 ستمبر** تک پاک چین دوستی کے موسم گرما کے کھیلوں کا انعقاد کیا جائے گا، جس میں تقریباً **2,000 ایتھلیٹس** حصہ لیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440226/pak-china-friendship-summer-games-logo-unveiled)*
 
