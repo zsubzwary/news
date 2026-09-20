@@ -7,49 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 19-Sep-2026 21:10PKT 
+ &lrm; 20-Sep-2026 09:09PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- فیول سبسڈی اسکیم کو انٹرنیٹ سے محروم علاقوں تک ایس ایم ایس (SMS) کے ذریعے پہنچا دیا گیا ہے تاکہ شہری اپنے ٹوکنوں کی واپسی کر سکیں۔ *[Business Recorder](https://www.brecorder.com/news/40440265/fuel-subsidy-scheme-extended-to-internet-blind-areas-via-sms-redemption)*
-- کمپٹیشن کمیشن آف پاکستان (CCP) نے ایڈیبل آئل ٹینکر مالکان کی تنظیم (APEOTOA) پر قیمتوں میں ملی بھگت اور مارکیٹ میں تقسیم کے جرم میں 60 ملین روپے جرمانہ عائد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440262/ccp-fines-edible-oil-tanker-owners-body-rs60mn-for-cartelisation)*
-- پاکستان میں سونے کی قیمت میں فی تولہ 100 روپے کی کمی ہوئی ہے، جس کے بعد سونے کی نئی قیمت 460,236 روپے فی تولہ ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440261/gold-price-declines-by-rs100-per-tola-in-pakistan)*
-- چیری ماسٹر پاکستان نے نئی گاڑی 'Chery Q' متعارف کروا دی ہے جس کی محدود مدت کے لیے قیمت 5,554,000 روپے مقرر کی گئی ہے، ساتھ ہی 100,000 روپے مالیت کا ہوم چارجر بھی مفت دیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440254/chery-master-pakistan-launches-chery-q-setting-a-new-standard-in-everyday-mobility-at-pkr-5554000-for-a-limited-time)*
-- ایس ای سی پی (SECP) نے اپنے 98 فیصد ایڈجوڈیکیشن کیسز کا فیصلہ کرتے ہوئے کمپنیوں ایکٹ کی خلاف ورزی پر 4.73 ارب روپے سے زائد کے جرمانے عائد کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440253/secp-disposes-of-98-adjudication-caseload-imposes-rs4.73bn-in-penalties)*
+- روانڈا-پاکستان بزنس فورم کے ذریعے دونوں ممالک کے درمیان تجارت اور سرمایہ کاری کے نئے مواقع پیدا ہونے کا امکان ہے۔ *[ARY](https://arynews.tv/rwanda-pakistan-business-forum-to-open-new-avenues-for-trade-investment-hamid-asghar)*
+- پورشے کو مزید 4,000 ملازمتوں میں کٹوتی کا سامنا ہو سکتا ہے۔ *[ARY](https://arynews.tv/porsche-could-face-another-4000-job-cuts-handelsblatt-reports)*
+- پاکستان نے فیول ریلیف اسکیم میں توسیع کی اور اس سے متعلقہ پابندیوں میں نرمی کر دی ہے۔ *[ARY](https://arynews.tv/pakistan-expands-fuel-relief-scheme-and-eases-restrictions)*
+- سعودی آرامکو نے سلطنتِ عمان کی بندرگاہ سوہر کے ذریعے لوڈنگ کے لیے اس ماہ اور اگلے ماہ 60 ملین بیرل خام تیل فروخت کرنے کا منصوبہ بنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440274/aramco-to-boost-gulf-exports-to-60m-barrels)*
+- یورپی یونین برقی سٹیل (electrical steel) اور اس سے متعلقہ مصنوعات کی درآمدات کو روکنے کے لیے کوٹہ اور کم از کم قیمتیں نافذ کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40440275/eu-to-impose-provisional-safeguards-to-protect-electrical-steel-from-imports)*
+- امریکہ میں بے روزگاری کے دعوے غیر متوقع طور پر 10,000 کم ہو کر 196,000 رہ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440277/us-weekly-jobless-claims-unexpectedly-fall)*
+- برطانوی ریٹیل سیلز اگست میں 0.5 فیصد اضافے کے ساتھ بڑھی ہیں، جو کہ ماہرین کی پیش گوئی کے برعکس ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440278/british-consumers-defy-forecasts-up-their-shopping-again)*
+- کینیڈا دسمبر کے آخر تک بھارت کے ساتھ جامع اقتصادی شراکت داری کے معاہدے (CEPA) پر بات چیت مکمل کرنے کے حوالے سے پرامید ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440280/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end)*
+- امریکی ایئر لائنز نے بیجنگ سے نیویارک اور واشنگٹن تک اضافی پروازیں چلانے کی ایئر چائنا کی درخواست کی مخالفت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440281/major-us-airlines-oppose-air-china-bid-to-schedule-additional-us-flights)*
+- جرمنی کی مشینری اور آلات کی صنعت 2026 میں چوتھے سال بھی 2 فیصد کے نقصان کا شکار ہونے کا اندازہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440282/germany-machinery-sector-to-see-fourth-year-of-decline)*
+- وینزویلا اپنے 4 ارب ڈالر کے سونے کے ذخائر کو برٹش بینک آف انگلینڈ سے نیویارک کے فیڈرل ریزرو بینک میں منتقل کرنے کے قریب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440283/venezuela-nears-deal-to-move-usd4bn-gold-reserve-to-new-york-ft-says)*
+- سوئٹزرلینڈ نے 2026 کے لیے اپنی جی ڈی پی (GDP) ترقی کا تخمینہ بڑھا کر 1.7 فیصد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440284/switzerland-ups-2026-gdp-growth-forecast)*
+- آسٹریلیا کے مرکزی بینک کے گورنر نے مہنگائی کے بڑھتے ہوئے خطرات سے خبردار کیا ہے، جبکہ کیش ریٹ 4.35 فیصد ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440286/australias-central-bank-chief-warns-inflation-risks-materialising)*
+- محمد ذکریا اکبر ضیا اسلام آباد چیمبر آف کامرس اینڈ انڈسٹری (ICCI) کے صدر منتخب ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40440305/zikria-elected-icci-president)*
 
 ### سائنس اور ٹیکنالوجی
-- ایک نئی تحقیق کے مطابق بہرے افراد اپنے دماغی ڈھانچے میں تبدیلی (brain rewiring) کے ذریعے بہتر 'پیری فیرل ویژن' (peripheral vision) حاصل کر لیتے ہیں۔ *[ARY](https://arynews.tv/deaf-people-develop-sharper-peripheral-vision-through-brain-rewiring-study-reveals)*
-- مصنوعی ذہانت (AI) بنانے والی کمپنی 'Anthropic' اپنے آئی پی او (IPO) سے قبل ایک نیا ماڈل لانچ کرنے پر غور کر رہی ہے۔ *[ARY](https://arynews.tv/anthropic-considers-releasing-new-ai-model-ahead-of-ipo-sources-say)*
-- اسٹینفورڈ یونیورسٹی کی ایک تحقیق کے مطابق انسانی دماغ دراصل دو الگ الگ اعضاء پر مشتمل ہے۔ *[ARY](https://arynews.tv/human-brain-is-actually-two-separate-organs-stanford-study-reveals)*
+- مصنوعی ذہانت (AI) کے عالمی پھیلاؤ سے چین میں سپلائی اور ڈیمانڈ کے عدم توازن میں مزید اضافہ ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440279/china-central-bank-adviser-says-ai-may-deepen-supply-demand-imbalance)*
+- کیسپرسکی کے سروے کے مطابق 88 فیصد بزرگوں کو ڈیجیٹل دنیا کے استعمال اور آن لائن بینکنگ وغیرہ میں نوجوان مدد فراہم کرتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440304/young-people-helping-the-elderly-navigate-digital-world)*
+
+### موسم
+- کراچی میں درجہ حرارت 35-26 (ºC)، حیدرآباد میں 40-28 (ºC) اور لاہور میں 36-25 (ºC) رہنے کی پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440269/the-weather)*
+
+### سیاست
+- پاکستان نے ٹیکنالوجی پر مبنی اور انسانی پہلو رکھنے والی اقوام متحدہ کی امن برقرار رکھنے کی کوششوں کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/pakistan-calls-for-technology-driven-un-peacekeeping-with-a-human-face)*
+- بھارت نے روسی تیل کی خریداری پر نئے امریکی ٹیرف کے حوالے سے واشنگٹن کو خبردار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440276/india-warns-new-us-tariffs-over-russian-oil-may-hit-ties-vows-to-protect-energy-security)*
+- وفاقی وزیر قیصر احمد شیخ نے الزام لگایا کہ صوبے 18ویں ترمیم کا غلط استعمال کر رہے ہیں اور ملک میں 110 سے 120 ملین لوگ غربت کے نیچے زندگی گزار رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440301/provinces-misusing-18th-amendment-claims-qaiser)*
+- خیبر پختونخوا کے وزیر اعلیٰ محمد سہیل آفریدی نے کوہاٹ کا دورہ کیا اور دہشت گردانہ حملے میں شہید ہونے والے پولیس اہلکاروں کے اہل خانہ سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40440303/kp-cm-visits-kohat-meets-families-of-martyred-police-personnel)*
 
 ### قومی
-- چکوال پولیس نے کم عمر ڈرائیونگ پرمٹ (juvenile driving permit) حاصل کرنے کے طریقہ کار کی تفصیلات جاری کر دی ہیں۔ *[ARY](https://arynews.tv/how-to-get-juvenile-driving-permit-chakwal-police-shares-procedure)*
-- ایم ڈی کیٹ (MDCAT) 2026 اتوار کو منعقد ہوگا، سندھ میں کراچی سمیت کل 9 امتحانی مراکز قائم کیے گئے ہیں۔ *[ARY](https://arynews.tv/mdcat-2026-set-for-sunday-sindh-establishes-9-exam-centers-including-2-in-karachi)*
-- بلوچستان میں 'آپریشن رد الفتن 3' کے دوران پنجگور اور چاگی کے علاقوں میں 11 دہشت گرد مارے گئے، جن میں سے 5 دہشت گرد 'فتنہ الہندستان' سے تعلق رکھتے تھے۔ *[Business Recorder](https://www.brecorder.com/news/40440259/11-terrorists-killed-in-security-operations-in-panjgur-chagai-state-media)*
-- پارک ویو سٹی اسلام آباد اور میکڈونلڈز کے درمیان اسلام آباد ڈاؤن ٹاؤن میں ایک نیا ریسٹورنٹ کھولنے کا معاہدہ طے پا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440256/parkview-city-islamabad-signs-agreement-with-mcdonalds-for-new-restaurant-at-downtown-islamabad)*
-- حکومت نے آئی ٹی (IT) تعلیم کے معیار کو بہتر بنانے اور غیر تسلیم شدہ اداروں کے خلاف کارروائی کے لیے جامع طریقہ کار تیار کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440251/govt-moves-to-strengthen-it-education-standards)*
-- کوہاٹ پولیس ہیڈ کوارٹر پر حملے اور دھماکے میں ہلاک ہونے والوں کی تعداد بڑھ کر 31 ہو گئی ہے، جن میں 16 پولیس اہلکار شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440248/death-toll-from-attack-at-police-hq-in-kohat-rises-to-31)*
+- سندھ میں MDCAT 2026 کے امیدواروں کے لیے جووینائل کارڈ کی شرط ختم کر دی گئی ہے۔ *[ARY](https://arynews.tv/mdcat-2026-juvenile-card-requirement-waived-for-candidates-in-sindh)*
+- کراچی میں لڑکی کو ہراساں کرنے کے الزام میں ایک پولیس افسر کو معطل کر دیا گیا ہے۔ *[ARY](https://arynews.tv/karachi-police-officer-accused-of-harassing-girl-suspended)*
+- چیف جسٹس یحییٰ آفریدی نے ڈسٹرکٹ ججز کے لیے بہتر کام کے حالات اور پیشہ ورانہ وسائل کی ضرورت پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440270/backbone-badly-bent)*
+- پاکستان میں 2026 کے پہلے چھ ماہ کے دوران بچوں کے خلاف تشدد اور بدسلوکی کے 1,914 کیسز رپورٹ ہوئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440271/a-state-failing-its-children)*
+- اسلام آباد میں ایک ہی دن میں اغوا کے 10 سے زیادہ، کار جیکنگ کے 36 اور سٹریٹ کرائم کے 12 واقعات رپورٹ ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40440302/over-10-cases-of-kidnapping-reported-in-capital-in-a-single-day)*
 
 ### بین الاقوامی
-- واشنگٹن پوسٹ کے مطابق ایران کے ساتھ جنگ کے دوران امریکی فوجیوں کی ہلاکتوں کی تعداد پینٹاگون کے فراہم کردہ اعداد و شمار سے کم از کم چار زیادہ ہے۔ *[ARY](https://arynews.tv/us-troop-deaths-during-iran-war-exceed-pentagon-count-by-at-least-four-washington-post-reports)*
-- امریکی ویزا نہ ملنے کے بعد اقوام متحدہ نے فلسطینی صدر کو ویڈیو لنک کے ذریعے خطاب کرنے کی اجازت دے دی ہے۔ *[ARY](https://arynews.tv/un-allows-palestinian-president-to-again-speak-via-video-after-us-denies-visa)*
-- یمن کے حوثی گروپ کے حملوں کے خطرے کے بعد سعودی عرب نے ریاض میں الرٹ جاری کیے، جس کے بعد ایئرپورٹ کے قریب دھواں اور آگ دیکھی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40440264/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat)*
-- کینیڈا کو توقع ہے کہ وہ سال کے اختتام تک بھارت کے ساتھ جامع اقتصادی شراکت داری کے معاہدے (CEPA) پر بات چیت مکمل کر لے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440263/canada-optimistic-about-concluding-trade-talks-with-india-by-year-end-minister-says)*
-- گرین لینڈ اور ڈنمارک نے واضح کیا ہے کہ امریکہ کے ساتھ کسی بھی معاہدے سے گرین لینڈ کی خودمختاری متاثر نہیں ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40440260/greenland-denmark-say-us-deal-will-not-cede-sovereignty)*
-- روسی رہنما دمیتری مدویدیف نے کہا ہے کہ امریکی پابندیوں کے جواب میں روس کو فوجی دفاعی اقدامات کرنے کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440258/us-sanctions-merit-russian-military-deterrence-medvedev-says)*
-- امریکہ نے یوکرین کو 2.68 ارب ڈالر مالیت کے فضائی دفاعی سامان کی فروخت کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440257/us-approves-potential-27bn-air-defense-sale-to-ukraine)*
-- اسحاق ڈار نے ایرانی وزیر خارجہ سے فون پر گفتگو کے دوران علاقائی تناؤ کے درمیان توانائی کی بلا تعطل فراہمی پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440255/dar-stresses-need-for-uninterrupted-energy-supplies-amid-regional-tensions)*
-- ایران نے اسرائیلی انٹیلی جنس کو میزائل سائٹس کے بارے میں معلومات فراہم کرنے کے الزام میں ایک شخص کو پھانسی دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40440250/iran-executes-man-accused-of-providing-missile-info-to-israel-judiciary)*
-- سعودی سول ڈیفنس نے ریاض اور الخرج کے لیے جاری کردہ الرٹ کے بعد خطرے کی منسوخی (all-clear) کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440249/saudi-civil-defence-sends-all-clear-after-alerts-issued-for-capital-riyadh)*
-- چین نے میٹوان اور علی بابا کے یونٹس کے خلاف ممکنہ اینٹی ٹرسٹ (antitrust) خلاف ورزیوں کی تحقیقات شروع کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440246/china-investigates-meituan-and-alibaba-units-for-suspected-antitrust-violations)*
+- سعودی عرب میں فضائی حملے کی وارننگ کے بعد ریاض ایئرپورٹ کے قریب آگ اور دھواں دیکھا گیا۔ *[ARY](https://arynews.tv/flames-smoke-seen-near-riyadh-airport-after-saudi-warning-of-aerial-attack-threat)*
 
 ### کھیل
-- مل وال اور ویسٹ ہیم کے درمیان فٹ بال میچ 2-2 کے برابر رہا۔ *[ARY](https://arynews.tv/millwall-west-ham-share-four-goals-in-2-2-draw)*
-- امریکی کھلاڑی سوفی کننگھم نے ٹیم یو ایس اے کے خلاف ہونے والی تنقید کا جواب دیا۔ *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-backlash-over-team-usa-games)*
-- نیوزی لینڈ کے آل راؤنڈر رشین ریویندرا کندھے کی چوٹ کے باعث بھارت کے خلاف ہونے والی ٹی ٹوینٹی سیریز کے لیے مشکوک ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440247/new-zealands-ravindra-a-doubt-for-india-series-after-injury-in-promotional-shoot)*
-- ایشین اولمپک باس نے کہا ہے کہ ناگویہ گیمز کے دوران سیاست دانوں کو کھیلوں کے معاملات سے دور رہنا چاہیے۔ *[Business Recorder](https://www.brecorder.com/news/40440245/asian-olympic-boss-says-politicians-need-to-stay-out-of-sport-at-nagoya-games)*
-
-### صحت
-- راولپنڈی میں ڈینگی کے 9 کیسز کی تصدیق کی گئی جبکہ 180,000 سے زائد لاروا سائٹس کو تباہ کر دیا گیا۔ *[ARY](https://arynews.tv/nine-dengue-cases-confirmed-in-rawalpindi-over-180000-larval-sites-destroyed)*
+- آرسنل کے کوچ آرٹیٹا نے برائٹن کے خلاف شکست کے بعد ٹیم کی اصلاح کا عزم کیا ہے۔ *[ARY](https://arynews.tv/arteta-vows-arsenal-will-learn-from-chastening-brighton-defeat)*
+- افریقی چیمپئنز نے ایشیائی چیمپئنز کو شکست دے کر انٹر کانٹیننٹل کپ میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/african-champions-beat-asian-champions-to-reach-intercontinental-cup)*
+- ریئل میڈرڈ کی ٹیم کی کارکردگی نے مورینیو کو ایٹلیٹو کے مقابلے سے قبل متاثر کیا۔ *[ARY](https://arynews.tv/real-madrids-mindset-impresses-mourinho-ahead-of-atletico-showdown)*
 
