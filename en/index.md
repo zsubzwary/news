@@ -4,53 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 21-Sep-2026 09:04PKT
+Published at: 21-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- SoftBank Group launched over $10 billion in dollar-denominated bonds and 1 billion euro-denominated notes to fund a $10 billion follow-on investment in OpenAI. *[Business Recorder](https://www.brecorder.com/news/40440461/softbank-group-launches-over-10-billion-in-bonds-for-openai-investment-term-sheet-shows)*
-- Brent crude fell by $2.16 (2.08%) to reach $101.71 per barrel, marking its lowest level in over a week. *[Business Recorder](https://www.brecorder.com/news/40440457/oil-hits-over-1-week-low-on-hopes-of-boost-to-diplomacy-in-iran-war)*
-- Commodity vessel transit through the Strait of Hormuz dropped to 12 vessels over the weekend, down from 35 the previous weekend. *[Business Recorder](https://www.brecorder.com/news/40440462/vessels-trickle-through-strait-of-hormuz-as-mideast-tension-persists)*
-- Asian markets edged higher on AI-driven chipmaker demand, while the Japanese yen was trading at 156.67 per US dollar. *[Business Recorder](https://www.brecorder.com/news/40440460/tech-leads-shares-higher-in-asia-as-oil-slips)*
-- The Indian rupee is expected to open in the 95.90-95.95 band, slightly weaker than Friday's close of 95.8725. *[Business Recorder](https://www.brecorder.com/news/40440459/indian-rupee-poised-for-subdued-start-as-traders-watch-oil-prices-ipo-linked-flows)*
-- The Japanese yen sat at 156.64 per US dollar following a 2% drop last week. *[Business Recorder](https://www.brecorder.com/news/40440458/volatile-yen-draws-intervention-watch-other-currencies-subdued)*
-- The KP government announced a Rs 5 million allocation for the up-gradation of the Women Chamber and a Rs 50 million Endowment Fund for women entrepreneurs. *[Business Recorder](https://www.brecorder.com/news/40440452/kp-govt-makes-budgetary-allocations-for-wccipd)*
-- The Pakistani government is transitioning the power sector from a single-buyer model to a competitive electricity market. *[Business Recorder](https://www.brecorder.com/news/40440442/govt-begins-to-move-out-of-power-business)*
-- Senate Chairman Syed Yousaf Raza Gilani highlighted the automotive industry's contribution to employment, technology transfer, and local supply chains. *[Business Recorder](https://www.brecorder.com/news/40440450/gilani-says-automotive-industry-contributes-beyond-vehicle-production)*
-- The Karachi Women Chamber of Commerce & Industry (KWCCI) Malir announced its new Executive Committee leadership for the 2026-2028 term. *[Business Recorder](https://www.brecorder.com/news/40440453/kwcci-malir-announces-new-leadership)*
-- PVARA Chairman Bilal bin Saqib met with US Chargé d’Affaires Natalie Baker to discuss Pakistan’s evolving regulatory framework for digital assets. *[Business Recorder](https://www.brecorder.com/news/40440445/digital-assets-bilal-baker-discuss-evolving-regulatory-framework)*
+- The Pakistani government has proposed the **scrapping of the petroleum levy** for a period of one year. *[ARY](https://arynews.tv/govt-proposes-scrapping-petroleum-levy-for-one-year-soruces)*
+- **Pakistan's rice exports** have reached a record high. *[ARY](https://arynews.tv/pakistan-rice-exports-hit-record-high)*
+- The **Privatisation Commission** received **10 Expressions of Interest (EOIs)** from domestic and international investors for the acquisition of **51% to 100%** of **IESCO** shareholding. *[Business Recorder](https://www.brecorder.com/news/40440527/iesco-privatisation-draws-10-investor-groups)*
+- **Engro Corporation** has announced **Junaid Iqbal** as its incoming President and CEO. *[Business Recorder](https://www.brecorder.com/news/40440520/five-things-to-know-about-engros-soon-to-be-ceo-junaid-iqbal)*
+- India's **NSE IPO** drew over **$10 billion** in bids for its **$2.3 billion** offering, with a subscription rate of **5.71 times** (505.81 million shares). *[Business Recorder](https://www.brecorder.com/news/40440528/indias-nse-ipo-draws-over-10-billion-traders-eye-modest-listing-pop)*
+- Wall Street saw gains led by **AI stocks**, with **Intel rising 9%** and **AMD surging 8%**, while crude prices tumbled more than **3%**. *[Business Recorder](https://www.brecorder.com/news/40440530/ai-stocks-lift-wall-st-as-oil-falls-treasury-yields-decline)*
+- **Sri Lankan shares** fell as the **CSE All Share index** dropped **0.37%** to 20,979.18, amid **8.1% year-on-year** consumer inflation in August. *[Business Recorder](https://www.brecorder.com/news/40440525/sri-lankan-shares-fall-as-real-estate-industrials-stocks-weigh)*
+- **QatarEnergy** warned that the **Strait of Hormuz crisis** may delay the production of its **North Field East (NFE)** LNG expansion project, originally expected in **H1 2027**. *[Business Recorder](https://www.brecorder.com/news/40440519/qatarenergy-says-hormuz-crisis-may-delay-lng-expansion-projects)*
+- Two **JSW Group** firms plan to raise approximately **Rs. 28.5 billion ($298 million)** through short-tenor bonds in the October-December quarter. *[Business Recorder](https://www.brecorder.com/news/40440517/jsw-group-firms-plan-300-million-debt-sales-bankers-say)*
+- **Copper prices** rose to **$14,654 per metric ton** on the London Metal Exchange. *[Business Recorder](https://www.brecorder.com/news/40440514/copper-rises-as-chinese-demand-expectations-add-to-speculative-momentum)*
+- **Malaysian palm oil futures** fell **0.84%** to **4,857 ringgit ($1,191.90)** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40440513/palm-extends-losses-on-weak-crude-firm-ringgit-sluggish-exports)*
+- The **Indian rupee** closed at **95.8150 per dollar**. *[Business Recorder](https://www.brecorder.com/news/40440512/indian-rupee-ends-marginally-higher-in-subdued-trade-forward-premiums-ease)*
+- **India's soyoil imports** are projected to rise **4.2%** in the 2025/26 marketing year. *[Business Recorder](https://www.brecorder.com/news/40440511/india-soyoil-imports-to-rise-to-record-high-on-price-competitiveness)*
+- Nearly **40% of India's coal power plants** are operating with critically low fuel stocks (less than **25% inventory**). *[Business Recorder](https://www.brecorder.com/news/40440521/nearly-40-of-indias-coal-power-plants-running-critically-low-on-fuel-data-show)*
+- The **India-New Zealand free trade pact** is set to come into force on **October 20**. *[Business Recorder](https://www.brecorder.com/news/40440515/india-new-zealand-free-trade-pact-to-come-into-force-on-october-20)*
+- Most **Gulf bourses** closed lower due to escalating regional conflicts in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40440523/most-gulf-bourses-end-lower-on-middle-east-conflict-despite-diplomatic-hopes)*
 
 ### Science & Technology
-- Meta’s platforms experienced significant outages, with over 17,000 reports of issues for Facebook and more than 5,000 outages for Instagram. *[Business Recorder](https://www.brecorder.com/news/40440466/metas-social-networks-down-for-thousands-of-users-in-us-downdetector-says)*
+- Saudi Arabia’s **CEER** launched the new **EXOBOT electric sedan and SUV**. *[ARY](https://arynews.tv/saudi-crown-prince-launches-ceers-new-exobot-electric-sedan-and-suv)*
+- Ireland's Data Protection Commission fined **Google €403 million ($463 million)** for violating **GDPR** through its location data processing features. *[Business Recorder](https://www.brecorder.com/news/40440516/irish-privacy-regulator-fines-google-eur403-million-over-location-data-processing)*
+- **GTA 6** map details via **Version 16** have revealed new scale and city locations. *[ARY](https://arynews.tv/gta-6-map-details-version-16-reveals-new-scale-and-city-locations)*
 
 ### Politics
-- Five parliamentarians were detained by authorities ahead of a scheduled PTI long march in Islamabad. *[ARY](https://arynews.tv/pti-long-march-5-parliamentarians-detained-ahead-of-islamabad-protest)*
-- Jamat Islami Vice Chief Liaqat Baloch stated that government negotiations are meaningless without a relief package, specifically calling for the withdrawal of the petroleum levy. *[Business Recorder](https://www.brecorder.com/news/40440449/further-talks-with-govt-meaningless-without-relief-package-baloch)*
+- The **Trump administration** is reportedly preparing sanctions against the **International Criminal Court (ICC)**. *[Business Recorder](https://www.brecorder.com/news/40440522/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say)*
+- Pakistan's Interior Minister **Mohsin Naqvi** met his Iranian counterpart, **Eskandar Momeni**, in Tehran to discuss bilateral relations. *[Business Recorder](https://www.brecorder.com/news/40440524/naqvi-iranian-counterpart-discuss-bilateral-ties-regional-situation)*
+- **Denmark** stated that **NATO** shares responsibility for Arctic security under the **Greenland deal**. *[ARY](https://arynews.tv/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal)*
 
 ### National
-- The CDA and MCI are expanding digital services via the PAK app to modernize Islamabad's governance. *[ARY](https://arynews.tv/islamabad-goes-digital-as-cda-mci-expand-services-on-pak-app)*
-- An FIR has been registered against PTI MPA Shakeel Khan and his guards following an attack on Levies. *[ARY](https://arynews.tv/fir-registered-against-pti-mpa-shakeel-khan-guards-over-attack-on-levies)*
-- Pasban Democratic Party (PDP) chairman Altaf Shakoor labeled the Karachi University Road project a failure of governance due to endless delays. *[Business Recorder](https://www.brecorder.com/news/40440443/university-road-project-glaring-failure-of-governance)*
-- Out of 49,203 registered candidates, 47,501 appeared for the Punjab MDCAT 2026 across 31 examination centres. *[Business Recorder](https://www.brecorder.com/news/40440444/47501-candidates-appear-in-punjab-mdcat)*
-- Civil society activists are demanding the early retirement of the ADB-funded Jamshoro Coal Power Plant due to environmental and social concerns. *[Business Recorder](https://www.brecorder.com/news/40440446/jamshoro-coal-power-plant-civil-society-activists-demand-early-retirement)*
-- CM Sindh Murad Ali Shah directed an extensive enrollment campaign for schools under the Sindh Secondary Education Improvement Project (SSEIP). *[Business Recorder](https://www.brecorder.com/news/40440447/cm-sindh-orders-massive-enrolment-drive)*
-- Sindh Governor Syed Muhammad Nihal Hashmi called for collective responsibility for environmental protection on World Cleanup Day. *[Business Recorder](https://www.brecorder.com/news/40440451/governor-calls-for-collective-action-to-keep-environment-clean)*
+- **25 hotels, restaurants, and marriage halls** near **Karachi airport** are under scrutiny due to concerns over bird strikes. *[ARY](https://arynews.tv/karachi-airport-25-hotels-restaurants-marriage-halls-under-scrutiny-over-bird-strikes)*
 
 ### International
-- Donald Trump expressed potential openness to meeting Iran's president during the UN General Assembly. *[ARY](https://arynews.tv/trump-says-he-is-probably-open-to-meeting-irans-president-at-un)*
-- Mahan Air has suspended flights to Turkiye and Oman following the expansion of US sanctions. *[ARY](https://arynews.tv/mahan-air-halts-flights-to-turkiye-oman-after-us-expands-sanctions)*
-- Muscat Municipality has opened bidding for organizers for the Muscat Nights events. *[ARY](https://arynews.tv/muscat-municipality-invites-bids-to-organize-muscat-nights-events)*
-- Regional tensions between the US and Iran have escalated following Houthi attacks. *[ARY](https://arynews.tv/iran-and-us-trade-threats-after-houthi-attacks-escalate-regional-conflict)*
-- South Korean President Lee Jae Myung will attend the UN General Assembly and hold a summit with Mexican President Claudia Sheinbaum from September 21 to 27. *[Business Recorder](https://www.brecorder.com/news/40440465/south-koreas-lee-to-attend-un-general-assembly-visit-mexico-for-sheinbaum-summit)*
+- **Two tankers** were struck by a projectile and debris in the **Hormuz** region. *[ARY](https://arynews.tv/two-tankers-hit-by-projectile-debris-in-hormuz-maritime-agency)*
 
 ### Sports
-- Lamine Yamal has become the youngest player in La Liga history to reach 50 assists. *[ARY](https://arynews.tv/lamine-yamal-scripts-la-liga-history-as-its-youngest-ever-to-reach-50-assists)*
+- **Mohammad Rizwan** has been barred from publicly discussing the **NCCIA probe**. *[ARY](https://arynews.tv/mohammad-rizwan-barred-from-discussing-nccia-probe-in-public-sources)*
+- **Kylian Mbappe** commented that being managed by **Zinedine Zidane** for the French national team is "like a movie." *[Business Recorder](https://www.brecorder.com/news/40440526/being-managed-by-zidane-for-france-is-like-a-movie-says-mbappe)*
+- Swiss captain **Granit Xhaka** will miss the international camp after admitting to using a **fake COVID-19 vaccination certificate**. *[Business Recorder](https://www.brecorder.com/news/40440518/swiss-captain-xhaka-sidelined-over-fake-covid-certificate)*
 
 ### Health
-- A new study has linked the loss of the Y chromosome in men to the development of early-stage cancer. *[ARY](https://arynews.tv/loss-of-y-chromosome-in-men-linked-to-early-cancer-development-study-finds)*
-- The FAO and the Khyber Pakhtunkhwa Environmental Protection Agency (EPA-KP) are collaborating on "One Health" and environmental surveillance. *[Business Recorder](https://www.brecorder.com/news/40440448/fao-epa-join-hands-for-one-health-environmental-surveillance)*
+- **Pakistan** is set to host the **Global Mental Health Summit 2026**. *[ARY](https://arynews.tv/pakistan-to-host-global-mental-health-summit-2026)*
 
 ### Other
-- A new initiative allows individuals to earn Rs 30,000 by converting kitchen waste into compost. *[ARY](https://arynews.tv/earn-rs30000-by-turning-kitchen-waste-into-compost)*
+- The horror movie **"Resident Evil"** achieved a **$60 million** opening weekend in North America. *[Business Recorder](https://www.brecorder.com/news/40440529/horror-movie-resident-evil-tops-north-american-box-office)*
+- **Patrick Clancy** provided his first interview following the **Lindsay Clancy mistrial**. *[ARY](https://arynews.tv/patrick-clancy-breaks-silence-in-first-interview-after-lindsay-clancy-mistrial)*
 
