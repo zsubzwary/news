@@ -4,50 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Sep-2026 09:04PKT
+Published at: 22-Sep-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petrol price has risen to **Rs393.75 per litre**. *[ARY](https://arynews.tv/petrol-price-rises-to-rs393-75-per-litre)*
-- The Trading Corporation of Pakistan (TCP) finalized deals for **365,000 metric tons** of wheat and issued a second tender for **185,000 metric tons**, aiming to meet a total revised target of **550,000 metric tons**. *[Business Recorder](https://www.brecorder.com/news/40440618/tcp-finalises-deals-for-wheat-import)*
-- Alibaba plans to train a new AI model with **5 trillion to 10 trillion parameters** and unveiled the **Zhenwu V900 AI chip**, which features three times the performance of its predecessor. *[Business Recorder](https://www.brecorder.com/news/40440630/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip)*
-- The Privatization Commission received **10 Expressions of Interest (EOIs)** from investors seeking to acquire **51% to 100%** shareholding in IESCO. *[Business Recorder](https://www.brecorder.com/news/40440623/pc-receives-10-eois-for-the-iesco-acquisition)*
-- Brent crude futures (November) gained 22 cents to **$100.57 a barrel**, while the WTI October contract stood at **$95.8 a barrel** and the WTI November contract at **$92.49 a barrel**. *[Business Recorder](https://www.brecorder.com/news/40440627/oil-rises-slightly-ahead-of-potential-us-iran-talks)*
-- Spot gold prices were recorded at **$4,344.29 per ounce**, while US gold futures stood at **$4,381.80**. *[Business Recorder](https://www.brecorder.com/news/40440626/gold-muted-as-higher-for-longer-rate-outlook-weighs)*
-- India's measures to strengthen its balance of payments have raised **$143.6 billion**, supporting the rupee, which is expected to open between **95.75 and 95.80 per dollar**. *[Business Recorder](https://www.brecorder.com/news/40440635/indian-rupee-to-edge-higher-as-oil-slips-inflow-haul-caps-bearish-bets)*
-- European markets are facing a **Q4 jet fuel supply deficit**. *[ARY](https://arynews.tv/europe-faces-q4-jet-fuel-supply-deficit)*
-- The Japanese yen is under pressure due to the interest rate gap between Japan and other major central banks. *[Business Recorder](https://www.brecorder.com/news/40440631/yen-squeezed-as-hawkish-turn-grips-central-banks)*
-- GIFT Nifty futures were at **23,500 points**, following the benchmark Nifty 50 closing at **23,414.3**. *[Business Recorder](https://www.brecorder.com/news/40440628/indian-shares-likely-to-open-higher-on-easing-oil-prices-bond-yields)*
-- Paramount reached a settlement with US states to clear the way for its takeover of **Warner Bros. Discovery**. *[Business Recorder](https://www.brecorder.com/news/40440606/paramount-settles-with-us-states-to-clear-warner-bros-mega-merger)*
-- Finance Minister Muhammad Aurangzeb highlighted Pakistan's transition toward a regulated virtual-assets framework to assist with remittances and SME financing. *[Business Recorder](https://www.brecorder.com/news/40440619/aurangzeb-highlights-shift-to-regulated-virtual-assets-framework)*
-- Pakistan has secured another Qatari LNG cargo via the Strait of Hormuz to combat an energy crunch. *[Business Recorder](https://www.brecorder.com/news/40440621/pakistan-secures-another-qatari-lng-cargo)*
-- The Finance Division (FD) has tightened the mechanism for re-appropriation and additional allocation of funds, restricting supplementary grant requests. *[Business Recorder](https://www.brecorder.com/news/40440624/fd-tightens-additional-funds-allocation-mechanism)*
-- New Zealand's central bank governor warned that persistent oil price gains could lead to higher inflation than forecast. *[Business Recorder](https://www.brecorder.com/news/40440629/new-zealand-central-bank-chief-sees-risks-to-economy-inflation)*
+- The Finance Division rejected "misleading" reporting regarding Pakistan's engagement with the IMF, clarifying that the programme is a whole-of-government initiative. *[Business Recorder](https://www.brecorder.com/news/40440695/finance-division-rejects-misleading-reporting-on-pakistans-imf-programme)*
+- The Securities and Exchange Commission of Pakistan (SECP) recommended increasing the number of Insurance Tribunals and Small Dispute Resolution Committees (SDRCs) and establishing a digital complaint system. *[Business Recorder](https://www.brecorder.com/news/40440690-secp-proposes-more-insurance-tribunals-digital-complaint-system)*
+- Gulf stock markets closed with mixed results as investors monitored potential US-Iran developments at the UN. *[Business Recorder](https://www.brecorder.com/news/40440687-gulf-stocks-mixed-ahead-of-potential-us-iran-un-talks)*
+- Sri Lankan shares rose as the CSE All Share index settled up 0.36% at 21,054.01, with trading volume reaching 58.4 million shares. *[Business Recorder](https://www.brecorder.com/news/40440685-broad-gains-boost-sri-lankan-shares)*
+- Saudi Arabia’s MASNA Ventures aims to increase its defense-focused venture capital capacity from $100 million to $150 million. *[Business Recorder](https://www.brecorder.com/news/40440682-saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance)*
+- Benchmark three-month copper on the London Metal Exchange rose 0.7% to $14,770 per metric ton. *[Business Recorder](https://www.brecorder.com/news/40440681-copper-pushes-higher-on-chinese-buying-capped-by-firm-dollar)*
+- Saudi Arabia restarted its East-West Pipeline, contributing to Brent crude futures falling by more than $2 per barrel. *[Business Recorder](https://www.brecorder.com/news/40440679-saudi-arabia-restarts-east-west-oil-pipeline-sources-say)*
+- Malaysian palm oil futures hit a 5-week low, falling 0.97% (47 ringgit) to 4,810 ringgit ($1,180.66) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40440678-palm-hits-over-5-week-low-on-rising-stock-expectations-subdued-demand)*
+- The Indian rupee rose 0.2% to close at 95.59 per dollar, supported by a 1.5% decline in Brent oil prices to $98.8 per barrel. *[Business Recorder](https://www.brecorder.com/news/40440676-indian-rupee-sways-with-oil-and-intervention-cues-keeping-traders-light-footed)*
+- The Competition Commission of Pakistan (CCP) imposed a Rs10 million penalty on 3M Pakistan (Private) Limited for deceptive marketing of Scotch-Brite products. *[Business Recorder](https://www.brecorder.com/news/40440680-ccp-fines-3m-pakistan-rs10mn-over-scotch-brite-deceptive-marketing)*
 
 ### Science & Technology
-- Alibaba Group is pushing for expansion in AI models and data centers, including the development of a massive AI model with up to **10 trillion parameters**. *[Business Recorder](https://www.brecorder.com/news/40440630/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip)*
-
-### Weather
-- Typhoon Dujuan caused landslides in Japan's Pacific coast, **killing two people**, leaving **four missing**, and cutting electricity to approximately **50,000 homes**. *[Business Recorder](https://www.brecorder.com/news/40440634/torrential-rains-brought-by-japan-typhoon-kill-two-nhk-says)*
-
-### Politics
-- Prime Minister Muhammad Shehbaz Sharif arrived in New York for the **81st session of the United Nations General Assembly**, with a scheduled address on **September 25, 2026**. *[Business Recorder](https://www.brecorder.com/news/40440620/pm-arrives-in-new-york)*
-- G7 foreign ministers formally called on Iran to cease arming and supporting the Houthis in Yemen. *[Business Recorder](https://www.brecorder.com/news/40440633/g7-foreign-ministers-call-on-iran-to-stop-arming-houthis)*
-- US media outlets CNN, MS NOW, and Politico have sued President Donald Trump following his ban on their access to the White House. *[ARY](https://arynews.tv/cnn-ms-now-and-politico-sue-trump-over-white-house-ban)*
-- Top five US broadcasters have halted "pool" coverage of the White House in protest of recent administration decisions. *[Business Recorder](https://www.brecorder.com/news/40440605/us-networks-halt-trump-coverage)*
-- The UN Chief expressed gratitude to Pakistan's leadership for their contributions toward US-Iran peace efforts. *[ARY](https://arynews.tv/un-chief-grateful-to-pakistans-leadership-for-us-iran-peace-efforts)*
+- Mercedes has entered a partnership with Wayve to advance autonomous driving technology. *[ARY](https://arynews.tv/mercedes-wayve-partner-up-on-autonomous-driving)*
+- Google has introduced a new Book lineup featuring five models with starting prices at $899. *[ARY](https://arynews.tv/google-book-lineup-brings-five-new-models-starting-at-899)*
+- A fraudulent LastPass Authenticator download is currently circulating, spreading malware designed to steal user passwords. *[ARY](https://arynews.tv/fake-lastpass-authenticator-download-spreads-password-stealing-malware)*
 
 ### National
-- Airstrikes in the Afghan provinces of **Paktika and Kunar** killed at least **28 militants** in the Pak-Afghan border region. *[Business Recorder](https://www.brecorder.com/news/40440622/28-militants-killed-in-pak-afghan-border-region)*
-- NADRA has announced the implementation of special facilities for senior citizens. *[ARY](https://arynews.tv/nadra-announces-special-facilities-for-senior-citizens)*
-- Pakistan is reviewing new measures to improve the efficiency of passport services. *[ARY](https://arynews.tv/pakistan-reviews-measures-to-improve-passport-services)*
-- BISE Peshawar released the **Class 11 results (2026)**, while BISE Abbottabad released the **Class 12 results (2026)**. *[ARY](https://arynews.tv/bise-peshawar-class-11-result-2026-released-check-here)* *[ARY](https://arynews.tv/bise-abbottabad-class-12-result-2026-released-check-here)*
+- The Peshawar-Islamabad Motorway (M-1) is scheduled to close starting at 11:00 PM. *[ARY](https://arynews.tv/peshawar-islamabad-motorway-m-1-to-close-from-11pm)*
+- Pakistan has launched the "PAK app" complaint system to facilitate the petrol relief scheme. *[ARY](https://arynews.tv/pakistan-launches-pak-app-complaint-system-for-petrol-relief-scheme)*
+- At a UN forum, Pakistan promoted the use of AI and tokenization to drive financial inclusion. *[ARY](https://arynews.tv/pakistan-promotes-ai-and-tokenization-for-financial-inclusion-at-un-forum)*
+- The Pakistan Army has commenced the 9th Druzhba (with Russia) and 2nd Washaq Al Jabal-II (with Oman) joint counter-terrorism exercises. *[Business Recorder](https://www.brecorder.com/news/40440686-pakistan-russia-oman-launch-joint-counter-terrorism-exercises)*
+- During "Operation Shaban-2" in the Saran Tangi area of Balochistan, security forces killed six terrorists and arrested nine suspected individuals. *[Business Recorder](https://www.brecorder.com/news/40440684-operation-shaban-2-six-terrorists-killed-in-balochistans-saran-tangi-area)*
 
 ### International
-- The United States plans to re-establish a military base in southern Greenland (**Narsarsuaq**) and set up a new base on the east coast (**Mestersvig**). *[Business Recorder](https://www.brecorder.com/news/40440625/us-to-open-two-new-military-bases-in-greenland-sources-say)*
-- Oman has initiated external reviews of **71 schools**. *[ARY](https://arynews.tv/oman-begins-external-reviews-of-71-schools)*
+- US President Donald Trump labeled Cuba a "failed state" during a UN address, stating that the communist regime is under unprecedented pressure. *[Business Recorder](https://www.brecorder.com/news/40440696/trump-says-freedom-will-be-coming-to-cuba-in-un-speech)*
+- President Trump called for the complete economic isolation of Iran during his UN General Assembly speech, though he suggested a deal might be possible after the November US midterm elections. *[Business Recorder](https://www.brecorder.com/news/40440694/trump-urges-compete-isolation-of-iran-expects-deal-after-election)*
+- US and Iranian leaders (Trump and Masoud Pezeshkian) are both due to attend the UN General Assembly, hinting at a potential revival of negotiations. *[Business Recorder](https://www.brecorder.com/news/40440693-iran-us-hint-at-revival-of-talks-as-trump-pezeshkian-due-to-attend-un)*
+- Saudi King Salman issued a rare statement condemning the Houthi militia as a "terrorist militia" following an attack targeting Makkah. *[Business Recorder](https://www.brecorder.com/news/40440691-saudi-king-salman-condemns-houthis-as-terrorist-militia-in-rare-statement)*
+- Vladimir Putin and the Saudi crown prince have called for safe passage through the Hormuz and Bab el-Mandeb straits. *[ARY](https://arynews.tv/putin-and-saudi-crown-prince-call-for-safe-passage-via-hormuz-bab-el-mandeb)*
+- India’s aviation ministry has placed SpiceJet under operational and financial scrutiny due to ongoing cash flow difficulties. *[Business Recorder](https://www.brecorder.com/news/40440677-indias-aviation-regulator-places-spicejet-under-operational-financial-scrutiny)*
+- New Zealand has released new guidelines for applicants seeking the "accredited employer work visa." *[ARY](https://arynews.tv/new-zealand-offers-accredited-employer-work-visa-here-are-the-guidelines-to-apply)*
 
 ### Sports
-- Spain has extended the contract of De la Fuente until **2032**. *[ARY](https://arynews.tv/spain-extends-de-la-fuentes-contract-until-2032)*
+- Fans of the Indiana Fever are speculating whether coach Stephanie White benched player Sophie Cunningham. *[ARY](https://arynews.tv/stephanie-white-bench-sophie-cunningham-wnba)*
+- Rachit Bhatia has made claims regarding the fixing of five matches during IPL 2025. *[ARY](https://arynews.tv/rachit-bhatia-claims-fixing-five-matches-in-ipl-2025)*
+- England fast bowler Mark Wood has retired from international cricket after an 11-year career in which he took 253 wickets. *[Business Recorder](https://www.brecorder.com/news/40440683-england-fast-bowler-wood-retires-from-internationals-after-battling-injuries)*
+
+### Other
+- Mediavest, the media agency for Brainchild Communications Pakistan, was named the No. 1 agency at the Dragons of Pakistan 2026. *[Business Recorder](https://www.brecorder.com/news/40440688-mediavest-crowned-no-1-agency-at-dragons-of-pakistan)*
 
