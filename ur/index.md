@@ -7,53 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Sep-2026 21:09PKT 
+ &lrm; 22-Sep-2026 09:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- حکومت نے ایک سال کے لیے پیٹرولیم لیوی ختم کرنے کی تجویز دی ہے۔ *[ARY](https://arynews.tv/govt-proposes-scrapping-petroleum-levy-for-one-year-soruces)*
-- پاکستان کی چاول کی برآمدات ریکارڈ سطح پر پہنچ گئی ہیں۔ *[ARY](https://arynews.tv/pakistan-rice-exports-hit-record-high)*
-- وال اسٹریٹ میں AI اسٹاکس کی وجہ سے اضافہ ہوا، جبکہ خام تیل کی قیمتوں میں 3 فیصد سے زیادہ کمی آئی۔ انٹل (Intel) کے شیئرز میں 9 فیصد اور ایڈوانسڈ مائیکرو ڈیوائسز (AMD) میں 8 فیصد اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440530/ai-stocks-lift-wall-st-as-oil-falls-treasury-yields-decline)*
-- بھارت کے نیشنل اسٹاک ایکسچینج (NSE) کے 2.3 بلین ڈالر کے آئی پی او (IPO) کے لیے 10 بلین ڈالر سے زیادہ کی درخواستیں موصول ہوئیں، جس میں پیش کردہ 88.64 ملین شیئرز کے مقابلے میں 505.81 ملین شیئرز کے لیے بولیاں لگیں۔ *[Business Recorder](https://www.brecorder.com/news/40440528/indias-nse-ipo-draws-over-10-billion-traders-eye-modest-listing-pop)*
-- اسلام آباد الیکٹرک سپلائی کمپنی (IESCO) کی نجکاری کے لیے 10 مقامی اور بین الاقوامی سرمایہ کار گروپس نے دلچسپی کا اظہار کیا ہے، جو کمپنی کے 51 فیصد سے 100 فیصد شیئرز خریدنا چاہتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440527/iesco-privatisation-draws-10-investor-groups)*
-- سری لنکا کے اسٹاک مارکیٹ کا CSE All Share انڈیکس 0.37 فیصد گر کر 20,979.18 پر بند ہوا، جبکہ اگست میں مہنگائی کی شرح 8.1 فیصد رہی۔ *[Business Recorder](https://www.brecorder.com/news/40440525/sri-lankan-shares-fall-as-real-estate-industrials-stocks-weigh)*
-- مشرقی وسطیٰ کے تنازع کی وجہ سے زیادہ تر خلیجی اسٹاک مارکیٹیں مندی کا شکار رہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440523/most-gulf-bourses-end-lower-on-middle-east-conflict-despite-diplomatic-hopes)*
-- بھارت کے تقریباً 40 فیصد کوئلہ سے چلنے والے پاور پلانٹس میں ایندھن کی شدید کمی ہے؛ 74 پلانٹس کے پاس مطلوبہ اسٹاک کا 25 فیصد سے بھی کم حصہ موجود ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440521/nearly-40-of-indias-coal-power-plants-running-critically-low-on-fuel-data-show)*
-- انگریز کمپنی Engro Corporation کے نئے صدر اور سی ای او کے طور پر جنید اقبال کا انتخاب کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440520/five-things-to-know-about-engros-soon-to-be-ceo-junaid-iqbal)*
-- قطر انرجی کے مطابق ہرمز کے بحران کی وجہ سے LNG توسیع کے منصوبوں میں تاخیر کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440519/qatarenergy-says-hormuz-crisis-may-delay-lng-expansion-projects)*
-- JSW گروپ کی دو کمپنیاں اکتوبر سے دسمبر کی سہ ماہی میں تقریباً 28.5 ارب روپے ($298 ملین) کے قرضوں کی فروخت کا منصوبہ بنا رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440517/jsw-group-firms-plan-300-million-debt-sales-bankers-say)*
-- بھارت اور نیوزی لینڈ کے درمیان آزاد تجارتی معاہدہ (FTA) 20 اکتوبر سے نافذ العمل ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40440515/india-new-zealand-free-trade-pact-to-come-into-force-on-october-20)*
-- تانبے کی قیمتیں 0.9 فیصد بڑھ کر $14,654 فی میٹرک ٹن پر پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40440514/copper-rises-as-chinese-demand-expectations-add-to-speculative-momentum)*
-- ملائیشیا میں پام آئل کا کنٹریکٹ 0.84 فیصد گر کر 4,857 رنگٹ فی میٹرک ٹن پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40440513/palm-extends-losses-on-weak-crude-firm-ringgit-sluggish-exports)*
-- بھارتی روپیہ 95.8150 فی ڈالر پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40440512/indian-rupee-ends-marginally-higher-in-subdued-trade-forward-premiums-ease)*
-- بھارت کی سویا آئل درآمدات 2025/26 میں 4.2 فیصد اضافے کے ساتھ ریکارڈ سطح پر پہنچنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440511/india-soyoil-imports-to-rise-to-record-high-on-price-competitiveness)*
+- پٹرول کی قیمت میں اضافہ ہوا ہے اور اب یہ **393.75 روپے فی لیٹر** پر پہنچ گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-rises-to-rs393-75-per-litre)*
+- یورپی ممالک کو چوتھی سہ ماہی (Q4) میں جیٹ فیول کی فراہمی میں کمی کا سامنا ہو سکتا ہے۔ *[ARY](https://arynews.tv/europe-faces-q4-jet-fuel-supply-deficit)*
+- بھارتی کرنسی (روپیہ) کے **95.75 سے 95.80 ڈالر** کے درمیان کھلنے کی توقع ہے کیونکہ خام تیل کی قیمتوں میں کمی ہوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440635/indian-rupee-to-edge-higher-as-oil-slips-inflow-haul-caps-bearish-bets)*
+- ایشیائی اسٹاک مارکیٹس میں ٹیکنالوجی کے شعبے میں تیزی دیکھی گئی ہے جبکہ سرمایہ کار ٹرمپ اور شی جن پنگ کے درمیان ہونے والی ملاقات پر نظر رکھے ہوئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440632/tech-rally-boosts-asian-stocks-dollar-firms-on-rate-hike-wagers)*
+- جاپانی ین پر دباؤ بڑھ رہا ہے کیونکہ عالمی مرکزی بینکوں کی شرح سود میں اضافے کی پالیسی سے فرق پڑ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440631/yen-squeezed-as-hawkish-turn-grips-central-banks)*
+- نیوزی لینڈ کے مرکزی بینک کے گورنر کے مطابق تیل کی قیمتوں میں اضافہ مہنگائی کے خطرات کو بڑھا سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440629/new-zealand-central-bank-chief-sees-risks-to-economy-inflation)*
+- برینٹ کروڈ فی بیرل تقریباً **101 ڈالر** پر ہے جبکہ بھارتی شیئرز کے مثبت آغاز کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440628/indian-shares-likely-to-open-higher-on-easing-oil-prices-bond-yields)*
+- خام تیل کی قیمتوں میں معمولی اضافہ دیکھا گیا؛ برینٹ کروڈ **100.57 ڈالر** اور ڈبلیو ٹی آئی (WTI) کا نومبر کنٹریکٹ **92.49 ڈالر** پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40440627/oil-rises-slightly-ahead-of-potential-us-iran-talks)*
+- سونے کی قیمتوں میں استحکام؛ سپاٹ گولڈ **4,344.29 ڈالر** فی اونس جبکہ امریکی گولڈ فیوچرز **4,381.80 ڈالر** پر رہے۔ *[Business Recorder](https://www.brecorder.com/news/40440626/gold-muted-as-higher-for-longer-rate-outlook-weighs)*
+- ٹریڈنگ کارپوریشن آف پاکستان (TCP) نے **365,000 میٹرک ٹن** گندم کی درآمد کے سودے مکمل کر لیے ہیں اور مزید **185,000 میٹرک ٹن** کے لیے دوسرا ٹینڈر جاری کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440618/tcp-finalises-deals-for-wheat-import)*
+- وفاقی وزیر خزانہ محمد اورنگزیب نے ورچوئل اثاثوں (virtual assets) کے باقاعدہ فریم ورک کی طرف پاکستان کے منتقلی پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440619/aurangzeb-highlights-shift-to-regulated-virtual-assets-framework)*
+- پاکستان نے قطر سے مزید ایل این جی (LNG) کارگو حاصل کرنے کے لیے مذاکرات مکمل کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440621/pakistan-secures-another-qatari-lng-cargo)*
+- پرائیویٹائزیشن کمیشن کو اسلام آباد الیکٹرک سپلائی کمپنی (IESCO) میں **51 فیصد سے 100 فیصد** تک حصص کی خریداری کے لیے **10** دلچسپی کے اظہار (EOIs) موصول ہوئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440623/pc-receives-10-eois-for-the-iesco-acquisition)*
+- فنانس ڈویژن نے اضافی فنڈز کی تخصیص کے طریقہ کار کو سخت کر دیا ہے تاکہ بجٹ کے استعمال میں نظم و ضبط برقرار رہے۔ *[Business Recorder](https://www.brecorder.com/news/40440624/fd-tightens-additional-funds-allocation-mechanism)*
+- پیراماؤنٹ (Paramount) نے وارنر بروس ڈسکوری کے ساتھ بڑے الحاق (merger) کے لیے امریکی ریاستوں کے ساتھ سمجھوتہ کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440606/paramount-settles-with-us-states-to-clear-warner-bros-mega-merger)*
 
 ### سائنس اور ٹیکنالوجی
-- سعودی ولی عہد نے CEER کے نئے EXOBOT الیکٹرک سیڈان اور SUV لانچ کیے۔ *[ARY](https://arynews.tv/saudi-crown-prince-launches-ceers-new-exobot-electric-sedan-and-suv)*
-- آئرش ریگولیٹر نے لوکیشن ڈیٹا پروسیسنگ کے حوالے سے گوگل پر 403 ملین یورو ($463 ملین) کا جرمانہ عائد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440516/irish-privacy-regulator-fines-google-eur403-million-over-location-data-processing)*
+- علی بابا گروپ **5 سے 10 ٹریلین پیرامیٹرز** پر مشتمل نیا مصنوعی ذہانت (AI) ماڈل تیار کرنے کا منصوبہ بنا رہا ہے اور اپنا طاقتور ترین **Zhenwu V900 AI چپ** بھی متعارف کرایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440630/alibaba-plans-ai-model-with-5-trillion-to-10-trillion-parameters-unveils-new-chip)*
+
+### موسم
+- جاپان کے بحری ساحل پر ٹائیفون (Typhoon Dujuan) کی وجہ سے آنے والی شدید بارشوں اور لینڈ سلائیڈنگ کے نتیجے میں **2 افراد ہلاک** اور **4 لاپتہ** ہو گئے ہیں، جبکہ **50,000 گھروں** کی بجلی منقطع ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440634/torrential-rains-brought-by-japan-typhoon-kill-two-nhk-says)*
 
 ### سیاست
-- پاکستانی وزیر داخلہ محسن نقوی نے تہران میں اپنے ایرانی ہم منصب اسکندر مومنی سے ملاقات کی اور دوطرفہ تعلقات پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440524/naqvi-iranian-counterpart-discuss-bilateral-ties-regional-situation)*
-- ڈونلڈ ٹرمپ انتظامیہ نے بین الاقوامی فوجداری عدالت (ICC) کے خلاف پابندیاں لگانے کی تیاری مکمل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440522/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say)*
+- وزیراعظم شہباز شریف اقوام متحدہ کی جنرل اسمبلی کے **81 ویں اجلاس** میں شرکت کے لیے نیویارک پہنچ گئے ہیں، جہاں وہ **25 ستمبر 2026** کو خطاب کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440620/pm-arrives-in-new-york)*
 
 ### قومی
-- کراچی ایئرپورٹ کے قریب پرندوں کے حملوں (bird strikes) کے خطرے کے باعث 25 ہوٹلوں، ریسٹورنٹس اور میرج ہالز کی جانچ پڑتال کی جا رہی ہے۔ *[ARY](https://arynews.tv/karachi-airport-25-hotels-restaurants-marriage-halls-under-scrutiny-over-bird-strikes)*
+- حکومت پاسپورٹ سروسز کو بہتر بنانے کے لیے اقدامات کا جائزہ لے رہی ہے۔ *[ARY](https://arynews.tv/pakistan-reviews-measures-to-improve-passport-services)*
+- نادرا (NADRA) نے بزرگ شہریوں کے لیے خصوصی سہولیات کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/nadra-announces-special-facilities-for-senior-citizens)*
+- بی آئی ایس ای (BISE) پشاور نے گیارہویں جماعت کے **2026 کے نتائج** جاری کر دیے ہیں۔ *[ARY](https://arynews.tv/bise-peshawar-class-11-result-2026-released-check-here)*
+- بی آئی ایس ای (BISE) ایبٹ آباد نے بارہویں جماعت کے **2026 کے نتائج** کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/bise-abbottabad-class-12-result-2026-released-check-here)*
+- پاک افغان سرحدی علاقے کے افغانستان کے صوبوں **پکتیکا اور کنار** میں فضائی حملوں کے نتیجے میں کم از کم **28 شدت پسند** مارے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40440622/28-militants-killed-in-pak-afghan-border-region)*
 
 ### بین الاقوامی
-- ہرمز کے مقام پر ایک پروجیکٹائل اور ملبہ دو ٹینکرز سے ٹکرایا۔ *[ARY](https://arynews.tv/two-tankers-hit-by-projectile-debris-in-hormuz-maritime-agency)*
-- ڈنمارک کا کہنا ہے کہ گرین لینڈ ڈیل کے تحت آرکٹک سیکورٹی کی ذمہ داری نیٹو (NATO) کی بھی ہے۔ *[ARY](https://arynews.tv/denmark-says-nato-shares-responsibility-for-arctic-security-under-greenland-deal)*
+- عمان نے **71 اسکولوں** کے بیرونی جائزے (external reviews) کا عمل شروع کر دیا ہے۔ *[ARY](https://arynews.tv/oman-begins-external-reviews-of-71-schools)*
+- سی این این (CNN)، ایم ایس ناو (MS NOW) اور پولیٹیکو (Politico) نے وائٹ ہاؤس سے پابندی کے فیصلے کے خلاف ڈونلڈ ٹرمپ کے خلاف مقدمہ دائر کر دیا ہے۔ *[ARY](https://arynews.tv/cnn-ms-now-and-politico-sue-trump-over-white-house-ban)*
+- اقوام متحدہ کے سربراہ نے امریکہ اور ایران کے درمیان امن کوششوں کے لیے پاکستان کی قیادت کا شکریہ ادا کیا ہے۔ *[ARY](https://arynews.tv/un-chief-grateful-to-pakistans-leadership-for-us-iran-peace-efforts)*
+- جی 7 (G7) کے وزرائے خارجہ نے ایران پر یمن میں حوثیوں کی مسلح امداد روکنے کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440633/g7-foreign-ministers-call-on-iran-to-stop-arming-houthis)*
+- امریکہ گرین لینڈ میں دو نئے فوجی اڈے (Narsarsuaq اور Mestersvig) قائم کرنے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440625/us-to-open-two-new-military-bases-in-greenland-sources-say)*
+- امریکی ٹی وی نیٹ ورکس نے وائٹ ہاؤس سے ڈونلڈ ٹرمپ کی کوریج کا بائیکاٹ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440605/us-networks-halt-trump-coverage)*
 
 ### کھیل
-- محمد رضوان کو NCCIA تحقیقات پر عوامی سطح پر بات کرنے سے روک دیا گیا ہے۔ *[ARY](https://arynews.tv/mohammad-rizwan-barred-from-discussing-nccia-probe-in-public-sources)*
-- کائل مبپے نے فرانس کے قومی فٹ بال ٹیم کے مینیجر کے طور پر زفینی زیڈان کے ساتھ کام کرنے کو ایک فلمی تجربہ قرار دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440526/being-managed-by-zidane-for-france-is-like-a-movie-says-mbappe)*
-- سوئس فٹ بال کپتان گرانیٹ ژاکا نے جعلی کووڈ ویکسینیشن سرٹیفکیٹ استعمال کرنے کا اعتراف کرنے کے بعد بین الاقوامی کیمپ سے باہر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440518/swiss-captain-xhaka-sidelined-over-fake-covid-certificate)*
-
-### صحت
-- پاکستان عالمی ذہنی صحت سمٹ 2026 (Global Mental Health Summit 2026) کی میزبانی کرے گا۔ *[ARY](https://arynews.tv/pakistan-to-host-global-mental-health-summit-2026)*
-
-### دیگر
-- پیٹرک کلینسی نے لیسلی کلینسی کے غلط فیصلے (mistrial) کے بعد اپنی پہلی انٹرویو میں خاموشی توڑی ہے۔ *[ARY](https://arynews.tv/patrick-clancy-breaks-silence-in-first-interview-after-lindsay-clancy-mistrial)*
-- ویڈیو گیم پر مبنی ہارر فلم 'Resident Evil' نے 60 ملین ڈالر کی آمدنی کے ساتھ شمالی امریکی باکس آفس پر کامیابی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40440529/horror-movie-resident-evil-tops-north-american-box-office)*
-- ویڈیو گیم GTA 6 کے نقشے کی تفصیلات (Version 16) میں نئے شہروں اور پیمانے کا انکشاف کیا گیا ہے۔ *[ARY](https://arynews.tv/gta-6-map-details-version-16-reveals-new-scale-and-city-locations)*
+- سپین نے کوچ ڈی لا فوئینٹی (De la Fuente) کا معاہدہ **2032** تک بڑھا دیا ہے۔ *[ARY](https://arynews.tv/spain-extends-de-la-fuentes-contract-until-2032)*
 
