@@ -7,49 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 22-Sep-2026 21:10PKT 
+ &lrm; 23-Sep-2026 09:11PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- فنانس ڈویژن نے پاکستان کے آئی ایم ایف (IMF) پروگرام کے بارے میں "گمراہ کن" رپورٹنگ کو مسترد کر دیا ہے، اور واضح کیا ہے کہ یہ پروگرام حکومت کا مجموعی اقدام ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440695/finance-division-rejects-misleading-reporting-on-pakistans-imf-programme)*
-- ایس ای سی پی (SECP) نے انشورنس ٹربیونلز اور اس مالت جھگڑوں کے حل کے لیے چھوٹی کمیٹیوں (SDRCs) کی تعداد بڑھانے اور ایک ڈیجیٹل شکایات کا نظام بنانے کی سفارش کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440690-secp-proposes-more-insurance-tribunals-digital-complaint-system)*
-- خلیجی اسٹاک مارکیٹیں ممکنہ امریکی-ایرانی مذاکرات کے پیش نظر ملے جلے نتائج کے ساتھ بند ہوئیں۔ *[Business Recorder](https://www.brecorder.com/news/40440687-gulf-stocks-mixed-ahead-of-potential-us-iran-un-talks)*
-- سری لنکا کے شیئرز 0.36 فیصد اضافے کے ساتھ 21,054.01 پر بند ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40440685-broad-gains-boost-sri-lankan-shares)*
-- سعودی دفاع فنڈ 'ماسنا وینچرز' (MASNA Ventures) اپنی سرمایہ کاری کی صلاحیت 100 ملین ڈالر سے بڑھا کر 150 ملین ڈالر کرنے کی کوشش کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440682-saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance)*
-- تانبے (Copper) کی قیمتوں میں 0.7 فیصد اضافہ ہوا اور یہ 14,770 ڈالر فی میٹرک ٹن پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40440681-copper-pushes-higher-on-chinese-buying-capped-by-firm-dollar)*
-- سی سی پی (CCP) نے گمراہ کن مارکیٹنگ کے عوض 3M پاکستان پر 10 ملین روپے جرمانہ عائد کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440680-ccp-fines-3m-pakistan-rs10mn-over-scotch-brite-deceptive-marketing)*
-- سعودی عرب نے ایسٹ-ویسٹ آئل پائپ لائن دوبارہ شروع کر دی، جس کے بعد عالمی مارکیٹ میں برینٹ کروڈ کی قیمت میں 2 ڈالر سے زیادہ کی کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40440679-saudi-arabia-restarts-east-west-oil-pipeline-sources-say)*
-- ملائیشین پام آئل کی قیمت 0.97 فیصد گر کر 4,810 رنگٹ فی میٹرک ٹن پر آ گئی، جو گزشتہ 5 ہفتوں کی کم ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440678-palm-hits-over-5-week-low-on-rising-stock-expectations-subdued-demand)*
-- بھارت کے ریگولیٹر نے مالی مشکلات کے باعث سپائس جیٹ (SpiceJet) کی آپریشنل اور مالی حالت کی سخت جانچ پڑتال شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440677-indias-aviation-regulator-places-spicejet-under-operational-financial-scrutiny)*
-- بھارتی روپیہ 0.2 فیصد اضافے کے ساتھ 95.59 فی ڈالر پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40440676-indian-rupee-sways-with-oil-and-intervention-cues-keeping-traders-light-footed)*
+- پی آئی اے بورڈ نے یورپی اور برطانیہ میں آپریشنز کے لیے 5 بوئنگ طیارے لیز پر لینے کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/pia-board-approves-leasing-five-boeing-aircraft-for-european-uk-operations)*
+- وزارت خزانہ نے پاکستان کے آئی ایم ایف (IMF) پروگرام کے حوالے سے رپورٹنگ میں غلط بیانی کی وضاحت کی ہے۔ *[ARY](https://arynews.tv/finance-ministry-clarifies-misleading-reporting-on-pakistans-imf-program)*
+- موبائل فون کی درآمدات میں 8.85 فیصد کمی واقع ہوئی ہے، جو اب کم ہو کر 274.129 ملین ڈالر رہ گئی ہیں۔ *[ARY](https://arynews.tv/mobile-phone-imports-decreases-8-85-percent-to-274-129-million-says-pbs)*
+- پیٹرول اور ہائی اسپیڈ ڈیزل کی قیمتوں میں کمی کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-high-speed-diesel-prices-reduced-new-rates-announced)*
+- بوئنگ کے انجینئرز کی یونین نے کمپنی کی جانب سے پیش کردہ حالیہ چار سالہ معاہدے کی تجویز کی حمایت کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440811/boeings-engineers-union-backs-latest-contract-offer)*
 
 ### سائنس اور ٹیکنالوجی
-- مرسڈیز اور ویو (Wayve) نے خودکار ڈرائیونگ (autonomous driving) کی ٹیکنالوجی پر کام کرنے کے لیے شراکت داری کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/mercedes-wayve-partner-up-on-autonomous-driving)*
-- گوگل بک لائن اپ میں پانچ نئے ماڈلز متعارف کروائے گئے ہیں جن کی قیمت 899 ڈالر سے شروع ہوتی ہے۔ *[ARY](https://arynews.tv/google-book-lineup-brings-five-new-models-starting-at-899)*
-- فیک LastPass Authenticator ڈاؤن لوڈ کے ذریعے پاس ورڈ چوری کرنے والا مالویئر تیزی سے پھیل رہا ہے۔ *[ARY](https://arynews.tv/fake-lastpass-authenticator-download-spreads-password-stealing-malware)*
-
-### بین الاقوامی
-- ڈونلڈ ٹرمپ نے اقوام متحدہ میں خطاب کرتے ہوئے کیوبا کو ایک "ناکام ریاست" قرار دیا اور وہاں آزادی لانے کا وعدہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40440696/trump-says-freedom-will-be-coming-to-cuba-in-un-speech)*
-- ٹرمپ نے ایران کی مکمل اقتصادی تنہائی کا مطالبہ کیا ہے اور نومبر کے انتخابات کے بعد معاہدے کی توقع ظاہر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440694/trump-urges-compete-isolation-of-iran-expects-deal-after-election)*
-- ایران اور امریکہ نے اقوام متحدہ کے جنرل اسمبلی اجلاس کے دوران مذاکرات کی بحالی کے امکانات ظاہر کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440693/iran-us-hint-at-revival-of-talks-as-trump-pezeshkian-due-to-attend-un)*
-- سعودی شاہ سلمان نے حوثیوں کو "دہشت گرد ملیشیا" قرار دیتے ہوئے ان کی مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440691/saudi-king-salman-condemns-houthis-as-terrorist-militia-in-rare-statement)*
-- پیوٹن اور سعودی ولی عہد نے ہرمز اور باب المندب کے ذریعے بحری گزرگاہوں کے لیے محفوظ راستے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/putin-and-saudi-crown-prince-call-for-safe-passage-via-hormuz-bab-el-mandeb)*
-- ڈونلڈ ٹرمپ اقوام متحدہ میں اپنا خطاب ایران کے خلاف جنگ کا دفاع کرنے کے لیے استعمال کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440689/trump-to-use-un-speech-to-defend-iran-war-tout-peace-efforts)*
+- سائبرنیٹکس کے ماہر ہینز وان فوئرسٹر نے 1995 میں ہی جدید مصنوعی ذہانت (AI) سے وابستہ خطرات کی درست پیش گوئی کر دی تھی۔ *[ARY](https://arynews.tv/cybernetics-pioneer-heinz-von-foerster-accurately-predicted-modern-ai-risks-in-1995)*
+- ایپل اپنے نئے میک (Mac) کمپیوٹرز کے ذریعے مائیکروسافٹ اور این ویڈیا کا مقابلہ کرنے کا ارادہ رکھتا ہے، جن کی قیمت تقریباً 20,000 ڈالر تک ہو سکتی ہے تاکہ AI کے اخراجات کم کیے جا سکیں۔ *[Business Recorder](https://www.brecorder.com/news/40440813/with-new-macs-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs)*
 
 ### قومی
-- پشاور اسلام آباد موٹروے (M-1) رات 11 بجے سے بند رہے گی۔ *[ARY](https://arynews.tv/peshawar-islamabad-motorway-m-1-to-close-from-11pm)*
-- پاکستان نے پیٹرول ریلیف اسکیم کے لیے 'PAK app' کے ذریعے شکایت کا نظام لانچ کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-launches-pak-app-complaint-system-for-petrol-relief-scheme)*
-- پاکستان نے اقوام متحدہ کے فورم پر مالیاتی شمولیت کے لیے AI اور ٹوکنائزیشن کے استعمال کو فروغ دینے پر زور دیا۔ *[ARY](https://arynews.tv/pakistan-promotes-ai-and-tokenization-for-financial-inclusion-at-un-forum)*
-- پاکستان، روس اور عمان نے مشترکہ دہشت گردی کے خلاف مشقیں (Druzhba-IX اور Washaq Al Jabal-II) شروع کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440686-pakistan-russia-oman-launch-joint-counter-terrorism-exercises)*
-- آپریشن شبان-2 کے دوران بلوچستان کے علاقے سران ٹنگی میں 6 دہشت گرد مارے گئے اور 9 مشکوک افراد گرفتار ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40440684-operation-shaban-2-six-terrorists-killed-in-balochistans-saran-tangi-area)*
+- بلوچستان پولیس کو جدید پولیسنگ کے نظام کو بہتر بنانے کے لیے 865 موٹر سائیکلیں فراہم کی گئی ہیں۔ *[ARY](https://arynews.tv/balochistan-police-awarded-865-motorcycles-to-boost-modern-policing)*
+- فرانس کے سیکریٹری جنرل برائے دفاع اور قومی سلامتی نے چیف آف آرمی اسٹاف جنرل عاصم منیر سے ملاقات کی، جس میں علاقائی سلامتی پر تبادلہ خیال کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440803/french-sgdsn-ambassador-meet-cdf)*
+- پاکستان سنگل ونڈو (PSW) نے نادرا کی پاک آئی ڈی (PakID) ایپ کے ساتھ انٹیگریشن مکمل کر لی ہے، جس سے صارفین اب گھر بیٹھے اپنی بائیومیٹرک تصدیق کر سکیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40440804/verification-process-psw-integrates-with-nadra-pakid-mobile-app)*
+- پنجاب میں قیمت کنٹرول حکمرانوں نے 14 سے 20 ستمبر کے درمیان 427,587 معائنہ کیے اور تجاوزات پر 114.95 ملین روپے سے زائد جرمانے عائد کیے۔ *[Business Recorder](https://www.brecorder.com/news/40440728/price-control-magistrates-conduct-over-427000-inspections)*
+- ایل ڈی اے کے ڈائریکٹر جنرل نے لاہور میں جاری شہری بحالی اور انفراسٹرکچر کے منصوبوں کی رفتار تیز کرنے کی ہدایت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440729/lda-chief-orders-accelerated-pace-on-lahore-projects)*
+- پنجاب انفارمیشن ٹیکنالوجی بورڈ (PITB) کو گلوبل آئی ٹی سرٹیفیکیشن پروگرام کے تحت اب تک 21,700 سے زائد درخواستیں موصول ہو چکی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440730/pitb-receives-over-21700-applications)*
+- اکاؤنٹنٹ جنرل سندھ نے حیدرآباد میں پنشن کیسز اور اکاؤنٹس آفس کے مسائل کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40440732/ag-sindh-reviews-pension-cases-accounts-office-issues-in-hyderabad)*
+- بزنس مین الائنس کے چیئرمین آصف سخی نے کے سی سی آئی (KCCI) کے موجودہ حکمران گروپ پر تنقید کرتے ہوئے کہا کہ ان کی ناکامی سے کاروبار پنجاب کی طرف منتقل ہو رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440733/asif-sakhi-criticises-kcci-ruling-group)*
+- سندھ حکومت کی جانب سے صوبے میں 67 خصوصی تعلیمی اداروں میں تقریباً 20,000 طلباء تعلیم حاصل کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440734/sindh-taking-revolutionary-steps-towards-education-sharjeel)*
+- سندھ ریونیو بورڈ نے تصدیق شدہ POS انوائسز کے لیے قرعہ اندازی کی جس میں 95 انعامات (بشمول 1600cc اور 1300cc کاریں) شامل تھے۔ *[Business Recorder](https://www.brecorder.com/news/40440735/verified-pos-invoices-srb-holds-fourth-computerised-prize-ballot-draw)*
+- کورنگی ایسوسی ایشن آف ٹریڈ اینڈ انڈسٹری (KATI) کے صدر نے تجارتی مفادات کے تحفظ کے لیے 'چارٹر آف ڈیمانڈز' تیار کرنے کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440736/karachi-trade-industry-kati-president-suggests-a-charter-of-demands)*
+
+### بین الاقوامی
+- بحرین پولیس نے ایک 19 سالہ نوجوان کو آن لائن لڑکی کو بلیک میل کرنے کے الزام میں گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/bahrain-police-arrest-19-year-old-for-blackmailing-teenage-girl)*
+- سعودی عرب نے ڈرون حملوں کے بعد مشرق سے مغرب تک جانے والے خام تیل کے پائپ لائن کے آپریشنز دوبارہ شروع کر دیے ہیں۔ *[ARY](https://arynews.tv/saudi-arabia-resumes-operations-of-east-west-crude-pipeline-after-drone-strikes)*
+- عمان نے شہریوں اور مسافروں کے لیے ایڈوانس چھٹیوں کا کیلنڈر جاری کر دیا ہے۔ *[ARY](https://arynews.tv/omans-advance-holiday-calendar-helps-citizens-and-travelers-plan-ahead)*
+- جنرل موٹرز کی سی ای او میری بارہ، صدر ڈونلڈ ٹرمپ کی جانب سے چینی صدر شی جن پنگ کے اعزاز میں منعقدہ اسٹیٹ ڈنر میں شرکت کریں گی۔ *[Business Recorder](https://www.brecorder.com/news/40440814/gm-ceo-mary-barra-to-attend-trumps-state-dinner-for-xi-sources-say)*
+- جنوبی کوریا اور امریکہ کے درمیان 350 ارب ڈالر کے اسٹریٹجک سرمایہ کاری پیکیج پر پیش رفت ہوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440812/south-koreas-lee-trump-welcome-progress-in-us-strategic-investment-projects)*
+- بھارتی شیئرز میں مستحکم آغاز متوقع ہے، جبکہ GIFT Nifty فیوچرز 23,343 پوائنٹس پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440810/indian-shares-set-for-flat-open-as-foreign-outflows-offset-asian-gains)*
+- بھارتی روپیہ 95.60-95.65 کے درمیان ہے جبکہ برینٹ کروڈ 99.22 ڈالر فی بیرل کے قریب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440809/indian-rupee-hooked-to-oil-prices-as-markets-gauge-iran-diplomacy-hopes)*
+- ایشیائی شیئرز میں اضافہ دیکھا جا رہا ہے جبکہ تیل کی سپلائی بڑھنے کی خبروں سے قیمتیں کم ہو رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440808/asia-stocks-ride-tech-wave-higher-oil-stays-subdued)*
+- ڈالر انڈیکس 100.56 پر ہے، جبکہ یورو 1.1446 ڈالر اور پاؤنڈ 1.3337 ڈالر پر مستحکم ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440807/dollar-holds-near-2-month-high-as-markets-weigh-rate-hikes-iran-diplomacy)*
+- تیل کی قیمتوں میں کمی واقع ہوئی ہے، برینٹ کروڈ 99.18 ڈالر اور WTI 90.17 ڈالر فی بیرل پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440806/oil-falls-on-increased-gulf-supply-and-hopes-for-us-iran-talks)*
 
 ### کھیل
-- ڈبلیو این بی اے (WNBA) میں اسٹیفنی وائٹ کی جانب سے سوفی کناہم کو بینچ کرنے کے حوالے سے مداحوں میں بحث جاری ہے۔ *[ARY](https://arynews.tv/stephanie-white-bench-sophie-cunningham-wnba)*
-- رچت بھٹیا نے آئی پی ایل 2025 کے پانچ میچوں میں فکسنگ کا دعویٰ کیا ہے۔ *[ARY](https://arynews.tv/rachit-bhatia-claims-fixing-five-matches-in-ipl-2025)*
-- انگلینڈ کے فاسٹ باؤلر مارک ووڈ نے 253 بین الاقوامی وکٹوں کے ریکارڈ کے ساتھ کرکٹ سے ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440683-england-fast-bowler-wood-retires-from-internationals-after-battling-injuries)*
+- NYCFC نے دفاعی کھلاڑی میٹ میازگا (Matt Miazga) کو وائیورز کے ذریعے حاصل کر لیا ہے۔ *[ARY](https://arynews.tv/nycfc-claim-decorated-d-matt-miazga-off-waivers)*
 
-### دیگر
-- نیوزی لینڈ نے 'اکریڈیٹڈ ایمپلائر ورک ویزا' کے حصول کے لیے نئی ہدایات جاری کر دی ہیں۔ *[ARY](https://arynews.tv/new-zealand-offers-accredited-employer-work-visa-here-are-the-guidelines-to-apply)*
-- میڈیا ویسٹ (Mediavest) کو 'ڈریگنز آف پاکستان 2026' میں نمبر 1 ایجنسی کا ایوارڈ دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40440688-mediavest-crowned-no-1-agency-at-dragons-of-pakistan)*
+### صحت
+- ماہرین کے مطابق موٹاپے کا تعلق 229 بیماریوں سے ہے اور یہ انسانی زندگی کو 5 سے 11 سال تک کم کر سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440737/obesity-is-linked-to-229-diseases-and-may-cut-life-expectancy-by-up-to-11-years-say-experts)*
 
