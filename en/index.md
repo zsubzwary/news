@@ -4,48 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Sep-2026 21:04PKT
+Published at: 23-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Finance Division rejected "misleading" reporting regarding Pakistan's engagement with the IMF, clarifying that the programme is a whole-of-government initiative. *[Business Recorder](https://www.brecorder.com/news/40440695/finance-division-rejects-misleading-reporting-on-pakistans-imf-programme)*
-- The Securities and Exchange Commission of Pakistan (SECP) recommended increasing the number of Insurance Tribunals and Small Dispute Resolution Committees (SDRCs) and establishing a digital complaint system. *[Business Recorder](https://www.brecorder.com/news/40440690-secp-proposes-more-insurance-tribunals-digital-complaint-system)*
-- Gulf stock markets closed with mixed results as investors monitored potential US-Iran developments at the UN. *[Business Recorder](https://www.brecorder.com/news/40440687-gulf-stocks-mixed-ahead-of-potential-us-iran-un-talks)*
-- Sri Lankan shares rose as the CSE All Share index settled up 0.36% at 21,054.01, with trading volume reaching 58.4 million shares. *[Business Recorder](https://www.brecorder.com/news/40440685-broad-gains-boost-sri-lankan-shares)*
-- Saudi Arabia’s MASNA Ventures aims to increase its defense-focused venture capital capacity from $100 million to $150 million. *[Business Recorder](https://www.brecorder.com/news/40440682-saudi-defence-fund-speeds-up-maritime-sector-push-following-houthi-advance)*
-- Benchmark three-month copper on the London Metal Exchange rose 0.7% to $14,770 per metric ton. *[Business Recorder](https://www.brecorder.com/news/40440681-copper-pushes-higher-on-chinese-buying-capped-by-firm-dollar)*
-- Saudi Arabia restarted its East-West Pipeline, contributing to Brent crude futures falling by more than $2 per barrel. *[Business Recorder](https://www.brecorder.com/news/40440679-saudi-arabia-restarts-east-west-oil-pipeline-sources-say)*
-- Malaysian palm oil futures hit a 5-week low, falling 0.97% (47 ringgit) to 4,810 ringgit ($1,180.66) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40440678-palm-hits-over-5-week-low-on-rising-stock-expectations-subdued-demand)*
-- The Indian rupee rose 0.2% to close at 95.59 per dollar, supported by a 1.5% decline in Brent oil prices to $98.8 per barrel. *[Business Recorder](https://www.brecorder.com/news/40440676-indian-rupee-sways-with-oil-and-intervention-cues-keeping-traders-light-footed)*
-- The Competition Commission of Pakistan (CCP) imposed a Rs10 million penalty on 3M Pakistan (Private) Limited for deceptive marketing of Scotch-Brite products. *[Business Recorder](https://www.brecorder.com/news/40440680-ccp-fines-3m-pakistan-rs10mn-over-scotch-brite-deceptive-marketing)*
+- Mobile phone imports decreased by **8.85 percent** to **$274.129 million**, according to the Pakistan Bureau of Statistics. *[ARY](https://arynews.tv/mobile-phone-imports-decreases-8-85-percent-to-274-129-million-says-pbs)*
+- The Finance Ministry issued a clarification regarding misleading reports concerning Pakistan’s **IMF program**. *[ARY](https://arynews.tv/finance-ministry-clarifies-misleading-reporting-on-pakistans-imf-program)*
+- New rates have been announced following a reduction in prices for **petrol and high-speed diesel**. *[ARY](https://arynews.tv/petrol-high-speed-diesel-prices-reduced-new-rates-announced)*
+- **Brent crude futures** fell by 7 cents (**0.07%**) to **$99.18 per barrel**, while **WTI futures** dropped 35 cents (**0.39%**) to **$90.17 per barrel** amid increased Gulf supply and US-Iran diplomatic hopes. *[Business Recorder](https://www.brecorder.com/news/40440806/oil-falls-on-increased-gulf-supply-and-hopes-for-us-iran-talks)*
+- The **US Dollar index** reached **100.56**, holding near a 2-month high due to prospects of interest rate hikes. *[Business Recorder](https://www.brecorder.com/news/40440807/dollar-holds-near-2-month-high-as-markets-weigh-rate-hikes-iran-diplomacy)*
+- **Indian shares** were set for a muted start with **GIFT Nifty futures at 23,343 points**, as foreign outflows offset Asian market gains. *[Business Recorder](https://www.brecorder.com/news/40440810/indian-shares-set-for-flat-open-as-foreign-outflows-offset-asian-gains)*
+- The **Indian rupee** is expected to open nearly flat around **95.60-95.65 per dollar**. *[Business Recorder](https://www.brecorder.com/news/40440809/indian-rupee-hooked-to-oil-prices-as-markets-gauge-iran-diplomacy-hopes)*
 
 ### Science & Technology
-- Mercedes has entered a partnership with Wayve to advance autonomous driving technology. *[ARY](https://arynews.tv/mercedes-wayve-partner-up-on-autonomous-driving)*
-- Google has introduced a new Book lineup featuring five models with starting prices at $899. *[ARY](https://arynews.tv/google-book-lineup-brings-five-new-models-starting-at-899)*
-- A fraudulent LastPass Authenticator download is currently circulating, spreading malware designed to steal user passwords. *[ARY](https://arynews.tv/fake-lastpass-authenticator-download-spreads-password-stealing-malware)*
+- Apple’s new **Mac Minis and Mac Studios**, which can cost nearly **$20,000**, aim to compete with Nvidia and Microsoft by handling **AI tasks locally** to lower costs. *[Business Recorder](https://www.brecorder.com/news/40440813/with-new-macs-apple-aims-to-take-on-microsoft-nvidia-in-a-rush-to-lower-ai-costs)*
+- Cybernetics pioneer **Heinz von Foerster** accurately predicted modern **AI risks** back in **1995**. *[ARY](https://arynews.tv/cybernetics-pioneer-heinz-von-foerster-accurately-predicted-modern-ai-risks-in-1995)*
+
+### Politics
+- South Korean President **Lee Jae Myung** and US President **Donald Trump** discussed progress on a **$350 billion strategic investment package** during a meeting at the UN General Assembly. *[Business Recorder](https://www.brecorder.com/news/40440812/south-koreas-lee-trump-welcome-progress-in-us-strategic-investment-projects)*
 
 ### National
-- The Peshawar-Islamabad Motorway (M-1) is scheduled to close starting at 11:00 PM. *[ARY](https://arynews.tv/peshawar-islamabad-motorway-m-1-to-close-from-11pm)*
-- Pakistan has launched the "PAK app" complaint system to facilitate the petrol relief scheme. *[ARY](https://arynews.tv/pakistan-launches-pak-app-complaint-system-for-petrol-relief-scheme)*
-- At a UN forum, Pakistan promoted the use of AI and tokenization to drive financial inclusion. *[ARY](https://arynews.tv/pakistan-promotes-ai-and-tokenization-for-financial-inclusion-at-un-forum)*
-- The Pakistan Army has commenced the 9th Druzhba (with Russia) and 2nd Washaq Al Jabal-II (with Oman) joint counter-terrorism exercises. *[Business Recorder](https://www.brecorder.com/news/40440686-pakistan-russia-oman-launch-joint-counter-terrorism-exercises)*
-- During "Operation Shaban-2" in the Saran Tangi area of Balochistan, security forces killed six terrorists and arrested nine suspected individuals. *[Business Recorder](https://www.brecorder.com/news/40440684-operation-shaban-2-six-terrorists-killed-in-balochistans-saran-tangi-area)*
+- The **PIA board** has approved the leasing of **five Boeing aircraft** to support operations in the **UK and Europe**. *[ARY](https://arynews.tv/pia-board-approves-leasing-five-boeing-aircraft-for-european-uk-operations)*
+- **Balochistan Police** have been awarded **865 motorcycles** to enhance modern policing capabilities. *[ARY](https://arynews.tv/balochistan-police-awarded-865-motorcycles-to-boost-modern-policing)*
+- French **SGDSN Nicolas Roche** and Ambassador **Jean-Noël Poirier** met with **COAS Field Marshal Syed Asim Munir** at GHQ to discuss regional security and bilateral defense cooperation. *[Business Recorder](https://www.brecorder.com/news/40440803/french-sgdsn-ambassador-meet-cdf)*
+- The **Pakistan Single Window (PSW)** has integrated with the **NADRA PakID Mobile App**, allowing users to complete mandatory biometric verification remotely. *[Business Recorder](https://www.brecorder.com/news/40440804/verification-process-psw-integrates-with-nadra-pakid-mobile-app)*
+- Price control magistrates in **Punjab** conducted over **427,587 inspections** between September 14 and 20, imposing fines totaling more than **Rs 114.95 million**. *[Business Recorder](https://www.brecorder.com/news/40440728/price-control-magistrates-conduct-over-427000-inspections)*
+- **LDA Director General Tahir Farooq** has directed officials to accelerate **urban regeneration and infrastructure projects** in Lahore, specifically on **Ferozepur Road**. *[Business Recorder](https://www.brecorder.com/news/40440729/lda-chief-orders-accelerated-pace-on-lahore-projects)*
+- The **Punjab Information Technology Board (PITB)** has received over **21,700 applications** for its **Global IT Certifications Programme** since its launch in September 2024. *[Business Recorder](https://www.brecorder.com/news/40440730/pitb-receives-over-21700-applications)*
+- **Accountant General Sindh Miandad Rahujo** reviewed pension cases and accounts office issues during a meeting with district officers in **Hyderabad**. *[Business Recorder](https://www.brecorder.com/news/40440732/ag-sindh-reviews-pension-cases-accounts-office-issues-in-hyderabad)*
+- **Asif Sakhi**, Chairman of the Businessmen Alliance (BMA), criticized the **KCCI ‘ruling group’** for failing to support Karachi’s industry. *[Business Recorder](https://www.brecorder.com/news/40440733/asif-sakhi-criticises-kcci-ruling-group)*
+- The **Sindh Government** is supporting approximately **20,000 students** across **67 special educational institutions** in the province. *[Business Recorder](https://www.brecorder.com/news/40440734/sindh-taking-revolutionary-steps-towards-education-sharjeel)*
+- The **Sindh Revenue Board (SRB)** conducted its fourth computerized prize ballot draw for **217,525 verified POS invoices**, featuring bumper prizes including **1600cc and 1300cc cars**. *[Business Recorder](https://www.brecorder.com/news/40440735/verified-pos-invoices-srb-holds-fourth-computerised-prize-ballot-draw)*
+- **KATI President Muhammad Ikram Rajput** has proposed a **‘Charter of Demands’** to represent Karachi’s trade and industrial interests before various government forums. *[Business Recorder](https://www.brecorder.com/news/40440736/karachi-trade-industry-kati-president-suggests-a-charter-of-demands)*
 
 ### International
-- US President Donald Trump labeled Cuba a "failed state" during a UN address, stating that the communist regime is under unprecedented pressure. *[Business Recorder](https://www.brecorder.com/news/40440696/trump-says-freedom-will-be-coming-to-cuba-in-un-speech)*
-- President Trump called for the complete economic isolation of Iran during his UN General Assembly speech, though he suggested a deal might be possible after the November US midterm elections. *[Business Recorder](https://www.brecorder.com/news/40440694/trump-urges-compete-isolation-of-iran-expects-deal-after-election)*
-- US and Iranian leaders (Trump and Masoud Pezeshkian) are both due to attend the UN General Assembly, hinting at a potential revival of negotiations. *[Business Recorder](https://www.brecorder.com/news/40440693-iran-us-hint-at-revival-of-talks-as-trump-pezeshkian-due-to-attend-un)*
-- Saudi King Salman issued a rare statement condemning the Houthi militia as a "terrorist militia" following an attack targeting Makkah. *[Business Recorder](https://www.brecorder.com/news/40440691-saudi-king-salman-condemns-houthis-as-terrorist-militia-in-rare-statement)*
-- Vladimir Putin and the Saudi crown prince have called for safe passage through the Hormuz and Bab el-Mandeb straits. *[ARY](https://arynews.tv/putin-and-saudi-crown-prince-call-for-safe-passage-via-hormuz-bab-el-mandeb)*
-- India’s aviation ministry has placed SpiceJet under operational and financial scrutiny due to ongoing cash flow difficulties. *[Business Recorder](https://www.brecorder.com/news/40440677-indias-aviation-regulator-places-spicejet-under-operational-financial-scrutiny)*
-- New Zealand has released new guidelines for applicants seeking the "accredited employer work visa." *[ARY](https://arynews.tv/new-zealand-offers-accredited-employer-work-visa-here-are-the-guidelines-to-apply)*
+- **Saudi Arabia** has resumed operations of its **East-West crude pipeline** following drone strikes, potentially resuming exports via the **Red Sea port of Yanbu**. *[ARY](https://arynews.tv/saudi-arabia-resumes-operations-of-east-west-crude-pipeline-after-drone-strikes)*
+- **GM CEO Mary Barra** is expected to attend US President **Donald Trump’s state dinner** for Chinese President **Xi Jinping**. *[Business Recorder](https://www.brecorder.com/news/40440814/gm-ceo-mary-barra-to-attend-trumps-state-dinner-for-xi-sources-say)*
+- **Boeing's engineers union (SPEEA)** has recommended its members accept a **four-year contract offer** that includes higher wage increases. *[Business Recorder](https://www.brecorder.com/news/40440811/boeings-engineers-union-backs-latest-contract-offer)*
+- Bahraini police arrested a **19-year-old** for the **online blackmailing** of a teenage girl. *[ARY](https://arynews.tv/bahrain-police-arrest-19-year-old-for-blackmailing-teenage-girl)*
+- **Oman** has released an advanced **holiday calendar** to assist citizens and travelers with planning. *[ARY](https://arynews.tv/omans-advance-holiday-calendar-helps-citizens-and-travelers-plan-ahead)*
 
 ### Sports
-- Fans of the Indiana Fever are speculating whether coach Stephanie White benched player Sophie Cunningham. *[ARY](https://arynews.tv/stephanie-white-bench-sophie-cunningham-wnba)*
-- Rachit Bhatia has made claims regarding the fixing of five matches during IPL 2025. *[ARY](https://arynews.tv/rachit-bhatia-claims-fixing-five-matches-in-ipl-2025)*
-- England fast bowler Mark Wood has retired from international cricket after an 11-year career in which he took 253 wickets. *[Business Recorder](https://www.brecorder.com/news/40440683-england-fast-bowler-wood-retires-from-internationals-after-battling-injuries)*
+- **NYCFC** has claimed defender **Matt Miazga** off waivers. *[ARY](https://arynews.tv/nycfc-claim-decorated-d-matt-miazga-off-waivers)*
 
-### Other
-- Mediavest, the media agency for Brainchild Communications Pakistan, was named the No. 1 agency at the Dragons of Pakistan 2026. *[Business Recorder](https://www.brecorder.com/news/40440688-mediavest-crowned-no-1-agency-at-dragons-of-pakistan)*
+### Health
+- Medical experts warn that **obesity** is linked to **229 diseases** and may reduce life expectancy by **5 to 11 years**. *[Business Recorder](https://www.brecorder.com/news/40440737/obesity-is-linked-to-229-diseases-and-may-cut-life-expectancy-by-up-to-11-years-say-experts)*
 
