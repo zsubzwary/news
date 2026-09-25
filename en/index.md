@@ -4,47 +4,55 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-Sep-2026 09:03PKT
+Published at: 25-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- SoftBank Group has issued **$11.1 billion** in dollar- and euro-denominated bonds, marking the largest high-yield bond sale by an Asia-Pacific issuer to fund investments in OpenAI. *[Business Recorder](https://www.brecorder.com/news/40440993/softbank-issues-111-billion-in-bonds-in-openai-financing-push)*
-- Honda Motor plans to invest between **300 billion yen and 400 billion yen ($1.90 billion to $2.53 billion)** to construct a new hybrid vehicle production plant in Ohio, with production expected to begin in 2030. *[Business Recorder](https://www.brecorder.com/news/40440990/honda-plans-to-invest-25-bln-to-build-hybrid-vehicle-plant-in-ohio-nikkei-says)*
-- Brent crude futures fell **0.9% to $102.13** per barrel, while West Texas Intermediate (WTI) futures decreased **0.7% to $91.56** following reports of Iranian openness to diplomacy. *[Business Recorder](https://www.brecorder.com/news/40440987/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war)*
-- The US dollar reached a **two-month high**, pushing the euro down to **$1.1378** and the sterling to near **$1.3231**. *[Business Recorder](https://www.brecorder.com/news/40440986/dollar-perched-at-two-month-high-as-hot-pmi-fuels-inflation-fears-rate-hike-bets)*
-- Spot gold prices dipped **0.1% to $4,281.98** per ounce, while US gold futures for December delivery stood at **$4,317.50**. *[Business Recorder](https://www.brecorder.com/news/40440985/gold-muted-as-fed-policy-tightening-prospects-weigh)*
-- Standard Chartered Foundation awarded **PKR 10.5 million** in equity-free grants to three women-led startups through its Women in Tech Accelerator. *[Business Recorder](https://www.brecorder.com/news/40440983/standard-chartered-foundation-awards-rs105m-grants-to-three-women-led-startups)*
-- The Punjab Revenue Authority (PRA) registered **35,000 new businesses** across Punjab during the past year to expand the provincial tax net. *[Business Recorder](https://www.brecorder.com/news/40440891/pra-registers-35000-new-businesses-in-tax-drive)*
-- The Indian rupee is projected to open between **95.85-95.87 per dollar**, reflecting pressure from rising oil prices and US yields. *[Business Recorder](https://www.brecorder.com/news/40440988/indian-rupee-faces-pressure-from-oil-us-yields-rbi-deputy-flags-case-for-gains)*
+- Punjab has announced a **Rs. 750,000 subsidy** for farmers under the Green Tractor Scheme. *[ARY](https://arynews.tv/green-tractor-scheme-punjab-announces-rs-750000-subsidy-for-farmers)*
+- Bank of England rate setters have issued warnings regarding potential economic volatility described as "sparks in the tinderbox." *[ARY](https://arynews.tv/bank-of-england-rate-setters-warn-of-sparks-in-the-tinderbox)*
+- Indian Nifty 50 index closed at **23,063.1**, while GIFT Nifty futures were recorded at **23,116 points**. *[Business Recorder](https://www.brecorder.com/news/40441183/indian-shares-eye-positive-start-after-sharp-drop-but-elevated-oil-yields-weigh)*
+- The Indian rupee is expected to trade near the **96 per dollar** mark. *[Business Recorder](https://www.brecorder.com/news/40441182/indian-rupee-to-navigate-us-iran-truce-possibility-surging-global-bond-yields)*
+- Brent crude is trading near **$105 per barrel**, contributing to a US dollar weekly gain of approximately **1%**. *[Business Recorder](https://www.brecorder.com/news/40441181/asian-stocks-weather-bond-storm-oil-retreats-slightly)*
+- Dollar strength has pushed the euro to a two-month low of **$1.1370** and sterling to a three-month low of **$1.3220**. *[Business Recorder](https://www.brecorder.com/news/40441180/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build)*
+- Oil prices saw a decline with Brent down **0.82% (to $105.73/barrel)** and WTI down **1.65% (to $93.05/barrel)**. *[Business Recorder](https://www.brecorder.com/news/40441179/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities)*
+- Spot gold rose **0.2% to $4,288.36 per ounce**, though it remains down **2%** for the week. *[Business Recorder](https://www.brecorder.com/news/40441178/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs)*
+- Stakeholders are planning a phased transition to clean electricity in Pakistan by the year **2040**. *[Business Recorder](https://www.brecorder.com/news/40441177/stakeholders-deliberate-on-a-phased-transition-to-clean-electricity-by-2040)*
+- SMEDA is conducting consultations with women chambers to improve access to finance and markets for women-owned businesses. *[Business Recorder](https://www.brecorder.com/news/40441175/smeda-consults-women-chambers-to-boost-businesses)*
+- Experts are urging the development of Pakistan's fisheries into a modern, export-oriented "blue economy." *[Business Recorder](https://www.brecorder.com/news/40441172/govt-urged-to-develop-fisheries-sector-on-modern-lines)*
+- In the banking sector, worker remittances hit **USD 41.6 billion in FY26**, while SBP reported **9.1 billion retail payments worth PKR 612 trillion** in CY25. *[Business Recorder](https://www.brecorder.com/news/40441170/experts-call-for-stronger-data-governance-in-banking-sector)*
 
 ### Science & Technology
-- AI leaders are scheduled to brief the United Nations regarding warnings that artificial intelligence technology could potentially slip beyond human control. *[ARY](https://arynews.tv/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control)*
+- Apple intends to resolve iPhone 18 Pro reboot issues via an upcoming software update. *[ARY](https://arynews.tv/apple-plans-fix-iphone-18-pro-reboot-issue-via-upcoming-software-update)*
+
+### Weather
+- Nepal's recovery needs following a glacier flood that killed at least **1,450 people** are estimated at **10% of its GDP**. *[Business Recorder](https://www.brecorder.com/news/40441185/nepal-seeks-grants-not-loans-for-flood-recovery-after-deadly-glacier-disaster)*
 
 ### Politics
-- Jamaat-e-Islami (JI) Ameer Hafiz Naeem-ur-Rehman announced that the party will continue its march on Islamabad until the **Petroleum Levy (PL)** is abolished. *[Business Recorder](https://www.brecorder.com/news/40440909/ji-will-not-give-up-its-right-until-the-pl-is-abolished-naeem)*
-- PTI has condemned police raids on the residences of Khyber Pakhtunkhwa provincial ministers, including **Syed Fakhar Jehan** (Minister for Excise, Taxation and Narcotics Control) and **Riaz K.** (Minister for Irrigation). *[Business Recorder](https://www.brecorder.com/news/40440911/pti-condemns-raids-on-residences-of-two-ministers)*
+- The Iranian President stated the US "must choose" whether to end the war during an interview with Fox News. *[ARY](https://arynews.tv/us-must-choose-whether-to-end-war-iran-president-to-fox-news)*
+- Netanyahu's brief visit to New York highlighted strained diplomatic ties between Israel and the US. *[ARY](https://arynews.tv/netanyahus-fleeting-visit-to-new-york-mirrors-strained-us-ties)*
+- Saudi Arabia, Turkiye, and Pakistan are set to hold an urgent high-level meeting under a joint defense pact regarding Houthi attacks. *[Business Recorder](https://www.brecorder.com/news/40441184/allies-unite-behind-saudi-arabia-as-houthis-step-up-attacks)*
+- The Parliamentary Council for Human Rights presented an **eight-point demand** for the protection of minority rights in Sindh. *[Business Recorder](https://www.brecorder.com/news/40441169/minority-rights-in-sindh-eight-point-demands-presented-for-protection)*
+- The Federal Constitutional Court (FCC) currently has **23,409 pending cases**; the Chief Justice has implemented a stopwatch to limit lawyer arguments to **10 minutes** each. *[Business Recorder](https://www.brecorder.com/news/40441167/ensure-timely-disposal-of-cases-cj-fcc-installs-stopwatch-in-courtroom)*
+- Punjab Chief Minister Maryam Nawaz felicitated Dr Najeeb Naqi on his election as the **25th President of AJK**. *[Business Recorder](https://www.brecorder.com/news/40441138/maryam-felicitates-najeeb-on-becoming-ajk-president)*
 
 ### National
-- The Sindh Transport and Mass Transit Department has submitted a summary to the provincial cabinet for the purchase of **500 electric buses** to modernize public transport. *[Business Recorder](https://www.brecorder.com/news/40440980/summary-moved-to-cabinet-for-purchase-of-500-e-buses-sharjeel)*
-- The Nepra Appellate Tribunal dismissed appeals filed by **K-Electric (KE)** against previous orders issued by the National Electric Power Regulatory Authority. *[Business Recorder](https://www.brecorder.com/news/40440982/tribunal-rejects-kes-appeals-against-nepras-orders)*
-- A special committee of the Sindh Assembly grilled representatives from **HESCO, SEPCO, K-Electric, and NEPRA** regarding persistent electricity load-shedding and outages. *[Business Recorder](https://www.brecorder.com/news/40440981/nepra-and-k-electric-representatives-grilled-over-power-outages)*
-- Chief of the Naval Staff Admiral Naveed Ashraf emphasized the necessity of translating maritime policies into practical action to develop Pakistan's **Blue Economy**. *[Business Recorder](https://www.brecorder.com/news/40440912/unlocking-of-blue-economy-potential-cns-for-translating-maritime-policies-into-practical-action)*
-- Punjab Chief Minister Maryam Nawaz Sharif commended traffic warden **Sohail Wazir Dogar** for returning a bag containing a substantial amount of cash to its owner. *[Business Recorder](https://www.brecorder.com/news/40440892/cm-commends-traffic-warden-for-returning-cash-bag)*
+- **14 Pakistani crew members** are seeking urgent diplomatic assistance to return from Yemen. *[ARY](https://arynews.tv/14-pakistani-crew-members-seek-urgent-diplomatic-help-for-return-from-yemen)*
+- DRAP has continued to make temporary appointments to key posts for the **fourth consecutive year**. *[ARY](https://arynews.tv/drap-continues-temporary-appointments-on-key-posts-for-fourth-year)*
+- The Pakistan Consulate in Jeddah has introduced a new online appointment system. *[ARY](https://arynews.tv/pakistan-consulate-in-jeddah-introduces-online-appointment-system)*
+- Pakistan successfully foiled a cross-border aggression attempt from Afghanistan. *[ARY](https://arynews.tv/pakistan-foils-cross-border-aggression-attempt-from-afghanistan)*
+- Police constable Fazal Ahmad was martyred during a raid in the Kot Momin jurisdiction of Sargodha. *[Business Recorder](https://www.brecorder.com/news/40441168/constable-martyred-in-sargodha)*
 
 ### International
-- Ukrainian Foreign Minister **Andrii Sybiha** met with Iranian counterpart **Abbas Araqchi** on the sidelines of the UN General Assembly to discuss maintaining low regional tensions. *[Business Recorder](https://www.brecorder.com/news/40440991/ukrainian-foreign-minister-says-he-discussed-keeping-tension-low-with-iranian-counterpart)*
+- Airbus is pitching the Eurofighter to Portugal as the optimal replacement for F-16 jets. *[ARY](https://arynews.tv/airbus-pitches-eurofighter-to-portugal-as-best-replacement-for-f-16-jets)*
+- The Speaker of the Maldives met with Pakistan's Chief of Army Staff and Chief of Defence Forces, Field Marshal Syed Asim Munir, in Rawalpindi. *[Business Recorder](https://www.brecorder.com/news/40441176/speaker-of-maldives-meets-cdf)*
 
 ### Sports
-- Mohammad Wasim has ranked **Fatima Sana** above **Babar Azam** in a pressure performance index. *[ARY](https://arynews.tv/mohammad-wasim-ranks-fatima-sana-over-babar-azam-in-pressure-performance-index)*
-- Oman is preparing for a critical World Cup qualifying match against **Iraq**. *[ARY](https://arynews.tv/oman-eager-for-positive-kick-off-in-pivotal-world-cup-qualifying-clash-against-iraq)*
-- **Billy Joe Root’s** brother, Billy, has announced his retirement from county cricket. *[ARY](https://arynews.tv/joe-roots-brother-billy-hangs-up-his-boots-after-long-county-cricket-journey)*
-- Babar Azam has bolstered the **OGDCL team** for the President Trophy Grade-I 3rd round. *[ARY](https://arynews.tv/babar-azam-enhances-ogdcl-team-for-president-troph-grade-i-3rd-round)*
-- **Patrick Vieira** is leading a new wave of coaching in the Africa Cup qualifiers. *[ARY](https://arynews.tv/vieira-leads-new-coaching-wave-in-africa-cup-qualifiers)*
+- Spinner Abrar Ahmed has reached the **number one spot** in the ICC Men’s T20I rankings, overtaking Rashid Khan. *[Business Recorder](https://www.brecorder.com/news/40441166/abrar-ahmed-achieves-top-spot-in-icc-t20i-rankings)*
+
+### Health
+- Medical experts have called for the continuous promotion of clinical research and trials to advance the healthcare field. *[Business Recorder](https://www.brecorder.com/news/40441174/medical-experts-call-for-promoting-clinical-research)*
 
 ### Other
-- An investigation is currently underway regarding the circumstances surrounding the death of **Presley Gerber** during his time in a rehabilitation facility. *[ARY](https://arynews.tv/investigation-underway-into-final-moments-of-presley-gerbers-time-in-rehab-as-rumors-swirl-about-cause-of-death)*
-- Archaeologists have discovered an ancient Greek school identified as the site where **Aristotle** taught **Alexander the Great**. *[ARY](https://arynews.tv/archaeologists-discover-ancient-greek-school-where-aristotle-taught-alexander-the-great)*
-- Iqra University’s Department of Media Science hosted the **“Media Unveiled 2026”** exhibition featuring student projects in advertising and design. *[Business Recorder](https://www.brecorder.com/news/40440984/iqra-university-stages-media-unveiled-2026)*
-- There are currently **no transit flights** available from Kuwait. *[ARY](https://arynews.tv/no-transit-flights-from-kuwait)*
+- FPCCI and PEMRA jointly organized a seminar in Lahore regarding the future of Pakistan’s digital media. *[Business Recorder](https://www.brecorder.com/news/40441171/fpcci-pemra-organise-seminar-on-digital-media-future)*
 
