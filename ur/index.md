@@ -7,46 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 24-Sep-2026 09:09PKT 
+ &lrm; 25-Sep-2026 09:09PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- سافٹ بینک گروپ نے OpenAI کی مالی معاونت کے لیے 11.1 بلین ڈالر کے ڈالر اور یورو میں مختص بانڈز جاری کیے ہیں، جو ایشیا بحرالاقوسیہ کے کسی بھی ادارے کی طرف سے سب سے بڑی ہائی ییلڈ بانڈ فروخت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440993/softbank-issues-111-billion-in-bonds-in-openai-financing-push)*
-- ہونڈا موٹر اوہائیو میں ہائبرڈ گاڑیوں کا نیا پلانٹ بنانے کے لیے 300 ارب سے 400 ارب ین (تقریباً 1.90 بلین سے 2.53 بلین ڈالر) کی سرمایہ کاری کا منصوبہ بنا رہی ہے، جس کی پیداوار 2030 میں شروع ہوگی۔ *[Business Recorder](https://www.brecorder.com/news/40440990/honda-plans-to-invest-25-bln-to-build-hybrid-vehicle-plant-in-ohio-nikkei-says)*
-- خام تیل کی قیمتوں میں کمی دیکھی گئی، برینٹ کروڈ 0.9 فیصد گر کر 102.13 ڈالر فی بیرل اور ڈبلیو ٹی آئی 0.7 فیصد کم ہو کر 91.56 ڈالر فی بیرل پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40440987/oil-prices-edge-lower-as-iran-says-it-is-open-to-diplomacy-to-end-the-war)*
-- سونے کی قیمتوں میں استحکام رہا، سپاٹ گولڈ 0.1 فیصد کی کمی کے بعد 4,281.98 ڈالر فی اونس پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40440985/gold-muted-as-fed-policy-tightening-prospects-weigh)*
-- بھارتی روپیہ تیل کی قیمتوں میں اضافے اور امریکی شرح سود کے امکانات کی وجہ سے دباؤ کا شکار ہے، جس کی وجہ سے اس کے 95.85 سے 95.87 فی ڈالر کے درمیان کھلنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440988/indian-rupee-faces-pressure-from-oil-us-yields-rbi-deputy-flags-case-for-gains)*
-- اسٹینڈرڈ چارٹرڈ فاؤنڈیشن نے خواتین کے زیرِ قیادت تین اسٹارٹ اپس کو مجموعی طور پر 10.5 ملین روپے کے گرانٹس فراہم کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440983/standard-chartered-foundation-awards-rs105m-grants-to-three-women-led-startups)*
-- پنجاب ریونیو اتھارٹی (PRA) نے صوبائی ٹیکس نیٹ کو بڑھانے کی مہم کے تحت گزشتہ ایک سال میں 35,000 نئے کاروبار رجسٹر کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440891/pra-registers-35000-new-businesses-in-tax-drive)*
+- پنجاب حکومت نے 'گرین ٹریکٹر اسکیم' کے تحت کسانوں کے لیے **750,000 روپے** سبسڈی کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/green-tractor-scheme-punjab-announces-rs-750000-subsidy-for-farmers)*
+- پاکستان میں افرادی قوت کی ترسیلات (Remittances) مالی سال 2026 میں **41.6 ارب ڈالر** تک پہنچ گئیں، جبکہ اسٹیٹ بینک کے مطابق سال 2025 میں **612 ٹریلین روپے** کے ریٹیل ادائیگات ریکارڈ کیے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441170/experts-call-for-stronger-data-governance-in-banking-sector)*
+- بین الاقوامی مارکیٹ میں برینٹ آئل کی قیمت **0.82 فیصد** کمی کے ساتھ **105.73 ڈالر** فی بیرل اور ڈبلیو ٹی آئی (WTI) **1.65 فیصد** گر کر **93.05 ڈالر** فی بیرل پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441179/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities)*
+- سونے کی قیمت میں ہفتہ وار کمی کا رجحان ہے، جبکہ سپاٹ گولڈ **0.2 فیصد** اضافے کے ساتھ **4,288.36 ڈالر** فی اونس پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441178/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs)*
+- امریکی ڈالر میں مضبوطی کے باعث یورو **1.1370 ڈالر** اور برطانوی پاؤنڈ **1.3220 ڈالر** کی سطح پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40441180/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build)*
+- بھارتی اسٹاک مارکیٹ میں Nifty 50 انڈیکس **23,063.1** پر بند ہوا، جبکہ بھارتی روپے کے **96 روپے** فی ڈالر تک گرنے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441183/indian-shares-eye-positive-start-after-sharp-drop-but-elevated-oil-yields-weigh)* *[Business Recorder](https://www.brecorder.com/news/40441182/indian-rupee-to-navigate-us-iran-truce-possibility-surging-global-bond-yields)*
+- ایس ایم ای ڈی اے (SMEDA) نے خواتین کے کاروبار کو فروغ دینے کے لیے ویمن چیمبرز کے ساتھ مشاورت کا عمل تیز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441175/smeda-consults-women-chambers-to-boost-businesses)*
+- بجلی کے شعبے میں **2040** تک صاف توانائی کی منتقلی کے لیے اسٹیک ہولڈرز نے لاہور میں اہم اجلاس کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441177/stakeholders-deliberate-on-a-phased-transition-to-clean-electricity-by-2040)*
+- مچھلیوں کے شعبے کو جدید اور برآمدی طرز پر لانے کے لیے 'بلیو اکانومی' کے فروغ پر زور دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441172/govt-urged-to-develop-fisheries-sector-on-modern-lines)*
 
 ### سائنس اور ٹیکنالوجی
-- مصنوعی ذہانت (AI) کے رہنما اقوام متحدہ کو اس ٹیکنالوجی کے انسانی کنٹرول سے باہر ہونے کے ممکنہ خطرات کے بارے میں بریفنگ دیں گے۔ *[ARY](https://arynews.tv/ai-leaders-to-brief-un-amid-warnings-the-technology-could-slip-beyond-human-control)*
+- ایپل (Apple) آئی فون 18 پرو کے ری بوٹ کے مسئلے کو آنے والے سافٹ ویئر اپ ڈیٹ کے ذریعے حل کرنے کا منصوبہ بنا رہا ہے۔ *[ARY](https://arynews.tv/apple-plans-fix-iphone-18-pro-reboot-issue-via-upcoming-software-update)*
+
+### موسم
+- نیپال میں گلیشیئر کے تباہ کن سیلاب کے نتیجے میں کم از کم **1,450 افراد** ہلاک ہو گئے، جس کی بحالی کے لیے جی ڈی پی کے **10 فیصد** کے برابر فنڈز کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441185/nepal-seeks-grants-not-loans-for-flood-recovery-after-deadly-glacier-disaster)*
 
 ### سیاست
-- جماعت اسلامی کے امیر حافظ نعیم الرحمان نے اعلان کیا ہے کہ پیٹرولیم لیوی (PL) کے خاتمے تک ان کا اسلام آباد مارچ کا حق برقرار رہے گا۔ *[Business Recorder](https://www.brecorder.com/news/40440909/ji-will-not-give-up-its-right-until-the-pl-is-abolished-naeem)*
-- پی ٹی آئی نے خیبر پختونخوا کے دو صوبائی وزراء (وزیر برائے ایکسائز سید فخر جہان اور وزیر برائے انہار ریاض ک) کے گھروں پر چھاپوں اور ایک رکن قومی اسمبلی کی گرفتاری کی شدید مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440911/pti-condemns-raids-on-residences-of-two-ministers)*
+- ایران کے صدر نے کہا ہے کہ امریکہ کو جنگ ختم کرنے یا جاری رکھنے کا فیصلہ کرنا ہوگا۔ *[ARY](https://arynews.tv/us-must-choose-whether-to-end-war-iran-president-to-fox-news)*
+- سعودی عرب، ترکیہ اور پاکستان یمن کے حوثی باغیوں کے حملوں کے خلاف ایک ہائی لیول دفاعی اجلاس منعقد کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40441184/allies-unite-behind-saudi-arabia-as-houthis-step-up-attacks)*
+- آزاد جموں و کشمیر کے **25ویں** صدر کے طور پر ڈاکٹر نجیب نقی کے انتخاب پر مریم نواز نے مبارکباد دی۔ *[Business Recorder](https://www.brecorder.com/news/40441138/maryam-felicitates-najeeb-on-becoming-ajk-president)*
+- سندھ میں اقلیتوں کے حقوق کے تحفظ کے لیے آٹھ نکاتی مطالبات پیش کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441169/minority-rights-in-sindh-eight-point-demands-presented-for-protection)*
+- فیڈرل کانسٹٹیوشنل کورٹ کے چیف جسٹس نے مقدمات کے بروقت فیصلے کے لیے اسٹاپ واچ کا استعمال شروع کر دیا ہے؛ عدالت میں اس وقت **23,409** کیسز زیر التوا ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441167/ensure-timely-disposal-of-cases-cj-fcc-installs-stopwatch-in-courtroom)*
 
 ### قومی
-- نیپرا اپیلٹ ٹربیونل نے کے-الیکٹرک (KE) کی جانب سے نیشنل الیکٹرک پاور ریگولیٹری اتھارٹی (NEPRA) کے فیصلوں کے خلاف دائر کردہ اپیلیں مسترد کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40440982/tribunal-rejects-kes-appeals-against-nepras-orders)*
-- سندھ اسمبلی کی خصوصی کمیٹی نے لوڈشیڈنگ کے حوالے سے HESCO، SEPCO، K-Electric اور NEPRA کے نمائندوں سے سخت سوالات کیے اور بجلی کی فراہمی بہتر نہ کرنے پر قانونی کارروائی کا انتباہ دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440981/nepra-and-k-electric-representatives-grilled-over-power-outages)*
-- سندھ حکومت نے صوبے بھر میں عوامی نقل و حمل کے نظام کو جدید بنانے کے لیے 500 الیکٹرک بسوں کی خریداری کے لیے کابینہ کو سمری ارسال کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40440980/summary-moved-to-cabinet-for-purchase-of-500-e-buses-sharjeel)*
-- پنجاب کے وزیر اعلیٰ نے ٹریفک وارڈن سہیل وزیر ڈوگر کی ایمانداری کو سراہا جنہوں نے سڑک سے نقدی سے بھرا بیگ اور ضروری دستاویزات تلاش کر کے مالک کو واپس کیں۔ *[Business Recorder](https://www.brecorder.com/news/40440892/cm-commends-traffic-warden-for-returning-cash-bag)*
-- بحریہ کے سربراہ ایڈمرل نوید اشرف نے 'بلیو اکانومی' کی صلاحیتوں کو بروئے کار لانے کے لیے بحری پالیسیوں کو عملی شکل دینے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40440912/unlocking-of-blue-economy-potential-cns-for-translating-maritime-policies-into-practical-action)*
-- کویت سے کوئی ٹرانزٹ پروازیں فراہم نہیں کی جائیں گی۔ *[ARY](https://arynews.tv/no-transit-flights-from-kuwait)*
+- یمن میں پھنسے **14 پاکستانی** عملے کے ارکان نے وطن واپسی کے لیے فوری سفارتی مدد کی درخواست کی ہے۔ *[ARY](https://arynews.tv/14-pakistani-crew-members-seek-urgent-diplomatic-help-for-return-from-yemen)*
+- ڈی آر اے پی (DRAP) نے چوتھے سال بھی اہم عہدوں پر عارضی تقرریوں کا سلسلہ جاری رکھا ہے۔ *[ARY](https://arynews.tv/drap-continues-temporary-appointments-on-key-posts-for-fourth-year)*
+- جدہ میں پاکستانی قونصل خانے نے آن لائن اپوائنٹمنٹ سسٹم متعارف کروا دیا ہے۔ *[ARY](https://arynews.tv/pakistan-consulate-in-jeddah-introduces-online-appointment-system)*
+- پاکستان نے افغانستان سے ہونے والی سرحد پار جارحیت کی کوشش کو ناکام بنا دیا۔ *[ARY](https://arynews.tv/pakistan-foils-cross-border-aggression-attempt-from-afghanistan)*
+- سرگودھا کے علاقے کوٹ مومن میں چھاپے کے دوران پولیس کانسٹیبل فضل احمد شہید ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441168/constable-martyred-in-sargodha)*
+- مالدیپ کے سپیکر نے راولپنڈی میں چیف آف آرمی اسٹاف سے ملاقات کی اور علاقائی سلامتی پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441176/speaker-of-maldives-meets-cdf)*
+- ایف پی سی سی (FPCCI) اور پیمرا (PEMRA) نے لاہور میں ڈیجیٹل میڈیا کے مستقبل پر ایک خصوصی سیمینار کا اہتمام کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441171/fpcci-pemra-organise-seminar-on-digital-media-future)*
 
 ### بین الاقوامی
-- یوکرینی وزیر خارجہ نے نیویارک میں اقوام متحدہ کی جنرل اسمبلی کے موقع پر اپنے ایرانی ہم منصب عباس عراقچی سے ملاقات کی تاکہ علاقائی تناؤ کو کم کرنے پر تبادلہ خیال کیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40440991/ukrainian-foreign-minister-says-he-discussed-keeping-tension-low-with-iranian-counterpart)*
+- ایئربس (Airbus) نے پرتگال کو F-16 طیاروں کے متبادل کے طور پر یورو فائٹر پیش کرنے کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/airbus-pitches-eurofighter-to-portugal-as-best-replacement-for-f-16-jets)*
+- اسرائیلی وزیراعظم نیتن یاہو کا نیویارک کا مختصر دورہ امریکہ کے ساتھ کشیدہ تعلقات کی عکاسی کرتا ہے۔ *[ARY](https://arynews.tv/netanyahus-fleeting-visit-to-new-york-mirrors-strained-us-ties)*
 
 ### کھیل
-- محمد وسیم نے 'پریشر پرفارمنس انڈیکس' میں فاطمہ ثنا کو بابر اعظم پر فوقیت دی ہے۔ *[ARY](https://arynews.tv/mohammad-wasim-ranks-fatima-sana-over-babar-azam-in-pressure-performance-index)*
-- عمان اور عراق کے درمیان ورلڈ کپ کوالیفائنگ میچ کے لیے دونوں ٹیمیں تیاریاں مکمل کر چکی ہیں۔ *[ARY](https://arynews.tv/oman-eager-for-positive-kick-off-in-pivotal-world-cup-qualifying-clash-against-iraq)*
-- جو روٹ کے بھائی بیلی روٹ نے کاؤنٹی کرکٹ کے طویل سفر کے بعد ریٹائرمنٹ کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/joe-roots-brother-billy-hangs-up-his-boots-after-long-county-cricket-journey)*
-- بابر اعظم نے پریذیڈنٹ ٹرافی گریڈ-I کے تیسرے راؤنڈ کے لیے OGDCL کی ٹیم میں بہتری لائی ہے۔ *[ARY](https://arynews.tv/babar-azam-enhances-ogdcl-team-for-president-troph-grade-i-3rd-round)*
-- ویرا (Vieira) افریقہ کپ کوالیفائرز میں کوچنگ کی نئی لہر کی قیادت کر رہے ہیں۔ *[ARY](https://arynews.tv/vieira-leads-new-coaching-wave-in-africa-cup-qualifiers)*
+- پاکستانی اسپنر ابرار احمد آئی سی سی (ICC) کی مردوں کی ٹی ٹوئنٹی رینکنگ میں پہلے نمبر پر پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441166/abrar-ahmed-achieves-top-spot-in-icc-t20i-rankings)*
 
-### دیگر
-- پریسلے گیربر کی ری ہیب کے دوران موت کے حوالے سے گردش کرنے والی افواہوں کے بعد تحقیقات جاری ہیں۔ *[ARY](https://arynews.tv/investigation-underway-into-final-moments-of-presley-gerbers-time-in-rehab-as-rumors-swirl-about-cause-of-death)*
-- ماہرین آثار قدیمہ کو ایک قدیم یونانی اسکول دریافت ہوا ہے جہاں ارسطو نے سکندر اعظم کو تعلیم دی تھی۔ *[ARY](https://arynews.tv/archaeologists-discover-ancient-greek-school-where-aristotle-taught-alexander-the-great)*
-- اقراء یونیورسٹی کے شعبہ می میڈیا سائنس نے 'میڈیا انویلڈ 2026' کے تحت طلباء کے تخلیقی اور ڈیزائن پروجیکٹس کی نمائش کی۔ *[Business Recorder](https://www.brecorder.com/news/40440984/iqra-university-stages-media-unveiled-2026)*
+### صحت
+- طبی ماہرین نے صحت کے شعبے میں ترقی کے لیے کلینیکل ریسرچ اور ٹرائلز کے باقاعدہ فروغ پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441174/medical-experts-call-for-promoting-clinical-research)*
 
