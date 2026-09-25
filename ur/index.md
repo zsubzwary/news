@@ -7,50 +7,42 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Sep-2026 09:09PKT 
+ &lrm; 25-Sep-2026 21:10PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پنجاب حکومت نے 'گرین ٹریکٹر اسکیم' کے تحت کسانوں کے لیے **750,000 روپے** سبسڈی کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/green-tractor-scheme-punjab-announces-rs-750000-subsidy-for-farmers)*
-- پاکستان میں افرادی قوت کی ترسیلات (Remittances) مالی سال 2026 میں **41.6 ارب ڈالر** تک پہنچ گئیں، جبکہ اسٹیٹ بینک کے مطابق سال 2025 میں **612 ٹریلین روپے** کے ریٹیل ادائیگات ریکارڈ کیے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441170/experts-call-for-stronger-data-governance-in-banking-sector)*
-- بین الاقوامی مارکیٹ میں برینٹ آئل کی قیمت **0.82 فیصد** کمی کے ساتھ **105.73 ڈالر** فی بیرل اور ڈبلیو ٹی آئی (WTI) **1.65 فیصد** گر کر **93.05 ڈالر** فی بیرل پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441179/oil-prices-fall-as-markets-look-to-iran-truce-but-remain-wary-of-attacks-on-oil-facilities)*
-- سونے کی قیمت میں ہفتہ وار کمی کا رجحان ہے، جبکہ سپاٹ گولڈ **0.2 فیصد** اضافے کے ساتھ **4,288.36 ڈالر** فی اونس پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441178/gold-heads-for-weekly-loss-as-stronger-dollar-fed-rate-outlook-weighs)*
-- امریکی ڈالر میں مضبوطی کے باعث یورو **1.1370 ڈالر** اور برطانوی پاؤنڈ **1.3220 ڈالر** کی سطح پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40441180/dollar-set-for-weekly-gains-as-yields-surge-fed-bets-build)*
-- بھارتی اسٹاک مارکیٹ میں Nifty 50 انڈیکس **23,063.1** پر بند ہوا، جبکہ بھارتی روپے کے **96 روپے** فی ڈالر تک گرنے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441183/indian-shares-eye-positive-start-after-sharp-drop-but-elevated-oil-yields-weigh)* *[Business Recorder](https://www.brecorder.com/news/40441182/indian-rupee-to-navigate-us-iran-truce-possibility-surging-global-bond-yields)*
-- ایس ایم ای ڈی اے (SMEDA) نے خواتین کے کاروبار کو فروغ دینے کے لیے ویمن چیمبرز کے ساتھ مشاورت کا عمل تیز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441175/smeda-consults-women-chambers-to-boost-businesses)*
-- بجلی کے شعبے میں **2040** تک صاف توانائی کی منتقلی کے لیے اسٹیک ہولڈرز نے لاہور میں اہم اجلاس کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441177/stakeholders-deliberate-on-a-phased-transition-to-clean-electricity-by-2040)*
-- مچھلیوں کے شعبے کو جدید اور برآمدی طرز پر لانے کے لیے 'بلیو اکانومی' کے فروغ پر زور دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441172/govt-urged-to-develop-fisheries-sector-on-modern-lines)*
-
-### سائنس اور ٹیکنالوجی
-- ایپل (Apple) آئی فون 18 پرو کے ری بوٹ کے مسئلے کو آنے والے سافٹ ویئر اپ ڈیٹ کے ذریعے حل کرنے کا منصوبہ بنا رہا ہے۔ *[ARY](https://arynews.tv/apple-plans-fix-iphone-18-pro-reboot-issue-via-upcoming-software-update)*
-
-### موسم
-- نیپال میں گلیشیئر کے تباہ کن سیلاب کے نتیجے میں کم از کم **1,450 افراد** ہلاک ہو گئے، جس کی بحالی کے لیے جی ڈی پی کے **10 فیصد** کے برابر فنڈز کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441185/nepal-seeks-grants-not-loans-for-flood-recovery-after-deadly-glacier-disaster)*
+- والکش ویگن نے اپنی 40 لاکھ گاڑیوں کو واپس بلا لیا ہے جس سے کمپنی کو بڑے پیمانے پر نقصان کا سامنا ہو سکتا ہے۔ *[ARY](https://arynews.tv/volkswagen-recalls-4-million-cars-report)*
+- وال اسٹریٹ کے اہم انڈیکس میں اضافہ دیکھا گیا، جہاں مائیکروسافٹ کے شیئرز میں 3 فیصد اضافہ ہوا اور مائیکرون و مارویل ٹیکنالوجی کے شیئرز میں 1 فیصد تک اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441243/wall-st-edges-up-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields)*
+- یورپی یونین نے یوکرین کی فوجی امداد کے لیے 6.6 ارب یورو کے فنڈز جاری کرنے کا معاہدہ کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441239/eu-agrees-to-release-eur66-billion-linked-to-ukraine-military-aid)*
+- 'اسان ٹیک اسکیم' کے آغاز کے ایک ماہ کے اندر تقریباً 9,806 دکاندار ٹیکس نیٹ میں شامل ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441237/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net)*
+- پاکستان اسٹاک ایکسچینج میں درج 'ٹرسٹ سیکیورٹیز' (TSBL) نے کرپٹو بزنس میں داخل ہونے کے لیے PVARA سے لائسنس لینے کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441228/psx-listed-trust-securities-plans-to-enter-crypto-business-seeks-pvara-licences)*
+- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں معمولی اضافہ ہوا اور یہ 277.16 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441226/intra-day-update-rupee-records-gain-against-us-dollar)*
+- لندن میٹل ایکسچینج پر تانبے (Copper) کی قیمت 0.2 فیصد بڑھ کر 14,645 ڈالر فی میٹرک ٹن ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441235/copper-tiptoes-higher-on-weaker-dollar-tight-chinese-supplies)*
+- بارسلونا کلب نے اپنے نئے اسٹیڈیم میں 2,000 وی آئی پی سیٹوں کے ذریعے 700 ملین یورو کی آمدنی کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441229/barcelona-forecast-eur700m-in-sales-from-fresh-vip-seat-packages)*
+- یوکرین نے دفاعی اخراجات اور بجٹ کے خسارے کو پورا کرنے کے لیے شراکت داروں سے مزید 27 ارب ڈالر کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441225/eu-imf-understand-need-to-help-ukraine-finance-budget-gap-zelenskiy-says)*
+- سری لنکا کے اسٹاک مارکیٹ کا انڈیکس 0.14 فیصد گر کر 21,037.35 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441238/sri-lankan-shares-close-lower-end-week-little-changed)*
 
 ### سیاست
-- ایران کے صدر نے کہا ہے کہ امریکہ کو جنگ ختم کرنے یا جاری رکھنے کا فیصلہ کرنا ہوگا۔ *[ARY](https://arynews.tv/us-must-choose-whether-to-end-war-iran-president-to-fox-news)*
-- سعودی عرب، ترکیہ اور پاکستان یمن کے حوثی باغیوں کے حملوں کے خلاف ایک ہائی لیول دفاعی اجلاس منعقد کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40441184/allies-unite-behind-saudi-arabia-as-houthis-step-up-attacks)*
-- آزاد جموں و کشمیر کے **25ویں** صدر کے طور پر ڈاکٹر نجیب نقی کے انتخاب پر مریم نواز نے مبارکباد دی۔ *[Business Recorder](https://www.brecorder.com/news/40441138/maryam-felicitates-najeeb-on-becoming-ajk-president)*
-- سندھ میں اقلیتوں کے حقوق کے تحفظ کے لیے آٹھ نکاتی مطالبات پیش کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441169/minority-rights-in-sindh-eight-point-demands-presented-for-protection)*
-- فیڈرل کانسٹٹیوشنل کورٹ کے چیف جسٹس نے مقدمات کے بروقت فیصلے کے لیے اسٹاپ واچ کا استعمال شروع کر دیا ہے؛ عدالت میں اس وقت **23,409** کیسز زیر التوا ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441167/ensure-timely-disposal-of-cases-cj-fcc-installs-stopwatch-in-courtroom)*
+- پاکستان تحریک انصاف (PTI) نے اپنا لانگ مارچ 27 ستمبر کے بجائے 5 اکتوبر کو منعقد کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441236/pti-defers-long-march-to-october-5-report)*
+- عطا اللہ تارڑ نے خیبر پختونخوا حکومت سے مطالبہ کیا ہے کہ وہ دہشت گردوں کی سہولت کاری روکنے کے لیے اقدامات کرے۔ *[ARY](https://arynews.tv/attaullah-tarar-urges-kp-govt-to-stop-facilitating-terrorists)*
 
 ### قومی
-- یمن میں پھنسے **14 پاکستانی** عملے کے ارکان نے وطن واپسی کے لیے فوری سفارتی مدد کی درخواست کی ہے۔ *[ARY](https://arynews.tv/14-pakistani-crew-members-seek-urgent-diplomatic-help-for-return-from-yemen)*
-- ڈی آر اے پی (DRAP) نے چوتھے سال بھی اہم عہدوں پر عارضی تقرریوں کا سلسلہ جاری رکھا ہے۔ *[ARY](https://arynews.tv/drap-continues-temporary-appointments-on-key-posts-for-fourth-year)*
-- جدہ میں پاکستانی قونصل خانے نے آن لائن اپوائنٹمنٹ سسٹم متعارف کروا دیا ہے۔ *[ARY](https://arynews.tv/pakistan-consulate-in-jeddah-introduces-online-appointment-system)*
-- پاکستان نے افغانستان سے ہونے والی سرحد پار جارحیت کی کوشش کو ناکام بنا دیا۔ *[ARY](https://arynews.tv/pakistan-foils-cross-border-aggression-attempt-from-afghanistan)*
-- سرگودھا کے علاقے کوٹ مومن میں چھاپے کے دوران پولیس کانسٹیبل فضل احمد شہید ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441168/constable-martyred-in-sargodha)*
-- مالدیپ کے سپیکر نے راولپنڈی میں چیف آف آرمی اسٹاف سے ملاقات کی اور علاقائی سلامتی پر تبادلہ خیال کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441176/speaker-of-maldives-meets-cdf)*
-- ایف پی سی سی (FPCCI) اور پیمرا (PEMRA) نے لاہور میں ڈیجیٹل میڈیا کے مستقبل پر ایک خصوصی سیمینار کا اہتمام کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441171/fpcci-pemra-organise-seminar-on-digital-media-future)*
+- ایف بی آر (FBR) نے 'نیشنل فیس لیس سینٹر' قائم کر دیا ہے تاکہ ٹیکس دہندگان کا ٹیکس افسران کے ساتھ براہ راست رابطہ ختم کیا جا سکے۔ *[ARY](https://arynews.tv/fbr-sets-up-national-faceless-centre-no-more-direct-contact-with-tax-officers)*
+- پاکستان نے مستقبل کی عالمی وبائی بیماریوں کو روکنے کے لیے جانوروں کی صحت کے شعبے میں سرمایہ کاری کرنے پر زور دیا ہے۔ *[ARY](https://arynews.tv/pakistan-calls-for-animal-health-investment-to-prevent-future-pandemics)*
 
 ### بین الاقوامی
-- ایئربس (Airbus) نے پرتگال کو F-16 طیاروں کے متبادل کے طور پر یورو فائٹر پیش کرنے کی پیشکش کی ہے۔ *[ARY](https://arynews.tv/airbus-pitches-eurofighter-to-portugal-as-best-replacement-for-f-16-jets)*
-- اسرائیلی وزیراعظم نیتن یاہو کا نیویارک کا مختصر دورہ امریکہ کے ساتھ کشیدہ تعلقات کی عکاسی کرتا ہے۔ *[ARY](https://arynews.tv/netanyahus-fleeting-visit-to-new-york-mirrors-strained-us-ties)*
-
-### کھیل
-- پاکستانی اسپنر ابرار احمد آئی سی سی (ICC) کی مردوں کی ٹی ٹوئنٹی رینکنگ میں پہلے نمبر پر پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441166/abrar-ahmed-achieves-top-spot-in-icc-t20i-rankings)*
+- عراق کے چاروں اہم ایئرپورٹس (بغداد، نجف، اربیل اور سلیمانیہ) نے ایرانی پروازوں پر پابندی عائد کر دی ہے۔ *[ARY](https://arynews.tv/iraqi-airports-halt-iranian-flights-starting-friday)*
+- یونانی دارالحکومت ایتھنز کے سیاحتی علاقے میں دھماکے کے نتیجے میں ایک عمارت گر گئی، جس سے 5 افراد لاپتہ اور 3 زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441240/five-missing-after-explosion-fells-building-in-heart-of-touristic-athens)*
+- امریکی صدر ڈونلڈ ٹرمپ نے چینی صدر شی جن پنگ کو واضح طور پر بتایا ہے کہ ایران کی کسی بھی قسم کی مدد کرنا ناقابل قبول ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441241/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says)*
+- ایتھوپیا کے علاقے ٹگری میں شدید لڑائی کے باعث انٹرنیٹ اور فون نیٹ ورک کو معطل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441230/internet-and-phone-network-disrupted-in-ethopias-war-hit-tigray-region)*
+- برطانیہ نے ایران کو خبردار کیا ہے کہ وہ برطانیہ کی سرزمین پر ایران سے منسلک گروہوں کی کسی بھی جارحانہ سرگرمی کو برداشت نہیں کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40441224/britain-warns-iran-it-will-not-tolerate-hostile-activity-on-uk-soil)*
 
 ### صحت
-- طبی ماہرین نے صحت کے شعبے میں ترقی کے لیے کلینیکل ریسرچ اور ٹرائلز کے باقاعدہ فروغ پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441174/medical-experts-call-for-promoting-clinical-research)*
+- عالمی ادارہ صحت (WHO) نے پاکستان میں بچوں کے کینسر کے علاج کے نظام کو بہتر بنانے کے لیے تعاون بڑھانے کا عہد کیا ہے۔ *[ARY](https://arynews.tv/who-steps-up-support-for-childhood-cancer-care-in-pakistan)*
+
+### کھیل
+- مانچسٹر سٹی کو پریمیئر لیگ کے مالیاتی قوانین کی 115 میں سے 114 الزامات میں قصوروار پایا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441244/man-city-found-guilty-on-all-but-one-of-115-charges-reports-say)*
+- ٹینس کے عالمی نمبر ون کھلاڑی جانک سنر گھٹنے کی چوٹ کی وجہ سے چائنا اوپن سے دستبردار ہوگئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441233/defending-champion-sinner-withdraws-from-china-open-as-knee-injury-recovery-continues)*
+- جڈ بیلنگھم کو ان کی بہترین کارکردگی اور 2026 ورلڈ کپ میں 7 گول کرنے پر انگلینڈ کا 'پلیئر آف دی ایئر' منتخب کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441232/record-breaking-bellingham-voted-england-mens-player-of-the-year)*
 
