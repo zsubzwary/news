@@ -7,51 +7,54 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 26-Sep-2026 09:09PKT 
+ &lrm; 26-Sep-2026 21:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- تیل کی قیمتوں میں 2 فیصد کمی واقع ہوئی ہے، جس کے بعد برینٹ کروڈ 104.32 امریکی ڈالر اور ڈبلیو ٹی آئی (WTI) 92.41 امریکی ڈالر فی بیرل پر مستحکم ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441307/oil-prices-slide-2pc)*
-- پاکستان میں پٹرول کی قیمتوں میں اضافہ اور ڈیزل کی قیمتوں میں کمی کر دی گئی ہے۔ *[ARY](https://arynews.tv/pakistan-raises-petrol-price-cuts-diesel-price)*
-- سینسیٹو پرائس انڈیکس (SPI) کی بنیاد پر مہنگائی میں 0.99 فیصد اضافہ ہوا ہے، جس میں بجلی کی قیمتوں میں 18.76 فیصد، انڈوں میں 2.02 فیصد اور ایل پی جی میں 1.55 فیصد اضافہ شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly)*
-- اسٹیٹ بینک آف پاکستان نے 'پاسبان ریمٹنس ریوارڈ اسکیم' کا آغاز کیا ہے جس کے تحت سالانہ 16 ارب روپے کے نقد انعامات دیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40441315/sbp-launches-remittance-reward-scheme)*
-- پاکستان اسٹیٹ آئل (PSO) نے مالی سال 2026 میں 15.07 ارب روپے کا منافع ریکارڈ کیا ہے، جبکہ فی شیئر آمدنی (EPS) 32.1 روپے رہی۔ *[Business Recorder](https://www.brecorder.com/news/40441305/pso-posts-over-rs15bn-profit-in-fy26)*
-- پاکستان کے لسٹڈ ریفائنری سیکٹر نے مالی سال 2026 میں 54.8 ارب روپے کا مجموعی منافع کمایا، جبکہ گزشتہ سال یہ نقصان میں تھا۔ *[Business Recorder](https://www.brecorder.com/news/40441304/higher-fuel-prices-refineries-report-rs548bn-profit-in-fy26)*
-- ورلڈ بینک گروپ نے پاکستان کے لیے اگلے دس سالوں میں سالانہ 2 ارب ڈالر تک کے فنڈز فراہم کرنے کا وعدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441310/cpf-2026-35-world-bank-group-pledges-to-mobilise-up-to-usd2bn-annually-over-next-decade)*
-- ایف بی آر نے ٹیکس کے معاملات کو تیز اور شفاف بنانے کے لیے اسلام آباد میں نیشنل فیس لیس سینٹر (NFC) قائم کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441313/fbr-establishes-nfc-in-islamabad)*
-- آئی ایس پییس (ISPES) نے زونگ کے ساتھ مل کر فضلے کے انتظام کے لیے 'پیکو ڈراپ' (PecoDrop) اسٹیشنز لانچ کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441319/ispes-launches-pecodrop-with-zong)*
-- پنجاب کے گورنر نے مقامی سطح پر سولر سسٹم کی تیاری کو فروغ دینے کے لیے ایک پالیسی فریم ورک کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441318/governor-calls-for-policy-to-boost-local-solar-manufacturing)*
-- پاکستان شوگر ملز ایسوسی ایشن نے شوگر سیکٹر کے مکمل ڈی ریگولیشن کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441312/psma-calls-for-complete-sugar-sector-deregulation)*
+- پاکستان میں سونے کی قیمت میں فی تولہ 2,100 روپے کی کمی واقع ہوئی، جس کے بعد سونے کی نئی قیمت 450,936 روپے فی تولہ ہوگئی۔ جبکہ 10 گرام سونے کی قیمت میں 1,800 روپے کمی کے بعد یہ 386,604 روپے ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441342/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- ماہرین کے مطابق پاکستان میں ستمبر کے دوران مہنگائی کے 9.9 فیصد سے 10.5 فیصد تک رہنے کا امکان ہے، جو اگست کے 11.15 فیصد کے مقابلے میں کمی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441339/pakistan-september-inflation-seen-easing-but-energy-pressures-persist)*
+- سازگر انجینئرنگ ورکس لمیٹڈ جلد ہی پاکستان میں اپنی نئی گاڑی 'کینن الفا' (Cannon Alpha) प्रतिस्पर्धी قیمت پر لانچ کرنے کی منصوبہ بندی کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441349/sazgar-to-launch-cannon-alpha-in-coming-months-report)*
+- پاکستان اور پرتگال کے درمیان ٹیکسٹائل، زراعت اور خصوصی اقتصادی زونز (SEZs) میں سرمایہ کاری کے مواقع بڑھانے کے لیے مذاکرات ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40441343/pakistan-portugal-discuss-investment-opportunities-in-textiles-agri-amp-sezs)*
+- چین اور امریکہ کے درمیان 30 ارب ڈالر کی باہمی ٹیرف میں کمی اور مصنوعی ذہانت (AI) پر مذاکرات کے لیے اتفاق رائے ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441346/china-us-agree-to-30-billion-tariff-cut-ai-dialogue-during-xi-visit)*
 
 ### سائنس اور ٹیکنالوجی
-- گوگل یکم اکتوبر کو اے آئی کمپیوٹنگ ہارڈ ویئر کے لیے اسپیس ایکس (SpaceX) کی ٹیکنالوجی متعارف کروانے والا ہے۔ *[ARY](https://arynews.tv/google-to-introduce-spacex-tech-to-ai-computing-hardware-on-october-1-launch)*
-- ناسا کے پرسی ویئرنس روور نے مریخ پر قدیم گرم زیر زمین پانی کی سرگرمیوں کا پتہ لگا لیا ہے۔ *[ARY](https://arynews.tv/nasas-perseverance-rover-uncovers-ancient-hot-groundwater-activity-on-mars)*
+- ایپل (Apple) نے سلمان ڈار کو پاکستان کے لیے اپنا پہلا 'ہیڈ آف گورنمنٹ افیئرز' مقرر کیا ہے، جو ملک میں ڈیجیٹل معیشت کو مضبوط کرنے کی ایک اہم پیش رفت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441355/five-things-to-know-about-salman-dar-apples-first-head-of-govt-affairs-for-pakistan)*
+- ٹی پی ایس ورلڈ وائیڈ (TPS Worldwide) نے 'آئرس ٹکنائزیشن کنیکٹ' (IRIS Tokenization Connect) کے لیے P@SHA ICT ایوارڈز 2026 میں گولڈ ایوارڈ جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441354/tps-worldwide-wins-gold-at-p-at-sha-ict-awards-2026-for-iris-tokenization-connect)*
+
+### موسم
+- بھارت کی امیر ترین ریاست مہاراشٹر کے تین چوتھائی حصے میں خشک سالی کا اعلان کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441350/drought-declared-in-three-quarters-of-indias-richest-state)*
+- بینکاک (تھائی لینڈ) میں 48 گھنٹوں کے دوران 300 ملی میٹر (12 انچ) بارش کے بعد شہر کو ڈیزاسٹر زون قرار دے دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441341/thai-capital-bangkok-declared-disaster-zone-amid-flooding)*
 
 ### سیاست
-- پی ٹی آئی نے اسلام آباد کے لیے اپنے مجوزہ لانگ مارچ کو 27 ستمبر کے بجائے 4 اکتوبر تک ملتوی کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441306/pti-decides-to-postpone-islamabad-long-march)*
-- ایران کے صدر مسعود پزیشکیان نے کہا ہے کہ امریکہ کو جنگ ختم کرنے یا اسے جاری رکھنے کا فیصلہ خود کرنا ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40441303/us-must-choose-whether-to-end-war-iran)*
-- ترکیہ، پاکستان اور سعودی عرب کے فوجی سربراہان نے ریاض میں ملاقات کی اور اجتماعی دفاع کے عزم کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441302/military-chiefs-of-turkiye-pakistan-ksa-hold-talks)*
-- وزیراعظم شہباز شریف نے امریکی کمپنیوں کو پاکستان میں سرمایہ کاری کے مواقع استعمال کرنے کی دعوت دی۔ *[Business Recorder](https://www.brecorder.com/news/40441311/pm-invites-us-firms-to-tap-investment-potential)*
-- پنجاب حکومت نے قانون اور نظم و ضبط کی خلاف ورزی کرنے والوں کے خلاف کوئی نرمی نہ برتنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441316/no-leniency-to-be-shown-to-those-disrupting-law-order)*
+- نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار نے نئی یارک میں ایک اجلاس کے دوران القدس (الاقصی مسجد) کی صورتحال پر عالمی برادری سے اجتماعی ردعمل کا مطالبہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441348/dpm-dar-urges-collective-response-to-violations-at-al-aqsa-mosque)*
+- پاکستان نے اقوام متحدہ کی جنرل اسمبلی (UNGA) میں بھارت کو دہشت گردی کی حمایت کرنے اور اقلیتوں کے حقوق کی خلاف ورزی کرنے کا نشانہ بنایا۔ *[Business Recorder](https://www.brecorder.com/news/40441351/india-is-supporting-terrorism-violating-minority-rights-pakistan-tells-unga)*
 
 ### قومی
-- حج 2027 کے لیے پاکستانی زائرین کے طبی فٹنس سرٹیفکیٹ جمع کروانے کا عمل آن لائن کر دیا گیا ہے۔ *[ARY](https://arynews.tv/hajj-2027-medical-fitness-certificate-submission-goes-online-for-pakistani-pilgrims)*
-- کمشنر کراچی نے شہر میں کتے کے کاٹنے کے واقعات کو روکنے اور اینٹی ریبیز ویکسین کی دستیابی یقینی بنانے کے احکامات دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441317/commissioner-orders-steps-to-curb-dog-bite-incidents)*
-- پاکستان کلائمیٹ فائنانس کے حوالے سے COP31 اقدام کے لیے منتخب ہونے والے پہلے پانچ ممالک میں شامل ہے۔ *[ARY](https://arynews.tv/pakistan-among-first-five-countries-selected-for-cop31-climate-finance-implementation-initiative)*
-- یو ایس قونصل جرید کراچی نے امریکی آزادی کے 250 سال مکمل ہونے پر 'فریڈم 250' تقریب کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441260/us-consulate-general-marks-freedom-250)*
-- کوہاٹ پولیس لائنز اور ہنگو میں ہونے والے حالیہ حملوں نے دہشت گردی کے خطرے کو دوبارہ نمایاں کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441256/converging-crises)*
+- ڈیرہ اسماعیل خان کے علاقے درازیندا میں ہونے والے دھماکے میں 11 افراد جاں بحق اور 30 زخمی ہو گئے، جس کی ذمہ داری تحریک طالبان پاکستان (TTP) نے لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441353/blast-in-dera-ismail-khan-kills-11-injures-30-rescue-1122)*
+- ڈیرہ اسماعیل خان میں ایمبولینس کو نشانہ بنائے جانے کے نتیجے میں دو ریسکیو ورکرز جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/ambulance-targeted-in-di-khan-two-rescue-workers-killed)*
+- نقیب اللہ کیس میں ثبوتوں کی کمی کے باعث مزید 7 ملزمان کو بری کر دیا گیا۔ *[ARY](https://arynews.tv/naqeebullah-case-seven-more-suspects-acquitted-over-lack-of-evidence)*
+- نادرا (NADRA) نے اپنی 'پاک آئی ڈی' (Pak ID) ایپ میں نئے فیچرز متعارف کروا دیے ہیں۔ *[ARY](https://arynews.tv/nadra-introduces-new-features-in-updated-pak-id-app)*
+- شارجیل میمن کے مطابق 'پنک سکوٹی' حاصل کرنے کے لیے ڈرائیونگ لائسنس اور ٹیسٹ لازمی قرار دے دیا گیا ہے۔ *[ARY](https://arynews.tv/driving-licence-and-test-mandatory-to-receive-pink-scooties-says-sharjeel-memon)*
+- پاکستان نیوی نے بحیرہ عرب میں ایک مشترکہ آپریشن کے دوران 2,800 کلوگرام سے زائد منشیات قبضے میں لے لیں، جن کی مالیت تقریباً 750 ملین ڈالر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441340/pakistan-navy-seizes-over-2800kg-narcotics-worth-750mn-in-arabian-sea)*
 
 ### بین الاقوامی
-- ورلڈ ٹریڈ آرگنائزیشن (WTO) کی رپورٹ کے مطابق عالمی تجارتی نظام کو 80 سالوں میں سب سے زیادہ رکاوٹوں کا سامنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441255/global-trade-disruptions)*
-- ایک بھارتی وزیر نے اے آر وائی نیوز کے صحافی کے سوالات کا جواب دینے میں ناکامی دکھائی۔ *[ARY](https://arynews.tv/watch-indian-minister-fails-to-answer-questions-by-ary-news-journalist)*
+- ایران نے واضح کیا ہے کہ وہ ایٹمی پروگرام کے حوالے سے کوئی رعایت نہیں دے گا۔ *[ARY](https://arynews.tv/iran-will-make-no-nuclear-concessions-iranian-official-says)*
+- امریکی صدر ڈونلڈ ٹرمپ نے ہرمز کے مقام کو دوبارہ کھولنے اور مشرق وسطیٰ میں لڑائی ختم کرنے کی ایرانی تجویز مسترد کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441358/trump-rejects-iranian-proposal-to-open-hormuz-and-end-fighting)*
+- ایرانی صدر مسعود پزیشکیان کے مطابق ہرمز کے مقام کو کھولنے کے نئے منصوبے کو سپریم لیڈر کی حمایت حاصل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441352/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz)*
+- انڈونیشیا کے بحیرہ جاوا میں کشتی ڈوبنے سے مرنے والوں کی تعداد بڑھ کر 64 ہو گئی ہے، جبکہ 243 افراد اس حادثے کا شکار ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40441357/death-toll-from-indonesia-ferry-sinking-jumps-to-64)*
+- برازیل میں مہنگائی کے مسائل صدر لولا کی دوبارہ انتخاب کی مہم کے لیے مشکلات پیدا کر رہے ہیں۔ *[ARY](https://arynews.tv/in-brazil-frustration-over-cost-of-living-undermines-lulas-reelection-bid)*
+- وینزویلا کے صدر اپنی امریکہ کے دورے سے بغیر کسی معاہدے اور انتخاب کی تاریخ کے واپس آگئے ہیں۔ *[ARY](https://arynews.tv/venezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date)*
+- ایتھنز (یونان) میں دھماکے کے نتیجے میں ایک خاتون جاں بحق اور 5 افراد لاپتہ ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441345/one-dead-5-missing-after-explosion-destroys-building-in-athens)*
 
 ### کھیل
-- کوچ ٹوچل نے انگلینڈ ٹیم کے کیمپ سے پالمر کی غیر موجودگی کے حوالے سے وضاحت پیش کی۔ *[ARY](https://arynews.tv/tuchel-addresses-palmers-england-camp-absences)*
+- ویرات کوہلی نے اعلان کیا ہے کہ 2027 کا ورلڈ کپ ان کا بھارت کے لیے آخری ورلڈ کپ ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40441347/kohli-says-2027-world-cup-will-be-his-last-for-india)*
+- آسٹریلیا کے وکٹ کیپر بیٹسمین جوش انگلس انگلی کے فریکچر کی وجہ سے جنوبی افریقہ کے خلاف ون ڈے سیریز سے باہر ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441344/australia-dealt-injury-blow-as-inglis-returns-home-with-finger-fracture)*
 
 ### صحت
-- الزائمر کے جین کے اثرات کو ممکنہ طور پر الٹنا (reversible) ممکن ہو سکتا ہے۔ *[ARY](https://arynews.tv/effects-of-alzheimers-gene-might-be-reversible)*
+- نئی تحقیق کے مطابق GLP-1 ادویات کینسر سے بچاؤ اور مدافعتی نظام کے ردعمل پر اثر انداز ہو سکتی ہیں۔ *[ARY](https://arynews.tv/how-glp-1-medications-impact-cancer-survival-and-immune-response)*
+- امریکی ادارے نے پارکنسنز بیماری کے علاج کے لیے AbbVie کی دوا 'Tavapadon' کو منظوری دے دی ہے۔ *[ARY](https://arynews.tv/tavapadon-us-approves-abbvies-drug-for-parkinsons-disease)*
 
 ### دیگر
-- نوح ووڈز کی انکویسٹ (Inquest) میں انکشاف ہوا کہ وہ باڑ میں موجود خلا کے ذریعے کھیل کے میدان سے باہر نکل گئے تھے۔ *[ARY](https://arynews.tv/noah-woods-inquest-reveals-he-escaped-play-area-through-gap-in-fence)*
+- بٹگرام میں کیبل کار کے حادثے کے دوران ہونے والے ریسکیو آپریشن کے حوالے سے ایک دستاویزی کہانی پر بحث ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40441213/how-a-pakistani-rescue-became-a-hollywood-thriller-and-what-it-took-to-get-there)*
 
