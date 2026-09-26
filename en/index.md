@@ -4,38 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 25-Sep-2026 21:04PKT
+Published at: 26-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Wall Street's main indexes rose as **Microsoft** shares increased by **3%** following the unveiling of new **Copilot** app capabilities; chip makers **Micron** and **Marvell Technology** also gained approximately **1%** each. *[Business Recorder](https://www.brecorder.com/news/40441243/wall-st-edges-up-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields)*
-- The **CSE All-Share index** in Sri Lanka settled down **0.14%** at **21,037.35**, with **Pegasus Hotels of Ceylon PLC** and **Tess Agro PLC** recording losses of **6.7%** and **5.6%** respectively. *[Business Recorder](https://www.brecorder.com/news/40441238/sri-lankan-shares-close-lower-end-week-little-changed)*
-- Under the **Asan Tax Scheme**, **9,806** shopkeepers have registered and are currently in various stages of filing tax returns within the first month of the scheme's launch. *[Business Recorder](https://www.brecorder.com/news/40441237/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net)*
-- Benchmark three-month **copper** prices on the London Metal Exchange rose **0.2%** to **$14,645** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40441235/copper-tiptoes-higher-on-weaker-dollar-tight-chinese-supplies)*
-- **UAE stock markets** closed lower following warnings from an Iranian adviser regarding potential disruptions to regional air travel and airport services. *[Business Recorder](https://www.brecorder.com/news/40441234/uae-markets-decline-after-warning-on-regional-air-travel)*
-- **FC Barcelona** forecasts approximately **€700 million ($798 million)** in revenue from the sale of **2,000** long-term VIP seat licenses at the revamped **Camp Nou** stadium. *[Business Recorder](https://www.brecorder.com/news/40441229/barcelona-forecast-eur700m-in-sales-from-fresh-vip-seat-packages)*
-- **Trust Securities & Brokerage Limited (TSBL)** has received board approval to seek licenses from the **Pakistan Virtual Assets Regulatory Authority (PVARA)** to offer virtual asset services. *[Business Recorder](https://www.brecorder.com/news/40441228/psx-listed-trust-securities-plans-to-enter-crypto-business-seeks-pvara-licences)*
-- **NSE Chairman Srinivas Injeti** has called on Indian market regulators to reconsider allowing exchanges to list on their own platforms. *[Business Recorder](https://www.brecorder.com/news/40441227/india-should-allow-exchanges-to-list-on-own-platform-nse-chairman-says)*
-- The **Pakistani rupee** extended its gains in the interbank market, closing at **277.16** against the US dollar, a marginal increase of **Re0.01**. *[Business Recorder](https://www.brecorder.com/news/40441226/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Pakistan has implemented a change in fuel prices, raising the price of **petrol** and cutting the price of **diesel**. *[ARY](https://arynews.tv/pakistan-raises-petrol-price-cuts-diesel-price)*
+- Global oil prices fell approximately **2%**, with Brent futures settling at **USD 104.32** (down 2.1%) and West Texas Intermediate (WTI) crude settling at **USD 92.41** (down 2.3%). *[Business Recorder](https://www.brecorder.com/news/40441307/oil-prices-slide-2pc)*
+- The banking industry launched the **'Pasban Remittance Reward Scheme'**, an initiative providing **Rs16 billion** in annual cash prizes to reward remittance recipients. *[Business Recorder](https://www.brecorder.com/news/40441315/sbp-launches-remittance-reward-scheme)*
+- The Sensitive Price Index (SPI)-based inflation rose by **0.99%** for the week ending September 24, driven by an **18.76%** hike in electricity prices, a **2.02%** increase in egg prices, and a **1.55%** rise in LPG prices. *[Business Recorder](https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly)*
+- The Federal Board of Revenue (FBR) established the **National Faceless Centre (NFC)** in Islamabad to facilitate electronic, transparent, and faster tax audits and assessments. *[Business Recorder](https://www.brecorder.com/news/40441313/fbr-establishes-nfc-in-islamabad)*
+- The Pakistan Sugar Mills Association (PSMA) has demanded the complete **deregulation of the sugar sector** to allow for free-market operations. *[Business Recorder](https://www.brecorder.com/news/40441312/psma-calls-for-complete-sugar-sector-deregulation)*
+- The World Bank Group has pledged to mobilize up to **USD 2 billion annually** for Pakistan over the next decade under the **Country Partnership Framework (CPF) 2026-35**. *[Business Recorder](https://www.brecorder.com/news/40441310/cpf-2026-35-world-bank-group-pledges-to-mobilise-up-to-usd2bn-annually-over-next-decade)*
+- Pakistan State Oil (PSO) reported a profit after tax of **Rs15.07 billion** for FY26, with consolidated revenue reaching **Rs3.42 trillion**. *[Business Recorder](https://www.brecorder.com/news/40441305/pso-posts-over-rs15bn-profit-in-fy26)*
+- Pakistan’s listed refinery sector achieved a combined profit of **Rs54.8 billion** in FY26, with total revenue increasing **27%** year-on-year to **Rs1.54 trillion**. *[Business Recorder](https://www.brecorder.com/news/40441304/higher-fuel-prices-refineries-report-rs548bn-profit-in-fy26)*
+- ISP Environmental Solutions (ISPES) partnered with Zong to launch **PecoDrop**, a smart waste management system for digital tracking and recycling segregation. *[Business Recorder](https://www.brecorder.com/news/40441319/ispes-launches-pecodrop-with-zong)*
+
+### Science & Technology
+- Google is scheduled to launch new AI computing hardware incorporating **SpaceX technology** on **October 1**. *[ARY](https://arynews.tv/google-to-introduce-spacex-tech-to-ai-computing-hardware-on-october-1-launch)*
+- NASA’s **Perseverance rover** has discovered evidence of ancient hot groundwater activity on Mars. *[ARY](https://arynews.tv/nasas-perseverance-rover-uncovers-ancient-hot-groundwater-activity-on-mars)*
 
 ### Politics
-- **Pakistan Tehreek-e-Insaf (PTI)** has officially postponed its long march from September 27 to **October 5**, coinciding with the birthday of party founder **Imran Khan**. *[Business Recorder](https://www.brecorder.com/news/40441236/pti-defers-long-march-to-october-5-report)*
+- The Pakistan Tehreek-e-Insaf (PTI) has postponed its planned Islamabad 'long march' from September 27 to **October 4**. *[Business Recorder](https://www.brecorder.com/news/40441306/pti-decides-to-postpone-islamabad-long-march)*
+- Prime Minister Shehbaz Sharif has invited **US businesses** to invest in Pakistan, highlighting the country's economic reforms. *[Business Recorder](https://www.brecorder.com/news/40441311/pm-invites-us-firms-to-tap-investment-potential)*
+- Punjab Provincial Minister Bilal Yaseen stated that the government will show **no leniency** to individuals disrupting law and order. *[Business Recorder](https://www.brecorder.com/news/40441316/no-leniency-to-be-shown-to-those-disrupting-law-order)*
+
+### National
+- Military chiefs from **Pakistan, Saudi Arabia, and Türkiye** met in Riyadh to reaffirm commitment to the **Makkah Joint Defense Agreement**. *[Business Recorder](https://www.brecorder.com/news/40441302/military-chiefs-of-turkiye-pakistan-ksa-hold-talks)*
+- Pakistan has been selected as one of the first five countries for the **COP31 climate finance** implementation initiative. *[ARY](https://arynews.tv/pakistan-among-first-five-countries-selected-for-cop31-climate-finance-implementation-initiative)*
+- Punjab Governor Sardar Saleem Haider Khan called for a formal policy framework to promote **domestic solar system manufacturing**. *[Business Recorder](https://www.brecorder.com/news/40441318/governor-calls-for-policy-to-boost-local-solar-manufacturing)*
+- Commissioner Karachi Syed Hassan Naqvi has ordered intensified measures to control the **stray-dog population** and ensure availability of anti-rabies vaccines. *[Business Recorder](https://www.brecorder.com/news/40441317/commissioner-orders-steps-to-curb-dog-bite-incidents)*
+- Medical fitness certificate submissions for **Hajj 2027** Pakistani pilgrims have transitioned to an online system. *[ARY](https://arynews.tv/hajj-2027-medical-fitness-certificate-submission-goes-online-for-pakistani-pilgrims)*
+- An inquest revealed that **Noah Woods** escaped a play area through a gap in a fence. *[ARY](https://arynews.tv/noah-woods-inquest-reveals-he-escaped-play-area-through-gap-in-fence)*
+- Recent security incidents, including an assault on **Kohat Police Lines**, have heightened terrorism concerns in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40441256/converging-crises)*
 
 ### International
-- All four major Iraqi airports—**Baghdad, Najaf, Erbil, and Sulaimaniya**—have suspended flights to and from **Iran**. *[Business Recorder](https://www.brecorder.com/news/40441231/three-iraqi-airports-suspend-iranian-flights-starting-friday-sources-and-state-media-say)*
-- An explosion in the **Plaka** district of **Athens** caused a residential building to collapse, leaving **five people missing** and **three people injured**. *[Business Recorder](https://www.brecorder.com/news/40441240/five-missing-after-explosion-fells-building-in-heart-of-touristic-athens)*
-- The **European Union** has agreed to release **€6.6 billion ($7.5 billion)** from the European Peace Facility to fund military aid for **Ukraine**. *[Business Recorder](https://www.brecorder.com/news/40441239/eu-agrees-to-release-eur66-billion-linked-to-ukraine-military-aid)*
-- **Ukraine** is seeking an additional **$27 billion** in funding from international partners to meet rising defense and budget requirements. *[Business Recorder](https://www.brecorder.com/news/40441225/eu-imf-understand-need-to-help-ukraine-finance-budget-gap-zelenskiy-says)*
-- Fighting in **Ethiopia's Tigray region** has resulted in the disruption of both **internet and phone networks** following an escalation of violence. *[Business Recorder](https://www.brecorder.com/news/40441230/internet-and-phone-network-disrupted-in-ethopias-war-hit-tigray-region)*
-- **US President Donald Trump** informed Chinese President **Xi Jinping** that any form of assistance—direct or indirect—provided by China to **Iran** is unacceptable. *[Business Recorder](https://www.brecorder.com/news/40441241/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says)*
-- British Foreign Secretary **Ed Miliband** warned Iran that the United Kingdom will not tolerate any intimidation or hostile activity from **Iranian-linked groups** on UK soil. *[Business Recorder](https://www.brecorder.com/news/40441224/britain-warns-iran-it-will-not-tolerate-hostile-activity-on-uk-soil)*
+- Iranian President Masoud Pezeshkian stated at the UN that the **United States** must decide whether to end its war with Iran. *[Business Recorder](https://www.brecorder.com/news/40441303/us-must-choose-whether-to-end-war-iran)*
+- An Indian minister was unable to provide answers to questions posed by an **ARY News** journalist. *[ARY](https://arynews.tv/watch-indian-minister-fails-to-answer-questions-by-ary-news-journalist)*
+- A **WTO** report highlighted that the global trading system is facing its most serious disruptions in 80 years. *[Business Recorder](https://www.brecorder.com/news/40441255/global-trade-disruptions)*
+- The **US Consulate General in Karachi** hosted a "Freedom 250" reception to celebrate 250 years of American independence. *[Business Recorder](https://www.brecorder.com/news/40441260/us-consulate-general-marks-freedom-250)*
 
 ### Sports
-- **Manchester City** has been found guilty of all but one of the **115 alleged breaches** of the Premier League’s financial regulations. *[Business Recorder](https://www.brecorder.com/news/40441244/man-city-found-guilty-on-all-but-one-of-115-charges-reports-say)*
-- World number one **Jannik Sinner** has withdrawn from the **China Open** as he continues to recover from a knee injury. *[Business Recorder](https://www.brecorder.com/news/40441233/defending-champion-sinner-withdraws-from-china-open-as-knee-injury-recovery-continues)*
-- **Jude Bellingham** has been named **England men’s player of the year** after scoring a record **seven goals** during the **2026 World Cup**. *[Business Recorder](https://www.brecorder.com/news/40441232/record-breaking-bellingham-voted-england-mens-player-of-the-year)*
+- Coach Thomas Tuchel addressed the absence of **Cole Palmer** from the England national team camp. *[ARY](https://arynews.tv/tuchel-addresses-palmers-england-camp-absences)*
+
+### Health
+- New findings suggest that the effects caused by the **Alzheimer’s gene** may be reversible. *[ARY](https://arynews.tv/effects-of-alzheimers-gene-might-be-reversible)*
 
 ### Other
-- **Volkswagen** has issued a recall for **4 million cars**. *[ARY](https://arynews.tv/volkswagen-recalls-4-million-cars-report)*
+- During UN week, **Mamdani** was noted for participating in various activities, including subway travel and soccer. *[ARY](https://arynews.tv/mamdani-makes-waves-during-un-week-with-subway-soccer-and-spats)*
 
