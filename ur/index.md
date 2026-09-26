@@ -7,42 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 25-Sep-2026 21:10PKT 
+ &lrm; 26-Sep-2026 09:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- والکش ویگن نے اپنی 40 لاکھ گاڑیوں کو واپس بلا لیا ہے جس سے کمپنی کو بڑے پیمانے پر نقصان کا سامنا ہو سکتا ہے۔ *[ARY](https://arynews.tv/volkswagen-recalls-4-million-cars-report)*
-- وال اسٹریٹ کے اہم انڈیکس میں اضافہ دیکھا گیا، جہاں مائیکروسافٹ کے شیئرز میں 3 فیصد اضافہ ہوا اور مائیکرون و مارویل ٹیکنالوجی کے شیئرز میں 1 فیصد تک اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441243/wall-st-edges-up-as-ai-enthusiasm-eases-worries-over-higher-oil-prices-yields)*
-- یورپی یونین نے یوکرین کی فوجی امداد کے لیے 6.6 ارب یورو کے فنڈز جاری کرنے کا معاہدہ کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441239/eu-agrees-to-release-eur66-billion-linked-to-ukraine-military-aid)*
-- 'اسان ٹیک اسکیم' کے آغاز کے ایک ماہ کے اندر تقریباً 9,806 دکاندار ٹیکس نیٹ میں شامل ہو گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441237/asan-tax-scheme-brings-nearly-10000-shopkeepers-into-tax-net)*
-- پاکستان اسٹاک ایکسچینج میں درج 'ٹرسٹ سیکیورٹیز' (TSBL) نے کرپٹو بزنس میں داخل ہونے کے لیے PVARA سے لائسنس لینے کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441228/psx-listed-trust-securities-plans-to-enter-crypto-business-seeks-pvara-licences)*
-- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں معمولی اضافہ ہوا اور یہ 277.16 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441226/intra-day-update-rupee-records-gain-against-us-dollar)*
-- لندن میٹل ایکسچینج پر تانبے (Copper) کی قیمت 0.2 فیصد بڑھ کر 14,645 ڈالر فی میٹرک ٹن ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441235/copper-tiptoes-higher-on-weaker-dollar-tight-chinese-supplies)*
-- بارسلونا کلب نے اپنے نئے اسٹیڈیم میں 2,000 وی آئی پی سیٹوں کے ذریعے 700 ملین یورو کی آمدنی کا تخمینہ لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441229/barcelona-forecast-eur700m-in-sales-from-fresh-vip-seat-packages)*
-- یوکرین نے دفاعی اخراجات اور بجٹ کے خسارے کو پورا کرنے کے لیے شراکت داروں سے مزید 27 ارب ڈالر کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441225/eu-imf-understand-need-to-help-ukraine-finance-budget-gap-zelenskiy-says)*
-- سری لنکا کے اسٹاک مارکیٹ کا انڈیکس 0.14 فیصد گر کر 21,037.35 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441238/sri-lankan-shares-close-lower-end-week-little-changed)*
+- تیل کی قیمتوں میں 2 فیصد کمی واقع ہوئی ہے، جس کے بعد برینٹ کروڈ 104.32 امریکی ڈالر اور ڈبلیو ٹی آئی (WTI) 92.41 امریکی ڈالر فی بیرل پر مستحکم ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441307/oil-prices-slide-2pc)*
+- پاکستان میں پٹرول کی قیمتوں میں اضافہ اور ڈیزل کی قیمتوں میں کمی کر دی گئی ہے۔ *[ARY](https://arynews.tv/pakistan-raises-petrol-price-cuts-diesel-price)*
+- سینسیٹو پرائس انڈیکس (SPI) کی بنیاد پر مہنگائی میں 0.99 فیصد اضافہ ہوا ہے، جس میں بجلی کی قیمتوں میں 18.76 فیصد، انڈوں میں 2.02 فیصد اور ایل پی جی میں 1.55 فیصد اضافہ شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441314/spi-based-inflation-rises-slightly)*
+- اسٹیٹ بینک آف پاکستان نے 'پاسبان ریمٹنس ریوارڈ اسکیم' کا آغاز کیا ہے جس کے تحت سالانہ 16 ارب روپے کے نقد انعامات دیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40441315/sbp-launches-remittance-reward-scheme)*
+- پاکستان اسٹیٹ آئل (PSO) نے مالی سال 2026 میں 15.07 ارب روپے کا منافع ریکارڈ کیا ہے، جبکہ فی شیئر آمدنی (EPS) 32.1 روپے رہی۔ *[Business Recorder](https://www.brecorder.com/news/40441305/pso-posts-over-rs15bn-profit-in-fy26)*
+- پاکستان کے لسٹڈ ریفائنری سیکٹر نے مالی سال 2026 میں 54.8 ارب روپے کا مجموعی منافع کمایا، جبکہ گزشتہ سال یہ نقصان میں تھا۔ *[Business Recorder](https://www.brecorder.com/news/40441304/higher-fuel-prices-refineries-report-rs548bn-profit-in-fy26)*
+- ورلڈ بینک گروپ نے پاکستان کے لیے اگلے دس سالوں میں سالانہ 2 ارب ڈالر تک کے فنڈز فراہم کرنے کا وعدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441310/cpf-2026-35-world-bank-group-pledges-to-mobilise-up-to-usd2bn-annually-over-next-decade)*
+- ایف بی آر نے ٹیکس کے معاملات کو تیز اور شفاف بنانے کے لیے اسلام آباد میں نیشنل فیس لیس سینٹر (NFC) قائم کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441313/fbr-establishes-nfc-in-islamabad)*
+- آئی ایس پییس (ISPES) نے زونگ کے ساتھ مل کر فضلے کے انتظام کے لیے 'پیکو ڈراپ' (PecoDrop) اسٹیشنز لانچ کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441319/ispes-launches-pecodrop-with-zong)*
+- پنجاب کے گورنر نے مقامی سطح پر سولر سسٹم کی تیاری کو فروغ دینے کے لیے ایک پالیسی فریم ورک کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441318/governor-calls-for-policy-to-boost-local-solar-manufacturing)*
+- پاکستان شوگر ملز ایسوسی ایشن نے شوگر سیکٹر کے مکمل ڈی ریگولیشن کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441312/psma-calls-for-complete-sugar-sector-deregulation)*
+
+### سائنس اور ٹیکنالوجی
+- گوگل یکم اکتوبر کو اے آئی کمپیوٹنگ ہارڈ ویئر کے لیے اسپیس ایکس (SpaceX) کی ٹیکنالوجی متعارف کروانے والا ہے۔ *[ARY](https://arynews.tv/google-to-introduce-spacex-tech-to-ai-computing-hardware-on-october-1-launch)*
+- ناسا کے پرسی ویئرنس روور نے مریخ پر قدیم گرم زیر زمین پانی کی سرگرمیوں کا پتہ لگا لیا ہے۔ *[ARY](https://arynews.tv/nasas-perseverance-rover-uncovers-ancient-hot-groundwater-activity-on-mars)*
 
 ### سیاست
-- پاکستان تحریک انصاف (PTI) نے اپنا لانگ مارچ 27 ستمبر کے بجائے 5 اکتوبر کو منعقد کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441236/pti-defers-long-march-to-october-5-report)*
-- عطا اللہ تارڑ نے خیبر پختونخوا حکومت سے مطالبہ کیا ہے کہ وہ دہشت گردوں کی سہولت کاری روکنے کے لیے اقدامات کرے۔ *[ARY](https://arynews.tv/attaullah-tarar-urges-kp-govt-to-stop-facilitating-terrorists)*
+- پی ٹی آئی نے اسلام آباد کے لیے اپنے مجوزہ لانگ مارچ کو 27 ستمبر کے بجائے 4 اکتوبر تک ملتوی کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441306/pti-decides-to-postpone-islamabad-long-march)*
+- ایران کے صدر مسعود پزیشکیان نے کہا ہے کہ امریکہ کو جنگ ختم کرنے یا اسے جاری رکھنے کا فیصلہ خود کرنا ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40441303/us-must-choose-whether-to-end-war-iran)*
+- ترکیہ، پاکستان اور سعودی عرب کے فوجی سربراہان نے ریاض میں ملاقات کی اور اجتماعی دفاع کے عزم کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441302/military-chiefs-of-turkiye-pakistan-ksa-hold-talks)*
+- وزیراعظم شہباز شریف نے امریکی کمپنیوں کو پاکستان میں سرمایہ کاری کے مواقع استعمال کرنے کی دعوت دی۔ *[Business Recorder](https://www.brecorder.com/news/40441311/pm-invites-us-firms-to-tap-investment-potential)*
+- پنجاب حکومت نے قانون اور نظم و ضبط کی خلاف ورزی کرنے والوں کے خلاف کوئی نرمی نہ برتنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441316/no-leniency-to-be-shown-to-those-disrupting-law-order)*
 
 ### قومی
-- ایف بی آر (FBR) نے 'نیشنل فیس لیس سینٹر' قائم کر دیا ہے تاکہ ٹیکس دہندگان کا ٹیکس افسران کے ساتھ براہ راست رابطہ ختم کیا جا سکے۔ *[ARY](https://arynews.tv/fbr-sets-up-national-faceless-centre-no-more-direct-contact-with-tax-officers)*
-- پاکستان نے مستقبل کی عالمی وبائی بیماریوں کو روکنے کے لیے جانوروں کی صحت کے شعبے میں سرمایہ کاری کرنے پر زور دیا ہے۔ *[ARY](https://arynews.tv/pakistan-calls-for-animal-health-investment-to-prevent-future-pandemics)*
+- حج 2027 کے لیے پاکستانی زائرین کے طبی فٹنس سرٹیفکیٹ جمع کروانے کا عمل آن لائن کر دیا گیا ہے۔ *[ARY](https://arynews.tv/hajj-2027-medical-fitness-certificate-submission-goes-online-for-pakistani-pilgrims)*
+- کمشنر کراچی نے شہر میں کتے کے کاٹنے کے واقعات کو روکنے اور اینٹی ریبیز ویکسین کی دستیابی یقینی بنانے کے احکامات دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441317/commissioner-orders-steps-to-curb-dog-bite-incidents)*
+- پاکستان کلائمیٹ فائنانس کے حوالے سے COP31 اقدام کے لیے منتخب ہونے والے پہلے پانچ ممالک میں شامل ہے۔ *[ARY](https://arynews.tv/pakistan-among-first-five-countries-selected-for-cop31-climate-finance-implementation-initiative)*
+- یو ایس قونصل جرید کراچی نے امریکی آزادی کے 250 سال مکمل ہونے پر 'فریڈم 250' تقریب کا انعقاد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441260/us-consulate-general-marks-freedom-250)*
+- کوہاٹ پولیس لائنز اور ہنگو میں ہونے والے حالیہ حملوں نے دہشت گردی کے خطرے کو دوبارہ نمایاں کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441256/converging-crises)*
 
 ### بین الاقوامی
-- عراق کے چاروں اہم ایئرپورٹس (بغداد، نجف، اربیل اور سلیمانیہ) نے ایرانی پروازوں پر پابندی عائد کر دی ہے۔ *[ARY](https://arynews.tv/iraqi-airports-halt-iranian-flights-starting-friday)*
-- یونانی دارالحکومت ایتھنز کے سیاحتی علاقے میں دھماکے کے نتیجے میں ایک عمارت گر گئی، جس سے 5 افراد لاپتہ اور 3 زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441240/five-missing-after-explosion-fells-building-in-heart-of-touristic-athens)*
-- امریکی صدر ڈونلڈ ٹرمپ نے چینی صدر شی جن پنگ کو واضح طور پر بتایا ہے کہ ایران کی کسی بھی قسم کی مدد کرنا ناقابل قبول ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441241/trump-told-xi-that-china-helping-iran-is-unacceptable-us-ambassador-says)*
-- ایتھوپیا کے علاقے ٹگری میں شدید لڑائی کے باعث انٹرنیٹ اور فون نیٹ ورک کو معطل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441230/internet-and-phone-network-disrupted-in-ethopias-war-hit-tigray-region)*
-- برطانیہ نے ایران کو خبردار کیا ہے کہ وہ برطانیہ کی سرزمین پر ایران سے منسلک گروہوں کی کسی بھی جارحانہ سرگرمی کو برداشت نہیں کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40441224/britain-warns-iran-it-will-not-tolerate-hostile-activity-on-uk-soil)*
-
-### صحت
-- عالمی ادارہ صحت (WHO) نے پاکستان میں بچوں کے کینسر کے علاج کے نظام کو بہتر بنانے کے لیے تعاون بڑھانے کا عہد کیا ہے۔ *[ARY](https://arynews.tv/who-steps-up-support-for-childhood-cancer-care-in-pakistan)*
+- ورلڈ ٹریڈ آرگنائزیشن (WTO) کی رپورٹ کے مطابق عالمی تجارتی نظام کو 80 سالوں میں سب سے زیادہ رکاوٹوں کا سامنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441255/global-trade-disruptions)*
+- ایک بھارتی وزیر نے اے آر وائی نیوز کے صحافی کے سوالات کا جواب دینے میں ناکامی دکھائی۔ *[ARY](https://arynews.tv/watch-indian-minister-fails-to-answer-questions-by-ary-news-journalist)*
 
 ### کھیل
-- مانچسٹر سٹی کو پریمیئر لیگ کے مالیاتی قوانین کی 115 میں سے 114 الزامات میں قصوروار پایا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441244/man-city-found-guilty-on-all-but-one-of-115-charges-reports-say)*
-- ٹینس کے عالمی نمبر ون کھلاڑی جانک سنر گھٹنے کی چوٹ کی وجہ سے چائنا اوپن سے دستبردار ہوگئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441233/defending-champion-sinner-withdraws-from-china-open-as-knee-injury-recovery-continues)*
-- جڈ بیلنگھم کو ان کی بہترین کارکردگی اور 2026 ورلڈ کپ میں 7 گول کرنے پر انگلینڈ کا 'پلیئر آف دی ایئر' منتخب کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441232/record-breaking-bellingham-voted-england-mens-player-of-the-year)*
+- کوچ ٹوچل نے انگلینڈ ٹیم کے کیمپ سے پالمر کی غیر موجودگی کے حوالے سے وضاحت پیش کی۔ *[ARY](https://arynews.tv/tuchel-addresses-palmers-england-camp-absences)*
+
+### صحت
+- الزائمر کے جین کے اثرات کو ممکنہ طور پر الٹنا (reversible) ممکن ہو سکتا ہے۔ *[ARY](https://arynews.tv/effects-of-alzheimers-gene-might-be-reversible)*
+
+### دیگر
+- نوح ووڈز کی انکویسٹ (Inquest) میں انکشاف ہوا کہ وہ باڑ میں موجود خلا کے ذریعے کھیل کے میدان سے باہر نکل گئے تھے۔ *[ARY](https://arynews.tv/noah-woods-inquest-reveals-he-escaped-play-area-through-gap-in-fence)*
 
