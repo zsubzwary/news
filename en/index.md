@@ -4,53 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 26-Sep-2026 21:05PKT
+Published at: 27-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Diesel transportation via rail has commenced in Pakistan. *[ARY](https://arynews.tv/pakistan-commences-transportation-of-diesel-by-rail)*
-- **Sazgar Engineering Works Limited** is expected to launch its new **Cannon Alpha** vehicle in Pakistan at a competitive price in the coming months. *[Business Recorder](https://www.brecorder.com/news/40441349/sazgar-to-launch-cannon-alpha-in-coming-months-report)*
-- The **Special Investment Facilitation Council (SIFC)** and Portugal's ambassador discussed strengthening cooperation in **textiles, agriculture, and SEZs**. *[Business Recorder](https://www.brecorder.com/news/40441343/pakistan-portugal-discuss-investment-opportunities-in-textiles-agri-amp-sezs)*
-- Gold prices in Pakistan decreased by **Rs. 2,100 per tola**, bringing the local price to **Rs. 450,936** per tola. *[Business Recorder](https://www.brecorder.com/news/40441342/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- Pakistan's consumer price inflation is projected to ease to between **9.9% and 10.5%** in September, down from **11.15%** in August. *[Business Recorder](https://www.brecorder.com/news/40441339/pakistan-september-inflation-seen-easing-but-energy-pressures-persist)*
+- The S&P Global Flash Euro Zone Composite PMI Output Index rose to **53.1** in September from **52.0** in August, marking its highest reading since April 2023. *[Business Recorder](https://www.brecorder.com/news/40441368/euro-zone-business-activity-posts-surprise-upturn-pmi-shows)*
+- The Indian government plans to raise **7.86 trillion rupees (USD 82 billion)** through bond sales between October and March, reducing its full-year gross borrowing target to **16 trillion rupees**. *[Business Recorder](https://www.brecorder.com/news/40441370/india-lowers-fy27-gross-borrowing-to-sell-debt-worth-786-tln)*
+- The OECD raised Turkey's headline inflation forecast to **31.5%** for 2026 (up from **28.4%**) and **24.7%** for 2027 (up from **18.3%**). *[Business Recorder](https://www.brecorder.com/news/40441371/oecd-raises-turkey-inflation-forecast-trims-growth-outlook)*
+- Indonesia’s government has committed to making repayments for bank loans used to fund the national village cooperative programme. *[Business Recorder](https://www.brecorder.com/news/40441373/indonesia-govt-commits-to-cooperative-loan-repayments)*
+- The 2026 Lahore Chamber of Commerce and Industry (LCCI) elections concluded with **30 candidates** elected to the Executive Committee; Syed Azmat Ali topped the poll with **5,428 votes**. *[Business Recorder](https://www.brecorder.com/news/40441388/lcci-elections-2026-30-candidates-elected-to-executive-committee)*
+- Over **6.7 million acres** of paddy have been cultivated in Punjab during the current season. *[Business Recorder](https://www.brecorder.com/news/40441390/paddy-cultivated-over-6.7m-acres-in-punjab)*
+- Nominations have been submitted for the Hyderabad Chamber of Small Traders & Small Industry (HCSTSI) elections for the **2026–28** term. *[Business Recorder](https://www.brecorder.com/news/40441396/election-for-hcstsi-office-bearers-to-be-held-tomorrow)*
 
 ### Science & Technology
-- **Apple** has appointed **Salman Dar** as its first head of government affairs for Pakistan. *[Business Recorder](https://www.brecorder.com/news/40441355/five-things-to-know-about-salman-dar-apples-first-head-of-govt-affairs-for-pakistan)*
-- **TPS Worldwide** won a Gold award at the **P@SHA ICT Awards 2026** for its **IRIS Tokenization Connect** project. *[Business Recorder](https://www.brecorder.com/news/40441354/tps-worldwide-wins-gold-at-p-at-sha-ict-awards-2026-for-iris-tokenization-connect)*
+- Bill Gates warned that the advancement of artificial intelligence could potentially lead to **one billion deaths**. *[ARY](https://arynews.tv/bill-gates-warns-artificial-intelligence-could-lead-to-a-billion-deaths)*
+- Microsoft unveiled new Copilot capabilities, including an AI coding tool and direct integration with Word, Excel, and PowerPoint; company shares rose approximately **3%**. *[Business Recorder](https://www.brecorder.com/news/40441367/microsoft-revamps-copilot-with-code-generation)*
 
 ### Weather
-- A drought has been declared in **three-quarters of Maharashtra**, India, due to prolonged low rainfall. *[Business Recorder](https://www.brecorder.com/news/40441350/drought-declared-in-three-quarters-of-indias-richest-state)*
-- **Bangkok** has been declared a disaster-affected zone after torrential rains dropped nearly **300 mm (12 inches)** within 48 hours. *[Business Recorder](https://www.brecorder.com/news/40441341/thai-capital-bangkok-declared-disaster-zone-amid-flooding)*
+- New York and New Jersey have declared states of emergency in anticipation of flooding and power outages caused by a **nor'easter**. *[ARY](https://arynews.tv/new-york-and-new-jersey-declare-states-of-emergency-bracing-for-flooding-and-outages-from-noreasterc)*
 
 ### Politics
-- Deputy Prime Minister **Mohammad Ishaq Dar** called for a collective response to violations at the **Al-Aqsa Mosque** during a ministerial meeting in New York. *[Business Recorder](https://www.brecorder.com/news/40441348/dpm-dar-urges-collective-response-to-violations-at-al-aqsa-mosque)*
+- Interior Minister Mohsin Naqvi criticized proposed KP police legislation that requires the provincial assembly Speaker's permission before arresting a legislator. *[Business Recorder](https://www.brecorder.com/news/40441397/naqvi-criticizes-kps-proposed-police-legislation)*
+- The Election Commission of Pakistan (ECP) established an Election Monitoring and Control Centre (EMCC) for the **NA-168** by-election in Bahawalpur. *[Business Recorder](https://www.brecorder.com/news/40441398/ecp-establishes-emcc-for-na-168-by-election)*
+- KP Chief Minister Sohail Afridi stated that preparations for the **October 4** PTI march are complete, with the ability to mobilize within **24 hours**. *[Business Recorder](https://www.brecorder.com/news/40441399/oct-4-pti-march-afridi-warns-govt-against-any-misadventure)*
+- Jamaat-i-Islami (JI) has set up **25 protest camps** across Karachi to campaign against the petroleum levy and K-Electric load shedding. *[Business Recorder](https://www.brecorder.com/news/40441400/ji-sets-up-25-camps-across-karachi-to-step-up-its-protest-drive)*
 
 ### National
-- Two rescue workers were killed when an ambulance was targeted in **DI Khan**. *[ARY](https://arynews.tv/ambulance-targeted-in-di-khan-two-rescue-workers-killed)*
-- **NADRA** has introduced new features in its updated **Pak ID app**. *[ARY](https://arynews.tv/nadra-introduces-new-features-in-updated-pak-id-app)*
-- Seven additional suspects have been acquitted in the **Naqeebullah case** due to a lack of evidence. *[ARY](https://arynews.tv/naqeebullah-case-seven-more-suspects-acquitted-over-lack-of-evidence)*
-- **Sharjeel Memon** stated that a driving license and test are mandatory for those to receive **‘Pink Scooties’**. *[ARY](https://arynews.tv/driving-licence-and-test-mandatory-to-receive-pink-scooties-says-sharjeel-memon)*
-- A blast in the **Darazinda area of DI Khan** killed **11 people** and injured **30**, with the **TTP** claiming responsibility. *[Business Recorder](https://www.brecorder.com/news/40441353/blast-in-dera-ismail-khan-kills-11-injures-30-rescue-1122)*
-- The **Pakistan Navy** (ships HUNAIN and YARMOOK) seized over **2,800kg of narcotics** worth approximately **$750 million** in the Arabian Sea. *[Business Recorder](https://www.brecorder.com/news/40441340/pakistan-navy-seizes-over-2800kg-narcotics-worth-750mn-in-arabian-sea)*
-- A feature story highlighted the **2023 Battagram cable car rescue**, where eight people were stranded 900 feet above a ravine for 14 hours. *[Business Recorder](https://www.brecorder.com/news/40441213/how-a-pakistani-rescue-became-a-hollywood-thriller-and-what-it-took-to-get-there)*
+- The Islamabad police reported over **45 crimes** in the federal capital last week, including **24 auto thefts**. *[Business Recorder](https://www.brecorder.com/news/40441393/over-45-crimes-reported-in-federal-capital-criminal-gangs-continue-their-looting-spree-despite-tight-security)*
+- Pakistan’s gender parity score rose to **59.5%** in 2026, though the country remains third-last in the World Economic Forum’s Global Gender Gap Report. *[Business Recorder](https://www.brecorder.com/news/40441364/closing-the-gap-from-the-bottom)*
+- Punjab Chief Minister Maryam Nawaz Sharif approved new healthcare projects, including the Maryam Nawaz Medical College in Mianwali and a **268-bed** cardiology institute in Gujranwala. *[Business Recorder](https://www.brecorder.com/news/40441391/cm-orders-timely-completion-of-healthcare-projects)*
+- Pakistan Railways has begun transporting diesel to PSO depots, including a freight train carrying **750,000 litres** from Rawalpindi to the Peshawar Division. *[Business Recorder](https://www.brecorder.com/news/40441392/railways-commences-transportation-of-diesel-to-pso-depots)*
+- The Pakistan Navy seized more than **2,800 kg** of narcotics in the Arabian Sea via the ships *PNS Hunain* and *PNS Yarmook*. *[Business Recorder](https://www.brecorder.com/news/40441395/zardari-praises-pn-for-huge-seizure-of-narcotics)*
+- The Lahore High Court was moved by Punjab Assembly opposition members to challenge the imposition of **Section 144** across the province. *[Business Recorder](https://www.brecorder.com/news/40441389/lhc-moved-against-section-144)*
+- The Islamabad High Court (IHC) has barred the offloading of passengers without legal grounds. *[ARY](https://arynews.tv/ihc-bars-offloading-of-passengers-without-legal-grounds)*
+- Prime Minister Shehbaz Sharif announced ongoing government efforts to strengthen tourism infrastructure and promote Pakistan globally. *[Business Recorder](https://www.brecorder.com/news/40441394/pm-says-pursuing-measures-to-promote-tourism)*
 
 ### International
-- Iranian officials stated the country will make **no nuclear concessions**. *[ARY](https://arynews.tv/iran-will-make-no-nuclear-concessions-iranian-official-says)*
-- Frustration over the cost of living in **Brazil** is undermining **Lula’s reelection bid**. *[ARY](https://arynews.tv/in-brazil-frustration-over-cost-of-living-undermines-lulas-reelection-bid)*
-- **Venezuela's president** returned from a US visit without securing any deals or establishing a firm election date. *[ARY](https://arynews.tv/venezuela-president-returns-from-us-visit-with-no-deals-no-firm-election-date)*
-- US President **Donald Trump** rejected an Iranian proposal to reopen the **Strait of Hormuz** and end regional fighting. *[Business Recorder](https://www.brecorder.com/news/40441358/trump-rejects-iranian-proposal-to-open-hormuz-and-end-fighting)*
-- The death toll from a ferry sinking in Indonesia's **Java Sea** has risen to **64**, with **71 people** still missing. *[Business Recorder](https://www.brecorder.com/news/40441357/death-toll-from-indonesia-ferry-sinking-jumps-to-64)*
-- Pakistan informed the **UNGA** that India is supporting terrorism and violating minority rights. *[Business Recorder](https://www.brecorder.com/news/40441351/india-is-supporting-terrorism-violating-minority-rights-pakistan-tells-unga)*
-- Iranian President **Masoud Pezeshkian** announced that the Supreme Leader backs a new plan to reopen the **Strait of Hormuz**. *[Business Recorder](https://www.brecorder.com/news/40441352/iran-president-says-supreme-leader-backs-new-plan-to-reopen-hormuz)*
-- **China and the US** have agreed to a **$30 billion reciprocal tariff-reduction** arrangement and to launch an AI dialogue. *[Business Recorder](https://www.brecorder.com/news/40441346/china-us-agree-to-30-billion-tariff-cut-ai-dialogue-during-xi-visit)*
-- One woman has died and five people are missing following an explosion and building collapse in **Athens, Greece**. *[Business Recorder](https://www.brecorder.com/news/40441345/one-dead-5-missing-after-explosion-destroys-building-in-athens)*
+- Russia has accused Europe of obstructing peace talks regarding the conflict in Ukraine. *[ARY](https://arynews.tv/russia-accuses-europe-of-blocking-ukraine-talks-as-strikes-drag-on)*
+- Students at Delhi University marched to demand improved women's safety following a recent assault in a park. *[ARY](https://arynews.tv/delhi-university-students-march-for-womens-safety-after-park-assault)*
 
 ### Sports
-- **Virat Kohli** stated that the **2027 World Cup** will be his final tournament for India. *[Business Recorder](https://www.brecorder.com/news/40441347/kohli-says-2027-world-cup-will-be-his-last-for-india)*
-- Australian wicketkeeper **Josh Inglis** has been ruled out of the final two ODIs against South Africa due to a **right index finger fracture**. *[Business Recorder](https://www.brecorder.com/news/40441344/australia-dealt-injury-blow-as-inglis-returns-home-with-finger-fracture)*
+- Footballer Kylian Mbappe has been diagnosed with **knee hyperextension**. *[ARY](https://arynews.tv/mbappe-diagnosed-with-knee-hyperextension)*
+- Faiq Bolkiah, recognized as the world's richest footballer, has officially become a free agent. *[ARY](https://arynews.tv/worlds-richest-footballer-faiq-bolkiah-becomes-a-free-agent)*
+- Ireland's national football players have voted to proceed with their Nations League match against Israel. *[ARY](https://arynews.tv/ireland-players-vote-to-play-israel-in-nations-league)*
 
-### Health
-- Research examines how **GLP-1 medications** impact cancer survival and immune response. *[ARY](https://arynews.tv/how-glp-1-medications-impact-cancer-survival-and-immune-response)*
-- The US has approved **AbbVie’s drug, Tavapadon**, for the treatment of Parkinson’s disease. *[ARY](https://arynews.tv/tavapadon-us-approves-abbvies-drug-for-parkinsons-disease)*
+### Other
+- UN Secretary-General Antonio Guterres has criticized "Big Oil" for its impact on the atmosphere, comparing it to an "open sewer." *[Business Recorder](https://www.brecorder.com/news/40441363/drill-now-drown-later)*
+- Former cricketer Vinod Kambli shared video footage from an elderly care facility. *[ARY](https://arynews.tv/vinod-kambli-shares-video-from-elderly-care-facility)*
 
