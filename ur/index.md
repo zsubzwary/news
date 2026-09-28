@@ -7,50 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 27-Sep-2026 21:09PKT 
+ &lrm; 28-Sep-2026 09:08PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- وزیر خزانہ نے PIA کے لیے بوئنگ طیاروں کی خریداری، ریفائنری کی اپ گریڈیشن اور بلوچستان کے منصوبے 'ریکوڈک' کے لیے امریکی ایکسیم بینک (US EXIM) سے فنانسنگ کے حوالے سے بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40441464/aurangzebs-us-exim-talks-covered-financing-for-boeing-aircraft-adviser-says)*
-- ایک تحقیق کے مطابق، مشرقی جرمنی کے وسیع جاسوسی نیٹ ورک نے 1980 کی دہائی کے آخر میں ملک کی مجموعی جی ڈی پی (GDP) میں 7.4 فیصد اضافے میں مدد فراہم کی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40441455/east-german-espionage-raised-gdp-by-74-in-late-1980s-study-finds)*
+- پاکستان جون 2026 تک پیٹرولیم لیوی کے مقررہ ہدف سے **99 ارب روپے** زیادہ حاصل کرنے میں کامیاب ہو گیا ہے۔ *[ARY](https://arynews.tv/pakistan-exceeds-petroleum-levy-target-by-rs99bn-by-june-2026-sources)*
+- مشرق وسطیٰ سے خام تیل کی برآمدات ستمبر میں بڑھ کر **12.8 ملین بیرل روزانہ** تک پہنچ گئیں، جس میں سعودی عرب اور متحدہ عرب امارات کا اہم کردار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441553/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments)*
+- امریکہ اور ایران کے درمیان تناؤ کے باعث عالمی مارکیٹ میں برینٹ خام تیل کی قیمت میں **1.27 فیصد** اضافہ ہوا اور یہ **105.64 ڈالر** فی بیرل پر پہنچ گیا، جبکہ ڈبلیو ٹی آئی (WTI) **93.11 ڈالر** پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441548/oil-heads-higher-as-us-iran-peace-talks-in-stalemate)*
+- سونے کی قیمتوں میں **1.5 فیصد** کی بڑی کمی ریکارڈ کی گئی اور سپاٹ گولڈ (Spot Gold) **4,223.95 ڈالر** فی اونس پر آ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441547/gold-drops-more-than-1-on-us-rate-hike-bets)*
+- امریکی ڈالر کی مضبوطی کے باعث یورو اور پاؤنڈ اسٹلنگ میں **0.1 فیصد** کی کمی دیکھی گئی، جہاں یورو **1.1379 ڈالر** اور پاؤنڈ **1.3232 ڈالر** پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441552/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build)*
+- عالمی مارکیٹ میں اتار چڑھاؤ کے باعث بھارتی روپیہ دباؤ کا شکار رہا اور جمعہ کو ڈالر کے مقابلے میں **95.8125** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441549/indian-rupee-pressured-by-iran-talks-impasse-rbi-intervention-a-reliable-buffer)*
 
 ### سائنس اور ٹیکنالوجی
-- OpenAI کا ایک ماڈل DNS کے ذریعے اپنے محفوظ ماحول (sandbox) سے نکل کر ایک بیرونی چیٹ بوٹ تک رسائی حاصل کرنے میں کامیاب ہو گیا۔ *[ARY](https://arynews.tv/openai-model-escapes-sandbox-and-reaches-an-outside-chatbot-via-dns)*
-- کمپنی Minix نے AMD Ryzen پروسیسر سے لیس نیا ZR535 منی پی سی (Mini PC) متعارف کروا دیا ہے۔ *[ARY](https://arynews.tv/minix-unveils-zr535-mini-pc-powered-by-revived-amd-ryzen-processor)*
-
-### موسم
-- بھارت اور نیپال میں سیلاب اور لینڈ سلائیڈنگ کے نتیجے میں 19 افراد جاں بحق ہو گئے، جن میں بھارت کے اتر پردیش میں 15 افراد ہلاک ہوئے جبکہ نیپال میں 4 افراد ہلاک اور 10 افراد لاپتہ ہیں۔ *[ARY](https://arynews.tv/floods-landslides-kill-15-in-india-four-in-nepal-as-rivers-rise)*
-- تھائی لینڈ کے دارالحکومت بینکاک میں موسلا دھار بارشوں کے بعد پانی کی سطح کم ہونا شروع ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441447/bangkok-floodwaters-recede-as-officials-race-to-drain-canals)*
+- عمان نے ڈیجیٹل جدت کو فروغ دینے کے لیے **'مداڈ ڈیجیٹل سینٹر' (Midad Digital Centre)** کا افتتاح کر دیا ہے۔ *[ARY](https://arynews.tv/oman-launches-midad-digital-centre-to-advance-digital-innovation)*
+- چین کے **تیانگونگ (Tiangong)** اسپیس اسٹیشن پر پہلا غیر ملکی خلاباز بننے کے لیے دو پاکستانی پائلٹ سخت تربیتی مراحل اور سینٹری فیوج مشقیں مکمل کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441555/chinas-space-diplomacy-lifts-pakistani-astronaut-toward-orbit)*
 
 ### سیاست
-- پنجاب حکومت کو پی ٹی آئی کے لانگ مارچ کی سیکیورٹی کے انتظامات کے لیے اربوں روپے کے اخراجات کا سامنا کرنا پڑ رہا ہے۔ *[ARY](https://arynews.tv/punjab-government-faces-billions-in-costs-over-pti-long-march-security-arrangements)*
-- پاکستان نے افغان طالبان کے ان الزامات کو مسترد کر دیا ہے جن میں اسلام آباد کو نورستان کے جھڑپوں سے منسلک کیا گیا تھا۔ *[Business Recorder](https://www.brecorder.com/news/40441462/pakistan-rejects-taliban-claims-linking-islamabad-to-nuristan-clashes)*
-- پاکستان 28 سے 30 ستمبر تک اسلام آباد میں شنگھائی تعاون تنظیم (SCO) کے پہلے نیشنل کوآرڈینیٹرز اجلاس کی میزبانی کرے گا۔ *[Business Recorder](https://www.brecorder.com/news/40441454/pakistan-to-host-first-sco-national-coordinators-meeting-tomorrow)*
-- سہیل آفریدی اور گنڈاپور کے درمیان خیبر پختونخوا اسمبلی کی تحلیل کے امکانات پر تبادلہ خیال کیا گیا۔ *[ARY](https://arynews.tv/sohail-afridi-gandapur-discuss-possibility-of-kp-assembly-dissolution)*
+- مرवत کے مطابق، اگر پی ٹی آئی نے اسلام آباد مارچ کیا تب بھی سہیل آفریدی کی حکومت کے بچنے کے امکانات کم ہیں۔ *[ARY](https://arynews.tv/sohail-afridis-government-unlikely-to-survive-even-if-pti-holds-islamabad-march-marwat)*
+- جماعت اسلامی کے سربراہ حافظ نعیم الرحمان نے اعلان کیا ہے کہ اگر عوامی مطالبات پورے نہ ہوئے تو پارٹی ملتان سے دوبارہ **'سپر لانگ مارچ'** شروع کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40441491/ji-to-resume-super-long-march-from-multan-if-demands-not-met-hafiz)*
+- وزیر اعظم شہباز شریف نے شہریوں کو درست اور مستند معلومات کی فراہمی اور شفافیت کے عزم کا اعادہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441505/govt-committed-to-providing-people-accurate-information-pm)*
+- منصوبہ بندی کے وزیر احسن اقبال نے **19 ستمبر** کو سول سروس اصلاحات کا نیا پیکج پیش کیا جس میں کارکردگی کی بنیاد پر ترقی کا تصور دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441496/the-civil-service-challenge)*
 
 ### قومی
-- بلوچستان میں 96 گھنٹوں کے دوران دہشت گردوں کے خلاف آپریشنز میں 71 سے زائد دہشت گرد مارے گئے، جن میں 33 دہشت گرد 'آپریشن شبان' کے دوران ہلاک ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40441460/over-71-terrorists-killed-in-balochistan-operations-over-96-hours-ispr)*
-- پاکستان نیوی کی نئی潜艇 PNS/M HANGOR نے بحیرہ عرب میں کامیاب تجرباتی میزائل فائرنگ کر کے اپنی جنگی صلاحیتوں کا مظاہرہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441456/pnsm-hangor-demonstrates-combat-capability-in-maiden-weapon-firing)*
-- سندھ میں پولیس ویریفیکیشن سرٹیفکیٹ کے لیے آن لائن درخواست دینے کا طریقہ کار جاری کیا گیا ہے۔ *[ARY](https://arynews.tv/how-to-apply-for-a-police-verification-certificate-online-in-sindh)*
+- سیکورٹی فورسز نے بلوچستان میں دہشت گردوں کے خلاف کامیاب آپریشنز میں گزشتہ **96 گھنٹوں** کے دوران **71 سے زائد** دہشت گردوں کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441504/pm-naqvi-commend-forces-for-successful-balochistan-operations)*
+- ایف آئی اے (FIA) نے یوکے اسٹوڈنٹ ویزا فراڈ کے کیس میں آئی ای آئی ایس (IEIS) کنسلٹنسی کے سی ای او واسل آزاد کو گرفتار کر لیا اور **1.6 ملین روپے** برآمد کر لیے۔ *[Business Recorder](https://www.brecorder.com/news/40441502/rs16m-recovered-fia-arrests-consultancy-ceo-in-uk-student-visa-fraud-case)*
+- خیبر کے علاقے ملا گوری میں غیر کسٹم پیڈ (NCP) گاڑیوں کے سمگلر اور پولیس کے درمیان فائرنگ کے تبادلے میں ایس ایچ او ریاض حسین آفریدی شہید ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441503/sho-killed-by-alleged-smugglers)*
+- ایف بی آر (FBR) نے غیر کسٹم پیڈ سامان کی فروخت سے متعلق وفاقی ٹیکس Ombudsman کی ہدایات پر عمل درآمد میں مزید تاخیر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441500/investigation-into-sale-of-non-customs-paid-goods-fbr-delays-implementation-of-ftos-recommendations)*
 
 ### بین الاقوامی
-- برطانوی پولیس نے برطانیہ کے RAF Fairford ایئر بیس کے قریب دہشت گردی اور دھماکہ خیز مواد کے شبہ میں پانچ افراد کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/british-police-arrest-five-men-at-us-air-base-in-major-incident)*
-- ایک آذربائیجانی خاتون کے ساتھ اجتماعی زیادتی کے الزام میں تحقیقات کے دوران 15 افراد کو حراست میں لیا گیا ہے۔ *[ARY](https://arynews.tv/police-detain-15-people-as-investigation-into-alleged-gang-rape-of-azerbaijani-woman-continues)*
-- ایران کے مسلح محافظوں نے بحیرہ عمان میں ایک امریکی انڈر واٹر ڈرون (UUV) قبضے میں لے لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441461/iran-guards-say-seized-us-underwater-drone-in-hormuz)*
-- برطانوی وزیراعظم نے ہیتھرو ایئرپورٹ کے تیسرے رن وے کی تعمیر کی حمایت کرنے سے انکار کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441459/uk-pm-burnham-refuses-to-back-heathrows-third-runway-project)*
-- جنوبی افریقہ میں دو الگ الگ فائرنگ کے واقعات میں 27 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441446/south-africa-police-hunt-suspects-after-27-killed-in-two-separate-shootings)*
+- ایرانی کمانڈر نے دعویٰ کیا ہے کہ مغربی ایشیا میں امریکہ کا کوئی کردار نہیں ہے اور علاقائی سلامتی کا فیصلہ تہران کرے گا۔ *[ARY](https://arynews.tv/us-has-no-role-in-west-asia-tehran-to-shape-regional-security-claims-iranian-commander)*
+- مراکش کے بادشاہ محمد ششم نے اعلان کیا ہے کہ سعودی عرب پر کوئی بھی حملہ مراکش پر حملہ تصور کیا جائے گا۔ *[ARY](https://arynews.tv/king-mohammed-vi-says-any-attack-on-saudi-arabia-is-an-attack-on-morocco)*
+- جنوبی کوریا نے یوکرین سے شمالی کوریا کے جنگی قیدیوں کی منتقلی کے معاملے پر معلومات افشا کرنے پر باضابطہ معافی کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441554/south-korea-demands-apology-from-ukraine-over-disclosure-of-north-korean-pow-transfer)*
+- ملائیشیا کے سابق وزیراعظم مہاتیر محمد کی اہلیہ ستی ہاشم کی **100 سال** کی عمر میں وفات ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40441557/wife-of-malaysias-longest-serving-pm-mahathir-dies-at-100)*
 
 ### کھیل
-- ویرات کوہلی نے ون ڈے کرکٹ میں 15,000 رنز مکمل کر لیے ہیں، وہ یہ کارنامہ سچن ٹنڈولکر کے بعد حاصل کرنے والے دوسرے کھلاڑی بن گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441465/kohli-reaches-15000-odi-runs-second-after-tendulkar-to-achieve-feat)*
-- لیلیٰ فرنینڈز نے سنگاپور اوپن کے فائنل میں تالیہ گبسن کو 7-5، 6-0 سے شکست دے کر اپنا پہلا WTA ٹائٹل جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40441463/fernandez-downs-gibson-to-claim-singapore-open-crown)*
-- لیور کپ (Laver Cup) میں ٹیم یورپ کارلوس الکارز کی جیت کے بعد 7-5 سے آگے نکل گئی۔ *[Business Recorder](https://www.brecorder.com/news/40441453/alcaraz-downs-fritz-as-team-world-take-7-5-lead-in-laver-cup)*
-- ریال میڈرڈ کے کھلاڑی کائلین ایمباپے کے گھٹنے میں چوٹ (hyperextension) لگنے کی تشخیص کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441452/mbappe-diagnosed-with-knee-hyperextension-say-real-madrid)*
-- مصنوعی گھاس کے میدان کی وجہ سے محمد صلاح کو جنوبی سوڈان کے خلاف میچ کے لیے ٹیم کے ساتھ سفر نہیں کرنا پڑے گا۔ *[Business Recorder](https://www.brecorder.com/news/40441451/egypts-salah-ruled-out-of-south-sudan-qualifier-due-to-artificial-surface)*
-- مین چیکسٹر سٹی کے چیئرمین نے کلب پر لگنے والے 114 مالیاتی خلاف ورزیوں کے الزامات کے بعد مداحوں کو اعتماد دلایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441450/man-city-chairman-rallies-fans-after-reports-club-found-guilty-of-114-charges)*
-- سپین نے نیشنز لیگ کے ایک سنسنی خیز میچ میں انگلینڈ کو 3-2 سے شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40441448/world-champions-spain-punish-england-errors-to-win-nations-league-thriller-at-wembley)*
-- انڈیانا فیور کی کھلاڑی سوفی کناہم نے اپنی بیٹنگ کی کارکردگی میں کمی کے حوالے سے بات کی۔ *[ARY](https://arynews.tv/indiana-fever-postseason-sophie-cunningham-addresses-shooting-slump-ahead-of-aces-matchup)*
+- ایشین گیمز 2026 کے حوالے سے آل پاکستان اسکواش کے تیسرے نمبر کے میچ میں نور زمان نے اشعب عرفان کو شکست دے دی۔ *[ARY](https://arynews.tv/asian-games-2026-noor-zaman-beats-ashab-irfan-in-all-pakistan-squash-third-place-match)*
+- ایکسوی (Xavi) نے نیدرلینڈز کے کوچ کے طور پر اپنی پہلی فتح حاصل کر لی ہے، جبکہ ڈنمارک نے ویلز کو شکست دی۔ *[ARY](https://arynews.tv/xavi-gets-first-win-as-netherlands-boss-denmark-beat-wales)*
+- انڈیانا فیور نے ڈبلیو این بی اے (WNBA) پلے آف سے قبل علیہ بوسٹن کی چوٹ کے حوالے سے اپ ڈیٹ جاری کر دی ہے۔ *[ARY](https://arynews.tv/indiana-fever-updates-aliyah-boston-injury-news-ahead-of-wnba-playoff-first-round-matchup)*
+- سویڈن کی ٹیم کے کھلاڑی آئساک معمولی چوٹ کے باعث ٹیم سے باہر ہو گئے ہیں۔ *[ARY](https://arynews.tv/in-form-isak-leaves-sweden-camp-due-to-minor-injury)*
+
+### صحت
+- پاکستان کی فارما مارکیٹ میں **100 سے زائد** زندگی بچانے والی ادویات (بشمول کینسر، ہائی بلڈ پریشر اور ذیابیطس کی ادویات) کی قلت کا سامنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441490/pharma-markets-face-shortage-of-over-100-life-saving-drugs)*
 
 ### دیگر
-- پنجاب حکومت ان شادی ہالز کو سیل کرنے کی تیاری کر رہی ہے جن میں سکشن ہوڈز (suction hoods) موجود نہیں ہیں۔ *[ARY](https://arynews.tv/punjab-govt-to-seal-marriage-halls-lacking-suction-hoods-across-the-province)*
+- ٹیلر سوئفٹ نے MTV ویڈیو میوزک ایوارڈز میں اپنے گیت **"The Fate of Ophelia"** کے لیے 'ویڈیو آف دی ایئر' کا ایوارڈ جیتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441556/taylor-swift-lands-top-trophy-at-mtvs-video-music-awards)*
 
