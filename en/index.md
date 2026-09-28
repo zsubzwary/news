@@ -4,51 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 28-Sep-2026 09:03PKT
+Published at: 28-Sep-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan exceeded its petroleum levy target by **Rs. 99 billion** as of June 2026. *[ARY](https://arynews.tv/pakistan-exceeds-petroleum-levy-target-by-rs99bn-by-june-2026-sources)*
-- Middle East crude oil exports rebounded to **12.8 million barrels per day** in September, the highest level since the US-Israeli war with Iran began in February. *[Business Recorder](https://www.brecorder.com/news/40441553/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments)*
-- Brent crude futures rose **1.27% to $105.64** a barrel, while US West Texas Intermediate (WTI) increased by **0.76% to $93.11** due to stalled US-Iran peace talks. *[Business Recorder](https://www.brecorder.com/news/40441548/oil-heads-higher-as-us-iran-peace-talks-in-stalemate)*
-- Spot gold prices fell **1.5% to $4,223.95** per ounce, driven by rising oil prices and expectations of further Federal Reserve interest rate hikes. *[Business Recorder](https://www.brecorder.com/news/40441547/gold-drops-more-than-1-on-us-rate-hike-bets)*
-- The US dollar strengthened near a **two-month high**, while the Euro and Sterling both weakened by **0.1%** to **$1.1379** and **$1.3232**, respectively. *[Business Recorder](https://www.brecorder.com/news/40441552/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build)*
-- Indian shares faced a subdued open following the longest weekly losing streak since 2020, pressured by rising oil prices and the US-Iran stalemate. *[Business Recorder](https://www.brecorder.com/news/40441550/indian-shares-on-track-for-tepid-open-as-us-iran-stalemate-lifts-oil-prices)*
-- The Indian rupee faces pressure after settling at **95.8125** to the dollar, with traders monitoring the **96-per-dollar** psychological level. *[Business Recorder](https://www.brecorder.com/news/40441549/indian-rupee-pressured-by-iran-talks-impasse-rbi-intervention-a-reliable-buffer)*
+- Petrol and diesel prices are expected to decrease starting today. *[ARY](https://arynews.tv/petrol-diesel-prices-likely-to-decrease-today)*
+- The Pakistan Single Window (PSW) successfully integrated with Hong Kong's blockchain-based ValidAP digital document verification platform on September 25, 2026. *[Business Recorder](https://www.brecorder.com/news/40441613/pakistan-becomes-first-country-to-join-hong-kongs-validap-trade-verification-platform)*
+- Pakistan is positioning its National Digital Master plan as a primary driver of growth across multiple sectors. *[ARY](https://arynews.tv/pakistan-positions-national-digital-master-plan-as-a-driver-of-growth-across-sectors)*
+- The Trading Corporation of Pakistan (TCP) received wheat tender offers for 185,000 metric tons, with the lowest bid recorded at $339.36 per metric ton (c&f) from Bunge. *[Business Recorder](https://www.brecorder.com/news/40441618/pakistan-gets-offers-in-185000-metric-ton-wheat-tender-traders-say)*
+- Sri Lankan shares closed down 0.44% at 20,943.79, with Industrial Asphalts (Ceylon) PLC and Tess Agro PLC losing 14.3% and 11.1% respectively. *[Business Recorder](https://www.brecorder.com/news/40441628/sri-lankan-shares-fall-as-utilities-real-estate-stocks-weigh)*
+- Malaysian palm oil (December delivery) fell 0.19% to 4,663 ringgit ($1,142.05) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40441620/palm-oil-falls-for-a-second-session-on-weak-rival-oils)*
+- India's industrial output grew by 8% in August, surpassing the expected 6.5% growth rate. *[Business Recorder](https://www.brecorder.com/news/40441619/indias-aug-industrial-output-jumps-8-as-manufacturing-output-surges)*
+- China and the US have agreed to implement tariff cuts on $60 billion worth of goods, including agricultural products and household items. *[Business Recorder](https://www.brecorder.com/news/40441617/china-us-agree-tariff-cuts-on-60bn-of-goods-including-agriculture-household-items)*
+- Indian firms are preparing approximately $3 billion (290 billion rupees) in debt issuances ahead of the RBI's October 7 monetary policy decision. *[Business Recorder](https://www.brecorder.com/news/40441612/indian-firms-ready-3-billion-of-debt-issues-with-eye-on-potential-rbi-rate-hike)*
+- The Indian rupee fell 0.2% to 95.9825 per USD as Brent crude prices rose nearly 4% to $108.2 per barrel. *[Business Recorder](https://www.brecorder.com/news/40441610/oil-woes-push-indian-rupee-to-over-one-week-low-rbi-caps-fall-near-96usd)*
+- FPCCI President Atif Ikram Sheikh has requested the FBR extend the income tax return deadline to October 31, 2026. *[Business Recorder](https://www.brecorder.com/news/40441611/fpcci-seeks-one-month-extension-to-the-income-tax-return-deadline)*
+- Most Gulf equity markets declined, with Saudi Arabia's benchmark index dropping 1% following US President Trump's dismissal of an Iranian proposal. *[Business Recorder](https://www.brecorder.com/news/40441624/most-gulf-bourses-retreat-after-trump-dismisses-iranian-overture)*
 
 ### Science & Technology
-- Oman has launched the **Midad Digital Centre** to advance digital innovation within the country. *[ARY](https://arynews.tv/oman-launches-midad-digital-centre-to-advance-digital-innovation)*
-- Two Pakistani pilots are currently undergoing training, including **centrifuge drills** and **Mandarin language** studies, to potentially become the first foreign astronauts on China's **Tiangong space station**. *[Business Recorder](https://www.brecorder.com/news/40441555/chinas-space-diplomacy-lifts-pakistani-astronaut-toward-orbit)*
+- SpaceX successfully launched and placed its Starship megarocket into orbit for the first time. *[ARY](https://arynews.tv/spacex-puts-starship-megarocket-in-orbit-for-first-time)*
+- MongoDB shares dropped 14% in premarket trading after CEO Chirantan “CJ” Desai stepped down to join Meta as chief enterprise platform officer. *[Business Recorder](https://www.brecorder.com/news/40441622/mongodb-ceo-desai-steps-down-to-lead-metas-enterprise-platform)*
+- Austrian researchers are testing passive cooling cubes as a potential alternative to traditional air conditioning. *[ARY](https://arynews.tv/austrian-researchers-test-passive-cooling-cubes-as-an-alternative-to-ac)*
 
 ### Politics
-- Jamaat-e-Islami (JI) chief Hafiz Naeem-ur-Rehman threatened to resume a **"super long march"** from Multan if government demands regarding the petroleum levy, IPP agreements, and inflation are not met. *[Business Recorder](https://www.brecorder.com/news/40441491/ji-to-resume-super-long-march-from-multan-if-demands-not-met-hafiz)*
-- Political analyst Marwat stated that Sohail Afridi’s government is unlikely to survive even if the PTI holds an Islamabad march. *[ARY](https://arynews.tv/sohail-afridis-government-unlikely-to-survive-even-if-pti-holds-islamabad-march-marwat)*
-- Planning Minister Ahsan Iqbal unveiled a civil service reform package on **September 19**, proposing specialized professional cadres and performance-linked rewards. *[Business Recorder](https://www.brecorder.com/news/40441496/the-civil-service-challenge)*
-- Prime Minister Shehbaz Sharif reaffirmed the government's commitment to transparency and the right to information during the **International Day for Universal Access to Information**. *[Business Recorder](https://www.brecorder.com/news/40441505/govt-committed-to-providing-people-accurate-information-pm)*
+- Federal Minister Attaullah Tarar alleged that the PTI-led KP government has failed to take practical steps against terrorism. *[Business Recorder](https://www.brecorder.com/news/40441621/tarar-says-pti-led-kp-govt-has-failed-to-act-against-terrorism)*
+- Azam Nazeer Tarar stated that Captain Safdar should remain distanced from bar-related matters. *[ARY](https://arynews.tv/captain-safdar-should-stay-away-from-bar-matters-says-azam-nazeer-tarar)*
 
 ### National
-- Security forces eliminated more than **71 terrorists** over a **96-hour** period during successful operations in various parts of Balochistan. *[Business Recorder](https://www.brecorder.com/news/40441504/pm-naqvi-commend-forces-for-successful-balochistan-operations)*
-- The FIA Islamabad Zone arrested Wasil Azad, CEO of IEIS Consultants, in a UK student visa fraud case, recovering **Rs. 1.6 million**. *[Business Recorder](https://www.brecorder.com/news/40441502/rs16m-recovered-fia-arrests-consultancy-ceo-in-uk-student-visa-fraud-case)*
-- A Station House Officer (SHO) in Mulagori, Khyber, was killed during an exchange of fire with alleged smugglers of non-customs paid (NCP) vehicles. *[Business Recorder](https://www.brecorder.com/news/40441503/sho-killed-by-alleged-smugglers)*
-- The FBR has delayed implementing Federal Tax Ombudsman (FTO) recommendations regarding a nationwide investigation into a racket selling non-customs paid goods. *[Business Recorder](https://www.brecorder.com/news/40441500/investigation-into-sale-of-non-customs-paid-goods-fbr-delays-implementation-of-ftos-recommendations)*
+- The US Afghanistan War Commission, led by Shamila N. Chaudhary and Dr. Colin F. Jackson, met with Field Marshal Syed Asim Munir at GHQ to acknowledge Pakistan's sacrifices in the conflict. *[Business Recorder](https://www.brecorder.com/news/40441631/us-afghan-war-commission-acknowledges-pakistans-role-sacrifices-in-conflict)*
+- The Federal Public Service Commission (FPSC) has postponed tests for several Board of Investment posts. *[ARY](https://arynews.tv/fpsc-postpones-tests-for-board-of-investment-posts)*
+- A viral video surfaced showing a car dragging a motorcycle on Murree Road while the rider clung to the vehicle's bonnet. *[ARY](https://arynews.tv/viral-video-shows-car-dragging-motorcycle-as-rider-clings-to-bonnet-on-murree-road)*
 
 ### International
-- An Iranian commander claimed that Tehran will shape regional security, asserting that the US has no role in West Asia. *[ARY](https://arynews.tv/us-has-no-role-in-west-asia-tehran-to-shape-regional-security-claims-iranian-commander)*
-- King Mohammed VI of Morocco stated that any attack on Saudi Arabia would be considered an attack on Morocco. *[ARY](https://arynews.tv/king-mohammed-vi-says-any-attack-on-saudi-arabia-is-an-attack-on-morocco)*
-- South Korea's presidential office demanded an apology from Ukraine following the disclosure of the transfer of two North Korean prisoners of war. *[Business Recorder](https://www.brecorder.com/news/40441554/south-korea-demands-apology-from-ukraine-over-disclosure-of-north-korean-pow-transfer)*
-- Siti Hasmah Mohamad Ali, wife of Malaysia's longest-serving Prime Minister Mahathir Mohamad, died at the age of **100**. *[Business Recorder](https://www.brecorder.com/news/40441557/wife-of-malaysias-longest-serving-pm-mahathir-dies-at-100)*
+- Indian Trade Minister Piyush Goyal is scheduled to visit the US from September 29 to October 5 to finalize an interim trade deal. *[Business Recorder](https://www.brecorder.com/news/40441630/india-trade-minister-to-visit-us-for-deal-talks-new-delhi-says)*
+- Qatari mediators are facilitating separate talks in New York between US officials and Iranian Foreign Minister Abbas Araqchi. *[Business Recorder](https://www.brecorder.com/news/40441627/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says)*
+- Israeli strikes in Gaza killed at least two people, including a woman in Gaza City and another in the Nuseirat refugee camp. *[Business Recorder](https://www.brecorder.com/news/40441626/israeli-strikes-kill-at-least-two-people-in-gaza-officials-say)*
+- Red Bull has filed a lawsuit against India's food regulator for banning the "energy drink" descriptor without prior warning. *[Business Recorder](https://www.brecorder.com/news/40441623/red-bull-sues-indian-regulator-over-energy-drink-label-ban)*
 
 ### Sports
-- Noor Zaman defeated Ashab Irfan in the All-Pakistan Squash third-place match during the **Asian Games 2026**. *[ARY](https://arynews.tv/asian-games-2026-noor-zaman-beats-ashab-irfan-in-all-pakistan-squash-third-place-match)*
-- Xavi secured his first win as the Netherlands boss, while Denmark defeated Wales. *[ARY](https://arynews.tv/xavi-gets-first-win-as-netherlands-boss-denmark-beat-wales)*
-- Sweden's Isak has left the national team camp due to a minor injury. *[ARY](https://arynews.tv/in-form-isak-leaves-sweden-camp-due-to-minor-injury)*
-- Indiana Fever players Sophie Cunningham and Caitlin Clark are noted as key factors for their upcoming matchup against the Aces. *[ARY](https://arynews.tv/sophie-cunningham-and-caitlin-clark-indianas-x-factor-for-aces-showdown)*
-- The Indiana Fever provided injury updates for Aliyah Boston ahead of the WNBA playoff first round. *[ARY](https://arynews.tv/indiana-fever-updates-aliyah-boston-injury-news-ahead-of-wnba-playoff-first-round-matchup)*
+- Pakistan’s Arshad Nadeem finished fourth in the Asian Games javelin final with a throw of 80.29 meters. *[Business Recorder](https://www.brecorder.com/news/40441625/arshad-nadeem-fails-to-clinch-medal-in-asian-games-javelin-final)*
+- Former Manchester City manager Mancini stated that recent club charges are "not my concern." *[ARY](https://arynews.tv/ex-boss-mancini-says-city-charges-not-my-concern)*
+- Controversy has emerged regarding whether Olivia Miles referred to Caitlin Clark and Sophie Cunningham as "freaks." *[ARY](https://arynews.tv/did-olivia-miles-call-caitlin-clark-and-sophie-cunningham-freaks)*
 
 ### Health
-- Over **100 life-saving medicines** for conditions including cancer, hypertension, and diabetes are currently unavailable in Pakistan due to rising manufacturing costs. *[Business Recorder](https://www.brecorder.com/news/40441490/pharma-markets-face-shortage-of-over-100-life-saving-drugs)*
-
-### Other
-- Taylor Swift won **Video of the Year** at the MTV Video Music Awards for her single "The Fate of Ophelia" from her 2025 album *The Life of a Showgirl*. *[Business Recorder](https://www.brecorder.com/news/40441556/taylor-swift-lands-top-trophy-at-mtvs-video-music-awards)*
+- Scientists have developed a new gel capable of regenerating and repairing damaged tooth enamel. *[ARY](https://arynews.tv/scientists-create-new-gel-to-regenerate-and-repair-damaged-tooth-enamel)*
 
