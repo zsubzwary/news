@@ -7,49 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 28-Sep-2026 09:08PKT 
+ &lrm; 28-Sep-2026 21:08PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان جون 2026 تک پیٹرولیم لیوی کے مقررہ ہدف سے **99 ارب روپے** زیادہ حاصل کرنے میں کامیاب ہو گیا ہے۔ *[ARY](https://arynews.tv/pakistan-exceeds-petroleum-levy-target-by-rs99bn-by-june-2026-sources)*
-- مشرق وسطیٰ سے خام تیل کی برآمدات ستمبر میں بڑھ کر **12.8 ملین بیرل روزانہ** تک پہنچ گئیں، جس میں سعودی عرب اور متحدہ عرب امارات کا اہم کردار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441553/mideast-oil-exports-rebound-in-september-as-saudi-arabia-boosts-shipments)*
-- امریکہ اور ایران کے درمیان تناؤ کے باعث عالمی مارکیٹ میں برینٹ خام تیل کی قیمت میں **1.27 فیصد** اضافہ ہوا اور یہ **105.64 ڈالر** فی بیرل پر پہنچ گیا، جبکہ ڈبلیو ٹی آئی (WTI) **93.11 ڈالر** پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441548/oil-heads-higher-as-us-iran-peace-talks-in-stalemate)*
-- سونے کی قیمتوں میں **1.5 فیصد** کی بڑی کمی ریکارڈ کی گئی اور سپاٹ گولڈ (Spot Gold) **4,223.95 ڈالر** فی اونس پر آ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441547/gold-drops-more-than-1-on-us-rate-hike-bets)*
-- امریکی ڈالر کی مضبوطی کے باعث یورو اور پاؤنڈ اسٹلنگ میں **0.1 فیصد** کی کمی دیکھی گئی، جہاں یورو **1.1379 ڈالر** اور پاؤنڈ **1.3232 ڈالر** پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40441552/dollar-firms-as-us-iran-tensions-lift-oil-hawkish-fed-bets-build)*
-- عالمی مارکیٹ میں اتار چڑھاؤ کے باعث بھارتی روپیہ دباؤ کا شکار رہا اور جمعہ کو ڈالر کے مقابلے میں **95.8125** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441549/indian-rupee-pressured-by-iran-talks-impasse-rbi-intervention-a-reliable-buffer)*
+- پاکستان میں پیٹرول اور ڈیزل کی قیمتوں میں آج کمی کا امکان ظاہر کیا گیا ہے۔ *[ARY](https://arynews.tv/petrol-diesel-prices-likely-to-decrease-today)*
+- پاکستان کے ڈیجیٹل ماسٹر پلان کو تمام شعبوں میں ترقی کے ایک اہم محرک کے طور پر پیش کیا گیا ہے۔ *[ARY](https://arynews.tv/pakistan-positions-national-digital-master-plan-as-a-driver-of-growth-across-sectors)*
+- پاکستان کی جانب سے 185,000 میٹرک ٹن گندم کی درآمد کے لیے جاری ٹینڈر میں سب سے کم قیمت 339.36 ڈالر فی میٹرک ٹن (C&F) پیش کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40441618/pakistan-gets-offers-in-185000-metric-ton-wheat-tender-traders-say)*
+- پاکستان سنگل ونڈو (PSW) کا ہانگ کانگ کے بلاک چین پر مبنی 'ValidAP' ڈیجیٹل دستاویز تصدیقی پلیٹ فارم کے ساتھ انٹیگریشن مکمل ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441613/pakistan-becomes-first-country-to-join-hong-kongs-validap-trade-verification-platform)*
+- ایف پی سی سی (FPCCI) کے صدر عاطف اکرام شیخ نے انکم ٹیکس گوشوارے جمع کرانے کی آخری تاریخ ایک ماہ بڑھا کر 31 اکتوبر 2026 کرنے کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441611/fpcci-seeks-one-month-extension-to-the-income-tax-return-deadline)*
+- سری لنکا کے اسٹاک مارکیٹ کے انڈیکس میں 0.44 فیصد کمی دیکھی گئی اور یہ 20,943.79 پر بند ہوا، جس میں انڈسٹریل اسفالٹس (سیلون) میں 14.3 فیصد اور ٹیس ایگرو میں 11.1 فیصد کی بڑی گراوٹ ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40441628/sri-lankan-shares-fall-as-utilities-real-estate-stocks-weigh)*
+- خلیجی ممالک کی اسٹاک مارکیٹس میں گراوٹ دیکھی گئی، جہاں سعودی عرب کا انڈیکس 1 فیصد گر گیا اور سعودی نیشنل بینک کے حصص میں 1.7 فیصد کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40441624/most-gulf-bourses-retreat-after-trump-dismisses-iranian-overture)*
+- ملائیشیا میں پام آئل کی قیمت 0.19 فیصد کم ہو کر 4,663 رنگٹ ($1,142.05) فی میٹرک ٹن پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441620/palm-oil-falls-for-a-second-session-on-weak-rival-oils)*
+- بھارت کی اگست کی صنعتی پیداوار میں 8 فیصد کا اضافہ ریکارڈ کیا گیا، جو کہ ماہرین کی 6.5 فیصد کی توقع سے کہیں زیادہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441619/indias-aug-industrial-output-jumps-8-as-manufacturing-output-surges)*
+- بھارتی کمپنیاں ممکنہ ریٹ ہائیک سے قبل 3 ارب ڈالر کے قرض کے اجراء (debt issues) کی تیاری کر رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441612/indian-firms-ready-3-billion-of-debt-issues-with-eye-on-potential-rbi-rate-hike)*
+- بھارتی روپے میں 0.2 فیصد کمی آئی اور یہ 95.9825 فی ڈالر پر آگیا، جبکہ برینٹ کروڈ 4 فیصد بڑھ کر 108.2 ڈالر فی بیرل پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441610/oil-woes-push-indian-rupee-to-over-one-week-low-rbi-caps-fall-near-96usd)*
+- چین اور امریکہ کے درمیان 60 ارب ڈالر مال (بشمول زراعت اور گھریلو اشیاء) پر لگائے گئے ٹیرف میں کمی پر اتفاق ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441617/china-us-agree-tariff-cuts-on-60bn-of-goods-including-agriculture-household-items)*
+- ڈیٹا بیس سافٹ ویئر فرم مونگو ڈی بی (MongoDB) کے سی ای او ڈییشی کے استعفیٰ کے بعد کمپنی کے شیئرز میں 14 فیصد کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40441622/mongodb-ceo-desai-steps-down-to-lead-metas-enterprise-platform)*
+- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں مستحکم ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441616/pakistan-rupee-gains-against-us-dollar)*
 
 ### سائنس اور ٹیکنالوجی
-- عمان نے ڈیجیٹل جدت کو فروغ دینے کے لیے **'مداڈ ڈیجیٹل سینٹر' (Midad Digital Centre)** کا افتتاح کر دیا ہے۔ *[ARY](https://arynews.tv/oman-launches-midad-digital-centre-to-advance-digital-innovation)*
-- چین کے **تیانگونگ (Tiangong)** اسپیس اسٹیشن پر پہلا غیر ملکی خلاباز بننے کے لیے دو پاکستانی پائلٹ سخت تربیتی مراحل اور سینٹری فیوج مشقیں مکمل کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441555/chinas-space-diplomacy-lifts-pakistani-astronaut-toward-orbit)*
+- اسپیس ایکس (SpaceX) نے پہلی بار اپنے اسٹار شپ (Starship) میگا راکٹ کو کامیابی سے مدار میں بھیجا۔ *[ARY](https://arynews.tv/spacex-puts-starship-megarocket-in-orbit-for-first-time)*
+- سائنسدانوں نے دانتوں کی قیمتی تہہ (enamel) کی مرمت اور اسے دوبارہ پیدا کرنے کے لیے ایک نیا جیل تیار کر لیا ہے۔ *[ARY](https://arynews.tv/scientists-create-new-gel-to-regenerate-and-repair-damaged-tooth-enamel)*
+- آسٹریا کے محققین نے اے سی کے متبادل کے طور پر 'پیسیو کولنگ کیوبز' (passive cooling cubes) کا کامیاب تجربہ کیا۔ *[ARY](https://arynews.tv/austrian-researchers-test-passive-cooling-cubes-as-an-alternative-to-ac)*
 
 ### سیاست
-- مرवत کے مطابق، اگر پی ٹی آئی نے اسلام آباد مارچ کیا تب بھی سہیل آفریدی کی حکومت کے بچنے کے امکانات کم ہیں۔ *[ARY](https://arynews.tv/sohail-afridis-government-unlikely-to-survive-even-if-pti-holds-islamabad-march-marwat)*
-- جماعت اسلامی کے سربراہ حافظ نعیم الرحمان نے اعلان کیا ہے کہ اگر عوامی مطالبات پورے نہ ہوئے تو پارٹی ملتان سے دوبارہ **'سپر لانگ مارچ'** شروع کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40441491/ji-to-resume-super-long-march-from-multan-if-demands-not-met-hafiz)*
-- وزیر اعظم شہباز شریف نے شہریوں کو درست اور مستند معلومات کی فراہمی اور شفافیت کے عزم کا اعادہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441505/govt-committed-to-providing-people-accurate-information-pm)*
-- منصوبہ بندی کے وزیر احسن اقبال نے **19 ستمبر** کو سول سروس اصلاحات کا نیا پیکج پیش کیا جس میں کارکردگی کی بنیاد پر ترقی کا تصور دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441496/the-civil-service-challenge)*
+- وفاقی وزیر اطلاعات عطا اللہ تارڑ نے خیبر پختونخوا کی پی ٹی آئی حکومت پر دہشت گردی کے خلاف کارروائی نہ کرنے اور سیاسی مفادات کے لیے دہشت گردی کو سہولت فراہم کرنے کا الزام لگایا۔ *[Business Recorder](https://www.brecorder.com/news/40441621/tarar-says-pti-led-kp-govt-has-failed-to-act-against-terrorism)*
+- اعظم نذیر تارڑ نے کہا ہے کہ کپتان صفدر کو بار (Bar) کے معاملات سے دور رہنا چاہیے۔ *[ARY](https://arynews.tv/captain-safdar-should-stay-away-from-bar-matters-says-azam-nazeer-tarar)*
 
 ### قومی
-- سیکورٹی فورسز نے بلوچستان میں دہشت گردوں کے خلاف کامیاب آپریشنز میں گزشتہ **96 گھنٹوں** کے دوران **71 سے زائد** دہشت گردوں کو ہلاک کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441504/pm-naqvi-commend-forces-for-successful-balochistan-operations)*
-- ایف آئی اے (FIA) نے یوکے اسٹوڈنٹ ویزا فراڈ کے کیس میں آئی ای آئی ایس (IEIS) کنسلٹنسی کے سی ای او واسل آزاد کو گرفتار کر لیا اور **1.6 ملین روپے** برآمد کر لیے۔ *[Business Recorder](https://www.brecorder.com/news/40441502/rs16m-recovered-fia-arrests-consultancy-ceo-in-uk-student-visa-fraud-case)*
-- خیبر کے علاقے ملا گوری میں غیر کسٹم پیڈ (NCP) گاڑیوں کے سمگلر اور پولیس کے درمیان فائرنگ کے تبادلے میں ایس ایچ او ریاض حسین آفریدی شہید ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441503/sho-killed-by-alleged-smugglers)*
-- ایف بی آر (FBR) نے غیر کسٹم پیڈ سامان کی فروخت سے متعلق وفاقی ٹیکس Ombudsman کی ہدایات پر عمل درآمد میں مزید تاخیر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441500/investigation-into-sale-of-non-customs-paid-goods-fbr-delays-implementation-of-ftos-recommendations)*
+- ایف پی ایس سی (FPSC) نے بورڈ آف انویسٹمنٹ کی اسامیوں کے لیے امتحانی ٹیسٹ ملتوی کر دیے ہیں۔ *[ARY](https://arynews.tv/fpsc-postpones-tests-for-board-of-investment-posts)*
+- مرری روڈ پر ایک کار کے ساتھ موٹر سائیکل گھسیٹنے کی ویڈیو وائرل ہوئی جس میں سوار کار کے بونٹ سے چمٹا ہوا تھا۔ *[ARY](https://arynews.tv/viral-video-shows-car-dragging-motorcycle-as-rider-clings-to-bonnet-on-murree-road)*
 
 ### بین الاقوامی
-- ایرانی کمانڈر نے دعویٰ کیا ہے کہ مغربی ایشیا میں امریکہ کا کوئی کردار نہیں ہے اور علاقائی سلامتی کا فیصلہ تہران کرے گا۔ *[ARY](https://arynews.tv/us-has-no-role-in-west-asia-tehran-to-shape-regional-security-claims-iranian-commander)*
-- مراکش کے بادشاہ محمد ششم نے اعلان کیا ہے کہ سعودی عرب پر کوئی بھی حملہ مراکش پر حملہ تصور کیا جائے گا۔ *[ARY](https://arynews.tv/king-mohammed-vi-says-any-attack-on-saudi-arabia-is-an-attack-on-morocco)*
-- جنوبی کوریا نے یوکرین سے شمالی کوریا کے جنگی قیدیوں کی منتقلی کے معاملے پر معلومات افشا کرنے پر باضابطہ معافی کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441554/south-korea-demands-apology-from-ukraine-over-disclosure-of-north-korean-pow-transfer)*
-- ملائیشیا کے سابق وزیراعظم مہاتیر محمد کی اہلیہ ستی ہاشم کی **100 سال** کی عمر میں وفات ہو گئی۔ *[Business Recorder](https://www.brecorder.com/news/40441557/wife-of-malaysias-longest-serving-pm-mahathir-dies-at-100)*
+- امریکی افغان وار کمیشن نے افغانستان میں تنازع کے دوران پاکستان کے کردار اور قربانیوں کا اعتراف کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441631/us-afghan-war-commission-acknowledges-pakistans-role-sacrifices-in-conflict)*
+- بھارتی وزیر تجارت پیوش گوجل 29 ستمبر سے 5 اکتوبر تک امریکہ کا دورہ کریں گے تاکہ تجارتی معاہدے کو حتمی شکل دی جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40441630/india-trade-minister-to-visit-us-for-deal-talks-new-delhi-says)*
+- قطر کے ثالثوں کے ذریعے پیر یا منگل کو امریکہ اور ایران کے درمیان جنگ ختم کرنے کے لیے مذاکرات متوقع ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441627/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says)*
+- غزہ پر اسرائیلی حملوں کے نتیجے میں کم از کم دو فلسطینی شہید اور متعدد زخمی ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40441626/israeli-strikes-kill-at-least-two-people-in-gaza-officials-say)*
+- ریڈ بل نے 'انرجی ڈرنک' کے لیبل پر پابندی کے خلاف بھارتی ریگولیٹر کے خلاف مقدمہ دائر کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441623/red-bull-sues-indian-regulator-over-energy-drink-label-ban)*
+- بھارت میں روسی تیل کی سپلائی میں کمی اور چین کی جانب سے بڑھتی ہوئی طلب کی وجہ سے درآمدی تیل مہنگا ہونے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441615/russian-oil-supply-to-india-tightens-on-reduced-exports-strong-chinese-demand)*
 
 ### کھیل
-- ایشین گیمز 2026 کے حوالے سے آل پاکستان اسکواش کے تیسرے نمبر کے میچ میں نور زمان نے اشعب عرفان کو شکست دے دی۔ *[ARY](https://arynews.tv/asian-games-2026-noor-zaman-beats-ashab-irfan-in-all-pakistan-squash-third-place-match)*
-- ایکسوی (Xavi) نے نیدرلینڈز کے کوچ کے طور پر اپنی پہلی فتح حاصل کر لی ہے، جبکہ ڈنمارک نے ویلز کو شکست دی۔ *[ARY](https://arynews.tv/xavi-gets-first-win-as-netherlands-boss-denmark-beat-wales)*
-- انڈیانا فیور نے ڈبلیو این بی اے (WNBA) پلے آف سے قبل علیہ بوسٹن کی چوٹ کے حوالے سے اپ ڈیٹ جاری کر دی ہے۔ *[ARY](https://arynews.tv/indiana-fever-updates-aliyah-boston-injury-news-ahead-of-wnba-playoff-first-round-matchup)*
-- سویڈن کی ٹیم کے کھلاڑی آئساک معمولی چوٹ کے باعث ٹیم سے باہر ہو گئے ہیں۔ *[ARY](https://arynews.tv/in-form-isak-leaves-sweden-camp-due-to-minor-injury)*
-
-### صحت
-- پاکستان کی فارما مارکیٹ میں **100 سے زائد** زندگی بچانے والی ادویات (بشمول کینسر، ہائی بلڈ پریشر اور ذیابیطس کی ادویات) کی قلت کا سامنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441490/pharma-markets-face-shortage-of-over-100-life-saving-drugs)*
-
-### دیگر
-- ٹیلر سوئفٹ نے MTV ویڈیو میوزک ایوارڈز میں اپنے گیت **"The Fate of Ophelia"** کے لیے 'ویڈیو آف دی ایئر' کا ایوارڈ جیتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441556/taylor-swift-lands-top-trophy-at-mtvs-video-music-awards)*
+- ارشد ندیم ایشین گیمز کے نیزہ بازی کے فائنل میں 80.29 میٹر کے تھرو کے ساتھ چوتھے نمبر پر رہے، جبکہ سری لنکا کے رمیش پتیراج نے 88.55 میٹر کے ساتھ گولڈ میڈل جیتا۔ *[Business Recorder](https://www.brecorder.com/news/40441625/arshad-nadeem-fails-to-clinch-medal-in-asian-games-javelin-final)*
+- سابق کوچ مینکاٹی نے مانچسٹر سٹی پر عائد فنڈنگ الزامات کو اپنا مسئلہ قرار دینے سے انکار کر دیا۔ *[ARY](https://arynews.tv/ex-boss-mancini-says-city-charges-not-my-concern)*
+- اولیویا مائلز کے حوالے سے کیٹلن کلارک اور سوفی کھرننگ کے بارے میں متنازع بیانات کی خبر وائرل ہوئی۔ *[ARY](https://arynews.tv/did-olivia-miles-call-caitlin-clark-and-sophie-cunningham-freaks)*
 
