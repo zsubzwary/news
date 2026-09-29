@@ -4,49 +4,45 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 28-Sep-2026 21:03PKT
+Published at: 29-Sep-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petrol and diesel prices are expected to decrease starting today. *[ARY](https://arynews.tv/petrol-diesel-prices-likely-to-decrease-today)*
-- The Pakistan Single Window (PSW) successfully integrated with Hong Kong's blockchain-based ValidAP digital document verification platform on September 25, 2026. *[Business Recorder](https://www.brecorder.com/news/40441613/pakistan-becomes-first-country-to-join-hong-kongs-validap-trade-verification-platform)*
-- Pakistan is positioning its National Digital Master plan as a primary driver of growth across multiple sectors. *[ARY](https://arynews.tv/pakistan-positions-national-digital-master-plan-as-a-driver-of-growth-across-sectors)*
-- The Trading Corporation of Pakistan (TCP) received wheat tender offers for 185,000 metric tons, with the lowest bid recorded at $339.36 per metric ton (c&f) from Bunge. *[Business Recorder](https://www.brecorder.com/news/40441618/pakistan-gets-offers-in-185000-metric-ton-wheat-tender-traders-say)*
-- Sri Lankan shares closed down 0.44% at 20,943.79, with Industrial Asphalts (Ceylon) PLC and Tess Agro PLC losing 14.3% and 11.1% respectively. *[Business Recorder](https://www.brecorder.com/news/40441628/sri-lankan-shares-fall-as-utilities-real-estate-stocks-weigh)*
-- Malaysian palm oil (December delivery) fell 0.19% to 4,663 ringgit ($1,142.05) per metric ton. *[Business Recorder](https://www.brecorder.com/news/40441620/palm-oil-falls-for-a-second-session-on-weak-rival-oils)*
-- India's industrial output grew by 8% in August, surpassing the expected 6.5% growth rate. *[Business Recorder](https://www.brecorder.com/news/40441619/indias-aug-industrial-output-jumps-8-as-manufacturing-output-surges)*
-- China and the US have agreed to implement tariff cuts on $60 billion worth of goods, including agricultural products and household items. *[Business Recorder](https://www.brecorder.com/news/40441617/china-us-agree-tariff-cuts-on-60bn-of-goods-including-agriculture-household-items)*
-- Indian firms are preparing approximately $3 billion (290 billion rupees) in debt issuances ahead of the RBI's October 7 monetary policy decision. *[Business Recorder](https://www.brecorder.com/news/40441612/indian-firms-ready-3-billion-of-debt-issues-with-eye-on-potential-rbi-rate-hike)*
-- The Indian rupee fell 0.2% to 95.9825 per USD as Brent crude prices rose nearly 4% to $108.2 per barrel. *[Business Recorder](https://www.brecorder.com/news/40441610/oil-woes-push-indian-rupee-to-over-one-week-low-rbi-caps-fall-near-96usd)*
-- FPCCI President Atif Ikram Sheikh has requested the FBR extend the income tax return deadline to October 31, 2026. *[Business Recorder](https://www.brecorder.com/news/40441611/fpcci-seeks-one-month-extension-to-the-income-tax-return-deadline)*
-- Most Gulf equity markets declined, with Saudi Arabia's benchmark index dropping 1% following US President Trump's dismissal of an Iranian proposal. *[Business Recorder](https://www.brecorder.com/news/40441624/most-gulf-bourses-retreat-after-trump-dismisses-iranian-overture)*
-
-### Science & Technology
-- SpaceX successfully launched and placed its Starship megarocket into orbit for the first time. *[ARY](https://arynews.tv/spacex-puts-starship-megarocket-in-orbit-for-first-time)*
-- MongoDB shares dropped 14% in premarket trading after CEO Chirantan “CJ” Desai stepped down to join Meta as chief enterprise platform officer. *[Business Recorder](https://www.brecorder.com/news/40441622/mongodb-ceo-desai-steps-down-to-lead-metas-enterprise-platform)*
-- Austrian researchers are testing passive cooling cubes as a potential alternative to traditional air conditioning. *[ARY](https://arynews.tv/austrian-researchers-test-passive-cooling-cubes-as-an-alternative-to-ac)*
+- The Indian rupee is facing pressure to slip past the **96-per-dollar** mark due to rising US yields and oil prices. *[Business Recorder](https://www.brecorder.com/news/40441744/rising-us-yields-oil-headwinds-put-rbis-indian-rupee-96-buffer-to-the-test)*
+- The benchmark **10-year US Treasury yield** spiked to a 19-year high above **5.27%** in September. *[Business Recorder](https://www.brecorder.com/news/40441741/stocks-wobble-as-bonds-slump-to-monthly-loss)*
+- Spot gold prices hovered near a seven-week low at **$4,124.57 per ounce**. *[Business Recorder](https://www.brecorder.com/news/40441740/gold-lingers-near-seven-week-low-ahead-of-us-economic-data)*
+- Oil prices rose due to Middle East tensions, with **Brent crude** futures reaching **$106.7** and **$105.91** per barrel, while **US WTI** rose to **$93.32**. *[Business Recorder](https://www.brecorder.com/news/40441739/indian-shares-to-open-near-six-month-lows-as-oil-prices-rise)* *[Business Recorder](https://www.brecorder.com/news/40441737/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern)*
+- The US dollar remained near a two-month peak, while the **euro** traded at **$1.1367** and **sterling** at **$1.3248**. *[Business Recorder](https://www.brecorder.com/news/40441738/dollar-holds-near-two-month-peak-as-yields-rise-fed-data-looms)*
+- The Punjab Revenue Authority (PRA) and the World Bank have agreed to modernize taxation via digital tools to expand the provincial tax base. *[ARY](https://arynews.tv/punjab-revenue-authority-world-bank-to-introduce-advanced-systems-to-expand-tax-base)* *[Business Recorder](https://www.brecorder.com/news/40441658/punjab-moves-to-modernise-taxation-system)*
+- The Trade Development Authority of Pakistan (TDAP) facilitated a delegation of **30 Pakistani companies** at the Saudi Food Show 2026. *[Business Recorder](https://www.brecorder.com/news/40441653/tdap-marks-record-participation-at-saudi-food-show-2026)*
+- The Association of Builders and Developers (ABAD) is working to form the **'Sindh Business Forum'** to represent provincial business associations. *[Business Recorder](https://www.brecorder.com/news/40441673/abad-seeking-to-form-sindh-business-forum)*
+- Sheikh Umer Rehan has been elected President of the Korangi Association of Trade and Industry (KATI) for the **2026-28** term. *[Business Recorder](https://www.brecorder.com/news/40441674/kati-elects-sheikh-umer-rehan-as-president)*
 
 ### Politics
-- Federal Minister Attaullah Tarar alleged that the PTI-led KP government has failed to take practical steps against terrorism. *[Business Recorder](https://www.brecorder.com/news/40441621/tarar-says-pti-led-kp-govt-has-failed-to-act-against-terrorism)*
-- Azam Nazeer Tarar stated that Captain Safdar should remain distanced from bar-related matters. *[ARY](https://arynews.tv/captain-safdar-should-stay-away-from-bar-matters-says-azam-nazeer-tarar)*
+- US President Donald Trump denied reports that he offered Iran sanctions relief or the release of frozen funds in exchange for nuclear concessions. *[Business Recorder](https://www.brecorder.com/news/40441746/trump-denies-offering-iran-sanctions-relief-for-nuclear-concessions)*
+- US Secretary of State Marco Rubio warned that Cuba must change its course, following a US-imposed oil blockade. *[Business Recorder](https://www.brecorder.com/news/40441745/rubio-says-us-is-hopeful-cuba-will-choose-a-different-path)*
 
 ### National
-- The US Afghanistan War Commission, led by Shamila N. Chaudhary and Dr. Colin F. Jackson, met with Field Marshal Syed Asim Munir at GHQ to acknowledge Pakistan's sacrifices in the conflict. *[Business Recorder](https://www.brecorder.com/news/40441631/us-afghan-war-commission-acknowledges-pakistans-role-sacrifices-in-conflict)*
-- The Federal Public Service Commission (FPSC) has postponed tests for several Board of Investment posts. *[ARY](https://arynews.tv/fpsc-postpones-tests-for-board-of-investment-posts)*
-- A viral video surfaced showing a car dragging a motorcycle on Murree Road while the rider clung to the vehicle's bonnet. *[ARY](https://arynews.tv/viral-video-shows-car-dragging-motorcycle-as-rider-clings-to-bonnet-on-murree-road)*
+- The Federal Government has hinted at the possibility of imposing an emergency in **Khyber Pakhtunkhwa**. *[ARY](https://arynews.tv/federal-government-hints-at-imposing-emergency-in-khyber-pakhtunkhwa)*
+- The Punjab government plans to establish stroke centres in every division, with **40 centres already functional** and **17 more** targeted for completion by December. *[Business Recorder](https://www.brecorder.com/news/40441736/stroke-centres-planned-in-every-punjab-division)*
+- Phase-I of the **Lyari Transformation Project** is scheduled for completion by **August 2027**. *[Business Recorder](https://www.brecorder.com/news/40441654/phase-i-of-lyari-project-to-be-completed-by-august-2027-nasir)*
+- The Islamabad High Court (IHC) has issued notices regarding a petition against the closure of the **Islamabad-Peshawar Motorway (M-1)**. *[Business Recorder](https://www.brecorder.com/news/40441656/ihc-issues-notices-in-response-to-plea-against-closure-of-motorway-m-1)*
+- PML-N candidate Munir Iqbal Channar won the Bahawalpur by-election with a margin of **39,000 votes**. *[Business Recorder](https://www.brecorder.com/news/40441657/pml-ns-bahawalpur-victory-reflects-public-trust-azma)*
+- The Punjab Central Business District Development Authority (PCBDDA) has opened applications for its **Youth Career Program 2026**, offering **three-month paid internships**. *[Business Recorder](https://www.brecorder.com/news/40441735/pcbdda-opens-applications-for-youth-career-programme)*
+- IESCO has released the power shutdown schedule for **September 29**. *[ARY](https://arynews.tv/iesco-announces-power-shutdown-schedule-for-september-29)*
 
 ### International
-- Indian Trade Minister Piyush Goyal is scheduled to visit the US from September 29 to October 5 to finalize an interim trade deal. *[Business Recorder](https://www.brecorder.com/news/40441630/india-trade-minister-to-visit-us-for-deal-talks-new-delhi-says)*
-- Qatari mediators are facilitating separate talks in New York between US officials and Iranian Foreign Minister Abbas Araqchi. *[Business Recorder](https://www.brecorder.com/news/40441627/us-iran-set-to-hold-separate-talks-with-mediators-on-monday-or-tuesday-official-says)*
-- Israeli strikes in Gaza killed at least two people, including a woman in Gaza City and another in the Nuseirat refugee camp. *[Business Recorder](https://www.brecorder.com/news/40441626/israeli-strikes-kill-at-least-two-people-in-gaza-officials-say)*
-- Red Bull has filed a lawsuit against India's food regulator for banning the "energy drink" descriptor without prior warning. *[Business Recorder](https://www.brecorder.com/news/40441623/red-bull-sues-indian-regulator-over-energy-drink-label-ban)*
-
-### Sports
-- Pakistan’s Arshad Nadeem finished fourth in the Asian Games javelin final with a throw of 80.29 meters. *[Business Recorder](https://www.brecorder.com/news/40441625/arshad-nadeem-fails-to-clinch-medal-in-asian-games-javelin-final)*
-- Former Manchester City manager Mancini stated that recent club charges are "not my concern." *[ARY](https://arynews.tv/ex-boss-mancini-says-city-charges-not-my-concern)*
-- Controversy has emerged regarding whether Olivia Miles referred to Caitlin Clark and Sophie Cunningham as "freaks." *[ARY](https://arynews.tv/did-olivia-miles-call-caitlin-clark-and-sophie-cunningham-freaks)*
+- The US and Iran are engaging in separate talks with mediators in **New York** to attempt to resolve the ongoing conflict. *[ARY](https://arynews.tv/us-iran-separately-talk-with-mediators-in-latest-bid-to-end-war)* *[ARY](https://arynews.tv/us-iran-set-for-separate-talks-with-mediators-in-new-york-official-says)*
+- The US is reportedly considering a sanctions waiver for flights between Iran and Iraq’s **Najaf**. *[ARY](https://arynews.tv/us-to-grant-sanctions-waiver-for-flights-between-iran-and-iraqs-najaf-source-says)*
+- A suspected plot has been identified to attack the **Fairford airbase** in the UK, which is utilized by the US. *[ARY](https://arynews.tv/suspected-plot-to-attack-uks-fairford-airbase-used-by-us-what-do-we-know)*
+- At least **11 people** were killed in Haiti’s **Artibonite** region following gang retaliation against a security operation. *[Business Recorder](https://www.brecorder.com/news/40441743/haiti-gang-retaliation-leaves-at-least-11-dead-after-security-operation)*
+- The UNHCR warned of a **$5.789 billion funding gap** that could leave **8.3 million** refugees without essential aid. *[Business Recorder](https://www.brecorder.com/news/40441742/un-agency-warns-funding-crisis-could-leave-83-million-people-without-aid)*
 
 ### Health
-- Scientists have developed a new gel capable of regenerating and repairing damaged tooth enamel. *[ARY](https://arynews.tv/scientists-create-new-gel-to-regenerate-and-repair-damaged-tooth-enamel)*
+- AstraZeneca has filed for US FDA approval for a **HUTCHMED** lung cancer drug combination. *[ARY](https://arynews.tv/astrazeneca-seeks-fda-approval-of-hutchmed-lung-cancer-drug)*
+- A study has found that mental health disorders are lasting longer today than they did a decade ago. *[ARY](https://arynews.tv/mental-health-disorders-are-lasting-longer-today-than-a-decade-ago-study-finds)*
+
+### Other
+- Rockstar Games is reportedly developing **L.A. Noire 2**, which is set in San Francisco. *[ARY](https://arynews.tv/rockstar-games-reportedly-developing-l-a-noire-2-set-in-san-francisco)*
 
