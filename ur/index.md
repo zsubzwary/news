@@ -7,45 +7,50 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Sep-2026 09:09PKT 
+ &lrm; 29-Sep-2026 21:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- انڈین روپیہ 96 فی ڈالر کی سطح کو توڑنے کے خطرے میں ہے کیونکہ امریکی ریٹس میں اضافہ اور تیل کی بڑھتی ہوئی قیمتیں دباؤ کا باعث بن رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441744/rising-us-yields-oil-headwinds-put-rbis-indian-rupee-96-buffer-to-the-test)*
-- یو این ایچ سی آر (UNHCR) کو 5.789 بلین ڈالر کے فنڈز کی کمی کا سامنا ہے جس سے تقریباً 8.3 ملین پناہ گزین امداد سے محروم ہو سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441742/un-agency-warns-funding-crisis-could-leave-83-million-people-without-aid)*
-- امریکی 10 سالہ ٹریژری ییلڈ 5.27 فیصد کی سطح پر پہنچ گئی ہے جو کہ 19 سالہ بلند ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441741/stocks-wobble-as-bonds-slump-to-monthly-loss)*
-- سونے کی قیمت 7 ہفتوں کی کم ترین سطح کے قریب ہے، جہاں سپاٹ گولڈ 4,124.57 ڈالر فی اونس پر مستحکم ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441740/gold-lingers-near-seven-week-low-ahead-of-us-economic-data)*
-- برینٹ کرود کی قیمت 0.6 فیصد بڑھ کر 105.91 ڈالر فی بیرل اور امریکی ڈبلیو ٹی آئی (WTI) 93.32 ڈالر فی بیرل پر پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441737/oil-prices-rise-for-second-session-on-continued-middle-east-supply-concern)*
-- پنجاب ریونیو اتھارٹی اور ورلڈ بینک ٹیکس کے نظام کو جدید بنانے اور ٹیکس کا دائرہ کار بڑھانے کے لیے ڈیجیٹل ٹولز کے استعمال پر متفق ہوئے ہیں۔ *[ARY](https://arynews.tv/punjab-revenue-authority-world-bank-to-introduce-advanced-systems-to-expand-tax-base)*
-- ٹریڈ ڈویلپمنٹ اتھارٹی آف پاکستان (TDAP) نے سعودی فوڈ شو 2026 میں 30 پاکستانی کمپنیوں کے وفد کے ساتھ ریکارڈ شرکت کی۔ *[Business Recorder](https://www.brecorder.com/news/40441653/tdap-marks-record-participation-at-saudi-food-show-2026)*
-- پنجاب سینٹرل بزنس ڈسٹرکٹ ڈویلپمنٹ اتھارٹی (PCBDDA) نے نوجوانوں کے لیے 3 ماہ کے پیڈ انٹرنشپ پروگرام 2026 کے لیے درخواستیں کھول دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441735/pcbdda-opens-applications-for-youth-career-programme)*
-- کورنگی ایسوسی ایشن آف ٹریڈ اینڈ انڈسٹری (KATI) کے انتخابات میں شیخ عمر ریحان کو صدر منتخب کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441674/kati-elects-sheikh-umer-rehan-as-president)*
-- ایسوسی ایشن آف بلڈرز اینڈ ڈیولپرز (ABAD) صوبے بھر کے کاروباری اداروں کے اتحاد کے طور پر 'سندھ بزنس فورم' بنانے کی کوشش کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441673/abad-seeking-to-form-sindh-business-forum)*
+- سعودی عرب نے ایسٹ ویسٹ پائپ لائن کے دوبارہ فعال ہونے کے بعد ینبع (Yanbu) بندرگاہ سے تیل کی لوڈنگ کا عمل دوبارہ شروع کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441815/saudi-arabia-resumes-yanbu-oil-loading-after-pipeline-restart)*
+- سری لنکا کے اسٹاک مارکیٹ میں یوٹلیٹیز اور رئیل اسٹیٹ کے حصص میں کمی کے باعث CSE آل شیئر انڈیکس 0.60 فیصد گر کر 20,817.82 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441809/sri-lankan-shares-fall-as-real-estate-utilities-stocks-weigh)*
+- سونے کی قیمت میں فی تولہ 800 روپے کی کمی ریکارڈ کی گئی، جس کے بعد قیمت 437,336 روپے پر آگئی، جبکہ 10 گرام سونے کی قیمت 374,945 روپے ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441793/gold-price-per-tola-drops-rs800-in-pakistan)*
+- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں 0.01 فیصد اضافے کے ساتھ انٹر بینک مارکیٹ میں 277.12 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40441794/pakistan-rupee-records-gain-against-us-dollar)*
+- تانبے کی قیمت لندن میٹل ایکسچینج پر 0.2 فیصد اضافے کے ساتھ 14,447 ڈالر فی میٹرک ٹن ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441805/copper-steadies-as-mine-strike-threat-offsets-dollar-oil-strength)*
+- بھارتی اسٹاک مارکیٹ میں گراوٹ دیکھی گئی، جہاں Nifty 50 انڈیکس 0.28 فیصد گر کر 22,716.2 اور BSE Sensex 0.33 فیصد کم ہو کر 72,529.07 پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40441797/indian-shares-extend-losing-run-on-elevated-oil-bond-yields)*
+- بھارتی کرنسی (روپیہ) تقریباً مستحکم رہی اور 95.98 پر بند ہوئی، جبکہ برینٹ آئل کی قیمت 108 ڈالر فی بیرل تک پہنچ گئی تھی۔ *[Business Recorder](https://www.brecorder.com/news/40441798/indian-rupee-ends-nearly-flat-as-traders-remain-glued-to-oil-moves-rbi-caps-fall)*
+- بھارت کی سن فارما (Sun Pharma) 100 ارب روپے (تقریباً 1.04 بلین ڈالر) کے قرض کے ذریعے فنڈز اکٹھا کرنے کا منصوبہ بنا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441799/indias-sun-pharma-plans-1-billion-local-debt-sale-for-loan-takeout-sources-say)*
+- انڈیا کی مرکری فنانس (Mercury Finance) امریکی ڈالر بانڈز کے ذریعے 125 ملین ڈالر جمع کرنے کی کوشش کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441802/indias-sp-group-arm-taps-dollar-debt-to-meet-another-units-dues)*
+- خلیجی ممالک کے زیادہ تر اسٹاک مارکیٹس میں امریکی-ایرانی مذاکرات کے باعث احتیاطی رویہ اختیار کیا گیا اور مارکیٹ نیچے بند ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40441804/most-gulf-equities-end-lower-amid-cautious-response-to-renewed-us-iran-talks)*
+- پاکستان کی آٹوموٹو انڈسٹری میں الیکٹرک موبلٹی اور عالمی برانڈز کی آمد سے بڑی تبدیلی آ رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441808/the-pioneer-behind-pakistans-new-era-of-automotive-experiences)*
 
 ### سائنس اور ٹیکنالوجی
-- ایسٹرازینیکا (AstraZeneca) نے پھیپھڑوں کے کینسر کے علاج کے لیے ایک نئی دوا کے امتزاج کے لیے امریکی ایف ڈی اے (FDA) سے منظوری طلب کر لی ہے۔ *[ARY](https://arynews.tv/astrazeneca-seeks-fda-approval-of-hutchmed-lung-cancer-drug)*
-- راک اسٹار گیمز کی جانب سے 'ایل اے نوائر 2' (L.A. Noire 2) تیار کرنے کی اطلاعات ہیں جو سان فرانسسکو کے پس منظر میں ہوگی۔ *[ARY](https://arynews.tv/rockstar-games-reportedly-developing-l-a-noire-2-set-in-san-francisco)*
+- سیمسنگ (Samsung) اپنے آنے والے Galaxy S27 ماڈل میں سافٹ ویئر کے استحکام (software stability) کو ترجیح دے رہا ہے۔ *[ARY](https://arynews.tv/ice-universe-leak-reveals-samsung-is-prioritizing-software-stability-for-galaxy-s27)*
+- امریکہ میں اسپاٹی فائی (Spotify) اور اینتھروپک کے کلود (Claude) استعمال کرنے والے ہزاروں صارفین کو سروس میں دشواری کا سامنا کرنا پڑا۔ *[ARY](https://arynews.tv/spotify-down-for-thousands-of-users-in-us-downdetector-shows)*
+- اینتھروپک (Anthropic) نے اپنی آئی پی او (IPO) فائلنگ میں خبردار کیا ہے کہ مصنوعی ذہانت انسانیت کے لیے وجودی خطرات پیدا کر سکتی ہے۔ *[ARY](https://arynews.tv/anthropic-warns-ai-may-pose-existential-risks-to-humanity-in-ipo-filing)*
 
 ### سیاست
-- صدر ڈونلڈ ٹرمپ نے ایران کو پابندیوں میں نرمی دینے یا منجمد فنڈز کی واپسی کے حوالے سے افواہوں کی تردید کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441746/trump-denies-offering-iran-sanctions-relief-for-nuclear-concessions)*
-- امریکی وزیر خارجہ مارکو روبیو نے کیوبا کو خبردار کیا ہے کہ وہ امریکی انتظامیہ کے خلاف فیصلے کا انجام برا ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40441745/rubio-says-us-is-hopeful-cuba-will-choose-a-different-path)*
-- وفاقی حکومت نے خیبر پختونخوا میں ہنگامی حالت نافذ کرنے کے اشارے دیے ہیں۔ *[ARY](https://arynews.tv/federal-government-hints-at-imposing-emergency-in-khyber-pakhtunkhwa)*
-- بہاولپور کے ضمنی انتخابات میں پی ایم ایل این کے امیدوار منیر اقبال چنار نے 39,000 ووٹوں کے مارجن سے کامیابی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40441657/pml-ns-bahawalpur-victory-reflects-public-trust-azma)*
-- اسلام آباد ہائی کورٹ نے موٹروے (M-1) کی بندش کے خلاف دائر درخواست پر نوٹس جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441656/ihc-issues-notices-in-response-to-plea-against-closure-of-motorway-m-1)*
+- وزیراعظم شہباز شریف نے لندن میں بارکلیز، جے پی مورگن، سٹی، بلیک راک اور روتھ چائلڈ اینڈ کو کے سربراہان کے ساتھ ملاقاتیں کیں تاکہ پاکستان میں سرمایہ کاری بڑھائی جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40441811/pm-shehbaz-seeks-greater-investment-in-pakistan-from-global-financial-giants)*
 
 ### قومی
-- آئی ای ایس سی او (IESCO) نے 29 ستمبر کے لیے بجلی کی لوڈ شیڈنگ کا شیڈول جاری کر دیا ہے۔ *[ARY](https://arynews.tv/iesco-announces-power-shutdown-schedule-for-september-29)*
-- پنجاب حکومت ہر ڈویژن میں اسٹروک سینٹرز قائم کرے گی، جن میں سے 40 پہلے سے فعال ہیں اور مزید 17 دسمبر تک مکمل کرنے کا ہدف ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441736/stroke-centres-planned-in-every-punjab-division)*
-- لیاری ٹرانسفارمیشن پروجیکٹ کا پہلا مرحلہ اگست 2027 تک مکمل کرنے کا ارادہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441654/phase-i-of-lyari-project-to-be-completed-by-august-2027-nasir)*
-- سندھ کے سینئر وزیر شارجل انعام میمن نے بلاول بھٹو زرداری کو صوبے کے اہم پبلک ٹرانسپورٹ منصوبوں کی پیشرفت سے آگاہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40441655/sharjeel-briefs-bilawal-on-public-transport-projects)*
+- سندھ حکومت نے SSU کے نئے ہیڈ کوارٹر اور سیکیورٹی اکیڈمی کی تعمیر کے لیے 9.5 ارب روپے کے منصوبے کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/sindh-approves-rs-9-5-billion-plan-for-new-ssu-headquarters-and-security-academy)*
+- صومالیہ میں ہائی جیک شدہ جہاز 'Honour 25' پر حملے کے دوران پاکستانی عملے کے ارکان شہید ہو گئے۔ *[ARY](https://arynews.tv/hijacked-honour-25-vessel-attacked-in-somalia-pakistani-crew-members-killed)*
+- لاہور میں ہونے والے زیادتی کے کیس میں ازری خاتون ڈیانا نے اپنا بیان ریکارڈ کروا دیا ہے۔ *[ARY](https://arynews.tv/azeri-woman-diana-records-statement-in-lahore-assault-case)*
+- او جی ڈی سی ایل (OGDCL) نے لیتھیم کی تلاش کے لیے پاکستان انسٹیٹیوٹ آف نیوکلیئر سائنس اینڈ ٹیکنالوجی (PINSTECH) کے ساتھ معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441800/ogdcl-inks-deal-with-pinstech-for-lithium-exploration)*
 
 ### بین الاقوامی
-- امریکہ اور ایران جنگ کے خاتمے کے لیے ثالثوں کے ذریعے نیویارک میں الگ الگ مذاکرات کر رہے ہیں۔ *[ARY](https://arynews.tv/us-iran-separately-talk-with-mediators-in-latest-bid-to-end-war)*
-- ذرائع کے مطابق امریکہ ایران اور عراق کے نجف کے درمیان پروازوں کے لیے پابندیوں میں چھوٹ دے سکتا ہے۔ *[ARY](https://arynews.tv/us-to-grant-sanctions-waiver-for-flights-between-iran-and-iraqs-najaf-source-says)*
-- برطانیہ کے فیئر فورڈ ایئر بیس پر حملے کی ایک ممکنہ سازش کا انکشاف ہوا ہے۔ *[ARY](https://arynews.tv/suspected-plot-to-attack-uks-fairford-airbase-used-by-us-what-do-we-know)*
-- ہیٹی کے علاقے آرٹی بونیٹ میں سیکورٹی آپریشن کے بعد گروہوں کے انتقامی حملے میں کم از کم 11 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441743/haiti-gang-retaliation-leaves-at-least-11-dead-after-security-operation)*
+- ترکی نے غیر ادا شدہ قرضوں کے باعث ایران کی کیسپین ایئر لائنز کا طیارہ ضبط کر لیا ہے۔ *[ARY](https://arynews.tv/turkey-seizes-jet-from-irans-caspian-airlines-over-unpaid-debt-reports)*
+- روس نے اپنے 2027 کے فوجی اخراجات میں 27 فیصد اضافے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/russia-raises-2027-military-spending-by-27-budget-documents-show)*
+- عراقی ایئر ویز نے خصوصی استثنا ملنے کے بعد اکتوبر میں ایران کے لیے اپنی پروازیں دوبارہ شروع کرنے کی تیاری مکمل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441810/iraqi-airways-to-resume-iran-flights-in-october-after-securing-special-exemption)*
+- بنگلہ دیش نے اپنے قومی ایئر لائن 'بمن' کے بیڑے کو بڑھانے کے لیے ایئر بس (Airbus) سے 10 طیارے خریدنے کا ارادہ ظاہر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441807/bangladesh-eyes-airbus-deal-for-10-aircraft-after-boeing-order)*
+- بھارت کی عدالت نے ریڈ بل (Red Bull) کو اپنے کین پر "انرجی ڈرنک" کا لیبل استعمال کرنے کی اجازت دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441803/red-bull-wins-india-court-reprieve-to-use-energy-drink-label)*
+- امریکی افواج دو دہائیوں کے بعد عراق سے اپنے آخری اڈوں سے نکل رہی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441795/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran-say-experts)*
 
-### صحت
-- ایک حالیہ تحقیق کے مطابق ذہنی صحت کے مسائل اب ایک دہائی پہلے کے مقابلے میں زیادہ عرصے تک برقرار رہتے ہیں۔ *[ARY](https://arynews.tv/mental-health-disorders-are-lasting-longer-today-than-a-decade-ago-study-finds)*
+### کھیل
+- 2026 کے ڈبلیو این بی اے (WNBA) پلے آفز کے حوالے سے چیمپئن شپ کی پیشگوئیوں اور امکانات جاری کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/2026-wnba-playoff-predictions-championship-odds-and-title-favorites-breakdown)*
+- پاکستان نے ایشین گیمز کے بیٹل رائل ای اسپورٹس مقابلے میں کانسی کا تمغہ جیت لیا ہے، جس سے ملک کا مجموعی تمغہ کل 5 ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441801-pakistan-clinch-esports-bronze-at-asian-games)*
+- ناگویا کے منتظمین نے پاکستان اور جنوبی کوریا کی ٹیموں کے ساتھ سفر اور مقام کی غلطی پر معذرت کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441796-nagoya-organisers-regret-pakistan-and-south-korea-travel-mix-ups)*
+
+### دیگر
+- کیسیو (Casio) نے اپنی سب سے سستی اسکوائر ڈیجیٹل گھڑی کے ساتھ اسٹیل بریسلٹ بھی متعارف کروا دیا ہے۔ *[ARY](https://arynews.tv/casio-adds-a-steel-bracelet-to-its-most-affordable-square-digital-watch)*
 
