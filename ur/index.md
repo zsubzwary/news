@@ -7,37 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-Oct-2026 09:08PKT 
+ &lrm; 01-Oct-2026 21:09PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پیٹرول کی قیمت میں **14 پیسے** کی کمی (نئی قیمت **387.40 روپے** فی لیٹر) جبکہ ہائی سپیڈ ڈیزل (HSD) کی قیمت میں **1.89 روپے** کی کمی (نئی قیمت **400.35 روپے** فی لیٹر) کر دی گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-cut-by-14-paisas-diesel-by-rs1-89-for-october-1)*
-- ایل پی جی (LPG) کی قیمت میں **20.68 روپے** فی کلو کا اضافہ کیا گیا ہے، جس کے نتیجے میں 11.8 کلو کے گھریلو سلنڈر کی قیمت میں **244.14 روپے** کا اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442092/lpg-price-hiked-by-rs2068)*
-- فیڈرل بورڈ آف ریونیو (FBR) نے دولت کے گوشواروں (wealth statements) میں **9.41 ارب روپے** کی بڑے پیمانے پر فراڈ کا پردہ فاش کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442090/fbr-busts-rs941bn-wealth-statement-fraud)*
-- 30 ستمبر تک انکم ٹیکس گوشوارے جمع کرانے والوں کی تعداد میں گزشتہ سال کے مقابلے میں **45 فیصد** اضافہ ہوا ہے، جو کہ کل **5.77 ملین** تک پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442093/income-tax-returns-surge-45pc-yoy-to-5.77m-by-sept-30)*
-- تیل کی عالمی قیمتوں میں اتار چڑھاؤ دیکھا گیا؛ برینٹ کروڈ (Brent crude) کی قیمت **98.15 ڈالر** فی بیرل اور WTI **90.35 ڈالر** فی بیرل رہی۔ *[Business Recorder](https://www.brecorder.com/news/40442119/oil-prices-barely-changed-as-investors-assess-us-iran-peace-talks-and-gulf-exports)*
-- بھارتی روپیہ کمزور ہونے کا خدشہ ہے، جو کہ ڈالر کے مقابلے میں **95.96 سے 95.98** کی رینج میں کھل سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief)*
-- کراچی چیمبر آف کامرس اینڈ انڈسٹری (KCCI) کے انتخابات میں **طلعت محمود** کو صدر منتخب کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442086/talat-mehmood-elected-kcci-president)*
-- اے پی ٹی ایم اے (APTMA) کے مطابق، اگر سازگار کاروباری ماحول فراہم کیا جائے تو ٹیکسٹائل ایکسپورٹس میں ایک سال کے اندر **10 ارب ڈالر** سے زیادہ کا اضافہ کیا جا سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442089/aptma-calls-for-a-competitive-business-environment)*
-- حکومت پاکستان توانائی کی فراہمی کو بہتر بنانے کے لیے نجی کمپنیوں کو براہ راست ایل این جی (LNG) درآمد کرنے کی اجازت دینے پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442091/govt-considers-allowing-private-firms-to-directly-import-lng-report)*
-- وزیر اعظم شہباز شریف کے مطابق سی پیک (CPEC) کا نیا مرحلہ اب آئی ٹی، مصنوعی ذہانت، زراعت اور مائننگ پر مرکوز ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm)*
+- اسٹیٹ بینک کے پاس غیر ملکی زرمبادلہ کے ذخائر میں 39 ملین ڈالر کا اضافہ ہوا ہے، جس سے کل ذخائر 21.439 ارب ڈالر تک پہنچ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn)*
+- پیپسی کو (PepsiCo) اور مونسٹر (Monster) نے بھارت میں 'انرجی ڈرنک' لیبل پر پابندی کے خلاف قانونی چیلنج دائر کیا ہے، جس سے اس شعبے کی سالانہ قدر 1.6 ارب ڈالر تک پہنچنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442200/pepsico-monster-challenge-india-energy-drink-label-ban-citing-business-impact)*
+- وال اسٹریٹ کے انڈیکس میں گراوٹ دیکھی گئی کیونکہ ٹریژری ییلڈز 5.3445 فیصد کی سطح تک پہنچ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40442197/wall-street-dips-as-surging-treasury-yields-outweigh-software-gains)*
+- لکی موٹرز نے 'کیا اسٹونک 1.0L ٹربو' کی بکنگ شروع کر دی ہے، جس کے مختلف ورائینٹس کی قیمت 5,499,000 روپے اور 5,899,000 روپے مقرر کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442187/lucky-motor-opens-bookings-for-all-new-kia-stonic-turbo)*
+- فیشن برانڈ کھاڑی (Khaadi) اگلے ماہ 6.2 ارب سے 8.3 ارب روپے تک فنڈز جمع کرنے کے لیے آئی پی او (IPO) لانے کا منصوبہ بنا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442196/fashion-brand-khaadi-plans-ipo-next-month-report)*
+- خلیجی اسٹاک مارکیٹس میں ملی جلی صورتحال رہی، جہاں سعودی عرب کا بینچ مارک انڈیکس 0.5 فیصد گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40442195/most-gulf-bourses-edge-lower-on-mixed-us-iran-cues)*
+- بھارتی کمپنیوں نے مالی سال 2027 کی پہلی ششماہی میں ریکارڈ 2.43 ٹریلین روپے (25.27 ارب ڈالر) کا سرمایہ اکٹھا کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442192/indian-firms-defy-stock-market-slump-with-record-25-billion-half-year-equity-fundraise)*
+- پاکستان میں مینوفیکچرنگ پی ایم آئی (PMI) ستمبر میں کم ہو کر 50.9 پر آگیا، جو اگست کے 51.8 کے مقابلے میں کمی کو ظاہر کرتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442189/hbl-pmi-weaker-new-orders-weigh-on-manufacturing-activity)*
+- بھارتی چاول کی برآمدی قیمتیں بڑھ کر 378 سے 384 ڈالر فی ٹن تک پہنچ گئیں، جو گزشتہ ایک سال کی بلند ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns)*
 
 ### سائنس اور ٹیکنالوجی
-- ہواوے (Huawei) نے اپنی نئی **Mate 90** اسمارٹ فون سیریز متعارف کرائی ہے، جس میں امریکی پابندیوں کے جواب میں مقامی طور پر ڈیزائن کردہ چپ کا استعمال کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442125/huawei-unveils-mate-90-phones-leans-on-homegrown-chip-design-to-offset-us-curbs)*
-- گیم **GTA 6** میں ایک وسیع جنگلی حیات کا نظام ہوگا جس میں **170 سے زائد** جانوروں کی اقسام شامل ہوں گی۔ *[ARY](https://arynews.tv/gta-6-will-feature-wildlife-ecosystem-with-over-170-animal-species)*
+- اسپیس ایکس (SpaceX) نے فلوریڈا سے ایک راکٹ کے ذریعے بین الاقوامی خلائی اسٹیشن کے لیے 13واں طویل مدتی مہم جو مشن روانہ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442199/spacex-launches-13th-long-duration-astronaut-crew-to-international-space-station)*
 
 ### قومی
-- کراچی کے ریڈ لائن پروجیکٹ کے دوران پل کے ڈھانچے کے گرنے سے ایک شخص ہلاک ہو گیا۔ *[ARY](https://arynews.tv/red-line-project-bridge-structure-collapses-in-karachi-one-killed)*
-- وفاقی آئینی عدالت (FCC) نے فیصلہ دیا ہے کہ دفعہ 199 کے تحت ہائی کورٹ کا دائرہ اختیار ہر ملازمت سے متعلقہ تنازعہ پر لاگو نہیں ہوتا۔ *[Business Recorder](https://www.brecorder.com/news/40442088/every-employment-related-dispute-hcs-jurisdiction-under-article-199-not-available-fcc)*
+- آیت نور کیس میں عدالت نے تین مشتبہ افراد کو ضمانت پر رہا کرنے کا حکم دے دیا ہے۔ *[ARY](https://arynews.tv/ayat-noor-case-court-grants-bail-to-three-suspects)*
+- نیشنل لائبریری پاکستان نے سی ایس ایس (CSS) کے امیدواروں کے لیے خصوصی لیکچر سیریز کا آغاز کیا ہے۔ *[ARY](https://arynews.tv/national-library-pakistan-launches-lecture-series-for-css-aspirants)*
+- ڈی جی آئی ایس پی آر نے واضح کیا ہے کہ دہشت گردی کے خلاف جنگ کو کسی کی سیاسی مفادات کے لیے قربان نہیں کیا جا سکتا۔ *[ARY](https://arynews.tv/war-against-terrorism-cannot-be-sacrificed-for-anyones-politics-says-dg-ispr)*
+- ڈی جی آئی ایس پی آر نے بھارتی میڈیا کے ان دعووں کی تردید کی ہے کہ ایک سابق پاکستانی فوجی کو آئی آئی او جے کے میں ہلاک کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442183/dg-ispr-debunks-indian-media-claim-of-ex-pakistan-army-official_s-killing)*
 
 ### بین الاقوامی
-- امریکی قیادت کا عراق میں مشن مکمل ہو گیا ہے اور امریکی افواج کے انخلاء کے ساتھ ہی دو دہائیوں پر محیط جنگ کا ایک باب ختم ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442096/us-led-coalition-ends-mission-in-iraq)*
-- اسرائیل کے وزیر اعظم بنجمن نیتن یاہو نے اعلان کیا ہے کہ وہ فلائی دبئی (flydubai) طیارے کو کریش کرنے کی ناکام کوشش میں ملوث کو پائلٹ کی مکمل تحقیقات کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40442126/netanyahu-says-israel-will-get-to-the-root-of-co-pilot-in-foiled-bid-to-crash-flydubai-flight)*
-- نیوزی لینڈ کی پارلیمنٹ کو نومبر میں ہونے والے انتخابات سے قبل تحلیل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442127/new-zealand-parliament-dissolved-ahead-of-tight-november-vote)*
-- بھارت کی اپوزیشن جماعتوں نے ووٹر لسٹوں میں مبینہ ہیرا پھیری کے خلاف احتجاج کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442087/india-opposition-parties-call-for-protests-over-vote-theft)*
-- پاکستان نے طالبان کے الزامات کو ان کے اپنے اندرونی مسائل کو حل کرنے میں ناکامی کا نتیجہ قرار دیا ہے۔ *[ARY](https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems)*
+- نیپال میں ایک برفانی تودہ گرنے کے نتیجے میں 15 مقامی ورکرز ہلاک ہو گئے، جبکہ ایک لاپتہ ہے۔ *[ARY](https://arynews.tv/avalanche-kills-15-nepali-workers-preparing-himalayan-mountain-camp-for-climbers)*
+- نیویارک میں ایک گروہانہ زیادتی کے واقعے کے بعد جنسی حملوں سے متعلق قوانین میں ترمیم کے مطالبات کیے جا رہے ہیں۔ *[ARY](https://arynews.tv/alleged-cornell-gang-rape-prompts-calls-to-revise-new-york-sexual-assault-laws)*
+- امریکی ریاست ایریزونا میں پانی کے مسائل اب انتخابی مہم کے اہم موضوع بن چکے ہیں۔ *[ARY](https://arynews.tv/water-wars-come-to-the-ballot-box-in-arizona)*
+- اسرائیل نے فلائی دبئی کے طیارے پر ہونے والے حملے کی تحقیقات کا عزم کیا ہے، جس میں کاپٹنٹ کو زخمی کرنے والے عملے کے رکن پر شک کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442184/israel-vows-to-get-to-root-of-flydubai-attack-no-motive-yet-determined)*
+- امریکہ نے فرانس اور جرمنی کو خبردار کیا ہے کہ وہ ڈیزل کے ذخائر جاری کریں ورنہ انہیں امریکی برآمدات پر پابندی کا سامنا کرنا پڑ سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442182/us-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say)*
+- ایران نے امریکی فوجی حملوں کی صورت میں زیادہ سخت اور وسیع تر جوابی کارروائی کی تیاری مکمل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442180/iran-readies-harder-retaliation-if-attacked-as-diplomacy-faces-long-odds)*
 
 ### کھیل
-- ایشین گیمز کے والی بال سیمی فائنل میں پاکستان نے بھارت کو **3-0** سے شکست دے کر فائنل کا راستہ ہموار کر لیا ہے۔ *[ARY](https://arynews.tv/pakistan-beat-india-to-reach-asian-games-volleyball-semi-finals)*
+- کیٹلِن کلارک (Caitlin Clark) نے فیور (Fever) ٹیم کی تاریخی جیت میں اہم کردار ادا کیا۔ *[ARY](https://arynews.tv/caitlin-clark-goes-historic-as-fever-force-game-2-thriller)*
+- ڈیزرٹ وائپرز نے بابر اعظم، فخر زمان اور نسیم شاہ کے ساتھ اپنی ٹیم کو مزید مضبوط بنا لیا ہے۔ *[ARY](https://arynews.tv/desert-vipers-bolster-squad-with-babar-fakhar-and-naseem-signings)*
+- آئی سی سی نے وقت ضائع کرنے والے بلے بازوں کے لیے ٹیم پر 5 رنز کی سزا کا نیا قانون نافذ کر دیا ہے۔ *[ARY](https://arynews.tv/icc-includes-penalties-in-new-playing-conditions)*
+- ایشین گیمز کے والی بال کوارٹر فائنل میں پاکستان نے بھارت کو 3-0 سے شکست دے کر سیمی فائنل میں جگہ بنا لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442193/pakistan-beat-india-3-0-to-reach-asian-games-volleyball-semi-finals)*
+- ترکی فٹ بال فیڈریشن نے بیٹنگ کے معاملے میں تحقیقات کے دوران 448 کلب آفیشلز کو معطل کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442191/turkiye-suspends-448-club-officials-in-betting-probe)*
+- انگلینڈ نے پاکستان میں ہونے والی ون ڈے ٹرائی سیریز کے لیے عادل رشید اور سیم کرن کو اسکواڈ میں شامل کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442190/rashid-curran-return-as-england-call-up-uncapped-trio-for-pakistan-odi-tri-series)*
+- ایشین گیمز کے ہاکی سیمی فائنل میں بھارت نے پاکستان کو 4-3 سے شکست دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40442181/india-edge-past-pakistan-4-3-in-asian-games-hockey-semi-final)*
+
+### صحت
+- پاکستان نے 'قومی ذہنی صحت پالیسی 2026-2035' کا باضابطہ آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/pakistan-launches-national-mental-health-policy-2026-2035)*
 
