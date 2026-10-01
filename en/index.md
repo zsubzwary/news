@@ -4,34 +4,42 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 30-Sep-2026 09:04PKT
+Published at: 01-Oct-2026 09:03PKT
 
-Time to read: 3 mins
+Time to read: 4 mins
 
 ### Economy
-- The government reduced petrol prices by **Rs. 1.49** (now **Rs. 387.54/L**) and High Speed Diesel (HSD) by **Rs. 2.73** (now **Rs. 402.24/L**). *[Business Recorder](https://www.brecorder.com/news/40441904/petrol-price-cut-by-rs149-hsds-by-rs273)*
-- The government approved the export of **200,000 metric tonnes (MT)** of surplus sugar and formed a monitoring committee to oversee domestic prices. *[Business Recorder](https://www.brecorder.com/news/40441918/modalities-for-export-of-20000-mt-surplus-sugar-approved)*
-- The Federal Board of Revenue (FBR) removed **polyurethane** (HS Code **3909**, serial **292**) from the negative list to allow sales tax refunds for leather manufacturers. *[Business Recorder](https://www.brecorder.com/news/40441910/leather-manufacturers-fbr-trims-negative-list-to-allow-st-refund)*
-- Brent crude futures rose by **$1.14 (1.11%)** to **$103.73** per barrel, while US West Texas Intermediate (WTI) gained **34 cents (0.38%)** to **$89.72**. *[Business Recorder](https://www.brecorder.com/news/40441938/oil-climbs-after-trump-denies-he-is-willing-to-ease-sanctions-on-iran)*
-- In a separate session, Brent crude closed down **$2.69 (2.6%)** at **$102.59**, and WTI settled **3.5%** lower at **$89.38**. *[Business Recorder](https://www.brecorder.com/news/40441906/oil-prices-settle-down-25pc)*
-- The Indian rupee is expected to open between **95.94 and 95.99** per dollar, following a recent two-month low of **96.1475**. *[Business Recorder](https://www.brecorder.com/news/40441942/lower-fed-hike-odds-oil-dip-lend-rbi-hand-in-supporting-indian-rupee)*
-- GIFT Nifty futures stood at **22,834 points**, following the Nifty 50 index closing at **22,716.2** on Tuesday. *[Business Recorder](https://www.brecorder.com/news/40441940/indian-shares-likely-to-rise-as-oil-comes-off-bse-joins-nifty)*
-- The US dollar rose nearly **2.5%** against the euro during September, with the euro hitting a low of **$1.1312**. *[Business Recorder](https://www.brecorder.com/news/40441939/dollar-set-for-september-rise-mainly-at-euros-expense)*
-- US consumer confidence plunged by **6.7 points** to **81.9**, marking its lowest level since **April 2014**. *[Business Recorder](https://www.brecorder.com/news/40441912/us-consumer-confidence-sinks-to-lowest-level-since-2014)*
-- Global bonds are facing significant volatility due to rising inflation and the energy cost impacts of the US-Israeli-Iran conflict. *[Business Recorder](https://www.brecorder.com/news/40441941/bonds-set-for-bruising-september-stocks-fare-better)*
+- Petrol prices decreased by 14 paisas to **Rs. 387.40 per litre**, while High Speed Diesel (HSD) dropped by **Rs. 1.89 to Rs. 400.35 per litre**, effective October 1. *[ARY](https://arynews.tv/petrol-price-cut-by-14-paisas-diesel-by-rs1-89-for-october-1)* *[Business Recorder](https://www.brecorder.com/news/40442095/petrol-price-reduced-by-14-paise-hsds-by-rs189)*
+- LPG prices increased by **Rs. 20.68 per kg**, with the price of an 11.8kg domestic cylinder rising by **Rs. 244.14**. *[Business Recorder](https://www.brecorder.com/news/40442092/lpg-price-hiked-by-rs2068)*
+- FBR reported a **45% year-on-year surge** in income tax returns, totaling **5.77 million** filings by September 30, up from 3.98 million last year. *[Business Recorder](https://www.brecorder.com/news/40442093/income-tax-returns-surge-45pc-yoy-to-5.77m-by-sept-30)*
+- The FBR uncovered a wealth statement fraud involving the illegal revision of records to declare unexplained assets worth **Rs. 9.41 billion**. *[Business Recorder](https://www.brecorder.com/news/40442090/fbr-busts-rs941bn-wealth-statement-fraud)*
+- APTMA stated that the textile industry could boost exports by over **USD 10 billion** within a year if energy tariffs and taxation constraints are addressed. *[Business Recorder](https://www.brecorder.com/news/40442089/aptma-calls-for-a-competitive-business-environment)*
+- The government is considering a policy to allow private firms and power plants to import **Liquefied Natural Gas (LNG)** directly to stabilize energy supplies. *[Business Recorder](https://www.brecorder.com/news/40442091/govt-considers-allowing-private-firms-to-directly-import-lng-report)*
+- Oil prices saw shifts with Brent November futures settling at **USD 103.50 per barrel** (up 0.9%) and WTI crude settling at **USD 90.42 per barrel** (up 1.2%). *[Business Recorder](https://www.brecorder.com/news/40442094/oil-prices-rise-by-about-usd1bbl)*
+- The Indian rupee is projected to open in the **95.96 to 95.98** range against the US dollar due to rising oil prices and US Treasury yields. *[Business Recorder](https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief)*
+- Talat Mehmood has been elected President of the **Karachi Chamber of Commerce and Industry (KCCI)** for the 2026-28 term. *[Business Recorder](https://www.brecorder.com/news/40442086/talat-mehmood-elected-kcci-president)*
+- FBR has extended the deadline for income tax return filing. *[ARY](https://arynews.tv/fbr-extends-income-tax-return-filing-deadline)*
 
 ### Science & Technology
-- Chinese AI firm **DeepSeek** has partnered with **Huawei Technologies** to develop programming tools for **Huawei’s Ascend chips**, including the open-source high-level language **TileLang**. *[Business Recorder](https://www.brecorder.com/news/40441944/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia)*
+- Huawei unveiled its **Mate 90** smartphone series, utilizing in-house operating systems and redesigned chip architecture to mitigate US semiconductor curbs. *[Business Recorder](https://www.brecorder.com/news/40442125/huawei-unveils-mate-90-phones-leans-on-homegrown-chip-design-to-offset-us-curbs)*
+- The upcoming video game **GTA 6** is set to feature a wildlife ecosystem containing over **170 different animal species**. *[ARY](https://arynews.tv/gta-6-will-feature-wildlife-ecosystem-with-over-170-animal-species)*
+
+### Politics
+- Prime Minister Shehbaz Sharif announced **"CPEC 2.0,"** shifting the focus toward industrialization, IT, artificial intelligence, agriculture, and mining. *[Business Recorder](https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm)*
 
 ### National
-- The Lahore High Court (LHC) has restrained the **FBR** from making further tax recoveries from the **Pakistan Agricultural Storage and Services Corporation (PASSCO)** and allowed the entity to operate its bank accounts. *[Business Recorder](https://www.brecorder.com/news/40441911/lhc-restrains-fbr-from-making-further-tax-recovery-from-passco)*
-- Khyber Pakhtunkhwa Chief Minister **Muhammad Sohail Afridi** inaugurated the new **Pink Bus Service** for women under the Peshawar BRT fleet. *[Business Recorder](https://www.brecorder.com/news/40441846/afridi-opens-pink-bus-service-under-brt)*
-- The Islamabad High Court (IHC) issued notices to the **National Accountability Bureau (NAB)** regarding its petition challenging an order in the **fake bank accounts case**. *[Business Recorder](https://www.brecorder.com/news/40441855/fake-bank-accounts-case-ihc-issues-notices-on-nabs-plea-challenging-acs-order)*
-- Pakistan is bracing for a **25 percent water shortage** during the upcoming **Rabi season**, raising significant food security concerns. *[Business Recorder](https://www.brecorder.com/news/40441852/water-shortage)*
+- A bridge structure under the **Red Line project** in Karachi collapsed, resulting in **one death**. *[ARY](https://arynews.tv/red-line-project-bridge-structure-collapses-in-karachi-one-killed)*
+- The Federal Constitutional Court (FCC) ruled that the High Court's jurisdiction under **Article 199** cannot be used for every employment-related dispute. *[Business Recorder](https://www.brecorder.com/news/40442088/every-employment-related-dispute-hcs-jurisdiction-under-article-199-not-available-fcc)*
 
 ### International
-- Russian air strikes in **Kyiv** and surrounding regions killed **one child** and injured **five people**, damaging private houses, a store, and a warehouse. *[Business Recorder](https://www.brecorder.com/news/40441943/russian-air-strikes-kill-one-injure-five-in-and-around-kyiv-officials-say)*
-- The US Treasury Department sanctioned **10 individuals and entities**, including those based in **Pakistan, China, and Hong Kong**, for assisting Iran in procuring weapons. *[Business Recorder](https://www.brecorder.com/news/40441907/us-sanctions-10-over-procuring-weapons-for-iran)*
-- Iran has threatened to launch attacks on **Middle East infrastructure** as it awaits a US response regarding the reopening of the **Strait of Hormuz**. *[Business Recorder](https://www.brecorder.com/news/40441909/iran-threatens-new-strikes)*
-- Saudi Crown Prince **Mohammed bin Salman** met with UAE Vice President **Sheikh Mansour bin Zayed Al Nahyan** in Riyadh to discuss regional stability. *[Business Recorder](https://www.brecorder.com/news/40441908/mbs-uae-vice-president-meet-in-riyadh)*
+- An emergency landing of a **flydubai** flight in Saudi Arabia occurred after a pilot allegedly attempted to crash the plane, causing a sudden altitude drop of **17,000 feet** in one minute; Israeli PM Netanyahu stated investigations are underway to identify accomplices. *[ARY](https://arynews.tv/israel-claims-passengers-overcame-pilot-who-tried-to-crash-flydubai-flight) [Business Recorder](https://www.brecorder.com/news/40442126/netanyahu-says-israel-will-get-to-the-root-of-co-pilot-in-foiled-bid-to-crash-flydubai-flight) [Business Recorder](https://www.brecorder.com/news/40442084/israel-pm-says-pilot-of-rerouted-flight-tried-to-crash-flydubai-plane)*
+- The **US-led coalition** has officially ended its military mission in Iraq after more than two decades. *[Business Recorder](https://www.brecorder.com/news/40442096/us-led-coalition-ends-mission-in-iraq)*
+- Iran reported receiving a response from the US regarding a recent proposal as Washington begins its withdrawal from Iraq. *[ARY](https://arynews.tv/iran-says-it-receives-us-response-to-latest-proposal-as-washington-pulls-out-of-iraq)*
+- New Zealand’s Parliament has been dissolved ahead of the national election scheduled for **November 7**. *[Business Recorder](https://www.brecorder.com/news/40442127/new-zealand-parliament-dissolved-ahead-of-tight-november-vote)*
+- Indian opposition parties have called for protests following allegations of impropriety in large-scale voter roll revisions. *[Business Recorder](https://www.brecorder.com/news/40442087/india-opposition-parties-call-for-protests-over-vote-theft)*
+- Canada reported having evidence regarding potential security threats originating from India. *[ARY](https://arynews.tv/carney-says-canada-has-some-evidence-on-india-security-threat-cannot-guarantee-no-further-crimes-on-canadian-soil)*
+- Pakistan stated that recent allegations made by the Taliban reflect the group's failure to manage its own internal issues. *[ARY](https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems)*
+
+### Sports
+- Pakistan defeated India **3–0** to advance to the semi-finals of the **Asian Games volleyball** tournament. *[ARY](https://arynews.tv/pakistan-beat-india-to-reach-asian-games-volleyball-semi-finals)*
 
