@@ -7,36 +7,37 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 30-Sep-2026 09:09PKT 
+ &lrm; 01-Oct-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پیٹرول کی قیمت میں **1.49 روپے** کی کمی (نئی قیمت **387.54 روپے** فی لیٹر) جبکہ ہائی اسپیڈ ڈیزل (HSD) کی قیمت میں **2.73 روپے** کی کمی (نئی قیمت **402.24 روپے** فی لیٹر) کر دی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441904/petrol-price-cut-by-rs149-hsds-by-rs273)*
-- حکومت نے **200,000 میٹرک ٹن** اضافی چینی کی برآمد کے لیے طریقہ کار کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441918/modalities-for-export-of-20000-mt-surplus-sugar-approved)*
-- عالمی مارکیٹ میں برینٹ کروڈ کی قیمت میں **1.11 فیصد** اضافہ ہوا اور یہ **103.73 ڈالر** فی بیرل پر پہنچ گیا، جبکہ ڈبلیو ٹی آئی (WTI) میں **0.38 فیصد** اضافہ کے ساتھ قیمت **89.72 ڈالر** ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40441938/oil-climbs-after-trump-denies-he-is-willing-to-ease-sanctions-on-iran)*
-- امریکی ڈالر ستمبر کے دوران یورو کے مقابلے میں تقریباً **2.5 فیصد** بڑھ گیا ہے، جبکہ یورو گر کر **1.1312 ڈالر** کی سطح پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40441939/dollar-set-for-september-rise-mainly-at-euros-expense)*
-- بھارتی کرنسی (روپیہ) کے $1 کے برابر **95.94 سے 95.99** کے درمیان کھلنے کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441942/lower-fed-hike-odds-oil-dip-lend-rbi-hand-in-supporting-indian-rupee)*
-- بھارتی اسٹاک انڈیکس (Nifty 50) گزشتہ روز **22,716.2** پر بند ہوا جبکہ GIFT Nifty **22,834** پوائنٹس پر دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40441940/indian-shares-likely-to-rise-as-oil-comes-off-bse-joins-nifty)*
-- امریکی صارفین کے اعتماد (Consumer Confidence) میں **6.7 پوائنٹس** کی بڑی کمی کے بعد یہ گر کر **81.9** پر آگیا، جو 2014 کے بعد کم ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441912/us-consumer-confidence-sinks-to-lowest-level-since-2014)*
-- ایف بی آر نے لیدر مصنوعات کے لیے ضروری خام مال 'پولی یوریتھین' کو منفی فہرست سے نکال دیا ہے تاکہ مینوفیکچررز کو سیلز ٹیکس ریفنڈ مل سکے۔ *[Business Recorder](https://www.brecorder.com/news/40441910/leather-manufacturers-fbr-trims-negative-list-to-allow-st-refund)*
-- عالمی بانڈز کے لیے ستمبر کا مہینہ بڑھتی ہوئی مہنگائی اور حکومتوں کے مالیاتی حالات کی خرابی کی وجہ سے اب تک کا بدترین مہینہ ثابت ہو رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441941/bonds-set-for-bruising-september-stocks-fare-better)*
+- پیٹرول کی قیمت میں **14 پیسے** کی کمی (نئی قیمت **387.40 روپے** فی لیٹر) جبکہ ہائی سپیڈ ڈیزل (HSD) کی قیمت میں **1.89 روپے** کی کمی (نئی قیمت **400.35 روپے** فی لیٹر) کر دی گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-cut-by-14-paisas-diesel-by-rs1-89-for-october-1)*
+- ایل پی جی (LPG) کی قیمت میں **20.68 روپے** فی کلو کا اضافہ کیا گیا ہے، جس کے نتیجے میں 11.8 کلو کے گھریلو سلنڈر کی قیمت میں **244.14 روپے** کا اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442092/lpg-price-hiked-by-rs2068)*
+- فیڈرل بورڈ آف ریونیو (FBR) نے دولت کے گوشواروں (wealth statements) میں **9.41 ارب روپے** کی بڑے پیمانے پر فراڈ کا پردہ فاش کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442090/fbr-busts-rs941bn-wealth-statement-fraud)*
+- 30 ستمبر تک انکم ٹیکس گوشوارے جمع کرانے والوں کی تعداد میں گزشتہ سال کے مقابلے میں **45 فیصد** اضافہ ہوا ہے، جو کہ کل **5.77 ملین** تک پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442093/income-tax-returns-surge-45pc-yoy-to-5.77m-by-sept-30)*
+- تیل کی عالمی قیمتوں میں اتار چڑھاؤ دیکھا گیا؛ برینٹ کروڈ (Brent crude) کی قیمت **98.15 ڈالر** فی بیرل اور WTI **90.35 ڈالر** فی بیرل رہی۔ *[Business Recorder](https://www.brecorder.com/news/40442119/oil-prices-barely-changed-as-investors-assess-us-iran-peace-talks-and-gulf-exports)*
+- بھارتی روپیہ کمزور ہونے کا خدشہ ہے، جو کہ ڈالر کے مقابلے میں **95.96 سے 95.98** کی رینج میں کھل سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442122/indian-rupee-to-weaken-as-oil-us-yields-weigh-fading-fed-hike-bets-offer-no-relief)*
+- کراچی چیمبر آف کامرس اینڈ انڈسٹری (KCCI) کے انتخابات میں **طلعت محمود** کو صدر منتخب کر لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442086/talat-mehmood-elected-kcci-president)*
+- اے پی ٹی ایم اے (APTMA) کے مطابق، اگر سازگار کاروباری ماحول فراہم کیا جائے تو ٹیکسٹائل ایکسپورٹس میں ایک سال کے اندر **10 ارب ڈالر** سے زیادہ کا اضافہ کیا جا سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442089/aptma-calls-for-a-competitive-business-environment)*
+- حکومت پاکستان توانائی کی فراہمی کو بہتر بنانے کے لیے نجی کمپنیوں کو براہ راست ایل این جی (LNG) درآمد کرنے کی اجازت دینے پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442091/govt-considers-allowing-private-firms-to-directly-import-lng-report)*
+- وزیر اعظم شہباز شریف کے مطابق سی پیک (CPEC) کا نیا مرحلہ اب آئی ٹی، مصنوعی ذہانت، زراعت اور مائننگ پر مرکوز ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40442085/pakistan-china-entering-new-phase-of-cpec-pm)*
 
 ### سائنس اور ٹیکنالوجی
-- چینی اے آئی فرم **DeepSeek** نے **Huawei** کے ساتھ شراکت داری کا اعلان کیا ہے تاکہ **Ascend** چپس کے لیے 'TileLang' جیسی پروگرامنگ زبان اور دیگر ٹولز تیار کیے جا سکیں، جس کا مقصد این ویڈیا (Nvidia) پر انحصار کم کرنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441944/deepseek-partners-with-huawei-to-develop-chip-programming-tools-reducing-reliance-on-nvidia)*
-
-### سیاست
-- پاکستان نے اقوام متحدہ میں بھارت کے خلاف یہ الزام لگایا ہے کہ وہ دہشت گردی کو اپنی خارجہ پالیسی کے ایک ہتھیار کے طور پر استعمال کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441851/terrorism-with-plausible-deniability)*
-
-### بین الاقوامی
-- روس کے فضائی حملوں میں یوکرین کے دارالحکومت کیو اور گردونواح میں ایک بچہ سمیت **ایک شخص ہلاک** اور **پانچ افراد زخمی** ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40441943/russian-air-strikes-kill-one-injure-five-in-and-around-kyiv-officials-say)*
-- ایران نے مشرق وسطیٰ میں بنیادی ڈھانچے پر حملوں کی دھمکی دے دی ہے، جبکہ امریکہ نے ایران پر پابندیاں ختم کرنے کی تجاویز کو مسترد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441909/iran-threatens-new-strikes)*
-- امریکی محکمہ خزانہ نے ایران کے لیے ہتھیار اور ان کے اجزاء کی فراہمی میں مدد کرنے کے الزام میں **10 افراد اور اداروں** پر پابندیاں لگا دی ہیں، جن میں پاکستان سے وابستہ کچھ نام بھی شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40441907/us-sanctions-10-over-procuring-weapons-for-iran)*
-- سعودی ولی عہد محمد بن سلمان نے ریاض میں متحدہ عرب امارات کے نائب صدر سے ملاقات کی تاکہ علاقائی صورتحال پر تبادلہ خیال کیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40441908/mbs-uae-vice-president-meet-in-riyadh)*
+- ہواوے (Huawei) نے اپنی نئی **Mate 90** اسمارٹ فون سیریز متعارف کرائی ہے، جس میں امریکی پابندیوں کے جواب میں مقامی طور پر ڈیزائن کردہ چپ کا استعمال کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442125/huawei-unveils-mate-90-phones-leans-on-homegrown-chip-design-to-offset-us-curbs)*
+- گیم **GTA 6** میں ایک وسیع جنگلی حیات کا نظام ہوگا جس میں **170 سے زائد** جانوروں کی اقسام شامل ہوں گی۔ *[ARY](https://arynews.tv/gta-6-will-feature-wildlife-ecosystem-with-over-170-animal-species)*
 
 ### قومی
-- لاہور ہائی کورٹ نے ایف بی آر کو سرکاری ادارے **PASSCO** سے مزید ٹیکس وصولی کرنے سے روک دیا ہے اور کمپنی کو اپنے بینک اکاؤنٹس چلانے کی اجازت دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441911/lhc-restrains-fbr-from-making-further-tax-recovery-from-passco)*
-- خیبر پختونخوا کے وزیر اعلیٰ نے پشاور بی آر ٹی (BRT) کے بیڑے میں خواتین کے لیے مخصوص **'پنک بس سروس'** کا باقاعدہ آغاز کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40441846/afridi-opens-pink-bus-service-under-brt)*
-- رپورٹوں کے مطابق پاکستان میں ربی کے موسم کے دوران **25 فیصد** پانی کی کمی کا خدشہ ہے، جو ملک کی غذائی تحفظ کے لیے بڑا چیلنج بن سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441852/water-shortage)*
-- اسلام آباد ہائی کورٹ نے جعلی بینک اکاؤنٹس کیس میں نیب کی اس درخواست پر نوٹس جاری کر دیے ہیں جس میں اکاؤنٹیسی کورٹ کے حکم کو چیلنج کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40441855/fake-bank-accounts-case-ihc-issues-notices-on-nabs-plea-challenging-acs-order)*
+- کراچی کے ریڈ لائن پروجیکٹ کے دوران پل کے ڈھانچے کے گرنے سے ایک شخص ہلاک ہو گیا۔ *[ARY](https://arynews.tv/red-line-project-bridge-structure-collapses-in-karachi-one-killed)*
+- وفاقی آئینی عدالت (FCC) نے فیصلہ دیا ہے کہ دفعہ 199 کے تحت ہائی کورٹ کا دائرہ اختیار ہر ملازمت سے متعلقہ تنازعہ پر لاگو نہیں ہوتا۔ *[Business Recorder](https://www.brecorder.com/news/40442088/every-employment-related-dispute-hcs-jurisdiction-under-article-199-not-available-fcc)*
+
+### بین الاقوامی
+- امریکی قیادت کا عراق میں مشن مکمل ہو گیا ہے اور امریکی افواج کے انخلاء کے ساتھ ہی دو دہائیوں پر محیط جنگ کا ایک باب ختم ہو گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442096/us-led-coalition-ends-mission-in-iraq)*
+- اسرائیل کے وزیر اعظم بنجمن نیتن یاہو نے اعلان کیا ہے کہ وہ فلائی دبئی (flydubai) طیارے کو کریش کرنے کی ناکام کوشش میں ملوث کو پائلٹ کی مکمل تحقیقات کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40442126/netanyahu-says-israel-will-get-to-the-root-of-co-pilot-in-foiled-bid-to-crash-flydubai-flight)*
+- نیوزی لینڈ کی پارلیمنٹ کو نومبر میں ہونے والے انتخابات سے قبل تحلیل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442127/new-zealand-parliament-dissolved-ahead-of-tight-november-vote)*
+- بھارت کی اپوزیشن جماعتوں نے ووٹر لسٹوں میں مبینہ ہیرا پھیری کے خلاف احتجاج کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442087/india-opposition-parties-call-for-protests-over-vote-theft)*
+- پاکستان نے طالبان کے الزامات کو ان کے اپنے اندرونی مسائل کو حل کرنے میں ناکامی کا نتیجہ قرار دیا ہے۔ *[ARY](https://arynews.tv/pakistan-says-talibans-allegations-reflect-failure-to-address-internal-problems)*
+
+### کھیل
+- ایشین گیمز کے والی بال سیمی فائنل میں پاکستان نے بھارت کو **3-0** سے شکست دے کر فائنل کا راستہ ہموار کر لیا ہے۔ *[ARY](https://arynews.tv/pakistan-beat-india-to-reach-asian-games-volleyball-semi-finals)*
 
