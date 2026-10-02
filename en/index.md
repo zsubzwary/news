@@ -4,48 +4,44 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 01-Oct-2026 21:03PKT
+Published at: 02-Oct-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The State Bank of Pakistan (SBP) foreign exchange reserves increased by **$39 million** to reach **$21.439 billion**, bringing total liquid foreign reserves to **$26.771 billion**. *[Business Recorder](https://www.brecorder.com/news/40442201/sbp-held-foreign-exchange-reserves-rise-39m-to-2144bn)*
-- Indian companies raised a record **2.43 trillion rupees ($25.27 billion)** in equity during the first half of fiscal 2027, representing a **75% year-on-year jump**. *[Business Recorder](https://www.brecorder.com/news/40442192/indian-firms-defy-stock-market-slump-with-record-25-billion-half-year-equity-fundraise)*
-- Fashion retailer **Khaadi Pakistan Ltd.** plans an IPO next month to raise between **Rs6.2 billion and Rs8.3 billion** for network expansion. *[Business Recorder](https://www.brecorder.com/news/40442196/fashion-brand-khaadi-plans-ipo-next-month-report)*
-- Lucky Motor Corporation launched the **Kia Stonic 1.0L Turbo**, with the **X variant priced at Rs5,499,000** and the **S variant at Rs5,899,000**. *[Business Recorder](https://www.brecorder.com/news/40442187/lucky-motor-opens-bookings-for-all-new-kia-stonic-turbo)*
-- The **HBL Pakistan Manufacturing PMI** eased to **50.9 in September** from **51.8 in August**, signaling the slowest manufacturing expansion in three months. *[Business Recorder](https://www.brecorder.com/news/40442189/hbl-pmi-weaker-new-orders-weigh-on-manufacturing-activity)*
-- Indian rice export prices hit a one-year high, with the **5% broken parboiled variety** quoted at **$378-$384 per ton**. *[Business Recorder](https://www.brecorder.com/news/40442186/asia-rice-indian-rice-export-prices-rise-to-over-one-year-high-on-firm-demand-production-concerns)*
-- Most Gulf bourses trended lower; **Saudi Arabia’s benchmark index dropped 0.5%** as the Saudi National Bank fell **1.6%**, though **Saudi Aramco gained 0.2%**. *[Business Recorder](https://www.brecorder.com/news/40442195/most-gulf-bourses-edge-lower-on-mixed-us-iran-cues)*
-- Wall Street indexes dipped as the **10-year Treasury note yield touched 5.3445%**. *[Business Recorder](https://www.brecorder.com/news/40442197/wall-street-dips-as-surging-treasury-yields-outweigh-software-gains)*
-- PepsiCo and Monster Beverage are suing India’s food regulator over a ban on the **"energy drink" label**, affecting a sector projected to reach **$1.6 billion by 2028**. *[Business Recorder](https://www.brecorder.com/news/40442200/pepsico-monster-challenge-india-energy-drink-label-ban-citing-business-impact)*
+- Pakistan has opened the commercial import of used vehicles. *[ARY](https://arynews.tv/pakistan-opens-commercial-import-of-used-vehicles)*
+- The Pakistan Stock Exchange (PSX) has reported a record rise in the number of new investors. *[ARY](https://arynews.tv/psx-stock-market-sees-record-rise-in-new-investors)*
+- Shaikh Imtiaz Hussain has been reappointed as the Chairman of the Pakistan–USA Business Council of the FPCCI. *[Business Recorder](https://www.brecorder.com/news/40442300/imtiaz-reappointed-fpccis-pak-us-business-council-chief)*
+- Adding **30,000** range-extended electric vehicles (REEVs) annually could save Pakistan over **USD 1 billion** in fuel imports over five years, potentially displacing **1.2 billion litres** of petroleum. *[Business Recorder](https://www.brecorder.com/news/40442311/fuel-imports-usd1bn-can-be-saved-by-adding-30000-reevs-annually-experts-say)*
+- APTMA Chairman Asad Shafi stated the textile industry could earn an additional **USD 3 billion** in exports this year and **USD 10 billion** over the next two to three years. *[Business Recorder](https://www.brecorder.com/news/40442310/textile-industry-could-earn-additional-usd3bn-exports-aptma)*
+- Pakistan Railways increased annual lease revenue from **125 godowns** at Badami Bagh from **Rs 72.2 million to Rs 331.08 million** (a **358.6% increase**), with an upfront security deposit of **Rs 277.72 million**. *[Business Recorder](https://www.brecorder.com/news/40442309/railways-raises-badami-bagh-lease-revenue)*
+- The Punjab Revenue Authority (PRA) has issued notices to more than **70 hotels, restaurants, and marquees** regarding Electronic Invoice Monitoring System (E-IMS) violations. *[Business Recorder](https://www.brecorder.com/news/40442307/pra-steps-up-e-ims-enforcement)*
+- The Pakistan Automotive Manufacturers Association (PAMA) has requested the Secretary of Industries & Production to share the draft of the proposed Auto Policy before finalization. *[Business Recorder](https://www.brecorder.com/news/40442306/proposed-auto-policy-pama-asks-secy-iampp-to-share-draft-before-finalisation)*
+- LCCI President Ali Hassam Asghar emphasized the need for a sector-specific strategy to tap into the Brazilian market. *[Business Recorder](https://www.brecorder.com/news/40442305/brazilian-market-pakistan-needs-well-tailored-sector-specific-strategy-lcci)*
+- A survey by the Institute of Regional Studies shows **89%** of low-income households in Peshawar are in debt due to inflation, with **95.1%** struggling to repay loans. *[Business Recorder](https://www.brecorder.com/news/40442301/inflation-compels-89pc-of-peshawar-households-to-debt-survey)*
+- HBL met with the KDA Director General to discuss improving banking, housing, and auto financing facilities for KDA employees. *[Business Recorder](https://www.brecorder.com/news/40442299/hbl-team-kda-dg-discuss-banking-facilities)*
+- Global markets saw US 10-year Treasury yields reach as high as **5.344%**, while spot gold fell **0.6% to $4,154.78 per ounce**, marking a weekly decline of over **3%**. *[Business Recorder](https://www.brecorder.com/news/40442315/asian-shares-fall-after-wild-swings-in-bonds-fx-before-us-jobs-data)*, *[Business Recorder](https://www.brecorder.com/news/40442314/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss)*, and *[Business Recorder](https://www.brecorder.com/news/40442313/dollar-at-17-month-high-as-global-bond-rout-hits-euro)*.
 
 ### Science & Technology
-- **SpaceX** successfully launched a **Falcon 9 rocket** from Florida carrying a **four-member crew** (two US astronauts, one Canadian, and one Russian cosmonaut) to the International Space Station. *[Business Recorder](https://www.brecorder.com/news/40442199/spacex-launches-13th-long-duration-astronaut-crew-to-international-space-station)*
-
-### Politics
-- The **Trump administration** has pressured France and Germany to release emergency diesel stocks or face a potential **US diesel export ban**. *[Business Recorder](https://www.brecorder.com/news/40442182/us-tells-france-and-germany-to-release-diesel-stocks-or-face-us-export-ban-sources-say)*
-- **Iran** is preparing a more forceful retaliation plan in response to potential large-scale US military attacks. *[Business Recorder](https://www.brecorder.com/news/40442180/iran-readies-harder-retaliation-if-attacked-as-diplomacy-faces-long-odds)*
-- Water resource management has become a major political issue on the **Arizona ballot**. *[ARY](https://arynews.tv/water-wars-come-to-the-ballot-box-in-arizona)*
+- Starship Flight 14 has sparked theories regarding a "mystery object" and potential alien motherships. *[ARY](https://arynews.tv/starship-flight-14-alien-mothership-theories-erupt-over-mystery-object)*
+- The Punjab government is planning to integrate **Artificial Intelligence (AI)** into agricultural practices to improve farm productivity. *[Business Recorder](https://www.brecorder.com/news/40442308/punjab-plans-ai-integration-to-boost-farm-productivity)*
 
 ### National
-- The **DG ISPR** stated that the war against terrorism cannot be sacrificed for politics and debunked false Indian media reports regarding the killing of a former Pakistani soldier. *[ARY](https://arynews.tv/war-against-terrorism-cannot-be-sacrificed-for-anyones-politics-says-dg-ispr) / [Business Recorder](https://www.brecorder.com/news/40442183/dg-ispr-debunks-indian-media-claim-of-ex-pakistan-army-official-s-killing)*
-- A court has granted bail to **three suspects** involved in the **Ayat Noor case**. *[ARY](https://arynews.tv/ayat-noor-case-court-grants-bail-to-three-suspects)*
-- The **National Library of Pakistan** has launched a new lecture series specifically for **CSS aspirants**. *[ARY](https://arynews.tv/national-library-pakistan-launches-lecture-series-for-css-aspirants)*
+- A suspect involved in a mobile phone theft at a Karachi farmhouse remains at large. *[ARY](https://arynews.tv/karachi-farmhouse-mobile-phone-theft-suspect-still-at-large)*
+- DG ISPR has addressed matters involving India and Hashim Musa. *[ARY](https://arynews.tv/how-dg-ispr-named-and-shamed-india-who-is-hashim-musa)*
+- Khyber Pakhtunkhwa has launched the **Rs 2.6 billion** “Ehsaas-e-Bezaban Sehat Gaari” programme, which includes **145 mobile veterinary clinics**, **27 mobile laboratory units**, and **202 vets**. *[Business Recorder](https://www.brecorder.com/news/40442302/kp-launches-rs26bn-livestock-health-programme)*
+- Morocco’s OCP Group is discussing cooperation with Punjab to improve soil health and develop customized fertilizers. *[Business Recorder](https://www.brecorder.com/news/40442303/moroccos-ocp-group-discusses-soil-health-cooperation-with-punjab)*
+- The Punjab Information Technology Board (PITB) has opened online bidding for premium vehicle registration numbers through **October 31**. *[Business Recorder](https://www.brecorder.com/news/40442304/online-bidding-opens-for-premium-vehicle-numbers)*
 
 ### International
-- An avalanche at the **7,126-meter Himlung Himal** in Nepal killed at least **15 workers**, with **one person still missing**. *[ARY](https://arynews.tv/avalanche-kills-15-nepali-workers-preparing-himalayan-mountain-camp-for-climbers) / [Business Recorder](https://www.brecorder.com/news/40442188/avalanche-kills-15-nepali-workers-preparing-himalayan-mountain-camp-for-climbers)*
-- Israeli officials are investigating a **flydubai flight (FZ1073)** incident where a co-pilot allegedly attempted to crash the plane en route to Tel Aviv. *[Business Recorder](https://www.brecorder.com/news/40442184/israel-vows-to-get-to-root-of-flydubai-attack-no-motive-yet-determined)*
-- An alleged gang rape at **Cornell University** has triggered calls to revise sexual assault laws in New York. *[ARY](https://arynews.tv/alleged-cornell-gang-rape-prompts-calls-to-revise-new-york-sexual-assault-laws)*
+- Kuwait’s PAM intends to take action against employers utilizing female employees for unlawful work. *[ARY](https://arynews.tv/kuwait-pam-to-take-action-against-permit-employers-utilizing-female-employs-to-do-unlawful-work)*
+- The family of Renee Good has filed a lawsuit against the Trump administration regarding a fatal shooting in Minneapolis. *[ARY](https://arynews.tv/renee-goods-family-sues-trump-administration-over-fatal-minneapolis-shooting)*
+- Death row inmate Christa Gail Pike expressed kinship with Lindsay Clancy during a prison interview. *[ARY](https://arynews.tv/death-row-inmate-christa-gail-pike-expresses-kinship-with-lindsay-clancy-in-prison-interview)*
+- South Korean President Lee Jae Myung has threatened measures against Ukraine regarding the transfer of **two** captured North Korean soldiers. *[Business Recorder](https://www.brecorder.com/news/40442319/south-koreas-lee-threatens-action-against-ukraine-over-transfer-of-north-korean-soldiers)*
+- Ukraine has officially deployed the **FP-7 tactical ballistic missile** in combat for the first time. *[Business Recorder](https://www.brecorder.com/news/40442316/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskiy-says)*
+- An attack at a secondary school in Mexico's Coahuila state left a vice principal dead and **three** others injured. *[Business Recorder](https://www.brecorder.com/news/40442317/attack-at-mexico-secondary-school-kills-vice-principal-injures-three)*
 
 ### Sports
-- **Pakistan defeated India 3-0** (25-19, 25-23) in the Asian Games men's volleyball quarter-finals to reach the semi-finals. *[Business Recorder](https://www.brecorder.com/news/40442193/pakistan-beat-india-3-0-to-reach-asian-games-volleyball-semi-finals)*
-- **India edged Pakistan 4-3** in the Asian Games men's hockey semi-final. *[Business Recorder](https://www.brecorder.com/news/40442181/india-edge-past-pakistan-4-3-in-asian-games-hockey-semi-final)*
-- The **ICC** announced new playing conditions that include a **five-run penalty** for batters found wasting time three or more times. *[ARY](https://arynews.tv/icc-includes-penalties-in-new-playing-conditions) / [Business Recorder](https://www.brecorder.com/news/40442198/icc-announces-five-run-penalty-for-batters-wasting-time)*
-- **England** named a 16-man squad for the ODI tri-series in Pakistan, featuring returning players **Adil Rashid and Sam Curran**. *[Business Recorder](https://www.brecorder.com/news/40442190/rashid-curran-return-as-england-call-up-uncapped-trio-for-pakistan-odi-tri-series)*
-- The **Desert Vipers** have bolstered their squad with the signings of **Babar, Fakhar, and Naseem**. *[ARY](https://arynews.tv/desert-vipers-bolster-squad-with-babar-fakhar-and-naseem-signings)*
-- The Turkish Football Federation has suspended **448 club officials**, including Trabzonspor President Ertugrul Dogan, in a major betting investigation. *[Business Recorder](https://www.brecorder.com/news/40442191/turkiye-suspends-448-club-officials-in-betting-probe)*
-- **Caitlin Clark** delivered a historic performance in a game 2 thriller for the Fever. *[ARY](https://arynews.tv/caitlin-clark-goes-historic-as-fever-force-game-2-thriller)*
-
-### Health
-- Pakistan has officially launched the **National Mental Health Policy 2026-2035**. *[ARY](https://arynews.tv/pakistan-launches-national-mental-health-policy-2026-2035)*
+- Lionel Messi has become the majority owner of the Spanish second-tier club **CD Eldense**. *[ARY](https://arynews.tv/messi-becomes-the-majority-owner-of-spanish-club-eldense)* / *[Business Recorder](https://www.brecorder.com/news/40442318/messi-becomes-the-majority-owner-of-spanish-club-eldense)*
+- The Cricket World Cup schedule has been announced, featuring an India-Pakistan match on **October 10**. *[ARY](https://arynews.tv/cricket-world-cup-schedule-announced-india-pakistan-clash-set-for-october-10)*
 
