@@ -7,48 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 02-Oct-2026 09:09PKT 
+ &lrm; 28-Oct-2026 15:00PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان اسٹاک ایکسچینج (PSX) میں نئے سرمایہ کاروں کی تعداد میں ریکارڈ اضافہ دیکھنے میں آیا ہے۔ *[ARY](https://arynews.tv/psx-stock-market-sees-record-rise-in-new-investors)*
-- شیخ امتیاز حسین کو دوبارہ FPCCI کے پاکستان-امریکہ بزنس کونسل کا چیئرمین مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442300/imtiaz-reappointed-fpccis-pak-us-business-council-chief)*
-- ماہرین کے مطابق سالانہ 30,000 رینج ایکسٹینڈڈ الیکٹرک گاڑیاں (REEVs) شامل کرنے سے پاکستان 5 سالوں میں ایندھن کی درآمد میں 1 ارب ڈالر بچا سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442311/fuel-imports-usd1bn-can-be-saved-by-adding-30000-reevs-annually-experts-say)*
-- APTMA کے مطابق، بہتر کاروباری ماحول فراہم کرنے کی صورت میں ٹیکسٹائل انڈسٹری اس سال 3 ارب ڈالر اور اگلے 2 سے 3 سالوں میں 10 ارب ڈالر اضافی برآمدات کما سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442310/textile-industry-could-earn-additional-usd3bn-exports-aptma)*
-- پاکستان ریلوے نے بدیامی باغ کے 125 گوداموں کی نیلامی سے سالانہ لیز آمدنی میں 358.6 فیصد اضافہ کیا ہے، جو 72.2 ملین روپے سے بڑھ کر 331.08 ملین روپے ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442309/railways-raises-badami-bagh-lease-revenue)*
-- پنجاب ریونیو اتھارٹی (PRA) نے E-IMS کی خلاف ورزی کرنے والے 70 سے زائد ہوٹلوں، ریسٹورنٹس اور مارکیوں کو نوٹس جاری کر کے کارروائی تیز کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442307/pra-steps-up-e-ims-enforcement)*
-- پاکستان آٹوموٹو مینوفیکچررز ایسوسی ایشن (PAMA) نے حکومت سے مطالبہ کیا ہے کہ نئی آٹو پالیسی کو حتمی شکل دینے سے پہلے ان کے ساتھ ڈرافٹ شیئر کیا جائے۔ *[Business Recorder](https://www.brecorder.com/news/40442306/proposed-auto-policy-pama-asks-secy-iampp-share-draft-before-finalisation)*
-- لاہور چیمبر آف کامرس (LCCI) کے مطابق برازیل کے بازار سے فائدہ اٹھانے کے لیے پاکستان کو ایک مخصوص اور بہتر تجارتی حکمت عملی کی ضرورت ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442305/brazilian-market-pakistan-needs-well-tailored-sector-specific-strategy-lcci)*
-- پنجاب انفارمیشن ٹیکنالوجی بورڈ (PITB) نے اکتوبر کے لیے گاڑیوں کے پرمیئم رجسٹریشن نمبروں کی آن لائن بولی کا آغاز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442304/online-bidding-opens-for-premium-vehicle-numbers)*
-- پشاور میں مہنگائی کے باعث 89 فیصد خاندان قرضوں میں مبتلا ہیں، جبکہ 95.1 فیصد قرض لینے والے خاندانوں کو واپسی میں دشواری کا سامنا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442301/inflation-compels-89pc-of-peshawar-households-to-debt-survey)*
-- HBL کی ٹیم نے KDA کے ڈائریکٹر جنرل سے ملاقات کی تاکہ ملازمین کے لیے بہتر بینکنگ اور مالیاتی سہولیات فراہم کی جا سکیں۔ *[Business Recorder](https://www.brecorder.com/news/40442299/hbl-team-kda-dg-discuss-banking-facilities)*
-- امریکی ملازمتوں کے ڈیٹا سے قبل ایشیائی شیئرز میں گراوٹ آئی جبکہ امریکی ٹریژری ییلڈ 5.34% سے کم ہو کر 5.2512% پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40442315/asian-shares-fall-after-wild-swings-in-bonds-fx-before-us-jobs-data)*
-- سونے کی قیمت میں 0.6 فیصد کمی واقع ہوئی ہے، جس کے بعد اسٹاپ گولڈ 4,154.78 ڈالر فی اونس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40442314/gold-slips-before-us-payrolls-data-set-for-second-weekly-loss)*
-- عالمی بانڈ مارکیٹ میں اتار چڑھاؤ کے باعث امریکی ڈالر 17 ماہ کی بلند ترین سطح پر پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442313/dollar-at-17-month-high-as-global-bond-rout-hits-euro)*
-- پاکستان نے استعمال شدہ گاڑیوں کی کمرشل درآمد کے عمل کو کھول دیا ہے۔ *[ARY](https://arynews.tv/pakistan-opens-commercial-import-of-used-vehicles)*
-
-### سائنس اور ٹیکنالوجی
-- سٹار شپ فلائٹ 14 کے دوران ایک پراسرار چیز کے نظر آنے پر خلائی مخلوق (Alien) سے متعلق مختلف نظریات گردش کرنے لگے۔ *[ARY](https://arynews.tv/starship-flight-14-alien-mothership-theories-erupt-over-mystery-object)*
-- یوکرین نے پہلی بار اپنے FP-7 ٹیکٹیکل بیلسٹک میزائل کا جنگی استعمال کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442316-ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskiy-says)*
-- پنجاب حکومت زرعی پیداوار بڑھانے کے لیے کسانوں کی روزمرہ زندگی میں مصنوعی ذہانت (AI) کے استعمال پر کام کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442308-punjab-plans-ai-integration-to-boost-farm-productivity)*
+- پاکستان میں سونے کی قیمت میں فی تولہ **3,500 روپے** کا اضافہ ہوا، جس سے نئی قیمت **425,636 روپے** تک پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446299/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- 10 گرام سونے کی قیمت میں **3,001 روپے** کا اضافہ ہوا اور یہ **364,914 روپے** پر فروخت کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40446299/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
+- کولگیٹ پالمولیو پاکستان نے پورٹ قاسم، کراچی میں پی اینڈ جی (P&G) کے اثاثے اور مینوفیکچرنگ یونٹ خریدنے کے لیے معاہدے پر دستخط کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446306/colgate-palmolive-pakistan-to-acquire-pampgs-port-qasim-assets)*
+- اے پی ٹی ایم اے (APTMA) نے ایف بی آر سے مطالبہ کیا ہے کہ کراچی میں سینٹرل ایپریزنگ یونٹ (CAU) کو برقرار رکھا جائے تاکہ کلیئرنس میں تاخیر اور بڑھتی ہوئی لاگت سے بچا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40446303/aptma-urges-fbr-to-retain-karachis-cau-amid-clearance-delays)*
+- مشرق وسطیٰ میں **1.7 ملین** پاکستانیوں کو ملازمتیں مل گئی ہیں، جس میں سعودی عرب کی قیادت ہے۔ *[ARY](https://arynews.tv/saudi-arabia-leads-as-1-7-mln-pakistanis-find-jobs-in-middle-east)*
+- پاکستان کے وزیر تجارت نے پاکستانی مصنوعات کے فروغ کے لیے دوحہ میں ایکسپورٹ ڈسپلے سینٹر کا افتتاح کیا۔ *[ARY](https://arynews.tv/commerce-minister-inaugurates-export-display-centre-in-doha-to-promote-pakistani-products)*
+- حکومت نے بڑے عوامی شعبے کے تعمیراتی منصوبوں کے لیے کم از کم **تین سالہ** ڈیفیکٹ لائبلٹی پیریڈ متعارف کرانے کا منصوبہ بنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446307/government-plans-minimum-three-year-defect-liability-period-for-major-projects)*
+- ویتنام نے اپنی ہفتہ وار سرکاری بانڈ کی نیلامی میں **619.39 ملین ڈالر** جمع کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446298/vietnam-raises-619-million-in-government-bond-auction-bourse-filing-says)*
+- چینی اور ہانگ کانگ کے اسٹاک مارکیٹ میں تیزی دیکھی گئی، جہاں CSI300 انڈیکس میں **0.7 فیصد** اضافہ ریکارڈ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446302/china-stocks-rebound-on-tech-rally-tracking-asian-markets)*
+- بی این پی پیریباس (BNP Paribas) کا تیسری سہ ماہی کا منافع 14 فیصد بڑھ کر **3.46 ارب یورو** ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446297/bnp-paribas-beats-q3-profit-forecast-unveils-eur13-billion-share-buyback)*
+- یو بی ایس (UBS) نے تیسری سہ ماہی میں **2.69 ارب ڈالر** کا منافع رپورٹ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446296/ubs-meets-expectations-with-27-billion-q3-profit)*
+- جنوبی کوریا کے KOSPI انڈیکس میں **5.99 فیصد** کا بڑا اضافہ ہوا اور یہ **5,975.98** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446292/south-korean-shares-rally-6-as-sk-hynix-beats-forecasts)*
+- بھارتی 2036 کے بانڈ کی شرح سود **7.42% سے 7.48%** کے درمیان رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446291/india-bonds-may-open-steady-after-relief-rally-from-near-750-levels)*
+- تھائی باہٹ امریکی ڈالر کے مقابلے میں **0.26 فیصد** کم ہو کر **33.83** پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40446290/thai-bahtus-dollar-weaker-on-wednesday)*
+- آسٹریلوی S&P/ASX 200 انڈیکس میں **0.9 فیصد** اضافہ ہوا اور یہ **8,823.90** پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446289/miners-lift-australian-shares-ahead-of-inflation-data)*
 
 ### سیاست
-- رینی گڈ کے خاندان نے مինیا پولس میں ہونے والے جان لیوا شوٹنگ کے معاملے میں ٹرمپ انتظامیہ کے خلاف مقدمہ دائر کر دیا ہے۔ *[ARY](https://arynews.tv/renee-goods-family-sues-trump-administration-over-fatal-minneapolis-shooting)*
-- جنوبی کوریا کے صدر نے یوکرین کو شمالی کوریا کے فوجیوں کی منتقلی کے حوالے سے سخت اقدامات کی دھمکی دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40442319-south-koreas-lee-threatens-action-against-ukraine-over-transfer-of-north-korean-soldiers)*
+- پاکستان نے بیجنگ کی 'ون چائنا پالیسی' کی حمایت میں تائیوان کی ایئر لائنز کے لیے اپنی فضائی حدود بند کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446308/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report)*
+- پی ٹی آئی کی پارلیمانی پارٹی کے اجلاس میں عاشق مزئی کے کردار کے حوالے سے سوالات اٹھائے گئے۔ *[ARY](https://arynews.tv/pti-parliamentary-party-meeting-raises-questions-over-achakzais-role)*
+- اسرائیل کے انتخابی نتائج کے بعد نیتن یاہو اور گڈی آئزنکوٹ کے درمیان ملک کی قیادت کے لیے مقابلہ شروع ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446295/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote)*
 
 ### قومی
-- کراچی کے ایک فارم ہاؤس میں موبائل فون چوری کرنے والا مشتبہ شخص اب بھی پولیس کی گرفت سے باہر ہے۔ *[ARY](https://arynews.tv/karachi-farmhouse-mobile-phone-theft-suspect-still-at-large)*
-- ڈی جی آئی ایس پی آر نے بھارت کے خلاف سخت بیانات جاری کیے ہیں۔ *[ARY](https://arynews.tv/how-dg-ispr-named-and-shamed-india-who-is-hashim-musa)*
-- مراکش کے OCP گروپ اور پنجاب حکومت کے درمیان مٹی کی صحت اور بہتر کھاد کے استعمال پر تعاون کے لیے مذاکرات ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40442303-moroccos-ocp-group-discusses-soil-health-cooperation-with-punjab)*
-- خیبر پختونخوا نے 2.6 ارب روپے کا لائیو اسٹاک ہیلتھ پروگرام شروع کیا ہے، جس کے تحت 145 موبائل ویٹرنری کلینک، 27 لیبارٹری یونٹس اور 202 ویٹرنری اسٹاف تعینات کیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40442302-kp-launches-rs26bn-livestock-health-programme)*
+- لاہور ہائی کورٹ کے ایک جج نے عدالتی خودمختاری میں کمی کا حوالہ دیتے ہوئے اپنے عہدے سے استعفیٰ دے دیا۔ *[ARY](https://arynews.tv/citing-shrinking-judicial-independence-lhc-judge-tenders-resignation)*
+- بلوچستان کے اضلاع کچھی اور وڈ میں سکیورٹی فورسز کے آپریشن کے دوران **9 دہشت گرد** ہلاک کر دیے گئے۔ *[ARY](https://arynews.tv/nine-terrorists-killed-in-security-forces-ibos-in-kachhi-and-wadh-districts-of-balochistan-ispr)*
+- واشنگٹن ڈی سی میں پاکستانی سفارت خانے نے 'کشمیر بلیک ڈے' منایا اور کشمیریوں کے حق خودارادیت کی حمایت کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446301/pakistan-embassy-observes-kashmir-black-day-reaffirms-unwavering-support-for-kashmiris-right-to-self-determination)*
 
 ### بین الاقوامی
-- کویت کے پی اے ایم (PAM) نے ان آجروں کے خلاف کارروائی کا فیصلہ کیا ہے جو خواتین ملازمین سے غیر قانونی کام کرواتے ہیں۔ *[ARY](https://arynews.tv/kuwait-pam-to-take-action-against-permit-employers-utilizing-female-employs-to-do-unlawful-work)*
-- موت کی سزا یافتہ قیدی کرسٹا گیل پائک نے جیل انٹرویو میں اپنی ہم آہنگی کا اظہار کیا۔ *[ARY](https://arynews.tv/death-row-inmate-christa-gail-pike-expresses-kinship-with-lindsay-clancy-in-prison-interview)*
-- میکسیکو کے شمالی علاقے میں اسکول پر حملے کے نتیجے میں ایک وائس پرنسپل ہلاک اور تین افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40442317-attack-at-mexico-secondary-school-kills-vice-principal-injures-three)*
+- مصر اور سعودی عرب کے وزرائے خارجہ نے علاقائی بحران کو روکنے کے لیے فون پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40446300/egypt-saudi-foreign-ministers-discussed-containing-regional-crisis)*
+- امریکہ اور جنوب مشرقی ایشیائی ممالک (ASEAN) کے درمیان دفاعی تعاون کا فریم ورک تیار کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446294/us-and-asean-working-on-defence-cooperation-deal-says-hegseth)*
+- چین نے فٹ بالر ایمباپے کی معافی کو 'سنجیدگی' سے لینے کا کہا ہے۔ *[ARY](https://arynews.tv/china-says-takes-mbappe-apology-seriously)*
+- مصر میں آوارہ کتوں کے حملے سے ایک بچہ جاں بحق ہو گیا، جس پر تحقیقات کا آغاز کر دیا گیا ہے۔ *[ARY](https://arynews.tv/stray-dogs-maul-toddler-to-death-in-egypt-sparking-outrage-and-investigation)*
+
+### موسم
+- بھارت کے مشرقی ساحل کے قریب طاقتور سائیکلون 'ارنب' (Arnab) کی آمد، جس کے پیش نظر اندرا پردیش اور اڑیسہ میں **180,000** افراد کو نکال لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446293/cyclone-arnab-stalls-close-to-indias-east-coast)*
 
 ### کھیل
-- لیونل میسی نے ہسپانوی کلب CD Eldense کے اکثریتی مالک بننے کا عمل مکمل کر لیا ہے۔ *[ARY](https://arynews.tv/messi-becomes-the-majority-owner-of-spanish-club-eldense)*
-- کرکٹ ورلڈ کپ کا شیڈول جاری کر دیا گیا ہے، جس کے تحت پاک-بھارت کا مقابلہ 10 اکتوبر کو ہوگا۔ *[ARY](https://arynews.tv/cricket-world-cup-schedule-announced-india-pakistan-clash-set-for-october-10)*
+- ورلڈ کپ تنازع کے باعث جاپان کے ایک فٹ بال عہدیدار نے استعفیٰ دے دیا۔ *[ARY](https://arynews.tv/japan-football-official-quits-over-world-cup-row)*
+- تین بار کے گرینڈ سلیم چیمپئن اسٹین واورینکا نے باسل میں جیری لیہیکا سے **7-5، 7-6(2)** کی شکست کے بعد اپنے پیشہ ورانہ کیریئر کا اختتام کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446304/wawrinka-brings-career-to-a-close-with-defeat-in-basel)*
+- بارسلونا پر جولین الواریز سے غیر قانونی طور پر رابطہ کرنے پر **602 یورو** کا جرمانہ عائد کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446305/barcelona-handed-eur602-fine-over-alvarez-approach)*
 
