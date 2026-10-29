@@ -4,47 +4,46 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 28-Oct-2026 14:53PKT
+Published at: 29-Oct-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Gold prices in Pakistan increased by **Rs. 3,500** per tola, reaching **Rs. 425,636**, while 10-gram gold rose by **Rs. 3,001** to reach **Rs. 364,914**. *[Business Recorder](https://www.brecorder.com/news/40446299/gold-price-drops-by-rs2700-per-tola-in-pakistan)* *[ARY](https://arynews.tv/gold-prices-rise-in-pakistan-as-international-rates-gain)*
-- Approximately **1.7 million** Pakistanis have found employment in the Middle East, with **Saudi Arabia** leading the trend. *[ARY](https://arynews.tv/saudi-arabia-leads-as-1-7-mln-pakistanis-find-jobs-in-middle-east)*
-- The Commerce Minister has inaugurated an export display centre in **Doha** to promote Pakistani products. *[ARY](https://arynews.tv/commerce-minister-inaugurates-export-display-centre-in-doha-to-promote-pakistani-products)*
-- The government plans to implement a minimum **three-year** defect liability period for major public-sector construction projects to strengthen the construction sector. *[Business Recorder](https://www.brecorder.com/news/40446307/government-plans-minimum-three-year-defect-liability-period-for-major-projects)*
-- **Colgate-Palmolive (Pakistan) Limited** has signed an asset purchase agreement with **Procter & Gamble Pakistan** to acquire land and manufacturing assets at **Port Qasim, Karachi**. *[Business Recorder](https://www.brecorder.com/news/40446306/colgate-palmolive-pakistan-to-acquire-pampgs-port-qasim-assets)*
-- The **All Pakistan Textile Mills Association (APTMA)** has urged the FBR to retain the **Central Appraising Unit (CAU)** in Karachi to address clearance delays and valuation disputes. *[Business Recorder](https://www.brecorder.com/news/40446303/aptma-urges-fbr-to-retain-karachis-cau-amid-clearance-delays)*
-- China's **CSI300** and **Shanghai Composite** indices both climbed **0.7%** during lunch trading, while the **Hang Seng Tech** index jumped **1.8%**. *[Business Recorder](https://www.brecorder.com/news/40446302/china-stocks-rebound-on-tech-rally-tracking-asian-markets)*
-- Vietnam's State Treasury raised **16 trillion dong ($619.39 million)** in its weekly government bond auction, with an **84%** sale rate. *[Business Recorder](https://www.brecorder.com/news/40446298/vietnam-raises-619-million-in-government-bond-auction-bourse-filing-says)*
-- **BNP Paribas** reported a **14%** rise in third-quarter net income to **€3.46 billion** and announced a **€1.3 billion ($1.45 billion)** share buyback. *[Business Recorder](https://www.brecorder.com/news/40446297/bnp-paribas-beats-q3-profit-forecast-unveils-eur13-billion-share-buyback)*
-- **UBS** reported a third-quarter net profit of **$2.69 billion** (up **8%** year-on-year), supported by **$55 billion** in net new assets. *[Business Recorder](https://www.brecorder.com/news/40446296/ubs-meets-expectations-with-2.7-billion-q3-profit)*
-- South Korean benchmark **KOSPI** rose **5.99%** to **5,975.98**, driven by a rally in chipmakers like **SK Hynix**. *[Business Recorder](https://www.brecorder.com/news/40446292/south-korean-shares-rally-6-as-sk-hynix-beats-forecasts)*
-- Indian **6.94% 2036** bond yields are projected to trade between **7.42% and 7.48%**. *[Business Recorder](https://www.brecorder.com/news/40446291/india-bonds-may-open-steady-after-relief-rally-from-near-750-levels)*
-- The **Thai baht** weakened by **0.26%** to **33.83** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40446290/thai-bahtus-dollar-weaker-on-wednesday)*
-- The **S&P/ASX 200** index rose **0.9%** to **8,823.90**, supported by rising copper prices. *[Business Recorder](https://www.brecorder.com/news/40446289/miners-lift-australian-shares-ahead-of-inflation-data)*
+- Petrol and diesel prices have increased following a notification issued by OGRA. *[ARY](https://arynews.tv/petrol-diesel-prices-increased-as-ogra-issues-notification)*
+- Samsung Electronics reported a record Q3 operating profit of 107.4 trillion won ($80.04 billion), a nearly ninefold increase from 12.2 trillion won a year prior, driven by AI chip demand. *[Business Recorder](https://www.brecorder.com/news/40446462/samsung-posts-record-profit-in-q3-on-ai-chip-boom)*
+- The Indian rupee is expected to open in the 95.14-95.18 range against the US dollar, following a Wednesday settlement of 95.22. *[Business Recorder](https://www.brecorder.com/news/40446461/indian-rupee-eyes-mild-relief-with-asian-peers-buoyed-by-modestly-dovish-fed)*
+- Alphabet shares fell 10% in after-hours trading, erasing approximately $400 billion in market value, while Microsoft shares rose 3% following better-than-expected cash flows. *[Business Recorder](https://www.brecorder.com/news/40446458/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower)*
+- The US Federal Reserve maintained interest rates within the 3.75%–4.00% range in a 10-2 decision, delaying changes until after the US midterm elections. *[Business Recorder](https://www.brecorder.com/news/40446433/fed-leaves-rates-unchanged)*
+- Oil prices saw volatility: Brent crude futures declined 0.7% to $114.50 a barrel and WTI fell 1.0% to $101.74, though later Brent settled at $115.32 (up 1%) and WTI at $102.78 (up 3%). *[Business Recorder](https://www.brecorder.com/news/40446456/oil-prices-fall-as-peace-hopes-offset-fears-of-growing-middle-east-conflict)*
+- Pakistan State Oil (PSO) approved a five-year renewal of its Sale Purchase Agreement (SPA) with Attock Refinery Limited (ARL), effective from July 1, 2025, to June 30, 2030. *[Business Recorder](https://www.brecorder.com/news/40446430/pso-board-approves-renewal-of-spa-with-arl-for-5-years)*
+- The State Bank of Pakistan (SBP) doubled the Minimum Capital Requirement (MCR) for local banks and Islamic subsidiaries from Rs10 billion to Rs20 billion. *[Business Recorder](https://www.brecorder.com/news/40446432/sbp-doubles-mcr-for-banks)*
+- SBP issued revised instructions for the export of 200,000 metric tons of sugar following endorsement by the Government of Khyber Pakhtunkhwa. *[Business Recorder](https://www.brecorder.com/news/40446435/sbp-revises-instructions-on-sugar-export)*
+- A new SBP financing framework has been rolled out to improve credit access for Small Enterprises (SEs) and Small Farmers (SFs). *[Business Recorder](https://www.brecorder.com/news/40446436/sbp-rolls-out-financing-framework-for-ses-and-sfs)*
+- Outstanding SME financing in Pakistan stands at Rs1.148 trillion, while outstanding agriculture credit has reached Rs1.329 trillion. *[Business Recorder](https://www.brecorder.com/news/40446437/sme-agri-financing-aurangzeb-urges-faster-loan-disbursements)*
+- The World Bank projects a 6% decline in Pakistan's cotton production for the 2026-27 period. *[Business Recorder](https://www.brecorder.com/news/40446438/world-bank-projects-6pc-fall-in-cotton-output)*
+- NEPRA is unlikely to grant further coal procurement extensions to the 1,320-megawatt Port Qasim Electric Power Company Limited (PQEPCL). *[Business Recorder](https://www.brecorder.com/news/40446431/coal-procurement-nepra-unlikely-to-grant-another-extension-to-pqepcl)*
+
+### Science & Technology
+- Astronomers have discovered a new dwarf planet orbiting beyond Pluto. *[ARY](https://arynews.tv/new-dwarf-planet-discovered-orbiting-beyond-pluto)*
 
 ### Politics
-- **PTI** held a parliamentary party meeting that raised questions regarding the role of **Achakzai**. *[ARY](https://arynews.tv/pti-parliamentary-party-meeting-raises-questions-over-achakzais-role)*
-- Following a deadlocked election, **Benjamin Netanyahu** and **Gadi Eisenkot** have made competing claims to lead Israel. *[Business Recorder](https://www.brecorder.com/news/40446295/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote)*
+- Tariq Fazal Chaudhry announced that the KP government is expected to be restored following six months of governor's rule. *[ARY](https://arynews.tv/kp-government-to-be-restored-after-six-months-of-governors-rule-tariq-fazal-chaudhry)*
+- Deputy Prime Minister Ishaq Dar chaired an inter-ministerial meeting focused on boosting exports through improved trade facilitation and international market access. *[Business Recorder](https://www.brecorder.com/news/40446439/dar-reaffirms-commitment-to-boost-exports)*
+- Ishaq Dar held discussions with Oman's Foreign Minister, Sayyid Badr bin Hamad bin Hamood Al Busaidi, regarding cooperation in trade, investment, and energy. *[Business Recorder](https://www.brecorder.com/news/40446440/dar-omani-fm-discuss-trade-energy)*
+- Ahsan Iqbal highlighted the Bano Shaheen platform as a tool for youth to transition from identifying problems to implementing solutions. *[ARY](https://arynews.tv/bano-shaheen-provides-a-platform-for-youth-to-move-from-identifying-problems-to-finding-solutions-ahsan-iqbal)*
 
 ### National
-- A judge from the **Lahore High Court (LHC)** has tendered his resignation, citing shrinking judicial independence. *[ARY](https://arynews.tv/citing-shrinking-judicial-independence-lhc-judge-tenders-resignation)*
-- **ISPR** confirmed that **nine terrorists** were killed during security forces' intelligence-based operations (IBOs) in the **Kachhi** and **Wadh** districts of Balochistan. *[ARY](https://arynews.tv/nine-terrorists-killed-in-security-forces-ibos-in-kachhi-and-wadh-districts-of-balochistan-ispr)*
-- Pakistan has barred carriers from **Taiwan** from entering its airspace in adherence to the **One-China policy**. *[Business Recorder](https://www.brecorder.com/news/40446308/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report)*
-- The **Pakistan Embassy in Washington, D.C.**, observed **Kashmir Black Day** to reaffirm support for the Kashmiri people's right to self-determination. *[Business Recorder](https://www.brecorder.com/news/40446301/pakistan-embassy-observes-kashmir-black-day-reaffirms-unwavering-support-for-kashmiris-right-to-self-determination)*
+- Eight people were killed and five others injured after an ambulance caught fire in Tharparkar. *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
+- The Punjab government has invited applications for the issuance of agricultural medicine shop licences. *[ARY](https://arynews.tv/punjab-invites-applications-for-agricultural-medicine-shop-licences)*
+- Noreen Niazi, sister of the PTI founder, has been shifted to Punjab Cardiology for treatment. *[ARY](https://arynews.tv/pti-founders-sister-noreen-niazi-shifted-to-punjab-cardiology)*
 
 ### International
-- **China** has stated it is taking an apology from **Mbappe** "seriously." *[ARY](https://arynews.tv/china-says-takes-mbappe-apology-seriously)*
-- A toddler was killed by stray dogs in **Egypt**, leading to an official investigation and public outrage. *[ARY](https://arynews.tv/stray-dogs-maul-toddler-to-death-in-egypt-sparking-outrage-and-investigation)*
-- The Foreign Ministers of **Egypt** and **Saudi Arabia** held discussions via telephone regarding the containment of regional crises. *[Business Recorder](https://www.brecorder.com/news/40446300/egypt-saudi-foreign-ministers-discussed-containing-regional-crisis)*
-- US Defence Secretary **Pete Hegseth** announced that the US is working on a defence cooperation framework with **ASEAN** countries. *[Business Recorder](https://www.brecorder.com/news/40446294/us-and-asean-working-on-defence-cooperation-deal-says-hegseth)*
-
-### Weather
-- **Cyclone Arnab** has stalled near India's east coast, prompting the evacuation of more than **180,000 people** in **Andhra Pradesh** and **Odisha**. *[Business Recorder](https://www.brecorder.com/news/40446293/cyclone-arnab-stalls-close-to-indias-east-coast)*
+- Kuwait reported 621 cases of fraud and scams during the third quarter. *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
+- Qatar has presented Iran with a new draft deal intended to end the ongoing war. *[ARY](https://arynews.tv/qatar-presents-iran-with-new-draft-deal-to-end-the-war)*
+- Haiti’s electoral council has postponed its first presidential election in ten years to July 18, 2027. *[Business Recorder](https://www.brecorder.com/news/40446460/haiti-postpones-first-presidential-election-in-a-decade-to-july-2027)*
+- Iran has warned of "devastating" economic consequences should any Israeli-led attacks occur. *[Business Recorder](https://www.brecorder.com/news/40446428/iran-warns-of-devastating-economic-fallout-from-any-israeli-attack)*
 
 ### Sports
-- A Japanese football official has resigned following a dispute regarding the **World Cup**. *[ARY](https://arynews.tv/japan-football-official-quits-over-world-cup-row)*
-- Three-time Grand Slam champion **Stan Wawrinka** concluded his professional career following a **7-5 7-6(2)** defeat to **Jiri Lehecka** at the Swiss Indoors in Basel. *[Business Recorder](https://www.brecorder.com/news/40446304/wawrinka-brings-career-to-a-close-with-defeat-in-basel)*
-- **Barcelona** has been fined **€602 ($672)** by the Spanish FA following a complaint by **Atletico Madrid** regarding the pursuit of striker **Julian Alvarez**. *[Business Recorder](https://www.brecorder.com/news/40446305/barcelona-handed-eur602-fine-over-alvarez-approach)*
+- Australian cricketer Steve Smith has been cleared of a serious neck injury (cervical facet joint) and is expected to play in the first Test against New Zealand in Perth this December. *[Business Recorder](https://www.brecorder.com/news/40446463/australias-smith-cleared-of-serious-neck-injury-set-to-play-in-first-nz-test)*
+- Basketball star Caitlin Clark's recent activities away from the sport have garnered fan attention. *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
 
