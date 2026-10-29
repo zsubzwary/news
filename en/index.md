@@ -4,46 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 29-Oct-2026 09:03PKT
+Published at: 29-Oct-2026 12:15PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Petrol and diesel prices have increased following a notification issued by OGRA. *[ARY](https://arynews.tv/petrol-diesel-prices-increased-as-ogra-issues-notification)*
-- Samsung Electronics reported a record Q3 operating profit of 107.4 trillion won ($80.04 billion), a nearly ninefold increase from 12.2 trillion won a year prior, driven by AI chip demand. *[Business Recorder](https://www.brecorder.com/news/40446462/samsung-posts-record-profit-in-q3-on-ai-chip-boom)*
-- The Indian rupee is expected to open in the 95.14-95.18 range against the US dollar, following a Wednesday settlement of 95.22. *[Business Recorder](https://www.brecorder.com/news/40446461/indian-rupee-eyes-mild-relief-with-asian-peers-buoyed-by-modestly-dovish-fed)*
-- Alphabet shares fell 10% in after-hours trading, erasing approximately $400 billion in market value, while Microsoft shares rose 3% following better-than-expected cash flows. *[Business Recorder](https://www.brecorder.com/news/40446458/asian-shares-fall-as-alphabet-earnings-miss-drags-wall-st-futures-lower)*
-- The US Federal Reserve maintained interest rates within the 3.75%–4.00% range in a 10-2 decision, delaying changes until after the US midterm elections. *[Business Recorder](https://www.brecorder.com/news/40446433/fed-leaves-rates-unchanged)*
-- Oil prices saw volatility: Brent crude futures declined 0.7% to $114.50 a barrel and WTI fell 1.0% to $101.74, though later Brent settled at $115.32 (up 1%) and WTI at $102.78 (up 3%). *[Business Recorder](https://www.brecorder.com/news/40446456/oil-prices-fall-as-peace-hopes-offset-fears-of-growing-middle-east-conflict)*
-- Pakistan State Oil (PSO) approved a five-year renewal of its Sale Purchase Agreement (SPA) with Attock Refinery Limited (ARL), effective from July 1, 2025, to June 30, 2030. *[Business Recorder](https://www.brecorder.com/news/40446430/pso-board-approves-renewal-of-spa-with-arl-for-5-years)*
-- The State Bank of Pakistan (SBP) doubled the Minimum Capital Requirement (MCR) for local banks and Islamic subsidiaries from Rs10 billion to Rs20 billion. *[Business Recorder](https://www.brecorder.com/news/40446432/sbp-doubles-mcr-for-banks)*
-- SBP issued revised instructions for the export of 200,000 metric tons of sugar following endorsement by the Government of Khyber Pakhtunkhwa. *[Business Recorder](https://www.brecorder.com/news/40446435/sbp-revises-instructions-on-sugar-export)*
-- A new SBP financing framework has been rolled out to improve credit access for Small Enterprises (SEs) and Small Farmers (SFs). *[Business Recorder](https://www.brecorder.com/news/40446436/sbp-rolls-out-financing-framework-for-ses-and-sfs)*
-- Outstanding SME financing in Pakistan stands at Rs1.148 trillion, while outstanding agriculture credit has reached Rs1.329 trillion. *[Business Recorder](https://www.brecorder.com/news/40446437/sme-agri-financing-aurangzeb-urges-faster-loan-disbursements)*
-- The World Bank projects a 6% decline in Pakistan's cotton production for the 2026-27 period. *[Business Recorder](https://www.brecorder.com/news/40446438/world-bank-projects-6pc-fall-in-cotton-output)*
-- NEPRA is unlikely to grant further coal procurement extensions to the 1,320-megawatt Port Qasim Electric Power Company Limited (PQEPCL). *[Business Recorder](https://www.brecorder.com/news/40446431/coal-procurement-nepra-unlikely-to-grant-another-extension-to-pqepcl)*
+- The **S&P/ASX 200** index rose **0.2%** to **8,868.20**, as gains in the financial sector offset losses in mining. *[Business Recorder](https://www.brecorder.com/news/40446483/australian-shares-edge-higher-as-banks-overshadow-mining-losses)*
+- The Australian dollar reached **five-week highs**, while the New Zealand central bank (RBNZ) unexpectedly held interest rates at **2.75%**. *[Business Recorder](https://www.brecorder.com/news/40446482/australian-dollar-wins-hawks-over-as-kiwi-rues-rbnz-hold)*
+- South Korea's **KOSPI** benchmark fell **2.18% (131.04 points)** to **5,881.40**, primarily due to a **4.13%** slump in Samsung Electronics shares. *[Business Recorder](https://www.brecorder.com/news/40446481/south-korean-shares-fall-sharply-after-samsung-electronics-earnings)*
+- The Thai baht remained steady, trading **0.06%** higher at **33.70** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40446480/thai-bahtus-dollar-steady-on-thursday)*
+- Japan's **Nikkei** rose **0.3%** to **64,131.28**, aided by an improved profit forecast from chip equipment maker Advantest. *[Business Recorder](https://www.brecorder.com/news/40446478/japans-nikkei-rises-on-advantest-profit-outlook-but-samsung-weighs)*
+- Wheat prices firmed following news that Russia allowed grain export vessels to depart the **Sea of Azov**. *[Business Recorder](https://www.brecorder.com/news/40446477/wheat-inches-up-from-near-four-month-low-black-sea-exports-in-focus)*
+- China's yuan reached a **four-year high** against the US dollar following the Federal Reserve's decision to hold interest rates steady. *[Business Recorder](https://www.brecorder.com/news/40446476/chinas-yuan-hits-4-year-high-versus-dollar-after-fed-decision)*
+- Three-month copper on the London Metal Exchange fell **0.31%** to **$14,432.50** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40446474/copper-eases-but-holds-near-two-week-highs-as-tight-china-supply-offers-support)*
+- Spot gold prices slid **0.7%** to **$4,037.98** per ounce, with US gold futures for December steady at **$4,049.80**. *[Business Recorder](https://www.brecorder.com/news/40446473/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data)*
+- China's **Shanghai Composite** index lost **0.9%** and the **CSI300** fell **1.2%** due to weakness in the tech sector. *[Business Recorder](https://www.brecorder.com/news/40446472/china-stocks-slip-as-tech-weakness-overshadows-fed-rate-decision)*
+- Toyota reported a **2.2%** decline in global sales (**860,107 vehicles**) and a **3.2%** drop in production (**889,079 vehicles**), with China sales falling **19.7%**. *[Business Recorder](https://www.brecorder.com/news/40446471/toyota-september-sales-production-slide-for-a-third-straight-month)*
+- Hyundai Motor reported a **5.5%** increase in third-quarter operating profit, totaling **2.7 trillion won ($2.01 billion)**. *[Business Recorder](https://www.brecorder.com/news/40446468/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts)*
+- Kuwait reported **621 cases** of fraud and scams during the third quarter. *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
 
 ### Science & Technology
-- Astronomers have discovered a new dwarf planet orbiting beyond Pluto. *[ARY](https://arynews.tv/new-dwarf-planet-discovered-orbiting-beyond-pluto)*
+- The Pakistan Telecommunication Authority (PTA) detected **326 cyber threat indicators** via Dark Web monitoring, including **174 website defacements**, **87 data leaks**, and **41 DDoS threats**. *[Business Recorder](https://www.brecorder.com/news/40446488/pta-detects-326-cyber-threats-on-dark-web-website-defacement-tops-list)*
+- New York has passed a law to restrict the use of **AI chatbots** by children. *[ARY](https://arynews.tv/new-york-passes-law-restricting-childrens-use-of-ai-chatbots)*
 
-### Politics
-- Tariq Fazal Chaudhry announced that the KP government is expected to be restored following six months of governor's rule. *[ARY](https://arynews.tv/kp-government-to-be-restored-after-six-months-of-governors-rule-tariq-fazal-chaudhry)*
-- Deputy Prime Minister Ishaq Dar chaired an inter-ministerial meeting focused on boosting exports through improved trade facilitation and international market access. *[Business Recorder](https://www.brecorder.com/news/40446439/dar-reaffirms-commitment-to-boost-exports)*
-- Ishaq Dar held discussions with Oman's Foreign Minister, Sayyid Badr bin Hamad bin Hamood Al Busaidi, regarding cooperation in trade, investment, and energy. *[Business Recorder](https://www.brecorder.com/news/40446440/dar-omani-fm-discuss-trade-energy)*
-- Ahsan Iqbal highlighted the Bano Shaheen platform as a tool for youth to transition from identifying problems to implementing solutions. *[ARY](https://arynews.tv/bano-shaheen-provides-a-platform-for-youth-to-move-from-identifying-problems-to-finding-solutions-ahsan-iqbal)*
+### Weather
+- **Cyclone Arnab** caused at least **six deaths** and disrupted power supplies along India's eastern coast. *[Business Recorder](https://www.brecorder.com/news/40446484/six-killed-in-cyclone-off-indias-eastern-coast)*
 
 ### National
-- Eight people were killed and five others injured after an ambulance caught fire in Tharparkar. *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
-- The Punjab government has invited applications for the issuance of agricultural medicine shop licences. *[ARY](https://arynews.tv/punjab-invites-applications-for-agricultural-medicine-shop-licences)*
-- Noreen Niazi, sister of the PTI founder, has been shifted to Punjab Cardiology for treatment. *[ARY](https://arynews.tv/pti-founders-sister-noreen-niazi-shifted-to-punjab-cardiology)*
+- **Five lives** were lost due to toxic kheer in Kanganpur. *[ARY](https://arynews.tv/toxic-kheer-claims-five-lives-in-kanganpur)*
+- **Eight people** were killed and **five injured** when an ambulance caught fire in Tharparkar. *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
+- Public mockery has been directed at local authorities due to the installation of poles in the middle of a road in Hyderabad. *[ARY](https://arynews.tv/poles-in-middle-of-hyderabad-road-trigger-public-mockery)*
 
 ### International
-- Kuwait reported 621 cases of fraud and scams during the third quarter. *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
-- Qatar has presented Iran with a new draft deal intended to end the ongoing war. *[ARY](https://arynews.tv/qatar-presents-iran-with-new-draft-deal-to-end-the-war)*
-- Haiti’s electoral council has postponed its first presidential election in ten years to July 18, 2027. *[Business Recorder](https://www.brecorder.com/news/40446460/haiti-postpones-first-presidential-election-in-a-decade-to-july-2027)*
-- Iran has warned of "devastating" economic consequences should any Israeli-led attacks occur. *[Business Recorder](https://www.brecorder.com/news/40446428/iran-warns-of-devastating-economic-fallout-from-any-israeli-attack)*
+- North Korea fired approximately **10 to 12 short-range ballistic missiles** toward the sea off its east coast. *[ARY](https://arynews.tv/north-korea-fires-dozen-ballistic-missiles-into-east-sea) / [Business Recorder](https://www.brecorder.com/news/40446470/north-korea-fires-around-10-ballistic-missiles-toward-sea-off-east-coast-south-korea-says)*
+- An Israeli strike on Gaza resulted in the martyrdom of **five people**. *[ARY](https://arynews.tv/five-people-martyred-in-israeli-strike-on-gaza)*
+- A US judge rejected attempts by the Trump administration to interfere in the California midterm vote. *[ARY](https://arynews.tv/us-judge-rejects-trump-admin-interference-california-midterm-vote)*
+- Iran is in discussions with mediators to reach a plan to end the war and reopen the Strait of Hormuz. *[ARY](https://arynews.tv/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz)*
+- Russian missile strikes on Ukraine’s Kharkiv city killed **two people** and injured **four**. *[Business Recorder](https://www.brecorder.com/news/40446475/ukraine-sends-drones-towards-moscow-russia-strikes-kharkiv-officials-say)*
 
 ### Sports
-- Australian cricketer Steve Smith has been cleared of a serious neck injury (cervical facet joint) and is expected to play in the first Test against New Zealand in Perth this December. *[Business Recorder](https://www.brecorder.com/news/40446463/australias-smith-cleared-of-serious-neck-injury-set-to-play-in-first-nz-test)*
-- Basketball star Caitlin Clark's recent activities away from the sport have garnered fan attention. *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
+- The Milwaukee Brewers won their first World Series title by defeating the Tampa Bay Rays **4-1**. *[Business Recorder](https://www.brecorder.com/news/40446486/milwaukee-brews-its-first-world-series-title-with-triumph-over-rays)*
+- Major League Soccer (MLS) announced its 2027 'Sprint Season,' with Inter Miami scheduled to play Cincinnati on **February 19**. *[Business Recorder](https://www.brecorder.com/news/40446487/mls-announces-key-2027-sprint-season-matches-ahead-of-calendar-shift)*
+- Basketball star Caitlin Clark's recent move away from the sport has garnered fan attention. *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
+
+### Other
+- Hello Kitty maker Sanrio cancelled its collaboration with the Japanese TV spy show *VIVANT* following a backlash in China. *[Business Recorder](https://www.brecorder.com/news/40446469/hello-kitty-maker-sanrio-cuts-ties-with-tv-spy-show-after-china-backlash)*
 
