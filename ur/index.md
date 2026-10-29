@@ -7,48 +7,52 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 28-Oct-2026 15:00PKT 
+ &lrm; 29-Oct-2026 12:20PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان میں سونے کی قیمت میں فی تولہ **3,500 روپے** کا اضافہ ہوا، جس سے نئی قیمت **425,636 روپے** تک پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446299/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- 10 گرام سونے کی قیمت میں **3,001 روپے** کا اضافہ ہوا اور یہ **364,914 روپے** پر فروخت کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40446299/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- کولگیٹ پالمولیو پاکستان نے پورٹ قاسم، کراچی میں پی اینڈ جی (P&G) کے اثاثے اور مینوفیکچرنگ یونٹ خریدنے کے لیے معاہدے پر دستخط کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446306/colgate-palmolive-pakistan-to-acquire-pampgs-port-qasim-assets)*
-- اے پی ٹی ایم اے (APTMA) نے ایف بی آر سے مطالبہ کیا ہے کہ کراچی میں سینٹرل ایپریزنگ یونٹ (CAU) کو برقرار رکھا جائے تاکہ کلیئرنس میں تاخیر اور بڑھتی ہوئی لاگت سے بچا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40446303/aptma-urges-fbr-to-retain-karachis-cau-amid-clearance-delays)*
-- مشرق وسطیٰ میں **1.7 ملین** پاکستانیوں کو ملازمتیں مل گئی ہیں، جس میں سعودی عرب کی قیادت ہے۔ *[ARY](https://arynews.tv/saudi-arabia-leads-as-1-7-mln-pakistanis-find-jobs-in-middle-east)*
-- پاکستان کے وزیر تجارت نے پاکستانی مصنوعات کے فروغ کے لیے دوحہ میں ایکسپورٹ ڈسپلے سینٹر کا افتتاح کیا۔ *[ARY](https://arynews.tv/commerce-minister-inaugurates-export-display-centre-in-doha-to-promote-pakistani-products)*
-- حکومت نے بڑے عوامی شعبے کے تعمیراتی منصوبوں کے لیے کم از کم **تین سالہ** ڈیفیکٹ لائبلٹی پیریڈ متعارف کرانے کا منصوبہ بنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446307/government-plans-minimum-three-year-defect-liability-period-for-major-projects)*
-- ویتنام نے اپنی ہفتہ وار سرکاری بانڈ کی نیلامی میں **619.39 ملین ڈالر** جمع کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446298/vietnam-raises-619-million-in-government-bond-auction-bourse-filing-says)*
-- چینی اور ہانگ کانگ کے اسٹاک مارکیٹ میں تیزی دیکھی گئی، جہاں CSI300 انڈیکس میں **0.7 فیصد** اضافہ ریکارڈ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446302/china-stocks-rebound-on-tech-rally-tracking-asian-markets)*
-- بی این پی پیریباس (BNP Paribas) کا تیسری سہ ماہی کا منافع 14 فیصد بڑھ کر **3.46 ارب یورو** ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446297/bnp-paribas-beats-q3-profit-forecast-unveils-eur13-billion-share-buyback)*
-- یو بی ایس (UBS) نے تیسری سہ ماہی میں **2.69 ارب ڈالر** کا منافع رپورٹ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446296/ubs-meets-expectations-with-27-billion-q3-profit)*
-- جنوبی کوریا کے KOSPI انڈیکس میں **5.99 فیصد** کا بڑا اضافہ ہوا اور یہ **5,975.98** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446292/south-korean-shares-rally-6-as-sk-hynix-beats-forecasts)*
-- بھارتی 2036 کے بانڈ کی شرح سود **7.42% سے 7.48%** کے درمیان رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446291/india-bonds-may-open-steady-after-relief-rally-from-near-750-levels)*
-- تھائی باہٹ امریکی ڈالر کے مقابلے میں **0.26 فیصد** کم ہو کر **33.83** پر آگئی۔ *[Business Recorder](https://www.brecorder.com/news/40446290/thai-bahtus-dollar-weaker-on-wednesday)*
-- آسٹریلوی S&P/ASX 200 انڈیکس میں **0.9 فیصد** اضافہ ہوا اور یہ **8,823.90** پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446289/miners-lift-australian-shares-ahead-of-inflation-data)*
+- آسٹریلوی شیئرز میں 0.2 فیصد اضافہ ہوا اور S&P/ASX 200 انڈیکس 8,868.20 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446483/australian-shares-edge-higher-as-banks-overshadow-mining-losses)*
+- آسٹریلوی ڈالر پانچ ہفتوں کی بلند ترین سطح پر پہنچ گیا، جبکہ نیوزی لینڈ کے مرکزی بینک (RBNZ) نے شرح سود کو 2.75 فیصد پر برقرار رکھا۔ *[Business Recorder](https://www.brecorder.com/news/40446482/australian-dollar-wins-hawks-over-as-kiwi-rues-rbnz-hold)*
+- جنوبی کوریا کا KOSPI انڈیکس 2.18 فیصد گر کر 5,881.40 پر آگیا، جبکہ سیمسنگ الیکٹرانکس کے حصص میں 4.13 فیصد کمی ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40446481/south-korean-shares-fall-sharply-after-samsung-electronics-earnings)*
+- تھائی باٹ امریکی ڈالر کے مقابلے میں 0.06 فیصد اضافے کے ساتھ 33.70 پر مستحکم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40446480/thai-bahtus-dollar-steady-on-thursday)*
+- جاپان کا نکی (Nikkei) انڈیکس 0.3 فیصد اضافے کے ساتھ 64,131.28 پر بند ہوا، جس کی بڑی وجہ ایڈوانٹیسٹ (Advantest) کی منافع کی بہتر پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446478/japans-nikkei-rises-on-advantest-profit-outlook-but-samsung-weighs)*
+- روس کے بحیرہ ازوف سے اناج برآمد کرنے کی اجازت دینے کے بعد گندم کی قیمتوں میں اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446477/wheat-inches-up-from-near-four-month-low-black-sea-exports-in-focus)*
+- امریکی فیڈرل ریزرو کے فیصلے کے بعد چین کا یوآن امریکی ڈالر کے مقابلے میں 4 سالہ بلند ترین سطح پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446476/chinas-yuan-hits-4-year-high-versus-dollar-after-fed-decision)*
+- تانبے (Copper) کی قیمت میں 0.31 فیصد کمی آئی اور یہ 14,432.50 ڈالر فی میٹرک ٹن پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40446474/copper-eases-but-holds-near-two-week-highs-as-tight-china-supply-offers-support)*
+- سونے کی قیمت میں 0.7 فیصد کمی کے بعد سپاٹ گولڈ 4,037.98 ڈالر فی اونس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40446473/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data)*
+- چین کے اسٹاک مارکیٹ میں مندی رہی، شنگھائی کمپوزٹ انڈیکس 0.9 فیصد اور CSI300 انڈیکس 1.2 فیصد گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446472/china-stocks-slip-as-tech-weakness-overshadows-fed-rate-decision)*
+- ٹویوٹا (Toyota) کی عالمی فروخت میں 2.2 فیصد (860,107 گاڑیاں) اور پیداواری عمل میں 3.2 فیصد (889,079 گاڑیاں) کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40446471/toyota-september-sales-production-slide-for-a-third-straight-month)*
+- ہنڈائی موٹر (Hyundai Motor) کے تیسری سہتائی (Q3) کے آپریٹنگ منافع میں 5.5 فیصد اضافہ ہوا جو 2.7 ٹریلین وان (2.01 ارب ڈالر) رہا۔ *[Business Recorder](https://www.brecorder.com/news/40446468/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts)*
 
-### سیاست
-- پاکستان نے بیجنگ کی 'ون چائنا پالیسی' کی حمایت میں تائیوان کی ایئر لائنز کے لیے اپنی فضائی حدود بند کر دی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446308/one-china-policy-pakistan-bars-taiwan-carriers-from-airspace-report)*
-- پی ٹی آئی کی پارلیمانی پارٹی کے اجلاس میں عاشق مزئی کے کردار کے حوالے سے سوالات اٹھائے گئے۔ *[ARY](https://arynews.tv/pti-parliamentary-party-meeting-raises-questions-over-achakzais-role)*
-- اسرائیل کے انتخابی نتائج کے بعد نیتن یاہو اور گڈی آئزنکوٹ کے درمیان ملک کی قیادت کے لیے مقابلہ شروع ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446295/netanyahu-eisenkot-stake-rival-claims-to-lead-israel-after-deadlocked-vote)*
-
-### قومی
-- لاہور ہائی کورٹ کے ایک جج نے عدالتی خودمختاری میں کمی کا حوالہ دیتے ہوئے اپنے عہدے سے استعفیٰ دے دیا۔ *[ARY](https://arynews.tv/citing-shrinking-judicial-independence-lhc-judge-tenders-resignation)*
-- بلوچستان کے اضلاع کچھی اور وڈ میں سکیورٹی فورسز کے آپریشن کے دوران **9 دہشت گرد** ہلاک کر دیے گئے۔ *[ARY](https://arynews.tv/nine-terrorists-killed-in-security-forces-ibos-in-kachhi-and-wadh-districts-of-balochistan-ispr)*
-- واشنگٹن ڈی سی میں پاکستانی سفارت خانے نے 'کشمیر بلیک ڈے' منایا اور کشمیریوں کے حق خودارادیت کی حمایت کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446301/pakistan-embassy-observes-kashmir-black-day-reaffirms-unwavering-support-for-kashmiris-right-to-self-determination)*
-
-### بین الاقوامی
-- مصر اور سعودی عرب کے وزرائے خارجہ نے علاقائی بحران کو روکنے کے لیے فون پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40446300/egypt-saudi-foreign-ministers-discussed-containing-regional-crisis)*
-- امریکہ اور جنوب مشرقی ایشیائی ممالک (ASEAN) کے درمیان دفاعی تعاون کا فریم ورک تیار کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446294/us-and-asean-working-on-defence-cooperation-deal-says-hegseth)*
-- چین نے فٹ بالر ایمباپے کی معافی کو 'سنجیدگی' سے لینے کا کہا ہے۔ *[ARY](https://arynews.tv/china-says-takes-mbappe-apology-seriously)*
-- مصر میں آوارہ کتوں کے حملے سے ایک بچہ جاں بحق ہو گیا، جس پر تحقیقات کا آغاز کر دیا گیا ہے۔ *[ARY](https://arynews.tv/stray-dogs-maul-toddler-to-death-in-egypt-sparking-outrage-and-investigation)*
+### سائنس اور ٹیکنالوجی
+- نیویارک میں بچوں کے لیے AI چیٹ بوٹس کے استعمال پر پابندی لگانے والا قانون منظور کر لیا گیا ہے۔ *[ARY](https://arynews.tv/new-york-passes-law-restricting-childrens-use-of-ai-chatbots)*
+- پی ٹی اے (PTA) نے ایک سال کے دوران ڈارک ویب پر 326 اہم سائبر خطرات پکڑے، جن میں 174 ویب سائٹ ڈی فیسمنٹ، 87 ڈیٹا لیکس اور 41 DDoS حملے شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446488/pta-detects-326-cyber-threats-on-dark-web-website-defacement-tops-list)*
 
 ### موسم
-- بھارت کے مشرقی ساحل کے قریب طاقتور سائیکلون 'ارنب' (Arnab) کی آمد، جس کے پیش نظر اندرا پردیش اور اڑیسہ میں **180,000** افراد کو نکال لیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446293/cyclone-arnab-stalls-close-to-indias-east-coast)*
+- بھارت کے مشرقی ساحل پر سائیکلون ارباب (Cyclone Arnab) کی وجہ سے کم از کم 6 افراد ہلاک ہو گئے اور بجلی کی فراہمی متاثر ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40446484/six-killed-in-cyclone-off-indias-eastern-coast)*
+
+### سیاست
+- امریکی جج نے کیلیفورنیا کے مڈ ٹرم ووٹنگ میں ٹرمپ انتظامیہ کی مداخلت کے مطالبے کو مسترد کر دیا۔ *[ARY](https://arynews.tv/us-judge-rejects-trump-admin-interference-california-midterm-vote)*
+
+### قومی
+- کنگان پور میں زہریلی کھیر کھانے سے 5 افراد جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/toxic-kheer-claims-five-lives-in-kanganpur)*
+- حیدرآباد کی ایک سڑک کے درمیان میں کھمبے نصب ہونے کی وجہ سے عوامی سطح پر تنقید کا سامنا ہے۔ *[ARY](https://arynews.tv/poles-in-middle-of-hyderabad-road-trigger-public-mockery)*
+- تھرپارکر میں ایمبولینس میں آگ لگنے کے نتیجے میں 8 افراد جاں بحق اور 5 زخمی ہو گئے۔ *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
+
+### بین الاقوامی
+- شمالی کوریا نے بحیرہ مشرقی میں تقریباً 12 بیلسٹک میزائل فائر کیے ہیں۔ *[ARY](https://arynews.tv/north-korea-fires-dozen-ballistic-missiles-into-east-sea)*
+- غزہ پر اسرائیلی حملے میں 5 افراد شہید ہو گئے۔ *[ARY](https://arynews.tv/five-people-martyred-in-israeli-strike-on-gaza)*
+- ایران جنگ کے خاتمے اور ہرمز کے مقام کو دوبارہ کھولنے کے لیے ثالثوں کے ساتھ منصوبے پر بات چیت کر رہا ہے۔ *[ARY](https://arynews.tv/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz)*
+- کویت میں تیسری سہتائی (Q3) کے دوران دھوکہ دہی اور اسکیم کے 621 کیسز رپورٹ کیے گئے۔ *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
+- یوکرین نے ماسکو کی طرف ڈرونز بھیجے جبکہ روس کے خاریو (Kharkiv) پر حملے میں 2 افراد ہلاک اور 4 زخمی ہوئے۔ ماسکو کی جانب سے 613 ڈرونز مار گرائے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446475/ukraine-sends-drones-towards-moscow-russia-strikes-kharkiv-officials-say)*
+- شمالی کوریا نے مشرقی ساحل کے قریب تقریباً 10 شارٹ رینج بیلسٹک میزائل فائر کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446470/north-korea-fires-around-10-ballistic-missiles-toward-sea-off-east-coast-seoul-says)*
 
 ### کھیل
-- ورلڈ کپ تنازع کے باعث جاپان کے ایک فٹ بال عہدیدار نے استعفیٰ دے دیا۔ *[ARY](https://arynews.tv/japan-football-official-quits-over-world-cup-row)*
-- تین بار کے گرینڈ سلیم چیمپئن اسٹین واورینکا نے باسل میں جیری لیہیکا سے **7-5، 7-6(2)** کی شکست کے بعد اپنے پیشہ ورانہ کیریئر کا اختتام کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446304/wawrinka-brings-career-to-a-close-with-defeat-in-basel)*
-- بارسلونا پر جولین الواریز سے غیر قانونی طور پر رابطہ کرنے پر **602 یورو** کا جرمانہ عائد کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446305/barcelona-handed-eur602-fine-over-alvarez-approach)*
+- کیٹلن کلارک (Caitlin Clark) کے باسکٹ بال سے متعلق حالیہ قدم نے مداحوں کو متاثر کیا ہے۔ *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
+- میجر لیگ ساکر (MLS) نے 2027 کے 'اسپرنٹ سیزن' کا اعلان کر دیا ہے، جس کا آغاز 19 فروری کو انٹر میامی اور سنسیبٹی کے میچ سے ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40446487/mls-announces-key-2027-sprint-season-matches-ahead-of-calendar-shift)*
+- ملواکی بیوررز (Milwaukee Brewers) نے ٹیمپہ بے ریز کو 4-1 سے ہرا کر پہلی بار ورلڈ سیریز ٹائٹل جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446486/milwaukee-brews-its-first-world-series-title-with-triumph-over-rays)*
+
+### دیگر
+- ہیلو کٹی بنانے والی کمپنی 'سانریو' (Sanrio) نے چین میں عوامی ردعمل کے بعد ایک جاپانی ٹی وی جاسوسی شو کے ساتھ تعاون ختم کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446469/hello-kitty-maker-sanrio-cuts-ties-with-tv-spy-show-after-china-backlash)*
 
