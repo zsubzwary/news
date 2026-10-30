@@ -4,49 +4,48 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 29-Oct-2026 12:15PKT
+Published at: 30-Oct-2026 21:03PKT
 
-Time to read: 4 mins
+Time to read: 5 mins
 
 ### Economy
-- The **S&P/ASX 200** index rose **0.2%** to **8,868.20**, as gains in the financial sector offset losses in mining. *[Business Recorder](https://www.brecorder.com/news/40446483/australian-shares-edge-higher-as-banks-overshadow-mining-losses)*
-- The Australian dollar reached **five-week highs**, while the New Zealand central bank (RBNZ) unexpectedly held interest rates at **2.75%**. *[Business Recorder](https://www.brecorder.com/news/40446482/australian-dollar-wins-hawks-over-as-kiwi-rues-rbnz-hold)*
-- South Korea's **KOSPI** benchmark fell **2.18% (131.04 points)** to **5,881.40**, primarily due to a **4.13%** slump in Samsung Electronics shares. *[Business Recorder](https://www.brecorder.com/news/40446481/south-korean-shares-fall-sharply-after-samsung-electronics-earnings)*
-- The Thai baht remained steady, trading **0.06%** higher at **33.70** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40446480/thai-bahtus-dollar-steady-on-thursday)*
-- Japan's **Nikkei** rose **0.3%** to **64,131.28**, aided by an improved profit forecast from chip equipment maker Advantest. *[Business Recorder](https://www.brecorder.com/news/40446478/japans-nikkei-rises-on-advantest-profit-outlook-but-samsung-weighs)*
-- Wheat prices firmed following news that Russia allowed grain export vessels to depart the **Sea of Azov**. *[Business Recorder](https://www.brecorder.com/news/40446477/wheat-inches-up-from-near-four-month-low-black-sea-exports-in-focus)*
-- China's yuan reached a **four-year high** against the US dollar following the Federal Reserve's decision to hold interest rates steady. *[Business Recorder](https://www.brecorder.com/news/40446476/chinas-yuan-hits-4-year-high-versus-dollar-after-fed-decision)*
-- Three-month copper on the London Metal Exchange fell **0.31%** to **$14,432.50** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40446474/copper-eases-but-holds-near-two-week-highs-as-tight-china-supply-offers-support)*
-- Spot gold prices slid **0.7%** to **$4,037.98** per ounce, with US gold futures for December steady at **$4,049.80**. *[Business Recorder](https://www.brecorder.com/news/40446473/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data)*
-- China's **Shanghai Composite** index lost **0.9%** and the **CSI300** fell **1.2%** due to weakness in the tech sector. *[Business Recorder](https://www.brecorder.com/news/40446472/china-stocks-slip-as-tech-weakness-overshadows-fed-rate-decision)*
-- Toyota reported a **2.2%** decline in global sales (**860,107 vehicles**) and a **3.2%** drop in production (**889,079 vehicles**), with China sales falling **19.7%**. *[Business Recorder](https://www.brecorder.com/news/40446471/toyota-september-sales-production-slide-for-a-third-straight-month)*
-- Hyundai Motor reported a **5.5%** increase in third-quarter operating profit, totaling **2.7 trillion won ($2.01 billion)**. *[Business Recorder](https://www.brecorder.com/news/40446468/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts)*
-- Kuwait reported **621 cases** of fraud and scams during the third quarter. *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
+- US Richmond Fed President Tom Barkin stated that while the direction of US monetary policy is "straightforward" due to high inflation and a solid economy, the pace of future rate increases remains an open question. *[Business Recorder](https://www.brecorder.com/news/40446706/feds-barkin-says-us-central-banks-direction-straightforward-the-question-is-pace-siriusxm-reports)*
+- Hackers executed the largest crypto heist in history, stealing **$6.3 billion** worth of digital assets from the Binance exchange. *[Business Recorder](https://www.brecorder.com/news/40446704/gone-in-20-minutes-how-the-biggest-heist-in-crypto-history-unfolded)*
+- Pakistan’s corporate debt issuances reached **Rs291 billion** during the January-September 2026 period. *[Business Recorder](https://www.brecorder.com/news/40446703/corporate-debt-issuance-reaches-rs291bn-in-jan-sept-2026-finance-division)*
+- India’s foreign exchange reserves declined for the seventh consecutive week, hitting a two-month low of **$719.75 billion** as of October 23. *[Business Recorder](https://www.brecorder.com/news/40446698/indias-fx-reserves-dip-for-seventh-straight-week-to-hit-over-two-month-low)*
+- Copper prices on the London Metal Exchange (LME) fell **0.9%** to **$14,227** per metric ton, potentially marking a 1% decline for the month of October. *[Business Recorder](https://www.brecorder.com/news/40446692/copper-set-for-first-monthly-loss-since-june-as-ai-spending-worries-weigh)*
+- Pakistani automaker Sazgar Engineering Works Limited inaugurated a manufacturing plant in the Philippines' Laguna province, aimed at assembling **12,000** three-wheeled vehicles annually. *[Business Recorder](https://www.brecorder.com/news/40446690/pakistans-automaker-sazgar-opens-manufacturing-plant-in-philippines)*
+- Gold prices in Pakistan dropped by **Rs5,100** per tola, reaching **Rs420,536**, while 10-gram gold fell by **Rs4,373** to **Rs360,541**. *[Business Recorder](https://www.brecorder.com/news/40446688/gold-price-per-tola-falls-rs5100-in-pakistan)*
+- Sri Lanka’s Colombo Consumer Price Index (inflation) rose **8.3%** year-on-year in October, with food inflation specifically rising to **8.8%**. *[Business Recorder](https://www.brecorder.com/news/40446687/sri-lankas-key-inflation-index-up-8-3-year-on-year-in-october)*
+- Zee Entertainment Enterprises reported a **38%** drop in quarterly profit, falling to **478 million rupees** ($5 million) for the July-September period. *[Business Recorder](https://www.brecorder.com/news/40446693/indian-broadcaster-zees-profit-falls-as-fifa-related-costs-weigh)*
+- UAE stock markets declined due to soft corporate earnings and regional tensions involving Houthi attacks in the Middle East. *[Business Recorder](https://www.brecorder.com/news/40446696/uae-shares-decline-on-weak-earnings-and-regional-tensions)*
+- The Sri Lankan CSE All-Share index settled **0.6%** lower at **20,142.33 points**, with Hatton National Bank and LOLC Holdings leading the decline. *[Business Recorder](https://www.brecorder.com/news/40446695/financials-stocks-drag-sri-lankan-shares-lower)*
+- Local manufacturing strength in Pakistan is being bolstered by technical materials like nonwoven fabric for the automotive and hygiene sectors. *[Business Recorder](https://www.brecorder.com/news/40446697/strengthening-pakistans-industrial-supply-chain-role-of-master-nonwoven-in-local-manufacturing)*
 
 ### Science & Technology
-- The Pakistan Telecommunication Authority (PTA) detected **326 cyber threat indicators** via Dark Web monitoring, including **174 website defacements**, **87 data leaks**, and **41 DDoS threats**. *[Business Recorder](https://www.brecorder.com/news/40446488/pta-detects-326-cyber-threats-on-dark-web-website-defacement-tops-list)*
-- New York has passed a law to restrict the use of **AI chatbots** by children. *[ARY](https://arynews.tv/new-york-passes-law-restricting-childrens-use-of-ai-chatbots)*
+- China’s **GJ-21** stealth reconnaissance and strike drone successfully completed its first takeoff and landing on the **Type 076** amphibious assault ship, the *Sichuan*. *[Business Recorder](https://www.brecorder.com/news/40446708/china-says-stealth-attack-drone-makes-first-takeoff-landing-on-amphibious-ship)*
+- Tech giants **Meta, TikTok, and X** lost a legal challenge against the UK regulator Ofcom regarding demands for data under the 2023 Online Safety Act. *[Business Recorder](https://www.brecorder.com/news/40446689/meta-tiktok-x-lose-legal-challenge-against-uk-watchdog-over-online-safety-data-demands)*
 
-### Weather
-- **Cyclone Arnab** caused at least **six deaths** and disrupted power supplies along India's eastern coast. *[Business Recorder](https://www.brecorder.com/news/40446484/six-killed-in-cyclone-off-indias-eastern-coast)*
+### Politics
+- Ayaz Sadiq has requested the names of **30 lawmakers** to form a committee dedicated to electoral reforms. *[ARY](https://arynews.tv/ayaz-sadiq-seeks-names-of-30-lawmakers-for-electoral-reforms-committee)*
 
 ### National
-- **Five lives** were lost due to toxic kheer in Kanganpur. *[ARY](https://arynews.tv/toxic-kheer-claims-five-lives-in-kanganpur)*
-- **Eight people** were killed and **five injured** when an ambulance caught fire in Tharparkar. *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
-- Public mockery has been directed at local authorities due to the installation of poles in the middle of a road in Hyderabad. *[ARY](https://arynews.tv/poles-in-middle-of-hyderabad-road-trigger-public-mockery)*
+- Field Marshal Syed Asim Munir called for strengthened institutional linkages between Pakistan and Singapore to promote regional stability. *[Business Recorder](https://www.brecorder.com/news/40446705/field-marshal-munir-calls-for-stronger-institutional-links-with-singapore)*
+- The NCCIA has exposed a gang targeting drivers through online taxi fraud and has registered a case regarding a fake booking and delivery scam. *[ARY](https://arynews.tv/nccia-exposes-gang-involved-in-online-taxi-fraud-targeting-drivers) / [ARY](https://arynews.tv/nccia-registers-case-over-fake-booking-and-delivery-scam)*
+- The National Highway Authority (NHA) has been directed to accelerate construction progress on the **M-6, M-25**, and the **Quetta–Zhob Road**. *[ARY](https://arynews.tv/nha-directed-to-accelerate-progress-on-m-6-m-25-and-quetta-zhob-road)*
+- Karachi is set to receive a new food walk as part of a makeover for a traditional food street. *[ARY](https://arynews.tv/karachi-to-get-new-food-walk-as-traditional-food-street-gets-makeover)*
+- Lawyer reports indicate that Noreen Niazi has been shifted back to **Kot Lakhpat Jail**. *[ARY](https://arynews.tv/noreen-niazi-shifted-back-to-kot-lakhpat-jail-says-lawyer)*
 
 ### International
-- North Korea fired approximately **10 to 12 short-range ballistic missiles** toward the sea off its east coast. *[ARY](https://arynews.tv/north-korea-fires-dozen-ballistic-missiles-into-east-sea) / [Business Recorder](https://www.brecorder.com/news/40446470/north-korea-fires-around-10-ballistic-missiles-toward-sea-off-east-coast-south-korea-says)*
-- An Israeli strike on Gaza resulted in the martyrdom of **five people**. *[ARY](https://arynews.tv/five-people-martyred-in-israeli-strike-on-gaza)*
-- A US judge rejected attempts by the Trump administration to interfere in the California midterm vote. *[ARY](https://arynews.tv/us-judge-rejects-trump-admin-interference-california-midterm-vote)*
-- Iran is in discussions with mediators to reach a plan to end the war and reopen the Strait of Hormuz. *[ARY](https://arynews.tv/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz)*
-- Russian missile strikes on Ukraine’s Kharkiv city killed **two people** and injured **four**. *[Business Recorder](https://www.brecorder.com/news/40446475/ukraine-sends-drones-towards-moscow-russia-strikes-kharkiv-officials-say)*
+- Pakistan and Saudi Arabia have reached an agreement to strengthen cooperation within the energy and petroleum sectors. *[ARY](https://arynews.tv/pakistan-saudi-arabia-agree-to-strengthen-energy-and-petroleum-cooperation)*
+- Three oil tankers caught fire in the Strait of Hormuz; one tanker, carrying **2 million barrels of crude oil**, reportedly struck a mine. *[Business Recorder](https://www.brecorder.com/news/40446694/irans-irgc-navy-says-three-tankers-catch-fire-in-strait-of-hormuz)*
+- Spanish Transport Minister Oscar Puente is facing calls for resignation following a train crash that resulted in at least **69 deaths**. *[Business Recorder](https://www.brecorder.com/news/40446707/spanish-minister-refuses-to-resign-over-second-major-train-crash-on-his-watch)*
+- Six people, including five passengers and a pilot, were killed in a helicopter crash in the Indian state of **Uttarakhand**. *[Business Recorder](https://www.brecorder.com/news/40446700/six-killed-in-helicopter-crash-in-indian-himalayan-state)*
+- US President Donald Trump stated that the war with Iran "is going to get wrapped up soon" and emphasized the need for nuclear guarantees. *[Business Recorder](https://www.brecorder.com/news/40446699/trump-on-iran-war-its-going-to-get-wrapped-up-soon)*
+- King Charles has expressed sorrow regarding the history of slavery, which continues to present diplomatic challenges. *[ARY](https://arynews.tv/king-charles-sorrow-over-slavery-faces-fresh-test)*
 
 ### Sports
-- The Milwaukee Brewers won their first World Series title by defeating the Tampa Bay Rays **4-1**. *[Business Recorder](https://www.brecorder.com/news/40446486/milwaukee-brews-its-first-world-series-title-with-triumph-over-rays)*
-- Major League Soccer (MLS) announced its 2027 'Sprint Season,' with Inter Miami scheduled to play Cincinnati on **February 19**. *[Business Recorder](https://www.brecorder.com/news/40446487/mls-announces-key-2027-sprint-season-matches-ahead-of-calendar-shift)*
-- Basketball star Caitlin Clark's recent move away from the sport has garnered fan attention. *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
-
-### Other
-- Hello Kitty maker Sanrio cancelled its collaboration with the Japanese TV spy show *VIVANT* following a backlash in China. *[Business Recorder](https://www.brecorder.com/news/40446469/hello-kitty-maker-sanrio-cuts-ties-with-tv-spy-show-after-china-backlash)*
+- World number one Elena Rybakina withdrew from the **Pan Pacific Open** quarter-finals due to a neck injury, allowing Leylah Fernandez to advance. *[Business Recorder](https://www.brecorder.com/news/40446702/rybakina-withdraws-from-tokyo-quarter-finals-with-neck-injury)*
+- WNBA player Sophie Cunningham called for unity as the league reaches historic engagement highs. *[ARY](https://arynews.tv/sophie-cunningham-calls-for-unity-as-wnba-hits-historic-highs)*
+- Sophie Cunningham’s future with the **Indiana Fever** remains uncertain due to injury and her upcoming free agency status. *[ARY](https://arynews.tv/sophie-cunninghams-injury-and-free-agency-leave-indiana-fever-return-in-limbo)*
 
