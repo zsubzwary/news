@@ -7,52 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 29-Oct-2026 12:20PKT 
+ &lrm; 31-Oct-2026 21:09PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- آسٹریلوی شیئرز میں 0.2 فیصد اضافہ ہوا اور S&P/ASX 200 انڈیکس 8,868.20 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446483/australian-shares-edge-higher-as-banks-overshadow-mining-losses)*
-- آسٹریلوی ڈالر پانچ ہفتوں کی بلند ترین سطح پر پہنچ گیا، جبکہ نیوزی لینڈ کے مرکزی بینک (RBNZ) نے شرح سود کو 2.75 فیصد پر برقرار رکھا۔ *[Business Recorder](https://www.brecorder.com/news/40446482/australian-dollar-wins-hawks-over-as-kiwi-rues-rbnz-hold)*
-- جنوبی کوریا کا KOSPI انڈیکس 2.18 فیصد گر کر 5,881.40 پر آگیا، جبکہ سیمسنگ الیکٹرانکس کے حصص میں 4.13 فیصد کمی ریکارڈ کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40446481/south-korean-shares-fall-sharply-after-samsung-electronics-earnings)*
-- تھائی باٹ امریکی ڈالر کے مقابلے میں 0.06 فیصد اضافے کے ساتھ 33.70 پر مستحکم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40446480/thai-bahtus-dollar-steady-on-thursday)*
-- جاپان کا نکی (Nikkei) انڈیکس 0.3 فیصد اضافے کے ساتھ 64,131.28 پر بند ہوا، جس کی بڑی وجہ ایڈوانٹیسٹ (Advantest) کی منافع کی بہتر پیش گوئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446478/japans-nikkei-rises-on-advantest-profit-outlook-but-samsung-weighs)*
-- روس کے بحیرہ ازوف سے اناج برآمد کرنے کی اجازت دینے کے بعد گندم کی قیمتوں میں اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446477/wheat-inches-up-from-near-four-month-low-black-sea-exports-in-focus)*
-- امریکی فیڈرل ریزرو کے فیصلے کے بعد چین کا یوآن امریکی ڈالر کے مقابلے میں 4 سالہ بلند ترین سطح پر پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446476/chinas-yuan-hits-4-year-high-versus-dollar-after-fed-decision)*
-- تانبے (Copper) کی قیمت میں 0.31 فیصد کمی آئی اور یہ 14,432.50 ڈالر فی میٹرک ٹن پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40446474/copper-eases-but-holds-near-two-week-highs-as-tight-china-supply-offers-support)*
-- سونے کی قیمت میں 0.7 فیصد کمی کے بعد سپاٹ گولڈ 4,037.98 ڈالر فی اونس پر آگیا۔ *[Business Recorder](https://www.brecorder.com/news/40446473/gold-slips-as-markets-assess-fed-signals-await-us-inflation-data)*
-- چین کے اسٹاک مارکیٹ میں مندی رہی، شنگھائی کمپوزٹ انڈیکس 0.9 فیصد اور CSI300 انڈیکس 1.2 فیصد گر گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446472/china-stocks-slip-as-tech-weakness-overshadows-fed-rate-decision)*
-- ٹویوٹا (Toyota) کی عالمی فروخت میں 2.2 فیصد (860,107 گاڑیاں) اور پیداواری عمل میں 3.2 فیصد (889,079 گاڑیاں) کمی واقع ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40446471/toyota-september-sales-production-slide-for-a-third-straight-month)*
-- ہنڈائی موٹر (Hyundai Motor) کے تیسری سہتائی (Q3) کے آپریٹنگ منافع میں 5.5 فیصد اضافہ ہوا جو 2.7 ٹریلین وان (2.01 ارب ڈالر) رہا۔ *[Business Recorder](https://www.brecorder.com/news/40446468/hyundai-motor-reports-55-rise-in-q3-operating-profit-beats-forecasts)*
+- پاکستان میں سونے کی قیمتوں میں فی تولہ 10,800 روپے کی بڑی کمی واقع ہوئی، جس کے بعد سونے کی نئی قیمت 409,736 روپے ہو گئی، جبکہ 10 گرام سونے کی قیمت میں 9,259 روپے کی کمی آئی۔ *[Business Recorder](https://www.brecorder.com/news/40446801/gold-prices-plunge-in-pakistan-as-per-tola-rate-drops-by-rs10800)*
+- ٹنگسٹن (Tungsten) کی قیمتوں میں جنوری 2025 سے اپریل 2026 کے درمیان 622 فیصد کا اضافہ دیکھا گیا، جبکہ ٹینٹلم میں 196 فیصد، کوبالٹ میں 134 فیصد، نیوڈیمیم میں 116 فیصد اور لیتھیم میں 108 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446811/tungstens-sixfold-surge-pakistans-mineral-processing-opportunity)*
+- سیکিউরিটি اینڈ ایکسچینج کمیشن آف پاکستان (SECP) نے چار سال تک سالانہ گوشوارے اور مالیاتی بیانات جمع نہ کروانے پر 39,704 کمپنیوں کو "غیر فعال" (Inactive) قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive)*
+- ایل پی جی (LPG) ایسوسی ایشنز نے ملک گیر ہڑتال کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/lpg-associations-announce-nationwide-strike)*
+- پاکستان اور سعودی عرب کے درمیان جی سی سی (GCC) فری ٹریڈ معاہدے کو جلد مکمل کرنے کے لیے کوششیں تیز کر دی گئی ہیں تاکہ برآمد کنندگان کے لیے مارکیٹ تک رسائی بڑھے۔ *[Business Recorder](https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement)*
+- بھارت نے ٹیکسٹائل ملوں کے اخراجات کم کرنے کے لیے کپاس کی درآمد پر 11 فیصد ڈیوٹی کی چھوٹ کو دسمبر کے آخر تک دو ماہ کے لیے بڑھا دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446792/india-extends-duty-free-cotton-imports-by-two-months-to-ease-domestic-prices)*
 
 ### سائنس اور ٹیکنالوجی
-- نیویارک میں بچوں کے لیے AI چیٹ بوٹس کے استعمال پر پابندی لگانے والا قانون منظور کر لیا گیا ہے۔ *[ARY](https://arynews.tv/new-york-passes-law-restricting-childrens-use-of-ai-chatbots)*
-- پی ٹی اے (PTA) نے ایک سال کے دوران ڈارک ویب پر 326 اہم سائبر خطرات پکڑے، جن میں 174 ویب سائٹ ڈی فیسمنٹ، 87 ڈیٹا لیکس اور 41 DDoS حملے شامل ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446488/pta-detects-326-cyber-threats-on-dark-web-website-defacement-tops-list)*
-
-### موسم
-- بھارت کے مشرقی ساحل پر سائیکلون ارباب (Cyclone Arnab) کی وجہ سے کم از کم 6 افراد ہلاک ہو گئے اور بجلی کی فراہمی متاثر ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40446484/six-killed-in-cyclone-off-indias-eastern-coast)*
+- ایک نئی تحقیق کے مطابق پہاڑوں کی نرم چٹانیں سخت چٹانوں کے مقابلے میں تین گنا زیادہ تیزی سے کٹتی اور ختم ہوتی ہیں۔ *[ARY](https://arynews.tv/new-study-finds-soft-mountain-rock-erodes-three-times-faster-than-hard-rock)*
+- OpenAI نے ٹیکنالوجی کے شعبے میں ہونے والی گراوٹ کے باعث اپنے فنڈنگ ہدف میں 10 ارب ڈالر کی کمی کر دی ہے، اب کمپنی 20 ارب ڈالر جمع کرنے کی کوشش کر رہی ہے جبکہ اس کی مطلوبہ ویلیو 1.4 ٹریلین ڈالر سے کم ہو کر 1.25 ٹریلین ڈالر رہ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446794/openai-slashes-funding-target-by-10-billion-amid-tech-rout-reports)*
+- نیا 'Surface Laptop 13' ایپل کے میک بک ایئر (MacBook Air) کا مقابلہ کرنے کے لیے لانچ کیا گیا ہے جو بہترین بیٹری لائف فراہم کرتا ہے۔ *[ARY](https://arynews.tv/new-surface-laptop-13-challenges-apple-macbook-air-with-incredible-battery-life)*
 
 ### سیاست
-- امریکی جج نے کیلیفورنیا کے مڈ ٹرم ووٹنگ میں ٹرمپ انتظامیہ کی مداخلت کے مطالبے کو مسترد کر دیا۔ *[ARY](https://arynews.tv/us-judge-rejects-trump-admin-interference-california-midterm-vote)*
+- وزیراعظم شہباز شریف نے خیبر پختونخوا میں گورنر راج اور ہنگامی صورتحال کے نفاذ کا دفاع کرتے ہوئے کہا کہ یہ فیصلہ لوگوں کی زندگیوں اور صوبائی معیشت کے تحفظ کے لیے ضروری تھا۔ *[Business Recorder](https://www.brecorder.com/news/40446804/pm-lambasts-ptis-kp-governance-defends-governors-rule-to-protect-lives-economy)*
 
 ### قومی
-- کنگان پور میں زہریلی کھیر کھانے سے 5 افراد جاں بحق ہو گئے۔ *[ARY](https://arynews.tv/toxic-kheer-claims-five-lives-in-kanganpur)*
-- حیدرآباد کی ایک سڑک کے درمیان میں کھمبے نصب ہونے کی وجہ سے عوامی سطح پر تنقید کا سامنا ہے۔ *[ARY](https://arynews.tv/poles-in-middle-of-hyderabad-road-trigger-public-mockery)*
-- تھرپارکر میں ایمبولینس میں آگ لگنے کے نتیجے میں 8 افراد جاں بحق اور 5 زخمی ہو گئے۔ *[ARY](https://arynews.tv/eight-killed-five-injured-as-ambulance-catches-fire-in-tharparkar)*
+- ایک ٹک ٹاکر کی مہندی کی تقریب میں ہجوم کے ٹکرانے (Stampede) کے نتیجے میں 14 افراد زخمی ہو گئے۔ *[ARY](https://arynews.tv/14-injured-in-stampede-at-tiktokers-mehndi-ceremony)*
+- نادرا (NADRA) نے 11 سال کے بعد داؤد نامی شہری کا شناختی کارڈ بحال کر دیا ہے۔ *[ARY](https://arynews.tv/nadra-restores-dawoods-identity-card-after-11-years)*
+- وزیر اطلاعات عطا اللہ تارڑ نے ڈیجیٹل خطرات سے نمٹنے کے لیے "نیشنل سائبر سیکیورٹی اور سوشل میڈیا آگاہی کونسل" کے قیام کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446802/attaullah-tarar-proposes-to-establish-national-cybersecurity-social-media-awareness-council)*
+- پاکستان نے طالبان انتظامیہ پر زور دیا ہے کہ وہ افغان سرزمین سے کام کرنے والے دہشت گرد گروہوں کے خلاف کارروائی کرے اور خواتین پر پابندیاں ختم کرے۔ *[Business Recorder](https://www.brecorder.com/news/40446797/pakistan-urges-taliban-to-curb-terrorist-groups-operating-from-afghan-soil)*
 
 ### بین الاقوامی
-- شمالی کوریا نے بحیرہ مشرقی میں تقریباً 12 بیلسٹک میزائل فائر کیے ہیں۔ *[ARY](https://arynews.tv/north-korea-fires-dozen-ballistic-missiles-into-east-sea)*
-- غزہ پر اسرائیلی حملے میں 5 افراد شہید ہو گئے۔ *[ARY](https://arynews.tv/five-people-martyred-in-israeli-strike-on-gaza)*
-- ایران جنگ کے خاتمے اور ہرمز کے مقام کو دوبارہ کھولنے کے لیے ثالثوں کے ساتھ منصوبے پر بات چیت کر رہا ہے۔ *[ARY](https://arynews.tv/iran-says-discussing-plan-with-mediators-to-end-war-reopen-hormuz)*
-- کویت میں تیسری سہتائی (Q3) کے دوران دھوکہ دہی اور اسکیم کے 621 کیسز رپورٹ کیے گئے۔ *[ARY](https://arynews.tv/kuwait-reports-621-fraud-and-scam-cases-in-third-quarter)*
-- یوکرین نے ماسکو کی طرف ڈرونز بھیجے جبکہ روس کے خاریو (Kharkiv) پر حملے میں 2 افراد ہلاک اور 4 زخمی ہوئے۔ ماسکو کی جانب سے 613 ڈرونز مار گرائے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446475/ukraine-sends-drones-towards-moscow-russia-strikes-kharkiv-officials-say)*
-- شمالی کوریا نے مشرقی ساحل کے قریب تقریباً 10 شارٹ رینج بیلسٹک میزائل فائر کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446470/north-korea-fires-around-10-ballistic-missiles-toward-sea-off-east-coast-seoul-says)*
+- قطر نے پاکستانی شہریوں کے لیے 30 روزہ مفت ویزا پیش کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/qatar-offers-free-30-day-visa-for-pakistani-citizens)*
+- ایران کے وزیر خارجہ عباس عراقچی نے واضح کیا ہے کہ امریکہ کے ساتھ مذاکرات کرنے کا فی الحال کوئی منصوبہ نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446812/iran-has-no-plans-for-talks-with-us-foreign-minister)*
+- برطانوی وزیراعظم اینڈی برنہم نے غلامی کے تاریخی کردار پر رسمی معافی کے لیے تیار ہونے کا اظہار کیا ہے لیکن معاوضے (Reparations) کے مطالبے کو مسترد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446810/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations)*
+- جرمنی میں نوجوانوں کی قیادت میں ہونے والے احتجاج کے دوران 160,000 سے زائد افراد کے ہالوین ریلیوں میں شامل ہونے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446808/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies)*
+- شام کے وزیر خارجہ نے مکہ دفاعی اتحاد (Makkah Pact) میں شمولیت کے حوالے سے غور کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446807/syria-weighing-whether-to-join-makkah-pact-foreign-minister)*
+- ایران کے سپریم لیڈر نے امریکہ اور اسرائیل کو کسی بھی نئے حملے کے خلاف خبردار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446805/irans-supreme-leader-warns-us-israel-against-new-attacks)*
+- ایرانی حکام کے مطابق امریکہ نے قیشم جزیرے کے قریب دو ماہی گیروں کی کشتیوں پر حملہ کیا، جس میں ایک زخمی ہوا اور دو ماہی گیر لاپتہ ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446800/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media)*
+- مصر کے وزیر خارجہ نے ایران اور امریکہ کے درمیان جنگ کے بڑھتے ہوئے تناؤ پر شدید تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446799/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says)*
+- سعودی قیادت کے زیر اہتمام کوالیشن نے سعودی عرب کے تیل سے مالامال مشرقی علاقے میں ایک ڈرون کو تباہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446795/saudi-led-coalition-says-it-downs-drone-over-oil-rich-eastern-region)*
+- امریکی وزیر خارجہ مارکو روبیو اور برازیل کے وزیر خارجہ کے درمیان آنے والے ہفتوں میں ملاقات طے پائی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446793/rubio-and-brazil-foreign-minister-to-meet-after-election-tension-reports)*
 
 ### کھیل
-- کیٹلن کلارک (Caitlin Clark) کے باسکٹ بال سے متعلق حالیہ قدم نے مداحوں کو متاثر کیا ہے۔ *[ARY](https://arynews.tv/caitlin-clarks-latest-move-away-from-basketball-impresses-fans)*
-- میجر لیگ ساکر (MLS) نے 2027 کے 'اسپرنٹ سیزن' کا اعلان کر دیا ہے، جس کا آغاز 19 فروری کو انٹر میامی اور سنسیبٹی کے میچ سے ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40446487/mls-announces-key-2027-sprint-season-matches-ahead-of-calendar-shift)*
-- ملواکی بیوررز (Milwaukee Brewers) نے ٹیمپہ بے ریز کو 4-1 سے ہرا کر پہلی بار ورلڈ سیریز ٹائٹل جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446486/milwaukee-brews-its-first-world-series-title-with-triumph-over-rays)*
+- چیکسی کلب کی جانب سے کیریک کو مین یوٹی میں سے رخصت کروانے کے لیے اقدامات تیز کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/chelsea-push-carrick-closer-to-man-utd-exit)*
+- کھلاڑی سوفی کناہم نے اپنی 28 ہزار ڈالر کی تنخواہ سے 665 ہزار ڈالر کے معاہدے تک کے سفر کو یاد کیا۔ *[ARY](https://arynews.tv/sophie-cunningham-reflects-on-her-journey-from-28k-salary-to-665k-contract)*
+- جنوبی افریقہ نے آسٹریلیا کو تیسرے ٹیسٹ میں 176 رنز سے ہرا کر سیریز جیت لی ہے۔ *[ARY](https://arynews.tv/south-africa-beat-australia-by-176-runs-in-third-test-to-win-series)*
+- سری لنکا نے پاکستان کے خلاف ٹرائی سیریز کے فائنل میں کمندو مینڈس کی 131 رنز (128 گیندوں پر) کی شاندار سنچری کی بدولت 325 رنز بنائے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446809/kamindu-hits-maiden-odi-ton-as-sri-lanka-set-pakistan-326-in-final)*
+- ویسٹ انڈیز نے بنگلہ دیش کو پہلے ٹیسٹ میں آٹھ وکٹوں سے شکست دے کر سیریز میں 1-0 کی برتری حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446803/west-indies-crush-bangladesh-by-eight-wickets-in-first-test)*
 
-### دیگر
-- ہیلو کٹی بنانے والی کمپنی 'سانریو' (Sanrio) نے چین میں عوامی ردعمل کے بعد ایک جاپانی ٹی وی جاسوسی شو کے ساتھ تعاون ختم کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446469/hello-kitty-maker-sanrio-cuts-ties-with-tv-spy-show-after-china-backlash)*
+### صحت
+- امریکی ادارہ FDA نے 'Once Upon a Farm' ٹوڈلر بارز کے تمام ذائقوں کے خلاف وارننگ جاری کر دی ہے۔ *[ARY](https://arynews.tv/fda-warns-against-all-flavors-of-once-upon-a-farm-toddler-bars)*
 
