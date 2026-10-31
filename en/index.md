@@ -4,49 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 31-Oct-2026 09:03PKT
+Published at: 31-Oct-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Punjab has launched the **PIVOT** (Punjab Innovation for Value, Opportunity and Transformation) programme, involving **Rs. 1,089 billion** in government investment and **Rs. 906 billion** in private sector investment, aiming to increase exports by **USD 6.8 billion** and create **162,000 jobs**. *[Business Recorder](https://www.brecorder.com/news/40446732/punjab-cm-launches-first-pivot-programme)*
-- **ABHI Microfinance Bank** plans to raise between **Rs. 2 billion and Rs. 3 billion** through an IPO of **132 million ordinary shares** on the PSX, with a floor price of **Rs. 15 per share**. *[Business Recorder](https://www.brecorder.com/news/40446781/abhi-microfinance-bank-plans-to-raise-billions-thru-ipo)*
-- **OGDCL** reported a **53% profit surge** in 1QFY27 YoY, despite production curtailments costing the company an estimated **Rs. 9.7 billion** in lost sales revenue. *[Business Recorder](https://www.brecorder.com/news/40446731/ogdcl-reports-53pc-profit-surge-in-1qfy27-yoy)*
-- **OGRA** increased re-gasified liquefied natural gas (RLNG) prices by up to **15.27%** for October 2026; specifically, **SSGC** prices rose to **USD 16.3959 per MMBtu** from **USD 14.2233**. *[Business Recorder](https://www.brecorder.com/news/40446735/ogra-raises-october-rlng-prices)*
-- Experts suggest Pakistan can unlock **USD 40-50 billion** in Halal exports by transitioning to value-added, certified products. *[Business Recorder](https://www.brecorder.com/news/40446783/experts-see-usd50bn-potential-in-halal-exports)*
-- **SMEDA**, in collaboration with **Alibaba.com**, will train **10,000 SMEs** and facilitate the onboarding of **2,000 businesses** with financial support of up to **Rs. 150,000 each**. *[Business Recorder](https://www.brecorder.com/news/40446790/smeda-alibaba-to-train-10000-smes-for-global-exports)*
-- **K-Electric** reported that electricity losses in **Allahwala Town** have exceeded **60 percent**. *[ARY](https://arynews.tv/electricity-losses-in-allahwala-town-exceed-60-percent-k-electric-says)*
-- The national maritime economy is estimated at approximately **USD 150 billion** and is viewed as a critical factor for economic resilience. *[Business Recorder](https://www.brecorder.com/news/40446786/maritime-economy-to-play-vital-role-for-decreasing-anxiety-in-economy)*
-- Federal Minister Ali Pervaiz Malik proposed that **Saudi companies** could establish commercial oil reserves in Pakistan without local tax liabilities to diversify maritime transit risks. *[Business Recorder](https://www.brecorder.com/news/40446780/ksa-offered-to-set-up-oil-reserves)*
-- The Directorate General of Customs Valuation Karachi has revised the customs values for the import of **artificial flowers, plants, and trees** from **China**. *[Business Recorder](https://www.brecorder.com/news/40446733/values-of-imported-artificial-flowers-plants-trees-revised)*
+- LPG associations have announced a nationwide strike. *[ARY](https://arynews.tv/lpg-associations-announce-nationwide-strike)*
+- Tungsten prices saw a 622% surge between January 2025 and April 2026; during the same period, Tantalum rose 196%, Cobalt 134%, Neodymium 116%, and Lithium 108%. *[Business Recorder](https://www.brecorder.com/news/40446811/tungstens-sixfold-surge-pakistans-mineral-processing-opportunity)*
+- The Securities and Exchange Commission of Pakistan (SECP) has marked 39,704 companies as "Inactive by Registrar" for failing to file annual returns or financial statements for four years. *[Business Recorder](https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive)*
+- Gold prices in Pakistan plunged, with the per tola rate dropping by Rs. 10,800 to Rs. 409,736, while the 10-gram rate fell by Rs. 9,259 to Rs. 351,282. *[Business Recorder](https://www.brecorder.com/news/40446801/gold-prices-plunge-in-pakistan-as-per-tola-rate-drops-by-rs10800)*
+- Pakistan and Saudi Arabia are pushing for the early signing of the Pakistan-GCC Free Trade Agreement to expand market access for exporters. *[Business Recorder](https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement)*
+- India has extended its duty-free cotton import period by two months until the end of December, waiving the 11% import duty to ease domestic prices. *[Business Recorder](https://www.brecorder.com/news/40446792/india-extends-duty-free-cotton-imports-by-two-months-to-ease-domestic-prices)*
 
 ### Science & Technology
-- The **SUPARCO**-hosted UN/Pakistan International Conference explored the use of **space technology and GeoAI** for climate resilience and disaster risk assessment. *[Business Recorder](https://www.brecorder.com/news/40446785/climate-resilience-disaster-risk-reduction-innovative-applications-of-space-tech-geoai-explored)*
-
-### Weather
-- The weather forecast for October 31, 2026, predicts temperatures of **36-21ºC in Karachi**, **30-18ºC in Lahore**, and **35-22ºC in Hyderabad**. *[Business Recorder](https://www.brecorder.com/news/40446718/the-weather)*
+- A new study has found that soft mountain rock erodes three times faster than hard rock. *[ARY](https://arynews.tv/new-study-finds-soft-mountain-rock-erodes-three-times-faster-than-hard-rock)*
+- The new Surface Laptop 13 has been released, positioned to challenge the Apple MacBook Air with improved battery life. *[ARY](https://arynews.tv/new-surface-laptop-13-challenges-apple-macbook-air-with-incredible-battery-life)*
+- OpenAI has reduced its funding target by $10 billion and is now seeking approximately $20 billion, with a revised desired valuation of $1.25 trillion. *[Business Recorder](https://www.brecorder.com/news/40446794/openai-slashes-funding-target-by-10-billion-amid-tech-rout-reports)*
 
 ### Politics
-- Interior Minister **Mohsin Naqvi** announced that the government will continue indiscriminate action against encroachments and illegal occupants of state land in the federal capital. *[Business Recorder](https://www.brecorder.com/news/40446784/indiscriminate-action-against-encroachments-to-continue-in-federal-capital-naqvi)*
-- Punjab CM **Maryam Nawaz Sharif** launched the **PIET** (Punjab Innovation, Entrepreneurship and Technology) initiative to modernize industries and improve the business environment. *[Business Recorder](https://www.brecorder.com/news/40446789/punjab-cm-unveils-reforms-to-boost-investment-modernise-industries)*
+- Prime Minister Shehbaz Sharif defended the imposition of governor’s rule and emergency in Khyber Pakhtunkhwa, stating it was necessary to protect the province's economy and lives. *[Business Recorder](https://www.brecorder.com/news/40446804/pm-lambasts-ptis-kp-governance-defends-governors-rule-to-protect-lives-economy)*
 
 ### National
-- The **World Bank’s Inspection Panel** will visit Pakistan from **November 2-10, 2026**, to examine complaints regarding the **USD 700 million 765kV transmission line** under the Dasu Hydropower Project. *[Business Recorder](https://www.brecorder.com/news/40446778/765kv-transmission-line-under-dasu-hydropower-project-world-banks-inspection-panel-to-examine-complaints)*
-- **Four fishermen** died under mysterious circumstances after returning from sea. *[ARY](https://arynews.tv/four-fishermen-die-under-mysterious-circumstances-after-returning-from-sea)*
-- **NADRA** has detailed the process for individuals to restore official records if they have been erroneously declared dead. *[ARY](https://arynews.tv/declared-dead-while-alive-nadra-explains-how-to-restore-official-record)*
-- Traffic diversions have been announced in **Karachi** due to flyover projects on **Nishtar Road and Garden Road**. *[ARY](https://arynews.tv/traffic-diversions-announced-in-karachi-for-nishtar-road-garden-road-flyover-projects)*
+- A stampede at a TikToker’s mehndi ceremony resulted in 14 people being injured. *[ARY](https://arynews.tv/14-injured-in-stampede-at-tiktokers-mehndi-ceremony)*
+- NADRA has restored Dawood’s identity card after an 11-year period. *[ARY](https://arynews.tv/nadra-restores-dawoods-identity-card-after-11-years)*
+- Qatar is offering a free 30-day visa for Pakistani citizens. *[ARY](https://arynews.tv/qatar-offers-free-30-day-visa-for-pakistani-citizens)*
+- Information Minister Attaullah Tarar has proposed the establishment of a National Cybersecurity and Social Media Awareness Council to combat digital threats. *[Business Recorder](https://www.brecorder.com/news/40446802/attaullah-tarar-proposes-to-establish-national-cybersecurity-social-media-awareness-council)*
+- Pakistan has urged the Taliban to take decisive action against terrorist groups operating from Afghan soil and to lift restrictions on women and girls. *[Business Recorder](https://www.brecorder.com/news/40446797/pakistan-urges-taliban-to-curb-terrorist-groups-operating-from-afghan-soil)*
 
 ### International
-- **Singapore** has officially supported Pakistan’s diplomatic efforts to ease regional tensions in the **Gulf**. *[Business Recorder](https://www.brecorder.com/news/40446734/singapore-hails-pakistans-gulf-peace-efforts)*
-- A helicopter crash in the **Indian Himalayas** near Joshimath resulted in the deaths of **six people**, including the pilot. *[Business Recorder](https://www.brecorder.com/news/40446736/india-helicopter-crash-kills-six)*
-- **DG ISPR** stated that Pakistan remains cautiously optimistic regarding **Iran-US mediation** efforts. *[ARY](https://arynews.tv/pakistan-remains-cautiously-optimistic-about-iran-us-mediation-dg-ispr)*
-- Sindh Governor **Syed Muhammad Nehal Hashmi** called for enhanced cooperation among **ASEAN nations** to address shared economic and environmental challenges. *[Business Recorder](https://www.brecorder.com/news/40446787/nehal-calls-for-stronger-cooperation-among-asean-nations)*
-- Recent analysis suggests the practical reality is setting in regarding the **Trump-touted Venezuela oil deal**. *[ARY](https://arynews.tv/trump-touted-a-record-venezuela-oil-deal-now-reality-is-setting-in)*
+- Iranian Foreign Minister Abbas Araghchi stated that there are currently no plans to hold meetings with United States officials. *[Business Recorder](https://www.brecorder.com/news/40446812/iran-has-no-plans-for-talks-with-us-foreign-minister)*
+- UK Prime Minister Andy Burnham expressed openness to a formal apology for the transatlantic slave trade, which saw 12.5 million Africans abducted, but ruled out financial reparations. *[Business Recorder](https://www.brecorder.com/news/40446810/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations)*
+- More than 160,000 people are expected to join Gen Z-led protest rallies across Germany. *[Business Recorder](https://www.brecorder.com/news/40446808/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies)*
+- Syria is currently evaluating whether to join the Makkah defence alliance, which includes Pakistan, Turkiye, and Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40446807/syria-weighing-whether-to-join-makkah-pact-foreign-minister)*
+- Iran's supreme leader Mojtaba Khamenei warned the US and Israel against launching new military or terrorist attacks. *[Business Recorder](https://www.brecorder.com/news/40446805/irans-supreme-leader-warns-us-israel-against-new-attacks)*
+- An Iranian official reported that the US attacked two fishing boats near Qeshm Island, leaving one wounded and two fishermen missing. *[Business Recorder](https://www.brecorder.com/news/40446800/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media)*
+- Egypt’s Foreign Minister Badr Abdelatty expressed concern that a new escalation in the Iran-US war would be highly destructive. *[Business Recorder](https://www.brecorder.com/news/40446799/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says)*
+- The Saudi-led coalition intercepted and destroyed a drone over Saudi Arabia’s oil-rich Eastern Region. *[Business Recorder](https://www.brecorder.com/news/40446795/saudi-led-coalition-says-it-downs-drone-over-oil-rich-eastern-region)*
+- US Secretary of State Marco Rubio and Brazilian Foreign Minister Mauro Vieira have agreed to meet in the coming weeks. *[Business Recorder](https://www.brecorder.com/news/40446793/rubio-and-brazil-foreign-minister-to-meet-after-election-tension-reports)*
+
+### Sports
+- Chelsea is reportedly moving closer to facilitating Michael Carrick's exit from Manchester United. *[ARY](https://arynews.tv/chelsea-push-carrick-closer-to-man-utd-exit)*
+- Athlete Sophie Cunningham reflected on her career growth, moving from a $28,000 salary to a $665,000 contract. *[ARY](https://arynews.tv/sophie-cunningham-reflects-on-her-journey-from-28k-salary-to-665k-contract)*
+- South Africa defeated Australia by 176 runs in the third Test to win the series. *[ARY](https://arynews.tv/south-africa-beat-australia-by-176-runs-in-third-test-to-win-series)*
+- In the tri-series final against Pakistan in Lahore, Kamindu Mendis scored 131 off 128 balls and Pavan Rathnayake scored 77 to guide Sri Lanka to 325-8. *[Business Recorder](https://www.brecorder.com/news/40446809/kamindu-hits-maiden-odi-ton-as-sri-lanka-set-pakistan-326-in-final)*
+- West Indies defeated Bangladesh by eight wickets in the first Test, led by Brandon King's career-best 81 not out. *[Business Recorder](https://www.brecorder.com/news/40446803/west-indies-crush-bangladesh-by-eight-wickets-in-first-test)*
 
 ### Health
-- The Punjab government has approved **Rs. 1.1 billion** for the procurement of advanced **CT scanners** for three hospitals. *[ARY](https://arynews.tv/punjab-approves-rs-1-1bn-for-advanced-ct-scanners-at-three-hospitals)*
-- A new **drug combination** has been found to improve survival rates for certain **kidney cancer patients**. *[ARY](https://arynews.tv/drug-combo-improves-survival-for-some-kidney-cancer-patients)*
-
-### Other
-- **Nestlé Pakistan** will participate in the **29th Sustainable Development Conference** and Sustainability Investment Expo from **November 2 to 5, 2026**. *[Business Recorder](https://www.brecorder.com/news/40446788/nestle-pakistan-to-attend-sustainable-development-moot)*
+- The FDA has issued a warning against all flavors of "Once Upon a Farm" toddler bars. *[ARY](https://arynews.tv/fda-warns-against-all-flavors-of-once-upon-a-farm-toddler-bars)*
 
