@@ -7,51 +7,53 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 31-Oct-2026 21:09PKT 
+ &lrm; 01-Nov-2026 09:09PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان میں سونے کی قیمتوں میں فی تولہ 10,800 روپے کی بڑی کمی واقع ہوئی، جس کے بعد سونے کی نئی قیمت 409,736 روپے ہو گئی، جبکہ 10 گرام سونے کی قیمت میں 9,259 روپے کی کمی آئی۔ *[Business Recorder](https://www.brecorder.com/news/40446801/gold-prices-plunge-in-pakistan-as-per-tola-rate-drops-by-rs10800)*
-- ٹنگسٹن (Tungsten) کی قیمتوں میں جنوری 2025 سے اپریل 2026 کے درمیان 622 فیصد کا اضافہ دیکھا گیا، جبکہ ٹینٹلم میں 196 فیصد، کوبالٹ میں 134 فیصد، نیوڈیمیم میں 116 فیصد اور لیتھیم میں 108 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40446811/tungstens-sixfold-surge-pakistans-mineral-processing-opportunity)*
-- سیکিউরিটি اینڈ ایکسچینج کمیشن آف پاکستان (SECP) نے چار سال تک سالانہ گوشوارے اور مالیاتی بیانات جمع نہ کروانے پر 39,704 کمپنیوں کو "غیر فعال" (Inactive) قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive)*
-- ایل پی جی (LPG) ایسوسی ایشنز نے ملک گیر ہڑتال کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/lpg-associations-announce-nationwide-strike)*
-- پاکستان اور سعودی عرب کے درمیان جی سی سی (GCC) فری ٹریڈ معاہدے کو جلد مکمل کرنے کے لیے کوششیں تیز کر دی گئی ہیں تاکہ برآمد کنندگان کے لیے مارکیٹ تک رسائی بڑھے۔ *[Business Recorder](https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement)*
-- بھارت نے ٹیکسٹائل ملوں کے اخراجات کم کرنے کے لیے کپاس کی درآمد پر 11 فیصد ڈیوٹی کی چھوٹ کو دسمبر کے آخر تک دو ماہ کے لیے بڑھا دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446792/india-extends-duty-free-cotton-imports-by-two-months-to-ease-domestic-prices)*
+- پاکستان ایل پی جی مارکیٹرز ایسوسی ایشن نے نئی قیمتوں کے فارمولے کے خلاف 16 نومبر سے ملک گیر ہڑتال کا اعلان کیا ہے، جس سے قیمتوں میں 25 سے 30 فیصد اضافے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446852/lpg-dealers-oppose-new-pricing-formula-say-will-observe-strike-from-16th)*
+- یونیورسٹی آف ایگریکلچر فیصل آباد نے گندم کی مہم کے لیے 32,000 طلباء کو پنجاب کے 6 ڈویژنوں میں 10 دن (30 اکتوبر تا 8 نومبر) کے لیے متحرک کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446839/uaf-mobilises-32000-students-for-10-day-wheat-campaign)*
+- لیسکو نے شفاف بلنگ کے لیے وفاقی اور صوبائی سرکاری کنکشنز پر 501 روایتی بجلی کے میٹرز کو ایڈوانس میٹرنگ انفراسٹرکچر (AMI) میٹرز سے تبدیل کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446854/lesco-replaces-501-meters-with-ami-meters)*
+- سپریم کورٹ نے کاروں اور ٹرکوں کے لیے درآمد شدہ ٹائروں اور ٹیوبوں کی قدر کے تعین سے متعلق سندھ ہائی کورٹ کے فیصلے کو کالعدم قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict)*
+- پاکستان بڑھتی ہوئی حلال انڈسٹری میں عالمی مواقع تلاش کرنے اور تجارتی مواقع حاصل کرنے کی کوشش کر رہا ہے۔ *[ARY](https://arynews.tv/pakistan-seeks-global-opportunities-in-growing-halal-industry)*
+- زرعی یونیورسٹی پشاور اور پاکستان ڈیری ایسوسی ایشن کے درمیان فوڈ سیکیورٹی کے لیے معاہدہ کیا گیا ہے جس کے تحت یونیورسٹی کو 'سیف ملک زون' قرار دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446847/aup-dairy-association-join-hands-for-food-security)*
+- لاہور ہائی کورٹ نے قرار دیا ہے کہ سیلز ٹیکس پر ڈیفالٹ سرچارج کا حساب ادائیگی کی مقررہ تاریخ کے سولہویں دن سے کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40446844/lhc-clarifies-st-default-surcharge-calculation-period)*
+- گورنر پنجاب نے اسلام آباد چیمبر آف کامرس اینڈ انڈسٹری (ICCI) کو کاروباری مسائل اور نئے انڈسٹریل اسٹیٹ کے قیام میں مدد فراہم کرنے کا یقین دلایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446849/governor-punjab-assures-icci-of-resolving-business-issues)*
 
 ### سائنس اور ٹیکنالوجی
-- ایک نئی تحقیق کے مطابق پہاڑوں کی نرم چٹانیں سخت چٹانوں کے مقابلے میں تین گنا زیادہ تیزی سے کٹتی اور ختم ہوتی ہیں۔ *[ARY](https://arynews.tv/new-study-finds-soft-mountain-rock-erodes-three-times-faster-than-hard-rock)*
-- OpenAI نے ٹیکنالوجی کے شعبے میں ہونے والی گراوٹ کے باعث اپنے فنڈنگ ہدف میں 10 ارب ڈالر کی کمی کر دی ہے، اب کمپنی 20 ارب ڈالر جمع کرنے کی کوشش کر رہی ہے جبکہ اس کی مطلوبہ ویلیو 1.4 ٹریلین ڈالر سے کم ہو کر 1.25 ٹریلین ڈالر رہ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446794/openai-slashes-funding-target-by-10-billion-amid-tech-rout-reports)*
-- نیا 'Surface Laptop 13' ایپل کے میک بک ایئر (MacBook Air) کا مقابلہ کرنے کے لیے لانچ کیا گیا ہے جو بہترین بیٹری لائف فراہم کرتا ہے۔ *[ARY](https://arynews.tv/new-surface-laptop-13-challenges-apple-macbook-air-with-incredible-battery-life)*
+- بائننس (Binance) کا کہنا ہے کہ اس نے 6.3 بلین ڈالر کی ہیکنگ سے ہونے والے نقصانات کا 90 فیصد حصہ اب تک پورا کر لیا ہے۔ *[ARY](https://arynews.tv/binance-says-it-has-covered-90-of-losses-from-6-3-billion-hack-so-far)*
+- اینتھروپک (Anthropic) نے تصدیق شدہ کلود الٹرا (Claude Ultra) صارفین کے لیے گھنٹہ وار استعمال کی پابندیوں کو ختم کر دیا ہے۔ *[ARY](https://arynews.tv/anthropic-removes-restrictive-hourly-limits-for-verified-claude-ultra-tier-subscribers)*
+- وفاقی وزیر موسادک ملک نے آفات سے بچنے کے لیے سیٹلائٹ ٹیکنالوجی، مصنوعی ذہانت (AI) اور درست قبل از وقت وارننگ سسٹم کے استعمال پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446850/musadik-calls-for-accurate-early-warnings-to-identify-disasters)*
+- شمالی کوریا کے ہیکنگ نیٹ ورک 'TraderTraitor' کے پیچھے کارروائیوں کی تفصیلات سامنے آئی ہیں۔ *[ARY](https://arynews.tv/who-is-behind-tradertraitor-inside-north-koreas-hacking-network)*
+- این سی سی آئی اے (NCCIA) لاہور نے شہریوں اور طلباء کو سائبر کرائم سے بچانے کے لیے تعلیمی اداروں اور سماجی تنظیموں میں آگاہی مہم کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446838/cybercrime-awareness-drive)*
 
 ### سیاست
-- وزیراعظم شہباز شریف نے خیبر پختونخوا میں گورنر راج اور ہنگامی صورتحال کے نفاذ کا دفاع کرتے ہوئے کہا کہ یہ فیصلہ لوگوں کی زندگیوں اور صوبائی معیشت کے تحفظ کے لیے ضروری تھا۔ *[Business Recorder](https://www.brecorder.com/news/40446804/pm-lambasts-ptis-kp-governance-defends-governors-rule-to-protect-lives-economy)*
+- وزیراعظم کے مشیر کے مطابق 28ویں آئینی ترمیم نئے سال سے پہلے متوقع ہے۔ *[ARY](https://arynews.tv/28th-constitutional-amendment-expected-before-new-year-pms-advisor)*
+- سندھ کے وزیر محنت سمیع غنی کا کہنا ہے کہ پیپلز پارٹی کو ابھی تک 28ویں آئینی ترمیم کا مسودہ موصول نہیں ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446879/saeed-says-ppp-yet-to-receive-draft-of-28th-amendment)*
+- پاکستان بار کونسل نے مرحومہ انسانی حقوق کی وکیل اسما جہانگیر کے خلاف کیپٹن (ریٹائرڈ) محمد صفدر کے توہین آمیز جملوں کی سخت مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446848/pbc-condemns-safdars-remarks-against-asma-jahangir)*
 
 ### قومی
-- ایک ٹک ٹاکر کی مہندی کی تقریب میں ہجوم کے ٹکرانے (Stampede) کے نتیجے میں 14 افراد زخمی ہو گئے۔ *[ARY](https://arynews.tv/14-injured-in-stampede-at-tiktokers-mehndi-ceremony)*
-- نادرا (NADRA) نے 11 سال کے بعد داؤد نامی شہری کا شناختی کارڈ بحال کر دیا ہے۔ *[ARY](https://arynews.tv/nadra-restores-dawoods-identity-card-after-11-years)*
-- وزیر اطلاعات عطا اللہ تارڑ نے ڈیجیٹل خطرات سے نمٹنے کے لیے "نیشنل سائبر سیکیورٹی اور سوشل میڈیا آگاہی کونسل" کے قیام کی تجویز دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446802/attaullah-tarar-proposes-to-establish-national-cybersecurity-social-media-awareness-council)*
-- پاکستان نے طالبان انتظامیہ پر زور دیا ہے کہ وہ افغان سرزمین سے کام کرنے والے دہشت گرد گروہوں کے خلاف کارروائی کرے اور خواتین پر پابندیاں ختم کرے۔ *[Business Recorder](https://www.brecorder.com/news/40446797/pakistan-urges-taliban-to-curb-terrorist-groups-operating-from-afghan-soil)*
+- رانا ثناء اللہ نے کسانوں کو بااختیار بنانے کے لیے گرین ٹریکٹرز اور فارم لینڈ اسکیم کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/green-tractors-farmland-scheme-to-empower-farmers-rana-sanaullah)*
+- پنجاب سیف سٹی اتھارٹی (PSCA) نے پنجاب کے سرکاری ہسپتالوں میں ایمرجنسی کے لیے جدید QR پینک بٹنز نصب کرنے کا عمل شروع کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446846/psca-launches-emergency-panic-buttons-in-hospitals)*
+- پشاور کے قریب رشکائی انٹرچینج کے پاس ایک مسافر وین الٹنے کے نتیجے میں 3 افراد ہلاک اور 14 زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446851/three-killed-14-injured-in-road-accident)*
+- پنجاب وارڈڈ سٹیز اینڈ ہیریٹیج ایریاز اتھارٹی (PWCA) کے مطابق نیلا گumbad منصوبے کا مقصد تاریخی کردار کو برقرار رکھتے ہوئے شہری منظر کو بہتر بنانا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446855/neela-gumbad-will-improve-historical-character-of-area-dg-pwca)*
 
 ### بین الاقوامی
-- قطر نے پاکستانی شہریوں کے لیے 30 روزہ مفت ویزا پیش کرنے کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/qatar-offers-free-30-day-visa-for-pakistani-citizens)*
-- ایران کے وزیر خارجہ عباس عراقچی نے واضح کیا ہے کہ امریکہ کے ساتھ مذاکرات کرنے کا فی الحال کوئی منصوبہ نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446812/iran-has-no-plans-for-talks-with-us-foreign-minister)*
-- برطانوی وزیراعظم اینڈی برنہم نے غلامی کے تاریخی کردار پر رسمی معافی کے لیے تیار ہونے کا اظہار کیا ہے لیکن معاوضے (Reparations) کے مطالبے کو مسترد کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446810/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations)*
-- جرمنی میں نوجوانوں کی قیادت میں ہونے والے احتجاج کے دوران 160,000 سے زائد افراد کے ہالوین ریلیوں میں شامل ہونے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446808/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies)*
-- شام کے وزیر خارجہ نے مکہ دفاعی اتحاد (Makkah Pact) میں شمولیت کے حوالے سے غور کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446807/syria-weighing-whether-to-join-makkah-pact-foreign-minister)*
-- ایران کے سپریم لیڈر نے امریکہ اور اسرائیل کو کسی بھی نئے حملے کے خلاف خبردار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446805/irans-supreme-leader-warns-us-israel-against-new-attacks)*
-- ایرانی حکام کے مطابق امریکہ نے قیشم جزیرے کے قریب دو ماہی گیروں کی کشتیوں پر حملہ کیا، جس میں ایک زخمی ہوا اور دو ماہی گیر لاپتہ ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446800/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media)*
-- مصر کے وزیر خارجہ نے ایران اور امریکہ کے درمیان جنگ کے بڑھتے ہوئے تناؤ پر شدید تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446799/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says)*
-- سعودی قیادت کے زیر اہتمام کوالیشن نے سعودی عرب کے تیل سے مالامال مشرقی علاقے میں ایک ڈرون کو تباہ کر دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446795/saudi-led-coalition-says-it-downs-drone-over-oil-rich-eastern-region)*
-- امریکی وزیر خارجہ مارکو روبیو اور برازیل کے وزیر خارجہ کے درمیان آنے والے ہفتوں میں ملاقات طے پائی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446793/rubio-and-brazil-foreign-minister-to-meet-after-election-tension-reports)*
+- فرانس میں ہونے والے احتجاج کے دوران سیکڑوں ہزاروں افراد کے درمیان تصادم کے واقعات پیش آئے۔ *[ARY](https://arynews.tv/clashes-break-out-as-hundreds-of-thousands-protest-in-france)*
+- جرمنی میں ہزاروں افراد نے ہیلووین کے موقع پر احتجاجی ریلیوں میں شرکت کی۔ *[ARY](https://arynews.tv/gen-z-protests-reach-germany-as-thousands-join-halloween-rallies)*
+- سری لنکا کے ہائی کمشنر نے پاکستان کے ساتھ تجارتی اور اقتصادی تعاون کو مزید مضبوط بنانے کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446845/sri-lankan-hc-calls-for-stronger-trade-ties-with-pakistan)*
 
 ### کھیل
-- چیکسی کلب کی جانب سے کیریک کو مین یوٹی میں سے رخصت کروانے کے لیے اقدامات تیز کر دیے گئے ہیں۔ *[ARY](https://arynews.tv/chelsea-push-carrick-closer-to-man-utd-exit)*
-- کھلاڑی سوفی کناہم نے اپنی 28 ہزار ڈالر کی تنخواہ سے 665 ہزار ڈالر کے معاہدے تک کے سفر کو یاد کیا۔ *[ARY](https://arynews.tv/sophie-cunningham-reflects-on-her-journey-from-28k-salary-to-665k-contract)*
-- جنوبی افریقہ نے آسٹریلیا کو تیسرے ٹیسٹ میں 176 رنز سے ہرا کر سیریز جیت لی ہے۔ *[ARY](https://arynews.tv/south-africa-beat-australia-by-176-runs-in-third-test-to-win-series)*
-- سری لنکا نے پاکستان کے خلاف ٹرائی سیریز کے فائنل میں کمندو مینڈس کی 131 رنز (128 گیندوں پر) کی شاندار سنچری کی بدولت 325 رنز بنائے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446809/kamindu-hits-maiden-odi-ton-as-sri-lanka-set-pakistan-326-in-final)*
-- ویسٹ انڈیز نے بنگلہ دیش کو پہلے ٹیسٹ میں آٹھ وکٹوں سے شکست دے کر سیریز میں 1-0 کی برتری حاصل کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446803/west-indies-crush-bangladesh-by-eight-wickets-in-first-test)*
+- کرکٹر عماد وسیم نے بابر اعظم کے خلاف ہونے والی تنقید پر سخت ردعمل دیتے ہوئے انہیں 'سپر اسٹار' قرار دیا۔ *[ARY](https://arynews.tv/babar-azam-is-a-superstar-imad-wasim-slams-critics)*
 
 ### صحت
-- امریکی ادارہ FDA نے 'Once Upon a Farm' ٹوڈلر بارز کے تمام ذائقوں کے خلاف وارننگ جاری کر دی ہے۔ *[ARY](https://arynews.tv/fda-warns-against-all-flavors-of-once-upon-a-farm-toddler-bars)*
+- وفاقی وزیر صحت مصطفیٰ کمال کے مطابق ڈرپ (DRAP) کے ٹریک اینڈ ٹریس سسٹم کے تحت 86,000 سے زیادہ ادویات کو رجسٹر کیا جا چکا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446841/drap-made-transparent-digitalised-says-kamal)*
+- بلوچستان حکومت نے ڈیوٹی سے غیر حاضری پر 72 مزید ڈاکٹروں کو برطرف کر دیا ہے، جبکہ صوبے میں اب تک کل 200 ملازمین کو نکالا جا چکا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446853/balochistan-removes-72-more-doctors)*
+- پنجاب فیملی پلاننگ پروگرام کے 'بہتر قدم' پروگرام نے 755 تقریبات کے ذریعے صوبے کے 41 اضلاع میں 100,000 سے زائد لوگوں تک رسائی حاصل کی۔ *[Business Recorder](https://www.brecorder.com/news/40446878/pfpps-behtarqadam-programme-promoting-new-thinking)*
+- سندھ انسٹی ٹیوٹ آف کارڈیو ویسکولر ڈیزیز (SICVD) نے تاندو محمد خان میں دل کے امراض کے تشخیص اور علاج کے لیے نئی سروسز کا آغاز کیا۔ *[Business Recorder](https://www.brecorder.com/news/40446842/cardiac-care-ep-services-now-available-at-sicvd-tm-khan)*
+- پاکستان فارماسیوٹیکل مینوفیکچررز ایسوسی ایشن (PPMA) کے سابق چیئرمین ڈاکٹر شیخ قیصر وحید کا دل کا دورہ پڑنے سے انتقال ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446843/ppma-mourns-demise-of-former-chairman)*
+
+### دیگر
+- 90 سالہ جاپانی باڈی بلڈر نے اسپین میں شاندار کارکردگی دکھا کر اپنی عمر کو مات دے دی۔ *[ARY](https://arynews.tv/90-year-old-japanese-bodybuilder-defies-age-with-impressive-performance-in-spain)*
 
