@@ -4,51 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 31-Oct-2026 21:04PKT
+Published at: 01-Nov-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- LPG associations have announced a nationwide strike. *[ARY](https://arynews.tv/lpg-associations-announce-nationwide-strike)*
-- Tungsten prices saw a 622% surge between January 2025 and April 2026; during the same period, Tantalum rose 196%, Cobalt 134%, Neodymium 116%, and Lithium 108%. *[Business Recorder](https://www.brecorder.com/news/40446811/tungstens-sixfold-surge-pakistans-mineral-processing-opportunity)*
-- The Securities and Exchange Commission of Pakistan (SECP) has marked 39,704 companies as "Inactive by Registrar" for failing to file annual returns or financial statements for four years. *[Business Recorder](https://www.brecorder.com/news/40446806/secp-marks-over-39000-non-filing-companies-inactive)*
-- Gold prices in Pakistan plunged, with the per tola rate dropping by Rs. 10,800 to Rs. 409,736, while the 10-gram rate fell by Rs. 9,259 to Rs. 351,282. *[Business Recorder](https://www.brecorder.com/news/40446801/gold-prices-plunge-in-pakistan-as-per-tola-rate-drops-by-rs10800)*
-- Pakistan and Saudi Arabia are pushing for the early signing of the Pakistan-GCC Free Trade Agreement to expand market access for exporters. *[Business Recorder](https://www.brecorder.com/news/40446796/pakistan-ksa-push-for-early-gcc-free-trade-agreement)*
-- India has extended its duty-free cotton import period by two months until the end of December, waiving the 11% import duty to ease domestic prices. *[Business Recorder](https://www.brecorder.com/news/40446792/india-extends-duty-free-cotton-imports-by-two-months-to-ease-domestic-prices)*
+- The Pakistan LPG Marketers Association announced a nationwide strike starting November 16 due to concerns that a new pricing formula will increase LPG prices by **25% to 30%**. *[Business Recorder](https://www.brecorder.com/news/40446852/lpg-dealers-oppose-new-pricing-formula-say-will-observe-strike-from-16th)*
+- LESCO replaced **501** conventional electricity meters with Advanced Metering Infrastructure (AMI) meters for federal and provincial government connections. *[Business Recorder](https://www.brecorder.com/news/40446854/lesco-replaces-501-meters-with-ami-meters)*
+- The University of Agriculture Faisalabad (UAF) mobilized **32,000** students for a **10-day** wheat campaign running from Oct 30 to Nov 8 across six Punjab divisions. *[Business Recorder](https://www.brecorder.com/news/40446839/uaf-mobilises-32000-students-for-10-day-wheat-campaign)*
+- The Supreme Court set aside a Sindh High Court judgment regarding the valuation of imported tyres and tubes, restoring a 2022 Customs Appellate Tribunal decision. *[Business Recorder](https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict)*
+- Pakistan is actively seeking international expansion opportunities within the growing global halal industry. *[ARY](https://arynews.tv/pakistan-seeks-global-opportunities-in-growing-halal-industry)*
+- The Lahore High Court clarified that the default surcharge for sales tax is calculated starting from the **16th day** following the applicable due date. *[Business Recorder](https://www.brecorder.com/news/40446844/lhc-clarifies-st-default-surcharge-calculation-period)*
+- Agricultural University Peshawar and the Pakistan Dairy Association signed an MoU to establish a "Safe Milk Zone" to enhance food security. *[Business Recorder](https://www.brecorder.com/news/40446847/aup-dairy-association-join-hands-for-food-security)*
+- Governor Punjab assured the Islamabad Chamber of Commerce and Industry (ICCI) of support for resolving business issues and establishing new industrial estates. *[Business Recorder](https://www.brecorder.com/news/40446849/governor-punjab-assures-icci-of-resolving-business-issues)*
 
 ### Science & Technology
-- A new study has found that soft mountain rock erodes three times faster than hard rock. *[ARY](https://arynews.tv/new-study-finds-soft-mountain-rock-erodes-three-times-faster-than-hard-rock)*
-- The new Surface Laptop 13 has been released, positioned to challenge the Apple MacBook Air with improved battery life. *[ARY](https://arynews.tv/new-surface-laptop-13-challenges-apple-macbook-air-with-incredible-battery-life)*
-- OpenAI has reduced its funding target by $10 billion and is now seeking approximately $20 billion, with a revised desired valuation of $1.25 trillion. *[Business Recorder](https://www.brecorder.com/news/40446794/openai-slashes-funding-target-by-10-billion-amid-tech-rout-reports)*
+- Binance reported that it has covered **90%** of the losses resulting from a **$6.3 billion** hack. *[ARY](https://arynews.tv/binance-says-it-has-covered-90-of-losses-from-6-3-billion-hack-so-far)*
+- Anthropic has removed restrictive hourly usage limits for verified Claude Ultra tier subscribers. *[ARY](https://arynews.tv/anthropic-removes-restrictive-hourly-limits-for-verified-claude-ultra-tier-subscribers)*
+- The National Cyber Crime Investigation Agency (NCCIA) Lahore Zone has launched an awareness campaign targeting educational institutions and households. *[Business Recorder](https://www.brecorder.com/news/40446838/cybercrime-awareness-drive)*
+- Analysts are investigating the North Korean hacking network known as "TraderTraitor." *[ARY](https://arynews.tv/who-is-behind-tradertraitor-inside-north-koreas-hacking-network)*
 
 ### Politics
-- Prime Minister Shehbaz Sharif defended the imposition of governor’s rule and emergency in Khyber Pakhtunkhwa, stating it was necessary to protect the province's economy and lives. *[Business Recorder](https://www.brecorder.com/news/40446804/pm-lambasts-ptis-kp-governance-defends-governors-rule-to-protect-lives-economy)*
+- A **28th** Constitutional Amendment is expected to be passed before the New Year, according to the PM’s Advisor. *[ARY](https://arynews.tv/28th-constitutional-amendment-expected-before-new-year-pms-advisor)*
+- Sindh Minister Saeed Ghani stated that the Pakistan Peoples Party (PPP) has not yet received the draft for the proposed **28th** amendment. *[Business Recorder](https://www.brecorder.com/news/40446879/saeed-says-ppp-yet-to-receive-draft-of-28th-amendment)*
+- The Pakistan Bar Council (PBC) strongly condemned derogatory remarks made by Captain (Retd) Muhammad Safdar against the late Asma Jahangir. *[Business Recorder](https://www.brecorder.com/news/40446848/pbc-condemns-safdars-remarks-against-asma-jahangir)*
 
 ### National
-- A stampede at a TikToker’s mehndi ceremony resulted in 14 people being injured. *[ARY](https://arynews.tv/14-injured-in-stampede-at-tiktokers-mehndi-ceremony)*
-- NADRA has restored Dawood’s identity card after an 11-year period. *[ARY](https://arynews.tv/nadra-restores-dawoods-identity-card-after-11-years)*
-- Qatar is offering a free 30-day visa for Pakistani citizens. *[ARY](https://arynews.tv/qatar-offers-free-30-day-visa-for-pakistani-citizens)*
-- Information Minister Attaullah Tarar has proposed the establishment of a National Cybersecurity and Social Media Awareness Council to combat digital threats. *[Business Recorder](https://www.brecorder.com/news/40446802/attaullah-tarar-proposes-to-establish-national-cybersecurity-social-media-awareness-council)*
-- Pakistan has urged the Taliban to take decisive action against terrorist groups operating from Afghan soil and to lift restrictions on women and girls. *[Business Recorder](https://www.brecorder.com/news/40446797/pakistan-urges-taliban-to-curb-terrorist-groups-operating-from-afghan-soil)*
+- The Punjab Family Planning Program's 'Behtarqadam' initiative has reached approximately **100,000** people through **755** events across all **41** districts of Punjab. *[Business Recorder](https://www.brecorder.com/news/40446878/pfpps-behtarqadam-programme-promoting-new-thinking)*
+- A road accident near the Rashakai Interchange resulted in **3** deaths and **14** injuries when a passenger van overturned. *[Business Recorder](https://www.brecorder.com/news/40446851/three-killed-14-injured-in-road-accident)*
+- Federal Minister Musadik Malik called for the integration of satellite technology and AI into Pakistan's disaster management for preventive action. *[Business Recorder](https://www.brecorder.com/news/40446850/musadik-calls-for-accurate-early-warnings-to-identify-disasters)*
+- The Neela Gumbad project is underway to improve the urban landscape while preserving the historical character of the area in Lahore. *[Business Recorder](https://www.brecorder.com/news/40446855/neela-gumbad-will-improve-historical-character-of-area-dg-pwca)*
 
 ### International
-- Iranian Foreign Minister Abbas Araghchi stated that there are currently no plans to hold meetings with United States officials. *[Business Recorder](https://www.brecorder.com/news/40446812/iran-has-no-plans-for-talks-with-us-foreign-minister)*
-- UK Prime Minister Andy Burnham expressed openness to a formal apology for the transatlantic slave trade, which saw 12.5 million Africans abducted, but ruled out financial reparations. *[Business Recorder](https://www.brecorder.com/news/40446810/uk-pm-burnham-says-he-is-open-to-formal-apology-for-slavery-but-rules-out-reparations)*
-- More than 160,000 people are expected to join Gen Z-led protest rallies across Germany. *[Business Recorder](https://www.brecorder.com/news/40446808/gen-z-protests-reach-germany-as-over-160000-expected-at-halloween-rallies)*
-- Syria is currently evaluating whether to join the Makkah defence alliance, which includes Pakistan, Turkiye, and Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40446807/syria-weighing-whether-to-join-makkah-pact-foreign-minister)*
-- Iran's supreme leader Mojtaba Khamenei warned the US and Israel against launching new military or terrorist attacks. *[Business Recorder](https://www.brecorder.com/news/40446805/irans-supreme-leader-warns-us-israel-against-new-attacks)*
-- An Iranian official reported that the US attacked two fishing boats near Qeshm Island, leaving one wounded and two fishermen missing. *[Business Recorder](https://www.brecorder.com/news/40446800/iran-provincial-official-says-us-attacked-fishing-boats-off-qeshm-island-state-media)*
-- Egypt’s Foreign Minister Badr Abdelatty expressed concern that a new escalation in the Iran-US war would be highly destructive. *[Business Recorder](https://www.brecorder.com/news/40446799/egypt-fears-escalation-in-iran-war-would-be-more-destructive-foreign-minister-says)*
-- The Saudi-led coalition intercepted and destroyed a drone over Saudi Arabia’s oil-rich Eastern Region. *[Business Recorder](https://www.brecorder.com/news/40446795/saudi-led-coalition-says-it-downs-drone-over-oil-rich-eastern-region)*
-- US Secretary of State Marco Rubio and Brazilian Foreign Minister Mauro Vieira have agreed to meet in the coming weeks. *[Business Recorder](https://www.brecorder.com/news/40446793/rubio-and-brazil-foreign-minister-to-meet-after-election-tension-reports)*
+- Thousands of Gen Z protesters joined Halloween rallies in Germany. *[ARY](https://arynews.tv/gen-z-protests-reach-germany-as-thousands-join-halloween-rallies)*
+- Clashes were reported in France as hundreds of thousands of people participated in protests. *[ARY](https://arynews.tv/clashes-break-out-as-hundreds-of-thousands-protest-in-france)*
+- The Sri Lankan High Commissioner to Pakistan called for enhanced trade, investment, and commercial engagement between the two nations. *[Business Recorder](https://www.brecorder.com/news/40446845/sri-lankan-hc-calls-for-stronger-trade-ties-with-pakistan)*
 
 ### Sports
-- Chelsea is reportedly moving closer to facilitating Michael Carrick's exit from Manchester United. *[ARY](https://arynews.tv/chelsea-push-carrick-closer-to-man-utd-exit)*
-- Athlete Sophie Cunningham reflected on her career growth, moving from a $28,000 salary to a $665,000 contract. *[ARY](https://arynews.tv/sophie-cunningham-reflects-on-her-journey-from-28k-salary-to-665k-contract)*
-- South Africa defeated Australia by 176 runs in the third Test to win the series. *[ARY](https://arynews.tv/south-africa-beat-australia-by-176-runs-in-third-test-to-win-series)*
-- In the tri-series final against Pakistan in Lahore, Kamindu Mendis scored 131 off 128 balls and Pavan Rathnayake scored 77 to guide Sri Lanka to 325-8. *[Business Recorder](https://www.brecorder.com/news/40446809/kamindu-hits-maiden-odi-ton-as-sri-lanka-set-pakistan-326-in-final)*
-- West Indies defeated Bangladesh by eight wickets in the first Test, led by Brandon King's career-best 81 not out. *[Business Recorder](https://www.brecorder.com/news/40446803/west-indies-crush-bangladesh-by-eight-wickets-in-first-test)*
+- Imad Wasim defended Babar Azam against critics, labeling him a "superstar." *[ARY](https://arynews.tv/babar-azam-is-a-superstar-imad-wasim-slams-critics)*
 
 ### Health
-- The FDA has issued a warning against all flavors of "Once Upon a Farm" toddler bars. *[ARY](https://arynews.tv/fda-warns-against-all-flavors-of-once-upon-a-farm-toddler-bars)*
+- The Drug Regulatory Authority of Pakistan (DRAP) has registered over **86,000** medicines under the Track and Trace System to ensure authenticity and price transparency. *[Business Recorder](https://www.brecorder.com/news/40446841/drap-made-transparent-digitalised-says-kamal)*
+- The Balochistan government dismissed **72** more doctors for unauthorized absence, bringing the total number of dismissed employees to **200**. *[Business Recorder](https://www.brecorder.com/news/40446853/balochistan-removes-72-more-doctors)*
+- The Punjab Safe Cities Authority (PSCA) has begun installing emergency QR panic buttons in government hospitals across Punjab. *[Business Recorder](https://www.brecorder.com/news/40446846/psca-launches-emergency-panic-buttons-in-hospitals)*
+- Expanded Cardiac Electrophysiology (EP) services have been inaugurated at SICVD Tando Muhammad Khan. *[Business Recorder](https://www.brecorder.com/news/40446842/cardiac-care-ep-services-now-available-at-sicvd-tm-khan)*
+- The Pakistan Pharmaceutical Manufacturers’ Association (PPMA) is mourning the death of former Chairman Dr. Shaikh Kaiser Waheed. *[Business Recorder](https://www.brecorder.com/news/40446843/ppma-mourns-demise-of-former-chairman)*
+
+### Other
+- A **90-year-old** Japanese bodybuilder delivered an impressive performance in Spain. *[ARY](https://arynews.tv/90-year-old-japanese-bodybuilder-defies-age-with-impressive-performance-in-spain)*
 
