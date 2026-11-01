@@ -4,52 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 01-Nov-2026 09:03PKT
+Published at: 01-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Pakistan LPG Marketers Association announced a nationwide strike starting November 16 due to concerns that a new pricing formula will increase LPG prices by **25% to 30%**. *[Business Recorder](https://www.brecorder.com/news/40446852/lpg-dealers-oppose-new-pricing-formula-say-will-observe-strike-from-16th)*
-- LESCO replaced **501** conventional electricity meters with Advanced Metering Infrastructure (AMI) meters for federal and provincial government connections. *[Business Recorder](https://www.brecorder.com/news/40446854/lesco-replaces-501-meters-with-ami-meters)*
-- The University of Agriculture Faisalabad (UAF) mobilized **32,000** students for a **10-day** wheat campaign running from Oct 30 to Nov 8 across six Punjab divisions. *[Business Recorder](https://www.brecorder.com/news/40446839/uaf-mobilises-32000-students-for-10-day-wheat-campaign)*
-- The Supreme Court set aside a Sindh High Court judgment regarding the valuation of imported tyres and tubes, restoring a 2022 Customs Appellate Tribunal decision. *[Business Recorder](https://www.brecorder.com/news/40446877/value-of-imported-tyres-tubes-sc-sets-aside-shc-verdict)*
-- Pakistan is actively seeking international expansion opportunities within the growing global halal industry. *[ARY](https://arynews.tv/pakistan-seeks-global-opportunities-in-growing-halal-industry)*
-- The Lahore High Court clarified that the default surcharge for sales tax is calculated starting from the **16th day** following the applicable due date. *[Business Recorder](https://www.brecorder.com/news/40446844/lhc-clarifies-st-default-surcharge-calculation-period)*
-- Agricultural University Peshawar and the Pakistan Dairy Association signed an MoU to establish a "Safe Milk Zone" to enhance food security. *[Business Recorder](https://www.brecorder.com/news/40446847/aup-dairy-association-join-hands-for-food-security)*
-- Governor Punjab assured the Islamabad Chamber of Commerce and Industry (ICCI) of support for resolving business issues and establishing new industrial estates. *[Business Recorder](https://www.brecorder.com/news/40446849/governor-punjab-assures-icci-of-resolving-business-issues)*
+- **OPEC+** core members, including Saudi Arabia and Russia, decided to keep December oil production targets steady. *[Business Recorder](https://www.brecorder.com/news/40446913/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027)*
+- **India's** coal-fired power generation surged by **25.7%** in October, increasing its share of overall generation to **71.7%** from **66.03%** in September. *[Business Recorder](https://www.brecorder.com/news/40446907/indias-october-coal-fired-power-output-jumps-most-in-3-years-as-hydro-generation-slumps)*
+- **India** collected **2.03 trillion rupees ($21.40 billion)** in net goods and services tax in October, marking a **25.6%** year-on-year increase. *[Business Recorder](https://www.brecorder.com/news/40446905/indias-october-net-goods-and-services-tax-collection-rises-256-year-on-year)*
 
 ### Science & Technology
-- Binance reported that it has covered **90%** of the losses resulting from a **$6.3 billion** hack. *[ARY](https://arynews.tv/binance-says-it-has-covered-90-of-losses-from-6-3-billion-hack-so-far)*
-- Anthropic has removed restrictive hourly usage limits for verified Claude Ultra tier subscribers. *[ARY](https://arynews.tv/anthropic-removes-restrictive-hourly-limits-for-verified-claude-ultra-tier-subscribers)*
-- The National Cyber Crime Investigation Agency (NCCIA) Lahore Zone has launched an awareness campaign targeting educational institutions and households. *[Business Recorder](https://www.brecorder.com/news/40446838/cybercrime-awareness-drive)*
-- Analysts are investigating the North Korean hacking network known as "TraderTraitor." *[ARY](https://arynews.tv/who-is-behind-tradertraitor-inside-north-koreas-hacking-network)*
+- **Xiaomi** delivered over **50,000** electric vehicles in October, bringing its total deliveries for the first 10 months of 2026 to approximately **336,000** units. *[Business Recorder](https://www.brecorder.com/news/40446906/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high)*
 
 ### Politics
-- A **28th** Constitutional Amendment is expected to be passed before the New Year, according to the PM’s Advisor. *[ARY](https://arynews.tv/28th-constitutional-amendment-expected-before-new-year-pms-advisor)*
-- Sindh Minister Saeed Ghani stated that the Pakistan Peoples Party (PPP) has not yet received the draft for the proposed **28th** amendment. *[Business Recorder](https://www.brecorder.com/news/40446879/saeed-says-ppp-yet-to-receive-draft-of-28th-amendment)*
-- The Pakistan Bar Council (PBC) strongly condemned derogatory remarks made by Captain (Retd) Muhammad Safdar against the late Asma Jahangir. *[Business Recorder](https://www.brecorder.com/news/40446848/pbc-condemns-safdars-remarks-against-asma-jahangir)*
+- Pakistan has assumed the **G-24 chairmanship**, with Finance Minister **Muhammad Aurangzeb** prioritizing the strengthening of developing economies' representation in multilateral institutions. *[Business Recorder](https://www.brecorder.com/news/40446904/pakistan-assumes-g-24-chairmanship-seeks-global-financial-reforms)*
 
 ### National
-- The Punjab Family Planning Program's 'Behtarqadam' initiative has reached approximately **100,000** people through **755** events across all **41** districts of Punjab. *[Business Recorder](https://www.brecorder.com/news/40446878/pfpps-behtarqadam-programme-promoting-new-thinking)*
-- A road accident near the Rashakai Interchange resulted in **3** deaths and **14** injuries when a passenger van overturned. *[Business Recorder](https://www.brecorder.com/news/40446851/three-killed-14-injured-in-road-accident)*
-- Federal Minister Musadik Malik called for the integration of satellite technology and AI into Pakistan's disaster management for preventive action. *[Business Recorder](https://www.brecorder.com/news/40446850/musadik-calls-for-accurate-early-warnings-to-identify-disasters)*
-- The Neela Gumbad project is underway to improve the urban landscape while preserving the historical character of the area in Lahore. *[Business Recorder](https://www.brecorder.com/news/40446855/neela-gumbad-will-improve-historical-character-of-area-dg-pwca)*
+- The **KP government** has directed all departments to strictly adhere to their allocated budgets. *[ARY](https://arynews.tv/kp-government-directs-departments-to-stay-within-allocated-budgets)*
+- A surveillance drone crashed near the **CTD headquarters** in Lahore. *[ARY](https://arynews.tv/surveillance-drone-crashes-ctd-headquarters-lahore)*
+- **IESCO** has issued a notification regarding a scheduled power suspension programme. *[ARY](https://arynews.tv/iesco-notifies-power-suspension-programme)*
+- The **DG ISPR** stated that India is the biggest sponsor of terrorism in Pakistan. *[ARY](https://arynews.tv/india-biggest-sponsor-of-terrorism-in-pakistan-says-dg-ispr)*
+- The **President and Prime Minister** extended felicitations to the people of **Gilgit-Baltistan** on its Independence Day. *[ARY](https://arynews.tv/president-pm-extend-felicitations-to-people-of-gilgit-baltistan-on-independence-day)*
+- **Gilgit-Baltistan** is celebrating its Independence Day today. *[ARY](https://arynews.tv/gb-independence-day-being-celebrated-today)*
+- **PIA** has received its first leased **Boeing 787-9 Dreamliner**, which arrived in Islamabad from London via flight **PK786**. *[Business Recorder](https://www.brecorder.com/news/40446914/pias-first-boeing-787-9-dreamliner-arrives-in-pakistan)*
 
 ### International
-- Thousands of Gen Z protesters joined Halloween rallies in Germany. *[ARY](https://arynews.tv/gen-z-protests-reach-germany-as-thousands-join-halloween-rallies)*
-- Clashes were reported in France as hundreds of thousands of people participated in protests. *[ARY](https://arynews.tv/clashes-break-out-as-hundreds-of-thousands-protest-in-france)*
-- The Sri Lankan High Commissioner to Pakistan called for enhanced trade, investment, and commercial engagement between the two nations. *[Business Recorder](https://www.brecorder.com/news/40446845/sri-lankan-hc-calls-for-stronger-trade-ties-with-pakistan)*
+- US President **Donald Trump** stated that the US still has **"one or two targets"** to address in Iran following recent military actions. *[Business Recorder](https://www.brecorder.com/news/40446917/trump-says-us-still-has-one-or-two-targets-in-iran)*
+- The **UAE** is seeking a diplomatic breakthrough in the Iran-US war while preparing for potential worst-case escalations. *[Business Recorder](https://www.brecorder.com/news/40446916/uae-says-hoping-for-breakthrough-yet-braced-for-the-worst-in-iran-us-war)*
+- **Iran** warned that any renewed war with the United States could last longer than previous conflicts. *[Business Recorder](https://www.brecorder.com/news/40446915/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes)*
+- Five people were killed in **Manipur, India**, due to fresh ethnic violence, including three men from the **Kuki** tribal group in the **Noney district**. *[Business Recorder](https://www.brecorder.com/news/40446912/five-killed-in-fresh-ethnic-violence-in-indias-manipur-state)*
+- Police cleared a housing protest camp in **Lisbon's Rossio Square** following demonstrations against rising rents and a new rental bill. *[Business Recorder](https://www.brecorder.com/news/40446908/police-clear-new-lisbon-housing-protest-camp-after-thousands-rally)*
+- US Secretary of State **Marco Rubio** noted growing international interest in a limited ceasefire in the **Black Sea** to secure energy and grain shipments. *[Business Recorder](https://www.brecorder.com/news/40446900/us-canada-see-growing-interest-in-limited-ceasefire-in-black-sea)*
 
 ### Sports
-- Imad Wasim defended Babar Azam against critics, labeling him a "superstar." *[ARY](https://arynews.tv/babar-azam-is-a-superstar-imad-wasim-slams-critics)*
+- Cricketer **Hardik Pandya** won **Rs 94 lakh** in a baseball challenge against YouTuber **MrBeast**. *[ARY](https://arynews.tv/hardik-pandya-wins-rs-94-lakh-in-baseball-challenge-against-youtuber-mrbeast)*
+- **New Zealand** defeated India by seven wickets in the fifth T20, with **Tim Seifert** scoring **93 off 50 balls**. *[Business Recorder](https://www.brecorder.com/news/40446918/seifert-blasts-93-as-new-zealand-win-fifth-india-t20)*
+- **Borussia Dortmund** secured a **2-2** draw against **Bayern Munich** following a missed penalty by **Harry Kane**. *[Business Recorder](https://www.brecorder.com/news/40446911/kane-misses-penalty-hits-post-as-dortmund-snatch-draw)*
+- **Barcelona** defeated **Alaves 6-1**, moving to the top of LaLiga with **30 points**. *[Business Recorder](https://www.brecorder.com/news/40446910/barcelona-bounce-back-with-6-1-win-over-alaves)*
+- **Diana Shnaider** won the **Pan Pacific Open** in Tokyo, defeating **Leylah Fernandez 6-4, 5-7, 6-2**. *[Business Recorder](https://www.brecorder.com/news/40446909/shnaider-downs-fernandez-in-pan-pacific-open-final-in-tokyo)*
+- **South Africa** won the three-Test series against **Australia 2-1**, led by **Simon Harmer's 6-16** and **Kagiso Rabada** reaching **350 Test wickets**. *[Business Recorder](https://www.brecorder.com/news/40446903/harmer-rabada-steer-south-africa-to-series-win-over-australia)*
+- **Carlos Alcaraz** reached the **Vienna Open** final after defeating **Daniil Medvedev 6-4, 7-6(2)**. *[Business Recorder](https://www.brecorder.com/news/40446901/alcaraz-reaches-first-vienna-final-to-face-de-minaur-after-zverev-upset)*
 
 ### Health
-- The Drug Regulatory Authority of Pakistan (DRAP) has registered over **86,000** medicines under the Track and Trace System to ensure authenticity and price transparency. *[Business Recorder](https://www.brecorder.com/news/40446841/drap-made-transparent-digitalised-says-kamal)*
-- The Balochistan government dismissed **72** more doctors for unauthorized absence, bringing the total number of dismissed employees to **200**. *[Business Recorder](https://www.brecorder.com/news/40446853/balochistan-removes-72-more-doctors)*
-- The Punjab Safe Cities Authority (PSCA) has begun installing emergency QR panic buttons in government hospitals across Punjab. *[Business Recorder](https://www.brecorder.com/news/40446846/psca-launches-emergency-panic-buttons-in-hospitals)*
-- Expanded Cardiac Electrophysiology (EP) services have been inaugurated at SICVD Tando Muhammad Khan. *[Business Recorder](https://www.brecorder.com/news/40446842/cardiac-care-ep-services-now-available-at-sicvd-tm-khan)*
-- The Pakistan Pharmaceutical Manufacturers’ Association (PPMA) is mourning the death of former Chairman Dr. Shaikh Kaiser Waheed. *[Business Recorder](https://www.brecorder.com/news/40446843/ppma-mourns-demise-of-former-chairman)*
-
-### Other
-- A **90-year-old** Japanese bodybuilder delivered an impressive performance in Spain. *[ARY](https://arynews.tv/90-year-old-japanese-bodybuilder-defies-age-with-impressive-performance-in-spain)*
+- **DRAP** has issued an alert regarding the presence of counterfeit **influenza vaccines** in Pakistan. *[ARY](https://arynews.tv/drap-issues-alert-over-counterfeit-influenza-vaccines-in-pakistan)*
+- Pakistan reported its **eighth polio case of 2026** in the **Khyber district**, with a total of six cases in KP and two in Sindh. *[Business Recorder](https://www.brecorder.com/news/40446919/pakistan-reports-eighth-polio-case-of-2026-from-kps-khyber-district)*
+- A special sub-national polio vaccination campaign will be conducted in **97 districts** from **November 2 to November 8**. *[Business Recorder](https://www.brecorder.com/news/40446919/pakistan-reports-eighth-polio-case-of-2026-from-kps-khyber-district)*
 
