@@ -7,47 +7,43 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 01-Nov-2026 21:09PKT 
+ &lrm; 02-Nov-2026 09:08PKT 
 
 پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- BYD کی فروخت میں اضافے کا تسلسل برقرار ہے۔ *[ARY](https://arynews.tv/byd-extends-sales-growth-streak)*
-- پاکستان انٹرنیشنل ایئر لائنز (PIA) کا پہلا بوئنگ 787-9 ڈریم لائنر اسلام آباد پہنچ گیا، جو کہ ایک لیز شدہ طیارہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446914/pias-first-boeing-787-9-dreamliner-arrives-in-pakistan)*
-- اوپیک پلس (OPEC+) نے دسمبر کے لیے تیل کی پیداوار کے اہداف کو برقرار رکھنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446913/opec-keeps-december-oil-output-targets-steady-ahead-of-tougher-call-for-2027)*
-- بھارت میں اکتوبر کے دوران کوئلے سے بجلی کی پیداوار میں گزشتہ سال کے مقابلے میں 25.7 فیصد کا اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40446907/indias-october-coal-fired-power-output-jumps-most-in-3-years-as-hydro-generation-slumps)*
-- شیاومی نے اکتوبر میں 50,000 سے زائد الیکٹرک گاڑیاں فراہم کیں، جو کہ اس سال کا سب سے زیادہ ماہانہ مجموعہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446906/xiaomis-october-ev-deliveries-top-50000-hit-2026-monthly-high)*
-- بھارت نے اکتوبر میں 2.03 ٹریلین روپے کا نیٹ جی ایس ٹی (GST) جمع کیا، جو کہ گزشتہ سال کے مقابلے میں 25.6 فیصد زیادہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446905/indias-october-net-goods-and-services-tax-collection-rises-256-year-on-year)*
+- برینٹ کروڈ کی قیمت 118 ڈالر فی بیرل سے 1.40 فیصد گر کر 111.84 ڈالر پر آگئی ہے، جبکہ امریکی ویسٹ ٹیکساس (WTI) کروڈ 102.56 ڈالر پر رہا۔ *[Business Recorder](https://www.brecorder.com/news/40446999/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war)*
+- انڈین شیئرز کی توقعات مثبت ہیں کیونکہ ریلائنس انڈسٹریز نے ستمبر کی سہ ماہی میں توقع سے زیادہ منافع کمایا اور GIFT Nifty فیوچر 23,258.5 پر دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447004/indian-shares-set-for-positive-start-on-talks-to-end-iran-war-strong-reliance-earnings)*
+- انڈین روپے کے 94.94-94.98 کے درمیان امریکی ڈالر کے مقابلے میں کھلنے کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447003/indian-rupee-surprise-friday-recovery-faces-test-from-weak-peers-fragile-risk)*
+- بینک آف انگلینڈ سے شرح سود کو 3.75 فیصد سے بڑھا کر 4.0 فیصد کرنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447002/bank-of-england-poised-to-raise-rates-but-may-push-back-on-bets-for-more)*
+- بٹ کوائن اور ایتھر کی قیمتوں میں کمی دیکھی گئی ہے، جس کی وجہ بائنس (Binance) ایکسچینج پر 6.3 بلین ڈالر کی بڑی چوری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447001/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist)*
+- پیٹرول کی قیمتوں کے نئے میکانزم کی وجہ سے ملکی ریفائنریوں کو فی لیٹر 49 روپے کا مالی نقصان ہونے کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446992/petrol-pricing-changes-may-cause-refineries-rs49litre-loss)*
+- ایف بی آر (FBR) کی جانب سے ایک سینئر شہری ٹیکس دہندہ کو 'غیر فعال' قرار دینے پر وفاقی ٹیکس ombudsman سے انصاف کی درخواست کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446925/fbr-marks-senior-citizen-pensioners-tax-status-as-in-active)*
+- الائیڈ بینک نے رواں مالی سال کے پہلے 9 ماہ میں 23 ارب روپے سے زائد کا خالص منافع (PAT) حاصل کیا، جبکہ سود سے آمدنی 260,813 ملین روپے رہی۔ *[Business Recorder](https://www.brecorder.com/news/40446928/allied-bank-declares-over-rs23bn-pat-in-9mcy26)*
 
 ### سیاست
-- خیبر پختونخوا حکومت نے تمام متعلقہ محکموں کو ہدایت کی ہے کہ وہ اپنے الاٹ شدہ بجٹ کے اندر رہ کر کام کریں۔ *[ARY](https://arynews.tv/kp-government-directs-departments-to-stay-within-allocated-budgets)*
-- پاکستان نے G-24 کی صدارت سنبھال لی ہے، جس میں وزیر خزانہ محمد اورنگزیب نے عالمی مالیاتی نظام میں اصلاحات اور ترقیاتی پالیسیوں پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446904/pakistan-assumes-g-24-chairmanship-seeks-global-financial-reforms)*
-- امریکی صدر ڈونلڈ ٹرمپ کا کہنا ہے کہ امریکہ کے پاس ایران میں اب بھی ایک یا دو اہداف باقی ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446917/trump-says-us-still-has-one-or-two-targets-in-iran)*
-- متحدہ عرب امارات نے ایران اور امریکہ کے درمیان جنگ کے امکانات کے پیش نظر سفارتی حل کی امید ظاہر کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446916/uae-says-hoping-for-breakthrough-yet-braced-for-the-worst-in-iran-us-war)*
-- ایران نے خبردار کیا ہے کہ امریکہ کے ساتھ ممکنہ جنگ پچھلی جنگوں سے زیادہ طویل ہو سکتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446915/iran-warns-new-war-could-last-longer-after-trump-threatens-strikes)*
-- امریکہ اور کینیڈا نے بحیرہ اسکٹلینڈ میں محدود جنگ بندی کے ذریعے اناج اور توانائی کی ترسیل کو یقینی بنانے کی کوششوں پر بات چیت کی۔ *[Business Recorder](https://www.brecorder.com/news/40446900/us-canada-see-growing-interest-in-limited-ceasefire-in-black-sea)*
+- شوکت یوسف الزلفی کا الزام ہے کہ شہزاد اکبر بیرون ملک سے پی ٹی آئی (PTI) کو نشانہ بنا رہے ہیں۔ *[ARY](https://arynews.tv/shahzad-akbar-targeting-pti-from-abroad-alleges-shaukat-yousafzai)*
+- محسن نقوی نے عوام پر زور دیا ہے کہ وہ سیاسی وابستگیوں کے بجائے پاکستان کو ترجیح دیں۔ *[ARY](https://arynews.tv/mohsin-naqvi-urges-people-to-put-pakistan-above-political-affiliations)*
 
 ### قومی
-- لاہور میں سی ٹی ڈی (CTD) کے ہیڈ کوارٹرز کے قریب ایک نگرانی کرنے والا ڈرون گر گیا۔ *[ARY](https://arynews.tv/surveillance-drone-crashes-ctd-headquarters-lahore)*
-- ڈی جی آئی ایس پی آر نے بھارت کو پاکستان میں دہشت گردی کا سب سے بڑا سرپرست قرار دیا۔ *[ARY](https://arynews.tv/india-biggest-sponsor-of-terrorism-in-pakistan-says-dg-ispr)*
-- صدر اور وزیراعظم نے گلگت بلتستان کے عوام کو یوم آزادی کی مبارکباد پیش کی۔ *[ARY](https://arynews.tv/president-pm-extend-felicitations-to-people-of-gilgit-baltistan-on-independence-day)*
-- آئی ایس سی او (IESCO) نے بجلی کی معطلی کے پروگرام کے حوالے سے نوٹیفکیشن جاری کر دیا۔ *[ARY](https://arynews.tv/iesco-notifies-power-suspension-programme)*
+- اکتوبر کے دوران ملک میں دہشت گردانہ حملوں میں 37 فیصد کمی واقع ہوئی، جو ستمبر کے 226 حملوں کے مقابلے میں کم ہو کر 143 رہ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446929/oct-terrorist-attacks-decline-37pc-mom)*
+- اورکزائی کے علاقے درہ حسن زئی میں پولیس آپریشن کے دوران دو دہشت گرد مارے گئے جبکہ ایک ایس ایچ او سمیت دو اہلکار زخمی ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40446927/two-militants-killed-in-orakzai)*
+- پاکستان ریلوے ڈویژنل سپرنٹنڈنٹ کراچی نے ڈریگ روڈ ریلوے اسٹیشن کو جدید سہولیات اور بہتر پارکنگ سے آراستہ کرنے کا جائزہ لیا۔ *[Business Recorder](https://www.brecorder.com/news/40446930/railways-plans-modernising-drigh-road-station)*
+- جنوبی وزیرستان میں افغان سرحد پر ہونے والی بلاوجہ فائرنگ کے جواب میں پاکستانی افواج نے کارروائی کی۔ *[ARY](https://arynews.tv/pakistan-responds-to-unprovoked-afghan-border-firing-in-south-waziristan)*
+- لاہور میں منعقدہ کانفرنس میں ماہرین نے پاکستان کے بڑھتے ہوئے پانی کے بحران اور سندھ کے پانی کے مسائل کے حل کے لیے قومی اتفاق رائے پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446996/speakers-urge-national-consensus-to-tackle-deepening-water-crisis)*
 
 ### بین الاقوامی
-- بھارت کی ریاست منی پور میں حالیہ نسلی تشدد کے دوران پانچ افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446912/five-killed-in-fresh-ethnic-violence-in-indias-manipur-state)*
-- پرتگال کے شہر لزبن میں ہاؤسنگ بحران کے خلاف احتجاج کرنے والے ہزاروں مظاہرین کے کیمپ کو پولیس نے ہٹا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40446908/police-clear-new-lisbon-housing-protest-camp-after-thousands-rally)*
+- امریکہ یوکرین کے راستے یورپ کو روسی گیس کی فروخت دوبارہ شروع کرنے کی حمایت کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447007/us-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-wsj-reports)*
+- آسٹریلیا کے شہر سڈنی میں گزشتہ سال ہونے والے بم دھماکے کے بعد اب پولیس رائفلوں سے مسلح خصوصی یونٹ تعینات کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447006/police-with-assault-rifles-begin-sydney-patrols-in-wake-of-bondi-attack)*
+- شمالی کوریا نے امریکی اور جنوبی کوریا کے مشترکہ عسکری مشق 'آئرن میس' کو ایٹمی جنگ کی مشق قرار دے کر اپنے دفاع کو مضبوط کرنے کا عزم کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447005/north-korea-says-us-south-korea-nuclear-drill-shows-need-for-stronger-nuclear-deterrent)*
+- کویت کی وزارت تعلیم نے اسکولوں کے نظم و ضبط اور طلباء کی رازداری کے لیے 20 سخت قوانین نافذ کر دیے ہیں۔ *[ARY](https://arynews.tv/kuwait-education-ministry-enforces-20-strict-rules-to-regulate-school-conduct-and-student-privacy)*
 
 ### کھیل
-- ہاردک پانڈیا نے یوٹیوبر مس بےسٹ کے خلاف بیس بال چیلنج میں 94 لاکھ روپے جیت لیے۔ *[ARY](https://arynews.tv/hardik-pandya-wins-rs-94-lakh-in-baseball-challenge-against-youtuber-mrbeast)*
-- فخر زمان نے فائنلز میں اپنی کامیابی کے پیچھے چھپے رازوں کا انکشاف کیا۔ *[ARY](https://arynews.tv/fakhar-zaman-reveals-secret-behind-his-success-in-finals)*
-- نیوزی لینڈ نے بھارت کے خلاف پانچواں ٹی ٹوئنٹی میچ 7 وکٹوں سے جیت لیا، جس میں ٹم سیفرٹ نے 50 گیندوں پر 93 رنز بنائے ۔ *[Business Recorder](https://www.brecorder.com/news/40446918/seifert-blasts-93-as-new-zealand-win-fifth-india-t20)*
-- ہری کین نے پنالٹی مس کی اور پوسٹ کو ٹکرائی، جس کے نتیجے میں بورussia ڈورٹمنڈ نے میچ 2-2 سے برابر کر لیا۔ *[Business Recorder](https://www.brecorder.com/news/40446911/kane-misses-penalty-hits-post-as-dortmund-snatch-draw)*
-- بارسلونا نے الاوس کو 6-1 سے شکست دے کر لا لیگا میں اپنی پوزیشن مضبوط کی۔ *[Business Recorder](https://www.brecorder.com/news/40446910/barcelona-bounce-back-with-6-1-win-over-alaves)*
-- روس کی ڈائنا شنائیڈر نے ٹوکیو میں پین پیسیفک اوپن کے فائنل میں لیلیٰ فرنینڈز کو شکست دے کر ٹائٹل جیت لیا۔ *[Business Recorder](https://www.brecorder.com/news/40446909/shnaider-downs-fernandez-in-pan-pacific-open-final-in-tokyo)*
-- جنوبی افریقہ نے آسٹریلیا کو 176 رنز سے ہرا کر تین میچوں کی ٹیسٹ سیریز 2-1 سے جیت لی۔ *[Business Recorder](https://www.brecorder.com/news/40446903/harmer-rabada-steer-south-africa-to-series-win-over-australia)*
-- کارلوس الکاراز نے ویانا اوپن کے فائنل میں پہنچنے کے لیے دانیل میڈویڈیو کو شکست دی۔ *[Business Recorder](https://www.brecorder.com/news/40446901/alcaraz-reaches-first-vienna-final-to-face-de-minaur-after-zverev-upset)*
+- کیمی انتونیلی 20 سال اور 68 دن کی عمر میں فارمولا ون کے سب سے کم عمر عالمی چیمپئن بن گئے۔ *[Business Recorder](https://www.brecorder.com/news/40446998/antonelli-makes-history-as-youngest-f1-champion-at-20-years-old)*
+- محمد یوسف نے بابر اعظم کو فارم کی کمی کے پیش نظر بیرون ملک سے خصوصی کوچنگ حاصل کرنے کی تلقین کی ہے۔ *[ARY](https://arynews.tv/mohammad-yousuf-urges-babar-to-seek-specialized-overseas-coaching-amid-form-slump)*
+- پنجاب کی وزیر اعلیٰ مریم نواز نے ون ڈے ٹرائی نیشن سیریز جیتنے پر قومی کرکٹ ٹیم کو مبارکباد دی اور فخر زمان کی سنچری کو سراہا۔ *[Business Recorder](https://www.brecorder.com/news/40446995/tri-nation-series-victory-cm-punjab-congratulates-pakistan-team)*
+- فٹ بال کلب مین شہر (Man City) نے لندن لائنیس کو شکست دے دی ہے۔ *[ARY](https://arynews.tv/man-city-edge-london-lionesses-as-chelsea-stay-top-of-wsl)*
 
 ### صحت
-- DRAP نے پاکستان میں نقلی انفلوئنزا ویکسینوں کے حوالے سے الرٹ جاری کر دیا۔ *[ARY](https://arynews.tv/drap-issues-alert-over-counterfeit-influenza-vaccines-in-pakistan)*
-- خیبر پختونخوا کے ضلع خیبر سے 2026 کا آٹھواں پولیو کیس رپورٹ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40446919/pakistan-reports-eighth-polio-case-of-2026-from-kps-khyber-district)*
+- خیبر پختونخوا کے ضلع خیبر میں 2026 کا آٹھواں پولیو کیس رپورٹ کیا گیا ہے، جس سے ملک میں وائرس کے پھیلاؤ کے خدشات بڑھ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40446926/eighth-polio-case-of-2026-reported-in-kp)*
 
