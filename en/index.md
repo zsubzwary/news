@@ -4,45 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 02-Nov-2026 09:03PKT
+Published at: 02-Nov-2026 21:02PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Brent crude futures fell by **1.40% ($1.59)** to **$111.84** per barrel, while US West Texas Intermediate (WTI) dropped **1.50% ($1.56)** to **$102.56** per barrel amid talks to end the Iran war. *[Business Recorder](https://www.brecorder.com/news/40446999/oil-slips-more-than-1-as-talks-continue-on-ending-iran-war)*
-- Proposed changes to the petrol (Motor Spirit) pricing mechanism are estimated to cause a financial loss of **Rs49 per litre** for domestic refineries. *[Business Recorder](https://www.brecorder.com/news/40446992/petrol-pricing-changes-may-cause-refineries-rs49litre-loss)*
-- The Bank of England is expected to raise interest rates to **4.0%** from **3.75%** due to inflation pressures from energy costs. *[Business Recorder](https://www.brecorder.com/news/40447002/bank-of-england-poised-to-raise-rates-but-may-push-back-on-bets-for-more)*
-- Allied Bank reported mark-up/interest income of **Rs260,813 million** for the nine months ended September 30, 2026, an increase from Rs221,750 million in the previous year. *[Business Recorder](https://www.brecorder.com/news/40446928/allied-bank-declares-over-rs23bn-pat-in-9mcy26)*
-- The Indian rupee is projected to open largely flat at **94.94-94.98** against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40447003/indian-rupee-surprise-friday-recovery-faces-test-from-weak-peers-fragile-risk)*
-- Indian GIFT Nifty futures stood at **23,258.5**, indicating a positive start following a decline in oil prices and strong Reliance Industries earnings. *[Business Recorder](https://www.brecorder.com/news/40447004/indian-shares-set-for-positive-start-on-talks-to-end-iran-war-strong-reliance-earnings)*
-- Bitcoin and Ether experienced losses following a record **$6.3 billion heist** at the Binance cryptocurrency exchange. *[Business Recorder](https://www.brecorder.com/news/40447001/dollar-rangebound-ahead-of-us-midterms-bitcoin-reels-from-crypto-heist)*
+- The KSE-100 index gained **155 points** to close on a positive note. *[ARY](https://arynews.tv/psx-stocks-close-on-positive-note-as-kse-100-index-gains-155-points)*
+- Petrol prices may decrease by **Rs. 15 per litre** following the implementation of a new formula. *[ARY](https://arynews.tv/petrol-price-may-drop-by-rs15-per-litre-under-new-formula-says-petroleum-minister)*
+- Oil refineries are expected to absorb a monthly burden of **Rs. 15 billion** to prevent a **Rs. 15 per litre** hike in petrol prices. *[Business Recorder](https://www.brecorder.com/news/40447065/refineries-to-absorb-rs15bn-monthly-burden-to-avert-petrol-price-hike-minister)*
+- US Strategic Petroleum Reserve stocks fell to **282.2 million barrels**, the lowest level since October 1982. *[Business Recorder](https://www.brecorder.com/news/40447062/oil-stocks-in-us-strategic-petroleum-reserve-fall-to-lowest-level-since-1982)*
+- Marvell Technology announced a **$115 billion** all-stock deal to acquire optical components maker Lumentum. *[Business Recorder](https://www.brecorder.com/news/40447059/marvell-to-buy-lumentum-in-115-billion-deal-in-ai-data-center-bet)*
+- Following a massive hack, Binance customers have withdrawn a net **$4.72 billion** from the exchange. *[Business Recorder](https://www.brecorder.com/news/40447055/binance-says-customers-pulled-net-47-billion-after-hack-as-crypto-world-weighs-risk)*
+- The Sri Lankan CSE All-Share index settled **0.3% lower** at **20,079.55 points**. *[Business Recorder](https://www.brecorder.com/news/40447051/communication-services-financials-drag-down-sri-lankan-shares)*
+- Benchmark December iron ore on the Singapore Exchange rose **0.31%** to **$91.05 per metric ton**. *[Business Recorder](https://www.brecorder.com/news/40447049/iron-ore-stabilises-on-slower-than-expected-china-demand-fall)*
+- Kuwait increased its crude oil production to **2.1 million barrels per day** in October. *[Business Recorder](https://www.brecorder.com/news/40447048/kuwait-lifts-oil-output-to-highest-since-start-of-iran-war-source-says)*
+- Benchmark three-month copper on the London Metal Exchange rose **0.7%** to **$14,251 per metric ton**. *[Business Recorder](https://www.brecorder.com/news/40447047/copper-rises-on-weaker-dollar-and-downgrade-to-chile-production-outlook)*
+- The Pakistani Rupee (PKR) recorded gains against the US Dollar. *[Business Recorder](https://www.brecorder.com/news/40447046/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Malaysian palm oil futures declined **0.66% (31 ringgit)** to settle at **4,650 ringgit ($1,144.19) per metric ton**. *[Business Recorder](https://www.brecorder.com/news/40447044/palm-slides-on-lower-indonesian-export-costs-weak-crude-rising-stockpiles)*
+
+### Science & Technology
+- A new Gemini update allows free users to edit **documents and PDFs** directly within chat interfaces. *[ARY](https://arynews.tv/new-gemini-update-lets-free-users-edit-documents-and-pdfs-directly-inside-chats)*
+- The Minister of State has called upon the banking sector to embrace **Artificial Intelligence (AI)**. *[ARY](https://arynews.tv/minister-of-state-calls-on-banks-to-embrace-ai)*
 
 ### Politics
-- Shaukat Yousafzai alleged that Shahzad Akbar is targeting the PTI from abroad. *[ARY](https://arynews.tv/shahzad-akbar-targeting-pti-from-abroad-alleges-shaukat-yousafzai)*
-- Mohsin Naqvi urged the public to prioritize national interest over political affiliations. *[ARY](https://arynews.tv/mohsin-naqvi-urges-people-to-put-pakistan-above-political-affiliations)*
+- The government is considering providing representation for coalition partners within the **electoral reforms committee**. *[ARY](https://arynews.tv/electoral-reforms-committee-representation)*
+- Chinese Foreign Minister Wang Yi urged Middle East parties to seek political solutions during meetings with **Iranian and Saudi officials**. *[Business Recorder](https://www.brecorder.com/news/40447064/chinas-wang-urges-middle-east-dialogue-in-meetings-with-iranian-saudi-officials)*
+- Diplomatic contacts between **Iran and the United States** to end their eight-month war continue, though no breakthrough has been achieved. *[Business Recorder](https://www.brecorder.com/news/40447057/iran-says-contacts-over-ending-war-continue-as-talks-end-with-no-breakthrough)*
 
 ### National
-- Terrorist attacks in Pakistan declined by **37%** in October (143 attacks vs 226 in September), with deaths falling by **57%** (from 260 to 111). *[Business Recorder](https://www.brecorder.com/news/40446929/oct-terrorist-attacks-decline-37pc-mom)*
-- Pakistan responded to unprovoked Afghan border firing in the **South Waziristan** region. *[ARY](https://arynews.tv/pakistan-responds-to-unprovoked-afghan-border-firing-in-south-waziristan)*
-- Two militants were killed during a police operation in the **Orakzai** tribal district, which resulted in two police personnel being injured. *[Business Recorder](https://www.brecorder.com/news/40446927/two-militants-killed-in-orakzai)*
-- Pakistan Railways has announced plans to modernize the **Drigh Road Railway Station** in Karachi with improved passenger facilities and infrastructure. *[Business Recorder](https://www.brecorder.com/news/40446930/railways-plans-modernising-drigh-road-station)*
-- Chief Minister Punjab Maryam Nawaz Sharif congratulated the national cricket team for winning the **One-Day Tri-Nation Series**, highlighting a century by Fakhar Zaman. *[Business Recorder](https://www.brecorder.com/news/40446995/tri-nation-series-victory-cm-punjab-congratulates-pakistan-team)*
-- Speakers at a Lahore conference urged national consensus to address the deepening water crisis and issues of sea intrusion in Sindh. *[Business Recorder](https://www.brecorder.com/news/40446996/speakers-urge-national-consensus-to-tackle-deepening-water-crisis)*
-- The FBR has been accused of maladministration after marking a senior citizen's tax status as **"In-Active"** despite income from a pensioner certificate. *[Business Recorder](https://www.brecorder.com/news/40446925/fbr-marks-senior-citizen-pensioner-tax-status-as-in-active)*
+- National Grid Pakistan has energized a **220kV transmission line** to power the **Dhabeji Special Economic Zone**. *[ARY](https://arynews.tv/national-grid-pakistan-energizes-220kv-transmission-line-to-power-dhabeji-special-economic-zone)*
+- Prime Minister Shehbaz Sharif directed banks to accelerate loan disbursements to **farmers, SMEs, and Apna Ghar scheme applicants**. *[Business Recorder](https://www.brecorder.com/news/40447054/pm-shehbaz-directs-banks-to-speed-up-lending-to-smes-farmers-home-buyers)*
+- Pakistan showcased its traditional musical instruments at **Music China 2026**. *[ARY](https://arynews.tv/pakistan-showcased-musical-instruments-at-music-china-2026)*
+- Aviation executive **Adrian Hamilton-Manns** has officially assumed charge as the new CEO of **PIA**. *[Business Recorder](https://www.brecorder.com/news/40447061/adrian-hamilton-manns-takes-charge-as-pia-ceo)*
 
 ### International
-- North Korea vowed to accelerate its nuclear deterrent efforts in response to the US-South Korean **"Iron Mace"** joint military exercise. *[Business Recorder](https://www.brecorder.com/news/40447005/north-korea-says-us-south-korea-nuclear-drill-shows-need-for-stronger-nuclear-deterrent)*
-- A new **Armed Response Command** unit, armed with military assault rifles, has begun patrolling Sydney, Australia, following the Bondi Beach attack. *[Business Recorder](https://www.brecorder.com/news/40447006/police-with-assault-rifles-begin-sydney-patrols-in-wake-of-bondi-attack)*
-- The US is supporting the resumption of **Russian natural gas** exports to Europe through Ukrainian pipelines to secure an energy ceasefire. *[Business Recorder](https://www.brecorder.com/news/40447007/us-pushes-to-restore-russian-gas-sales-to-europe-via-ukraine-wsj-reports)*
-- The Kuwait Education Ministry has implemented **20 strict rules** to regulate student privacy and school conduct. *[ARY](https://arynews.tv/kuwait-education-ministry-enforces-20-strict-rules-to-regulate-school-conduct-and-student-privacy)*
-- Donald Trump stated that Flavio Bolsonaro is permitted to stay in the US for an indefinite period. *[ARY](https://arynews.tv/trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants)*
+- Canada has implemented significant changes to its **immigration and asylum laws**. *[ARY](https://arynews.tv/canada-makes-major-changes-to-immigration-and-asylum-laws)*
+- Pakistan and Bangladesh are working toward closer **economic ties** and cooperation on regulatory reforms. *[ARY](https://arynews.tv/pakistan-bangladesh-seek-closer-economic-ties-and-cooperation-on-reforms)*
+- Hackers breached emergency alert apps in **Ukraine and Russia**, sending false notifications regarding **nuclear and chemical attacks**. *[Business Recorder](https://www.brecorder.com/news/40447060/hackers-hit-ukraine-and-russias-emergency-apps-send-fake-nuclear-alerts)*
+- Student protests in France have resumed, with approximately **41 high schools (1% of the nation)** being blockaded. *[Business Recorder](https://www.brecorder.com/news/40447050/french-school-protests-resume-on-smaller-scale-as-students-return-from-break)*
 
 ### Sports
-- **Kimi Antonelli** became the youngest Formula One champion at **20 years and 68 days** old, securing an unassailable **119-point** lead. *[Business Recorder](https://www.brecorder.com/news/40446998/antonelli-makes-history-as-youngest-f1-champion-at-20-years-old)*
-- Mohammad Yousuf has urged Babar Azam to seek specialized overseas coaching to address his current form slump. *[ARY](https://arynews.tv/mohammad-yousuf-urges-babar-to-seek-specialized-overseas-coaching-amid-form-slump)*
-- Footballer Billy Sharp has reversed his retirement to join the eighth-tier club **AFC Rushden**. *[ARY](https://arynews.tv/billy-sharp-reverses-retirement-and-joins-eighth-tier-afc-rushden)*
-- In women's football, Man City edged London Lionesses while Chelsea remained at the top of the **WSL**. *[ARY](https://arynews.tv/man-city-edge-london-lionesses-as-chelsea-stay-top-of-wsl)*
+- South Africa has included batters **Tony de Zorzi** and **Zubayr Hamza** in their squad for the home test series against **Bangladesh**. *[Business Recorder](https://www.brecorder.com/news/40447045/batters-de-zorzi-hamza-return-to-south-africa-test-squad)*
 
-### Health
-- Pakistan has reported its **8th polio case of 2026**, with the latest infection detected in the **Khyber district** of KP; 6 cases have been recorded in KP and 2 in Sindh so far this year. *[Business Recorder](https://www.brecorder.com/news/40446926/eighth-polio-case-of-2026-reported-in-kp)*
+### Other
+- Amazon MGM Studios is releasing ***I Play Rocky***, a film documenting the behind-the-scenes struggle of Sylvester Stallone's classic film. *[Business Recorder](https://www.brecorder.com/news/40447052/i-play-rocky-tells-the-underdog-story-behind-the-classic-underdog-film)*
+- Consumers in China's **Hengdian World Studios** are increasingly spending on immersive experience-based tourism. *[Business Recorder](https://www.brecorder.com/news/40447053/at-chinas-hollywood-visitors-become-stars-as-consumers-spend-more-on-experiences)*
 
