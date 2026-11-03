@@ -4,53 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 03-Nov-2026 09:04PKT
+Published at: 03-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan's Consumer Price Index (CPI)-based inflation rose **9.6%** year-on-year in October 2026, down from **10.3%** in September. *[Business Recorder](https://www.brecorder.com/news/40447159/oct-cpi-rises-96pc-yoy)*
-- The federal government arranged **Rs. 15 per litre** relief on petrol via a **Rs. 15 billion** monthly cross-subsidy with local refineries; **Rs. 27 billion** in total relief has been distributed to small car, motorcycle, and rickshaw owners. *[Business Recorder](https://www.brecorder.com/news/40447158/govt-arranges-rs15-per-litre-relief-on-petrol)*
-- K-Electric proposed paying **Rs. 5.729 billion** to Pakistan LNG Limited (PLL) in nine monthly installments of **Rs. 636.5 million** (from October 2026 to June 2027) "under protest." *[Business Recorder](https://www.brecorder.com/news/40447162/ke-proposes-rs5729bn-payment-to-pll-under-protest)*
-- Walt Disney is considering thousands of layoffs and has instructed managers to target **20%** in annual cost savings. *[Business Recorder](https://www.brecorder.com/news/40447174/disney-eyes-thousands-of-layoffs-asks-managers-to-target-20%20savings-bloomberg-news-reports)*
-- China's market regulator aims to support domestic company listings in Hong Kong and will increase crackdowns on fraud and cross-border capital activities. *[Business Recorder](https://www.brecorder.com/news/40447176/china-market-regulator-to-encourage-hong-kong-listings)*
-- Brent crude futures rose **0.5%** to **$105.25** per barrel following reports of a US strike on Iran's Qeshm Island, though they had previously settled **7.63%** lower at **$104.77**. *[Business Recorder](https://www.brecorder.com/news/40447167/oil-rises-after-report-of-us-strike-on-irans-qeshm-island)*
-- Indian shares are expected to advance, with GIFT Nifty futures at **23,523.5** following a benchmark Nifty 50 close of **23,440.8** on Monday. *[Business Recorder](https://www.brecorder.com/news/40447171/indian-shares-set-to-extend-advance-on-softer-oil-steady-earnings)*
-- The Indian rupee is projected to open in the **94.75-94.78** range against the US dollar, benefiting from a plunge in crude oil prices. *[Business Recorder](https://www.brecorder.com/news/40447169/indian-rupee-to-benefit-from-oil-plunge-while-facing-technical-resistance-dollar-strength)*
-- Asian markets saw a retreat, with the MSCI Asia-Pacific index (excluding Japan) dropping **0.9%**, led by a **3.8%** decline in Korean shares. *[Business Recorder](https://www.brecorder.com/news/40447168/asian-stocks-retreat-ahead-of-us-midterms-oil-steadies)*
-- Pakistan's GSP+ status with the EU is up for renewal ahead of the 2028 framework, requiring the country to address specific compliance areas. *[Business Recorder](https://www.brecorder.com/news/40447160/german-envoy-says-pakistans-gsp-status-up-for-renewal)*
-- Finance Minister Muhammad Aurangzeb is reviewing the **tokenization of Eurobond debt** to integrate digital assets into the formal economy. *[Business Recorder](https://www.brecorder.com/news/40447164/aurangzeb-says-reviewing-tokenization-of-eurobond-debt)*
+- Pakistan and Saudi Arabia are exploring joint ventures focusing on meat processing and livestock development. *[ARY](https://arynews.tv/pakistan-saudi-arabia-explore-joint-ventures-in-meat-processing)*
+- The government plans to introduce a relief mechanism for the gas sector similar to existing fuel relief models. *[ARY](https://arynews.tv/govt-plans-similar-relief-mechanism-for-gas-sector-says-ali-pervaiz-malik)*
+- India's National Stock Exchange (NSE) reported a 23% jump in quarterly profit, reaching 25.78 billion rupees ($271.9 million). *[Business Recorder](https://www.brecorder.com/news/40447230/indias-nse-posts-23-rise-in-quarterly-profit-in-first-results-since-listing)*
+- The SECP notified the Companies (Prohibition of Unlawful Activities) Regulations, 2026, to prohibit Ponzi schemes, pyramid schemes, and deceptive multi-level marketing (MLM). *[Business Recorder](https://www.brecorder.com/news/40447228/secp-notifies-regulations-to-prohibit-ponzi-pyramid-schemes)*
+- Malaysian palm oil futures fell 2.09% (97 ringgit) to 4,552 ringgit ($1,117.88) per metric ton, hitting a one-month low. *[Business Recorder](https://www.brecorder.com/news/40447227/palm-hits-one-month-low-as-stockpile-concerns-weigh)*
+- Gulf stock exchanges showed mixed results as US strikes on Iran's Qeshm Island offset hopes for Iran-Saudi peace talks. *[Business Recorder](https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks)*
+- Sri Lankan shares rose 0.20% to 20,119.64 points, led by Dialog Axiata PLC (up 1.4%) and Overseas Realty (Ceylon) PLC (up 1.7%). *[Business Recorder](https://www.brecorder.com/news/40447224/communication-services-stocks-lift-sri-lankan-shares-higher)*
+- Indian government bonds ended higher, with the 10-year bond nearing a one-month high following fluctuations in Brent crude prices. *[Business Recorder](https://www.brecorder.com/news/40447218/india-bonds-end-tad-higher-on-softer-oil)*
+- India's Petronet LNG is in discussions with Qatar to include US-sourced LNG in its long-term supply contract starting in 2028. *[Business Recorder](https://www.brecorder.com/news/40447214/indias-top-gas-importer-sets-eyes-on-us-lng-under-long-term-deal-with-qatar)*
+- Indian benchmark Nifty 50 gained 1.58% to 23,810.85, while the Sensex rose 1.62% to 76,917.85. *[Business Recorder](https://www.brecorder.com/news/40447213/indian-shares-extend-rally-as-earnings-cooling-crude-draw-foreign-buyers)*
+- The Indian rupee strengthened to close at 94.74 per dollar, up from 94.90 in the previous session. *[Business Recorder](https://www.brecorder.com/news/40447212/indian-rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves)*
 
 ### Science & Technology
-- Cyberattacks in Europe have caused supermarket fridge temperatures to rise significantly, impacting food storage. *[ARY](https://arynews.tv/cyberattacks-send-supermarket-fridge-temperatures-soaring-across-europe)*
-
-### Weather
-- Cyclone Murasu made landfall on India's eastern coast (Andhra Pradesh) with wind speeds of **100-110 kph** and gusts reaching **120 kph**. *[Business Recorder](https://www.brecorder.com/news/40447175/cyclone-murasu-makes-landfall-on-indias-eastern-coast)*
-- Karachi weather forecast for November 3: High of **36°C** and low of **21°C**. *[Business Recorder](https://www.brecorder.com/news/40447081/the-weather)*
-- Lahore weather forecast for November 3: High of **29°C** and low of **17°C**. *[Business Recorder](https://www.brecorder.com/news/40447081/the-weather)*
+- Google has rolled out new gradient icons for its Messages, Phone, and Contacts applications. *[ARY](https://arynews.tv/google-rolls-out-new-gradient-icons-for-messages-phone-and-contacts-apps)*
+- Sam Altman attributed global memory hardware shortages to the demands of desktop computer users. *[ARY](https://arynews.tv/sam-altman-blames-desktop-computer-users-for-global-memory-hardware-shortages)*
+- OpenAI will combine usage limits for ChatGPT and Codex for its premium subscribers. *[ARY](https://arynews.tv/openai-to-combine-chatgpt-and-codex-usage-limits-for-premium-subscribers)*
 
 ### Politics
-- US Secretary of State Marco Rubio met with Venezuelan Foreign Minister Oliver Blanco to discuss institutional reforms for future free and fair elections. *[Business Recorder](https://www.brecorder.com/news/40447177/rubio-speaks-to-venezuelan-minister-about-reforms-that-lay-groundwork-for-elections)*
-- North Korea tested a strategic cruise missile equipped with a **dispersal warhead** designed for vertical strikes. *[Business Recorder](https://www.brecorder.com/news/40447172/north-korea-conducts-strategic-cruise-missile-test-with-dispersal-warhead-kcna-says)*
-- Malaysia's Prime Minister announced meetings between the chief secretary and the central bank governor to prepare for security threats following cyberattack warnings to the EU and Japan. *[Business Recorder](https://www.brecorder.com/news/40447173/malaysia-to-hold-meetings-on-security-threats-pm-says)*
-- The US Justice Department is breaking with tradition to intervene in the upcoming midterm elections. *[ARY](https://arynews.tv/trump-justice-dept-breaks-with-tradition-to-intervene-in-midterms)*
+- Tariq Fazal Chaudhry has contacted the PTI chief whip regarding the electoral reforms committee. *[ARY](https://arynews.tv/tariq-fazal-chaudhry-contacts-pti-chief-whip-over-electoral-reforms-committee)*
+- Negotiations between the government and Jamaat-e-Islami regarding the removal of the petroleum levy have entered their final stage. *[Business Recorder](https://www.brecorder.com/news/40447217/govt-ji-talks-on-petroleum-levy-removal-enter-final-stage)*
+- The Peshawar High Court (PHC) referred the detention case of Sohail Afridi and other PTI workers to the Chief Justice for a larger bench. *[Business Recorder](https://www.brecorder.com/news/40447216/phc-refers-sohail-afridi-detention-case-to-chief-justice-for-larger-bench)*
 
 ### National
-- Prime Minister Shehbaz Sharif met with Chinese Minister Liu Haixing to reaffirm commitment to expanded cooperation in trade, investment, and infrastructure. *[Business Recorder](https://www.brecorder.com/news/40447161/trade-investment-amp-other-key-sectors-pm-for-expanded-cooperation-with-china)*
-- Pakistan and South Korea have signed a new judicial cooperation agreement. *[ARY](https://arynews.tv/pakistan-and-south-korea-sign-judicial-cooperation-agreement)*
+- Maryam Nawaz distributed laptops and scholarships to students in Attock. *[ARY](https://arynews.tv/maryam-nawaz-awards-laptops-and-scholarships-to-students-in-attock)*
+- The CM of Punjab inaugurated the Green Bus service in Attock. *[ARY](https://arynews.tv/cm-punjab-receives-warm-welcome-as-green-bus-service-inaugurates-in-attock)*
+- ISPR reported that 17 terrorists were killed in intelligence-based operations in Balochistan's Kachhi and Kharan districts, while one Pakistan Army soldier was martyred. *[Business Recorder](https://www.brecorder.com/news/40447231/soldier-martyred-17-terrorists-killed-in-balochistan-operations-ispr)*
 
 ### International
-- The United States conducted strikes on Iran's **Qeshm Island**, located on the strategic Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40447166/us-struck-irans-qeshm-island-wall-street-journal-reports)*
-- Diplomatic progress is being signaled in US-Iran talks to prevent further military escalation. *[ARY](https://arynews.tv/us-signals-progress-in-iran-talks-to-avert-flare-up)*
+- The US carried out "defensive" strikes on Iran's Qeshm island, targeting surface-to-air missiles. *[Business Recorder](https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks)*
+- Donald Trump announced that the US will cease its $4 billion annual military aid to Israel at the end of 2026. *[Business Recorder](https://www.brecorder.com/news/40447226/trump-says-us-will-stop-4-billion-military-aid-to-israel-at-end-of-2026)*
+- An Iranian official stated that a deal between Iran and the US remains out of reach despite diplomatic efforts by Qatar. *[Business Recorder](https://www.brecorder.com/news/40447225/iran-us-deal-still-out-of-reach-despite-diplomatic-push-iranian-official-says)*
+- The US Justice Department is deploying 1,000 election monitors and observers across all 50 states for the upcoming elections. *[Business Recorder](https://www.brecorder.com/news/40447223/trumps-justice-dept-identifies-where-us-election-monitors-will-be-in-the-50-states)*
+- First Lady Melania Trump is set to host representatives from Russia and Ukraine at the White House. *[Business Recorder](https://www.brecorder.com/news/40447222/melania-trump-to-host-ukraine-russia-representatives-at-white-house)*
+- China's Vice Chair of the Central Military Commission, Zhang Shengmin, met with Russian Defence Minister Andrei Belousov in Beijing to bolster military ties. *[Business Recorder](https://www.brecorder.com/news/40447220/china-military-vice-chair-meets-russian-defence-minister-in-beijing)*
 
 ### Sports
-- Australian cricketer Glenn Maxwell has announced his farewell from international cricket. *[ARY](https://arynews.tv/glenn-maxwell-bids-farewell-to-international-cricket-with-remarkable-records)*
-
-### Health
-- Amish communities are moving to support measles vaccines in response to a major outbreak. *[ARY](https://arynews.tv/amish-communities-back-measles-vaccines-amid-major-outbreak)*
-- A new study has linked childhood caffeine consumption to altered brain structure and reduced sleep quality. *[ARY](https://arynews.tv/study-links-childhood-caffeine-intake-to-reduced-sleep-and-altered-brain-structure)*
+- WNBA player Sophie Cunningham responded to online critics regarding her performance. *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-psychotic-online-haters)*
+- Sophie Cunningham analyzed Angel Reese's slump during the WNBA finals. *[ARY](https://arynews.tv/sophie-cunningham-breaks-down-angel-reeses-wnba-finals-slump)*
+- Tenerife striker Jesus de Miguel died at age 30 following a cardiac arrest after a collision during a match against Andorra. *[Business Recorder](https://www.brecorder.com/news/40447219/tenerife-striker-de-miguel-dies-after-collision-in-match)*
+- The Saudi Pro League postponed matchday 13 following delays to the 2027 Asian Cup. *[Business Recorder](https://www.brecorder.com/news/40447215/saudi-pro-league-postpones-matchday-13-after-asian-cup-delay)*
 
 ### Other
-- Kuwait has launched a new drive-thru service to simplify the residency application process. *[ARY](https://arynews.tv/kuwait-makes-residency-easier-with-new-drive-thru-service)*
-- Passengers on the Villa Vie Odyssey reported feeling "enraged" by conditions, despite emerging from the incident unscathed. *[ARY](https://arynews.tv/inside-the-villa-vie-odyssey-passengers-emerge-unscathed-but-enraged-claim-website-reveals-immediate-indicators)*
+- Collins English Dictionary named "Mogging"—meaning to outshine someone—as the word of the year. *[Business Recorder](https://www.brecorder.com/news/40447221/mogging-tops-firewave-as-collins-word-of-the-year)*
 
