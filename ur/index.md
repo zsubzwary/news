@@ -7,51 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 03-Nov-2026 21:09PKT 
+ &lrm; 04-Nov-2026 21:09PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان اور سعودی عرب گوشت کی پروسیسنگ اور لائیو اسٹاک کے شعبے میں مشترکہ منصوبوں پر غور کر رہے ہیں۔ *[ARY](https://arynews.tv/pakistan-saudi-arabia-explore-joint-ventures-in-meat-processing)*
-- حکومت گیس کے شعبے میں بھی ایندھن کی طرح ریلیف دینے کے لیے ایک نیا طریقہ کار متعارف کرانے کا منصوبہ بنا رہی ہے۔ *[ARY](https://arynews.tv/govt-plans-similar-relief-mechanism-for-gas-sector-says-ali-pervaiz-malik)*
-- ایس ای سی پی (SECP) نے پونزی، پیرامیڈ اسکیموں اور دھوکہ دہی پر مبنی ملٹی لیول مارکیٹنگ (MLM) پر پابندی کے لیے نئے قوانین نافذ کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447228/secp-notifies-regulations-to-prohibit-ponzi-pyramid-schemes)*
-- انڈین نیشنل اسٹاک ایکسچینج (NSE) کے منافع میں 23 فیصد اضافہ ریکارڈ کیا گیا، جو کہ 25.78 ارب روپے (271.9 ملین ڈالر) تک پہنچ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447230/indias-nse-posts-23-rise-in-quarterly-profit-in-first-results-since-listing)*
-- مشرق وسطیٰ میں کشیدگی اور امریکہ کے ایران پر حملوں کے خدشات کے باعث خلیجی اسٹاک مارکیٹس میں ملی جلی صورتحال رہی۔ *[Business Recorder](https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks)*
-- مالیشین پام آئل کی قیمتیں ایک ماہ کی کم ترین سطح 4,552 رنگٹ (1,117.88 ڈالر) فی میٹرک ٹن پر آ گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40447227/palm-hits-one-month-low-as-stockpile-concerns-weigh)*
-- سری لنکا کی اسٹاک مارکیٹ میں 0.20 فیصد اضافہ ہوا، جس میں ڈائیلاگ ایکسیاٹا پی ایل سی میں 1.4 فیصد اضافہ شامل ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447224/communication-services-stocks-lift-sri-lankan-shares-higher)*
-- تیل کی قیمتوں میں کمی کے باعث بھارتی بانڈز میں تیزی دیکھی گئی، جبکہ برینٹ کروڈ 106 ڈالر کے قریب رہا۔ *[Business Recorder](https://www.brecorder.com/news/40447218/india-bonds-end-tad-higher-on-softer-oil)*
-- بھارتی اسٹاک مارکیٹ میں تیزی جاری رہی، جہاں Nifty 50 میں 1.58 فیصد اور Sensex میں 1.62 فیصد اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40447213/indian-shares-extend-rally-as-earnings-cooling-crude-draw-foreign-buyers)*
-- بھارتی روپیہ ڈالر کے مقابلے میں مستحکم ہو کر 94.74 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40447212/indian-rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves)*
-- بھارت کی بڑی گیس کمپنی پیٹرونٹ ایل این جی (Petronet LNG) قطر کے ذریعے امریکہ سے گیس حاصل کرنے کے لیے مذاکرات کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447214/indias-top-gas-importer-sets-eyes-on-us-lng-under-long-term-deal-with-qatar)*
+- وفاقی کابینہ نے موجودہ 10 روپے کے نوٹ کی جگہ **10 روپے کا سکہ** متعارف کرانے اور نئی کرنسی کے ڈیزائن کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447405/govt-approves-rs10-coin-to-replace-banknote-new-currency-designs)*
+- پاکستان نے ڈیجیٹل ادائیگیوں کے نظام کو بہتر بنانے کے لیے **ماسٹر کارڈ (Mastercard)** کے وفد کے ساتھ اہم بات چیت کی۔ *[ARY](https://arynews.tv/pakistan-discusses-digital-payments-with-mastercard-delegation)*
+- دبئی کے اسٹاک مارکیٹ میں تیزی دیکھی گئی، جہاں **دبئی کے بنیادی شیئر انڈیکس میں 4 فیصد اضافہ** ہوا، جبکہ ایمریٹس این بی ڈی (Emirates NBD) میں **6.1 فیصد** اور ایمار پراپرٹیز میں **4.4 فیصد** اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447401/dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff)*
+- موبائل آپریٹرز (Jazz, PTCL/Ufone, Telenor, Zong) نے اسمارٹ فون کی آسان اقساط کے لیے ایک ریگولیٹری فریم ورک بنانے کی خاطر **پی ٹی اے (PTA)** سے مداخلت کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447400/smartphone-financing-framework-remains-unresolved-as-telcos-seek-pta-intervention)*
+- بھارت کی **BSE Ltd** کے دوسرے سہ ماہائی کے منافع میں **45 فیصد اضافہ** ہوا ہے، جو گزشتہ سال کے 5.58 ارب روپے سے بڑھ کر **8.09 ارب روپے** تک پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit)*
+- ایچ بی ایل (HBL) کے مطابق فلوٹنگ ریٹ سیکیورٹیز کی ری پرائسنگ کے باعث بینک کے سرمایہ کاری پورٹ فولیو کے منافع میں اضافہ متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447397/hbl-expects-investment-yields-to-rise-as-floating-rate-securities-reprice)*
+- تانبے (Copper) کی قیمتوں میں **0.5 فیصد اضافہ** ہوا اور یہ لندن میٹل ایکسچینج پر **14,103 ڈالر فی میٹرک ٹن** پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40447394/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears)*
+- سری لنکا کا اے ایس آئی (CSE All-Share) انڈیکس **2.09 فیصد اضافے** کے ساتھ **20,541.12 پوائنٹس** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40447393/financial-stocks-lift-sri-lankan-shares-higher)*
+- ملائیشیا میں پام آئل کی قیمتیں **1.21 فیصد گر کر 4,496 رنگٹ ($1,104.67) فی میٹرک ٹن** پر آ گئیں، جو چار ماہ کی کم ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447392/palm-hits-four-month-low-on-expectations-of-record-october-stocks)*
+- بھارتی اسٹاک مارکیٹ میں غیر ملکی سرمایہ کاری کے رجحان کے باعث مسلسل اضافے کا سلسلہ برقرار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447391/indian-stocks-post-longest-winning-streak-in-nearly-5-months-on-fpi-inflow-hopes)*
+- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar)*
 
 ### سائنس اور ٹیکنالوجی
-- گوگل نے میسجز، فون اور کانٹیکٹس ایپس کے لیے نئے گریڈینٹ آئیکنز متعارف کرائے ہیں۔ *[ARY](https://arynews.tv/google-rolls-out-new-gradient-icons-for-messages-phone-and-contacts-apps)*
-- سیم آلٹ مین نے عالمی سطح پر میموری ہارڈ ویئر کی کمی کے لیے ڈیسک ٹاپ کمپیوٹر صارفین کو ذمہ دار ٹھہرایا ہے۔ *[ARY](https://arynews.tv/sam-altman-blames-desktop-computer-users-for-global-memory-hardware-shortages)*
-- اوپن اے آئی (OpenAI) اپنے پریمیم صارفین کے لیے ChatGPT اور Codex کی استعمال کی حدود کو یکجا کر دے گا۔ *[ARY](https://arynews.tv/openai-to-combine-chatgpt-and-codex-usage-limits-for-premium-subscribers)*
+- سونی (Sony) نے اسٹورز سے **PlayStation VR2** ہٹا دیا ہے، جو اس ہارڈ ویئر کو مستقل طور پر بند کرنے کا اشارہ ہے۔ *[ARY](https://arynews.tv/sony-removes-playstation-vr2-from-stores-signaling-permanent-hardware-discontinuation)*
 
 ### سیاست
-- طارق فضل چوہدری نے انتخابی اصلاحات کمیٹی کے حوالے سے پی ٹی آئی چیف وپ سے رابطہ کیا ہے۔ *[ARY](https://arynews.tv/tariq-fazal-chaudhry-contacts-pti-chief-whip-over-electoral-reforms-committee)*
-- حکومت اور جماعت اسلامی کے درمیان پیٹرولیم لیوی کے خاتمے اور عوامی ریلیف کے حوالے سے مذاکرات آخری مرحلے میں پہنچ گئے۔ *[Business Recorder](https://www.brecorder.com/news/40447217/govt-ji-talks-on-petroleum-levy-removal-enter-final-stage)*
+- امریکی ہاؤس سپیکر مائیک جانسن نے ریپبلکن پارٹی کی اکثریت کے خاتمے کے بعد مائنورٹی لیڈر کے عہدے کے لیے انتخاب نہ لڑنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447408/us-house-speaker-johnson-will-not-seek-minority-leadership-post)*
+- اسپین کے وزیراعظم پیڈرو سانچیز نے ٹرین حادثات کے بعد وزیر ٹرانسپورٹ کے استعفیٰ کے نتیجے میں اپنی کابینہ میں تبدیلی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447395/spains-sanchez-reshuffles-cabinet-after-transport-minister-quits-over-train-crashes)*
+- امریکی وسطی انتخابات کے نتائج کا عالمی تجارت اور ایران کے ساتھ تناؤ پر اثر پڑنے کے امکانات ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447407/from-iran-to-trade-how-the-us-midterms-impact-the-rest-of-the-world)*
 
 ### قومی
-- مریم نواز نے اٹک میں طلباء کو لیپ ٹاپ اور اسکالرشپس تقسیم کیں۔ *[ARY](https://arynews.tv/maryam-nawaz-awards-laptops-and-scholarships-to-students-in-attock)*
-- پنجاب کے وزیر اعلیٰ نے اٹک میں گرین بس سروس کا افتتاح کیا۔ *[ARY](https://arynews.tv/cm-punjab-receives-warm-welcome-as-green-bus-service-inaugurates-in-attock)*
-- بلوچستان کے اضلاع کچھی اور خاران میں سکیورٹی فورسز کے آپریشن کے دوران 17 دہشت گرد ہلاک اور ایک پاک فوج کا سپاہی شہید ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447231/soldier-martyred-17-terrorists-killed-in-balochistan-operations-ispr)*
-- پی ایچ سی (PHC) نے سہیل آفریدی کی حراست کے کیس کو بڑے بینچ کے لیے چیف جسٹس کو بھیج دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447216/phc-refers-sohail-afridi-detention-case-to-chief-justice-for-larger-bench)*
+- وفاقی کابینہ نے خیبرپختونخوا کے وزیر اعلیٰ کے اختیارات گورنر کو منتقل کرنے کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs)*
+- کراچی میں ایک شخص کا نام ایک ہی جیسے نام کے باعث **29 مختلف مجرمانہ کیسز** میں پایا گیا ہے۔ *[ARY](https://arynews.tv/karachi-man-linked-to-29-criminal-cases-over-identical-name)*
+- وزیراعلیٰ پنجاب نے **'اپنی چھت اپنا گھر'** اسکیم کے تحت تعمیر شدہ گھر کا افتتاح کیا۔ *[ARY](https://arynews.tv/cm-punjab-inaugurates-house-built-under-apni-chhat-apna-ghar-scheme)*
+- ون کنسٹٹیوشن ایونیو کی عمارت کو **فائیو اسٹار ہوٹل** میں تبدیل کرنے کا منصوبہ ہے۔ *[ARY](https://arynews.tv/one-constitution-avenue-building-to-be-converted-into-five-star-hotel-says-mohsin-naqvi)*
+- ایبلڈ (ABL) اور یوکے کے چیوننگ پروگرام کے اشتراک سے پاکستانی طلباء کو برطانیہ میں مکمل طور پر فنڈڈ ماسٹرز ڈگری کے مواقع ملیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40447398/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain)*
+- ایس ایس جی سی (SSGC) نے سردیوں کے لیے گیس کی فراہمی کا شیڈول جاری کر دیا ہے، جس میں ناشتے (6:30am سے 9:00am) سمیت مخصوص اوقات مقرر کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447386/ssgc-issues-winter-gas-supply-schedule)*
 
 ### بین الاقوامی
-- ڈونلڈ ٹرمپ نے کہا ہے کہ امریکہ 2026 کے آخر میں اسرائیل کو 4 ارب ڈالر کی فوجی امداد دینا بند کر دے گا۔ *[Business Recorder](https://www.brecorder.com/news/40447226/trump-says-us-will-stop-4-billion-military-aid-to-israel-at-end-of-2026)*
-- ایران اور امریکہ کے درمیان جنگ ختم کرنے کا معاہدہ اب بھی مشکل نظر آتا ہے، جبکہ قطر ثالث کے طور پر کوششیں کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447225/iran-us-deal-still-out-of-reach-despite-diplomatic-push-iranian-official-says)*
-- امریکی محکمہ انصاف نے تمام 50 ریاستوں میں 1,000 انتخابی مانیٹرز اور مبصرین تعینات کرنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447223/trumps-justice-dept-identifies-where-us-election-monitors-will-be-in-the-50-states)*
-- میلانیا ٹرمپ وائٹ ہاؤس میں روس اور یوکرین کے نمائندوں کی میزبانی کریں گی۔ *[Business Recorder](https://www.brecorder.com/news/40447222/melania-trump-to-host-ukraine-russia-representatives-at-white-house)*
-- چین کے نائب چیئرمین ملٹری کمیشن نے بیجنگ میں روسی وزیر دفاع سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40447220/china-military-vice-chair-meets-russian-defence-minister-in-beijing)*
+- عبدال سید نے امریکی سینٹ کے انتخابات میں تاریخی کامیابی حاصل کی ہے، جو امریکی سیاست میں مسلمانوں کے لیے ایک بڑا سنگ میل ہے۔ *[ARY](https://arynews.tv/jd-habibi-abdul-el-sayed-roasts-trump-vance-in-historic-us-senate-victory-speech)*
+- اقوام متحدہ کی رپورٹ کے مطابق، امیر ممالک موسمیاتی تبدیلیوں سے نمٹنے کے لیے سالانہ **305 ارب ڈالر** کے مقابلے میں صرف **28.2 ارب ڈالر** فراہم کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447396/rich-countries-fall-far-short-on-climate-adaptation-funding-un-says)*
+- ایران اور امریکہ کے درمیان جنگ بندی کے حوالے سے ابھی تک کوئی باقاعدہ معاہدہ طے نہیں پایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447390/iran-us-still-far-apart-on-deal-trump-says-ready-but-in-no-hurry-for-strikes)*
 
 ### کھیل
-- سوفی کننگھم نے آن لائن نفرت کرنے والوں کا بھرپور جواب دیا۔ *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-psychotic-online-haters)*
-- سوفی کننگھم نے اینجل ریس کے ڈاون (slump) کا جائزہ لیا۔ *[ARY](https://arynews.tv/sophie-cunningham-breaks-down-angel-reeses-wnba-finals-slump)*
-- ٹینسیر (Tenerife) کے اسٹار کھلاڑی جیسوس ڈی میگوئیل کا میچ کے دوران حادثے اور دل کا دورہ پڑنے کے بعد انتقال ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447219/tenerife-striker-de-miguel-dies-after-collision-in-match)*
-- سعودی پروفیشنل لیگ نے ایشین کپ میں تاخیر کے باعث میچ ڈے 13 ملتوی کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447215/saudi-pro-league-postpones-matchday-13-after-asian-cup-delay)*
+- کیٹلن کلک نے ریفری کے ساتھ اپنے تعاملات پر بات کرتے ہوئے اپنی کارکردگی کو مزید بہتر بنانے کا عزم ظاہر کیا ہے۔ *[ARY](https://arynews.tv/i-need-to-do-better-caitlin-clark-opens-up-about-referee-interactions)*
+- سکاٹ پارکر نے ویسٹ ہیم کے مینیجر کے طور پر **دو سال اور چھ ماہ** کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447387/parker-returns-to-west-ham-as-manager-in-promotion-push)*
 
-### دیگر
-- کولنز انگلش ڈکشنری نے لفظ "**Mogging**" کو سال کا لفظ قرار دے دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447221/mogging-tops-firewave-as-collins-word-of-the-year)*
+### صحت
+- انگلینڈ میں فیملی ڈاکٹرز کینسر کی جلد تشخیص کے لیے **خون کے ٹیسٹ** کا استعمال شروع کریں گے۔ *[ARY](https://arynews.tv/family-doctors-in-england-to-use-blood-tests-to-spot-cancer-early-in-world-first)*
+- عالمی ادارہ صحت (WHO) نے نوجوانوں میں **جسمانی سرگرمیوں کی کمی** پر تشویش کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/who-sounds-alarm-over-lack-of-physical-activity-among-teens)*
 
