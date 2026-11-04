@@ -4,52 +4,45 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 03-Nov-2026 21:03PKT
+Published at: 04-Nov-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan and Saudi Arabia are exploring joint ventures focusing on meat processing and livestock development. *[ARY](https://arynews.tv/pakistan-saudi-arabia-explore-joint-ventures-in-meat-processing)*
-- The government plans to introduce a relief mechanism for the gas sector similar to existing fuel relief models. *[ARY](https://arynews.tv/govt-plans-similar-relief-mechanism-for-gas-sector-says-ali-pervaiz-malik)*
-- India's National Stock Exchange (NSE) reported a 23% jump in quarterly profit, reaching 25.78 billion rupees ($271.9 million). *[Business Recorder](https://www.brecorder.com/news/40447230/indias-nse-posts-23-rise-in-quarterly-profit-in-first-results-since-listing)*
-- The SECP notified the Companies (Prohibition of Unlawful Activities) Regulations, 2026, to prohibit Ponzi schemes, pyramid schemes, and deceptive multi-level marketing (MLM). *[Business Recorder](https://www.brecorder.com/news/40447228/secp-notifies-regulations-to-prohibit-ponzi-pyramid-schemes)*
-- Malaysian palm oil futures fell 2.09% (97 ringgit) to 4,552 ringgit ($1,117.88) per metric ton, hitting a one-month low. *[Business Recorder](https://www.brecorder.com/news/40447227/palm-hits-one-month-low-as-stockpile-concerns-weigh)*
-- Gulf stock exchanges showed mixed results as US strikes on Iran's Qeshm Island offset hopes for Iran-Saudi peace talks. *[Business Recorder](https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks)*
-- Sri Lankan shares rose 0.20% to 20,119.64 points, led by Dialog Axiata PLC (up 1.4%) and Overseas Realty (Ceylon) PLC (up 1.7%). *[Business Recorder](https://www.brecorder.com/news/40447224/communication-services-stocks-lift-sri-lankan-shares-higher)*
-- Indian government bonds ended higher, with the 10-year bond nearing a one-month high following fluctuations in Brent crude prices. *[Business Recorder](https://www.brecorder.com/news/40447218/india-bonds-end-tad-higher-on-softer-oil)*
-- India's Petronet LNG is in discussions with Qatar to include US-sourced LNG in its long-term supply contract starting in 2028. *[Business Recorder](https://www.brecorder.com/news/40447214/indias-top-gas-importer-sets-eyes-on-us-lng-under-long-term-deal-with-qatar)*
-- Indian benchmark Nifty 50 gained 1.58% to 23,810.85, while the Sensex rose 1.62% to 76,917.85. *[Business Recorder](https://www.brecorder.com/news/40447213/indian-shares-extend-rally-as-earnings-cooling-crude-draw-foreign-buyers)*
-- The Indian rupee strengthened to close at 94.74 per dollar, up from 94.90 in the previous session. *[Business Recorder](https://www.brecorder.com/news/40447212/indian-rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves)*
+- Karachi Port has received its second wheat shipment, with total imports now exceeding **110,000 tonnes**. *[ARY](https://arynews.tv/karachi-port-receives-second-wheat-shipment-as-imports-exceed-110000-tonnes)*
+- The Indian rupee is projected to open around **94.70** following a previous settlement of **94.74**, supported by equity inflows and a **0.3%** dip in the US dollar index. *[Business Recorder](https://www.brecorder.com/news/40447349/india-rupees-recovery-may-find-fresh-legs-from-equity-flows-dollar-weakness)*
+- Gold prices increased in Asian trade, with spot gold rising **0.2%** to **$3,934.75 per ounce** and US gold futures for December rising **0.1%** to **$3,943.20**. *[Business Recorder](https://www.brecorder.com/news/40447346/gold-firms-on-softer-oil-prices-us-midterm-results-awaited)*
+- Global oil prices declined, with Brent futures falling **0.25%** to **$103.34 a barrel** and US WTI crude futures dropping **0.55%** to **$95.56**. *[Business Recorder](https://www.brecorder.com/news/40447343/oil-edges-down-as-investors-await-us-midterm-election-results)*
+- Ningbo Green Light Energy Limited (NGLEL) has successfully listed on the Pakistan Stock Exchange (PSX) Main Board, marking the country's first **Special Purpose Acquisition Company (SPAC)** transaction. *[Business Recorder](https://www.brecorder.com/news/40447334/pakistans-first-spac-transaction-ningbo-green-light-energy-lists-on-psx)*
+- The Rice Exporters Association of Pakistan (REAP) is implementing a strategic roadmap to streamline export bottlenecks and foster innovation within the rice sector. *[Business Recorder](https://www.brecorder.com/news/40447340/reap-steps-up-efforts-to-foster-innovation)*
+- Argentina has offered Pakistan expertise in advanced agricultural machinery, grain-storage technologies, and post-harvest management to reduce agricultural losses. *[Business Recorder](https://www.brecorder.com/news/40447336/pakistan-offers-argentinas-expertise-in-agri-machinery)*
 
 ### Science & Technology
-- Google has rolled out new gradient icons for its Messages, Phone, and Contacts applications. *[ARY](https://arynews.tv/google-rolls-out-new-gradient-icons-for-messages-phone-and-contacts-apps)*
-- Sam Altman attributed global memory hardware shortages to the demands of desktop computer users. *[ARY](https://arynews.tv/sam-altman-blames-desktop-computer-users-for-global-memory-hardware-shortages)*
-- OpenAI will combine usage limits for ChatGPT and Codex for its premium subscribers. *[ARY](https://arynews.tv/openai-to-combine-chatgpt-and-codex-usage-limits-for-premium-subscribers)*
+- Binance revealed that hackers utilized fake job interviews and malicious code to execute a **$6-billion** heist. *[ARY](https://arynews.tv/binance-reveals-hackers-used-fake-job-interviews-malicious-code-in-6-bn-heist)*
 
 ### Politics
-- Tariq Fazal Chaudhry has contacted the PTI chief whip regarding the electoral reforms committee. *[ARY](https://arynews.tv/tariq-fazal-chaudhry-contacts-pti-chief-whip-over-electoral-reforms-committee)*
-- Negotiations between the government and Jamaat-e-Islami regarding the removal of the petroleum levy have entered their final stage. *[Business Recorder](https://www.brecorder.com/news/40447217/govt-ji-talks-on-petroleum-levy-removal-enter-final-stage)*
-- The Peshawar High Court (PHC) referred the detention case of Sohail Afridi and other PTI workers to the Chief Justice for a larger bench. *[Business Recorder](https://www.brecorder.com/news/40447216/phc-refers-sohail-afridi-detention-case-to-chief-justice-for-larger-bench)*
+- Federal Minister Chaudhry Salik Hussain has refused to withdraw corruption allegations against Punjab, defying a **Rs 5 billion** defamation claim filed by Punjab Chief Minister Maryam Nawaz. *[Business Recorder](https://www.brecorder.com/news/40447341/salik-defies-maryams-defamation-claim-over-corruption-remarks)*
 
 ### National
-- Maryam Nawaz distributed laptops and scholarships to students in Attock. *[ARY](https://arynews.tv/maryam-nawaz-awards-laptops-and-scholarships-to-students-in-attock)*
-- The CM of Punjab inaugurated the Green Bus service in Attock. *[ARY](https://arynews.tv/cm-punjab-receives-warm-welcome-as-green-bus-service-inaugurates-in-attock)*
-- ISPR reported that 17 terrorists were killed in intelligence-based operations in Balochistan's Kachhi and Kharan districts, while one Pakistan Army soldier was martyred. *[Business Recorder](https://www.brecorder.com/news/40447231/soldier-martyred-17-terrorists-killed-in-balochistan-operations-ispr)*
+- Security forces conducted operations in Balochistan, resulting in the killing of **17** Indian-backed terrorists. *[ARY](https://arynews.tv/security-forces-kill-17-indian-backed-terrorists-in-balochistan-operations)*
+- A National Assembly body has reviewed the current export facilitation scheme to bolster trade. *[ARY](https://arynews.tv/na-body-reviews-export-facilitation-scheme)*
+- The Spanish Ambassador to Pakistan, Carlos Aragon, has called for direct flights and streamlined visa processing to increase bilateral trade. *[Business Recorder](https://www.brecorder.com/news/40447342/spain-envoy-for-direct-flights-improved-bilateral-trade)*
+- Pakistan Railways will hire an international chartered accountancy firm to conduct its first-ever audit under **International Financial Reporting Standards (IFRS)** for the **2025-26** fiscal year. *[Business Recorder](https://www.brecorder.com/news/40447339/railways-to-adopt-ifrs-for-financial-audit)*
+- Experts at a Lahore School of Economics conference noted that only slightly over **3%** of people currently migrate, urging Pakistan to expand high-value services. *[Business Recorder](https://www.brecorder.com/news/40447335/only-a-little-over-3pc-of-people-migrate-moot-told)*
 
 ### International
-- The US carried out "defensive" strikes on Iran's Qeshm island, targeting surface-to-air missiles. *[Business Recorder](https://www.brecorder.com/news/40447229/gulf-bourses-mixed-as-fears-over-us-strikes-offset-iran-saudi-talks)*
-- Donald Trump announced that the US will cease its $4 billion annual military aid to Israel at the end of 2026. *[Business Recorder](https://www.brecorder.com/news/40447226/trump-says-us-will-stop-4-billion-military-aid-to-israel-at-end-of-2026)*
-- An Iranian official stated that a deal between Iran and the US remains out of reach despite diplomatic efforts by Qatar. *[Business Recorder](https://www.brecorder.com/news/40447225/iran-us-deal-still-out-of-reach-despite-diplomatic-push-iranian-official-says)*
-- The US Justice Department is deploying 1,000 election monitors and observers across all 50 states for the upcoming elections. *[Business Recorder](https://www.brecorder.com/news/40447223/trumps-justice-dept-identifies-where-us-election-monitors-will-be-in-the-50-states)*
-- First Lady Melania Trump is set to host representatives from Russia and Ukraine at the White House. *[Business Recorder](https://www.brecorder.com/news/40447222/melania-trump-to-host-ukraine-russia-representatives-at-white-house)*
-- China's Vice Chair of the Central Military Commission, Zhang Shengmin, met with Russian Defence Minister Andrei Belousov in Beijing to bolster military ties. *[Business Recorder](https://www.brecorder.com/news/40447220/china-military-vice-chair-meets-russian-defence-minister-in-beijing)*
+- US media projects that Democrats are on track to win majority control of the **US House of Representatives**. *[Business Recorder](https://www.brecorder.com/news/40447353/democrats-projected-to-win-majority-control-of-us-house-us-media-project)*
+- Democrat Annie Andrews, a pediatrician, won the South Carolina Senate seat, ousting Republican Darline Graham in a major upset. *[Business Recorder](https://www.brecorder.com/news/40447352/democrat-annie-andrews-wins-us-senate-seat-in-south-carolina-upset)*
+- Keisha Lance Bottoms has been elected Governor of Georgia, becoming the first Black woman to serve as a US state governor. *[Business Recorder](https://www.brecorder.com/news/40447351/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-governor-of-us-state)*
+- In North Carolina, Roy Cooper defeated Trump-backed Republican Michael Whatley to flip a Republican-held Senate seat. *[Business Recorder](https://www.brecorder.com/news/40447347/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election)*
+- The UAE has implemented a minimum age limit for e-scooter riders. *[ARY](https://arynews.tv/uae-introduces-minimum-age-limit-for-e-scooter-riders)*
+- Ireland has expanded its critical skills list to include **6** additional professions. *[ARY](https://arynews.tv/ireland-opens-doors-to-6-more-professions-on-critical-skills-list)*
+- Australia is reviewing tighter guidelines and increased financial backing requirements for student visas. *[ARY](https://arynews.tv/australia-looks-at-tighter-student-visa-guidelines-and-money-backing)*
+- A fire at a Panasonic-run factory in Hsinchu, Taiwan, resulted in **five** injuries and left **two** people missing. *[Business Recorder](https://www.brecorder.com/news/40447350/fire-at-panasonic-factory-in-taiwan-injures-five-with-two-missing)*
 
 ### Sports
-- WNBA player Sophie Cunningham responded to online critics regarding her performance. *[ARY](https://arynews.tv/sophie-cunningham-hits-back-at-psychotic-online-haters)*
-- Sophie Cunningham analyzed Angel Reese's slump during the WNBA finals. *[ARY](https://arynews.tv/sophie-cunningham-breaks-down-angel-reeses-wnba-finals-slump)*
-- Tenerife striker Jesus de Miguel died at age 30 following a cardiac arrest after a collision during a match against Andorra. *[Business Recorder](https://www.brecorder.com/news/40447219/tenerife-striker-de-miguel-dies-after-collision-in-match)*
-- The Saudi Pro League postponed matchday 13 following delays to the 2027 Asian Cup. *[Business Recorder](https://www.brecorder.com/news/40447215/saudi-pro-league-postpones-matchday-13-after-asian-cup-delay)*
+- The Pakistan Cricket Board (PCB) has announced a **15-member** Pakistan Shaheens squad for the ACC Men’s Asia Cup Rising Stars 2026, to be led by Abdul Samad. *[Business Recorder](https://www.brecorder.com/news/40447337/acc-mens-asia-cup-rising-stars-pcb-announce-shaheens-squad)*
 
-### Other
-- Collins English Dictionary named "Mogging"—meaning to outshine someone—as the word of the year. *[Business Recorder](https://www.brecorder.com/news/40447221/mogging-tops-firewave-as-collins-word-of-the-year)*
+### Health
+- The Punjab government has allocated over **Rs 37 billion** for free medical treatments through various specialized health programs in selected hospitals. *[Business Recorder](https://www.brecorder.com/news/40447338/punjab-govt-provides-rs37bn-for-free-medical-treatment)*
 
