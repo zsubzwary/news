@@ -4,45 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Nov-2026 09:04PKT
+Published at: 04-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Karachi Port has received its second wheat shipment, with total imports now exceeding **110,000 tonnes**. *[ARY](https://arynews.tv/karachi-port-receives-second-wheat-shipment-as-imports-exceed-110000-tonnes)*
-- The Indian rupee is projected to open around **94.70** following a previous settlement of **94.74**, supported by equity inflows and a **0.3%** dip in the US dollar index. *[Business Recorder](https://www.brecorder.com/news/40447349/india-rupees-recovery-may-find-fresh-legs-from-equity-flows-dollar-weakness)*
-- Gold prices increased in Asian trade, with spot gold rising **0.2%** to **$3,934.75 per ounce** and US gold futures for December rising **0.1%** to **$3,943.20**. *[Business Recorder](https://www.brecorder.com/news/40447346/gold-firms-on-softer-oil-prices-us-midterm-results-awaited)*
-- Global oil prices declined, with Brent futures falling **0.25%** to **$103.34 a barrel** and US WTI crude futures dropping **0.55%** to **$95.56**. *[Business Recorder](https://www.brecorder.com/news/40447343/oil-edges-down-as-investors-await-us-midterm-election-results)*
-- Ningbo Green Light Energy Limited (NGLEL) has successfully listed on the Pakistan Stock Exchange (PSX) Main Board, marking the country's first **Special Purpose Acquisition Company (SPAC)** transaction. *[Business Recorder](https://www.brecorder.com/news/40447334/pakistans-first-spac-transaction-ningbo-green-light-energy-lists-on-psx)*
-- The Rice Exporters Association of Pakistan (REAP) is implementing a strategic roadmap to streamline export bottlenecks and foster innovation within the rice sector. *[Business Recorder](https://www.brecorder.com/news/40447340/reap-steps-up-efforts-to-foster-innovation)*
-- Argentina has offered Pakistan expertise in advanced agricultural machinery, grain-storage technologies, and post-harvest management to reduce agricultural losses. *[Business Recorder](https://www.brecorder.com/news/40447336/pakistan-offers-argentinas-expertise-in-agri-machinery)*
+- The federal government approved the introduction of a **Rs10 coin** to replace the current banknote and endorsed new currency designs with enhanced security features. *[Business Recorder](https://www.brecorder.com/news/40447405/govt-approves-rs10-coin-to-replace-banknote-new-currency-designs)*
+- **Mastercard** delegation met with Pakistani officials to discuss expanding digital payment frameworks. *[ARY](https://arynews.tv/pakistan-discusses-digital-payments-with-mastercard-delegation)*
+- Major mobile operators **Jazz, PTCL/Ufone, Telenor, and Zong** have requested **PTA** intervention to establish a regulatory framework for smartphone installment financing. *[Business Recorder](https://www.brecorder.com/news/40447400/smartphone-financing-framework-remains-unresolved-as-telcos-seek-pta-intervention)*
+- **HBL** expects rising investment yields as floating-rate securities, which account for approximately **60%** of its portfolio, reprice. *[Business Recorder](https://www.brecorder.com/news/40447397/hbl-expects-investment-yields-to-rise-as-floating-rate-securities-reprice)*
+- **Dubai’s** main share index rose **4%**, with **Emirates NBD** surging **6.1%** and **Emaar Properties** increasing **4.4%**. *[Business Recorder](https://www.brecorder.com/news/40447401/dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff)*
+- **India’s BSE Ltd** reported a **45%** rise in second-quarter profit, reaching a consolidated net profit of **8.09 billion rupees** ($85.42 million). *[Business Recorder](https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit)*
+- Benchmark three-month **copper** prices rose **0.5%** to **$14,103** per metric ton on the London Metal Exchange. *[Business Recorder](https://www.brecorder.com/news/40447394/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears)*
+- **Sri Lankan** shares closed **2.09%** higher, with the **CSE All-Share index** settling at **20,541.12 points**. *[Business Recorder](https://www.brecorder.com/news/40447393/financial-stocks-lift-sri-lankan-shares-higher)*
+- Malaysian **palm oil** futures fell **1.21%** to **4,496 ringgit** ($1,104.67) per metric ton, hitting a four-month low. *[Business Recorder](https://www.brecorder.com/news/40447392/palm-hits-four-month-low-on-expectations-of-record-october-stocks)*
+- The **Pakistani Rupee (PKR)** recorded gains against the **US Dollar** during intra-day trading. *[Business Recorder](https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar)*
 
 ### Science & Technology
-- Binance revealed that hackers utilized fake job interviews and malicious code to execute a **$6-billion** heist. *[ARY](https://arynews.tv/binance-reveals-hackers-used-fake-job-interviews-malicious-code-in-6-bn-heist)*
+- **Sony** has removed the **PlayStation VR2** from retail stores, signaling the permanent discontinuation of the hardware. *[ARY](https://arynews.tv/sony-removes-playstation-vr2-from-stores-signaling-permanent-hardware-discontinuation)*
 
 ### Politics
-- Federal Minister Chaudhry Salik Hussain has refused to withdraw corruption allegations against Punjab, defying a **Rs 5 billion** defamation claim filed by Punjab Chief Minister Maryam Nawaz. *[Business Recorder](https://www.brecorder.com/news/40447341/salik-defies-maryams-defamation-claim-over-corruption-remarks)*
+- Following the loss of the Republican majority, US House Speaker **Mike Johnson** announced he will not seek the post of House minority leader. *[Business Recorder](https://www.brecorder.com/news/40447408/us-house-speaker-johnson-will-not-seek-minority-leadership-post)*
+- **Abdul El-Sayed** achieved a historic victory in Michigan, becoming the first Muslim elected to the **US Senate**. *[ARY](https://arynews.tv/jd-habibi-abdul-el-sayed-roasts-trump-vance-in-historic-us-senate-victory-speech)*
+- Spanish Prime Minister **Pedro Sanchez** reshuffled his cabinet, appointing **Carlos Cuerpo** to provisionally lead the Transport Ministry following the resignation of **Oscar Puente**. *[Business Recorder](https://www.brecorder.com/news/40447395/spains-sanchez-reshuffles-cabinet-after-transport-minister-quits-over-train-crashes)*
 
 ### National
-- Security forces conducted operations in Balochistan, resulting in the killing of **17** Indian-backed terrorists. *[ARY](https://arynews.tv/security-forces-kill-17-indian-backed-terrorists-in-balochistan-operations)*
-- A National Assembly body has reviewed the current export facilitation scheme to bolster trade. *[ARY](https://arynews.tv/na-body-reviews-export-facilitation-scheme)*
-- The Spanish Ambassador to Pakistan, Carlos Aragon, has called for direct flights and streamlined visa processing to increase bilateral trade. *[Business Recorder](https://www.brecorder.com/news/40447342/spain-envoy-for-direct-flights-improved-bilateral-trade)*
-- Pakistan Railways will hire an international chartered accountancy firm to conduct its first-ever audit under **International Financial Reporting Standards (IFRS)** for the **2025-26** fiscal year. *[Business Recorder](https://www.brecorder.com/news/40447339/railways-to-adopt-ifrs-for-financial-audit)*
-- Experts at a Lahore School of Economics conference noted that only slightly over **3%** of people currently migrate, urging Pakistan to expand high-value services. *[Business Recorder](https://www.brecorder.com/news/40447335/only-a-little-over-3pc-of-people-migrate-moot-told)*
+- The **Federal Cabinet** approved the transfer of the **Khyber Pakhtunkhwa (KP) Chief Minister’s** powers to the **Governor**. *[ARY](https://arynews.tv/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs)*
+- A man in **Karachi** has been linked to **29 different criminal cases** due to having an identical name to other offenders. *[ARY](https://arynews.tv/karachi-man-linked-to-29-criminal-cases-over-identical-name)*
+- The **CM of Punjab** has inaugurated a new house completed under the **‘Apni Chhat Apna Ghar’** housing scheme. *[ARY](https://arynews.tv/cm-punjab-inaugurates-house-built-under-apni-chhat-apna-ghar-scheme)*
+- **Mohsin Naqvi** announced that one building on **Constitution Avenue** is to be converted into a **five-star hotel**. *[ARY](https://arynews.tv/one-constitution-avenue-building-to-be-converted-into-five-star-hotel-says-mohsin-naqvi)*
+- **SSGC** released its winter gas supply schedule, fixing domestic cooking slots for breakfast (**6:30am–9:00am**), lunch, and dinner. *[Business Recorder](https://www.brecorder.com/news/40447386/ssgc-issues-winter-gas-supply-schedule)*
 
 ### International
-- US media projects that Democrats are on track to win majority control of the **US House of Representatives**. *[Business Recorder](https://www.brecorder.com/news/40447353/democrats-projected-to-win-majority-control-of-us-house-us-media-project)*
-- Democrat Annie Andrews, a pediatrician, won the South Carolina Senate seat, ousting Republican Darline Graham in a major upset. *[Business Recorder](https://www.brecorder.com/news/40447352/democrat-annie-andrews-wins-us-senate-seat-in-south-carolina-upset)*
-- Keisha Lance Bottoms has been elected Governor of Georgia, becoming the first Black woman to serve as a US state governor. *[Business Recorder](https://www.brecorder.com/news/40447351/keisha-lance-bottoms-wins-georgia-race-becomes-first-black-woman-elected-governor-of-us-state)*
-- In North Carolina, Roy Cooper defeated Trump-backed Republican Michael Whatley to flip a Republican-held Senate seat. *[Business Recorder](https://www.brecorder.com/news/40447347/stocks-dollar-slide-after-some-early-wins-for-democrats-in-us-midterm-election)*
-- The UAE has implemented a minimum age limit for e-scooter riders. *[ARY](https://arynews.tv/uae-introduces-minimum-age-limit-for-e-scooter-riders)*
-- Ireland has expanded its critical skills list to include **6** additional professions. *[ARY](https://arynews.tv/ireland-opens-doors-to-6-more-professions-on-critical-skills-list)*
-- Australia is reviewing tighter guidelines and increased financial backing requirements for student visas. *[ARY](https://arynews.tv/australia-looks-at-tighter-student-visa-guidelines-and-money-backing)*
-- A fire at a Panasonic-run factory in Hsinchu, Taiwan, resulted in **five** injuries and left **two** people missing. *[Business Recorder](https://www.brecorder.com/news/40447350/fire-at-panasonic-factory-in-taiwan-injures-five-with-two-missing)*
+- The **US Democratic** "blue wave" victory in the midterms is expected to impact global trade policies and the ongoing **US-Iran** conflict. *[Business Recorder](https://www.brecorder.com/news/40447407/from-iran-to-trade-how-the-us-midterms-impact-the-rest-of-the-world)*
+- **US President Donald Trump** indicated that while he is ready to act, he is in no hurry regarding potential strikes amidst the ongoing **Iran war**. *[Business Recorder](https://www.brecorder.com/news/40447390/iran-us-still-far-apart-on-deal-trump-says-ready-but-in-no-hurry-for-strikes)*
 
 ### Sports
-- The Pakistan Cricket Board (PCB) has announced a **15-member** Pakistan Shaheens squad for the ACC Men’s Asia Cup Rising Stars 2026, to be led by Abdul Samad. *[Business Recorder](https://www.brecorder.com/news/40447337/acc-mens-asia-cup-rising-stars-pcb-announce-shaheens-squad)*
+- **Caitlin Clark** addressed her recent interactions with referees, stating a need to improve her approach. *[ARY](https://arynews.tv/i-need-to-do-better-caitlin-clark-opens-up-about-referee-interactions)*
+- **Scott Parker** has returned to **West Ham United** as manager, signing a **two-and-a-half-year contract**. *[Business Recorder](https://www.brecorder.com/news/40447387/parker-returns-to-west-ham-as-manager-in-promotion-push)*
 
 ### Health
-- The Punjab government has allocated over **Rs 37 billion** for free medical treatments through various specialized health programs in selected hospitals. *[Business Recorder](https://www.brecorder.com/news/40447338/punjab-govt-provides-rs37bn-for-free-medical-treatment)*
+- Family doctors in **England** will begin using specialized blood tests to facilitate the early detection of **cancer**. *[ARY](https://arynews.tv/family-doctors-in-england-to-use-blood-tests-to-spot-cancer-early-in-world-first)*
+- The **WHO** has issued an alarm regarding the significant lack of physical activity among **teenagers** globally. *[ARY](https://arynews.tv/who-sounds-alarm-over-lack-of-physical-activity-among-teens)*
+
+### Other
+- **Allied Bank Limited (ABL)** has partnered with the **UK Government’s Chevening programme** to provide fully funded master’s degrees to talented Pakistanis. *[Business Recorder](https://www.brecorder.com/news/40447398/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain)*
+- The **UN 2026 Adaptation Gap Report** states that rich countries provided **$28.2 billion** for climate adaptation in 2024, falling far short of the required **$305 billion** annually. *[Business Recorder](https://www.brecorder.com/news/40447396/rich-countries-fall-far-short-on-climate-adaptation-funding-un-says)*
 
