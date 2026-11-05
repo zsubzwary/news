@@ -4,50 +4,47 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 04-Nov-2026 21:03PKT
+Published at: 05-Nov-2026 09:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The federal government approved the introduction of a **Rs10 coin** to replace the current banknote and endorsed new currency designs with enhanced security features. *[Business Recorder](https://www.brecorder.com/news/40447405/govt-approves-rs10-coin-to-replace-banknote-new-currency-designs)*
-- **Mastercard** delegation met with Pakistani officials to discuss expanding digital payment frameworks. *[ARY](https://arynews.tv/pakistan-discusses-digital-payments-with-mastercard-delegation)*
-- Major mobile operators **Jazz, PTCL/Ufone, Telenor, and Zong** have requested **PTA** intervention to establish a regulatory framework for smartphone installment financing. *[Business Recorder](https://www.brecorder.com/news/40447400/smartphone-financing-framework-remains-unresolved-as-telcos-seek-pta-intervention)*
-- **HBL** expects rising investment yields as floating-rate securities, which account for approximately **60%** of its portfolio, reprice. *[Business Recorder](https://www.brecorder.com/news/40447397/hbl-expects-investment-yields-to-rise-as-floating-rate-securities-reprice)*
-- **Dubai’s** main share index rose **4%**, with **Emirates NBD** surging **6.1%** and **Emaar Properties** increasing **4.4%**. *[Business Recorder](https://www.brecorder.com/news/40447401/dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff)*
-- **India’s BSE Ltd** reported a **45%** rise in second-quarter profit, reaching a consolidated net profit of **8.09 billion rupees** ($85.42 million). *[Business Recorder](https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit)*
-- Benchmark three-month **copper** prices rose **0.5%** to **$14,103** per metric ton on the London Metal Exchange. *[Business Recorder](https://www.brecorder.com/news/40447394/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears)*
-- **Sri Lankan** shares closed **2.09%** higher, with the **CSE All-Share index** settling at **20,541.12 points**. *[Business Recorder](https://www.brecorder.com/news/40447393/financial-stocks-lift-sri-lankan-shares-higher)*
-- Malaysian **palm oil** futures fell **1.21%** to **4,496 ringgit** ($1,104.67) per metric ton, hitting a four-month low. *[Business Recorder](https://www.brecorder.com/news/40447392/palm-hits-four-month-low-on-expectations-of-record-october-stocks)*
-- The **Pakistani Rupee (PKR)** recorded gains against the **US Dollar** during intra-day trading. *[Business Recorder](https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar)*
+- Bank of Japan policymakers discussed the need for further interest rate hikes in September, with potential for faster-paced increases as early as December. *[Business Recorder](https://www.brecorder.com/news/40447527/boj-debated-need-for-more-rate-hikes-scope-for-faster-moves-september-minutes-show)*
+- Brent crude futures dropped nearly 9% to fall below $100 a barrel following US midterm election results. *[Business Recorder](https://www.brecorder.com/news/40447523/oil-and-data-centre-stocks-sink-after-us-midterms)*
+- US West Texas Intermediate (WTI) crude futures fell by $1.14 (1.29%) to settle at $86.98. *[Business Recorder](https://www.brecorder.com/news/40447519/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation)*
+- Indian shares are expected to rise as oil hits a 2-month low, with GIFT Nifty futures trading at 24,295.5. *[Business Recorder](https://www.brecorder.com/news/40447522/indian-shares-set-to-open-higher-as-oil-hits-2-month-low-after-us-democratic-win)*
+- The Indian rupee is projected to open in the 94.35-94.40 range against the dollar, following a Wednesday settlement of 94.64. *[Business Recorder](https://www.brecorder.com/news/40447520/indian-rupee-to-rally-after-us-midterm-fallout-sinks-oil-on-iran-war-exit-hopes)*
+- Zindigi, powered by JS Bank, has launched "Zindigi Overseas Accounts" to allow digital account management for Pakistanis abroad without requiring a local mobile number. *[Business Recorder](https://www.brecorder.com/news/40447518/zindigi-overseas-accounts-launched)*
+- Experts warned that record remittance inflows may be masking an upcoming collapse in Gulf job opportunities for migrant workers. *[Business Recorder](https://www.brecorder.com/news/40447514/gulf-jobs-for-migrant-workers-record-remittance-inflows-may-be-masking-a-coming-collapse)*
+- The Saudi Ministry of Commerce issued a warning regarding the misuse of establishment bank accounts. *[ARY](https://arynews.tv/saudi-ministry-of-commerce-sends-harsh-warning-over-misuse-of-establishment-bank-accounts)*
 
 ### Science & Technology
-- **Sony** has removed the **PlayStation VR2** from retail stores, signaling the permanent discontinuation of the hardware. *[ARY](https://arynews.tv/sony-removes-playstation-vr2-from-stores-signaling-permanent-hardware-discontinuation)*
+- Google warned that "LLMjacking" cyberattacks are resulting in massive bills for cloud AI customers. *[ARY](https://arynews.tv/google-warns-llmjacking-cyberattacks-are-costing-cloud-ai-customers-massive-bills)*
+- The Pakistan Telecommunication Authority (PTA) has formally registered BIGO LIVE and Likee platforms in Pakistan under Bigo Service Pakistan (Pvt.) Ltd. *[Business Recorder](https://www.brecorder.com/news/40447513/pta-registers-bigo-live-likee-platforms-in-pakistan)*
+- The Pakistan Innovation Quest (PIQ) is expanding robotics and STEM learning with a goal to reach 10,000 learners and 300 teachers. *[Business Recorder](https://www.brecorder.com/news/40447512/piq-expanding-access-to-meaningful-robotics-stem-learning)*
+- A delegation of 30 Pakistani technology leaders attended Oslo Innovation Week 2026 to establish IT industry connections in the Nordic market. *[Business Recorder](https://www.brecorder.com/news/40447510/oslo-innovation-week-p-at-sha-opens-nordic-corridor-for-home-industry)*
 
 ### Politics
-- Following the loss of the Republican majority, US House Speaker **Mike Johnson** announced he will not seek the post of House minority leader. *[Business Recorder](https://www.brecorder.com/news/40447408/us-house-speaker-johnson-will-not-seek-minority-leadership-post)*
-- **Abdul El-Sayed** achieved a historic victory in Michigan, becoming the first Muslim elected to the **US Senate**. *[ARY](https://arynews.tv/jd-habibi-abdul-el-sayed-roasts-trump-vance-in-historic-us-senate-victory-speech)*
-- Spanish Prime Minister **Pedro Sanchez** reshuffled his cabinet, appointing **Carlos Cuerpo** to provisionally lead the Transport Ministry following the resignation of **Oscar Puente**. *[Business Recorder](https://www.brecorder.com/news/40447395/spains-sanchez-reshuffles-cabinet-after-transport-minister-quits-over-train-crashes)*
+- Democrats achieved significant US midterm gains, flipping control of both the House of Representatives and the Senate. *[Business Recorder](https://www.brecorder.com/news/40447528/democratic-victories-bring-historic-breakthroughs-for-women-and-minorities)*
+- Gina Hinojosa was elected as the first Latina governor following the Democratic sweep. *[Business Recorder](https://www.brecorder.com/news/40447528/democratic-victories-bring-historic-breakthroughs-for-women-and-minorities)*
+- Republicans are calling for Donald Trump to change his political course following significant midterm losses. *[ARY](https://arynews.tv/republicans-call-for-trump-to-change-course-after-midterm-drubbing)*
+- While Democrats gained influence over the US trade agenda, they face challenges in overriding potential presidential vetoes on tariff repeals. *[Business Recorder](https://www.brecorder.com/news/40447526/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall)*
 
 ### National
-- The **Federal Cabinet** approved the transfer of the **Khyber Pakhtunkhwa (KP) Chief Minister’s** powers to the **Governor**. *[ARY](https://arynews.tv/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs)*
-- A man in **Karachi** has been linked to **29 different criminal cases** due to having an identical name to other offenders. *[ARY](https://arynews.tv/karachi-man-linked-to-29-criminal-cases-over-identical-name)*
-- The **CM of Punjab** has inaugurated a new house completed under the **‘Apni Chhat Apna Ghar’** housing scheme. *[ARY](https://arynews.tv/cm-punjab-inaugurates-house-built-under-apni-chhat-apna-ghar-scheme)*
-- **Mohsin Naqvi** announced that one building on **Constitution Avenue** is to be converted into a **five-star hotel**. *[ARY](https://arynews.tv/one-constitution-avenue-building-to-be-converted-into-five-star-hotel-says-mohsin-naqvi)*
-- **SSGC** released its winter gas supply schedule, fixing domestic cooking slots for breakfast (**6:30am–9:00am**), lunch, and dinner. *[Business Recorder](https://www.brecorder.com/news/40447386/ssgc-issues-winter-gas-supply-schedule)*
+- Prime Minister seeks all available opportunities to reduce petrol and diesel prices, according to Bilal Azhar. *[ARY](https://arynews.tv/pm-seeks-every-opportunity-to-reduce-petrol-and-diesel-prices-says-bila-azhar)*
+- FIA agents arrested two individuals involved in an Albania work visa fraud totaling Rs 1.5 million. *[ARY](https://arynews.tv/fia-nabs-2-agents-in-albania-work-visa-fraud-involving-rs-1-5-million)*
+- A public holiday has been announced for November 9 in observance of Iqbal Day. *[ARY](https://arynews.tv/public-holiday-announced-on-9-november-for-iqbal-day)*
+- Salman Akram Raja claimed that the PTI founder's blood pressure has failed to return to normal levels. *[ARY](https://arynews.tv/opposition-announces-apc-committee-after-meeting-with-maulana-fazal-ur-rehman)*
+- NCCIA conducted a raid on a Karachi call centre where employees were reportedly detained for over 24 hours. *[ARY](https://arynews.tv/nccia-raid-karachi-call-centre-employees-kept-inside-for-over-24-hours)*
+- The Sindh government will utilize royalties from coal projects to fund development in the Thar region. *[Business Recorder](https://www.brecorder.com/news/40447515/uplift-of-local-areas-in-thar-sindh-will-utilise-royalties-from-coal-projects-soomro)*
+- Pakistan and the UK expressed joint concern regarding the threat posed by terrorist groups, including the TTP, operating from Afghanistan. *[Business Recorder](https://www.brecorder.com/news/40447511/ttp-other-groups-pakistan-uk-concerned-at-continuing-threat)*
 
 ### International
-- The **US Democratic** "blue wave" victory in the midterms is expected to impact global trade policies and the ongoing **US-Iran** conflict. *[Business Recorder](https://www.brecorder.com/news/40447407/from-iran-to-trade-how-the-us-midterms-impact-the-rest-of-the-world)*
-- **US President Donald Trump** indicated that while he is ready to act, he is in no hurry regarding potential strikes amidst the ongoing **Iran war**. *[Business Recorder](https://www.brecorder.com/news/40447390/iran-us-still-far-apart-on-deal-trump-says-ready-but-in-no-hurry-for-strikes)*
+- South Korea plans to expand its Cheonghae anti-piracy unit operations closer to the Strait of Hormuz. *[Business Recorder](https://www.brecorder.com/news/40447525/south-korea-to-expand-anti-piracy-unit-operations-closer-to-strait-of-hormuz)*
+- Former Federal Minister Khurram Dastgir Khan warned that the US withdrawal from its global role threatens freedom of navigation and maritime trade. *[Business Recorder](https://www.brecorder.com/news/40447517/freedom-of-navigation-under-threat-us-withdrawal-from-global-role-a-significant-shift-in-int’l-order-dastgir)*
 
 ### Sports
-- **Caitlin Clark** addressed her recent interactions with referees, stating a need to improve her approach. *[ARY](https://arynews.tv/i-need-to-do-better-caitlin-clark-opens-up-about-referee-interactions)*
-- **Scott Parker** has returned to **West Ham United** as manager, signing a **two-and-a-half-year contract**. *[Business Recorder](https://www.brecorder.com/news/40447387/parker-returns-to-west-ham-as-manager-in-promotion-push)*
-
-### Health
-- Family doctors in **England** will begin using specialized blood tests to facilitate the early detection of **cancer**. *[ARY](https://arynews.tv/family-doctors-in-england-to-use-blood-tests-to-spot-cancer-early-in-world-first)*
-- The **WHO** has issued an alarm regarding the significant lack of physical activity among **teenagers** globally. *[ARY](https://arynews.tv/who-sounds-alarm-over-lack-of-physical-activity-among-teens)*
-
-### Other
-- **Allied Bank Limited (ABL)** has partnered with the **UK Government’s Chevening programme** to provide fully funded master’s degrees to talented Pakistanis. *[Business Recorder](https://www.brecorder.com/news/40447398/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain)*
-- The **UN 2026 Adaptation Gap Report** states that rich countries provided **$28.2 billion** for climate adaptation in 2024, falling far short of the required **$305 billion** annually. *[Business Recorder](https://www.brecorder.com/news/40447396/rich-countries-fall-far-short-on-climate-adaptation-funding-un-says)*
+- India defeated New Zealand by five wickets in a rain-hit ODI in Auckland, led by Virat Kohli's 74 runs off 51 balls. *[Business Recorder](https://www.brecorder.com/news/40447529/kohli-in-the-runs-as-india-thrash-new-zealand-in-first-odi)*
+- Pulisic and Balogun have been reintegrated into the US squad for the CONCACAF Nations League quarterfinals. *[ARY](https://arynews.tv/pulisic-balogun-back-in-us-squad-for-concacaf-nations-league-quarters)*
+- Real Madrid secured a late victory against AEK Athens following a decisive goal by Valverde. *[ARY](https://arynews.tv/valverde-blast-snatches-real-madrid-late-win-at-aek-athens)*
 
