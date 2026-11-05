@@ -7,49 +7,47 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 04-Nov-2026 21:09PKT 
+ &lrm; 05-Nov-2026 09:08PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 6 منٹ 
 
 ### معیشت
-- وفاقی کابینہ نے موجودہ 10 روپے کے نوٹ کی جگہ **10 روپے کا سکہ** متعارف کرانے اور نئی کرنسی کے ڈیزائن کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447405/govt-approves-rs10-coin-to-replace-banknote-new-currency-designs)*
-- پاکستان نے ڈیجیٹل ادائیگیوں کے نظام کو بہتر بنانے کے لیے **ماسٹر کارڈ (Mastercard)** کے وفد کے ساتھ اہم بات چیت کی۔ *[ARY](https://arynews.tv/pakistan-discusses-digital-payments-with-mastercard-delegation)*
-- دبئی کے اسٹاک مارکیٹ میں تیزی دیکھی گئی، جہاں **دبئی کے بنیادی شیئر انڈیکس میں 4 فیصد اضافہ** ہوا، جبکہ ایمریٹس این بی ڈی (Emirates NBD) میں **6.1 فیصد** اور ایمار پراپرٹیز میں **4.4 فیصد** اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447401/dubai-leads-gulf-gains-as-investors-assess-us-midterm-fallout-and-iran-standoff)*
-- موبائل آپریٹرز (Jazz, PTCL/Ufone, Telenor, Zong) نے اسمارٹ فون کی آسان اقساط کے لیے ایک ریگولیٹری فریم ورک بنانے کی خاطر **پی ٹی اے (PTA)** سے مداخلت کی درخواست کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447400/smartphone-financing-framework-remains-unresolved-as-telcos-seek-pta-intervention)*
-- بھارت کی **BSE Ltd** کے دوسرے سہ ماہائی کے منافع میں **45 فیصد اضافہ** ہوا ہے، جو گزشتہ سال کے 5.58 ارب روپے سے بڑھ کر **8.09 ارب روپے** تک پہنچ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447399/indias-bse-posts-higher-second-quarter-profit)*
-- ایچ بی ایل (HBL) کے مطابق فلوٹنگ ریٹ سیکیورٹیز کی ری پرائسنگ کے باعث بینک کے سرمایہ کاری پورٹ فولیو کے منافع میں اضافہ متوقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447397/hbl-expects-investment-yields-to-rise-as-floating-rate-securities-reprice)*
-- تانبے (Copper) کی قیمتوں میں **0.5 فیصد اضافہ** ہوا اور یہ لندن میٹل ایکسچینج پر **14,103 ڈالر فی میٹرک ٹن** پر پہنچ گئی۔ *[Business Recorder](https://www.brecorder.com/news/40447394/copper-rebounds-from-3-month-low-as-tightness-offsets-tariff-ai-fears)*
-- سری لنکا کا اے ایس آئی (CSE All-Share) انڈیکس **2.09 فیصد اضافے** کے ساتھ **20,541.12 پوائنٹس** پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40447393/financial-stocks-lift-sri-lankan-shares-higher)*
-- ملائیشیا میں پام آئل کی قیمتیں **1.21 فیصد گر کر 4,496 رنگٹ ($1,104.67) فی میٹرک ٹن** پر آ گئیں، جو چار ماہ کی کم ترین سطح ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447392/palm-hits-four-month-low-on-expectations-of-record-october-stocks)*
-- بھارتی اسٹاک مارکیٹ میں غیر ملکی سرمایہ کاری کے رجحان کے باعث مسلسل اضافے کا سلسلہ برقرار ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447391/indian-stocks-post-longest-winning-streak-in-nearly-5-months-on-fpi-inflow-hopes)*
-- پاکستانی روپے میں امریکی ڈالر کے مقابلے میں اضافہ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447389/intra-day-update-rupee-records-gain-against-us-dollar)*
+- امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی بڑی کامیابی کے بعد برینٹ کروڈ (Brent crude) کی قیمتوں میں تقریباً 9 فیصد کمی واقع ہوئی ہے، جو کہ 100 ڈالر فی بیرل سے نیچے آ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447523/oil-and-data-centre-stocks-sink-after-us-midterms)*
+- برینٹ کروڈ کی قیمت میں 1.03 فیصد کمی کے بعد یہ 93.65 ڈالر فی بیرل اور ڈبلیو ٹی آئی (WTI) کروڈ 1.29 فیصد گر کر 86.98 ڈالر فی بیرل پر آگیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447519/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation)*
+- امریکی انتخابات کے نتائج کے بعد عالمی مارکیٹ میں ڈالر کی قدر میں کمی دیکھی گئی ہے، جبکہ جاپانی ین مستحکم ہوا ہے اور برطانوی پاؤنڈ سات ہفتوں کی بلند ترین سطح کے قریب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447521/dollar-edges-lower-as-us-election-outcome-cheers-global-markets)*
+- بھارتی شیئرز میں مثبت رجحان متوقع ہے کیونکہ تیل کی قیمتیں دو ماہ کی کم ترین سطح پر آگئی ہیں؛ بدھ کے روز غیر ملکی سرمایہ کاروں نے بھارتی شیئرز میں 72.84 ارب روپے (769.65 ملین ڈالر) کی خریداری کی۔ *[Business Recorder](https://www.brecorder.com/news/40447522/indian-shares-set-to-open-higher-as-oil-hits-2-month-low-after-us-democratic-win)*
+- جاپان کے مرکزی بینک (BOJ) کے ستمبر کے اجلاس کے منٹس سے ظاہر ہوا ہے کہ دسمبر میں شرح سود میں مزید اضافے کے امکانات موجود ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447527/boj-debated-need-for-more-rate-hikes-scope-for-faster-moves-september-minutes-show)*
+- وزیر اعظم پی ٹی آئی کے مشیر بلال اظہر کے مطابق حکومت پٹرول اور ڈیزل کی قیمتوں میں کمی کے لیے ہر ممکن کوشش کر رہی ہے۔ *[ARY](https://arynews.tv/pm-seeks-every-opportunity-to-reduce-petrol-and-diesel-prices-says-bila-azhar)*
+- جے ایس بینک کی ذندگی (Zindigi) نے بیرون ملک مقیم پاکستانیوں کے لیے ڈیجیٹل بینک اکاؤنٹ کھولنے کی سہولت کے ساتھ 'ذندگی اوورسیز اکاؤنٹس' لانچ کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447518/zindigi-overseas-accounts-launched)*
+- ماہرین نے خبردار کیا ہے کہ خلیجی ممالک میں بھیجے جانے والے ترسیلات زر (remittances) میں ریکارڈ اضافہ ممکنہ طور پر خلیجی ممالک میں ملازمتوں کے خاتمے کے خطرے کو چھپا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447514/gulf-jobs-for-migrant-workers-record-remittance-inflows-may-be-masking-a-coming-collapse)*
+- سندھ حکومت تھر میں کوئلے کے منصوبوں سے حاصل ہونے والے رائلٹی فنڈز کو مقامی علاقوں کی ترقی کے لیے استعمال کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40447515/uplift-of-local-areas-in-thar-sindh-will-utilise-royalties-from-coal-projects-soomro)*
 
 ### سائنس اور ٹیکنالوجی
-- سونی (Sony) نے اسٹورز سے **PlayStation VR2** ہٹا دیا ہے، جو اس ہارڈ ویئر کو مستقل طور پر بند کرنے کا اشارہ ہے۔ *[ARY](https://arynews.tv/sony-removes-playstation-vr2-from-stores-signaling-permanent-hardware-discontinuation)*
+- گوگل نے خبردار کیا ہے کہ 'LLMjacking' سائبر حملے کلاؤڈ اے آئی (AI) صارفین کے لیے بھاری بلوں کا سبب بن رہے ہیں۔ *[ARY](https://arynews.tv/google-warns-llmjacking-cyberattacks-are-costing-cloud-ai-customers-massive-bills)*
+- پاکستان ٹیلی کمیونیکیشن اتھارٹی (PTA) نے BIGO LIVE اور Likee پلیٹ فارمز کو پاکستان میں باقاعدہ رجسٹر کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447513/pta-registers-bigo-live-likee-platforms-in-pakistan)*
+- پاکستان انوویشن کویسٹ (PIQ) کے تحت 10,000 طلباء اور 300 اساتذہ تک روبوٹکس اور STEM تعلیم کی رسائی کو وسعت دینے کا منصوبہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447512/piq-expanding-access-to-meaningful-robotics-stem-learning)*
+- پاکستان سافٹ ویئر ہاؤسز ایسوسی ایشن (P@SHA) کے 30 تکنیکی رہنماؤں کے وفد نے ناروے میں 'اوسلو انوویشن ویک 2026' میں شرکت کی تاکہ نوآرڈک مارکیٹ تک رسائی حاصل کی جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40447510/oslo-innovation-week-p-at-sha-opens-nordic-corridor-for-home-industry)*
 
 ### سیاست
-- امریکی ہاؤس سپیکر مائیک جانسن نے ریپبلکن پارٹی کی اکثریت کے خاتمے کے بعد مائنورٹی لیڈر کے عہدے کے لیے انتخاب نہ لڑنے کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447408/us-house-speaker-johnson-will-not-seek-minority-leadership-post)*
-- اسپین کے وزیراعظم پیڈرو سانچیز نے ٹرین حادثات کے بعد وزیر ٹرانسپورٹ کے استعفیٰ کے نتیجے میں اپنی کابینہ میں تبدیلی کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447395/spains-sanchez-reshuffles-cabinet-after-transport-minister-quits-over-train-crashes)*
-- امریکی وسطی انتخابات کے نتائج کا عالمی تجارت اور ایران کے ساتھ تناؤ پر اثر پڑنے کے امکانات ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447407/from-iran-to-trade-how-the-us-midterms-impact-the-rest-of-the-world)*
+- امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی بڑی کامیابی نے خواتین اور اقلیتوں کے نمائندوں کے لیے تاریخی مواقع پیدا کیے ہیں، جس کے نتیجے میں ڈیموکریٹس نے ایوانِ نمائندگان اور سینیٹ پر کنٹرول حاصل کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447528/democratic-victories-bring-historic-breakthroughs-for-women-and-minorities)*
+- ڈیموکریٹس کو امریکی تجارتی ایجنڈے پر اثر انداز ہونے کا موقع ملے گا، تاہم صدر ٹرمپ کے ویٹو کا مقابلہ کرنا ان کے لیے مشکل ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40447526/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall)*
+- امریکی ریپبلکن پارٹی کے رہنماؤں نے مڈ ٹرم انتخابات میں شکست کے بعد ڈونلڈ ٹرمپ سے اپنی حکمت عملی تبدیل کرنے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/republicans-call-for-trump-to-change-course-after-midterm-drubbing)*
+- سابق وفاقی وزیر خرم دستگیر خان نے کہا ہے کہ امریکہ کا عالمی کردار سے پیچھے ہٹنا بین الاقوامی نظم میں بڑی تبدیلی ہے جس سے سمندری تجارت کو خطرہ لاحق ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447517/freedom-of-navigation-under-threat-us-withdrawal-from-global-role-a-significant-shift-in-intl-order-dastgir)*
+- پاکستان اور برطانیہ نے اسلام آباد میں ہونے والے دو طرفہ دہشت گردی مخالف مذاکرات میں افغانستان سے سرگرم گروہوں بشمول TTP کے بڑھتے ہوئے خطرات پر گہری تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40447511/ttp-other-groups-pakistan-uk-concerned-at-continuing-threat)*
 
 ### قومی
-- وفاقی کابینہ نے خیبرپختونخوا کے وزیر اعلیٰ کے اختیارات گورنر کو منتقل کرنے کی منظوری دے دی ہے۔ *[ARY](https://arynews.tv/federal-cabinet-approves-transfer-of-kp-cms-powers-to-governor-endorses-new-currency-designs)*
-- کراچی میں ایک شخص کا نام ایک ہی جیسے نام کے باعث **29 مختلف مجرمانہ کیسز** میں پایا گیا ہے۔ *[ARY](https://arynews.tv/karachi-man-linked-to-29-criminal-cases-over-identical-name)*
-- وزیراعلیٰ پنجاب نے **'اپنی چھت اپنا گھر'** اسکیم کے تحت تعمیر شدہ گھر کا افتتاح کیا۔ *[ARY](https://arynews.tv/cm-punjab-inaugurates-house-built-under-apni-chhat-apna-ghar-scheme)*
-- ون کنسٹٹیوشن ایونیو کی عمارت کو **فائیو اسٹار ہوٹل** میں تبدیل کرنے کا منصوبہ ہے۔ *[ARY](https://arynews.tv/one-constitution-avenue-building-to-be-converted-into-five-star-hotel-says-mohsin-naqvi)*
-- ایبلڈ (ABL) اور یوکے کے چیوننگ پروگرام کے اشتراک سے پاکستانی طلباء کو برطانیہ میں مکمل طور پر فنڈڈ ماسٹرز ڈگری کے مواقع ملیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40447398/uk-partnership-opens-more-opportunities-for-pakistanis-to-study-in-britain)*
-- ایس ایس جی سی (SSGC) نے سردیوں کے لیے گیس کی فراہمی کا شیڈول جاری کر دیا ہے، جس میں ناشتے (6:30am سے 9:00am) سمیت مخصوص اوقات مقرر کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447386/ssgc-issues-winter-gas-supply-schedule)*
+- ایف آئی اے (FIA) نے البانیا کے ورک ویزا فراڈ کے سلسلے میں 2 ایجنٹوں کو گرفتار کر لیا ہے جو 15 لاکھ روپے کے فراڈ میں ملوث تھے۔ *[ARY](https://arynews.tv/fia-nabs-2-agents-in-albania-work-visa-fraud-involving-rs-1-5-million)*
+- 9 نومبر کو یومِ اقبال کے موقع پر عام تعطیل کا اعلان کیا گیا ہے۔ *[ARY](https://arynews.tv/public-holiday-announced-on-9-november-for-iqbal-day)*
+- سلمان اکرم راجہ کا دعویٰ ہے کہ پی ٹی آئی کے بانی کا بلڈ پریشر نارمل نہیں ہو رہا۔ *[ARY](https://arynews.tv/pti-founder-s-bp-not-returning-to-normal-claims-salman-akram-raja)*
+- این سی سی آئی اے (NCCIA) کے چھاپے کے دوران کراچی میں ایک کال سینٹر کے ملازمین کو 24 گھنٹے سے زائد وقت تک اندر روکے رکھا گیا۔ *[ARY](https://arynews.tv/nccia-raid-karachi-call-centre-employees-kept-inside-for-over-24-hours)*
+- سندھ انرجی اینڈ کلائمیٹ کانفرنس (SECC26) میں توانائی کی انصاف، شفاف فنانسنگ اور ماحولیاتی جوابدہی پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447516/speakers-demand-energy-justice-accountability)*
 
 ### بین الاقوامی
-- عبدال سید نے امریکی سینٹ کے انتخابات میں تاریخی کامیابی حاصل کی ہے، جو امریکی سیاست میں مسلمانوں کے لیے ایک بڑا سنگ میل ہے۔ *[ARY](https://arynews.tv/jd-habibi-abdul-el-sayed-roasts-trump-vance-in-historic-us-senate-victory-speech)*
-- اقوام متحدہ کی رپورٹ کے مطابق، امیر ممالک موسمیاتی تبدیلیوں سے نمٹنے کے لیے سالانہ **305 ارب ڈالر** کے مقابلے میں صرف **28.2 ارب ڈالر** فراہم کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447396/rich-countries-fall-far-short-on-climate-adaptation-funding-un-says)*
-- ایران اور امریکہ کے درمیان جنگ بندی کے حوالے سے ابھی تک کوئی باقاعدہ معاہدہ طے نہیں پایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447390/iran-us-still-far-apart-on-deal-trump-says-ready-but-in-no-hurry-for-strikes)*
+- سعودی وزارت تجارت نے کاروباری اداروں کے بینک اکاؤنٹس کے غلط استعمال پر سخت وارننگ جاری کر دی ہے۔ *[ARY](https://arynews.tv/saudi-ministry-of-commerce-sends-harsh-warning-over-misuse-of-establishment-bank-accounts)*
+- جنوبی کوریا نے امریکی دباؤ کے بعد اپنے اینٹی پائریسی یونٹ کے آپریشنز کو بحر ہرمز کے قریب تک بڑھانے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447525/south-korea-to-expand-anti-piracy-unit-operations-closer-to-strait-of-hormuz)*
 
 ### کھیل
-- کیٹلن کلک نے ریفری کے ساتھ اپنے تعاملات پر بات کرتے ہوئے اپنی کارکردگی کو مزید بہتر بنانے کا عزم ظاہر کیا ہے۔ *[ARY](https://arynews.tv/i-need-to-do-better-caitlin-clark-opens-up-about-referee-interactions)*
-- سکاٹ پارکر نے ویسٹ ہیم کے مینیجر کے طور پر **دو سال اور چھ ماہ** کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447387/parker-returns-to-west-ham-as-manager-in-promotion-push)*
-
-### صحت
-- انگلینڈ میں فیملی ڈاکٹرز کینسر کی جلد تشخیص کے لیے **خون کے ٹیسٹ** کا استعمال شروع کریں گے۔ *[ARY](https://arynews.tv/family-doctors-in-england-to-use-blood-tests-to-spot-cancer-early-in-world-first)*
-- عالمی ادارہ صحت (WHO) نے نوجوانوں میں **جسمانی سرگرمیوں کی کمی** پر تشویش کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/who-sounds-alarm-over-lack-of-physical-activity-among-teens)*
+- وراٹ کوہلی نے ایک روزہ بین الاقوامی کرکٹ میں اپنی 80ویں نصف سنچری مکمل کی، انہوں نے آکلینڈ میں نیوزی لینڈ کے خلاف 51 گیندوں پر 74 رنز بنائے اور بھارت کو 5 وکٹوں سے فتح دلانے میں اہم کردار ادا کیا۔ *[Business Recorder](https://www.brecorder.com/news/40447529/kohli-in-the-runs-as-india-thrash-new-zealand-in-first-odi)*
+- امریکی فٹ بال ٹیم کے کھلاڑی پولسچ اور بالوگون کو CONCACAF نیشنز لیگ کے کوارٹر فائنلز کے لیے اسکواڈ میں شامل کر لیا گیا ہے۔ *[ARY](https://arynews.tv/pulisic-balogun-back-in-us-squad-for-concacaf-nations-league-quarters)*
+- ویلڈور وی (Valverde) کے شاندار گول کی بدولت ریئل میڈرڈ نے اے ای کے ایتھنز (AEK Athens) کے خلاف دیر سے جیت حاصل کر لی۔ *[ARY](https://arynews.tv/valverde-blast-snatches-real-madrid-late-win-at-aek-athens)*
 
