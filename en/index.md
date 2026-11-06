@@ -4,47 +4,42 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 06-Nov-2026 09:04PKT
+Published at: 06-Nov-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- SoftBank’s 5-year credit default swap spread rose by **22 basis points to 466 bps**, its widest since October 2022, driven by AI profitability concerns. *[Business Recorder](https://www.brecorder.com/news/40447724/softbank-credit-risk-jumps-to-4-year-high-as-ai-fears-roil-market)*
-- Oil prices saw a weekly rise: **Brent crude futures** increased by **1.6% ($1.57)** to **$99.86** a barrel, while **US WTI futures** rose **1.22% ($1.10)** to **$91.62** a barrel. *[Business Recorder](https://www.brecorder.com/news/40447719/oil-set-for-sharp-weekly-drop-but-middle-east-supply-concerns-provide-floor)*
-- The **Indian rupee** hit a two-week high of **94.32** before settling at **94.4750**, supported by returning foreign capital. *[Business Recorder](https://www.brecorder.com/news/40447721/indian-rupee-to-draw-support-from-return-of-foreign-flows-amid-tech-meltdown)*
-- Asian markets faced a major downturn: South Korea’s **KOSPI fell over 8%** (triggering a circuit breaker), Japan’s **Nikkei slumped 6%**, Taiwan fell **more than 8%**, and the **Nasdaq sank 5.5%**. *[Business Recorder](https://www.brecorder.com/news/40447714/asia-stocks-crumble-after-ai-rout-rocks-us-markets)*
-- Indian institutional investors recently purchased stocks worth approximately **Rs. 150 billion** following a six-session rally in the Nifty 50 and BSE Sensex. *[Business Recorder](https://www.brecorder.com/news/40447716/indian-stocks-set-for-pullback-after-sharp-rally-on-oil-slide-foreign-inflows)*
-- Tech stocks suffered a "bloodbath" globally as US midterm election results fueled fears regarding increased AI regulatory scrutiny. *[ARY](https://arynews.tv/tech-firms-suffer-bloodbath-as-us-midterms-fuel-ai-fears)*
+- Sri Lankan CSE All-Share index rose **0.5% to 21,239.65 points**, led by Carson Cumberbatch PLC (**up 9.4%**), Commercial Bank of Ceylon PLC (**up 1.8%**), and Hatton National Bank (**up 1%**). *[Business Recorder](https://www.brecorder.com/news/40447779/financials-and-consumer-staples-stocks-lift-sri-lankan-shares-higher)*
+- Abu Dhabi’s benchmark index dropped **1.3%** to an 18-month low, while International Holding's third-quarter net profit fell over **28% to 6.22 billion dirhams ($1.69 billion)**. *[Business Recorder](https://www.brecorder.com/news/40447778/uae-shares-fall-as-geopolitical-uncertainty-keeps-traders-cautious)*
+- HBL has launched the **HBL Visa Infinite CreditCard** in partnership with Visa, targeting affluent and globally connected customers. *[Business Recorder](https://www.brecorder.com/news/40447774/hbl-elevates-client-experience-with-launch-of-visa-infinite-creditcard)*
+- The Philippines' gross foreign reserves dropped to **$97.4 billion** at the end of October, down from a revised **$99.5 billion** the previous month. *[Business Recorder](https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october)*
+- Malaysian palm oil futures for January delivery slid **2.72% (119 ringgit)** to **4,258 ringgit ($1,049.54)** per metric ton, marking a **9.04%** weekly loss. *[Business Recorder](https://www.brecorder.com/news/40447772/palm-tumbles-posts-steepest-weekly-fall-in-nearly-two-years)*
+- Alphabet disclosed a **$547.9 million** stake (nearly 3 million shares) in Qualcomm and increased its SpaceX position to **555 million shares**. *[Business Recorder](https://www.brecorder.com/news/40447771/alphabet-discloses-548-million-worth-of-qualcomm-stake)*
+- Benchmark three-month copper on the London Metal Exchange fell **0.8% to $13,738** per metric ton, on track for a **2.9%** weekly decline. *[Business Recorder](https://www.brecorder.com/news/40447768/copper-falls-heads-for-worst-week-since-march-on-ai-rout)*
 
 ### Science & Technology
-- **Anthropic’s** AI models are reportedly improving nearly **twice as fast** when assisted by AI. *[ARY](https://arynews.tv/anthropics-models-improving-nearly-twice-as-fast-with-help-from-ai-study-finds)*
-- **Apple** has doubled its production orders for the upcoming second-generation **MacBook Neo**. *[ARY](https://arynews.tv/apple-doubles-production-orders-for-upcoming-second-generation-macbook-neo)*
+- Snapchat has begun disabling its **"Find Friends"** feature by default for child users in the UK to reduce the risk of online grooming. *[Business Recorder](https://www.brecorder.com/news/40447782/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says)*
+- EU regulators charged TikTok with breaching content rules due to its **"rabbit hole"** recommendation algorithm, risking a fine of up to **6% of its global annual turnover**. *[Business Recorder](https://www.brecorder.com/news/40447770/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects)*
+
+### Weather
+- The EU's Copernicus Climate Change Service reported that 2026 is likely to be the **second-hottest year on record**, with global temperatures "virtually certain" to exceed **1.5°C** above pre-industrial levels. *[Business Recorder](https://www.brecorder.com/news/40447786/2026-most-likely-to-be-second-hottest-year-on-record-eu-monitor)*
 
 ### Politics
-- **Nithya Raman**, a Democratic socialist candidate, defeated incumbent **Karen Bass** to be elected Mayor of Los Angeles. *[Business Recorder](https://www.brecorder.com/news/40447717/democratic-socialist-raman-elected-los-angeles-mayor-in-upset-over-bass)*
-- PTI Senate leader **Raja Nasir Abbas** accused the government of orchestrating **Imran Khan’s** removal at the behest of the United States. *[Business Recorder](https://www.brecorder.com/news/40447708/raja-nasir-accuses-govt-of-planning-iks-ouster-at-us-behest)*
+- Following the US Democrats' congressional win, Pakistani leaders are bracing for increased scrutiny regarding their access to the White House. *[Business Recorder](https://www.brecorder.com/news/40447763/pakistans-leaders-dread-us-democrats-win-but-its-households-are-praying-for-it-reuters)*
 
 ### National
-- The Punjab government distributed **10,000 tractors** to farmers under the **Chief Minister’s Green Tractor Programme** in Sahiwal. *[Business Recorder](https://www.brecorder.com/news/40447707/punjab-distributes-10000-tractors-under-subsidy-programme)*
-- A four-member subcommittee will review family and inheritance laws for the **Islamabad Capital Territory**, including the **Dowry and Bridal Gifts (Restriction) Act 1976** and the **Muslim Marriage Act 1939**. *[Business Recorder](https://www.brecorder.com/news/40447711/amendments-proposed-for-ict-subcommittee-to-review-family-inheritance-laws)*
-- The **Punjab Revenue Authority (PRA)** is accelerating business registration and the installation of its **Electronic Invoice Monitoring System (E-IMS)** across **14 designated sectors**. *[Business Recorder](https://www.brecorder.com/news/40447705/pra-decides-to-speed-up-registration-of-new-businesses)*
-- **Maryam Nawaz** has ordered a strict crackdown on crop residue burning across the Punjab province. *[ARY](https://arynews.tv/maryam-nawaz-orders-crackdown-on-crop-residue-burning-across-punjab)*
-- The **JIT** has summoned the family of the deceased **Mir Raza Ali** for a meeting scheduled for **November 7**. *[ARY](https://arynews.tv/mir-raza-ali-case-jit-summons-deceaseds-family-for-november-7-meeting)*
-- **Punjab** has become the first province to adopt the **National Population Council Declaration** to improve population management. *[Business Recorder](https://www.brecorder.com/news/40447706/punjab-adopts-national-population-council-declaration)*
-- **PTCL CEO Nadeem Khan** pledged to modernize infrastructure to support industrial clusters in **Faisalabad**. *[Business Recorder](https://www.brecorder.com/news/40447709/reliable-connectivity-vital-to-business-operational-efficiency-ptcl-ceo)*
-- **APTPMA** Vice Chairman **Muhammad Rizwan Lakhani** demanded uninterrupted gas/water supplies and competitive electricity tariffs for the textile industry. *[Business Recorder](https://www.brecorder.com/news/40447713/uninterrupted-supply-of-gas-water-to-textile-industry-demanded)*
-- **Pakistan and Russia** have agreed to advance technology cooperation through direct company-to-company partnerships and joint ventures. *[Business Recorder](https://www.brecorder.com/news/40447710/russia-agrees-to-advance-bilateral-technology-cooperation)*
+- Pakistan and Türkiye are set to revive offshore oil and gas exploration, with a seismic vessel from the Turkish Petroleum Offshore Company (TPOC) expected in Karachi between **November 17 and 20**. *[Business Recorder](https://www.brecorder.com/news/40447783/pakistan-turkiye-to-revive-offshore-exploration-after-nearly-two-decades)*
+- Interior Minister Mohsin Naqvi and UK Minister Dan Jarvis agreed to expand cooperation in **counterterrorism, cybercrime, and immigration**, including collaboration with NADRA. *[Business Recorder](https://www.brecorder.com/news/40447769/pakistan-uk-agree-to-expand-cooperation-in-counterterrorism-cybercrime-immigration)*
 
 ### International
-- **Russian President Putin** received Iran’s security chief in Moscow to discuss bilateral matters. *[ARY](https://arynews.tv/putin-receives-irans-security-chief-in-moscow)*
-- **US President Donald Trump** met with Putin's envoy, **Kirill Dmitriev**, regarding a potential deal to resolve the war in Ukraine; mediation talks are set for **November 10-11 in Abu Dhabi**. *[Business Recorder](https://www.brecorder.com/news/40447720/trump-says-he-met-putin-envoy-sees-ukraine-deal-soon)*
-- **China's** marriage rate dropped to an **18-year low** in the first nine months of the year, with **4.65 million marriages** and **2.08 million divorces**. *[Business Recorder](https://www.brecorder.com/news/40447723/chinas-marriage-rate-in-third-quarter-tumbles-to-18-year-low)*
-- **China's Standing Committee** has adopted a new law to combat **cross-border corruption** to safeguard national sovereignty. *[Business Recorder](https://www.brecorder.com/news/40447722/chinas-standing-committee-of-the-national-peoples-congress-passes-cross-border-corruption-law)*
-- **Kuwait International Airport** has implemented a complete ban on all photography and live streaming. *[ARY](https://arynews.tv/kuwait-international-airport-bans-all-photography-and-live-streaming-completely)*
-- **Kuwait** has increased national preparedness measures in response to rising regional tensions. *[ARY](https://arynews.tv/kuwait-steps-up-national-preparedness-amid-regional-tensions)*
-- **Texas Governor-elect Gina Hinojosa** plans to introduce laws to protect rural communities from the impact of **data center** developments. *[Business Recorder](https://www.brecorder.com/news/40447718/texas-governor-elect-says-state-will-have-laws-to-shield-citizens-from-data-centers)*
+- A seafarer was killed in a suspected missile attack on the Marshall Islands-flagged oil tanker **MT Velos Sapphire** in the Gulf. *[Business Recorder](https://www.brecorder.com/news/40447785/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf)*
+- Spain has nominated former central bank chief **Pablo Hernandez de Cos** to succeed Christine Lagarde as president of the European Central Bank. *[Business Recorder](https://www.brecorder.com/news/40447776/spain-nominates-former-central-bank-head-de-cos-for-ecb-presidency-deputy-pm-says)*
+- Bomb threats targeting European broadcasters, including **RTE (Ireland)** and **Sky (UK)**, caused programming suspensions and evacuations across the continent. *[Business Recorder](https://www.brecorder.com/news/40447775/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe)*
+- India is in the final stages of talks to expand missile sales to the **Philippines**. *[Business Recorder](https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october)*
 
 ### Sports
-- Tickets for the **Pakistan vs. Sri Lanka Test series** go on sale **November 6 at 2pm** via TCS Express Centres; the first Test begins **November 9 at Rawalpindi Stadium**. *[Business Recorder](https://www.brecorder.com/news/40447712/tickets-for-rawalpindi-test-on-sale-from-today)*
-- **Indiana Fever** star **Caitlin Clark** has announced the release of a new children's book. *[ARY](https://arynews.tv/indiana-fever-star-caitlin-clark-reveals-another-big-childrens-book-after-huge-season)*
+- Cristiano Ronaldo announced his international retirement after **234 appearances** and **146 goals**; the Portuguese FA has pledged to honor his career. *[Business Recorder](https://www.brecorder.com/news/40447784/portugal-pledge-to-honour-ronaldo-as-jesus-names-first-squad-after-captains-retirement)*
+- An English amateur cricketer, nicknamed **"Clicky Ponting,"** has been handed a **two-year suspension** for using finger-clicking to deceive umpires. *[Business Recorder](https://www.brecorder.com/news/40447781/clicky-ponting-handed-two-year-suspension-for-finger-clicking-deception)*
+- Olympic champion Imane Khelif is set to face 21-year-old Dutch boxer **Clarida Sarabia (4-0 record)** in a professional bout on **December 15** in Paris. *[Business Recorder](https://www.brecorder.com/news/40447780/olympic-champion-khelif-set-for-first-bout-since-paris-games-on-december-15)*
+- England's Nations League squad for matches against Croatia and Spain will exclude **Cole Palmer** but feature first-time call-up **Jobe Bellingham**. *[Business Recorder](https://www.brecorder.com/news/40447767/palmer-left-out-as-jobe-bellingham-earns-first-england-call-up)*
 
