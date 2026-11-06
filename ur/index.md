@@ -7,47 +7,39 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 05-Nov-2026 09:08PKT 
+ &lrm; 06-Nov-2026 21:10PKT 
 
-پڑھنے کا وقت : 6 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی بڑی کامیابی کے بعد برینٹ کروڈ (Brent crude) کی قیمتوں میں تقریباً 9 فیصد کمی واقع ہوئی ہے، جو کہ 100 ڈالر فی بیرل سے نیچے آ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447523/oil-and-data-centre-stocks-sink-after-us-midterms)*
-- برینٹ کروڈ کی قیمت میں 1.03 فیصد کمی کے بعد یہ 93.65 ڈالر فی بیرل اور ڈبلیو ٹی آئی (WTI) کروڈ 1.29 فیصد گر کر 86.98 ڈالر فی بیرل پر آگیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447519/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation)*
-- امریکی انتخابات کے نتائج کے بعد عالمی مارکیٹ میں ڈالر کی قدر میں کمی دیکھی گئی ہے، جبکہ جاپانی ین مستحکم ہوا ہے اور برطانوی پاؤنڈ سات ہفتوں کی بلند ترین سطح کے قریب ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447521/dollar-edges-lower-as-us-election-outcome-cheers-global-markets)*
-- بھارتی شیئرز میں مثبت رجحان متوقع ہے کیونکہ تیل کی قیمتیں دو ماہ کی کم ترین سطح پر آگئی ہیں؛ بدھ کے روز غیر ملکی سرمایہ کاروں نے بھارتی شیئرز میں 72.84 ارب روپے (769.65 ملین ڈالر) کی خریداری کی۔ *[Business Recorder](https://www.brecorder.com/news/40447522/indian-shares-set-to-open-higher-as-oil-hits-2-month-low-after-us-democratic-win)*
-- جاپان کے مرکزی بینک (BOJ) کے ستمبر کے اجلاس کے منٹس سے ظاہر ہوا ہے کہ دسمبر میں شرح سود میں مزید اضافے کے امکانات موجود ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447527/boj-debated-need-for-more-rate-hikes-scope-for-faster-moves-september-minutes-show)*
-- وزیر اعظم پی ٹی آئی کے مشیر بلال اظہر کے مطابق حکومت پٹرول اور ڈیزل کی قیمتوں میں کمی کے لیے ہر ممکن کوشش کر رہی ہے۔ *[ARY](https://arynews.tv/pm-seeks-every-opportunity-to-reduce-petrol-and-diesel-prices-says-bila-azhar)*
-- جے ایس بینک کی ذندگی (Zindigi) نے بیرون ملک مقیم پاکستانیوں کے لیے ڈیجیٹل بینک اکاؤنٹ کھولنے کی سہولت کے ساتھ 'ذندگی اوورسیز اکاؤنٹس' لانچ کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447518/zindigi-overseas-accounts-launched)*
-- ماہرین نے خبردار کیا ہے کہ خلیجی ممالک میں بھیجے جانے والے ترسیلات زر (remittances) میں ریکارڈ اضافہ ممکنہ طور پر خلیجی ممالک میں ملازمتوں کے خاتمے کے خطرے کو چھپا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447514/gulf-jobs-for-migrant-workers-record-remittance-inflows-may-be-masking-a-coming-collapse)*
-- سندھ حکومت تھر میں کوئلے کے منصوبوں سے حاصل ہونے والے رائلٹی فنڈز کو مقامی علاقوں کی ترقی کے لیے استعمال کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40447515/uplift-of-local-areas-in-thar-sindh-will-utilise-royalties-from-coal-projects-soomro)*
+- پاکستان اور ترکی نے تقریباً دو دہائیوں کے بعد آف شور تیل اور گیس کی تلاش کے عمل کو دوبارہ شروع کرنے کا فیصلہ کیا ہے، جس کے تحت ترک کمپنی TPOC کا ایک سیزمک جہاز 17 سے 20 نومبر کے درمیان کراچی پہنچے گا۔ *[Business Recorder](https://www.brecorder.com/news/40447783/pakistan-turkiye-to-revive-offshore-exploration-after-nearly-two-decades)*
+- سری لنکا کا اسٹاک انڈیکس 0.5 فیصد اضافے کے ساتھ 21,239.65 پوائنٹس پر بند ہوا، جبکہ کارسن کمبربچ پی ایل سی میں 9.4 فیصد کا بڑا اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447779/financials-and-consumer-staples-stocks-lift-sri-lankan-shares-higher)*
+- متحدہ عرب امارات کی اسٹاک مارکیٹ میں کمی آئی، جہاں ابوظہبی کا بینچ مارک انڈیکس 1.3 فیصد گر کر 18 ماہ کی کم ترین سطح پر آگیا، جبکہ انٹرنیشنل ہولڈنگ کا منافع 28 فیصد کم ہو کر 6.22 ارب درہم رہ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447778/uae-shares-fall-as-geopolitical-uncertainty-keeps-traders-cautious)*
+- اسپین نے یورپی سینٹرل بینک (ECB) کے صدر کے عہدے کے لیے سابق مرکزی بینک کے سربراہ پابلو ہرنینڈز ڈی کوس کی نامزدگی کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447776/spain-nominates-former-central-bank-head-de-cos-for-ecb-presidency-deputy-pm-says)*
+- ایچ بی ایل (HBL) نے اپنے معزز کلائنٹس کے لیے ایک نیا اور خصوصی 'ویزا انفینٹ کریڈٹ کارڈ' متعارف کروا دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447774/hbl-elevates-client-experience-with-launch-of-visa-infinite-creditcard)*
+- فلپائن کے مجموعی غیر ملکی ذخائر اکتوبر کے آخر میں 99.5 ارب ڈالر سے کم ہو کر 97.4 ارب ڈالر رہ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october)*
+- ملائیشیا میں پام آئل کی قیمتوں میں 2.72 فیصد کمی کے بعد یہ 4,258 رنگٹ فی میٹرک ٹن پر آگئی، جو کہ گزشتہ دو سالوں کی سب سے بڑی ہفتہ وار کمی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447772/palm-tumbles-posts-steepest-weekly-fall-in-nearly-two-years)*
+- گوگل کی پیرنٹ کمپنی الفابیٹ کے پاس کوالکم کے تقریباً 3 ملین شیئرز موجود ہیں، جن کی مالیت 547.9 ملین ڈالر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447771/alphabet-discloses-548-million-worth-of-qualcomm-stake)*
+- ٹیکنالوجی اسٹاکس میں گراوٹ کے باعث تانبے (Copper) کی قیمت 0.8 فیصد کم ہو کر 13,738 ڈالر فی میٹرک ٹن ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447768/copper-falls-heads-for-worst-week-since-march-on-ai-rout)*
 
 ### سائنس اور ٹیکنالوجی
-- گوگل نے خبردار کیا ہے کہ 'LLMjacking' سائبر حملے کلاؤڈ اے آئی (AI) صارفین کے لیے بھاری بلوں کا سبب بن رہے ہیں۔ *[ARY](https://arynews.tv/google-warns-llmjacking-cyberattacks-are-costing-cloud-ai-customers-massive-bills)*
-- پاکستان ٹیلی کمیونیکیشن اتھارٹی (PTA) نے BIGO LIVE اور Likee پلیٹ فارمز کو پاکستان میں باقاعدہ رجسٹر کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447513/pta-registers-bigo-live-likee-platforms-in-pakistan)*
-- پاکستان انوویشن کویسٹ (PIQ) کے تحت 10,000 طلباء اور 300 اساتذہ تک روبوٹکس اور STEM تعلیم کی رسائی کو وسعت دینے کا منصوبہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447512/piq-expanding-access-to-meaningful-robotics-stem-learning)*
-- پاکستان سافٹ ویئر ہاؤسز ایسوسی ایشن (P@SHA) کے 30 تکنیکی رہنماؤں کے وفد نے ناروے میں 'اوسلو انوویشن ویک 2026' میں شرکت کی تاکہ نوآرڈک مارکیٹ تک رسائی حاصل کی جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40447510/oslo-innovation-week-p-at-sha-opens-nordic-corridor-for-home-industry)*
+- یوکے کے ریگولیٹر آف کام کے مطابق، اسنیپ چیٹ (Snapchat) نے برطانیہ میں بچوں کو آن لائن خطرات سے بچانے کے لیے اپنا "فرینڈ فائنڈر" فیچر ڈیفالٹ کے طور پر بند کرنا شروع کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447782/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says)*
+- یورپی یونین نے ٹک ٹاک (TikTok) پر نقصان دہ الگورتھم کے ذریعے صارفین کو مخصوص مواد کے چکر میں پھنسانے کا الزام لگایا ہے، جس کی وجہ سے کمپنی کو اس کے عالمی سالانہ ٹرن اوور کا 6 فیصد تک جرمانہ ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447770/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects)*
 
-### سیاست
-- امریکی وسط مدتی انتخابات میں ڈیموکریٹس کی بڑی کامیابی نے خواتین اور اقلیتوں کے نمائندوں کے لیے تاریخی مواقع پیدا کیے ہیں، جس کے نتیجے میں ڈیموکریٹس نے ایوانِ نمائندگان اور سینیٹ پر کنٹرول حاصل کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447528/democratic-victories-bring-historic-breakthroughs-for-women-and-minorities)*
-- ڈیموکریٹس کو امریکی تجارتی ایجنڈے پر اثر انداز ہونے کا موقع ملے گا، تاہم صدر ٹرمپ کے ویٹو کا مقابلہ کرنا ان کے لیے مشکل ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40447526/democrats-gain-influence-over-trade-agenda-but-tariff-repeals-to-hit-trump-veto-wall)*
-- امریکی ریپبلکن پارٹی کے رہنماؤں نے مڈ ٹرم انتخابات میں شکست کے بعد ڈونلڈ ٹرمپ سے اپنی حکمت عملی تبدیل کرنے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/republicans-call-for-trump-to-change-course-after-midterm-drubbing)*
-- سابق وفاقی وزیر خرم دستگیر خان نے کہا ہے کہ امریکہ کا عالمی کردار سے پیچھے ہٹنا بین الاقوامی نظم میں بڑی تبدیلی ہے جس سے سمندری تجارت کو خطرہ لاحق ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447517/freedom-of-navigation-under-threat-us-withdrawal-from-global-role-a-significant-shift-in-intl-order-dastgir)*
-- پاکستان اور برطانیہ نے اسلام آباد میں ہونے والے دو طرفہ دہشت گردی مخالف مذاکرات میں افغانستان سے سرگرم گروہوں بشمول TTP کے بڑھتے ہوئے خطرات پر گہری تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40447511/ttp-other-groups-pakistan-uk-concerned-at-continuing-threat)*
+### موسم
+- یورپی کلائمیٹ مانیٹر کے مطابق 2026 کا سال ریکارڈ کا دوسرا گرم ترین سال بن سکتا ہے، جس میں عالمی درجہ حرارت کے صنعتی دور سے 1.5 ڈگری سیلسیس سے تجاوز کرنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447786/2026-most-likely-to-be-second-hottest-year-on-record-eu-monitor)*
 
 ### قومی
-- ایف آئی اے (FIA) نے البانیا کے ورک ویزا فراڈ کے سلسلے میں 2 ایجنٹوں کو گرفتار کر لیا ہے جو 15 لاکھ روپے کے فراڈ میں ملوث تھے۔ *[ARY](https://arynews.tv/fia-nabs-2-agents-in-albania-work-visa-fraud-involving-rs-1-5-million)*
-- 9 نومبر کو یومِ اقبال کے موقع پر عام تعطیل کا اعلان کیا گیا ہے۔ *[ARY](https://arynews.tv/public-holiday-announced-on-9-november-for-iqbal-day)*
-- سلمان اکرم راجہ کا دعویٰ ہے کہ پی ٹی آئی کے بانی کا بلڈ پریشر نارمل نہیں ہو رہا۔ *[ARY](https://arynews.tv/pti-founder-s-bp-not-returning-to-normal-claims-salman-akram-raja)*
-- این سی سی آئی اے (NCCIA) کے چھاپے کے دوران کراچی میں ایک کال سینٹر کے ملازمین کو 24 گھنٹے سے زائد وقت تک اندر روکے رکھا گیا۔ *[ARY](https://arynews.tv/nccia-raid-karachi-call-centre-employees-kept-inside-for-over-24-hours)*
-- سندھ انرجی اینڈ کلائمیٹ کانفرنس (SECC26) میں توانائی کی انصاف، شفاف فنانسنگ اور ماحولیاتی جوابدہی پر زور دیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447516/speakers-demand-energy-justice-accountability)*
+- پاکستان اور برطانیہ کے درمیان دہشت گردی، سائبر کرائم، امیگریشن اور دیگر سیکورٹی سے متعلقہ شعبوں میں تعاون بڑھانے پر اتفاق ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447769/pakistan-uk-agree-to-expand-cooperation-in-counterterrorism-cybercrime-immigration)*
+- امریکہ میں ڈیموکریٹس کی جیت کے حوالے سے پاکستان کے سیاسی رہنماؤں اور عام شہریوں کے درمیان مختلف ردعمل سامنے آئے ہیں، جہاں شہری معاشی بحران کے خاتمے کی امید کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447763/pakistans-leaders-dread-us-democrats-win-but-its-households-are-praying-for-it-reuters)*
 
 ### بین الاقوامی
-- سعودی وزارت تجارت نے کاروباری اداروں کے بینک اکاؤنٹس کے غلط استعمال پر سخت وارننگ جاری کر دی ہے۔ *[ARY](https://arynews.tv/saudi-ministry-of-commerce-sends-harsh-warning-over-misuse-of-establishment-bank-accounts)*
-- جنوبی کوریا نے امریکی دباؤ کے بعد اپنے اینٹی پائریسی یونٹ کے آپریشنز کو بحر ہرمز کے قریب تک بڑھانے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447525/south-korea-to-expand-anti-piracy-unit-operations-closer-to-strait-of-hormuz)*
+- خلیج میں تیل کے ٹینکر MT Velos Sapphire پر مبینہ میزائل حملے کے نتیجے میں ایک جہاز ران ہلاک ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447785/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf)*
+- یورپ کے مختلف ٹی وی چینلز بشمول RTE، Sky اور Nova TV کو بم دھمکیوں کے باعث اپنے پروگرام معطل کرنے پڑے۔ *[Business Recorder](https://www.brecorder.com/news/40447775/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe)*
 
 ### کھیل
-- وراٹ کوہلی نے ایک روزہ بین الاقوامی کرکٹ میں اپنی 80ویں نصف سنچری مکمل کی، انہوں نے آکلینڈ میں نیوزی لینڈ کے خلاف 51 گیندوں پر 74 رنز بنائے اور بھارت کو 5 وکٹوں سے فتح دلانے میں اہم کردار ادا کیا۔ *[Business Recorder](https://www.brecorder.com/news/40447529/kohli-in-the-runs-as-india-thrash-new-zealand-in-first-odi)*
-- امریکی فٹ بال ٹیم کے کھلاڑی پولسچ اور بالوگون کو CONCACAF نیشنز لیگ کے کوارٹر فائنلز کے لیے اسکواڈ میں شامل کر لیا گیا ہے۔ *[ARY](https://arynews.tv/pulisic-balogun-back-in-us-squad-for-concacaf-nations-league-quarters)*
-- ویلڈور وی (Valverde) کے شاندار گول کی بدولت ریئل میڈرڈ نے اے ای کے ایتھنز (AEK Athens) کے خلاف دیر سے جیت حاصل کر لی۔ *[ARY](https://arynews.tv/valverde-blast-snatches-real-madrid-late-win-at-aek-athens)*
+- پرتگال کے مشہور فٹ بال کھلاڑی کرسٹیانو رونالڈو نے بین الاقوامی فٹ بال سے ریٹائرمنٹ کا اعلان کر دیا ہے، انہوں نے اپنے کیریئر میں 234 میچز میں 146 گول کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447784/portugal-pledge-to-honour-ronaldo-as-jesus-names-first-squad-after-captains-retirement)*
+- انگلینڈ کے ایک مقامی کرکٹر کو امپائرز کو دھوکہ دینے کے الزام میں دو سال کے لیے تمام کرکٹ مقابلوں سے معطل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447781/clicky-ponting-handed-two-year-suspension-for-finger-clicking-deception)*
+- اولمپک چیمپئن ایمان خلیف 15 دسمبر کو پیرس میں ڈچ باکسر کلاریڈا سارابیا (جس کا ریکارڈ 4-0 ہے) کے خلاف پہلا مقابلہ کریں گی۔ *[Business Recorder](https://www.brecorder.com/news/40447780/olympic-champion-khelif-set-for-first-bout-since-paris-games-on-december-15)*
+- انگلینڈ کی فٹ بال ٹیم کے اسکواڈ میں کول پالمر کو شامل نہیں کیا گیا، جبکہ جوب بیلیہمن کو پہلی بار سینئر اسکواڈ میں موقع دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447767/palmer-left-out-as-jobe-bellingham-earns-first-england-call-up)*
 
