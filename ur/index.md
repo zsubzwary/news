@@ -7,39 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 06-Nov-2026 21:10PKT 
+ &lrm; 08-Nov-2026 09:08PKT 
 
-پڑھنے کا وقت : 4 منٹ 
+پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان اور ترکی نے تقریباً دو دہائیوں کے بعد آف شور تیل اور گیس کی تلاش کے عمل کو دوبارہ شروع کرنے کا فیصلہ کیا ہے، جس کے تحت ترک کمپنی TPOC کا ایک سیزمک جہاز 17 سے 20 نومبر کے درمیان کراچی پہنچے گا۔ *[Business Recorder](https://www.brecorder.com/news/40447783/pakistan-turkiye-to-revive-offshore-exploration-after-nearly-two-decades)*
-- سری لنکا کا اسٹاک انڈیکس 0.5 فیصد اضافے کے ساتھ 21,239.65 پوائنٹس پر بند ہوا، جبکہ کارسن کمبربچ پی ایل سی میں 9.4 فیصد کا بڑا اضافہ دیکھا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447779/financials-and-consumer-staples-stocks-lift-sri-lankan-shares-higher)*
-- متحدہ عرب امارات کی اسٹاک مارکیٹ میں کمی آئی، جہاں ابوظہبی کا بینچ مارک انڈیکس 1.3 فیصد گر کر 18 ماہ کی کم ترین سطح پر آگیا، جبکہ انٹرنیشنل ہولڈنگ کا منافع 28 فیصد کم ہو کر 6.22 ارب درہم رہ گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447778/uae-shares-fall-as-geopolitical-uncertainty-keeps-traders-cautious)*
-- اسپین نے یورپی سینٹرل بینک (ECB) کے صدر کے عہدے کے لیے سابق مرکزی بینک کے سربراہ پابلو ہرنینڈز ڈی کوس کی نامزدگی کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447776/spain-nominates-former-central-bank-head-de-cos-for-ecb-presidency-deputy-pm-says)*
-- ایچ بی ایل (HBL) نے اپنے معزز کلائنٹس کے لیے ایک نیا اور خصوصی 'ویزا انفینٹ کریڈٹ کارڈ' متعارف کروا دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447774/hbl-elevates-client-experience-with-launch-of-visa-infinite-creditcard)*
-- فلپائن کے مجموعی غیر ملکی ذخائر اکتوبر کے آخر میں 99.5 ارب ڈالر سے کم ہو کر 97.4 ارب ڈالر رہ گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447773/philippines-gross-foreign-reserves-at-974-billion-at-end-october)*
-- ملائیشیا میں پام آئل کی قیمتوں میں 2.72 فیصد کمی کے بعد یہ 4,258 رنگٹ فی میٹرک ٹن پر آگئی، جو کہ گزشتہ دو سالوں کی سب سے بڑی ہفتہ وار کمی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447772/palm-tumbles-posts-steepest-weekly-fall-in-nearly-two-years)*
-- گوگل کی پیرنٹ کمپنی الفابیٹ کے پاس کوالکم کے تقریباً 3 ملین شیئرز موجود ہیں، جن کی مالیت 547.9 ملین ڈالر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447771/alphabet-discloses-548-million-worth-of-qualcomm-stake)*
-- ٹیکنالوجی اسٹاکس میں گراوٹ کے باعث تانبے (Copper) کی قیمت 0.8 فیصد کم ہو کر 13,738 ڈالر فی میٹرک ٹن ہوگئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447768/copper-falls-heads-for-worst-week-since-march-on-ai-rout)*
+- پاکستان ریلوے نے جنوری 2027 تک 14 مال بردار ٹرینوں کے آپریشن کا ہدف مقرر کیا ہے۔ *[ARY](https://arynews.tv/pakistan-railways-targets-14-freight-trains-by-january-2027)*
+- حکومت نے نئی آٹو پالیسی متعارف کرائی ہے جس کا ہدف گاڑیوں کی برآمدات کے ذریعے 6 ارب ڈالر حاصل کرنا ہے۔ *[ARY](https://arynews.tv/pakistan-unveils-new-auto-policy-targets-6bn-in-vehicle-exports)*
+- اسلام آباد ہائی کورٹ نے ایف بی آر کے الیکٹرانک پروڈکشن مانیٹرنگ سسٹم کے خلاف 300 سے زائد صنعتی یونٹس کی درخواستوں پر فیصلہ محفوظ کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447944/production-monitoring-mechanism-ihc-reserves-judgment-on-pleas-of-industrial-units)*
+- جاز ورلڈ (JazzWorld) نے 2026 کی تیسری سہ ماہی میں 144.9 ارب روپے کی آمدنی رپورٹ کی ہے، جبکہ ڈیجیٹل سروسز سے حاصل ہونے والی آمدنی 47.9 فیصد اضافے کے ساتھ 58.1 ارب روپے رہی۔ *[Business Recorder](https://www.brecorder.com/news/40447955/jazzworld-reports-revenue-of-pkr1449bn-for-third-quarter-of-2026)*
+- حکومت نے چھوٹے اور درمیانے درجے کے اداروں (SMEs) کے لیے ایکسپورٹ فائننس اسکیم کے تحت 300 ارب روپے (تقریباً 1.1 ارب ڈالر) مختص کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447960/export-finance-scheme-govt-allocates-rs300bn-for-smes)*
+- نیپرا (Nepra) کے اندر ICP کی قیمت کو 22.98 روپے سے بڑھا کر 25.30 روپے فی یونٹ کرنے کے فیصلے پر اختلاف پایا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447965/nepra-seen-divided-over-icps-upward-revision)*
+- ورلڈ بینک نے سندھ میں 100 ملین ڈالر کے پبلک سیکٹر اصلاحات کے پروگرام کی کارکردگی کو "مطمئن" سے کم کر کے "درمیانے درجے کے اطمینان بخش" پر گرا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40447963/wb-downgrades-sindh-project-implementation-progress)*
+- PHDEC اور GPI نے بلوچستان میں 20 اضلاع اور 22 مقامات پر پھلوں اور سبزیوں کی پروسیسنگ کے ذریعے برآمدات بڑھانے کے مواقع تلاش کیے۔ *[Business Recorder](https://www.brecorder.com/news/40447945/phdec-gpi-explore-export-opportunities-for-balochistans-horticultural-produce)*
+- سی سی پی (CCP) نے نیسلے پاکستان کے بوتل بند پانی کے کاروبار کو پلاٹینم ایکویٹی کے ساتھ جوائنٹ وینچر میں تبدیل کرنے کی منظوری دے دی۔ *[Business Recorder](https://www.brecorder.com/news/40447950/ccp-approves-nestle-platinum-equitys-joint-venture)*
+- فیصل آباد چیمبر آف کامرس (FCCI) نے ٹرکوں کی اسمبلنگ اور مینوفیکچرنگ کے لیے چینی سرمایہ کاری کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40447958/fcci-president-calls-for-chinese-investment-in-truck-assembly-and-manufacturing)*
 
 ### سائنس اور ٹیکنالوجی
-- یوکے کے ریگولیٹر آف کام کے مطابق، اسنیپ چیٹ (Snapchat) نے برطانیہ میں بچوں کو آن لائن خطرات سے بچانے کے لیے اپنا "فرینڈ فائنڈر" فیچر ڈیفالٹ کے طور پر بند کرنا شروع کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447782/snapchat-starts-disabling-friend-finder-feature-for-uk-children-regulator-says)*
-- یورپی یونین نے ٹک ٹاک (TikTok) پر نقصان دہ الگورتھم کے ذریعے صارفین کو مخصوص مواد کے چکر میں پھنسانے کا الزام لگایا ہے، جس کی وجہ سے کمپنی کو اس کے عالمی سالانہ ٹرن اوور کا 6 فیصد تک جرمانہ ہو سکتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447770/eu-charges-tiktok-over-harmful-algorithmic-rabbit-hole-effects)*
+- اینتھروپک (Anthropic) نے یورپی یونین کے قوانین کی تعمیل کے لیے اپنے کلاڈ (Claude) AI کے تمام ٹیکسٹ میں غیر مرئی واٹر مارکس شامل کر دیے ہیں۔ *[ARY](https://arynews.tv/anthropic-adds-invisible-watermarks-to-all-claude-ai-text-to-meet-eu-laws)*
+- ماحولیاتی گروپوں نے مصنوعی ذہانت (AI) کو اپنانے کے ساتھ ساتھ ڈیٹا سینٹرز کے ماحولیاتی اثرات سے متعلق انتباہ جاری کیا ہے۔ *[ARY](https://arynews.tv/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts)*
 
 ### موسم
-- یورپی کلائمیٹ مانیٹر کے مطابق 2026 کا سال ریکارڈ کا دوسرا گرم ترین سال بن سکتا ہے، جس میں عالمی درجہ حرارت کے صنعتی دور سے 1.5 ڈگری سیلسیس سے تجاوز کرنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447786/2026-most-likely-to-be-second-hottest-year-on-record-eu-monitor)*
+- کراچی میں درجہ حرارت کے اتار چڑھاؤ کے باعث صحت کے خطرات کا خدشہ، شہر کا زیادہ سے زیادہ درجہ حرارت 38 ڈگری سینٹی گریڈ اور کم سے کم 21 ڈگری سینٹی گریڈ ریکارڈ کیا گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447953/health-risks-warned-of-due-to-wide-swings-in-temperatures)*
 
 ### قومی
-- پاکستان اور برطانیہ کے درمیان دہشت گردی، سائبر کرائم، امیگریشن اور دیگر سیکورٹی سے متعلقہ شعبوں میں تعاون بڑھانے پر اتفاق ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447769/pakistan-uk-agree-to-expand-cooperation-in-counterterrorism-cybercrime-immigration)*
-- امریکہ میں ڈیموکریٹس کی جیت کے حوالے سے پاکستان کے سیاسی رہنماؤں اور عام شہریوں کے درمیان مختلف ردعمل سامنے آئے ہیں، جہاں شہری معاشی بحران کے خاتمے کی امید کر رہے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447763/pakistans-leaders-dread-us-democrats-win-but-its-households-are-praying-for-it-reuters)*
+- پشاور میں تجاوزات کے خلاف بڑے آپریشن کے دوران 950 سے زائد دکانیں اور غیر قانونی تعمیرات مسمار کر دی گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40447952/anti-encroachment-drive-over-950-shops-illegal-constructions-demolished-across-peshawar)*
+- اسلام آباد میں اسٹریٹ کرائم کے واقعات میں اضافہ، گزشتہ ہفتے موٹر سائیکل اور کار چوری کے متعدد واقعات رپورٹ ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40447948/street-crimes-continue-unabated-in-islamabad)*
+- آئی ای ایس سی او (IESCO) نے بجلی کی معطلی کا نیا شیڈول جاری کر دیا ہے۔ *[ARY](https://arynews.tv/iesco-notifies-power-suspension-schedule)*
+- یو این ویمن پاکستان نے صنفی مساوات کو فروغ دینے پر 52 درخواست گزاروں میں سے 17 کامیاب امیدواروں کو اعزاز سے نوازا۔ *[Business Recorder](https://www.brecorder.com/news/40447946/un-women-pakistan-honours-17-award-recipients-for-advancing-gender-equality)*
 
 ### بین الاقوامی
-- خلیج میں تیل کے ٹینکر MT Velos Sapphire پر مبینہ میزائل حملے کے نتیجے میں ایک جہاز ران ہلاک ہو گیا۔ *[Business Recorder](https://www.brecorder.com/news/40447785/seafarer-killed-in-suspected-missile-attack-on-tanker-in-gulf)*
-- یورپ کے مختلف ٹی وی چینلز بشمول RTE، Sky اور Nova TV کو بم دھمکیوں کے باعث اپنے پروگرام معطل کرنے پڑے۔ *[Business Recorder](https://www.brecorder.com/news/40447775/bomb-threats-warning-the-clock-is-ticking-disrupt-tv-channels-across-europe)*
+- امریکی فوج ایران کی زمینی تجارت کو محدود کرنے کے لیے بحری ناکہ بندی کے بعد نئے اقدامات پر غور کر رہی ہے۔ *[ARY](https://arynews.tv/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce)*
+- پاکستان اور سوڈان کے درمیان سرکاری اور سفارتی پاسپورٹ ہولڈرز کے لیے ویزا فری داخلے کے معاہدے پر دستخط ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40447964/pakistan-sudan-sign-visa-free-entry-agreement-for-officials)*
 
 ### کھیل
-- پرتگال کے مشہور فٹ بال کھلاڑی کرسٹیانو رونالڈو نے بین الاقوامی فٹ بال سے ریٹائرمنٹ کا اعلان کر دیا ہے، انہوں نے اپنے کیریئر میں 234 میچز میں 146 گول کیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40447784/portugal-pledge-to-honour-ronaldo-as-jesus-names-first-squad-after-captains-retirement)*
-- انگلینڈ کے ایک مقامی کرکٹر کو امپائرز کو دھوکہ دینے کے الزام میں دو سال کے لیے تمام کرکٹ مقابلوں سے معطل کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447781/clicky-ponting-handed-two-year-suspension-for-finger-clicking-deception)*
-- اولمپک چیمپئن ایمان خلیف 15 دسمبر کو پیرس میں ڈچ باکسر کلاریڈا سارابیا (جس کا ریکارڈ 4-0 ہے) کے خلاف پہلا مقابلہ کریں گی۔ *[Business Recorder](https://www.brecorder.com/news/40447780/olympic-champion-khelif-set-for-first-bout-since-paris-games-on-december-15)*
-- انگلینڈ کی فٹ بال ٹیم کے اسکواڈ میں کول پالمر کو شامل نہیں کیا گیا، جبکہ جوب بیلیہمن کو پہلی بار سینئر اسکواڈ میں موقع دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40447767/palmer-left-out-as-jobe-bellingham-earns-first-england-call-up)*
+- سوفی کمننگ نے خواتین کے باسکٹ بال میں کوچنگ کے معیار کو مزید سخت بنانے کا مطالبہ کیا ہے۔ *[ARY](https://arynews.tv/sophie-cunningham-calls-for-tougher-coaching-in-womens-basketball)*
+- ڈبلیو این بی اے (WNBA) نے کیٹلن کلارک کے وائرل "چیزی بال چیلنج" پر ردعمل دیا۔ *[ARY](https://arynews.tv/wnba-reacts-to-caitlin-clarks-viral-cheeseball-challenge)*
+
+### صحت
+- پاکستان میں بوتل بند پانی کے 27 برانڈز کو پینے کے لیے غیر محفوظ قرار دے دیا گیا ہے۔ *[ARY](https://arynews.tv/27-bottled-water-brands-declared-unsafe-for-consumption-in-pakistan)*
+- سندھ فوڈ اتھارٹی نے کراچی کے ڈیفنس ایریا میں پرانی اشیاء اور غیر معیاری خوراک پانے پر ایک کیفے پر 2 لاکھ روپے جرمانہ عائد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40447947/sfa-fines-rs200000-for-food-safety-violations)*
+- لاہور میں پولیو مہم کے پہلے پانچ دنوں میں 2,153,020 بچوں کو پولیو کے قطرے پلائے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40447959/polio-teams-ensure-robust-coverage-in-targeted-areas)*
+
+### دیگر
+- پی پی ای پی سی اے (PPEPCA) نے اپنی سماجی ذمہ داریوں (CSR) کے حوالے سے کانفرنس کا انعقاد کیا جس میں تعلیم اور صحت کے شعبوں میں کمپنی کے تعاون پر روشنی ڈالی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40447951/petroleum-companies-highlight-their-csr-contributions)*
 
