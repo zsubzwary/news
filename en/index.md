@@ -4,52 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 08-Nov-2026 09:04PKT
+Published at: 08-Nov-2026 21:04PKT
 
 Time to read: 4 mins
 
-### Economy
-- Pakistan Railways has set a target to operate **14 freight trains** by January 2027. *[ARY](https://arynews.tv/pakistan-railways-targets-14-freight-trains-by-january-2027)*
-- The government's new **Auto Policy** aims to achieve **$6 billion** in vehicle exports while encouraging electric vehicle (EV) manufacturing and reducing petroleum dependence. *[ARY](https://arynews.tv/pakistan-unveils-new-auto-policy-targets-6bn-in-vehicle-exports)* *[Business Recorder](https://www.brecorder.com/news/40447961/pm-approves-final-draft-of-auto-policy)*
-- The Islamabad High Court (IHC) has reserved judgment on constitutional petitions filed by over **300 industrial units** challenging the FBR's electronic production monitoring system. *[Business Recorder](https://www.brecorder.com/news/40447944/production-monitoring-mechanism-ihc-reserves-judgment-on-pleas-of-industrial-units)*
-- PHDEC and GPI are exploring export opportunities for Balochistan’s horticulture, with processing facilities being developed across **22 locations** in **20 districts**. *[Business Recorder](https://www.brecorder.com/news/40447945/phdec-gpi-explore-export-opportunities-for-balochistans-horticultural-produce)*
-- The Competition Commission of Pakistan (CCP) has approved a joint venture between **Nestlé Pakistan** and a **Platinum Equity**-controlled entity for its bottled water business. *[Business Recorder](https://www.brecorder.com/news/40447950/ccp-approves-nestle-platinum-equitys-joint-venture)*
-- JazzWorld reported Q3 2026 revenue of **PKR 144.9 billion** (a **26.6%** YoY increase), with digital services revenue growing **47.9%** to **PKR 58.1 billion**. *[Business Recorder](https://www.brecorder.com/news/40447955/jazzworld-reports-revenue-of-pkr1449bn-for-third-quarter-of-2026)*
-- The government has allocated **Rs300 billion** (approximately **USD 1.1 billion**) for small and medium enterprises (SMEs) under the Export Finance Scheme (EFS). *[Business Recorder](https://www.brecorder.com/news/40447960/export-finance-scheme-govt-allocates-rs300bn-for-smes)*
-- Nepra is facing internal division over the Incremental Consumption Package (ICP), with a proposed upward revision from **Rs22.98** to **Rs25.30 per unit**. *[Business Recorder](https://www.brecorder.com/news/40447965/nepra-seen-divided-over-icps-upward-revision)*
-- The FCCI president has called for Chinese investment in truck assembly and manufacturing as part of the CPEC industrial cooperation phase. *[Business Recorder](https://www.brecorder.com/news/40447958/fcci-president-calls-for-chinese-investment-in-truck-assembly-and-manufacturing)*
-- The LPG Committee held its first meeting under a deregulated framework to address availability and pricing concerns. *[Business Recorder](https://www.brecorder.com/news/40447962/lpg-committee-discusses-auction-mechanism)*
-- The Pakistan Petroleum Exploration & Production Companies Association (PPEPCA) highlighted industry contributions to health and education at a recent CSR conference. *[Business Recorder](https://www.brecorder.com/news/40447951/petroleum-companies-highlight-their-csr-contributions)*
-
 ### Science & Technology
-- Anthropic has implemented **invisible watermarks** on all Claude AI text to comply with European Union laws. *[ARY](https://arynews.tv/anthropic-adds-invisible-watermarks-to-all-claude-ai-text-to-meet-eu-laws)*
-- Environmental groups are increasingly adopting AI technologies while simultaneously warning about the environmental impacts of data centers. *[ARY](https://arynews.tv/environmental-groups-embrace-ai-even-as-they-warn-of-data-center-impacts)*
-
-### Weather
-- Karachi's Met Office warned of health risks due to wide temperature swings, recording a maximum of **38°C** (3.9°C above normal) and a minimum of **21°C**. *[Business Recorder](https://www.brecorder.com/news/40447953/health-risks-warned-of-due-to-wide-swings-in-temperatures)*
+- Leaked trophies for **GTA 6** reveal the inclusion of **55 solo objectives** for console players. *[ARY](https://arynews.tv/leaked-gta-6-trophies-reveal-55-solo-objectives-for-console-players)*
+- OpenAI has launched a restricted **GPT-6** cyber penetration testing software tool. *[ARY](https://arynews.tv/openai-launches-restricted-gpt-6-cyber-penetration-testing-software-tool)*
+- Rockstar Games has built **six real drivable cars** from GTA 6 to be used for a promotion in Miami. *[ARY](https://arynews.tv/rockstar-games-builds-six-real-drivable-gta-6-cars-for-miami-promotion)*
+- Locally built robots named **Robia and Jojo** are being used to serve diners at the Sicilian restaurant in Karachi. *[Business Recorder](https://www.brecorder.com/news/40448005/pakistan-built-robots-serve-taste-of-future-to-karachi-diners)*
 
 ### Politics
-- Federal Minister Attaullah Tarar stated that the revival of international sporting events and increased economic activity are improving Pakistan's international image. *[Business Recorder](https://www.brecorder.com/news/40447954/successful-sporting-events-improving-pakistans-image-tarar)*
+- JUI-F leader **Asad Mahmood** has been declared an absconder. *[ARY](https://arynews.tv/jui-f-leader-asad-mahmood-declared-absconder)*
+- Khyber Pakhtunkhwa Governor **Faisal Karim Kundi** stated that the province's security policy will be determined in Islamabad rather than Kabul or Jalalabad. *[Business Recorder](https://www.brecorder.com/news/40448006/khyber-pakhtunkhwa-security-policy-will-be-set-in-islamabad-not-kabul-kundi)*
+- Prime Minister **Shehbaz Sharif** met with PML-N President **Nawaz Sharif** in Lahore to discuss the country's political and economic situation, specifically the law and order in KP. *[Business Recorder](https://www.brecorder.com/news/40448002/pm-shehbaz-meets-nawaz-sharif-discusses-political-and-economic-situation)*
 
 ### National
-- **27 bottled water brands** have been declared unsafe for consumption in Pakistan. *[ARY](https://arynews.tv/27-bottled-water-brands-declared-unsafe-for-consumption-in-pakistan)*
-- IESCO has issued a new power suspension schedule. *[ARY](https://arynews.tv/iesco-notifies-power-suspension-schedule)*
-- UN Women Pakistan recognized **17 winners and runners-up** from a pool of **52 applicants** for advancing gender equality in 2026. *[Business Recorder](https://www.brecorder.com/news/40447946/un-women-pakistan-honours-17-award-recipients-for-advancing-gender-equality)*
-- The Sindh Food Authority (SFA) fined a Karachi cafe **Rs200,000** for safety violations, including the sale of expired food and the presence of hair in products. *[Business Recorder](https://www.brecorder.com/news/40447947/sfa-fines-rs200000-for-food-safety-violations)*
-- Islamabad reported rising street crime, with Sumbal Police Station recording **5 motorcycle thefts** and Sawan Town recording **4** during the past week. *[Business Recorder](https://www.brecorder.com/news/40447948/street-crimes-continue-unabated-in-islamabad)*
-- An anti-encroachment drive in Peshawar resulted in the demolition of over **950 shops** and illegal constructions. *[Business Recorder](https://www.brecorder.com/news/40447952/anti-encroachment-drive-over-950-shops-illegal-constructions-demolished-across-peshawar)*
-- The Sindh Governor urged industrialists to support employment initiatives for the youth of Balochistan. *[Business Recorder](https://www.brecorder.com/news/40447956/industrialists-urged-to-create-jobs-for-balochistans-youth)*
-- The World Bank downgraded the implementation of its **USD 100 million** public sector reform program in Sindh to “moderately satisfactory.” *[Business Recorder](https://www.brecorder.com/news/40447963/wb-downgrades-sindh-project-implementation-progress)*
+- Police officer **Javed Abro** was martyred following firing at his home in Karachi. *[ARY](https://arynews.tv/police-officer-javed-abro-martyred-in-firing-at-karachi-home)*
+- The Hindu community in Pakistan affirmed their safety during Diwali celebrations, stating that the army ensures their security. *[ARY](https://arynews.tv/diwali-celebrations-in-pakistan-a-festive-journey)*
+- News anchor **Rabia Ahsan** was shot dead at her residence in Rawalpindi. *[ARY](https://arynews.tv/news-anchor-rabia-ahsan-shot-dead-at-home-in-rawalpindi)*
+- President **Asif Ali Zardari** and Prime Minister **Shehbaz Sharif** extended greetings to the Hindu community on the occasion of Diwali. *[Business Recorder](https://www.brecorder.com/news/40447997/president-zardari-pm-shehbaz-greet-hindu-community-on-diwali)*
 
 ### International
-- The US military is considering expanding naval blockades to include restrictions on Iranian land commerce. *[ARY](https://arynews.tv/expanding-on-naval-blockade-us-military-looks-to-restrict-iranian-land-commerce)*
-- Pakistan and Sudan have signed a bilateral agreement allowing **visa-free entry** for holders of official and diplomatic passports. *[Business Recorder](https://www.brecorder.com/news/40447964/pakistan-sudan-sign-visa-free-entry-agreement-for-officials)*
+- Bahrain is set to bring back its ambassador following a diplomatic breakthrough after a visit by the Iraqi PM. *[ARY](https://arynews.tv/bahrain-to-bring-back-ambassador-in-historic-diplomatic-breakthrough-after-iraqi-pm-visit)*
+- The US military is forming a **20-member task force** to disrupt land transit routes into Iran used for weapon shipments. *[Business Recorder](https://www.brecorder.com/news/40448000/us-launches-task-force-to-disrupt-land-transit-routes-into-iran)*
+- Israel's defense minister, **Israel Katz**, stated that the mission regarding Iran is "not complete" due to their pursuit of nuclear weapons. *[Business Recorder](https://www.brecorder.com/news/40447999/israel-defence-minister-says-mission-not-complete-on-iran)*
+- **Three oil tankers** caught fire in the Strait of Hormuz, according to statements from the Iranian Revolutionary Guards. *[Business Recorder](https://www.brecorder.com/news/40447998/iran-says-3-tankers-caught-fire-in-hormuz)*
+- The Russian-controlled **Zaporizhzhia nuclear plant** lost its external power supply after the Ferosplavna power line was disconnected; backup diesel generators are currently in use. *[Business Recorder](https://www.brecorder.com/news/40447993/zaporizhzhia-nuclear-plant-loses-external-power-supply-russian-installed-management-says)*
+- Saudi airstrikes near Sanaa, Yemen, reportedly killed **33 people and wounded 39**. *[Business Recorder](https://www.brecorder.com/news/40447990/houthi-run-health-ministry-says-airstrikes-kill-33-near-yemen-capital)*
+- A US military aircraft disabled a **St. Kitts-flagged cargo vessel** in the Gulf of Oman for attempting to break the US blockade of Iran. *[Business Recorder](https://www.brecorder.com/news/40447989/us-military-says-it-disabled-cargo-vessel-in-gulf-of-oman)*
+- The Saudi-led coalition intercepted and destroyed **two ballistic missiles** and **two cruise missiles** fired towards Riyadh. *[Business Recorder](https://www.brecorder.com/news/40447988/saudi-led-coalition-intercepts-two-houthi-missiles-fired-towards-riyadh)*
+- New Zealand faces political uncertainty as the National Party and its partners are projected to hold **67 of 131 seats**. *[Business Recorder](https://www.brecorder.com/news/40448007/after-close-vote-new-zealand-must-wait-weeks-for-new-government)*
+- A mass shooting in **Krakow, Poland**, resulted in **six deaths** before a gunman was arrested by police. *[Business Recorder](https://www.brecorder.com/news/40447986/poland-in-shock-after-six-die-in-krakow-mass-shooting)*
 
 ### Sports
-- WNBA player Sophie Cunningham has publicly called for more rigorous coaching standards in women’s basketball. *[ARY](https://arynews.tv/sophie-cunningham-calls-for-tougher-coaching-in-womens-basketball)*
-- The WNBA has reacted to a viral "cheeseball challenge" performed by Caitlin Clark. *[ARY](https://arynews.tv/wnba-reacts-to-caitlin-clarks-viral-cheeseball-challenge)*
-- Sophie Cunningham's off-court professional successes have been noted to surpass several NBA stars. *[ARY](https://arynews.tv/sophie-cunninghams-off-court-success-leaves-nba-stars-behind)*
+- Kavem Hodge scored an unbeaten **140** (including 17 fours and 1 six) to extend the West Indies' lead to **315** against Bangladesh. *[Business Recorder](https://www.brecorder.com/news/40448003/hodge-hits-140-as-west-indies-build-lead-over-bangladesh)*
+- Captain **Babar Azam** leads the overhauled Pakistan Test squad for the series against Sri Lanka beginning in Rawalpindi. *[Business Recorder](https://www.brecorder.com/news/40448001/babar-azam-says-new-pakistan-test-squad-ready-to-fight-against-sri-lanka)*
+- **Lionel Messi** became the first player to win the MLS Golden Boot in consecutive seasons, scoring **26 goals in 31 matches**. *[Business Recorder](https://www.brecorder.com/news/40447996/messi-becomes-first-to-win-mls-golden-boot-in-consecutive-seasons)*
+- **Hamza Zahoor** scored an unbeaten **100 off 108 balls** to lead Pakistan U19 to a three-wicket victory over India. *[Business Recorder](https://www.brecorder.com/news/40447994/hamza-zahoors-unbeaten-century-guides-pakistan-u19-to-victory-over-india)*
+- **Elena Rybakina** has withdrawn from the WTA Finals; Ukraine's **Marta Kostyuk** will replace her in the eight-player field. *[Business Recorder](https://www.brecorder.com/news/40447995/rybakina-withdrawal-a-blow-but-wta-finals-field-remains-strong-says-muguruza)*
+- England white-ball coach Brendon McCullum expressed confidence ahead of the ODI series in Perth after a **92-run victory** over Western Australia. *[Business Recorder](https://www.brecorder.com/news/40447992/englands-cricketers-ready-to-counter-perth-bounce-says-mccullum)*
+- Former Australian cricketer **Usman Khawaja** denied throwing anyone "under the bus" regarding the 2018 ball-tampering scandal. *[Business Recorder](https://www.brecorder.com/news/40447991/khawaja-denies-throwing-anyone-under-the-bus-with-comments-about-ball-tampering-scandal)*
+- The future of **Sophie Cunningham** remains a subject of media speculation. *[ARY](https://arynews.tv/sophie-cunninghams-future-in-question-amid-media-rise)*
 
 ### Health
-- During a five-day anti-polio campaign in Lahore, teams administered drops to **2,153,020 children** across **1,499,695 households**. *[Business Recorder](https://www.brecorder.com/news/40447959/polio-teams-ensure-robust-coverage-in-targeted-areas)*
+- The CMU has renewed its nationwide campaign to promote **HIV awareness**. *[ARY](https://arynews.tv/cmu-renews-nationwide-campaign-to-promote-hiv-awareness)*
 
