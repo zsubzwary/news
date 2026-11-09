@@ -4,44 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Nov-2026 09:04PKT
+Published at: 09-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- IESCO has introduced a 24/7 QR code payment facility for its consumers to facilitate easier transactions. *[ARY](https://arynews.tv/iesco-introduces-24-7-qr-code-payment-facility-for-consumers)*
-- The NCCIA successfully returned Rs 2.94 million to a victim of online fraud. *[ARY](https://arynews.tv/nccia-returns-rs-2-94-million-to-online-fraud-victim)*
-- The FIA Islamabad Zone arrested a woman involved in a Rs 5.2 million UK work visa fraud using fake documents, recovering Rs 2 million during the investigation. *[Business Recorder](https://www.brecorder.com/news/40448045/fia-arrests-woman-in-rs52m-uk-visa-fraud-recovers-rs2m)*
-- Pakistan Customs has initiated legal proceedings against M/s Shippo Private Limited at the EPZ Risalpur for alleged import irregularities and significant shortages of goods. *[Business Recorder](https://www.brecorder.com/news/40448049/epz-risalpur-unit-customs-uncovers-import-irregularities-shortage-of-goods)*
-- The Peshawar High Court (PHC) ruled that Federal Excise Duty (FED) cannot be levied on unprocessed tobacco and ordered the release of 3,375 kilograms of seized hand-stemmed tobacco. *[Business Recorder](https://www.brecorder.com/news/40448054/phc-rules-fed-on-unprocessed-tobacco-is-illegal)*
-- US Treasury prices fell, pushing yields higher following stronger-than-expected job creation in the US economy. *[Business Recorder](https://www.brecorder.com/news/40448061/us-bonds-fall-after-thursdays-rally)*
+- The Sri Lankan CSE All-Share index rose 1.37% to 21,531.37 points, with Commercial Bank of Ceylon PLC and Hatton National Bank PLC increasing by 2.9% and 1.5% respectively. *[Business Recorder](https://www.brecorder.com/news/40448129/sri-lankan-shares-climb-as-financials-gain)*
+- Gulf markets closed higher following US President Donald Trump's indication that fresh strikes on Iran are unlikely if talks continue. *[Business Recorder](https://www.brecorder.com/news/40448128/gulf-markets-gain-on-hopes-iran-strikes-will-stay-off-the-table)*
+- The IMF has launched a review of Ukraine’s lending programme, which has the potential to unlock $1.67 billion in fresh financing. *[Business Recorder](https://www.brecorder.com/news/40448125/imf-launches-ukraine-loan-review-that-could-unlock-167-billion)*
+- The Saudi-Pakistan Joint Business Council launched a private equity fund of "multi-hundred million" scale, with 75% of funds earmarked for investment in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40448123/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment)*
+- Copper prices on the London Metal Exchange (LME) rose 0.7% to $13,869 per metric ton due to tight supply in China. *[Business Recorder](https://www.brecorder.com/news/40448120/copper-rebounds-on-firmer-risk-sentiment-and-tight-supply-in-china)*
+- Indian share benchmarks reached an 8-month high, with the Nifty 50 rising 0.23% to 25,044.65 and the Sensex adding 0.13% to 81,106.65; meanwhile, Brent crude fell 1% to approximately $97 per barrel. *[Business Recorder](https://www.brecorder.com/news/40448119/indian-shares-inch-higher-to-close-at-8-month-high-as-crude-oil-drops)*
+- The Indian rupee broke its six-day winning streak, closing at 93.9275 per dollar after hitting a six-month high of 93.69. *[Business Recorder](https://www.brecorder.com/news/40448118/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids)*
+- Tesla CEO Elon Musk announced the company will refund many Cybertruck deposits as customer demand has exceeded the production capacity of the Texas factory. *[Business Recorder](https://www.brecorder.com/news/40448114/tesla-to-refund-many-cybertruck-deposits-as-demand-exceeds-production-musk-says)*
+- German exports increased by 2% in September, significantly outperforming the 0.5% growth forecast by analysts. *[Business Recorder](https://www.brecorder.com/news/40448113/german-exports-rise-more-than-expected-in-september)*
+- A new Pakistani auto policy has been introduced, promising tax relief specifically for the small car segment. *[ARY](https://arynews.tv/pakistans-new-auto-policy-promises-tax-relief-for-small-cars)*
+
+### Science & Technology
+- Meta is expanding its use of AI-driven age checks for Instagram teenagers in response to increasing legal challenges. *[ARY](https://arynews.tv/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount)*
+- Alphabet’s Google is planning to introduce two new variations of its in-house tensor processing units (TPUs) to compete with Nvidia. *[Business Recorder](https://www.brecorder.com/news/40448127/google-to-introduce-two-variants-of-in-house-chips-reports)*
+- Apple Intelligence, Apple's generative AI service, has successfully registered with Chinese regulators for use on tablets and laptops. *[Business Recorder](https://www.brecorder.com/news/40448126/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops)*
 
 ### Politics
-- Unofficial results for the NA-77 Gujranwala by-election have been announced. *[ARY](https://arynews.tv/na-77-gujranwala-by-election-unofficial-result-announced)*
-- PTI founder and Bushra Bibi underwent medical examinations while held at Adiala Jail. *[ARY](https://arynews.tv/pti-founder-bushra-bibi-undergo-medical-examination-at-adiala-jail)*
-- PPP Chairman Bilawal Bhutto Zardari and Punjab CM Maryam Nawaz Sharif extended Diwali greetings to the Hindu community, emphasizing religious harmony. *[Business Recorder](https://www.brecorder.com/news/40448082/bilawal-extends-warm-diwali-greetings-to-hindu-community)* / *[Business Recorder](https://www.brecorder.com/news/40448040/cm-maryam-felicitates-hindu-community-on-diwali)*
-- CM Maryam Nawaz directed authorities to ensure that VIP visits do not result in the closure of markets, shops, or the restriction of citizen movement. *[Business Recorder](https://www.brecorder.com/news/40448043/vip-visits-cm-directs-authorities-not-to-close-markets-and-shops)*
-- The Deputy Commissioner of Jhelum, Mir Raza, was removed from his position by the CM for attempting to postpone Computer Science supplementary examinations due to a VIP visit. *[Business Recorder](https://www.brecorder.com/news/40448044/dc-jhelum-removed-for-postponing-exams)*
-- Prime Minister Shehbaz Sharif announced year-long national and international celebrations to mark the 150th birth anniversary of Allama Iqbal. *[Business Recorder](https://www.brecorder.com/news/40448063/150th-birth-anniversary-of-allama-iqbal-pm-announces-launch-of-year-long-celebrations)*
-- US Democrats have announced plans for congressional probes into Elon Musk, Stephen Miller, and various large corporations starting in January. *[Business Recorder](https://www.brecorder.com/news/40448064/democrats-plan-probes-of-musk-miller-corporate-america)*
-- Leaders of Turkiye and Azerbaijan have vowed to strengthen their alliance following recent tensions regarding secular education and headscarf regulations. *[Business Recorder](https://www.brecorder.com/news/40448053/turkiye-azerbaijan-leaders-vow-unity-after-tensions)*
+- The cousin of the PTI founder has been released from jail. *[ARY](https://arynews.tv/pti-founders-cousin-released-from-jail)*
+- Ukrainian President Volodymyr Zelenskiy held discussions with Indian PM Narendra Modi regarding upcoming trilateral talks between Russia, the US, and Ukraine in Abu Dhabi. *[Business Recorder](https://www.brecorder.com/news/40448132/zelenskiy-speaks-to-modi-ahead-of-ukraine-russia-talks)*
+- Chancellor Friedrich Merz has nominated Ilse Aigner as the conservative candidate to potentially become Germany's first female president in January. *[Business Recorder](https://www.brecorder.com/news/40448131/germany-set-to-get-its-first-female-president-after-merz-backs-bavarian-conservative-aigner)*
+- US President Donald Trump is set to meet with the Prime Minister of Qatar to discuss mediation efforts to end the ongoing Iran war. *[Business Recorder](https://www.brecorder.com/news/40448121/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-the-war)*
+- Iran has defended its proposal to restart peace talks within two days, despite the US rejecting conditions regarding the lifting of sanctions and naval blockades. *[Business Recorder](https://www.brecorder.com/news/40448117/iran-defends-two-day-proposal-for-peace-talks-after-us-rejects-conditions)*
+- Polling indicates Marine Le Pen is leading the 2027 French presidential race with an expected first-round vote share of between 34% and 36%. *[Business Recorder](https://www.brecorder.com/news/40448115/le-pen-and-melenchon-ahead-in-2027-french-presidential-race-poll-shows)*
 
 ### National
-- The CDA reported that the Margalla Avenue extension project has reached 35% progress. *[ARY](https://arynews.tv/cda-chief-reviews-35pc-progress-on-margalla-avenue-extension)*
-- Security forces killed 27 terrorists during the two-phase "Operation Radd-ul-Fitna 3" in Balochistan. *[ARY](https://arynews.tv/27-terrorists-killed-in-two-phase-operation-radd-ul-fitna-3-in-balochistan)*
-- A Balochistan delegation visited China to hold discussions regarding CPEC and the development of Gwadar Port. *[Business Recorder](https://www.brecorder.com/news/40448042/visit-to-china-balochistan-delegation-discusses-cpec-gwadar-port)*
-- Police took the husband of news anchor Rabia Ahsan into custody following her fatal shooting at her residence in Rawalpindi. *[Business Recorder](https://www.brecorder.com/news/40448052/husband-held-as-anchorperson-shot-dead-in-rawalpindi)*
+- Muhammad Ali Durrani has launched the ‘Marka-e-Khushali’ movement to advocate for the creation of new provinces. *[ARY](https://arynews.tv/muhammad-ali-durrani-launches-marka-e-khushali-movement-for-new-provinces)*
+- Pakistan Customs intercepted an attempt to smuggle 51kg of hashish into Karachi. *[ARY](https://arynews.tv/pakistan-customs-foils-attempt-to-smuggle-51kg-of-hashish-to-karachi)*
+- Construction at the Tarbela Fifth Extension (T5) Hydropower Project was suspended after a rock collapse caused water to flood Tunnel No. 5. *[Business Recorder](https://www.brecorder.com/news/40448122/rock-collapse-at-tarbela-t5-sends-water-into-tunnel-work-stopped)*
 
 ### International
-- A 5.7-magnitude earthquake struck central Japan, causing injuries to dozens and disrupting train services. *[Business Recorder](https://www.brecorder.com/news/40448048/magnitude-57-quake-injures-dozens-in-central-japan)*
-- Russian strikes on Ukraine's energy infrastructure have left more than 600,000 residents in the Dnipropetrovsk region without power. *[Business Recorder](https://www.brecorder.com/news/40448050/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine)*
-- At least 21 people were killed after a migrant boat sank off the coast of northwestern Senegal. *[Business Recorder](https://www.brecorder.com/news/40448051/migrant-boat-sinks-off-senegal-21-killed)*
-- Yemen’s Houthis claimed an attack on the financial district of Riyadh, targeting an Aramco skyscraper in the King Abdullah Financial District (KAFD). *[Business Recorder](https://www.brecorder.com/news/40448065/riyadh-financial-district-targeted-aramco-skyscraper-damaged)*
+- Pakistan has officially condemned an attempted Houthi attack on a Saudi Aramco building. *[ARY](https://arynews.tv/pakistan-condemns-attempted-houthi-attack-on-saudi-aramco-building)*
+- A sand embankment collapse caused by torrential rain in Gaza killed four people, including a woman and three children, near Deir al-Balah. *[Business Recorder](https://www.brecorder.com/news/40448130/four-killed-in-gaza-after-sand-embankment-collapses-on-to-tents)*
+- A major fire in a 40-storey high-rise building in Taiyuan, China, killed at least 14 people and left 25 others hospitalized. *[Business Recorder](https://www.brecorder.com/news/40448116/building-fire-kills-14-in-chinas-northern-city-of-taiyuan)*
 
 ### Sports
-- U19 cricket sensation Hamza Zahoor has drawn significant attention following his recent performances. *[ARY](https://arynews.tv/u19-sensation-hamza-zahoors-secret-note-steals-the-show)*
+- British-Somali boxer Ramla Ali secured her first world title at age 37, winning the vacant WBO and IBF junior featherweight belts in Arlington, Texas. *[Business Recorder](https://www.brecorder.com/news/40448124/ramla-ali-wins-first-world-title-at-37-in-texas)*
+
+### Health
+- A late-stage study on sleep apnea by Foundayo has reached its primary objective. *[ARY](https://arynews.tv/foundayo-meets-main-goal-in-late-stage-sleep-apnea-study)*
+- Reports indicate the United States has been left vulnerable to the flesh-eating screwworm. *[ARY](https://arynews.tv/us-was-left-exposed-to-the-flesh-eating-screwworm)*
 
 ### Other
-- PakWheels Expo 2026 was officially inaugurated in Lahore by Punjab Provincial Minister Malik Faisal Ayub Khokhar. *[Business Recorder](https://www.brecorder.com/news/40448046/pakwheels-expo-2026-inaugurated)*
-- Regarding the death of news anchor Rabia Ahsan, her family informed police that no marital disputes had been reported. *[ARY](https://arynews.tv/no-marital-dispute-reported-between-rabia-ahsan-and-husband-family-tells-police)*
+- Leaked files from the upcoming GTA 6 release have revealed hidden multiplayer code. *[ARY](https://arynews.tv/leaked-gta-6-release-files-reveal-hidden-multiplayer-code-ahead-of-launch)*
 
