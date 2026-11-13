@@ -7,47 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 09-Nov-2026 09:10PKT 
+ &lrm; 13-Nov-2026 09:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- آئی ای ایس سی او (IESCO) نے صارفین کے لیے 24/7 کیو آر (QR) کوڈ ادائیگی کی سہولت متعارف کروا دی ہے۔ *[ARY](https://arynews.tv/iesco-introduces-24-7-qr-code-payment-facility-for-consumers)*
-- این سی سی آئی اے (NCCIA) نے آن لائن فراڈ کے ایک متاثرہ شخص کو 2.94 ملین روپے واپس کر دیے ہیں۔ *[ARY](https://arynews.tv/nccia-returns-rs-2-94-million-to-online-fraud-victim)*
-- کسٹمز نے ایکسپورٹ پروسیسنگ زون (EPZ) رصل پور میں ایم/ایس شیپو پرائیویٹ لمیٹڈ کے خلاف درآمدی بے قاعدگیوں اور سامان کی کمی پر قانونی کارروائی شروع کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448049/epz-risalpur-unit-customs-uncovers-import-irregularities-shortage-of-goods)*
-- پشاور ہائی کورٹ نے فیصلہ دیا ہے کہ غیر پراسیس شدہ تمباکو پر فیڈرل ایکسائز ڈیوٹی (FED) عائد کرنا غیر قانونی ہے، جس کے تحت 3,375 کلوگرام تمباکو کی ضبط شدہ کھیپ کو رہا کرنے کا حکم دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448054/phc-rules-fed-on-unprocessed-tobacco-is-illegal)*
-- امریکی ٹریژری بانڈز کی قیمتوں میں کمی کے بعد یو ایس بانڈز (US Bonds) کے ریٹس میں اضافہ ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448061/us-bonds-fall-after-thursdays-rally)*
+- وزیر نے 'راست' (Raast) کیو آر ایم ڈی آر (QR MDR) اسکیم پر پیپر تیار کرنے کی ہدایت دے دی ہے۔ *[ARY](https://arynews.tv/cashless-pakistan-minister-directs-paper-on-raast-qr-mdr-scheme)*
+- اوگرا (OGRA) نے پیٹرول اور ڈیزل کی نئی قیمتوں کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-price-in-pakistan-today)*
+- بھارتی روپیہ ڈالر کے مقابلے میں 94 کی سطح سے نیچے گر گیا ہے، جس سے اس پر دباؤ بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields)*
+- خام تیل کی قیمتوں میں کمی کا رجحان ہے؛ برینٹ فی بیرل 95.41 ڈالر اور ڈبلیو ٹی آئی (WTI) 88.52 ڈالر پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448723/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade)*
+- موبلینک بینک نے اپنا مائیکرو فنانس بینک میں 82.51 فیصد حصص خریدنے کے لیے معاہدے پر دستخط کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448705/mobilink-bank-to-acquire-8251pc-stake-in-apna-bank)*
+- ایف بی آر (FBR) نے سیمنٹ بنانے والوں کے لیے ٹیکس اسٹیمپ کی قیمت 1,140.64 روپے فی 1,000 یونیک آئیڈنٹی فیکیشن مارکس (UIMs) مقرر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers)*
+- چمڑے کی صنعت کو خام مال کی کمی کا سامنا ہے، جس کے لیے پنجاب حکومت سے منظم ذبح خانے اور قصور پلانٹ کو فعال کرنے کا مطالبہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448704/leather-industry-seeks-slaughter-houses-kasur-plant-revival)*
+
+### سائنس اور ٹیکنالوجی
+- مائیکروسافٹ کی سروسز میں خرابی کے باعث ہزاروں صارفین کے لیے آؤٹ لک (Outlook) اور ٹیمز (Teams) متاثر ہوئے۔ *[ARY](https://arynews.tv/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands)*
+- آئی فون 18 پرو میکس (iPhone 18 Pro Max) نے بیٹری کی کارکردگی کے جامع ٹیسٹ میں نیا معیار قائم کر دیا ہے۔ *[ARY](https://arynews.tv/iphone-18-pro-max-sets-new-benchmark-in-comprehensive-battery-endurance-test)*
+- کولیٹ کریس (Colette Kress) کو این ویڈیا (Nvidia) کا عبوری سی ای او (CEO) مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo)*
+
+### موسم
+- پاکستان کی آخری وادی اسکولے (Askole) میں پہلی برف باری نے اسے سردیوں کی جنت میں بدل دیا ہے۔ *[ARY](https://arynews.tv/magical-first-snowfall-turns-pakistans-last-valley-askole-into-winter-paradise)*
 
 ### سیاست
-- این اے-77 گوجرانوالہ کے ضمنی انتخابات کے غیر سرکاری نتائج کا اعلان کر دیا گیا ہے۔ *[ARY](https://arynews.tv/na-77-gujranwala-by-election-unofficial-result-announced)*
-- پی ٹی آئی کے بانی اور بشریٰ بی بی کا اڈیالہ جیل میں طبی معائنہ کیا گیا۔ *[ARY](https://arynews.tv/pti-founder-bushra-bibi-undergo-medical-examination-at-adiala-jail)*
-- پیپلز پارٹی کے چیئرمین بلاول بھٹو زرداری نے ہندو کمیونٹی کو دیوالی کی مبارکباد پیش کی۔ *[Business Recorder](https://www.brecorder.com/news/40448082/bilawal-extends-warm-diwali-greetings-to-hindu-community)*
-- وزیراعلیٰ پنجاب مریم نواز نے ہندو برادری کو دیوالی کی مبارکباد دیتے ہوئے اقلیتوں کے حقوق کے تحفظ کا عہد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448040/cm-maryam-felicitates-hindu-community-on-diwali)*
-- پنجاب کے مشیر علی ڈار نے لاہور میں دیوالی کی تقریبات میں شرکت کی اور مذہبی ہم آہنگی پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40448041/ali-dar-attends-diwali-celebrations-in-lahore)*
-- وزیراعلیٰ پنجاب مریم نواز نے ہدایت دی ہے کہ وی آئی پی دوروں کے دوران کسی بھی مارکیٹ، دکان یا کاروباری مرکز کو بند نہیں کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40448043/vip-visits-cm-directs-authorities-not-to-close-markets-and-shops)*
-- وزیراعلیٰ پنجاب نے وی آئی پی دورے کے نام پر امتحانات ملتوی کرنے کی کوشش کرنے پر ڈی سی جھنگ میر رضا کو عہدے سے ہٹا دیا۔ *[Business Recorder](https://www.brecorder.com/news/40448044/dc-jhelum-removed-for-postponing-exams)*
-- وزیراعظم شہباز شریف نے علامہ اقبال کی 150 ویں سالگرہ کے موقع پر سال بھر جاری رہنے والی قومی اور بین الاقوامی تقریبات کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448063/150th-birth-anniversary-of-allama-iqbal-pm-announces-launch-of-year-long-celebrations)*
-- امریکی ڈیموکریٹس نے ایلون مسک اور اسٹیفن ملر سمیت بڑے کارپوریٹ اداروں کے خلاف تحقیقات کا منصوبہ بنایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448064/democrats-plan-probes-of-musk-miller-corporate-america)*
+- پی ٹی آئی چیئرمین گوہر علی خان نے پنجاب انسٹی ٹیوٹ آف کارڈیالوجی میں شاہ محمود قریشی کی خیریت دریافت کی۔ *[Business Recorder](https://www.brecorder.com/news/40448701/gohar-inquires-after-qureshi-at-pic)*
+- وفاقی وزیر احسن اقبال نے تعلیمی اصلاحات کے لیے اساتذہ اور ماہرین سے تجاویز طلب کیں۔ *[Business Recorder](https://www.brecorder.com/news/40448696/ahsan-seeks-suggestions-on-education-reforms)*
+- احسن اقبال نے مائننگ پروجیکٹس کے لیے فزیبلٹی اور فنانسنگ کو حتمی شکل دینے کے لیے ایک مشترکہ ورکنگ گروپ (JWG) بنانے کی تجویز پیش کی۔ *[Business Recorder](https://www.brecorder.com/news/40448695/mining-projects-ahsan-proposes-jwg-formation-to-finalise-feasibility-financing)*
 
 ### قومی
-- سی ڈی اے (CDA) نے مارگلہ ایونیو کی توسیع کے کام میں 35 فیصد پیشرفت کا جائزہ لیا۔ *[ARY](https://arynews.tv/cda-chief-reviews-35pc-progress-on-margalla-avenue-extension)*
-- بلوچستان میں آپریشن رڈ الفتنہ 3 کے دو مرحلوں کے دوران 27 دہشت گرد ہلاک کر دیے گئے۔ *[ARY](https://arynews.tv/27-terrorists-killed-in-two-phase-operation-radd-ul-fitna-3-in-balochistan)*
-- بلوچستان کے ایک وفد نے چین کا دورہ کیا جہاں سی پیک (CPEC) اور گوادر پورٹ کے حوالے سے اہم بات چیت کی گئی۔ *[Business Recorder](https://www.brecorder.com/news/40448042/visit-to-china-balochistan-delegation-discusses-cpec-gwadar-port)*
-- ایف آئی اے (FIA) نے برطانیہ کے ویزا فراڈ کے کیس میں ایک خاتون کو گرفتار کیا، جس میں 5.2 ملین روپے کا فراڈ ہوا اور 2 ملین روپے برآمد کیے گئے۔ *[Business Recorder](https://www.brecorder.com/news/40448045/fia-arrests-woman-in-rs5-2m-uk-visa-fraud-recovers-rs2m)*
-- راولپنڈی میں ٹی وی اینگزر ربیا احسن کے قتل کے معاملے میں پولیس نے ان کے شوہر کو حراست میں لے لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448052/husband-held-as-anchorperson-shot-dead-in-rawalpindi)*
-- پرفارمنس ریویو کمیٹی کی خاموشی پر ایل ٹی بی اے (LTBA) پبلک انٹرسٹ لٹیگیشن کمیٹی نے شدید تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448055/performance-of-performance-review-panel-criticized)*
+- نادرا (NADRA) نے پاک آئیڈنٹیٹی اکاؤنٹ رجسٹر کرنے کا طریقہ کار واضح کر دیا ہے۔ *[ARY](https://arynews.tv/how-to-register-a-pak-identity-account-nadra-explains)*
+- پنجاب حکومت نے ملازمتوں کے نئے مواقع کا اعلان کیا ہے جن کی تنخواہ 950,000 روپے تک ہے۔ *[ARY](https://arynews.tv/punjab-announces-vacancies-with-salaries-up-to-rs-950000)*
+- میر رضا کیس کے سلسلے میں جے آئی ٹی (JIT) نے احمد بھڑڈی کے ریسٹورنٹ کو سیل کر دیا ہے، جبکہ خاندان کا دعویٰ ہے کہ یہ جولائی سے بند ہے۔ *[ARY](https://arynews.tv/mir-raza-case-bhardeys-family-says-north-nazimabad-restaurant-closed-since-july-29)*
+- نیشنل پاپولیشن کونسل (NPC) نے آبادی میں تیزی سے اضافے سے نمٹنے کے لیے وفاقی اور صوبائی حکومتوں کے اتحاد پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448706/rapid-population-growth-npc-body-urges-govts-to-join-forces)*
+- پی ڈی پی (PDP) نے یوٹیلیٹی بلوں کے ذریعے عوام پر بوجھ ڈالنے کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp)*
+- چیف جسٹس یحییٰ آفریدی نے ای-فائلنگ کے ڈرافٹ کے جائزے کے لیے بار کونسلوں سے نامزدگیاں طلب کیں۔ *[Business Recorder](https://www.brecorder.com/news/40448698/cjp-invites-bar-nominations-for-draft-e-filing-review)*
+- این ٹی سی (ATC) نے کپتان اسیم طارق قتل کیس میں مزید تین گواہوں کے بیانات قلمبند کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448697/captain-asim-tariq-murder-case-atc-records-statements-of-three-more-witnesses)*
 
 ### بین الاقوامی
-- وسطی جاپان میں 5.7 شدت کے زلزلے کے نتیجے میں درجنوں افراد زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40448048/magnitude-57-quake-injures-dozens-in-central-japan)*
-- یوکرین پر روسی حملوں کے باعث ڈنیپروپیٹرو نسلک کے 600,000 سے زائد رہائشی بجلی سے محروم ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40448050/russian-strikes-cut-power-to-hundreds-of-thousands-in-ukraine)*
-- سینگال کے ساحل پر مہاجرین سے بھری کشتی ڈوبنے سے کم از کم 21 افراد ہلاک ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40448051/migrant-boat-sinks-off-senegal-21-killed)*
-- ترکیہ اور آذربائیجان کے رہنماؤں نے اپنے مضبوط اتحاد برقرار رکھنے کے عزم کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448053/turkiye-azerbaijan-leaders-vow-unity-after-tensions)*
-- یمن کے حوثیوں نے سعودی عرب کے دارالحکومت ریاض کے مالیاتی ضلع پر حملہ کیا جس سے آرامکو کی ایک فلک بوس عمارت کو نقصان پہنچا۔ *[Business Recorder](https://www.brecorder.com/news/40448065/riyadh-financial-district-targeted-aramco-skyscraper-damaged)*
+- آسٹریلیا کے جنگلات میں گمشدہ نوجوان چھ دن تک صرف چپس اور پانی کے سہارے زندہ رہا۔ *[ARY](https://arynews.tv/miracle-in-the-wilderness-missing-teen-survives-six-days-in-australian-bush-on-crisps-and-water)*
+- ایران کے محافظوں نے بحرین میں امریکی ریڈار کو نشانہ بنانے کا دعویٰ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448721/irans-guards-say-they-targeted-a-us-early-warning-radar-in-bahrain)*
+- بھارتی اسٹاک مارکیٹ میں غیر ملکی سرمایہ کاری کے باوجود تیل کی بڑھتی قیمتوں کے باعث مندی کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows)*
+- امریکی ڈالر 19 ماہ کی بلند ترین سطح کے قریب پہنچ گیا جبکہ ین (Yen) 160 کی سطح کو ٹیسٹ کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160)*
 
 ### کھیل
-- انڈر-19 کرکٹ کے کھلاڑی حمزہ ظہور نے اپنی بہترین کارکردگی سے سب کی توجہ حاصل کر لی۔ *[ARY](https://arynews.tv/u19-sensation-hamza-zahoors-secret-note-steals-the-show)*
+- کے پی سی بلیوز (KPC Blues) نے کراچی پریس کلب سپر سکسز کرکٹ ٹورنامنٹ کا فائنل پانچ وکٹوں سے جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448716/kpc-blues-win-kpc-super-sixes-cricket-tournament)*
+- پاکستان فٹ بال فیڈریشن (PFF) فیفا (FIFA) کی ضروریات کو پورا کرنے کے لیے اپنے آئین میں ترمیم کی تیاری کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448700/football-body-striving-to-meet-fifa-requirements)*
 
-### دیگر
-- لاہور میں پاک ویلز ایکسپو 2026 کا باقاعدہ افتتاح کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448046/pakwheels-expo-2026-inaugurated)*
-- پولیس کو بتایا گیا ہے کہ ربیا احسن اور ان کے شوہر کے درمیان کوئی ازدواجی تنازع نہیں تھا۔ *[ARY](https://arynews.tv/no-marital-dispute-reported-between-rabia-ahsan-and-husband-family-tells-police)*
+### صحت
+- پنجاب کے چیف منسٹر کارڈیاک سرجری پروگرام کے تحت دل کے امراض کے مریضوں کے مفت علاج کے لیے 1.5 ارب روپے سے زائد فراہم کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448707/heart-diseases-over-rs15bn-provided-for-the-free-patients-treatment)*
 
