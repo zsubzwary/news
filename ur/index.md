@@ -7,51 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Nov-2026 09:10PKT 
+ &lrm; 13-Nov-2026 21:11PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- وزیر نے 'راست' (Raast) کیو آر ایم ڈی آر (QR MDR) اسکیم پر پیپر تیار کرنے کی ہدایت دے دی ہے۔ *[ARY](https://arynews.tv/cashless-pakistan-minister-directs-paper-on-raast-qr-mdr-scheme)*
-- اوگرا (OGRA) نے پیٹرول اور ڈیزل کی نئی قیمتوں کا اعلان کر دیا ہے۔ *[ARY](https://arynews.tv/petrol-price-in-pakistan-today)*
-- بھارتی روپیہ ڈالر کے مقابلے میں 94 کی سطح سے نیچے گر گیا ہے، جس سے اس پر دباؤ بڑھ رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields)*
-- خام تیل کی قیمتوں میں کمی کا رجحان ہے؛ برینٹ فی بیرل 95.41 ڈالر اور ڈبلیو ٹی آئی (WTI) 88.52 ڈالر پر ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448723/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade)*
-- موبلینک بینک نے اپنا مائیکرو فنانس بینک میں 82.51 فیصد حصص خریدنے کے لیے معاہدے پر دستخط کر دیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448705/mobilink-bank-to-acquire-8251pc-stake-in-apna-bank)*
-- ایف بی آر (FBR) نے سیمنٹ بنانے والوں کے لیے ٹیکس اسٹیمپ کی قیمت 1,140.64 روپے فی 1,000 یونیک آئیڈنٹی فیکیشن مارکس (UIMs) مقرر کر دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers)*
-- چمڑے کی صنعت کو خام مال کی کمی کا سامنا ہے، جس کے لیے پنجاب حکومت سے منظم ذبح خانے اور قصور پلانٹ کو فعال کرنے کا مطالبہ کیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448704/leather-industry-seeks-slaughter-houses-kasur-plant-revival)*
+- پاکستان کے پہلے کیش لیس شہر کے لیے حکومت نے 31 دسمبر کی ڈیڈ لائن مقرر کر دی ہے۔ *[ARY](https://arynews.tv/pakistan-first-cashless-city-government-sets-december-31-deadline)*
+- بھارت کا اکتوبر کا تجارتی خسارہ ایک سال کی بلند ترین سطح 39.88 ارب ڈالر تک پہنچ گیا، جبکہ سونے کی درآمدات ستمبر کے 1.8 ارب ڈالر سے بڑھ کر 5.51 ارب ڈالر ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40448780/indias-october-trade-deficit-hits-one-year-high-of-3988-billion-as-gold-imports-jump)*
+- پاکستان سنگل ونڈو (PSW) اور علی بابا ڈاٹ کام کے درمیان ایک معاہدہ ہوا ہے تاکہ ڈیجیٹل ٹریڈ ڈیٹا کنفرمیشن سروس کے ذریعے پاکستانی برآمد کنندگان کی عالمی تجارت میں مدد مل سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448777/psw-alibabacom-partner-to-boost-trust-in-global-e-commerce-support-pakistani-exporters)*
+- متحدہ عرب امارات کے اسٹاک مارکیٹ میں کمی آئی، جہاں دبئی کا مین انڈیکس 0.6 فیصد گر گیا اور سالک کمپنی کا تیسری سہ ماہی کا منافع 8.5 فیصد کم ہو کر 341.1 ملین درہم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40448775/uae-stocks-decline-on-weak-corporate-earnings)*
+- انٹرنیشنل انرجی ایجنسی (IEA) کے مطابق عالمی آئل مارکیٹ چوتھی سہ ماہی میں سرپلس کی طرف واپس جا رہی ہے، اور فروری کے آخر تک 71 ملین بیرل تیل دستیاب ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40448772/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says)*
+- سری لنکا کا اسٹاک انڈیکس 0.6 فیصد گر کر 22,024.18 پوائنٹس پر بند ہوا، جبکہ ٹریڈنگ والیوم 100.7 ملین شیئرز رہا۔ *[Business Recorder](https://www.brecorder.com/news/40448771/financial-and-industrial-stocks-drag-sri-lankan-shares-lower)*
+- ٹٹا موٹرز پیسنجر ویہیکلز کو جولائی-ستمبر کی سہ ماہی میں 55.31 ارب روپے کا خالص نقصان ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448768/tata-motors-pv-posts-quarterly-loss-as-jlr-restructuring-costs-bite)*
+- بھارت کی پے ٹم (Paytm) کو ڈیجیٹل والٹ لائسنس کے لیے RBI سے ابتدائی منظوری مل گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448767/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high)*
+- لندن میٹل ایکسچینج پر تانبے (Copper) کی قیمت 0.5 فیصد گر کر 13,519 ڈالر فی میٹرک ٹن ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40448766/copper-falls-heads-for-fifth-straight-weekly-drop-on-ai-rout)*
+- پاکستان میں سونے کی قیمت فی تولہ 4,900 روپے گر کر 411,636 روپے ہوگئی، جبکہ 10 گرام سونا 352,911 روپے پر فروخت ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448765/gold-price-per-tola-loses-rs4900-in-pakistan)*
+- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں معمولی اضافے کے ساتھ 276.60 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448764/intra-day-update-rupee-records-gain-against-us-dollar)*
+- ملائیشیا میں پام آئل کا جنوری کی ڈیلیوری کا معاہدہ 0.5 فیصد اضافے کے ساتھ 4,462 رنگٹ پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448763/palm-oil-post-first-weekly-gain-in-three-weeks)*
+- چینی کمپنی ٹرانزیشن ہولڈنگز پاکستان میں اسمارٹ فون اسمبلی کے بجائے اجزاء کی مقامی تیاری (Component Manufacturing) پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448773/tecno-infinix-maker-eyes-component-manufacturing-in-pakistan)*
 
 ### سائنس اور ٹیکنالوجی
-- مائیکروسافٹ کی سروسز میں خرابی کے باعث ہزاروں صارفین کے لیے آؤٹ لک (Outlook) اور ٹیمز (Teams) متاثر ہوئے۔ *[ARY](https://arynews.tv/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands)*
-- آئی فون 18 پرو میکس (iPhone 18 Pro Max) نے بیٹری کی کارکردگی کے جامع ٹیسٹ میں نیا معیار قائم کر دیا ہے۔ *[ARY](https://arynews.tv/iphone-18-pro-max-sets-new-benchmark-in-comprehensive-battery-endurance-test)*
-- کولیٹ کریس (Colette Kress) کو این ویڈیا (Nvidia) کا عبوری سی ای او (CEO) مقرر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo)*
-
-### موسم
-- پاکستان کی آخری وادی اسکولے (Askole) میں پہلی برف باری نے اسے سردیوں کی جنت میں بدل دیا ہے۔ *[ARY](https://arynews.tv/magical-first-snowfall-turns-pakistans-last-valley-askole-into-winter-paradise)*
+- مائیکروسافٹ کے آؤٹج کے باعث $16 ارب کے معاشی نقصانات کا خدشہ ہے، جبکہ بیمہ شدہ نقصانات 300 ملین سے 1.4 ارب ڈالر کے درمیان ہو سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448782/microsoft-outage-could-generate-700-million-in-insured-losses-kovrr)*
+- مائیکروسافٹ کے آؤٹج کے باعث آؤٹ لک، ٹیمز اور کو پائلٹ دنیا بھر میں متاثر ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40448769/microsoft-outage-hits-outlook-teams-and-copilot-worldwide)*
+- این ویڈیا (Nvidia) کے عبوری سی ای او کی جانب سے واشنگٹن کے حوالے سے سخت موقف میں نرمی کے امکانات ہیں۔ *[ARY](https://arynews.tv/nvidias-interim-ceo-may-soften-confrontational-stance-on-washington)*
 
 ### سیاست
-- پی ٹی آئی چیئرمین گوہر علی خان نے پنجاب انسٹی ٹیوٹ آف کارڈیالوجی میں شاہ محمود قریشی کی خیریت دریافت کی۔ *[Business Recorder](https://www.brecorder.com/news/40448701/gohar-inquires-after-qureshi-at-pic)*
-- وفاقی وزیر احسن اقبال نے تعلیمی اصلاحات کے لیے اساتذہ اور ماہرین سے تجاویز طلب کیں۔ *[Business Recorder](https://www.brecorder.com/news/40448696/ahsan-seeks-suggestions-on-education-reforms)*
-- احسن اقبال نے مائننگ پروجیکٹس کے لیے فزیبلٹی اور فنانسنگ کو حتمی شکل دینے کے لیے ایک مشترکہ ورکنگ گروپ (JWG) بنانے کی تجویز پیش کی۔ *[Business Recorder](https://www.brecorder.com/news/40448695/mining-projects-ahsan-proposes-jwg-formation-to-finalise-feasibility-financing)*
+- عوامی جماعت (JI) نے دارالحکومت میں مقامی حکومت کے انتخابات کی معطلی کی مذمت کی ہے۔ *[ARY](https://arynews.tv/ji-condemns-suspension-of-local-government-elections-in-capital)*
+- اسد محمود نیب (NAB) کے نئے سمن کے باوجود پیش ہونے سے گریز کر گئے۔ *[ARY](https://arynews.tv/asad-mahmood-skips-nab-appearance-despite-fresh-summons)*
+- اسلام آباد ہائی کورٹ نے وفاقی دارالحکومت میں مقامی حکومت کے انتخابات کے شیڈول پر حکم امتناع جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448770/islamabad-high-court-suspends-local-government-election-schedule)*
 
 ### قومی
-- نادرا (NADRA) نے پاک آئیڈنٹیٹی اکاؤنٹ رجسٹر کرنے کا طریقہ کار واضح کر دیا ہے۔ *[ARY](https://arynews.tv/how-to-register-a-pak-identity-account-nadra-explains)*
-- پنجاب حکومت نے ملازمتوں کے نئے مواقع کا اعلان کیا ہے جن کی تنخواہ 950,000 روپے تک ہے۔ *[ARY](https://arynews.tv/punjab-announces-vacancies-with-salaries-up-to-rs-950000)*
-- میر رضا کیس کے سلسلے میں جے آئی ٹی (JIT) نے احمد بھڑڈی کے ریسٹورنٹ کو سیل کر دیا ہے، جبکہ خاندان کا دعویٰ ہے کہ یہ جولائی سے بند ہے۔ *[ARY](https://arynews.tv/mir-raza-case-bhardeys-family-says-north-nazimabad-restaurant-closed-since-july-29)*
-- نیشنل پاپولیشن کونسل (NPC) نے آبادی میں تیزی سے اضافے سے نمٹنے کے لیے وفاقی اور صوبائی حکومتوں کے اتحاد پر زور دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448706/rapid-population-growth-npc-body-urges-govts-to-join-forces)*
-- پی ڈی پی (PDP) نے یوٹیلیٹی بلوں کے ذریعے عوام پر بوجھ ڈالنے کا الزام لگایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp)*
-- چیف جسٹس یحییٰ آفریدی نے ای-فائلنگ کے ڈرافٹ کے جائزے کے لیے بار کونسلوں سے نامزدگیاں طلب کیں۔ *[Business Recorder](https://www.brecorder.com/news/40448698/cjp-invites-bar-nominations-for-draft-e-filing-review)*
-- این ٹی سی (ATC) نے کپتان اسیم طارق قتل کیس میں مزید تین گواہوں کے بیانات قلمبند کر لیے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448697/captain-asim-tariq-murder-case-atc-records-statements-of-three-more-witnesses)*
+- سپریم کورٹ نے کیسز کے بوجھ کو کم کرنے کے لیے ایڈہاک ججز مقرر کرنے کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/sc-plans-to-appoint-ad-hoc-judges-to-clear-case-backlog)*
+- للیہ سے جہلم تک کی سڑک کا منصوبہ پانچ سال کی تکمیل کے بعد مکمل ہو گیا۔ *[ARY](https://arynews.tv/lillah-jhelum-road-project-completed-after-five-years)*
+- سندھ ہائی کورٹ نے 24 ارب روپے کے بلیک سکورپین سیل سے متعلق کیس میں فیصلہ محفوظ کر لیا ہے۔ *[ARY](https://arynews.tv/shc-reserves-verdict-in-rs24bn-black-scorpions-sale-proceeds-case)*
+- سندھ حکومت نے اخراجات میں کمی کے لیے الیکٹرک وہیکلز (EVs) کو ترجیح دینے کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/sindh-government-plans-to-prioritize-evs-to-cut-costs)*
+- وفاقی حکومت نے سرکاری ملازمین کے لیے اثاثوں کے ڈیجیٹل اعلان کی ڈیڈ لائن 30 نومبر 2026 تک بڑھا دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448778/govt-extends-deadline-for-civil-servants-to-digitally-declare-assets-to-nov-30)*
+- چیف آف آرمی اسٹاف فیلڈ مارشل سید عاصم منیر نے کہا کہ پاکستان معدنیات میں طویل مدتی سرمایہ کاری کے لیے ایک مسابقتی منزل بننا چاہتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448774/pakistan-aims-to-become-competitive-destination-for-long-term-mineral-investment-cdf)*
 
 ### بین الاقوامی
-- آسٹریلیا کے جنگلات میں گمشدہ نوجوان چھ دن تک صرف چپس اور پانی کے سہارے زندہ رہا۔ *[ARY](https://arynews.tv/miracle-in-the-wilderness-missing-teen-survives-six-days-in-australian-bush-on-crisps-and-water)*
-- ایران کے محافظوں نے بحرین میں امریکی ریڈار کو نشانہ بنانے کا دعویٰ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448721/irans-guards-say-they-targeted-a-us-early-warning-radar-in-bahrain)*
-- بھارتی اسٹاک مارکیٹ میں غیر ملکی سرمایہ کاری کے باوجود تیل کی بڑھتی قیمتوں کے باعث مندی کا خدشہ ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows)*
-- امریکی ڈالر 19 ماہ کی بلند ترین سطح کے قریب پہنچ گیا جبکہ ین (Yen) 160 کی سطح کو ٹیسٹ کر رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160)*
+- سعودی عرب کے سول ڈیفنس نے جزان (Jazan) صوبے میں خطرے کے خاتمے کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448784/saudi-civil-defence-says-danger-passed-in-jazan)*
 
 ### کھیل
-- کے پی سی بلیوز (KPC Blues) نے کراچی پریس کلب سپر سکسز کرکٹ ٹورنامنٹ کا فائنل پانچ وکٹوں سے جیت لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448716/kpc-blues-win-kpc-super-sixes-cricket-tournament)*
-- پاکستان فٹ بال فیڈریشن (PFF) فیفا (FIFA) کی ضروریات کو پورا کرنے کے لیے اپنے آئین میں ترمیم کی تیاری کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448700/football-body-striving-to-meet-fifa-requirements)*
+- یو ایف سی (UFC) کے کھلاڑی میراب کے ساتھ جھگڑے کے بعد خبیب کے کزن عثمان کو جیل کی سزا سنائی گئی۔ *[ARY](https://arynews.tv/khabibs-cousin-usman-receives-jail-sentence-following-brawl-with-ufcs-merab)*
+- بھارتی ہیڈ کوچ گوتم گمبھیر نے ون ڈے ورلڈ کپ سے قبل بھارتی بیٹنگ لائن کے اچانک ڈھیر ہونے پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448783/gambhir-concerned-by-indias-batting-collapses-ahead-of-odi-world-cup)*
+- جنوبی افریقہ کے فاسٹ بولر کاگیسو رباڈا نے بنگلہ دیش کے خلاف ٹیسٹ سیریز میں پوری شدت سے کھیلنے کا وعدہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448779/south-africa-will-not-ease-off-against-bangladesh-rabada-warns)*
 
 ### صحت
-- پنجاب کے چیف منسٹر کارڈیاک سرجری پروگرام کے تحت دل کے امراض کے مریضوں کے مفت علاج کے لیے 1.5 ارب روپے سے زائد فراہم کیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448707/heart-diseases-over-rs15bn-provided-for-the-free-patients-treatment)*
+- امریکہ نے 2026 میں خسرہ (Measles) سے متعلقہ چھ اموات کی تصدیق کی ہے۔ *[ARY](https://arynews.tv/us-confirms-six-measles-related-deaths-in-2026)*
 
