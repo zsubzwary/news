@@ -4,53 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 13-Nov-2026 09:04PKT
+Published at: 13-Nov-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Mobilink Bank has signed a Sale Purchase Agreement to acquire an **82.51%** stake in Apna Microfinance Bank Limited. *[Business Recorder](https://www.brecorder.com/news/40448705/mobilink-bank-to-acquire-8251pc-stake-in-apna-bank)*
-- The FBR has fixed the price of tax stamps for cement manufacturers at **Rs. 1,140.64 per 1,000** Unique Identification Marks (UIMs), including a **Rs. 165.64** charge for maintenance. *[Business Recorder](https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers)*
-- Global oil prices showed mixed results with Brent futures at **$95.41** a barrel and West Texas Intermediate (WTI) declining by **0.25%** to **$88.52** a barrel. *[Business Recorder](https://www.brecorder.com/news/40448723/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade)*
-- The leather industry is requesting the Punjab government to establish organized slaughterhouses and operationalize the wastewater treatment plant in **Kasur**. *[Business Recorder](https://www.brecorder.com/news/40448704/leather-industry-seeks-slaughter-houses-kasur-plant-revival)*
-- The Minister has directed the preparation of a paper regarding the **Raast QR MDR Scheme** to support the "Cashless Pakistan" initiative. *[ARY](https://arynews.tv/cashless-pakistan-minister-directs-paper-on-raast-qr-mdr-scheme)*
-- OGRA has announced new petrol and diesel prices. *[ARY](https://arynews.tv/petrol-price-in-pakistan-today)*
+- The government has set a **December 31** deadline to establish Pakistan’s first cashless city. *[ARY](https://arynews.tv/pakistan-first-cashless-city-government-sets-december-31-deadline)*
+- Local gold prices per tola decreased by **Rs. 4,900** to reach **Rs. 411,636**, while 10-gram gold fell by **Rs. 4,201** to **Rs. 352,911**. *[Business Recorder](https://www.brecorder.com/news/40448765-gold-price-per-tola-loses-rs4900-in-pakistan)*
+- The Pakistani rupee recorded a marginal gain of **Re0.01** against the US dollar, closing at **276.60** in the inter-bank market. *[Business Recorder](https://www.brecorder.com/news/40448764-intra-day-update-rupee-records-gain-against-us-dollar)*
+- Pakistan Single Window (PSW) and Alibaba.com have partnered to launch a digital **Trade Data Confirmation Service** to aid Pakistani exporters. *[Business Recorder](https://www.brecorder.com/news/40448777-psw-alibabacom-partner-to-boost-trust-in-global-e-commerce-support-pakistani-exporters)*
+- Transsion Holdings is discussing expanding its operations in Pakistan from smartphone assembly to **component manufacturing** and deeper localization. *[Business Recorder](https://www.brecorder.com/news/40448773-tecno-infinix-maker-eyes-component-manufacturing-in-pakistan)*
+- India’s October merchandise trade deficit hit a one-year high of **$39.88 billion**, driven by gold imports which tripled to **$5.51 billion**. *[Business Recorder](https://www.brecorder.com/news/40448780-indias-october-trade-deficit-hits-one-year-high-of-3988-billion-as-gold-imports-jump)*
+- UAE stock markets closed lower, with the Dubai main market index dropping **0.6%**; Emaar Properties fell **4.5%** and Salik Company slipped **2.5%** following an **8.5%** drop in Q3 net profit to **341.1 million dirhams**. *[Business Recorder](https://www.brecorder.com/news/40448775-uae-stocks-decline-on-weak-corporate-earnings)*
+- Tata Motors Passenger Vehicles reported a consolidated second-quarter net loss of **55.31 billion rupees ($587.48 million)**. *[Business Recorder](https://www.brecorder.com/news/40448768-tata-motors-pv-posts-quarterly-loss-as-jlr-restructuring-costs-bite)*
+- Benchmark three-month copper on the London Metal Exchange fell **0.5%** to **$13,519** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40448766-copper-falls-heads-for-fifth-straight-weekly-drop-on-ai-rout)*
+- Malaysian palm oil futures for January delivery rose **0.5%** to **4,462 ringgit ($1,093.09)** per metric ton. *[Business Recorder](https://www.brecorder.com/news/40448763-palm-oil-post-first-weekly-gain-in-three-weeks)*
+- The International Energy Agency (IEA) reports the world oil market is returning to a **surplus** in Q4 as Middle East exports recover. *[Business Recorder](https://www.brecorder.com/news/40448772-world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says)*
+- The Sri Lankan CSE All-Share index declined **0.6%** to **22,024.18 points**, with Hatton National Bank and Richard Pieris losing **1.9%** and **6.2%** respectively. *[Business Recorder](https://www.brecorder.com/news/40448771-financial-and-industrial-stocks-drag-sri-lankan-shares-lower)*
+- India's Paytm received preliminary RBI approval for its payments services unit to issue prepaid digital wallets. *[Business Recorder](https://www.brecorder.com/news/40448767-indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high)*
 
 ### Science & Technology
-- A Microsoft outage disrupted essential services, including **Outlook** and **Teams**, for thousands of users. *[ARY](https://arynews.tv/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands)*
-- Colette Kress has been appointed as the interim CEO of **Nvidia** following the resignation of co-founder Jensen Huang. *[Business Recorder](https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo)*
-- The **iPhone 18 Pro Max** has established a new benchmark in comprehensive battery endurance testing. *[ARY](https://arynews.tv/iphone-18-pro-max-sets-new-benchmark-in-comprehensive-battery-endurance-test)*
-
-### Weather
-- The valley of **Askole** experienced its first snowfall, transforming the area into a winter landscape. *[ARY](https://arynews.tv/magical-first-snowfall-turns-pakistans-last-valley-askole-into-winter-paradise)*
+- The Microsoft 365 and Exchange Online outage is estimated to cause insured losses between **$300 million and $1.4 billion**, with total economic losses reaching approximately **$16 billion**. *[Business Recorder](https://www.brecorder.com/news/40448782-microsoft-outage-could-generate-700-million-in-insured-losses-kovrr)*
+- A major Microsoft outage affecting **Outlook, Teams, and Copilot** disrupted global communications for over **12 hours**. *[Business Recorder](https://www.brecorder.com/news/40448769-microsoft-outage-hits-outlook-teams-and-copilot-worldwide)*
+- Nvidia’s interim CEO may adopt a less confrontational stance toward Washington. *[ARY](https://arynews.tv/nvidias-interim-ceo-may-soften-confrontational-stance-on-washington)*
 
 ### Politics
-- Chief Justice Yahya Afridi has requested provincial and Islamabad bar councils to nominate **two members each** to review draft e-filing templates. *[Business Recorder](https://www.brecorder.com/news/40448698/cjp-invites-bar-nominations-for-draft-e-filing-review)*
-- PTI Chairman Gohar Ali Khan visited Shah Mahmood Qureshi at the **Punjab Institute of Cardiology (PIC)** after Qureshi collapsed at Kot Lakhpat jail. *[Business Recorder](https://www.brecorder.com/news/40448701/gohar-inquires-after-qureshi-at-pic)*
+- The Islamabad High Court suspended the ECP’s notification for local government elections, putting the **December 20** polls on hold. *[Business Recorder](https://www.brecorder.com/news/40448770-islamabad-high-court-suspends-local-government-election-schedule)*
+- The federal government extended the deadline for civil servants to digitally declare assets via the FBR portal to **November 30, 2026**. *[Business Recorder](https://www.brecorder.com/news/40448778-govt-extends-deadline-for-civil-servants-to-digitally-declare-assets-to-nov-30)*
+- The Sindh government plans to prioritize **Electric Vehicles (EVs)** to reduce costs. *[ARY](https://arynews.tv/sindh-government-plans-to-prioritize-evs-to-cut-costs)*
+- JI has condemned the suspension of local government elections in the federal capital. *[ARY](https://arynews.tv/ji-condemns-suspension-of-local-government-elections-in-capital)*
 
 ### National
-- The Punjab government has announced job vacancies with salaries reaching up to **Rs. 950,000**. *[ARY](https://arynews.tv/punjab-announces-vacancies-with-salaries-up-to-rs-950000)*
-- The National Population Council (NPC) urged federal and provincial governments to coordinate on healthcare and education to manage rapid population growth. *[Business Recorder](https://www.brecorder.com/news/40448706/rapid-population-growth-npc-body-urges-govts-to-join-forces)*
-- In the Mir Raza case, the JIT has sealed the restaurant belonging to partner **Ahmed Bhardey**, though the family claims it has been closed since **July 29**. *[ARY](https://arynews.tv/mir-raza-case-jit-seals-partner-ahmed-bhardeys-restaurant); [ARY](https://arynews.tv/mir-raza-case-bhardeys-family-says-north-nazimabad-restaurant-closed-since-july-29)*
-- Federal Minister Ahsan Iqbal proposed a **Joint Working Group (JWG)** to finalize the feasibility and financing for mining projects and the **Nokundi–Gwadar** road corridor. *[Business Recorder](https://www.brecorder.com/news/40448695/mining-projects-ahsan-proposes-jwg-formation-to-finalise-feasibility-financing)*
-- Ahsan Iqbal is seeking practical recommendations from education experts to implement effective reforms, including a model system in **Islamabad**. *[Business Recorder](https://www.brecorder.com/news/40448696/ahsan-seeks-suggestions-on-education-reforms)*
-- The Anti-Terrorism Court (ATC) recorded statements from **three more witnesses** in the murder case of PAF Group Captain Asim Tariq. *[Business Recorder](https://www.brecorder.com/news/40448697/captain-asim-tariq-murder-case-atc-records-statements-of-three-more-witnesses)*
-- The Pasban Democratic Party (PDP) criticized the government for rising utility bills and the high cost of **LPG** due to gas unavailability. *[Business Recorder](https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp)*
-- NADRA has released instructions on how to register for a **Pak Identity** account. *[ARY](https://arynews.tv/how-to-register-a-pak-identity-account-nadra-explains)*
+- The Supreme Court (SC) plans to appoint **ad hoc judges** to clear the existing case backlog. *[ARY](https://arynews.tv/sc-plans-to-appoint-ad-hoc-judges-to-clear-case-backlog)*
+- The Lillah-Jhelum Road project has been completed after **five years** of work. *[ARY](https://arynews.tv/lillah-jhelum-road-project-completed-after-five-years)*
+- The Sindh High Court (SHC) has reserved its verdict in a **Rs. 24 billion** case regarding Black Scorpions sale proceeds. *[ARY](https://arynews.tv/shc-reserves-verdict-in-rs24bn-black-scorpions-sale-proceeds-case)*
+- Field Marshal Syed Asim Munir stated Pakistan aims to be a competitive destination for long-term **mineral investment**. *[Business Recorder](https://www.brecorder.com/news/40448774-pakistan-aims-to-become-competitive-destination-for-long-term-mineral-investment-cdf)*
+- Asad Mahmood skipped a scheduled NAB appearance despite receiving fresh summons. *[ARY](https://arynews.tv/asad-mahmood-skips-nab-appearance-despite-fresh-summons)*
 
 ### International
-- The Indian rupee is facing pressure and is expected to open weaker than the **94-per-dollar** mark due to rising oil prices and US yields. *[Business Recorder](https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields)*
-- The US dollar is trading near a **19-month high**, while the Japanese yen is testing the **160** mark amid expectations of a Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160)*
-- Indian equity benchmarks remained muted with **GIFT Nifty futures at 25,267.5**, despite foreign institutional inflows of **$832.71 million**. *[Business Recorder](https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows)*
-- Iran’s Revolutionary Guards claimed to have targeted a **US early-warning radar in Bahrain** in retaliation for an attack on a telecommunications tower in Hormozgan province. *[Business Recorder](https://www.brecorder.com/news/40448721/irans-guards-say-they-targeted-a-us-early-warning-radar-in-bahrain)*
+- Saudi Arabia's civil defense issued an all-clear for the Jazan province, which houses a refinery with a capacity of **400,000 barrels of crude oil per day**. *[Business Recorder](https://www.brecorder.com/news/40448784/saudi-civil-defence-says-danger-passed-in-jazan)*
 
 ### Sports
-- **KPC Blues** won the Karachi Press Club (KPC) Super Sixes Night Cricket Tournament by defeating Photographers XI by **five wickets**. *[Business Recorder](https://www.brecorder.com/news/40448716/kpc-blues-win-kpc-super-sixes-cricket-tournament)*
-- The Pakistan Football Federation (PFF) is attempting to overhaul its constitution to meet **FIFA requirements** and secure international funding. *[Business Recorder](https://www.brecorder.com/news/40448700/football-body-striving-to-meet-fifa-requirements)*
+- India's head coach Gautam Gambhir expressed concern over batting collapses, including being bowled out for **89** in a 244-run loss to New Zealand. *[Business Recorder](https://www.brecorder.com/news/40448783/gambhir-concerned-by-indias-batting-collapses-ahead-of-odi-world-cup)*
+- South African bowler Kagiso Rabada warned there will be no letup in intensity during the upcoming home tests against Bangladesh. *[Business Recorder](https://www.brecorder.com/news/40448779-south-africa-will-not-ease-off-against-bangladesh-rabada-warns)*
+- Khabib’s cousin, Usman, received a jail sentence following a brawl with UFC’s Merab. *[ARY](https://arynews.tv/khabibs-cousin-usman-receives-jail-sentence-following-brawl-with-ufcs-merab)*
 
 ### Health
-- Under the Chief Minister Punjab Cardiac Surgery Program, more than **Rs. 1.5 billion** has been provided for the free medical treatment of heart disease patients. *[Business Recorder](https://www.brecorder.com/news/40448707/heart-diseases-over-rs15bn-provided-for-the-free-patients-treatment)*
-
-### Other
-- A missing teenager in Australia survived **six days** in the bush, subsisting only on water and crisps. *[ARY](https://arynews.tv/miracle-in-the-wilderness-missing-teen-survives-six-days-in-australian-bush-on-crisps-and-water)*
+- The US has confirmed **six measles-related deaths** in 2026. *[ARY](https://arynews.tv/us-confirms-six-measles-related-deaths-in-2026)*
 
