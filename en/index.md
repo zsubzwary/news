@@ -4,52 +4,53 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 09-Nov-2026 21:03PKT
+Published at: 13-Nov-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Sri Lankan CSE All-Share index rose 1.37% to 21,531.37 points, with Commercial Bank of Ceylon PLC and Hatton National Bank PLC increasing by 2.9% and 1.5% respectively. *[Business Recorder](https://www.brecorder.com/news/40448129/sri-lankan-shares-climb-as-financials-gain)*
-- Gulf markets closed higher following US President Donald Trump's indication that fresh strikes on Iran are unlikely if talks continue. *[Business Recorder](https://www.brecorder.com/news/40448128/gulf-markets-gain-on-hopes-iran-strikes-will-stay-off-the-table)*
-- The IMF has launched a review of Ukraine’s lending programme, which has the potential to unlock $1.67 billion in fresh financing. *[Business Recorder](https://www.brecorder.com/news/40448125/imf-launches-ukraine-loan-review-that-could-unlock-167-billion)*
-- The Saudi-Pakistan Joint Business Council launched a private equity fund of "multi-hundred million" scale, with 75% of funds earmarked for investment in Pakistan. *[Business Recorder](https://www.brecorder.com/news/40448123/pakistan-saudi-arabia-investors-launch-fund-to-boost-trade-investment)*
-- Copper prices on the London Metal Exchange (LME) rose 0.7% to $13,869 per metric ton due to tight supply in China. *[Business Recorder](https://www.brecorder.com/news/40448120/copper-rebounds-on-firmer-risk-sentiment-and-tight-supply-in-china)*
-- Indian share benchmarks reached an 8-month high, with the Nifty 50 rising 0.23% to 25,044.65 and the Sensex adding 0.13% to 81,106.65; meanwhile, Brent crude fell 1% to approximately $97 per barrel. *[Business Recorder](https://www.brecorder.com/news/40448119/indian-shares-inch-higher-to-close-at-8-month-high-as-crude-oil-drops)*
-- The Indian rupee broke its six-day winning streak, closing at 93.9275 per dollar after hitting a six-month high of 93.69. *[Business Recorder](https://www.brecorder.com/news/40448118/indian-rupee-breaks-six-day-winning-streak-on-state-banks-dollar-bids)*
-- Tesla CEO Elon Musk announced the company will refund many Cybertruck deposits as customer demand has exceeded the production capacity of the Texas factory. *[Business Recorder](https://www.brecorder.com/news/40448114/tesla-to-refund-many-cybertruck-deposits-as-demand-exceeds-production-musk-says)*
-- German exports increased by 2% in September, significantly outperforming the 0.5% growth forecast by analysts. *[Business Recorder](https://www.brecorder.com/news/40448113/german-exports-rise-more-than-expected-in-september)*
-- A new Pakistani auto policy has been introduced, promising tax relief specifically for the small car segment. *[ARY](https://arynews.tv/pakistans-new-auto-policy-promises-tax-relief-for-small-cars)*
+- Mobilink Bank has signed a Sale Purchase Agreement to acquire an **82.51%** stake in Apna Microfinance Bank Limited. *[Business Recorder](https://www.brecorder.com/news/40448705/mobilink-bank-to-acquire-8251pc-stake-in-apna-bank)*
+- The FBR has fixed the price of tax stamps for cement manufacturers at **Rs. 1,140.64 per 1,000** Unique Identification Marks (UIMs), including a **Rs. 165.64** charge for maintenance. *[Business Recorder](https://www.brecorder.com/news/40448699/fbr-sets-tax-stamp-price-for-cement-manufacturers)*
+- Global oil prices showed mixed results with Brent futures at **$95.41** a barrel and West Texas Intermediate (WTI) declining by **0.25%** to **$88.52** a barrel. *[Business Recorder](https://www.brecorder.com/news/40448723/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade)*
+- The leather industry is requesting the Punjab government to establish organized slaughterhouses and operationalize the wastewater treatment plant in **Kasur**. *[Business Recorder](https://www.brecorder.com/news/40448704/leather-industry-seeks-slaughter-houses-kasur-plant-revival)*
+- The Minister has directed the preparation of a paper regarding the **Raast QR MDR Scheme** to support the "Cashless Pakistan" initiative. *[ARY](https://arynews.tv/cashless-pakistan-minister-directs-paper-on-raast-qr-mdr-scheme)*
+- OGRA has announced new petrol and diesel prices. *[ARY](https://arynews.tv/petrol-price-in-pakistan-today)*
 
 ### Science & Technology
-- Meta is expanding its use of AI-driven age checks for Instagram teenagers in response to increasing legal challenges. *[ARY](https://arynews.tv/meta-expands-ai-age-checks-for-instagram-teens-as-lawsuits-mount)*
-- Alphabet’s Google is planning to introduce two new variations of its in-house tensor processing units (TPUs) to compete with Nvidia. *[Business Recorder](https://www.brecorder.com/news/40448127/google-to-introduce-two-variants-of-in-house-chips-reports)*
-- Apple Intelligence, Apple's generative AI service, has successfully registered with Chinese regulators for use on tablets and laptops. *[Business Recorder](https://www.brecorder.com/news/40448126/apple-intelligence-ai-service-registers-with-chinese-regulator-for-use-on-tablets-laptops)*
+- A Microsoft outage disrupted essential services, including **Outlook** and **Teams**, for thousands of users. *[ARY](https://arynews.tv/microsoft-outage-drags-on-for-hours-disrupting-outlook-teams-for-thousands)*
+- Colette Kress has been appointed as the interim CEO of **Nvidia** following the resignation of co-founder Jensen Huang. *[Business Recorder](https://www.brecorder.com/news/40448724/colette-kress-the-cfo-who-challenged-huangs-bets-is-nvidias-interim-ceo)*
+- The **iPhone 18 Pro Max** has established a new benchmark in comprehensive battery endurance testing. *[ARY](https://arynews.tv/iphone-18-pro-max-sets-new-benchmark-in-comprehensive-battery-endurance-test)*
+
+### Weather
+- The valley of **Askole** experienced its first snowfall, transforming the area into a winter landscape. *[ARY](https://arynews.tv/magical-first-snowfall-turns-pakistans-last-valley-askole-into-winter-paradise)*
 
 ### Politics
-- The cousin of the PTI founder has been released from jail. *[ARY](https://arynews.tv/pti-founders-cousin-released-from-jail)*
-- Ukrainian President Volodymyr Zelenskiy held discussions with Indian PM Narendra Modi regarding upcoming trilateral talks between Russia, the US, and Ukraine in Abu Dhabi. *[Business Recorder](https://www.brecorder.com/news/40448132/zelenskiy-speaks-to-modi-ahead-of-ukraine-russia-talks)*
-- Chancellor Friedrich Merz has nominated Ilse Aigner as the conservative candidate to potentially become Germany's first female president in January. *[Business Recorder](https://www.brecorder.com/news/40448131/germany-set-to-get-its-first-female-president-after-merz-backs-bavarian-conservative-aigner)*
-- US President Donald Trump is set to meet with the Prime Minister of Qatar to discuss mediation efforts to end the ongoing Iran war. *[Business Recorder](https://www.brecorder.com/news/40448121/trump-to-meet-iran-war-mediator-qatar-no-imminent-deal-seen-to-end-the-war)*
-- Iran has defended its proposal to restart peace talks within two days, despite the US rejecting conditions regarding the lifting of sanctions and naval blockades. *[Business Recorder](https://www.brecorder.com/news/40448117/iran-defends-two-day-proposal-for-peace-talks-after-us-rejects-conditions)*
-- Polling indicates Marine Le Pen is leading the 2027 French presidential race with an expected first-round vote share of between 34% and 36%. *[Business Recorder](https://www.brecorder.com/news/40448115/le-pen-and-melenchon-ahead-in-2027-french-presidential-race-poll-shows)*
+- Chief Justice Yahya Afridi has requested provincial and Islamabad bar councils to nominate **two members each** to review draft e-filing templates. *[Business Recorder](https://www.brecorder.com/news/40448698/cjp-invites-bar-nominations-for-draft-e-filing-review)*
+- PTI Chairman Gohar Ali Khan visited Shah Mahmood Qureshi at the **Punjab Institute of Cardiology (PIC)** after Qureshi collapsed at Kot Lakhpat jail. *[Business Recorder](https://www.brecorder.com/news/40448701/gohar-inquires-after-qureshi-at-pic)*
 
 ### National
-- Muhammad Ali Durrani has launched the ‘Marka-e-Khushali’ movement to advocate for the creation of new provinces. *[ARY](https://arynews.tv/muhammad-ali-durrani-launches-marka-e-khushali-movement-for-new-provinces)*
-- Pakistan Customs intercepted an attempt to smuggle 51kg of hashish into Karachi. *[ARY](https://arynews.tv/pakistan-customs-foils-attempt-to-smuggle-51kg-of-hashish-to-karachi)*
-- Construction at the Tarbela Fifth Extension (T5) Hydropower Project was suspended after a rock collapse caused water to flood Tunnel No. 5. *[Business Recorder](https://www.brecorder.com/news/40448122/rock-collapse-at-tarbela-t5-sends-water-into-tunnel-work-stopped)*
+- The Punjab government has announced job vacancies with salaries reaching up to **Rs. 950,000**. *[ARY](https://arynews.tv/punjab-announces-vacancies-with-salaries-up-to-rs-950000)*
+- The National Population Council (NPC) urged federal and provincial governments to coordinate on healthcare and education to manage rapid population growth. *[Business Recorder](https://www.brecorder.com/news/40448706/rapid-population-growth-npc-body-urges-govts-to-join-forces)*
+- In the Mir Raza case, the JIT has sealed the restaurant belonging to partner **Ahmed Bhardey**, though the family claims it has been closed since **July 29**. *[ARY](https://arynews.tv/mir-raza-case-jit-seals-partner-ahmed-bhardeys-restaurant); [ARY](https://arynews.tv/mir-raza-case-bhardeys-family-says-north-nazimabad-restaurant-closed-since-july-29)*
+- Federal Minister Ahsan Iqbal proposed a **Joint Working Group (JWG)** to finalize the feasibility and financing for mining projects and the **Nokundi–Gwadar** road corridor. *[Business Recorder](https://www.brecorder.com/news/40448695/mining-projects-ahsan-proposes-jwg-formation-to-finalise-feasibility-financing)*
+- Ahsan Iqbal is seeking practical recommendations from education experts to implement effective reforms, including a model system in **Islamabad**. *[Business Recorder](https://www.brecorder.com/news/40448696/ahsan-seeks-suggestions-on-education-reforms)*
+- The Anti-Terrorism Court (ATC) recorded statements from **three more witnesses** in the murder case of PAF Group Captain Asim Tariq. *[Business Recorder](https://www.brecorder.com/news/40448697/captain-asim-tariq-murder-case-atc-records-statements-of-three-more-witnesses)*
+- The Pasban Democratic Party (PDP) criticized the government for rising utility bills and the high cost of **LPG** due to gas unavailability. *[Business Recorder](https://www.brecorder.com/news/40448703/govt-squeezing-blood-of-public-through-utility-bills-pdp)*
+- NADRA has released instructions on how to register for a **Pak Identity** account. *[ARY](https://arynews.tv/how-to-register-a-pak-identity-account-nadra-explains)*
 
 ### International
-- Pakistan has officially condemned an attempted Houthi attack on a Saudi Aramco building. *[ARY](https://arynews.tv/pakistan-condemns-attempted-houthi-attack-on-saudi-aramco-building)*
-- A sand embankment collapse caused by torrential rain in Gaza killed four people, including a woman and three children, near Deir al-Balah. *[Business Recorder](https://www.brecorder.com/news/40448130/four-killed-in-gaza-after-sand-embankment-collapses-on-to-tents)*
-- A major fire in a 40-storey high-rise building in Taiyuan, China, killed at least 14 people and left 25 others hospitalized. *[Business Recorder](https://www.brecorder.com/news/40448116/building-fire-kills-14-in-chinas-northern-city-of-taiyuan)*
+- The Indian rupee is facing pressure and is expected to open weaker than the **94-per-dollar** mark due to rising oil prices and US yields. *[Business Recorder](https://www.brecorder.com/news/40448725/indian-rupee-faltering-rally-faces-returning-oil-pressure-surging-us-yields)*
+- The US dollar is trading near a **19-month high**, while the Japanese yen is testing the **160** mark amid expectations of a Federal Reserve rate hike. *[Business Recorder](https://www.brecorder.com/news/40448719/dollar-near-19-month-high-on-fed-hike-bets-yen-tests-160)*
+- Indian equity benchmarks remained muted with **GIFT Nifty futures at 25,267.5**, despite foreign institutional inflows of **$832.71 million**. *[Business Recorder](https://www.brecorder.com/news/40448722/indian-shares-likely-to-open-flat-as-oil-surge-counters-strong-foreign-inflows)*
+- Iran’s Revolutionary Guards claimed to have targeted a **US early-warning radar in Bahrain** in retaliation for an attack on a telecommunications tower in Hormozgan province. *[Business Recorder](https://www.brecorder.com/news/40448721/irans-guards-say-they-targeted-a-us-early-warning-radar-in-bahrain)*
 
 ### Sports
-- British-Somali boxer Ramla Ali secured her first world title at age 37, winning the vacant WBO and IBF junior featherweight belts in Arlington, Texas. *[Business Recorder](https://www.brecorder.com/news/40448124/ramla-ali-wins-first-world-title-at-37-in-texas)*
+- **KPC Blues** won the Karachi Press Club (KPC) Super Sixes Night Cricket Tournament by defeating Photographers XI by **five wickets**. *[Business Recorder](https://www.brecorder.com/news/40448716/kpc-blues-win-kpc-super-sixes-cricket-tournament)*
+- The Pakistan Football Federation (PFF) is attempting to overhaul its constitution to meet **FIFA requirements** and secure international funding. *[Business Recorder](https://www.brecorder.com/news/40448700/football-body-striving-to-meet-fifa-requirements)*
 
 ### Health
-- A late-stage study on sleep apnea by Foundayo has reached its primary objective. *[ARY](https://arynews.tv/foundayo-meets-main-goal-in-late-stage-sleep-apnea-study)*
-- Reports indicate the United States has been left vulnerable to the flesh-eating screwworm. *[ARY](https://arynews.tv/us-was-left-exposed-to-the-flesh-eating-screwworm)*
+- Under the Chief Minister Punjab Cardiac Surgery Program, more than **Rs. 1.5 billion** has been provided for the free medical treatment of heart disease patients. *[Business Recorder](https://www.brecorder.com/news/40448707/heart-diseases-over-rs15bn-provided-for-the-free-patients-treatment)*
 
 ### Other
-- Leaked files from the upcoming GTA 6 release have revealed hidden multiplayer code. *[ARY](https://arynews.tv/leaked-gta-6-release-files-reveal-hidden-multiplayer-code-ahead-of-launch)*
+- A missing teenager in Australia survived **six days** in the bush, subsisting only on water and crisps. *[ARY](https://arynews.tv/miracle-in-the-wilderness-missing-teen-survives-six-days-in-australian-bush-on-crisps-and-water)*
 
