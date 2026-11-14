@@ -7,51 +7,49 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 13-Nov-2026 21:11PKT 
+ &lrm; 14-Nov-2026 09:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- پاکستان کے پہلے کیش لیس شہر کے لیے حکومت نے 31 دسمبر کی ڈیڈ لائن مقرر کر دی ہے۔ *[ARY](https://arynews.tv/pakistan-first-cashless-city-government-sets-december-31-deadline)*
-- بھارت کا اکتوبر کا تجارتی خسارہ ایک سال کی بلند ترین سطح 39.88 ارب ڈالر تک پہنچ گیا، جبکہ سونے کی درآمدات ستمبر کے 1.8 ارب ڈالر سے بڑھ کر 5.51 ارب ڈالر ہو گئیں۔ *[Business Recorder](https://www.brecorder.com/news/40448780/indias-october-trade-deficit-hits-one-year-high-of-3988-billion-as-gold-imports-jump)*
-- پاکستان سنگل ونڈو (PSW) اور علی بابا ڈاٹ کام کے درمیان ایک معاہدہ ہوا ہے تاکہ ڈیجیٹل ٹریڈ ڈیٹا کنفرمیشن سروس کے ذریعے پاکستانی برآمد کنندگان کی عالمی تجارت میں مدد مل سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448777/psw-alibabacom-partner-to-boost-trust-in-global-e-commerce-support-pakistani-exporters)*
-- متحدہ عرب امارات کے اسٹاک مارکیٹ میں کمی آئی، جہاں دبئی کا مین انڈیکس 0.6 فیصد گر گیا اور سالک کمپنی کا تیسری سہ ماہی کا منافع 8.5 فیصد کم ہو کر 341.1 ملین درہم رہا۔ *[Business Recorder](https://www.brecorder.com/news/40448775/uae-stocks-decline-on-weak-corporate-earnings)*
-- انٹرنیشنل انرجی ایجنسی (IEA) کے مطابق عالمی آئل مارکیٹ چوتھی سہ ماہی میں سرپلس کی طرف واپس جا رہی ہے، اور فروری کے آخر تک 71 ملین بیرل تیل دستیاب ہوگا۔ *[Business Recorder](https://www.brecorder.com/news/40448772/world-oil-market-is-returning-to-surplus-as-gulf-exports-recover-iea-says)*
-- سری لنکا کا اسٹاک انڈیکس 0.6 فیصد گر کر 22,024.18 پوائنٹس پر بند ہوا، جبکہ ٹریڈنگ والیوم 100.7 ملین شیئرز رہا۔ *[Business Recorder](https://www.brecorder.com/news/40448771/financial-and-industrial-stocks-drag-sri-lankan-shares-lower)*
-- ٹٹا موٹرز پیسنجر ویہیکلز کو جولائی-ستمبر کی سہ ماہی میں 55.31 ارب روپے کا خالص نقصان ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448768/tata-motors-pv-posts-quarterly-loss-as-jlr-restructuring-costs-bite)*
-- بھارت کی پے ٹم (Paytm) کو ڈیجیٹل والٹ لائسنس کے لیے RBI سے ابتدائی منظوری مل گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448767/indias-paytm-gets-preliminary-rbi-nod-for-wallet-licence-shares-hit-record-high)*
-- لندن میٹل ایکسچینج پر تانبے (Copper) کی قیمت 0.5 فیصد گر کر 13,519 ڈالر فی میٹرک ٹن ہوگئی۔ *[Business Recorder](https://www.brecorder.com/news/40448766/copper-falls-heads-for-fifth-straight-weekly-drop-on-ai-rout)*
-- پاکستان میں سونے کی قیمت فی تولہ 4,900 روپے گر کر 411,636 روپے ہوگئی، جبکہ 10 گرام سونا 352,911 روپے پر فروخت ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448765/gold-price-per-tola-loses-rs4900-in-pakistan)*
-- پاکستانی روپیہ امریکی ڈالر کے مقابلے میں معمولی اضافے کے ساتھ 276.60 پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448764/intra-day-update-rupee-records-gain-against-us-dollar)*
-- ملائیشیا میں پام آئل کا جنوری کی ڈیلیوری کا معاہدہ 0.5 فیصد اضافے کے ساتھ 4,462 رنگٹ پر بند ہوا۔ *[Business Recorder](https://www.brecorder.com/news/40448763/palm-oil-post-first-weekly-gain-in-three-weeks)*
-- چینی کمپنی ٹرانزیشن ہولڈنگز پاکستان میں اسمارٹ فون اسمبلی کے بجائے اجزاء کی مقامی تیاری (Component Manufacturing) پر غور کر رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448773/tecno-infinix-maker-eyes-component-manufacturing-in-pakistan)*
+- اوگرا (OGRA) کے نئے نوٹیفکیشن کے بعد پٹرول کی قیمتوں میں کمی کر دی گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-reduced-as-ogra-issues-new-notification)*
+- پی آئی ڈی ای (PIDE) کی ایک کانفرنس میں تجارتی معاہدوں کے لیے برآمدات پر مبنی نقطہ نظر اختیار کرنے پر زور دیا گیا تاکہ علاقائی برآمدات کو فروغ دیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448885/pide-holds-moot-speakers-for-export-oriented-approach-to-trade-accords)*
+- حکومت نے چھوٹے اور درمیانے درجے کے اداروں (SMEs) کے لیے **300 ارب روپے** کا ایکسپورٹ فنانس ریزرو مخصوص کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448883/phma-welcomes-rs300bn-export-finance-reserve-for-smes)*
+- ایف بی آر (FBR) نے لاہور میں 17 نومبر کو ان لینڈ ریونیو کے گریڈ 17 اور اس سے اوپر کے افسران کی صلاحیتوں کا جائزہ لینے کے لیے تربیتی ضرورت کا سروے کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448881/fbr-to-assess-irs-officials-capabilities-on-17th)*
+- ڈیٹا پر مبنی تحقیق کو پالیسی سازی کے لیے ضروری قرار دیا گیا تاکہ سرکاری اور نجی شعبوں میں ترقی کو یقینی بنایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448880/data-based-research-prerequisite-to-improve-quality-of-decisions-mehar)*
+- ایف بی آر میں صنفی عدم مساوات کے اعداد و شمار ظاہر کرتے ہیں کہ کل **19,549** بھرتی شدہ اسامیوں میں سے صرف **1,772** خواتین کے پاس ہیں (تقریباً **9.55 فیصد**)، جبکہ مردوں کی تعداد **16,777** ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448879/data-shows-gender-workforce-disparity-in-fbr)*
+- تاجروں نے بین الاقوامی مارکیٹ کی قیمتوں پر مبنی شفاف اور حقیقت پسندانہ کسٹمز ویلیویشن سسٹم کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448878/businessmen-seek-realistic-customs-valuation-system)*
+- پاکستان سنگل ونڈو (PSW) اور Alibaba.com نے بین الاقوامی ای کامرس میں پاکستانی کاروبار کے اعتماد کو بڑھانے کے لیے 'ٹریڈ ڈیٹا کنفرمیشن سروس' شروع کرنے کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448877/psw-amp-alibabacom-to-roll-out-trade-data-confirmation-service)*
+- پنجاب ریونیو اتھارٹی (PRA) ٹیکس کلچر اور ڈیجیٹل ادائیگیوں کو فروغ دینے کے لیے ہوٹلوں اور ریستوراں کے صارفین کے لیے ایک انعام سکیم شروع کرنے جا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448811/pra-promoting-digital-payments)*
+- پی ڈی ڈبلیو پی (PDWP) نے مختلف شعبوں بشمول صحت، تعلیم اور انفراسٹرکچر کے لیے **126.668 ارب روپے** کے **19** ترقیاتی منصوبوں کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448810/pdwp-approves-19-schemes-worth-rs12668bn)*
+- پنجاب میں گندم کی کاشت کا ہدف **52 فیصد** مکمل ہو چکا ہے، جبکہ گزشتہ سال کے مقابلے میں کاشت شدہ رقبے میں **7.7 فیصد** اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448809/punjab-achieves-52pc-of-its-wheat-cultivation-target)*
+- مالی سال 2026-27 کی پہلی سہ ماہی میں پاکستان کا مالیاتی سرپلس سال قبل کے مقابلے میں **40 فیصد** گر کر **1.273.7 ٹریلین روپے** (جی ڈی پی کا **0.9 فیصد**) رہ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448853/1qfy27-fiscal-surplus-plunges-40pc-yoy)*
+- وزیراعظم نے بین الاقوامی مائننگ کمپنیوں پر زور دیا کہ وہ پاکستان میں معدنیات کی پروسیسنگ اور ریفائننگ کی سہولیات میں سرمایہ کاری کریں۔ *[Business Recorder](https://www.brecorder.com/news/40448858/global-mining-cos-urged-to-invest-in-mineral-facilities)*
+- ماری انرجیز نے ضلع چاگی میں تانبے اور سونے کے ایک اہم ذخیرے کی دریافت کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448859/mari-energies-announces-copper-gold-discovery-in-chagai)*
 
 ### سائنس اور ٹیکنالوجی
-- مائیکروسافٹ کے آؤٹج کے باعث $16 ارب کے معاشی نقصانات کا خدشہ ہے، جبکہ بیمہ شدہ نقصانات 300 ملین سے 1.4 ارب ڈالر کے درمیان ہو سکتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448782/microsoft-outage-could-generate-700-million-in-insured-losses-kovrr)*
-- مائیکروسافٹ کے آؤٹج کے باعث آؤٹ لک، ٹیمز اور کو پائلٹ دنیا بھر میں متاثر ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40448769/microsoft-outage-hits-outlook-teams-and-copilot-worldwide)*
-- این ویڈیا (Nvidia) کے عبوری سی ای او کی جانب سے واشنگٹن کے حوالے سے سخت موقف میں نرمی کے امکانات ہیں۔ *[ARY](https://arynews.tv/nvidias-interim-ceo-may-soften-confrontational-stance-on-washington)*
+- ایپل نے اپنے اسمارٹ ایکو سسٹم کو وسعت دیتے ہوئے **HomeView** ڈسپلے اور نئے **Apple TV 4K** متعارف کروا دیے ہیں۔ *[ARY](https://arynews.tv/apple-expands-smart-ecosystem-with-homeview-display-and-powerhouse-apple-tv-4k)*
 
 ### سیاست
-- عوامی جماعت (JI) نے دارالحکومت میں مقامی حکومت کے انتخابات کی معطلی کی مذمت کی ہے۔ *[ARY](https://arynews.tv/ji-condemns-suspension-of-local-government-elections-in-capital)*
-- اسد محمود نیب (NAB) کے نئے سمن کے باوجود پیش ہونے سے گریز کر گئے۔ *[ARY](https://arynews.tv/asad-mahmood-skips-nab-appearance-despite-fresh-summons)*
-- اسلام آباد ہائی کورٹ نے وفاقی دارالحکومت میں مقامی حکومت کے انتخابات کے شیڈول پر حکم امتناع جاری کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448770/islamabad-high-court-suspends-local-government-election-schedule)*
+- فہد چوہدری نے پنجاب کے اگلے وزیر اعلیٰ کے امیدوار کے حوالے سے اہم انکشافات کیے ہیں۔ *[ARY](https://arynews.tv/fawad-chaudhry-reveals-who-could-become-punjabs-next-chief-minister)*
 
 ### قومی
-- سپریم کورٹ نے کیسز کے بوجھ کو کم کرنے کے لیے ایڈہاک ججز مقرر کرنے کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/sc-plans-to-appoint-ad-hoc-judges-to-clear-case-backlog)*
-- للیہ سے جہلم تک کی سڑک کا منصوبہ پانچ سال کی تکمیل کے بعد مکمل ہو گیا۔ *[ARY](https://arynews.tv/lillah-jhelum-road-project-completed-after-five-years)*
-- سندھ ہائی کورٹ نے 24 ارب روپے کے بلیک سکورپین سیل سے متعلق کیس میں فیصلہ محفوظ کر لیا ہے۔ *[ARY](https://arynews.tv/shc-reserves-verdict-in-rs24bn-black-scorpions-sale-proceeds-case)*
-- سندھ حکومت نے اخراجات میں کمی کے لیے الیکٹرک وہیکلز (EVs) کو ترجیح دینے کا منصوبہ بنایا ہے۔ *[ARY](https://arynews.tv/sindh-government-plans-to-prioritize-evs-to-cut-costs)*
-- وفاقی حکومت نے سرکاری ملازمین کے لیے اثاثوں کے ڈیجیٹل اعلان کی ڈیڈ لائن 30 نومبر 2026 تک بڑھا دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448778/govt-extends-deadline-for-civil-servants-to-digitally-declare-assets-to-nov-30)*
-- چیف آف آرمی اسٹاف فیلڈ مارشل سید عاصم منیر نے کہا کہ پاکستان معدنیات میں طویل مدتی سرمایہ کاری کے لیے ایک مسابقتی منزل بننا چاہتا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448774/pakistan-aims-to-become-competitive-destination-for-long-term-mineral-investment-cdf)*
+- وزیراعظم نے ریکوڈک اور دیگر معدنیاتی منصوبوں سے مقامی آبادی کو فائدہ پہنچانے کے لیے مؤثر اقدامات کرنے کی ہدایت کی ہے۔ *[ARY](https://arynews.tv/pm-directs-effective-measures-to-ensure-local-benefits-from-reko-diq-mineral-projects)*
+- ذرائع کے مطابق وفاق نے صوبائی مشاورت کے بغیر سندھ پولیس کے سینئر افسران کی تبادلیاں کر دی ہیں۔ *[ARY](https://arynews.tv/federal-govt-transfers-senior-sindh-police-officers-without-provincial-consultation-sources)*
+- بلوچستان اسمبلی نے قبائلی نظام کے خاتمے کی قرارداد مسترد کر دی ہے۔ *[ARY](https://arynews.tv/balochistan-assembly-rejects-resolution-seeking-abolition-of-tribal-system)*
+- واسا (WASA) لاہور نے جوہر ٹاؤن میں **1,000** جدید الٹراسونک اسمارٹ واٹر میٹر نصب کر کے اسمارٹ میٹرنگ سسٹم کا باقاعدہ آغاز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448887/wasa-launches-smart-water-metering-system-in-lahore)*
+- وزیراعظم شہباز شریف نے برطانیہ میں مقیم پاکستانیوں کے کردار کو سراہا اور بتایا کہ برطانیہ کے تقریباً **20 لاکھ** شہری پاکستانی نژاد ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448884/pm-lauds-role-of-overseas-pakistanis-in-uk)*
+- پنجاب حکومت نے 'مریم نواز کا سوہنا پنجاب' پروگرام کے دوسرے اور تیسرے مرحلے کا آغاز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448812/sohna-punjab-programme-punjab-launches-second-third-phases)*
+- چیف آف ڈیفنس فورسز فیلڈ مارشل سید عاصم منیر نے مائننگ ایکو سسٹم کی مکمل سیکیورٹی کو یقینی بنانے کا عہد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448860/steps-being-taken-to-ensure-mining-ecosystem-security-cdf)*
 
 ### بین الاقوامی
-- سعودی عرب کے سول ڈیفنس نے جزان (Jazan) صوبے میں خطرے کے خاتمے کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448784/saudi-civil-defence-says-danger-passed-in-jazan)*
-
-### کھیل
-- یو ایف سی (UFC) کے کھلاڑی میراب کے ساتھ جھگڑے کے بعد خبیب کے کزن عثمان کو جیل کی سزا سنائی گئی۔ *[ARY](https://arynews.tv/khabibs-cousin-usman-receives-jail-sentence-following-brawl-with-ufcs-merab)*
-- بھارتی ہیڈ کوچ گوتم گمبھیر نے ون ڈے ورلڈ کپ سے قبل بھارتی بیٹنگ لائن کے اچانک ڈھیر ہونے پر تشویش کا اظہار کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448783/gambhir-concerned-by-indias-batting-collapses-ahead-of-odi-world-cup)*
-- جنوبی افریقہ کے فاسٹ بولر کاگیسو رباڈا نے بنگلہ دیش کے خلاف ٹیسٹ سیریز میں پوری شدت سے کھیلنے کا وعدہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448779/south-africa-will-not-ease-off-against-bangladesh-rabada-warns)*
+- کویت نے نو اضلاع میں بجلی کی لوڈ شیڈنگ کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/kuwait-announces-power-cut-in-nine-districts-could-yours-be-next)*
+- امریکی ویزا کی پابندیوں کے باعث مس یونیورس میں شرکت کرنے والی افریقی بیوٹی کوئینز مشکلات کا شکار ہیں۔ *[ARY](https://arynews.tv/african-beauty-queens-in-limbo-as-us-visa-curbs-hit-miss-universe)*
+- امریکہ میں مواصلاتی خرابی کے باعث ہونے والے فضائی تعطیل کے دوران **4,700** سے زائد پروازیں منسوخ اور **10,000** سے زائد میں تاخیر ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40448889/us-lifts-nationwide-flight-shutdown-caused-by-communications-failure)*
 
 ### صحت
-- امریکہ نے 2026 میں خسرہ (Measles) سے متعلقہ چھ اموات کی تصدیق کی ہے۔ *[ARY](https://arynews.tv/us-confirms-six-measles-related-deaths-in-2026)*
+- فائزر (Pfizer) کینیڈا میں اپنی دوا **Premarin** کی فروخت بند کرنے جا رہی ہے۔ *[ARY](https://arynews.tv/pfizer-to-stop-selling-premarin-in-canada)*
+- امریکہ میں سال 2026 کے دوران خسرہ سے متعلق **6** اموات کی تصدیق کی گئی ہے۔ *[ARY](https://arynews.tv/us-confirms-six-measles-related-deaths-in-2026)*
+- یونیورسٹی آف ہیلتھ سائنسز (UHS) نے طبی تعلیم اور نگرانی کے لیے **PRIME** نامی صوبائی ڈیجیٹل پلیٹ فارم لانچ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448886/uhs-launches-digital-platform)*
+- پنجاب حکومت نے غذائی قلت سے نمٹنے کے لیے آٹے، گھی، کوکنگ آئل اور نمک کی لازمی فورٹیفیکیشن کے لیے **پنجاب فوڈ فورٹیفیکیشن بل 2026** کا مسودہ تیار کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448882/punjab-drafts-food-fortification-bill-2026-fortification-of-flour-ghee-oil-mandatory-to-address-malnutrition)*
 
