@@ -4,52 +4,50 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 14-Nov-2026 21:04PKT
+Published at: 15-Nov-2026 09:04PKT
 
-Time to read: 5 mins
+Time to read: 4 mins
 
 ### Economy
-- Gold prices in Pakistan decreased by Rs. 700 per tola, reaching Rs. 410,936, while 10-gram gold fell by Rs. 600 to Rs. 352,311. *[Business Recorder](https://www.brecorder.com/news/40448909/gold-price-drops-by-rs2700-per-tola-in-pakistan)*
-- Federal Reserve Bank of Boston President Susan Collins advocated for gradual, modest interest rate hikes to manage economic uncertainties and two-sided risks. *[Business Recorder](https://www.brecorder.com/news/40448923/feds-collins-says-gradual-rate-hikes-best-to-manage-economic-risks)*
-- The Pakistan Minerals Investment Forum 2026 (PMIF26) was held in Islamabad with participation from over 60 countries to attract foreign investment in the mineral sector. *[Business Recorder](https://www.brecorder.com/news/40448905/pakistans-mineral-moment-from-pmif26)*
-- Binance aims to fully reopen withdrawals for all remaining networks and assets by the end of next week following a security breach that resulted in the theft of $6.3 billion. *[Business Recorder](https://www.brecorder.com/news/40448906/binance-targets-full-reopening-of-withdrawals-by-next-week)*
+- **Pakistan Railways** achieved a historic milestone by generating more than **Rs.100 billion** in revenue for the first time in its history. *[ARY](https://arynews.tv/pakistan-railways-achieves-historic-rs-100-billion-revenue-milestone-hanif-abbasi)* / *[Business Recorder](https://www.brecorder.com/news/40448998/railways-revenue-exceeds-rs100bn-for-first-time-in-history-abbasi)*
+- The **Punjab government** approved **Rs.23.85 billion** for the **Khushhal Dehat Programme**, allocating **Rs.50 million** to each of **475 villages** to develop paved streets and sewerage systems. *[Business Recorder](https://www.brecorder.com/news/40448997/punjab-approves-rs23.85bn-for-rural-development-programme)*
 
 ### Science & Technology
-- Italy's data protection agency fined Meta Platforms €805 million ($887 million) for accessing Android users' photos and videos through a Facebook app feature without consent. *[Business Recorder](https://www.brecorder.com/news/40448921/italy-fines-meta-887-million-over-android-users-data-access)*
+- **Microsoft** announced that services have been **restored** to customers following a massive global outage that disrupted business and public services worldwide. *[Business Recorder](https://www.brecorder.com/news/40448991/microsoft-announces-service-restored-global-outage-over)*
 
 ### Weather
-- A new quick-response unit has been deployed in Lahore to combat smog and prevent illegal stubble burning. *[Business Recorder](https://www.brecorder.com/news/40448904/as-smog-hangs-over-lahore-pakistans-new-pollution-squad-races-to-douse-stubble-fires)*
+- **Karachi**: Forecasted temperature of **34-21 (ºC)** today and **35-18 (ºC)** tomorrow. *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
+- **Lahore**: Forecasted temperature of **28-14 (ºC)** today and **28-14 (ºC)** tomorrow. *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
+- **Hyderabad**: Forecasted temperature of **33-21 (ºC)** today and **33-19 (ºC)** tomorrow. *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
 
 ### Politics
-- The Pakistan Telecommunication Authority (PTA) is considering reducing the voice SIM limit per CNIC from five to three, while increasing the limit for data SIMs to support 5G services. *[Business Recorder](https://www.brecorder.com/news/40448920/pta-considers-reducing-voice-sim-limit-from-five-to-three-per-cnic)*
-- President Asif Ali Zardari and Prime Minister Shehbaz Sharif met in Lahore to discuss the country's political, economic, and security situation. *[Business Recorder](https://www.brecorder.com/news/40448916/president-zardari-pm-shehbaz-discuss-political-economic-and-security-situation)*
-- Federal Minister for Climate Change Musadik Masood Malik has been nominated to represent Pakistan at the SCO civilizational dialogue in New Delhi. *[Business Recorder](https://www.brecorder.com/news/40448910/pakistan-climate-minister-to-attend-sco-dialogue-in-new-delhi)*
-- PMML has sent a legal notice to Maryam Nawaz following allegedly defamatory remarks. *[ARY](https://arynews.tv/pmml-sends-legal-notice-to-maryam-nawaz-over-defamatory-remarks)*
+- The **Pakistan Peoples Party (PPP)** will hold nationwide rallies on **November 30** to mark its Foundation Day, with Chairman **Bilawal Bhutto Zardari** addressing the gatherings via video link. *[Business Recorder](https://www.brecorder.com/news/40448992/ppp-to-hold-rallies-to-mark-foundation-day-on-30th)*
 
 ### National
-- Security forces killed 24 terrorists, including two Afghan nationals and a suicide bomber, during operations in Balochistan and Khyber Pakhtunkhwa; four soldiers, including a major, were martyred. *[Business Recorder](https://www.brecorder.com/news/40448908/major-among-four-soldiers-martyred-24-terrorists-killed-in-balochistan-kp-operations-ispr)*
-- An ISPR security operation in Balochistan resulted in eight militants being neutralized and two soldiers being martyred. *[ARY](https://arynews.tv/eight-militants-neutralized-in-security-operation-in-balochistan-2-soldiers-martyred-ispr)*
-- The SHO of Gulistan-e-Johar has been dismissed from service due to negligence in the Mir Raza Ali case. *[ARY](https://arynews.tv/mir-raza-ali-case-sho-gulistan-e-johar-dismissed-over-negligence)*
-- The Punjab government announced free university education for the Spring 2027 semester. *[ARY](https://arynews.tv/punjab-announces-free-educations-at-university-for-spring-2027)*
-- QESCO has announced walk-in interviews for multiple job vacancies. *[ARY](https://arynews.tv/qesco-announces-walk-in-interviews-for-multiple-vacancies)*
-- Four individuals, including a train driver, were arrested for the unauthorized travel of transgender persons inside a locomotive engine. *[ARY](https://arynews.tv/train-driver-among-four-arrested-over-transgender-persons-unauthorized-travel-in-engine)*
+- Security forces killed **24 terrorists** (including **two Afghan nationals** and a **suicide bomber**) during intelligence-based operations in **North Waziristan** and **Balochistan**, while **four soldiers**, including a **major**, were martyred. *[Business Recorder](https://www.brecorder.com/news/40448989/major-among-soldiers-embraced-martyrdom-24-terrorists-killed-in-separate-ibos-in-north-waziristan-balochistan)*
+- The **Punjab government** has approved the transfer of operational control of **Gulfstream Jets** to the **Pakistan Air Force (PAF)**. *[ARY](https://arynews.tv/punjab-approves-transfer-of-gulfstream-jets-operational-control-to-paf)*
+- Opposition leaders have approached the **Federal Constitutional Court (FCC)** seeking the release of non-functional KP Chief Minister **Sohail Afridi** and other PTI leaders. *[Business Recorder](https://www.brecorder.com/news/40448988/opposition-leaders-move-fcc-for-release-of-kp-cm)*
+- Federal Minister **Dr. Musadik Masood Malik** is set to represent Pakistan at the **SCO Civilisational Dialogue** in **New Delhi** from **November 20 to 22, 2026**. *[Business Recorder](https://www.brecorder.com/news/40448990/musadik-malik-to-attend-sco-event-in-india)*
+- **Air Chief Marshal Zaheer Ahmed Baber Sidhu** held high-level defence meetings with Uzbekistan's Defence Minister and Air Force Commander during an official visit to the country. *[Business Recorder](https://www.brecorder.com/news/40448996/air-chief-holds-key-defence-meetings-during-uzbekistan-visit)*
+- A **World Bank** delegation visited beneficiaries of the **'Apni Chhat Apna Ghar'** programme in **Thokar Niaz Baig** and **Kahna**, Lahore, to review the housing initiative. *[Business Recorder](https://www.brecorder.com/news/40449000/wb-team-visits-apni-chhat-apna-ghar-beneficiaries)*
+- Punjab Minister **Azma Bokhari** highlighted the **CM IT Internship Programme** as a primary tool for the economic empowerment of young people. *[Business Recorder](https://www.brecorder.com/news/40449001/young-people-empowerment-govt-top-priority-azma)*
+- **President Asif Ali Zardari** reaffirmed Pakistan’s support for the Palestinian right to self-determination in a letter to President **Mahmoud Abbas** on the **38th anniversary** of Palestine's Declaration of Independence. *[Business Recorder](https://www.brecorder.com/news/40448995/asif-reaffirms-pakistans-support-for-palestine)*
+- The **KP Wildlife Department** successfully released **three confiscated falcons** back into their natural habitat. *[ARY](https://arynews.tv/kp-wildlife-department-frees-three-confiscated-falcons-into-natural-habitat)*
 
 ### International
-- Six people have been arrested following a massive explosion at the HABAS steel factory in Aliaga, Turkiye, which killed 17 workers. *[Business Recorder](https://www.brecorder.com/news/40448919/six-held-over-deadly-turkiye-steel-blast-that-killed-17)*
-- The Saudi-led coalition intercepted and destroyed two Houthi drones launched toward Riyadh and the southern region of Saudi Arabia. *[Business Recorder](https://www.brecorder.com/news/40448918/saudi-led-coalition-says-it-destroyed-houthi-drones-launched-towards-riyadh-southern-region)*
-- President Zelensky stated that the US has suggested Ukraine cede territory to Russia in exchange for joining NATO. *[Business Recorder](https://www.brecorder.com/news/40448915/us-proposes-ukraine-cede-territory-in-exchange-for-joining-nato-zelensky)*
-- Donald Trump informed advisers he may hold off on military strikes against Iran provided there are no new provocations from Tehran or the Houthis. *[Business Recorder](https://www.brecorder.com/news/40448913/trump-tells-advisers-he-may-hold-off-on-iran-attacks-barring-new-provocations-sources-say)*
-- A Spanish prosecutor has expressed favor for the extradition of a pro-Palestinian US Cox Enterprises heir. *[ARY](https://arynews.tv/spanish-prosecutor-favours-extraditing-pro-palestinian-us-cox-enterprises-heir)*
+- **Italy** has fined **Meta $887 million** due to concerns regarding data access for Android users. *[ARY](https://arynews.tv/italy-fines-meta-887-million-over-android-users-data-access)*
+- The **Trump administration** is moving to implement cuts to food stamps affecting **6.3 million people**. *[ARY](https://arynews.tv/trump-administration-moves-to-cut-food-stamps-for-6-3-million-people)*
+- **China and the United States** held trade council discussions regarding tariff cuts, including a reciprocal **'$30 billion-for-$30 billion'** arrangement, ahead of a summit in Shenzhen. *[Business Recorder](https://www.brecorder.com/news/40448985/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting)*
+- The **Bank of England** raised interest rates to **4% from 3.75%** in November, with expectations of further hikes in **2027** to manage inflation. *[Business Recorder](https://www.brecorder.com/news/40448986/boe-likely-to-raise-rates-further-in-2027)*
+- **Pakistan** and 16 other Muslim nations condemned an Israeli airstrike on the **Nasser Medical Complex** in Gaza. *[Business Recorder](https://www.brecorder.com/news/40448987/pakistan-condemns-israels-airstrike-on-gaza-hospital)*
+- **Quad leaders** from the US, Japan, Australia, and India are scheduled to meet in **Manila** this Tuesday. *[Business Recorder](https://www.brecorder.com/news/40448993/trump-other-quad-leaders-to-meet-in-manila-on-tuesday)*
+- **US flights** have resumed following a **four-hour nationwide grounding** caused by outdated communication systems. *[Business Recorder](https://www.brecorder.com/news/40448994/us-flights-resume-after-rare-nationwide-grounding-but-delays-persist)*
+- A **UN official** has urged the US and Iran to allow fertilizer shipments through the **Strait of Hormuz** to prevent a global poverty crisis. *[Business Recorder](https://www.brecorder.com/news/40448984/un-official-urges-iran-us-to-let-fertilizers-through-hormuz-strait)*
 
 ### Sports
-- India won the ACC Men’s U19 Asia Cup by defeating Pakistan on the final ball, successfully chasing a target of 338 at the Al Amerat Cricket Ground in Muscat. *[Business Recorder](https://www.brecorder.com/news/40448924/pakistan-lose-thrilling-u19-asia-cup-final-to-india-on-last-ball)*
-- Japan defeated Brazil 3-2 in Singapore with a decisive goal scored during injury time. *[ARY](https://arynews.tv/japan-score-in-injury-time-to-stun-brazil-3-2-in-singapore)*
-- Vaibhav Sooryavanshi became the youngest captain in men's T20 history at the age of 15 years and 232 days. *[Business Recorder](https://www.brecorder.com/news/40448917/indias-sooryavanshi-becomes-youngest-captain-in-mens-t20-history)*
-- Zimbabwe head coach Justin Sammons has resigned and will step down following the upcoming UAE tour and test against Afghanistan. *[Business Recorder](https://www.brecorder.com/news/40448922/sammons-to-step-down-as-zimbabwes-head-coach-after-uae-tour)*
-- Afghanistan's Naseer Khan Maroofkhil claimed seven wickets on his Test debut against Zimbabwe, restricting them to 339 runs. *[Business Recorder](https://www.brecorder.com/news/40448912/afghanistan-debutant-maroofkhil-misses-equalling-record-but-rattles-zimbabwe)*
-- 46-year-old Brazilian football legend Ronaldinho is set to make his first competitive appearance in over a decade for Italian club Ravenna. *[Business Recorder](https://www.brecorder.com/news/40448914/ronaldinho-poised-for-ravenna-start-and-perhaps-one-last-goal)*
-- South Africa has named Zubayr Hamza and veteran bowler Dane Paterson to their squad for the first Test against Bangladesh. *[Business Recorder](https://www.brecorder.com/news/40448911/south-africa-make-two-changes-for-first-test-against-bangladesh)*
+- **Pakistan** defeated **Bangladesh** to secure a place in the **SAFF final**. *[ARY](https://arynews.tv/pakistan-stun-bangladesh-to-reach-saff-final)*
 
-### Health
-- The WHO reported a rise in respiratory illnesses in Gaza, warning that the situation will worsen as winter floods arrive. *[ARY](https://arynews.tv/respiratory-illnesses-rise-in-gaza-with-worst-to-come-as-winter-floods-arrive-who-says)*
+### Other
+- **Sophie Cunningham** reported receiving thousands of angry direct messages from fans. *[ARY](https://arynews.tv/sophie-cunningham-gets-thousands-of-angry-dms-from-fans)*
+- An editorial noted concerns regarding the **National Cyber Crime Investigation Agency (NCCIA)** conducting raids on registered software houses without warrants, potentially impacting Pakistan's IT investment climate. *[Business Recorder](https://www.brecorder.com/news/40448927/the-ease-of-doing-raids)*
 
