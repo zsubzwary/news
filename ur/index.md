@@ -7,49 +7,51 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 14-Nov-2026 09:10PKT 
+ &lrm; 15-Nov-2026 09:10PKT 
 
 پڑھنے کا وقت : 5 منٹ 
 
 ### معیشت
-- اوگرا (OGRA) کے نئے نوٹیفکیشن کے بعد پٹرول کی قیمتوں میں کمی کر دی گئی ہے۔ *[ARY](https://arynews.tv/petrol-price-reduced-as-ogra-issues-new-notification)*
-- پی آئی ڈی ای (PIDE) کی ایک کانفرنس میں تجارتی معاہدوں کے لیے برآمدات پر مبنی نقطہ نظر اختیار کرنے پر زور دیا گیا تاکہ علاقائی برآمدات کو فروغ دیا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448885/pide-holds-moot-speakers-for-export-oriented-approach-to-trade-accords)*
-- حکومت نے چھوٹے اور درمیانے درجے کے اداروں (SMEs) کے لیے **300 ارب روپے** کا ایکسپورٹ فنانس ریزرو مخصوص کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448883/phma-welcomes-rs300bn-export-finance-reserve-for-smes)*
-- ایف بی آر (FBR) نے لاہور میں 17 نومبر کو ان لینڈ ریونیو کے گریڈ 17 اور اس سے اوپر کے افسران کی صلاحیتوں کا جائزہ لینے کے لیے تربیتی ضرورت کا سروے کرنے کا فیصلہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448881/fbr-to-assess-irs-officials-capabilities-on-17th)*
-- ڈیٹا پر مبنی تحقیق کو پالیسی سازی کے لیے ضروری قرار دیا گیا تاکہ سرکاری اور نجی شعبوں میں ترقی کو یقینی بنایا جا سکے۔ *[Business Recorder](https://www.brecorder.com/news/40448880/data-based-research-prerequisite-to-improve-quality-of-decisions-mehar)*
-- ایف بی آر میں صنفی عدم مساوات کے اعداد و شمار ظاہر کرتے ہیں کہ کل **19,549** بھرتی شدہ اسامیوں میں سے صرف **1,772** خواتین کے پاس ہیں (تقریباً **9.55 فیصد**)، جبکہ مردوں کی تعداد **16,777** ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448879/data-shows-gender-workforce-disparity-in-fbr)*
-- تاجروں نے بین الاقوامی مارکیٹ کی قیمتوں پر مبنی شفاف اور حقیقت پسندانہ کسٹمز ویلیویشن سسٹم کا مطالبہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448878/businessmen-seek-realistic-customs-valuation-system)*
-- پاکستان سنگل ونڈو (PSW) اور Alibaba.com نے بین الاقوامی ای کامرس میں پاکستانی کاروبار کے اعتماد کو بڑھانے کے لیے 'ٹریڈ ڈیٹا کنفرمیشن سروس' شروع کرنے کا معاہدہ کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448877/psw-amp-alibabacom-to-roll-out-trade-data-confirmation-service)*
-- پنجاب ریونیو اتھارٹی (PRA) ٹیکس کلچر اور ڈیجیٹل ادائیگیوں کو فروغ دینے کے لیے ہوٹلوں اور ریستوراں کے صارفین کے لیے ایک انعام سکیم شروع کرنے جا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448811/pra-promoting-digital-payments)*
-- پی ڈی ڈبلیو پی (PDWP) نے مختلف شعبوں بشمول صحت، تعلیم اور انفراسٹرکچر کے لیے **126.668 ارب روپے** کے **19** ترقیاتی منصوبوں کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448810/pdwp-approves-19-schemes-worth-rs12668bn)*
-- پنجاب میں گندم کی کاشت کا ہدف **52 فیصد** مکمل ہو چکا ہے، جبکہ گزشتہ سال کے مقابلے میں کاشت شدہ رقبے میں **7.7 فیصد** اضافہ ہوا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448809/punjab-achieves-52pc-of-its-wheat-cultivation-target)*
-- مالی سال 2026-27 کی پہلی سہ ماہی میں پاکستان کا مالیاتی سرپلس سال قبل کے مقابلے میں **40 فیصد** گر کر **1.273.7 ٹریلین روپے** (جی ڈی پی کا **0.9 فیصد**) رہ گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448853/1qfy27-fiscal-surplus-plunges-40pc-yoy)*
-- وزیراعظم نے بین الاقوامی مائننگ کمپنیوں پر زور دیا کہ وہ پاکستان میں معدنیات کی پروسیسنگ اور ریفائننگ کی سہولیات میں سرمایہ کاری کریں۔ *[Business Recorder](https://www.brecorder.com/news/40448858/global-mining-cos-urged-to-invest-in-mineral-facilities)*
-- ماری انرجیز نے ضلع چاگی میں تانبے اور سونے کے ایک اہم ذخیرے کی دریافت کا اعلان کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448859/mari-energies-announces-copper-gold-discovery-in-chagai)*
+- پاکستان ریلوے نے تاریخ میں پہلی بار 100 ارب روپے سے زائد کی آمدنی کا سنگ میل عبور کر لیا ہے۔ *[ARY](https://arynews.tv/pakistan-railways-achieves-historic-rs-100-billion-revenue-milestone-hanif-abbasi)*
+- چین اور امریکہ کے درمیان تجارتی کونسل کے اجلاس میں ٹیرف میں کمی اور زراعت کے شعبے میں تجارت پر بات چیت ہوئی، جس میں 30 ارب ڈالر کے لیے 30 ارب ڈالر کے ٹیرف کٹ کے معاہدے کا ذکر بھی شامل تھا۔ *[Business Recorder](https://www.brecorder.com/news/40448985/china-us-discuss-tariffs-farm-trade-ahead-of-xi-trump-meeting)*
+- بینک آف انگلینڈ نے مہنگائی پر قابو پانے کے لیے شرح سود کو 3.75 فیصد سے بڑھا کر 4 فیصد کر دیا ہے، اور ماہرین کے مطابق 2027 میں مزید اضافے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448986/boe-likely-to-raise-rates-further-in-2027)*
 
 ### سائنس اور ٹیکنالوجی
-- ایپل نے اپنے اسمارٹ ایکو سسٹم کو وسعت دیتے ہوئے **HomeView** ڈسپلے اور نئے **Apple TV 4K** متعارف کروا دیے ہیں۔ *[ARY](https://arynews.tv/apple-expands-smart-ecosystem-with-homeview-display-and-powerhouse-apple-tv-4k)*
+- مائیکروسافٹ نے عالمی سطح پر ہونے والے بڑے سروس آؤٹج کے بعد تمام خدمات بحال کرنے کا اعلان کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448991/microsoft-announces-service-restored-global-outage-over)*
+
+### موسم
+- کراچی میں آج کا درجہ حرارت 34-21 ڈگری سینٹی گریڈ رہے گا، جبکہ کل 35-18 ڈگری سینٹی گریڈ رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
+- حیدرآباد میں آج درجہ حرارت 33-21 ڈگری سینٹی گریڈ رہے گا اور کل 33-19 ڈگری سینٹی گریڈ رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
+- لاہور میں آج درجہ حرارت 28-14 ڈگری سینٹی گریڈ رہے گا اور کل بھی یہی درجہ حرارت برقرار رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448926/the-weather)*
 
 ### سیاست
-- فہد چوہدری نے پنجاب کے اگلے وزیر اعلیٰ کے امیدوار کے حوالے سے اہم انکشافات کیے ہیں۔ *[ARY](https://arynews.tv/fawad-chaudhry-reveals-who-could-become-punjabs-next-chief-minister)*
+- پاکستان پیپلز پارٹی (PPP) 30 نومبر کو اپنے یوم بنیاد کے موقع پر ملک بھر کے تمام اضلاع میں ریلیاں منعقد کرے گی۔ *[Business Recorder](https://www.brecorder.com/news/40448992/ppp-to-hold-rallies-to-mark-foundation-day-on-30th)*
 
 ### قومی
-- وزیراعظم نے ریکوڈک اور دیگر معدنیاتی منصوبوں سے مقامی آبادی کو فائدہ پہنچانے کے لیے مؤثر اقدامات کرنے کی ہدایت کی ہے۔ *[ARY](https://arynews.tv/pm-directs-effective-measures-to-ensure-local-benefits-from-reko-diq-mineral-projects)*
-- ذرائع کے مطابق وفاق نے صوبائی مشاورت کے بغیر سندھ پولیس کے سینئر افسران کی تبادلیاں کر دی ہیں۔ *[ARY](https://arynews.tv/federal-govt-transfers-senior-sindh-police-officers-without-provincial-consultation-sources)*
-- بلوچستان اسمبلی نے قبائلی نظام کے خاتمے کی قرارداد مسترد کر دی ہے۔ *[ARY](https://arynews.tv/balochistan-assembly-rejects-resolution-seeking-abolition-of-tribal-system)*
-- واسا (WASA) لاہور نے جوہر ٹاؤن میں **1,000** جدید الٹراسونک اسمارٹ واٹر میٹر نصب کر کے اسمارٹ میٹرنگ سسٹم کا باقاعدہ آغاز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448887/wasa-launches-smart-water-metering-system-in-lahore)*
-- وزیراعظم شہباز شریف نے برطانیہ میں مقیم پاکستانیوں کے کردار کو سراہا اور بتایا کہ برطانیہ کے تقریباً **20 لاکھ** شہری پاکستانی نژاد ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40448884/pm-lauds-role-of-overseas-pakistanis-in-uk)*
-- پنجاب حکومت نے 'مریم نواز کا سوہنا پنجاب' پروگرام کے دوسرے اور تیسرے مرحلے کا آغاز کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448812/sohna-punjab-programme-punjab-launches-second-third-phases)*
-- چیف آف ڈیفنس فورسز فیلڈ مارشل سید عاصم منیر نے مائننگ ایکو سسٹم کی مکمل سیکیورٹی کو یقینی بنانے کا عہد کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448860/steps-being-taken-to-ensure-mining-ecosystem-security-cdf)*
+- شمالی وزیرستان اور بلوچستان میں مختلف انٹیلی جنس بیسڈ آپریشنز (IBOs) کے دوران 24 دہشت گرد مارے گئے، جبکہ ایک میجر سمیت 4 فوجی شہید ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40448989/major-among-soldiers-embraced-martyrdom-24-terrorists-killed-in-separate-ibos-in-north-waziristan-balochistan)*
+- پنجاب حکومت نے 'خوشحال دیہات پروگرام' کے لیے 23.85 ارب روپے منظور کیے ہیں، جس کے تحت 475 دیہاتوں میں فی گاؤں 50 ملین روپے کے ترقیاتی کام کیے جائیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40448997/punjab-approves-rs23.85bn-for-rural-development-programme)*
+- اپوزیشن رہنماؤں نے خیبر پختونخوا کے وزیراعلیٰ سہیل آفریدی اور پی ٹی آئی کے دیگر رہنماؤں کی رہائی کے لیے فیڈرل کانস্টিٹیوشنل کورٹ (FCC) سے رجوع کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448988/opposition-leaders-move-fcc-for-release-of-kp-cm)*
+- پنجاب حکومت نے گلف اسٹریم جیٹ کے آپریشنل کنٹرول کی منتقلی کی منظوری دے دی ہے، جو اب پاک فضائیہ (PAF) کے پاس ہوگا۔ *[ARY](https://arynews.tv/punjab-approves-transfer-of-gulfstream-jets-operational-control-to-paf)*
+- کے پی کے وائلڈ لائف ڈیپارٹمنٹ نے ضبط کیے گئے تین شاہینوں (Falcons) کو ان کے قدرتی مسکن میں رہا کر دیا۔ *[ARY](https://arynews.tv/kp-wildlife-department-frees-three-confiscated-falcons-into-natural-habitat)*
+- پاک فضائیہ کے سربراہ کا ازبکستان کا سرکاری دورہ، جہاں علاقائی سلامتی کے حوالے سے اعلیٰ سطح کے دفاعی اجلاس منعقد ہوئے۔ *[Business Recorder](https://www.brecorder.com/news/40448996/air-chief-holds-key-defence-meetings-during-uzbekistan-visit)*
+- صدر آصف علی زرداری نے فلسطین کے 38 ویں یوم آزادی پر فلسطینی صدر محمود عباس کو مبارکباد دی اور حق خودارادیت کی حمایت کا اعادہ کیا۔ *[Business Recorder](https://www.brecorder.com/news/40448995/asif-reaffirms-pakistans-support-for-palestine)*
+- ڈاکٹر مسادق ملک 20 سے 22 نومبر تک نئی دہلی میں ہونے والے ایس سی او (SCO) سولائزیشنل ڈائیلاگ میں پاکستان کی نمائندگی کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40448990/musadik-malik-to-attend-sco-event-in-india)*
+- ورلڈ بینک کے وفد نے لاہور میں 'اپنی چھت اپنا گھر' پروگرام کے تحت تعمیر شدہ مکانات کا دورہ کیا اور مستحقین سے ملاقات کی۔ *[Business Recorder](https://www.brecorder.com/news/40449000/wb-team-visits-apni-chhat-apna-ghar-beneficiaries)*
+- پنجاب میں نوجوانوں کی معاشی خودمختاری کے لیے سی ایم آئی ٹی انٹرنشپ پروگرام کے ذریعے پیشہ ورانہ تربیت فراہم کی جا رہی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40449001/young-people-empowerment-govt-top-priority-azma)*
 
 ### بین الاقوامی
-- کویت نے نو اضلاع میں بجلی کی لوڈ شیڈنگ کا اعلان کیا ہے۔ *[ARY](https://arynews.tv/kuwait-announces-power-cut-in-nine-districts-could-yours-be-next)*
-- امریکی ویزا کی پابندیوں کے باعث مس یونیورس میں شرکت کرنے والی افریقی بیوٹی کوئینز مشکلات کا شکار ہیں۔ *[ARY](https://arynews.tv/african-beauty-queens-in-limbo-as-us-visa-curbs-hit-miss-universe)*
-- امریکہ میں مواصلاتی خرابی کے باعث ہونے والے فضائی تعطیل کے دوران **4,700** سے زائد پروازیں منسوخ اور **10,000** سے زائد میں تاخیر ہوئی۔ *[Business Recorder](https://www.brecorder.com/news/40448889/us-lifts-nationwide-flight-shutdown-caused-by-communications-failure)*
+- اٹلی نے اینڈرائیڈ صارفین کے ڈیٹا تک رسائی کے حوالے سے میٹا (Meta) پر 887 ملین ڈالر کا جرمانہ عائد کر دیا ہے۔ *[ARY](https://arynews.tv/italy-fines-meta-887-million-over-android-users-data-access)*
+- ٹرمپ انتظامیہ نے 6.3 ملین لوگوں کے لیے فوڈ اسٹیمپس (غذائی امداد) میں کٹوتی کا اقدام اٹھایا ہے۔ *[ARY](https://arynews.tv/trump-administration-moves-to-cut-food-stamps-for-6-3-million-people)*
+- امریکی سپریم کورٹ میں ٹرمپ کی پناہ (Asylum) سے متعلق پابندیوں کو قانونی چیلنج کا سامنا ہے۔ *[ARY](https://arynews.tv/trumps-asylum-restrictions-face-legal-test-in-us-supreme-court)*
+- کوآڈ (Quad) ممالک (امریکہ، جاپان، آسٹریلیا اور بھارت) کے رہنما منگل کو منیلا میں ملاقات کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40448993/trump-other-quad-leaders-to-meet-in-manila-on-tuesday)*
+- اقوام متحدہ کے عہدیدار نے ایران اور امریکہ پر زور دیا کہ وہ ہرمز کے تنگناہ سے کھادوں کی کھیپ کو فوری گزرنے دیں۔ *[Business Recorder](https://www.brecorder.com/news/40448984/un-official-urges-iran-us-to-let-fertilizers-through-hormuz-strait)*
+- پاکستان اور 16 دیگر مسلم ممالک نے غزہ کے ناصر میڈیکل کمپلیکس پر اسرائیلی فضائی حملے کی شدید مذمت کی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448987/pakistan-condemns-israels-airstrike-on-gaza-hospital)*
+- امریکہ میں کمیونیکیشن سسٹم کی خرابی کی وجہ سے ہونے والے چار گھنٹے کے گرؤنڈنگ کے بعد پروازیں دوبارہ شروع ہو گئی ہیں، تاہم تاخیر کا سلسلہ جاری ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448994/us-flights-resume-after-rare-nationwide-grounding-but-delays-persist)*
 
-### صحت
-- فائزر (Pfizer) کینیڈا میں اپنی دوا **Premarin** کی فروخت بند کرنے جا رہی ہے۔ *[ARY](https://arynews.tv/pfizer-to-stop-selling-premarin-in-canada)*
-- امریکہ میں سال 2026 کے دوران خسرہ سے متعلق **6** اموات کی تصدیق کی گئی ہے۔ *[ARY](https://arynews.tv/us-confirms-six-measles-related-deaths-in-2026)*
-- یونیورسٹی آف ہیلتھ سائنسز (UHS) نے طبی تعلیم اور نگرانی کے لیے **PRIME** نامی صوبائی ڈیجیٹل پلیٹ فارم لانچ کر دیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448886/uhs-launches-digital-platform)*
-- پنجاب حکومت نے غذائی قلت سے نمٹنے کے لیے آٹے، گھی، کوکنگ آئل اور نمک کی لازمی فورٹیفیکیشن کے لیے **پنجاب فوڈ فورٹیفیکیشن بل 2026** کا مسودہ تیار کر لیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40448882/punjab-drafts-food-fortification-bill-2026-fortification-of-flour-ghee-oil-mandatory-to-address-malnutrition)*
+### کھیل
+- پاکستان نے بنگلہ دیش کو شکست دے کر سیف (SAFF) چیمپئن شپ کے فائنل میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/pakistan-stun-bangladesh-to-reach-saff-final)*
+
+### دیگر
+- کھلاڑی سوفی کناہم کو مداحوں کی جانب سے ہزاروں غصے بھرے پیغامات (DMs) موصول ہوئے۔ *[ARY](https://arynews.tv/sophie-cunningham-gets-thousands-of-angry-dms-from-fans)*
+- سوفی کناہم نے میٹ رائف کے خصوصی جرسی ٹربیوٹ کا جواب دیا۔ *[ARY](https://arynews.tv/sophie-cunningham-responds-to-matt-rifes-special-jersey-tribute)*
 
