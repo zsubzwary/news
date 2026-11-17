@@ -4,49 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 15-Nov-2026 21:04PKT
+Published at: 17-Nov-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Most Gulf bourses closed lower due to tensions in the Strait of Hormuz and Houthi attacks; Saudi Arabia’s benchmark index dropped **0.7%**, while the **Saudi National Bank** saw a **2.3%** loss. *[Business Recorder](https://www.brecorder.com/news/40449028/gulf-bourses-slide-as-hormuz-tensions-and-houthi-strikes-rattle-traders)*
+- Energy Oman has set the price for its Series 2 Sukuk as individual subscriptions commence. *[ARY](https://arynews.tv/energy-oman-sets-series-2-sukuk-price-as-individual-subscriptions-begin)*
+- Indian shares are projected to have a muted start, with GIFT Nifty futures trading at 25,262.50 points. *[Business Recorder](https://www.brecorder.com/news/40449314/indian-shares-on-track-for-muted-start-as-global-cues-weaken)*
+- The Indian rupee is expected to open between 93.84 and 93.88 against the US dollar, following a Monday settlement of 93.9225. *[Business Recorder](https://www.brecorder.com/news/40449313/indian-rupee-to-strengthen-as-oil-slides-ai-trade-unwind-picks-up-pace)*
+- Asian markets saw significant declines due to tech weakness: South Korea’s KOSPI fell 2%, Taiwan stocks dropped 1.4%, and Japan’s Nikkei eased 1%. *[Business Recorder](https://www.brecorder.com/news/40449311/asia-shares-slide-on-tech-weakness-ahead-of-nvidia-earnings)*
+- The US dollar reached a 19-month peak against major currencies following bets on aggressive Federal Reserve policy tightening. *[Business Recorder](https://www.brecorder.com/news/40449310/us-dollar-hits-19-month-peak-on-fed-hike-bets-aussie-dips)*
+- Spot gold prices remained near a one-year low at $3,856.52 per ounce. *[Business Recorder](https://www.brecorder.com/news/40449309/gold-hovers-near-over-one-year-low-as-firm-dollar-fed-hike-bets-weigh)*
+- Oil prices declined as Brent crude fell 0.5% to $92.00 per barrel and US WTI fell 0.5% to $85.28 per barrel. *[Business Recorder](https://www.brecorder.com/news/40449308/oil-slips-on-supply-surplus-outlook-despite-gulf-tensions)*
+- The State Bank of Pakistan (SBP) reported economic resilience in FY26 but emphasized the necessity of structural reforms and tax rationalization. *[Business Recorder](https://www.brecorder.com/news/40449292/economy-shows-resilience-to-shocks-in-fy26-sbp)*
+- The government has earmarked Rs300 billion for small and medium enterprises (SMEs) under the short-term Export Finance Scheme (EFS). *[Business Recorder](https://www.brecorder.com/news/40449294/rs300bn-set-aside-for-smes-under-efs)*
+- Pakistan and Turkmenistan are set to discuss the TAPI gas pipeline during the Sixth Joint Intergovernmental Commission meeting in Islamabad. *[Business Recorder](https://www.brecorder.com/news/40449289/pakistan-turkmenistan-to-discuss-tapi-gas-pipeline)*
+- LCCI Senior Vice President Sardar Usman Ghani urged joint research initiatives between LCCI and Punjab University to improve economic policy formulation. *[Business Recorder](https://www.brecorder.com/news/40449305/economic-planning-and-policy-formulation-lcci-pu-should-undertake-research-initiatives)*
+- National Resources (Private) Limited (NRL) identified copper and gold mineralization across 5.6 square kilometers in Darigwan, Balochistan, following 25,000 meters of drilling. *[Business Recorder](https://www.brecorder.com/news/40449299/balochistan-nrl-identifies-copper-gold-mineralization)*
 
 ### Science & Technology
-- **SpaceX’s Starship** successfully completed a **22-hour** orbital voyage and was caught by mechanical arms at the Texas launch site to test its reusability. *[Business Recorder](https://www.brecorder.com/news/40449017/spacex-starship-returns-to-landing-pad-from-orbit-acing-test-for-reusable-rockets)*
-- A top scorer on a **South Korean tax exam** has confessed to using **AI** to cheat on the test. *[ARY](https://arynews.tv/top-scorer-on-south-korean-tax-exam-confesses-to-cheating-with-ai)*
-
-### Politics
-- **PPP Chairman Bilawal Bhutto-Zardari** condemned the "political victimization" of **JUI-F** during a discussion with **Maulana Fazlur Rehman**. *[Business Recorder](https://www.brecorder.com/news/40449031/bilawal-condemns-political-victimisation-of-jui-f-urges-govt-to-tolerate-criticism)*
-- **Chaudhry Salik** has submitted a written response to a legal notice issued by **Maryam Nawaz**. *[ARY](https://arynews.tv/chaudhry-salik-sends-written-response-to-maryam-nawazs-legal-notice-sources)*
-- **Deputy PM Ishaq Dar** responded positively to an invitation from Egypt for **PM Shehbaz Sharif** to visit Cairo. *[Business Recorder](https://www.brecorder.com/news/40449026/dar-responds-positively-to-egyptian-invitation-for-pm-shehbaz-to-visit-cairo)*
+- Apple’s iOS 27.3 beta has introduced outer screen face unlock capabilities for the iPhone Duo. *[ARY](https://arynews.tv/apple-iphone-duo-gains-outer-screen-face-unlock-in-ios-27-3-beta)*
 
 ### National
-- **PM Shehbaz Sharif** and **Field Marshal Asim Munir** were jointly named at the top of the **Royal Islamic Strategic Studies Centre's (RISSC)** list of the **500 most influential Muslims**. *[Business Recorder](https://www.brecorder.com/news/40449015/pm-shehbaz-field-marshal-munir-share-top-spot-in-list-of-worlds-500-most-influential-muslims)*
-- **Islamabad** is hosting the **30th ECO Council of Ministers** meeting, with delegations arriving from **Turkey, Azerbaijan, Kazakhstan, and Shanghai**. *[Business Recorder](https://www.brecorder.com/news/40449018/delegations-arrive-in-islamabad-as-pakistan-hosts-30th-eco-council-of-ministers-meeting)*
-- **Maryam Nawaz** announced the establishment of the **Punjab Climate Observatory** for real-time environmental monitoring. *[ARY](https://arynews.tv/maryam-nawaz-punjab-climate-observatory-to-monitor-environment-in-real-time)*
-- **Karachi's** water supply has been fully restored following the completion of maintenance work at **Dhabeji**. *[ARY](https://arynews.tv/karachi-water-supply-fully-restored-after-dhabeji-maintenance-work-completed)*
-- **Additional Commissioner Karachi Atif Jalib** led a high-level meeting regarding **army recruitment** procedures. *[ARY](https://arynews.tv/additional-commissioner-karachi-atif-jalib-leads-meeting-on-army-recruitment)*
+- A truck driver attempted a daring escape in Karachi by ramming a traffic police vehicle. *[ARY](https://arynews.tv/truck-driver-rams-traffic-police-vehicle-in-karachi-video)*
+- The Sindh Chief Minister presented a climate resilience plan during the COP31 summit. *[ARY](https://arynews.tv/sindh-cm-presents-climate-resilience-plan-at-cop31)*
+- Ali Khurshidi has claimed that the Dean of the Karachi University Law Department does not hold a master's degree. *[ARY](https://arynews.tv/karachi-university-law-department-dean-has-no-masters-degree-claims-ali-khurshidi)*
+- A Joint Investigation Team (JIT) led by a retired High Court judge has been formed in Khyber Pakhtunkhwa to investigate illegal gold placer mining. *[Business Recorder](https://www.brecorder.com/news/40449304/kp-forms-jit-to-probe-illegal-gold-placer-mining-bilour)*
+- The Lahore High Court adjourned a hearing involving designer Khadija Shah and the FIA regarding money laundering inquiry charges. *[Business Recorder](https://www.brecorder.com/news/40449303/charges-of-money-laundering-hearing-against-fia-for-holding-inquiry-adjourned)*
+- The Appellate Tribunal Inland Revenue (ATIR) took judicial notice of an FBR official granting a fake 30-day adjournment. *[Business Recorder](https://www.brecorder.com/news/40449302/atir-takes-notice-of-fake-adjournment-granted-by-fbr-official)*
 
 ### International
-- Yemeni government forces have withdrawn from an area overlooking the **Bab el-Mandeb Strait**, leaving the **Houthis** in control of the strategic maritime chokepoint. *[Business Recorder](https://www.brecorder.com/news/40449016/yemen-government-forces-withdraw-from-area-near-bab-el-mandeb-strait-houthis-in-control)*
-- **ASEAN and China** reached a provisional agreement on **80%** of a draft code of conduct for the **South China Sea**, though final conclusions remain pending. *[Business Recorder](https://www.brecorder.com/news/40449027/asean-china-fail-to-conclude-south-china-sea-code-of-conduct)*
-- Three commercial ships were struck by drones in the **Black Sea** near **Romania’s Sulina canal**, leading to the scrambling of fighter jets. *[Business Recorder](https://www.brecorder.com/news/40449025/three-ships-struck-by-drones-in-black-sea-near-romanian-shipping-canal-pm-says)*
-- A Jordanian court sentenced **three men to death** for a terrorist attack on a church in **Karak** that killed **nine people**. *[Business Recorder](https://www.brecorder.com/news/40449022/jordan-sentences-three-men-to-death-over-deadly-church-attack)*
-- **US President Donald Trump's** attempts to quickly appoint judges before the Democratic takeover of the Senate are facing resistance from **fellow Republicans**. *[Business Recorder](https://www.brecorder.com/news/40449021/trumps-judge-appointment-blitz-faces-republican-resistance)*
-- The **UAE** has implemented new measures to reduce bureaucracy regarding **work permits**. *[ARY](https://arynews.tv/uae-goes-zero-bureaucracy-work-permits-just-got-easier)*
-- **ASEAN**, under the chairmanship of the **Philippines**, agreed to continue "constructive engagement" with **Myanmar** to advance a five-point peace plan. *[Business Recorder](https://www.brecorder.com/news/40449012/asean-to-continue-constructive-and-principled-engagement-with-myanmar-blocs-chair-philippines-says)*
+- Notorious Mexican drug kingpin Miguel Ángel Félix Gallardo has passed away at the age of 80. *[ARY](https://arynews.tv/notorious-mexican-drug-kingpin-miguel-angel-felix-gallardo-dies-at-80)*
+- Russian missile and drone strikes hit the North and South bridges in Kyiv, causing water and power cuts. *[Business Recorder](https://www.brecorder.com/news/40449317/russian-strikes-hit-two-bridges-in-kyiv-cause-water-power-cuts-mayor-says)*
+- US President Donald Trump stated he might meet North Korean leader Kim Jong Un in China this week. *[Business Recorder](https://www.brecorder.com/news/40449316/trump-says-he-might-meet-with-north-koreas-kim-jong-un-in-china)*
+- Shenzhen has implemented a ban on car horns and delivery drones to prepare for the APEC forum and visiting world leaders. *[Business Recorder](https://www.brecorder.com/news/40449315/horns-and-drones-banned-as-shenzhen-hushes-for-trump-and-apec)*
+- Donald Trump’s Asia trip includes Quad talks in Manila and a potential trilateral meeting in China. *[Business Recorder](https://www.brecorder.com/news/40449312/trump-to-kick-off-asia-trip-with-quad-talks-in-manila-ahead-of-china-visit)*
+- The COP31 draft deal in Turkiye calls for accelerated global action to phase out coal, oil, and gas. *[Business Recorder](https://www.brecorder.com/news/40449298/cop31-draft-deal-calls-for-accelerated-action-to-exit-fossil-fuels)*
 
 ### Sports
-- **India** secured a **3-1** ODI series win over **New Zealand** after a **22-run** victory in Tauranga, fueled by a bowling performance from **Arshdeep Singh**. *[Business Recorder](https://www.brecorder.com/news/40449023/arshdeep-sparks-india-fightback-to-seal-odi-series-win-over-new-zealand)*
-- **Chelsea** moved to the top of the **WSL** table with **26 points** from 10 matches following a **1-0** win against **Manchester City**. *[Business Recorder](https://www.brecorder.com/news/40449014/chelsea-hand-champions-man-city-first-wsl-defeat-this-season-to-go-top)*
-- The **PCB Hall of Fame** has expanded to **16 members** with the induction of former captains **Mohammad Yousuf** and **Sana Mir**. *[Business Recorder](https://www.brecorder.com/news/40449019/yousuf-sana-mir-join-pcb-hall-of-fame-as-membership-rises-to-16)*
-- **Kagiso Rabada** took **three early wickets** for South Africa against **Bangladesh** in their first test at the Wanderers. *[Business Recorder](https://www.brecorder.com/news/40449024/three-early-wickets-for-rabada-in-bright-start-for-south-africa-against-bangladesh)*
-- **Wasim Akram** and **Chadd Sayers** both suggested that the **2018 Australian ball-tampering scandal** involved knowledge among the entire playing squad. *[Business Recorder](https://www.brecorder.com/news/40449029/wasim-akram-politely-suggests-australian-bowlers-knew-about-sandpaper-tampering)*
-- **Aryna Sabalenka** issued an apology for an outburst during her loss to **Elina Svitolina** at the **WTA Finals**. *[Business Recorder](https://www.brecorder.com/news/40449013/sabalenka-apologies-for-outburst-during-loss-to-svitolina)*
-- **Tenerife** held an emotional tribute to striker **Jesus De Miguel**, who passed away on **November 3**, during their match against **Ceuta**. *[Business Recorder](https://www.brecorder.com/news/40449030/tenerife-return-to-action-with-emotional-de-miguel-tribute-after-strikers-death)*
-- Speculation continues regarding whether the **Indiana Fever** will reunite **Kate Martin** and **Caitlin Clark**. *[ARY](https://arynews.tv/could-the-indiana-fever-reunite-kate-martin-and-caitlin-clark-after-her-wnbl-stint)*
+- Nashville’s Maxwell Woledzi has been named the MLS Defender of the Year. *[ARY](https://arynews.tv/nashvilles-maxwell-woledzi-named-mls-defender-of-year)*
+- Haris Rauf secured a hat trick during the Quaid-e-Azam Trophy. *[ARY](https://arynews.tv/haris-rauf-claims-stunning-hat-trick-in-quaid-e-azam-trophy)*
+- The 15-member Pakistan Shaheens squad, led by Abdul Samad, has departed for Doha to compete in the ACC Men’s Asia Cup Rising Stars 2026 (Nov 19–29). *[Business Recorder](https://www.brecorder.com/news/40449306/pakistan-shaheens-depart-to-play-in-acc-mens-asia-cup-rising-stars-2026)*
 
 ### Other
-- **Sophie Cunningham** showcased her **$55M** Paradise Valley mansion in a recent tour. *[ARY](https://arynews.tv/inside-sophie-cunninghams-55m-paradise-valley-mansion-tour-house-hunting-or-content)*
-- **Alice Huang** reportedly departed from the company **Megaspeed** in **August 2025**. *[ARY](https://arynews.tv/megaspeed-says-alice-huang-left-the-company-in-august-2025)*
+- Xbox and DJ Khaled have urged gamers to skip work to play the upcoming GTA 6. *[ARY](https://arynews.tv/xbox-and-dj-khaled-urge-gamers-to-skip-work-for-gta-6)*
+- Twitch has warned creators against using regional exploits to broadcast GTA 6 content early. *[ARY](https://arynews.tv/twitch-warns-gta-6-creators-against-broadcasting-early-via-regional-exploits)*
 
