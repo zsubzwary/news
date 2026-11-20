@@ -4,48 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 19-Nov-2026 09:04PKT
+Published at: 20-Nov-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- The Indian rupee settled at **93.44** to the dollar on Wednesday, hitting a high of **93.2450** during the session. *[Business Recorder](https://www.brecorder.com/news/40449686/indian-rupees-inflow-driven-upward-momentum-faces-hawkish-fed-headwinds?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- Brent crude futures rose by **0.18%** to **$92.12** per barrel, while US WTI futures fell **0.11%** to **$83.17**. *[Business Recorder](https://www.brecorder.com/news/40449685/oil-prices-steady-as-supply-surplus-softens-sentiment-though-gulf-war-supports?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- Indian equities showed volatility as GIFT Nifty futures stood at **25,161.5** points, following the Nifty 50 closing at **25,227.95** on Wednesday. *[Business Recorder](https://www.brecorder.com/news/40449682/indian-shares-set-to-open-lower-as-hawkish-fed-minutes-weigh?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- AI chatbot maker Anthropic announced a massive **$81 billion** IPO, with shares priced at **$83** apiece. *[Business Recorder](https://www.brecorder.com/news/40449681/stocks-rise-after-anthropic-ipo-pricing-sets-stage-for-blockbuster-debut)*
-- The US dollar remains near a **19-month high**, while the Australian dollar fell to a **10-month low** of **$0.6692** following soft jobs data. *[Business Recorder](https://www.brecorder.com/news/40449680/us-dollar-hovers-near-19-month-high-aussie-falls-after-soft-jobs-data?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- The Pakistan Sugar Mills Association (PSMA) has requested the immediate export of **1 million tonnes** of surplus sugar to generate approximately **$500 million** in foreign exchange. *[Business Recorder](https://www.brecorder.com/news/40449675/export-of-surplus-sugar-psma-for-introducing-transparent-policy?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- Pakistan’s listed pharmaceutical companies reported a **5%** year-on-year increase in cumulative earnings for 3QCY26, despite a **1%** decline in revenue. *[Business Recorder](https://www.brecorder.com/news/40449674/pharma-sector-earnings-rise-5pc-despite-weak-sales-growth-in-3qcy26?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- Mango exports from Pakistan declined by **36%** to **78,000 tonnes** this season due to ongoing Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40449670/mango-export-falls-36pc-due-to-me-tensions?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- The Finance Minister met with APTMA leaders to discuss strategies for boosting textile exports. *[ARY](https://arynews.tv/finance-minister-meets-aptma-leaders-to-boost-textile-exports)*
-- The Pakistan Flour Mills Association (Punjab Branch) has demanded that the government ensure a supply of quality wheat to prevent protests against substandard PASSCO supplies. *[Business Recorder](https://www.brecorder.com/news/40449673/pfma-demands-govt-ensure-supply-of-quality-wheat?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- The Pakistan Chemicals & Dyes Merchants Association (PCDMA) expressed concern that the FBR’s decision to separate sales tax and excise duties from income tax may increase the compliance burden on businesses. *[Business Recorder](https://www.brecorder.com/news/40449672/pcdma-concerned-over-decision-to-fragment-taxation-system?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- United Business Group (UBG) President Zubair Tufail urged the government to implement practical measures to promote industrial growth and economic stability. *[Business Recorder](https://www.brecorder.com/news/40449667/govt-should-take-measures-to-promote-industry-ubg-president?v=KmG38EUVeNKTveIOQfU7SAMk)*
+- AI startup Anthropic achieved a massive **$2 trillion** market debut. *[ARY](https://arynews.tv/anthropics-meteoric-rise-from-ai-startup-to-2-trillion-market-debut)*
+- The Indian rupee is expected to open in the **93.28-93.34** range against the US dollar following foreign inflows into Indian assets. *[Business Recorder](https://www.brecorder.com/news/40449954-global-risk-jitters-bolster-rupee-as-investors-turn-to-indian-assets)*
+- Asian markets faced a significant downturn, with the MSCI Asia-Pacific index losing **2.5%**, Japan's Nikkei tumbling **4.1%**, and South Korea's KOSPI falling **4.7%**, marking the worst week since 2020. *[Business Recorder](https://www.brecorder.com/news/40449953-asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate)*
+- Indian benchmark Nifty 50 closed at **25,514.3**, while GIFT Nifty futures stood at **25,352** points. *[Business Recorder](https://www.brecorder.com/news/40449952-indian-stocks-seen-falling-from-nine-month-highs-asia-market-rout-deepens)*
+- The US Dollar index reached a **19-month high**, perched near the **103.9** level. *[Business Recorder](https://www.brecorder.com/news/40449951-dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite)*
+- The State Bank of Pakistan (SBP) launched **SMEConnect**, a centralized digital platform to streamline financing for small and medium enterprises. *[Business Recorder](https://www.brecorder.com/news/40449863-sbp-launches-digital-platform-to-streamline-sme-financing)*
+- Global oil prices saw a slight increase: Brent crude rose **0.3% to $92.22** per barrel, while US WTI rose **0.2% to $83.40** per barrel. *[Business Recorder](https://www.brecorder.com/news/40449950-oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns)*
+- L’Oréal Pakistan announced that over **90%** of its product portfolio is now manufactured locally, supported by over **400** Pakistani suppliers. *[Business Recorder](https://www.brecorder.com/news/40449860-loreal-pakistan-locally-manufactures-over-90pc-of-its-products)*
 
 ### Science & Technology
-- A new comparison has been released analyzing the evolution of gaming over **13 years** between GTA V and GTA VI. *[ARY](https://arynews.tv/gta-v-vs-gta-vi-comparison-what-have-we-seen-over-13-years)*
+- The AI sector saw major movement as Anthropic reached a **$2 trillion** valuation during its market debut. *[ARY](https://arynews.tv/anthropics-meteoric-rise-from-ai-startup-to-2-trillion-market-debut)*
 
 ### Politics
-- Punjab Governor Sardar Saleem Haider Khan emphasized that public opinion is paramount regarding the creation of new provinces, noting that the Sindh Assembly has unanimously opposed such divisions. *[Business Recorder](https://www.brecorder.com/news/40449676/public-opinion-vital-for-new-provinces-governor?v=KmG38EUVeNKTveIOQfU7SAMk)*
+- Zardari and Bilawal Bhutto Zardari have agreed to maintain their political stance regarding the creation of new provinces. *[ARY](https://arynews.tv/zardari-bilawal-agree-not-to-withdraw-stance-on-new-provinces)*
+- Pakistan formally rejected India's unilateral decision regarding the Indus Waters Treaty (IWT) at a UN Security Council meeting, warning that weaponizing water threatens **240 million** people. *[Business Recorder](https://www.brecorder.com/news/40449865-indus-waters-treaty-weaponising-shared-natural-resource-violates-intl-law-pakistan)*
+- Federal Minister Attaullah Tarar emphasized the growing strategic partnership between Pakistan and Türkiye. *[Business Recorder](https://www.brecorder.com/news/40449864-tarar-highlights-strategic-partnership-with-turkiye)*
+- The Punjab Assembly saw heated debates as the opposition accused the government of failing to provide relief to wheat and sugarcane growers. *[Business Recorder](https://www.brecorder.com/news/40449861-opposition-accuses-govt-of-failing-to-provide-relief-to-growers)*
+- JI Karachi chief Monem Zafar Khan criticized the PPP, specifically condemning what he termed "bloodshed threats" made by Bilawal Bhutto Zardari. *[Business Recorder](https://www.brecorder.com/news/40449857-ji-karachi-chief-slams-bilawals-bloodshed-threat)*
 
 ### National
-- Punjab restaurants are facing fines and closures due to the absence of required suction hoods. *[ARY](https://arynews.tv/punjab-restaurants-face-fines-and-closure-over-this-violation)*
-- Maryam Nawaz has announced plans to establish speedy courts dedicated to women and child protection. *[ARY](https://arynews.tv/maryam-nawaz-to-set-up-speedy-courts-for-women-and-child-protection)*
-- Prime Minister Shehbaz Sharif has postponed his scheduled visit to Karachi. *[ARY](https://arynews.tv/pm-shehbaz-sharif-postpones-karachi-visit-sources)*
-- Sindh Governor Syed Muhammad Nehal Hashmi and the Austrian Ambassador met to discuss expanding bilateral trade and industrial cooperation. *[Business Recorder](https://www.brecorder.com/news/40449678/sindh-governor-austrian-envoy-discuss-expanding-trade?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- The Punjab government is investing **Rs7.77 billion** in modern machinery for **22** newly established Water and Sanitation Agencies (WASAs). *[Business Recorder](https://www.brecorder.com/news/40449677/punjab-to-provide-rs777bn-machinery-to-22-new-wasas?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- National Assembly Speaker Sardar Ayaz Sadiq met with the American Business Council to discuss strengthening Pakistan-US trade and investment ties. *[Business Recorder](https://www.brecorder.com/news/40449671/na-speaker-meets-american-business-council-team?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- The Khyber Pakhtunkhwa government is introducing a Green Rickshaw Scheme offering a **50% subsidy** with a **four-year** installment plan. *[Business Recorder](https://www.brecorder.com/news/40449669/kp-to-introduce-subsidized-green-rickshaw-scheme?v=KmG38EUVeNKTveIOQfU7SAMk)*
-- Islamabad Police have assured the local business community of enhanced security and representation in the Alternative Dispute Resolution (ADR) mechanism. *[Business Recorder](https://www.brecorder.com/news/40449668/islamabad-police-assure-businessmen-of-addressing-concerns?v=KmG38EUVeNKTveIOQfU7SAMk)*
+- The Sindh cabinet approved the procurement of **500 electric buses** for Karachi and authorized the **$540 million** STAR-WASH program. *[ARY](https://arynews.tv/sindh-cabinet-approves-500-electric-buses-for-karachi-540m-star-wash-program)*
+- The President of Pakistan has urged the immediate implementation of MoUs signed between Pakistan and the Maldives. *[ARY](https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous)*
+- K-Electric clarified that load shedding in Karachi's Landhi (Babar Market B-2) is due to a feeder with approximately **30%** technical and commercial losses. *[Business Recorder](https://www.brecorder.com/news/40449858-kes-clarification-on-excessive-load-shedding-in-landhi)*
+- The Punjab government proposed amendments to the Consumer Protection Act 2026, including a minimum fine of **Rs100,000** for violations. *[Business Recorder](https://www.brecorder.com/news/40449862-punjab-proposes-amendments-to-consumer-protection-act-2026)*
+- Karachi Mayor Murtaza Wahab stated that the KMC is improving city development through enhanced resource management. *[Business Recorder](https://www.brecorder.com/news/40449859-kmc-undertaking-uplift-projects-through-better-resource-management)*
+- A delegation of **34** senior civil servants from Bangladesh arrived in Karachi to participate in an Executive Development Programme. *[Business Recorder](https://www.brecorder.com/news/40449855-delegation-of-34-senior-bd-civil-servants-arrives-in-karachi)*
+- Federal Minister Ahsan Iqbal has initiated a reform roadmap to transform Islamabad's public school system through merit-based recruitment. *[Business Recorder](https://www.brecorder.com/news/40449854-comprehensive-roadmap-initiated-to-transform-islamabads-public-school-system)*
 
 ### International
-- US President Donald Trump stated that his upcoming summit with Chinese President Xi Jinping and Russian President Vladimir Putin is already a "win." *[ARY](https://arynews.tv/donald-trump-says-historic-summit-with-xi-putin-already-a-win)*
-- Iran has reportedly fired at Kuwait following a US strike on an Iranian island. *[ARY](https://arynews.tv/iran-fires-at-kuwait-after-us-strike-on-iranian-island)*
-- Indian Prime Minister Modi's "Shall We Move?" remark in Manila has sparked significant social media reaction. *[ARY](https://arynews.tv/shall-we-move-modis-remark-in-manila-sets-social-media-on-fire)*
-- During talks with Xi Jinping, President Trump briefly mentioned the situation regarding former Nvidia CEO Jensen Huang. *[Business Recorder](https://www.brecorder.com/news/40449683/trump-says-he-referred-to-ex-nvidia-boss-huangs-situation-briefly-in-talk-with-xi?v=KmG38EUVeNKTveIOQfU7SAMk)*
+- US President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin released a "peace declaration" following an unprecedented trilateral summit. *[ARY](https://arynews.tv/trump-xi-and-putin-release-peace-declaration-from-unprecedented-summit)*
+- President Trump noted that achieving mutual agreements on nuclear arms limits with China and Russia will be "very hard" to negotiate. *[Business Recorder](https://www.brecorder.com/news/40449956-trump-says-nuclear-arms-limits-with-china-russia-will-be-very-hard-to-achieve)*
+- A police operation in Port-au-Prince, Haiti, resulted in the deaths of at least **34** suspected gang members. *[Business Recorder](https://www.brecorder.com/news/40449955-haiti-police-operation-kills-34-suspected-gang-members-in-capital)*
 
 ### Sports
-- Pat Cummins has expressed defiance amidst the 'Sandpapergate' controversy affecting Australian cricket. *[ARY](https://arynews.tv/pat-cummins-defiant-as-sandpapergate-roils-australian-cricket)*
-- Arda Guler has signed a new **six-year** deal with Real Madrid. *[ARY](https://arynews.tv/arda-guler-signs-new-six-year-real-madrid-deal)*
-- Jasprit Bumrah took **3 for 31** as India restricted New Zealand to **140 for five** on the first day of the first Test in Wellington. *[Business Recorder](https://www.brecorder.com/news/40449687/bumrah-returns-with-a-bang-but-nz-cling-on-in-first-test?v=KmG38EUVeNKTveIOQfU7SAMk)*
+- The Washington Spirit is scheduled to face the Current in the NWSL final championship. *[ARY](https://arynews.tv/washington-spirit-to-take-on-current-in-heavyweight-nwsl-final-clash)*
+
+### Health
+- The United States has confirmed the **8th** death related to the recent measles outbreak. *[ARY](https://arynews.tv/americas-measles-comeback-turns-deadly-8th-death-confirmed)*
+- Health experts warned against indiscriminate Vitamin D supplementation, noting that roughly **73%** of Pakistani adults suffer from insufficient Vitamin D levels. *[Business Recorder](https://www.brecorder.com/news/40449853-vitamin-d-deficiency-call-to-avoid-unnecessary-testing-indiscriminate-high-dose-supplementation)*
+
+### Other
+- Forecasts suggest that Islam is set to eventually exceed Christianity as the world's largest religion. *[ARY](https://arynews.tv/islam-forecast-to-soon-exceed-christianity-as-worlds-biggest-faith-2)*
+- GREE (represented by DWP Group) has launched a new range of air purifiers in Pakistan to address air pollution and smog. *[Business Recorder](https://www.brecorder.com/news/40449856-gree-introduces-new-air-purifier-range)*
 
