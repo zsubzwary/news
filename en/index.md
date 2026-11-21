@@ -4,52 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 20-Nov-2026 09:04PKT
+Published at: 21-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- AI startup Anthropic achieved a massive **$2 trillion** market debut. *[ARY](https://arynews.tv/anthropics-meteoric-rise-from-ai-startup-to-2-trillion-market-debut)*
-- The Indian rupee is expected to open in the **93.28-93.34** range against the US dollar following foreign inflows into Indian assets. *[Business Recorder](https://www.brecorder.com/news/40449954-global-risk-jitters-bolster-rupee-as-investors-turn-to-indian-assets)*
-- Asian markets faced a significant downturn, with the MSCI Asia-Pacific index losing **2.5%**, Japan's Nikkei tumbling **4.1%**, and South Korea's KOSPI falling **4.7%**, marking the worst week since 2020. *[Business Recorder](https://www.brecorder.com/news/40449953-asian-shares-head-for-worst-week-since-2020-as-ai-trade-gloom-fails-to-abate)*
-- Indian benchmark Nifty 50 closed at **25,514.3**, while GIFT Nifty futures stood at **25,352** points. *[Business Recorder](https://www.brecorder.com/news/40449952-indian-stocks-seen-falling-from-nine-month-highs-asia-market-rout-deepens)*
-- The US Dollar index reached a **19-month high**, perched near the **103.9** level. *[Business Recorder](https://www.brecorder.com/news/40449951-dollar-near-19-month-peak-as-ai-jitters-sap-risk-appetite)*
-- The State Bank of Pakistan (SBP) launched **SMEConnect**, a centralized digital platform to streamline financing for small and medium enterprises. *[Business Recorder](https://www.brecorder.com/news/40449863-sbp-launches-digital-platform-to-streamline-sme-financing)*
-- Global oil prices saw a slight increase: Brent crude rose **0.3% to $92.22** per barrel, while US WTI rose **0.2% to $83.40** per barrel. *[Business Recorder](https://www.brecorder.com/news/40449950-oil-prices-edge-higher-as-houthi-attacks-on-riyadh-raise-supply-concerns)*
-- L’Oréal Pakistan announced that over **90%** of its product portfolio is now manufactured locally, supported by over **400** Pakistani suppliers. *[Business Recorder](https://www.brecorder.com/news/40449860-loreal-pakistan-locally-manufactures-over-90pc-of-its-products)*
+- Gold prices in Pakistan decreased, with the price per tola reaching **Rs. 376,336** (a drop of **Rs. 3,500**) and 10-gram gold sold at **Rs. 322,647** (a drop of **Rs. 3,001**). *[Business Recorder](https://www.brecorder.com/news/40450119/gold-price-drops-by-rs3500-per-tola-in-pakistan)*
+- The EU and Indonesia signed a trade deal projected to increase European Union exports to Indonesia by nearly **40% within 15 years**. *[Business Recorder](https://www.brecorder.com/news/40450123/eu-indonesia-officially-sign-ambitious-trade-deal)*
+- Pakistan's fisheries sector produced **642,180 metric tonnes** of fish during July-March FY2025-26, as the government aims to boost seafood exports. *[Business Recorder](https://www.brecorder.com/news/40450109/pakistan-calls-for-sustainable-fisheries-growth-to-boost-seafood-exports)*
+- **Fauji Foods** has appointed **Haseebullah Zahur** as its new CEO, effective **January 1, 2027**, succeeding Waseem Haider. *[Business Recorder](https://www.brecorder.com/news/40450112/five-things-to-know-about-fauji-foodss-incoming-ceo-haseebullah-zahur)*
 
 ### Science & Technology
-- The AI sector saw major movement as Anthropic reached a **$2 trillion** valuation during its market debut. *[ARY](https://arynews.tv/anthropics-meteoric-rise-from-ai-startup-to-2-trillion-market-debut)*
+- Google has introduced a new **computer use feature** for the **Gemini app** specifically for **Apple Mac** users. *[ARY](https://arynews.tv/google-adds-computer-use-feature-to-gemini-app-for-apple-mac)*
+- Former Nvidia CEO **Huang** has agreed to testify at a public **US Senate hearing**. *[ARY](https://arynews.tv/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says)*
 
 ### Politics
-- Zardari and Bilawal Bhutto Zardari have agreed to maintain their political stance regarding the creation of new provinces. *[ARY](https://arynews.tv/zardari-bilawal-agree-not-to-withdraw-stance-on-new-provinces)*
-- Pakistan formally rejected India's unilateral decision regarding the Indus Waters Treaty (IWT) at a UN Security Council meeting, warning that weaponizing water threatens **240 million** people. *[Business Recorder](https://www.brecorder.com/news/40449865-indus-waters-treaty-weaponising-shared-natural-resource-violates-intl-law-pakistan)*
-- Federal Minister Attaullah Tarar emphasized the growing strategic partnership between Pakistan and Türkiye. *[Business Recorder](https://www.brecorder.com/news/40449864-tarar-highlights-strategic-partnership-with-turkiye)*
-- The Punjab Assembly saw heated debates as the opposition accused the government of failing to provide relief to wheat and sugarcane growers. *[Business Recorder](https://www.brecorder.com/news/40449861-opposition-accuses-govt-of-failing-to-provide-relief-to-growers)*
-- JI Karachi chief Monem Zafar Khan criticized the PPP, specifically condemning what he termed "bloodshed threats" made by Bilawal Bhutto Zardari. *[Business Recorder](https://www.brecorder.com/news/40449857-ji-karachi-chief-slams-bilawals-bloodshed-threat)*
+- Federal Minister Musadik Malik warned at the **SCO forum** that climate change poses a major threat to global civilizations and cultural heritage. *[Business Recorder](https://www.brecorder.com/news/40450120/at-sco-forum-musadik-malik-warns-climate-change-threatens-civilisation-cultural-heritage)*
+- Musadik Malik called for a transparent, **evidence-based mechanism** to address terrorism-related concerns between Pakistan and India. *[Business Recorder](https://www.brecorder.com/news/40450118/musadik-malik-calls-for-evidence-based-mechanism-to-address-terrorism)*
+- Deputy Prime Minister and Foreign Minister **Ishaq Dar** called for a new regional security architecture in the Middle East and noted Pakistan's efforts to facilitate **US-Iran dialogue**. *[Business Recorder](https://www.brecorder.com/news/40450113/ishaq-dar-calls-for-new-regional-security-architecture-says-pakistan-pursuing-us-iran-dialogue)*
 
 ### National
-- The Sindh cabinet approved the procurement of **500 electric buses** for Karachi and authorized the **$540 million** STAR-WASH program. *[ARY](https://arynews.tv/sindh-cabinet-approves-500-electric-buses-for-karachi-540m-star-wash-program)*
-- The President of Pakistan has urged the immediate implementation of MoUs signed between Pakistan and the Maldives. *[ARY](https://arynews.tv/president-urges-implementation-of-pakistan-maldives-mous)*
-- K-Electric clarified that load shedding in Karachi's Landhi (Babar Market B-2) is due to a feeder with approximately **30%** technical and commercial losses. *[Business Recorder](https://www.brecorder.com/news/40449858-kes-clarification-on-excessive-load-shedding-in-landhi)*
-- The Punjab government proposed amendments to the Consumer Protection Act 2026, including a minimum fine of **Rs100,000** for violations. *[Business Recorder](https://www.brecorder.com/news/40449862-punjab-proposes-amendments-to-consumer-protection-act-2026)*
-- Karachi Mayor Murtaza Wahab stated that the KMC is improving city development through enhanced resource management. *[Business Recorder](https://www.brecorder.com/news/40449859-kmc-undertaking-uplift-projects-through-better-resource-management)*
-- A delegation of **34** senior civil servants from Bangladesh arrived in Karachi to participate in an Executive Development Programme. *[Business Recorder](https://www.brecorder.com/news/40449855-delegation-of-34-senior-bd-civil-servants-arrives-in-karachi)*
-- Federal Minister Ahsan Iqbal has initiated a reform roadmap to transform Islamabad's public school system through merit-based recruitment. *[Business Recorder](https://www.brecorder.com/news/40449854-comprehensive-roadmap-initiated-to-transform-islamabads-public-school-system)*
+- Security operations in Balochistan resulted in the neutralization of **15 militants**. *[ARY](https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan)*
+- The **Peshawar Northern Bypass** project has reportedly faced a **20-year delay**. *[ARY](https://arynews.tv/minister-expresses-concern-over-20-year-delay-in-peshawar-northern-bypass-project)*
+- The **Punjab Workers Welfare Fund** has launched a new **WhatsApp helpline** to assist workers. *[ARY](https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline)*
+- The **FIA** arrested two suspects in connection with an immigration fraud case involving **Rs. 250 million**. *[ARY](https://arynews.tv/fia-arrests-two-suspects-in-rs-250-million-immigration-fraud)*
 
 ### International
-- US President Donald Trump, Chinese President Xi Jinping, and Russian President Vladimir Putin released a "peace declaration" following an unprecedented trilateral summit. *[ARY](https://arynews.tv/trump-xi-and-putin-release-peace-declaration-from-unprecedented-summit)*
-- President Trump noted that achieving mutual agreements on nuclear arms limits with China and Russia will be "very hard" to negotiate. *[Business Recorder](https://www.brecorder.com/news/40449956-trump-says-nuclear-arms-limits-with-china-russia-will-be-very-hard-to-achieve)*
-- A police operation in Port-au-Prince, Haiti, resulted in the deaths of at least **34** suspected gang members. *[Business Recorder](https://www.brecorder.com/news/40449955-haiti-police-operation-kills-34-suspected-gang-members-in-capital)*
+- Portuguese Foreign Minister **Paulo Rangel** will conduct a **two-day official visit** to Pakistan starting Sunday to mark 77 years of diplomatic relations. *[Business Recorder](https://www.brecorder.com/news/40450124/portuguese-foreign-minister-to-visit-pakistan-for-two-days-from-tomorrow)*
+- Ukrainian President **Volodymyr Zelensky** reiterated his country's desire to join **NATO** as a primary security guarantee. *[Business Recorder](https://www.brecorder.com/news/40450121/zelensky-reaffirms-ukraines-wish-to-join-nato)*
+- **Bangladesh** has deployed hundreds of extra paramilitary troops to combat political unrest and arson attacks. *[Business Recorder](https://www.brecorder.com/news/40450116/bangladesh-boosts-security-in-bid-to-stem-political-unrest)*
+- Iranian Foreign Minister Abbas Araghchi stated that allies **China and Russia** oppose any changes to Iran's nuclear doctrine. *[Business Recorder](https://www.brecorder.com/news/40450115/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine)*
+- Two tanker incidents were reported near **Oman** in the Strait of Hormuz, with one vessel hit by an unidentified projectile. *[Business Recorder](https://www.brecorder.com/news/40450111/uk-maritime-agency-reports-two-tanker-incidents-near-oman-iran-says-vessel-hit-mine-east-of-hormuz)*
+- A fire at the **Hartha power station** in southern **Iraq** killed at least **4 people** and injured **30**. *[Business Recorder](https://www.brecorder.com/news/40450107/iraq-fire-at-basra-power-station-kills-at-least-four-injures-30)*
+- Protests by the Congress party's youth wing occurred outside **Meta's India offices** over the removal of Instagram accounts. *[Business Recorder](https://www.brecorder.com/news/40450108/metas-india-offices-hit-by-opposition-protests-over-account-removals)*
 
 ### Sports
-- The Washington Spirit is scheduled to face the Current in the NWSL final championship. *[ARY](https://arynews.tv/washington-spirit-to-take-on-current-in-heavyweight-nwsl-final-clash)*
+- **Rafael Nadal** has been officially confirmed as a member of **Real Madrid's board of directors**. *[Business Recorder](https://www.brecorder.com/news/40450125/rafael-nadal-appointment-confirmed-at-real-madrid-general-assembly)*
+- Bangladesh batter **Mushfiqur Rahim** has been ruled out of the second Test against **South Africa** due to a **groin injury**. *[Business Recorder](https://www.brecorder.com/news/40450122/injured-mushfiqur-ruled-out-of-second-south-africa-test)*
+- **Usman Khawaja** and **David Warner** have been removed from television commentary duties following "Sandpapergate" controversies. *[Business Recorder](https://www.brecorder.com/news/40450117/warner-khawaja-taken-off-air-over-sandpapergate)*
+- Bayern Munich striker **Harry Kane** underwent successful surgery on his **left ankle** and expects to return by the end of the season. *[Business Recorder](https://www.brecorder.com/news/40450114/ill-be-back-vows-kane-after-ankle-surgery)*
+- The **PCB** unveiled a revamped central contract structure for 2026-27, expanding the pool to **38 players**, with **Babar Azam** and **Salman Ali Agha** in the top tier. *[Business Recorder](https://www.brecorder.com/news/40450110/pakistan-revamps-central-contract-structure-babar-and-agha-top-new-format-based-system)*
+- WNBA player **Sophie Cunningham** addressed the issue of insufficient salaries for professional women's basketball players. *[ARY](https://arynews.tv/sophie-cunningham-explains-why-wnba-players-salaries-not-enough)*
 
 ### Health
-- The United States has confirmed the **8th** death related to the recent measles outbreak. *[ARY](https://arynews.tv/americas-measles-comeback-turns-deadly-8th-death-confirmed)*
-- Health experts warned against indiscriminate Vitamin D supplementation, noting that roughly **73%** of Pakistani adults suffer from insufficient Vitamin D levels. *[Business Recorder](https://www.brecorder.com/news/40449853-vitamin-d-deficiency-call-to-avoid-unnecessary-testing-indiscriminate-high-dose-supplementation)*
+- **SICVD** has provided free treatment to over **22,600 heart attack patients** over the past **10 months**. *[ARY](https://arynews.tv/sicvd-treats-over-22600-heart-attack-patients-free-of-charge-in-10-months)*
 
 ### Other
-- Forecasts suggest that Islam is set to eventually exceed Christianity as the world's largest religion. *[ARY](https://arynews.tv/islam-forecast-to-soon-exceed-christianity-as-worlds-biggest-faith-2)*
-- GREE (represented by DWP Group) has launched a new range of air purifiers in Pakistan to address air pollution and smog. *[Business Recorder](https://www.brecorder.com/news/40449856-gree-introduces-new-air-purifier-range)*
+- The launch of the video game **Grand Theft Auto VI** has reportedly surpassed industry expectations. *[ARY](https://arynews.tv/how-grand-theft-auto-vis-launch-surpassed-expectations)*
 
