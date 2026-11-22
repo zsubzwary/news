@@ -4,52 +4,52 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Nov-2026 09:04PKT
+Published at: 22-Nov-2026 21:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Pakistan and Sweden are holding talks to modernize their bilateral investment treaty. *[ARY](https://arynews.tv/pakistan-sweden-hold-talks-to-modernise-investment-treaty)*
-- LCCI Senior VP Usman Ghani highlighted investment opportunities with Portugal in sectors including motorcycles, real estate, healthcare, olive production, and advanced manufacturing. *[Business Recorder](https://www.brecorder.com/news/40450135/pakistan-offers-investment-opportunities-to-portuguese-businessmen-lcci)*
-- Italian experts Paolo Marone and Caudia Chiappino are scheduled to conduct a technical assessment of Pakistan’s stone sector in Karachi and Islamabad from November 22-27, 2026. *[Business Recorder](https://www.brecorder.com/news/40450142/italian-experts-to-assess-pakistans-stone-sector)*
-- The Sindh government launched the **IWork4Sindh** initiative to connect local youth and freelancers with the global market to earn foreign income. *[Business Recorder](https://www.brecorder.com/news/40450167/sindh-launches-initiative-to-connect-youth-with-global-freelancing-market)*
-- The Karachi LPG Distributors Alliance expressed concern over OGRA's decision to let PSO determine LPG prices, noting a rate of **Rs. 509 per kg** on PSO's website. *[Business Recorder](https://www.brecorder.com/news/40450169/stakeholders-must-be-consulted-on-lpg-prices)*
-- China's new home prices fell **0.1 percent** in October, marking a **2.4 percent** decline compared to October of the previous year. *[Business Recorder](https://www.brecorder.com/news/40450147/chinas-new-home-prices-fall-again-in-oct)*
-- UK property asking prices dropped by **1.8 percent** monthly, a larger decline than the usual **1.1 percent** seasonal fall. *[Business Recorder](https://www.brecorder.com/news/40450148/uk-property-asking-prices-fall)*
-- Canadian national home sales rose **0.3 percent** month-over-month in October, though they remain down **10.6 percent** on an annual basis. *[Business Recorder](https://www.brecorder.com/news/40450149/canadian-home-sales-edge-higher)*
-- Sri Lanka’s central bank raised its key policy rate by **25 basis points** to combat inflation; fuel prices in the country have risen approximately **35 percent** this year. *[Business Recorder](https://www.brecorder.com/news/40450150/sri-lanka-central-bank-surprises-with-key-rate-hike-on-inflation-fears)*
-- Japan’s economy contracted by an annualized **0.1 percent** during the July-September quarter. *[Business Recorder](https://www.brecorder.com/news/40450151/japans-economy-unexpectedly-shrinks)*
+- Wall Street banks are projected to earn **$1 billion** from the upcoming Anthropic and SpaceX IPOs. *[ARY](https://arynews.tv/wall-street-banks-set-to-earn-1-billion-from-anthropic-spacex-ipos)*
+- During the SpaceX IPO in June, banks earned **$500 million** in fees despite a complex and tightly controlled process. *[Business Recorder](https://www.brecorder.com/news/40450223/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers)*
+- Pakistan and Oman signed a petroleum products supply agreement where OQ Trading will extend a **$200 million** credit facility to Pakistan State Oil (PSO). *[Business Recorder](https://www.brecorder.com/news/40450226/pakistan-oman-sign-petroleum-products-supply-agreement)*
+- Standard Chartered projects Pakistan's SBP policy rate could rise to **13% by June 2027**, driven by projected international oil prices between **$90 and $100** per barrel. *[Business Recorder](https://www.brecorder.com/news/40450211/sbp-policy-rate-may-rise-to-13-by-june-2027-standard-chartered)*
+- The government has reserved **Rs300 billion** under the Pak EXIM-administered Export Finance Scheme for SME exporters, aiming for **Rs2 trillion** in outstanding SME financing and **775,000** borrowers by June 2028. *[Business Recorder](https://www.brecorder.com/news/40450010/the-challenge-of-turning-sme-financing-targets-into-reality)*
+- The Swiss National Bank is closely monitoring potential **second-round inflation effects** ahead of its next monetary policy decision. *[Business Recorder](https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper)*
 
 ### Science & Technology
-- The US approved shipments of **879,000** advanced AI chips from Nvidia and AMD to Chinese companies between December 2025 and May 2026, including **150,000** for Tencent and **75,000** for Alibaba. *[Business Recorder](https://www.brecorder.com/news/40450146/us-signed-off-on-sales-of-nearly-900000-ai-chips-to-china-in-six-months)*
-- **GTA VI** achieved record-breaking sales of **$3.8 billion** on its first day. *[ARY](https://arynews.tv/gta-vi-shatters-records-with-3-8-billion-in-first-day-sales)*
-- The Punjab government introduced a new mobile application to facilitate digital land ownership services. *[ARY](https://arynews.tv/punjab-introduces-app-for-digital-land-ownership-service)*
+- Rockstar Games is reportedly planning the PC release of **GTA 6 for early 2027**. *[ARY](https://arynews.tv/gta-6-pc-release-reportedly-planned-for-early-2027-by-rockstar)*
+- An AI prompt study has exposed **secret data leaks** occurring across breached third-party hosting providers. *[ARY](https://arynews.tv/ai-prompt-study-exposes-secret-leaks-across-breached-third-party-hosting-providers)*
+- OpenAI has rolled out **ChatGPT Space** to its Plus subscribers worldwide. *[ARY](https://arynews.tv/openai-rolls-out-chatgpt-space-to-plus-subscribers-worldwide)*
 
 ### Weather
-- Sindh faces increasing drought risks following a **100 percent** rainfall deficit in October and a **99 percent** deficit from November 1-20. *[Business Recorder](https://www.brecorder.com/news/40450144/drought-risk-grows-in-sindh-due-to-poor-rainfall)*
+- Lahore topped global pollution rankings with an **Air Quality Index (AQI) of 538**, followed by Delhi (**207**) and Karachi (**180**). *[Business Recorder](https://www.brecorder.com/news/40450214/lahore-again-tops-global-pollution-rankings-with-aqi)*
 
 ### Politics
-- Ahsan Iqbal urged for the removal of "data silos" to foster evidence-based governance. *[ARY](https://arynews.tv/ahsan-urges-breaking-data-silos-building-evidence-based-governance)*
-- Punjab Chief Minister Maryam Nawaz Sharif emphasized ensuring merit in public service to eliminate the need for political recommendations. *[Business Recorder](https://www.brecorder.com/news/40450137/everyone-must-think-about-pakistan-as-pakistanis-cm-says)*
-- Punjab Local Government Minister Zeeshan Rafiq ordered the acceleration of work on **Phase II** of the Punjab Development Programme (PDP). *[Business Recorder](https://www.brecorder.com/news/40450140/lg-minister-orders-stepped-up-work-on-phase-ii-of-pdp)*
-- Sindh Minister Nasir Hussain Shah stated that any proposal to divide the province would be rejected, noting that such a move requires a two-thirds majority in the provincial assembly. *[Business Recorder](https://www.brecorder.com/news/40450170/sindh-was-one-remains-one-and-will-remain-united-nasir)*
+- JI Chief announced a rally at **Minar-e-Pakistan on November 29** to show solidarity with Balochistan. *[ARY](https://arynews.tv/ji-chief-announces-nov-29-minar-e-pakistan-rally-in-solidarity-with-balochistan)*
+- Deputy PM and Foreign Minister Ishaq Dar held talks with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud regarding regional Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40450222/dar-saudi-fm-discuss-regional-tensions-r4-meeting)*
+- Portuguese Foreign Minister Paulo Rangel arrived in Pakistan for a **two-day official visit (Nov 22-23)** to strengthen economic cooperation. *[Business Recorder](https://www.brecorder.com/news/40450210/portuguese-foreign-minister-arrives-in-pakistan-for-two-day-visit)*
+- Pakistan will host the **15th Annual Meeting of the International Network for Nuclear Security Training and Support Centres (NSSC Network)** in Islamabad from November 23 to 26, 2026. *[Business Recorder](https://www.brecorder.com/news/40450219/pakistan-to-host-15th-international-nuclear-security-training-meeting-fo)*
 
 ### National
-- The KP Governor inaugurated a new **113-bed** hospital block in Swabi. *[ARY](https://arynews.tv/kp-governor-inaugurates-113-bed-hospital-block-in-swabi)*
-- Ahsan Iqbal laid the foundation stone for an **Rs. 850 million** auditorium at the University of Narowal. *[ARY](https://arynews.tv/ahsan-iqbal-lays-foundation-stone-of-rs850-million-auditorium-at-university-of-narowal)*
-- The Lahore High Court ruled that a mentally disabled person does not require a court-appointed guardian to initiate a legal case. *[Business Recorder](https://www.brecorder.com/news/40450136/mentally-disabled-persons-court-appointed-guardian-not-necessary-for-filing-case-lhc)*
-- The Punjab Walled Cities and Heritage Areas Authority (PWCA) completed the architectural illumination of Multan’s **Ghanta Ghar** (Clock Tower). *[Business Recorder](https://www.brecorder.com/news/40450139/pwca-completes-work-on-multans-ghanta-ghar)*
-- Sindh Chief Minister Murad Ali Shah inaugurated the renovated historic Old Sindh Assembly Hall at NJV School. *[Business Recorder](https://www.brecorder.com/news/40450171/murad-inaugurates-renovated-sindh-assembly-hall)*
+- Pakistan has announced its first **nationwide diabetes prevention and control programme**. *[ARY](https://arynews.tv/pakistan-announces-first-nationwide-diabetes-prevention-and-control-programme)*
+- Security forces killed **15 terrorists** belonging to 'Fitna al-Hindustan' during operations in Balochistan’s Mastung district. *[Business Recorder](https://www.brecorder.com/news/40450209/pakistan-security-forces-kill-15-terrorists-in-balochistans-mastung)*
+- The main suspect in the Karachi mother-daughter murder case has been arrested in **Larkana**. *[ARY](https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana)*
+- The NCCIA arrested a suspect following a report from Google regarding **child abuse material**. *[ARY](https://arynews.tv/nccia-arrests-suspect-after-google-reports-abusive-material)*
 
 ### International
-- French protesters held rallies for a sixth consecutive weekend to protest rising living costs and the state of public services. *[ARY](https://arynews.tv/french-protesters-rally-for-sixth-weekend-over-living-costs-public-services)*
-- Kuwait authorities have launched a crackdown on environmental violations at the **Umm Al-Qadeer** reserve. *[ARY](https://arynews.tv/kuwait-cracks-down-on-environmental-violations-at-umm-al-qadeer-reserve)*
+- An Iranian attack on a civilian industrial facility in Bahrain wounded **two people, including a Pakistani national**. *[Business Recorder](https://www.brecorder.com/news/40450225/iran-strike-wounds-two-including-pakistani-in-bahrain-riyadh-denounces-criminal-attacks)*
+- At least **14 people are missing** after a Russian drone struck a residential building in Ukraine’s Kyiv region. *[Business Recorder](https://www.brecorder.com/news/40450220/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says)*
+- The death toll from a boat accident in southern Nigeria has risen to **24 people** following a mechanical failure. *[Business Recorder](https://www.brecorder.com/news/40450212/death-toll-from-nigeria-boat-accident-rises-to-24)*
 
 ### Sports
-- The Pakistan Cricket Board (PCB) announced central contracts for **38** men's cricketers for the period of Nov 1, 2026, to June 30, 2027; notably, Mohammad Rizwan, Shan Masood, and Saim Ayub were excluded. *[Business Recorder](https://www.brecorder.com/news/40450138/rizwan-shan-saim-hasan-nawaz-fail-cricket-board-awards-contracts-to-38-players)*
-- Daniel Vettori stepped away from his Australian team duties to attend Kavya Maran’s wedding. *[ARY](https://arynews.tv/daniel-vettori-leaves-australia-team-duties-for-kavya-marans-wedding)*
-- Sophie Cunningham has publicly defended the Iowa coach following a suspension. *[ARY](https://arynews.tv/sophie-cunningham-defends-iowa-coach-over-suspension)*
+- Pakistan Shaheens scored **313 runs in 49.2 overs** against India A, featuring half-centuries from Maaz Sadaqat (**59**), Hasan Nawaz, and Farhan Yousaf. *[Business Recorder](https://www.brecorder.com/news/40450227/pakistan-shaheens-post-313-against-india-a-after-controversial-toss)*
+- South Africa named **Tony de Zorzi and Anrich Nortje** in their squad for the second Test against Bangladesh. *[Business Recorder](https://www.brecorder.com/news/40450224/south-africa-make-two-changes-for-second-test-against-bangladesh)*
+- England has called up 22-year-old opener **Ben McKinney** to replace the injured Jacob Bethell for the South Africa tour. *[Business Recorder](https://www.brecorder.com/news/40450217/england-call-up-mckinney-for-south-africa-tour-ecb-says)*
+- Australian bowler Josh Hazlewood addressed Usman Khawaja's autobiography, stating he had no knowledge of the **2018 ball-tampering plot**. *[Business Recorder](https://www.brecorder.com/news/40450216/hazlewood-says-was-never-close-with-khawaja-but-has-no-issues-with-book-release)*
+- India declared at **720-9** in Wellington, establishing a **352-run lead** over New Zealand in the first Test. *[Business Recorder](https://www.brecorder.com/news/40450215/new-zealand-cling-on-in-wellington-after-india-build-mammoth-lead)*
+- Carlos Alcaraz defeated Ben Shelton **3-6, 6-3, 7-6(1)** to reach the ATP Finals semi-final against Alexander Zverev. *[Business Recorder](https://www.brecorder.com/news/40450213/alcaraz-digs-deep-to-beat-shelton-will-face-world-number-one-zverev-in-final)*
+- Linda Cohn has urged the Indiana Fever to re-sign Sophie Cunningham to protect Caitlin Clark in **2027**. *[ARY](https://arynews.tv/linda-cohn-urges-indiana-fever-to-re-sign-sophie-cunningham-to-protect-caitlin-clark-in-2027)*
 
 ### Health
-- The Sindh Institute of Cardiovascular Diseases (SICVD) treated **22,639** heart attack patients through angiography and angioplasty and performed **1,626** open-heart surgeries between January and October 2026. *[Business Recorder](https://www.brecorder.com/news/40450145/sicvd-treats-over-22600-heart-attack-patients-in-10-months)*
+- Pakistan has announced its first **nationwide diabetes prevention and control programme**. *[ARY](https://arynews.tv/pakistan-announces-first-nationwide-diabetes-prevention-and-control-programme)*
 
