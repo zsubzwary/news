@@ -7,50 +7,48 @@ rtl: true
 
 پاکستان کی تازہ خبروں کا خلاصہ 
 
- &lrm; 21-Nov-2026 21:08PKT 
+ &lrm; 23-Nov-2026 09:09PKT 
 
-پڑھنے کا وقت : 5 منٹ 
+پڑھنے کا وقت : 4 منٹ 
 
 ### معیشت
-- پاکستان میں سونے کی قیمت میں فی تولہ 3,500 روپے کی کمی واقع ہوئی ہے، جس کے بعد نئی قیمت 376,336 روپے پر پہنچ گئی ہے، جبکہ 10 گرام سونے کی قیمت میں 3,001 روپے کی کمی کے بعد اب یہ 322,647 روپے ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450119/gold-price-drops-by-rs3500-per-tola-in-pakistan)*
-- یورپی یونین اور انڈونیشیا نے ایک اہم تجارتی معاہدے پر دستخط کیے ہیں، جس کے نتیجے میں اگلے 15 سالوں میں انڈونیشیا کو یورپی یونین کی برآمدات میں تقریباً 40 فیصد اضافے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450123/eu-indonesia-officially-sign-ambitious-trade-deal)*
-- پاکستان کے مچھلی کے شعبے میں پیداوار جولائی-مارچ مالی سال 2025-26 کے دوران 642,180 میٹرک ٹن تک پہنچ گئی ہے، اور حکومت اسے برآمدات کے لیے ایک بڑے شعبے کے طور پر فروغ دینا چاہتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450109/pakistan-calls-for-sustainable-fisheries-growth-to-boost-seafood-exports)*
-- فوجی فوڈز نے حسیب اللہ زہور کو کمپنی کا نیا چیف ایگزیکٹو آفیسر (CEO) مقرر کر دیا ہے، جو یکم جنوری 2027 سے اپنی ذمہ داریاں سنبھالیں گے۔ *[Business Recorder](https://www.brecorder.com/news/40450112/five-things-to-know-about-fauji-foodss-incoming-ceo-haseebullah-zahur)*
+- پاکستان اور عمان نے PSO اور OQ کے درمیان معاہدے کے ذریعے توانائی کے شعبے میں تعاون کو مزید مضبوط بنانے کا فیصلہ کیا ہے۔ *[ARY](https://arynews.tv/pakistan-oman-strengthen-energy-cooperation-with-pso-and-oq-agreement)*
+- بھارت کی ٹاٹا سٹیل (Tata Steel) اے پی ایل اپالو (APL Apollo) میں **26.4 فیصد** حصہ تقریباً **155.11 ارب روپے (1.67 بلین ڈالر)** میں خریدنے کا ارادہ رکھتی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450314/indias-tata-steel-to-buy-264-of-apl-apollo-for-167-billion)*
+- بھارتی روپے کے مستحکم ہونے کے امکان کے ساتھ اس کے **92.60-92.64** کی رینج میں کھلنے کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450313/ai-rout-deepens-keeping-indian-rupee-rally-alive-on-foreign-equity-buying)*
+- آسٹریلوی اسٹاک انڈیکس (S&P/ASX 200) میں **0.6 فیصد** کی کمی دیکھی گئی جبکہ نیوزی لینڈ کا انڈیکس (S&P/NZX 50) بھی **1 فیصد** گرا۔ *[Business Recorder](https://www.brecorder.com/news/40450312/australia-shares-set-to-slide-at-open-nz-falls)*
+- امریکی صدر ڈونلڈ ٹرمپ کے میم کوائن کی قیمت **75 ڈالر** سے گر کر **1 ڈالر** سے بھی کم ہو گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450311/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin)*
+- عالمی منڈیوں میں ٹیکنالوجی اسٹاکس کی فروخت کے باعث تیل کی قیمتوں میں کمی ریکارڈ کی گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450306/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses)*
+- پاکستان میں کپاس کی پیداوار گزشتہ سال کے مقابلے میں **6 فیصد** اضافے کے ساتھ **5.131 ملین بالز** تک پہنچ گئی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450235/weekly-cotton-review-production-soars-6pc-to-5131m-bales-yoy)*
+- کراچی ایکسپو سینٹر میں **23 سے 26 نومبر 2026** تک چوتھی انٹرنیشنل فوڈ اینڈ ایگرو ایگزیبیشن (FoodAg 2026) کا انعقاد کیا جا رہا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450236/foodag-2026-to-kick-off-today-aiming-to-boost-agri-food-exports)*
 
 ### سائنس اور ٹیکنالوجی
-- گوگل نے ایپل میک (Apple Mac) کے لیے جیمنائی (Gemini) ایپ میں 'کمپیوٹر استعمال کرنے' (computer use) کا نیا فیچر شامل کر دیا ہے۔ *[ARY](https://arynews.tv/google-adds-computer-use-feature-to-gemini-app-for-apple-mac)*
-- سابق این ویڈیا (Nvidia) سی ای او ہوانگ امریکی سینٹ کی عوامی سماعت میں گواہی دینے پر راضی ہو گئے ہیں۔ *[ARY](https://arynews.tv/former-nvidia-ceo-huang-agreed-to-testify-at-public-us-senate-hearing-senators-aide-says)*
+- جرمن فوج نے لیتھوانیا میں **کیمیکاز ڈرونز** اور **AI ٹارگٹنگ ٹول** کی جانچ پڑتال کا آغاز کر دیا ہے۔ *[ARY](https://arynews.tv/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania)*
+- نیویڈیا (Nvidia) کے سابق سی ای او کے ساتھ تعلقات رکھنے والی ایلس ہوانگ کے چینی جاسوسی ایجنسی کے اہلکار کے ساتھ رابطے میں رہنے کے الزامات سامنے آئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40450309/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says)*
 
-### قومی
-- بلوچستان میں سیکیورٹی آپریشنز کے دوران 15 شدت پسندوں کو ہلاک کر دیا گیا ہے۔ *[ARY](https://arynews.tv/15-militants-neutralized-in-security-operations-in-balochistan)*
-- پشاور نارتھن بائی پاس منصوبے میں 20 سال کی طویل تاخیر پر متعلقہ وزیر نے شدید تشویش کا اظہار کیا ہے۔ *[ARY](https://arynews.tv/minister-expresses-concern-over-20-year-delay-in-peshawar-northern-bypass-project)*
-- پنجاب ورکرز ویلفیئر فنڈ نے ملازمین کی سہولت کے لیے ایک نئی واٹس ایپ (WhatsApp) ہیلپ لائن لانچ کر دی ہے۔ *[ARY](https://arynews.tv/punjab-workers-welfare-fund-launches-new-whatsapp-helpline)*
-- ایف آئی اے (FIA) نے 250 ملین روپے کے امیگریشن فراڈ کیس میں دو ملزمان کو گرفتار کر لیا ہے۔ *[ARY](https://arynews.tv/fia-arrests-two-suspects-in-rs-250-million-immigration-fraud)*
-
-### بین الاقوامی
-- پرتگال کے وزیر خارجہ پاؤلو رینجل دو روزہ سرکاری دورے پر پاکستان کا دورہ کریں گے۔ *[Business Recorder](https://www.brecorder.com/news/40450124/portuguese-foreign-minister-to-visit-pakistan-for-two-days-from-tomorrow)*
-- یوکرین کے صدر ولادیمیر زیلنسکی نے نیتو (NATO) میں شمولیت کی خواہش کو ایک بار پھر دہرایا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450121/zelensky-reaffirms-ukraines-wish-to-join-nato)*
-- بنگلہ دیش میں سیاسی بے چینی اور تشدد کے پیش نظر سیکڑوں اضافی نیم فوجی دستے تعینات کر دیے گئے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40450116/bangladesh-boosts-security-in-bid-to-stem-political-unrest)*
-- ایران کا کہنا ہے کہ اس کے اتحادی ممالک چین اور روس ایران کے جوہری نظریے میں تبدیلی کی مخالفت کرتے ہیں۔ *[Business Recorder](https://www.brecorder.com/news/40450115/iran-says-allies-china-russia-oppose-change-in-nuclear-doctrine)*
-- عمان کے قریب بحیرہ عرب میں دو ٹینکروں پر نامعلوم پروجیکٹائل سے حملے کی اطلاع ملی ہے، تاہم کسی جانی نقصان کی خبر نہیں ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450111/uk-maritime-agency-reports-two-tanker-incidents-near-oman-iran-says-vessel-hit-mine-east-of-hormuz)*
-- بھارت میں میٹا (Meta) کے دفاتر کے باہر سیاسی مخالفین نے انسٹاگرام اکاؤنٹس ہٹانے کے خلاف احتجاج کیا۔ *[Business Recorder](https://www.brecorder.com/news/40450108/metas-india-offices-hit-by-opposition-protests-over-account-removals)*
-- عراق کے شہر بصرہ میں بجلی گھر میں لگنے والی آگ کے نتیجے میں کم از کم 4 افراد ہلاک اور 30 زخمی ہو گئے۔ *[Business Recorder](https://www.brecorder.com/news/40450107/iraq-fire-at-basra-power-station-kills-at-least-four-injures-30)*
+### موسم
+- کراچی میں کل کا درجہ حرارت **32-14 ڈگری سینٹی گریڈ** رہنے کا امکان ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450231/the-weather)*
+- حیدرآباد میں درجہ حرارت **31-16 ڈگری سینٹی گریڈ** اور لاہور میں **26-11 ڈگری سینٹی گریڈ** رہنے کی توقع ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450231/the-weather)*
 
 ### سیاست
-- وفاقی وزیر موسادق ملک نے ایس سی او (SCO) فورم پر موسمیاتی تبدیلیوں کو انسانی تہذیب کے لیے خطرہ قرار دیا اور دہشت گردی کے حوالے سے پاکستان اور بھارت کے درمیان شواہد پر مبنی طریقہ کار کی ضرورت پر زور دیا۔ *[Business Recorder](https://www.brecorder.com/news/40450120/at-sco-forum-musadik-malik-warns-climate-change-threatens-civilisation-cultural-heritage)*
-- نائب وزیراعظم اور وزیر خارجہ اسحاق ڈار نے مشرق وسطیٰ میں امن کے لیے ایک نئے علاقائی سیکیورٹی ڈھانچے کی ضرورت پر زور دیا اور امریکہ و ایران کے درمیان سفارتی کوششوں کا ذکر کیا۔ *[Business Recorder](https://www.brecorder.com/news/40450113/ishaq-dar-calls-for-new-regional-security-architecture-says-pakistan-pursuing-us-iran-dialogue)*
+- مسدد ملک نے کہا ہے کہ پاکستان بھارت کے ساتھ الزامات کے بجائے شواہد کی بنیاد پر بات چیت کے لیے تیار ہے۔ *[ARY](https://arynews.tv/pakistan-ready-for-talks-with-india-based-on-evidence-not-allegations-musadik-malik)*
+- سندھ کی تقسیم کے خلاف کراچی اور دیگر علاقوں میں مذہبی، سیاسی اور قوم پرست جماعتوں نے بڑے مظاہرے کیے۔ *[Business Recorder](https://www.brecorder.com/news/40450233/big-rallies-held-to-oppose-proposed-division-of-sindh)*
+
+### قومی
+- محکمہ زراعت نے کسانوں کو ہدایت کی ہے کہ وہ **25 نومبر** تک گندم کی بوائی مکمل کر لیں۔ *[Business Recorder](https://www.brecorder.com/news/40450302/farmers-urged-to-complete-wheat-sowing-by-nov-25)*
+- خیبر پختونخوا کے گورنر فصیح کریم کنڈی نے صوبے میں شمسی توانائی کے منصوبوں میں سرمایہ کاری کی دعوت دی۔ *[Business Recorder](https://www.brecorder.com/news/40450303/kp-offers-vast-opportunities-for-solar-energy-investment-kundi)*
+- اسلام آباد میں **27 نومبر سے 06 دسمبر** تک 'لوک میلہ 2026' کا انعقاد کیا جائے گا۔ *[Business Recorder](https://www.brecorder.com/news/40450304/lok-mela-2026-to-showcase-pakistans-cultural-diversity-from-27th)*
+- حیدرآباد میں گندم کی قلت اور آٹے کی بڑھتی ہوئی قیمتوں پر چیمبر آف ٹریڈرز نے شدید تشویش کا اظہار کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450234/hyderabad-chamber-president-expresses-concern-over-wheat-shortage)*
+
+### بین الاقوامی
+- امریکی انٹیلی جنس سربراہ نے کہا ہے کہ یوکرین کے معاملے میں پوتن امریکہ کے دوست نہیں ہیں۔ *[ARY](https://arynews.tv/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine)*
+- قطر اور جرمنی نے بحیرہ احمر اور آبنائے ہرمز کی آزادی اور علاقائی استحکام پر سخت موقف اپنایا ہے۔ *[ARY](https://arynews.tv/qatar-and-germany-take-a-firm-stand-on-strait-of-hormuz-freedom-and-regional-stability)*
+- کویت نے تنخواہوں کی منتقلی کی خلاف ورزیوں پر آجروں کو جرمانے کا انتباہ جاری کیا ہے۔ *[ARY](https://arynews.tv/kuwait-warns-employers-of-penalties-over-salary-transfer-violations)*
 
 ### کھیل
-- ریال میڈرڈ کی جنرل اسمبلی نے ریٹائرڈ ٹینس اسٹار رافیل نڈال کی بورڈ آف ڈائریکٹرز میں شمولیت کی منظوری دے دی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450125/rafael-nadal-appointment-confirmed-at-real-madrid-general-assembly)*
-- بنگلہ دیشی بیٹسمین مشفق الرحیم کو گروئن انجری (groin injury) کی وجہ سے جنوبی افریقہ کے خلاف دوسرے ٹیسٹ سے باہر کر دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450122/injured-mushfiqur-ruled-out-of-second-south-africa-test)*
-- 'سینڈ پیپر گیٹ' تنازع کے باعث آسٹریلوی کھلاڑی اسمان خواجہ اور ڈیوڈ وارنر کو ٹی وی کمنٹری سے ہٹا دیا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450117/warner-khawaja-taken-off-air-over-sandpapergate)*
-- بائرن میونخ کے اسٹار کھلاڑی ہیری کین نے ٹخنے کی سرجری کے بعد دوبارہ میدان میں واپسی کا عزم ظاہر کیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450114/ill-be-back-vows-kane-after-ankle-surgery)*
-- پاکستان کرکٹ بورڈ (PCB) نے 2026-27 کے لیے نئے مرکزی کنٹریکٹ اسٹرکچر کا اعلان کیا ہے، جس میں کھلاڑیوں کی تعداد بڑھا کر 38 کر دی گئی ہے اور بابر اعظم و سلمان علی آغا کو اعلیٰ ترین کیٹیگری میں رکھا گیا ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450110/pakistan-revamps-central-contract-structure-babar-and-agha-top-new-format-based-system)*
-- ڈبلیو این بی اے (WNBA) کھلاڑی سوفی کناہنگ نے کھلاڑیوں کی تنخواہوں کے ناکافی ہونے پر بات کی۔ *[ARY](https://arynews.tv/sophie-cunningham-explains-why-wnba-players-salaries-not-enough)*
-
-### صحت
-- ایس آئی سی وی ڈی (SICVD) نے گزشتہ 10 ماہ کے دوران 22,600 سے زائد دل کے دورے کے مریضوں کا مفت علاج کیا ہے۔ *[ARY](https://arynews.tv/sicvd-treats-over-22600-heart-attack-patients-free-of-charge-in-10-months)*
+- پاکستان اے نے ایشیا کپ رائسنگ اسٹارز میں بھارت کو **48 رنز** سے شکست دے کر سیمی فائنل میں جگہ بنا لی ہے۔ *[ARY](https://arynews.tv/pakistan-defeat-india-by-48-runs-to-reach-asia-cup-rising-stars-semi-finals)*
+- لبرپول نے پچینی کے ہاتھوں پہلی ہی میچ میں یونائیٹڈ کو شکست دے دی۔ *[ARY](https://arynews.tv/liverpool-hammer-ten-man-united-in-pochettino-debut)*
+- نیوزی لینڈ کی پہلی ٹیسٹ میچ میں بھارت کے خلاف پوزیشن **206-5** ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450315/india-need-five-wickets-for-victory-over-new-zealand-in-first-test)*
 
 ### دیگر
-- ویڈیو گیم 'گرینڈ تھیفٹ آٹو VI' (GTA VI) کی لانچنگ نے تمام توقعات کو پیچھے چھوڑ دیا ہے۔ *[ARY](https://arynews.tv/how-grand-theft-auto-vis-launch-surpassed-expectations)*
+- مشہور گلوکارہ مائلی سائرس نے کیلیفورنیا میں ڈرم مر (drummer) میکس مورانڈو سے شادی کر لی ہے۔ *[Business Recorder](https://www.brecorder.com/news/40450316/pop-star-miley-cyrus-weds-drummer-maxx-morando-in-california)*
 
