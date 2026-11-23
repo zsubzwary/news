@@ -4,52 +4,51 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 22-Nov-2026 21:04PKT
+Published at: 23-Nov-2026 09:04PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Wall Street banks are projected to earn **$1 billion** from the upcoming Anthropic and SpaceX IPOs. *[ARY](https://arynews.tv/wall-street-banks-set-to-earn-1-billion-from-anthropic-spacex-ipos)*
-- During the SpaceX IPO in June, banks earned **$500 million** in fees despite a complex and tightly controlled process. *[Business Recorder](https://www.brecorder.com/news/40450223/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers)*
-- Pakistan and Oman signed a petroleum products supply agreement where OQ Trading will extend a **$200 million** credit facility to Pakistan State Oil (PSO). *[Business Recorder](https://www.brecorder.com/news/40450226/pakistan-oman-sign-petroleum-products-supply-agreement)*
-- Standard Chartered projects Pakistan's SBP policy rate could rise to **13% by June 2027**, driven by projected international oil prices between **$90 and $100** per barrel. *[Business Recorder](https://www.brecorder.com/news/40450211/sbp-policy-rate-may-rise-to-13-by-june-2027-standard-chartered)*
-- The government has reserved **Rs300 billion** under the Pak EXIM-administered Export Finance Scheme for SME exporters, aiming for **Rs2 trillion** in outstanding SME financing and **775,000** borrowers by June 2028. *[Business Recorder](https://www.brecorder.com/news/40450010/the-challenge-of-turning-sme-financing-targets-into-reality)*
-- The Swiss National Bank is closely monitoring potential **second-round inflation effects** ahead of its next monetary policy decision. *[Business Recorder](https://www.brecorder.com/news/40450218/snb-closely-watching-for-second-round-inflation-effects-vice-chairman-tells-paper)*
+- Pakistan and Oman have signed an agreement between PSO and OQ to strengthen energy cooperation. *[ARY](https://arynews.tv/pakistan-oman-strengthen-energy-cooperation-with-pso-and-oq-agreement)*
+- Tata Steel will acquire a **26.38%** stake in APL Apollo Tubes for approximately **155.11 billion rupees ($1.67 billion)**, with an additional open offer for a 26% holding. *[Business Recorder](https://www.brecorder.com/news/40450314/indias-tata-steel-to-buy-264-of-apl-apollo-for-167-billion)*
+- The Indian rupee is expected to open in the **92.60-92.64** range following a tech-sector rally and heavy dollar sales. *[Business Recorder](https://www.brecorder.com/news/40450313/ai-rout-deepens-keeping-indian-rupee-rally-alive-on-foreign-equity-buying)*
+- Australian share futures fell **0.6%** and the New Zealand S&P/NZX 50 index dropped **1%** due to weak jobs data and falling metal prices. *[Business Recorder](https://www.brecorder.com/news/40450312/australia-shares-set-to-slide-at-open-nz-falls)*
+- US tech stocks faced a significant downturn, with the Nasdaq recording its largest weekly decline of **10%** since the pandemic. *[Business Recorder](https://www.brecorder.com/news/40450310/us-futures-bounce-as-ai-rout-rattles-asian-stocks)*
+- Foreign investors net bought Indian shares worth **103.08 billion rupees ($1.11 billion)** on Friday. *[Business Recorder](https://www.brecorder.com/news/40450307/indian-shares-set-to-open-higher-on-foreign-inflows-as-ai-selloff-persists)*
+- Global oil prices fell on Monday, continuing a three-week losing streak due to broader financial market selloffs. *[Business Recorder](https://www.brecorder.com/news/40450306/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses)*
+- Pakistan’s cotton production has increased by **6%** year-on-year, reaching **5.131 million bales**. *[Business Recorder](https://www.brecorder.com/news/40450235/weekly-cotton-review-production-soars-6pc-to-5131m-bales-yoy)*
+- The Agriculture Department urged farmers to complete wheat sowing by **Nov 25**, noting that certified seeds can increase yields by up to **25%**. *[Business Recorder](https://www.brecorder.com/news/40450302/farmers-urged-to-complete-wheat-sowing-by-nov-25)*
+- Governor Faisal Karim Kundi invited investments into Khyber Pakhtunkhwa’s solar energy and public-private partnership (PPP) sectors. *[Business Recorder](https://www.brecorder.com/news/40450303/kp-offers-vast-opportunities-for-solar-energy-investment-kundi)*
+- The FoodAg 2026 exhibition is scheduled to run from **Nov 23 to 26** at the Karachi Expo Centre to boost agri-food exports. *[Business Recorder](https://www.brecorder.com/news/40450236/foodag-2026-to-kick-off-today-aiming-to-boost-agri-food-exports)*
 
 ### Science & Technology
-- Rockstar Games is reportedly planning the PC release of **GTA 6 for early 2027**. *[ARY](https://arynews.tv/gta-6-pc-release-reportedly-planned-for-early-2027-by-rockstar)*
-- An AI prompt study has exposed **secret data leaks** occurring across breached third-party hosting providers. *[ARY](https://arynews.tv/ai-prompt-study-exposes-secret-leaks-across-breached-third-party-hosting-providers)*
-- OpenAI has rolled out **ChatGPT Space** to its Plus subscribers worldwide. *[ARY](https://arynews.tv/openai-rolls-out-chatgpt-space-to-plus-subscribers-worldwide)*
+- An investigation revealed that Alice Huang maintained contact with a Chinese Ministry of State Security official for over a year during her affair with former Nvidia CEO Jensen Huang. *[Business Recorder](https://www.brecorder.com/news/40450309/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-nyt-says)*
 
 ### Weather
-- Lahore topped global pollution rankings with an **Air Quality Index (AQI) of 538**, followed by Delhi (**207**) and Karachi (**180**). *[Business Recorder](https://www.brecorder.com/news/40450214/lahore-again-tops-global-pollution-rankings-with-aqi)*
+- The weather forecast for Monday, Nov 23, predicts temperatures of **32-14 (ºC)** in Karachi, **31-16 (ºC)** in Hyderabad, and **26-11 (ºC)** in Lahore. *[Business Recorder](https://www.brecorder.com/news/40450231/the-weather)*
 
 ### Politics
-- JI Chief announced a rally at **Minar-e-Pakistan on November 29** to show solidarity with Balochistan. *[ARY](https://arynews.tv/ji-chief-announces-nov-29-minar-e-pakistan-rally-in-solidarity-with-balochistan)*
-- Deputy PM and Foreign Minister Ishaq Dar held talks with Saudi Foreign Minister Prince Faisal bin Farhan Al Saud regarding regional Middle East tensions. *[Business Recorder](https://www.brecorder.com/news/40450222/dar-saudi-fm-discuss-regional-tensions-r4-meeting)*
-- Portuguese Foreign Minister Paulo Rangel arrived in Pakistan for a **two-day official visit (Nov 22-23)** to strengthen economic cooperation. *[Business Recorder](https://www.brecorder.com/news/40450210/portuguese-foreign-minister-arrives-in-pakistan-for-two-day-visit)*
-- Pakistan will host the **15th Annual Meeting of the International Network for Nuclear Security Training and Support Centres (NSSC Network)** in Islamabad from November 23 to 26, 2026. *[Business Recorder](https://www.brecorder.com/news/40450219/pakistan-to-host-15th-international-nuclear-security-training-meeting-fo)*
+- Musadik Malik stated that Pakistan is prepared for talks with India based on evidence rather than allegations. *[ARY](https://arynews.tv/pakistan-ready-for-talks-with-india-based-on-evidence-not-allegations-musadik-malik)*
+- Major rallies were organized by JUI-F and the Jeay Sindh Rehbar Committee (JSRC) across Sindh to oppose the proposed division of the province. *[Business Recorder](https://www.brecorder.com/news/40450233/big-rallies-held-to-oppose-proposed-division-of-sindh)*
 
 ### National
-- Pakistan has announced its first **nationwide diabetes prevention and control programme**. *[ARY](https://arynews.tv/pakistan-announces-first-nationwide-diabetes-prevention-and-control-programme)*
-- Security forces killed **15 terrorists** belonging to 'Fitna al-Hindustan' during operations in Balochistan’s Mastung district. *[Business Recorder](https://www.brecorder.com/news/40450209/pakistan-security-forces-kill-15-terrorists-in-balochistans-mastung)*
-- The main suspect in the Karachi mother-daughter murder case has been arrested in **Larkana**. *[ARY](https://arynews.tv/karachi-mother-daughter-murder-main-suspect-arrested-in-larkana)*
-- The NCCIA arrested a suspect following a report from Google regarding **child abuse material**. *[ARY](https://arynews.tv/nccia-arrests-suspect-after-google-reports-abusive-material)*
+- Lok Virsa will host the Lok Mela 2026 in Islamabad from **Nov 27 to Dec 06** under the theme “Naqoosh-e-Watan.” *[Business Recorder](https://www.brecorder.com/news/40450304/lok-mela-2026-to-showcase-pakistans-cultural-diversity-from-27th)*
+- The Punjab Probation and Parole Service (PP&PS) is strengthening institutional coordination for offender rehabilitation in the Sahiwal Division. *[Business Recorder](https://www.brecorder.com/news/40450305/offender-rehabilitation-ppampps-strengthens-institutional-coordination-for-improvement)*
+- The President of the Hyderabad Chamber of Small Traders expressed concern regarding wheat shortages and rising flour prices in Hyderabad. *[Business Recorder](https://www.brecorder.com/news/40450234/hyderabad-chamber-president-expresses-concern-over-wheat-shortage)*
 
 ### International
-- An Iranian attack on a civilian industrial facility in Bahrain wounded **two people, including a Pakistani national**. *[Business Recorder](https://www.brecorder.com/news/40450225/iran-strike-wounds-two-including-pakistani-in-bahrain-riyadh-denounces-criminal-attacks)*
-- At least **14 people are missing** after a Russian drone struck a residential building in Ukraine’s Kyiv region. *[Business Recorder](https://www.brecorder.com/news/40450220/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskiy-says)*
-- The death toll from a boat accident in southern Nigeria has risen to **24 people** following a mechanical failure. *[Business Recorder](https://www.brecorder.com/news/40450212/death-toll-from-nigeria-boat-accident-rises-to-24)*
+- Kuwait has warned employers regarding potential penalties for violating salary transfer regulations. *[ARY](https://arynews.tv/kuwait-warns-employers-of-penalties-over-salary-transfer-violations)*
+- The German army has begun testing kamikaze drones and AI-integrated targeting tools in Lithuania. *[ARY](https://arynews.tv/german-army-starts-testing-kamikaze-drones-and-ai-targeting-tool-in-lithuania)*
+- US intelligence leadership stated that Vladimir Putin is "not America's friend" in the context of the Ukraine conflict. *[ARY](https://arynews.tv/us-intelligence-chief-says-putin-is-not-americas-friend-in-ukraine)*
+- Qatar and Germany have taken a firm stance on ensuring freedom and stability in the Strait of Hormuz. *[ARY](https://arynews.tv/qatar-and-germany-take-a-firm-stand-on-strait-of-hormuz-freedom-and-regional-stability)*
 
 ### Sports
-- Pakistan Shaheens scored **313 runs in 49.2 overs** against India A, featuring half-centuries from Maaz Sadaqat (**59**), Hasan Nawaz, and Farhan Yousaf. *[Business Recorder](https://www.brecorder.com/news/40450227/pakistan-shaheens-post-313-against-india-a-after-controversial-toss)*
-- South Africa named **Tony de Zorzi and Anrich Nortje** in their squad for the second Test against Bangladesh. *[Business Recorder](https://www.brecorder.com/news/40450224/south-africa-make-two-changes-for-second-test-against-bangladesh)*
-- England has called up 22-year-old opener **Ben McKinney** to replace the injured Jacob Bethell for the South Africa tour. *[Business Recorder](https://www.brecorder.com/news/40450217/england-call-up-mckinney-for-south-africa-tour-ecb-says)*
-- Australian bowler Josh Hazlewood addressed Usman Khawaja's autobiography, stating he had no knowledge of the **2018 ball-tampering plot**. *[Business Recorder](https://www.brecorder.com/news/40450216/hazlewood-says-was-never-close-with-khawaja-but-has-no-issues-with-book-release)*
-- India declared at **720-9** in Wellington, establishing a **352-run lead** over New Zealand in the first Test. *[Business Recorder](https://www.brecorder.com/news/40450215/new-zealand-cling-on-in-wellington-after-india-build-mammoth-lead)*
-- Carlos Alcaraz defeated Ben Shelton **3-6, 6-3, 7-6(1)** to reach the ATP Finals semi-final against Alexander Zverev. *[Business Recorder](https://www.brecorder.com/news/40450213/alcaraz-digs-deep-to-beat-shelton-will-face-world-number-one-zverev-in-final)*
-- Linda Cohn has urged the Indiana Fever to re-sign Sophie Cunningham to protect Caitlin Clark in **2027**. *[ARY](https://arynews.tv/linda-cohn-urges-indiana-fever-to-re-sign-sophie-cunningham-to-protect-caitlin-clark-in-2027)*
+- Pakistan defeated India by **48 runs** to secure a spot in the Asia Cup Rising Stars semi-finals. *[ARY](https://arynews.tv/pakistan-defeat-india-by-48-runs-to-reach-asia-cup-rising-stars-semi-finals)*
+- Pakistan A captain Abdul Samad praised the team's all-round performance in their recent victory against India. *[ARY](https://arynews.tv/pakistan-a-captain-abdul-samad-hails-all-round-performance-against-india)*
+- Liverpool secured a dominant win over a ten-man Manchester United during Mauricio Pochettino's debut. *[ARY](https://arynews.tv/liverpool-hammer-ten-man-united-in-pochettino-debut)*
+- In the first Test against New Zealand, India requires **five wickets** for victory after New Zealand reached **206-5**; India had previously declared at **720-9**. *[Business Recorder](https://www.brecorder.com/news/40450315/india-need-five-wickets-for-victory-over-new-zealand-in-first-test)*
 
-### Health
-- Pakistan has announced its first **nationwide diabetes prevention and control programme**. *[ARY](https://arynews.tv/pakistan-announces-first-nationwide-diabetes-prevention-and-control-programme)*
+### Other
+- Pop star Miley Cyrus married drummer Maxx Morando in a private ceremony in California. *[Business Recorder](https://www.brecorder.com/news/40450316/pop-star-miley-cyrus-weds-drummer-maxx-morando-in-california)*
+- US President Donald Trump is hosting a gala for holders of his meme coin, which has seen its value plummet from **$75** to less than **$1**. *[Business Recorder](https://www.brecorder.com/news/40450311/trump-to-welcome-investors-at-gala-for-his-plunging-meme-coin)*
 
