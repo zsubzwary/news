@@ -4,41 +4,49 @@ title: Pakistan News Briefing
 lang: en
 ---
 
-Published at: 24-Nov-2026 21:05PKT
+Published at: 26-Nov-2026 21:03PKT
 
 Time to read: 4 mins
 
 ### Economy
-- Gold prices in Pakistan rose by Rs. 1,300 per tola to reach Rs. 385,436, while 10-gram gold increased by Rs. 1,115 to Rs. 330,449. *[Business Recorder](https://www.brecorder.com/news/40450521/gold-price-per-tola-rises-rs1300-in-pakistan)*
-- The Pakistani rupee strengthened by 0.01% in the inter-bank market, closing at 276.47 against the US dollar. *[Business Recorder](https://www.brecorder.com/news/40450517/intra-day-update-rupee-records-gain-against-us-dollar)*
-- Prime Minister Shehbaz Sharif ordered a crackdown on Oil Marketing Companies (OMCs) after an audit revealed tax irregularities totaling Rs. 24.4 billion ($87 million). *[Business Recorder](https://www.brecorder.com/news/40450513/rs24.4bn-tax-irregularities-pm-orders-crackdown-on-omcs)*
-- Foreign investor confidence in Pakistan has turned negative due to domestic economic pressures and heightened geopolitical tensions, according to the OICCI survey. *[Business Recorder](https://www.brecorder.com/news/40450514/foreign-investors-confidence-turns-negative-as-pakistans-business-sentiment-deteriorates-sharply-oicci)*
-- The Securities and Exchange Commission of Pakistan (SECP) lifted the lending suspension on the Rural Community Development Programme (RCDP) following an on-site inspection. *[Business Recorder](https://www.brecorder.com/news/40450511/pakistans-regulator-lifts-rcdp-lending-suspension)*
-- China and India are on track for record Russian oil imports in 2026, though demand is expected to peak and wane by 2027. *[Business Recorder](https://www.brecorder.com/news/40450531/china-india-set-for-record-russian-oil-imports-in-2026-but-demand-seen-peaking)*
-- Anthropic shares fell 6.5% to $82, dropping below their $83 IPO price; CEO Dario Amodei previously sold over 3.37 million shares worth more than $280 million. *[Business Recorder](https://www.brecorder.com/news/40450528/anthropic-breaks-below-83-ipo-price-as-debut-rally-unravels)*
-- AI-driven parametric insurance is being positioned as a vital tool for climate risk financing to manage Pakistan's exposure to floods, droughts, and heatwaves. *[Business Recorder](https://www.brecorder.com/news/40450533/ai-driven-parametric-insurance-a-new-frontier-for-climate-risk-financing)*
+- Gold prices in Pakistan rose to **Rs. 378,636 per tola** (an increase of **Rs. 4,700**) and **Rs. 324,619 per 10 grams** (an increase of **Rs. 4,030**). *[Business Recorder](https://www.brecorder.com/news/40450862/gold-price-per-tola-increases-rs4700-in-pakistan)*
+- The Power Division proposed capping the monthly fuel cost adjustment (FCA) for electricity tariffs at **Re. 0.83 per unit** for the October-December period. *[Business Recorder](https://www.brecorder.com/news/40450866-govt-moves-to-cap-power-tariff-hike-at-re083-for-oct-dec)*
+- The Indian rupee fell **0.2%** to close at **92.4450** against the US dollar, while Brent crude oil rose above **$96 per barrel**. *[Business Recorder](https://www.brecorder.com/news/40450879-spike-in-oil-prices-partly-reverses-rupee-rally-forward-premiums-surge)*
+- National average rice prices in India rose by **12.5%** in October, while retail inflation in the country reached **6.09%**. *[Business Recorder](https://www.brecorder.com/news/40450878-why-are-indian-rice-prices-rising-despite-record-stocks)* *[Business Recorder](https://www.brecorder.com/news/40450877-india-swaps-treasury-bills-signal-possibility-of-outsized-rbi-rate-hike-next-week)*
+- Bangladeshi garment workers clashed with police following the approval of a **36% minimum wage increase**. *[Business Recorder](https://www.brecorder.com/news/40450868-bangladesh-garment-workers-clash-with-police-day-after-wage-deal)*
+- Jamaat-e-Islami has demanded a further reduction in the petroleum levy. *[ARY](https://arynews.tv/jamaat-e-islami-calls-for-further-reduction-in-petroleum-levy)*
+- Zuma Resources' UK subsidiary, Zuma Global Ltd, received regulatory clearance from **Ofcom** to launch telecommunications and international eSIM services. *[Business Recorder](https://www.brecorder.com/news/40450859-pakistans-zuma-gets-ofcom-nod-to-launch-uk-telecom-esim-services)*
 
 ### Science & Technology
-- Jensen Huang has returned to his role as CEO of Nvidia following a resignation linked to an extramarital affair scandal. *[Business Recorder](https://www.brecorder.com/news/40450526/jensen-huang-returns-to-nvidia-vows-to-be-a-better-ceo)*
-- Critics have questioned the independence of the Nvidia board after reinstating CEO Jensen Huang before internal investigations into his conduct were finalized. *[Business Recorder](https://www.brecorder.com/news/40450518/nvidia-boards-huang-reversal-raises-doubts-about-independence-critics-say)*
-- Federal Reserve Chairman Kevin Warsh described artificial intelligence as a "hinge" of history that could significantly impact US inflation and economic stability. *[Business Recorder](https://www.brecorder.com/news/40450520/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow)*
-
-### Weather
-- The Saguaro cactus, an icon of the American West, is struggling to survive due to increasing heat storms in the region. *[Business Recorder](https://www.brecorder.com/news/40450524/the-saguaro-cactus-icon-of-the-american-west-struggles-to-survive-heat-storms)*
+- Elon Musk has pledged **two SpaceX shares** for every US child as part of an **$18 billion** AI-focused initiative. *[ARY](https://arynews.tv/musk-pledges-two-spacex-shares-for-every-us-child-in-18-billion-ai-charm-offensive)*
+- Nvidia is reportedly cutting its supply of gaming GPUs by **20% to 30%**. *[ARY](https://arynews.tv/nvidia-reportedly-cuts-gaming-gpu-supply-by-20-to-30-percent)*
 
 ### Politics
-- JUI-F has accused the Punjab government of restricting Maulana Fazlur Rehman's movement in Lahore through the use of police blockades. *[Business Recorder](https://www.brecorder.com/news/40450519/jui-f-accuses-punjab-govt-of-restricting-party-chief-fazls-movement-in-lahore)*
-- A petition has been filed in the Islamabad High Court (IHC) seeking live streaming of appeal proceedings for Imran Khan and Bushra Bibi regarding the £190 million Al-Qadir Trust case. *[Business Recorder](https://www.brecorder.com/news/40450512/ps190m-case-imran-bushra-seek-live-coverage-of-appeal-proceedings)*
+- PPP Chairman Bilawal Bhutto Zardari stated that the PTI is a "political reality" and must be included in any meaningful democratic reset or a new Charter of Democracy. *[Business Recorder](https://www.brecorder.com/news/40450880/pti-a-political-reality-must-be-part-of-reset-process-bilawal)*
+- Bilawal Bhutto Zardari clarified his "brute majority" remarks, noting that broad consensus provides strength to constitutional amendments. *[ARY](https://arynews.tv/bilawal-clarifies-brute-majority-remark-says-broader-consensus-gives-amendments-strength)*
+- Pakistan, Saudi Arabia, and Turkiye are set to hold a **Makkah Alliance** meeting in Islamabad on **November 27-28** regarding a mutual defense agreement. *[Business Recorder](https://www.brecorder.com/news/40450860-pakistan-saudi-turkiye-to-hold-makkah-alliance-meeting-in-islamabad-nov-27-28-sources-say)*
 
 ### National
-- Interior Minister Mohsin Naqvi identified four "red lines" for social media platforms: terrorism, hate speech, incitement to violence, and child sexual exploitation. *[Business Recorder](https://www.brecorder.com/news/40450523/naqvi-sets-four-red-lines-for-social-media-warns-of-action-against-violations)*
-- According to the 2026 Numbeo Mid-Year Safety Index, Lahore scored 63.8 (Crime Index 36.2), ranking behind Islamabad (69.2) but ahead of New York and Paris. *[Business Recorder](https://www.brecorder.com/news/40450525/numbeo-index-puts-lahores-safety-score-at-638-behind-islamabad)*
+- A local government secretary in Karachi has been suspended for **120 days** following a building collapse. *[ARY](https://arynews.tv/karachi-building-collapse-local-government-secretary-suspended-for-120-days)*
+- A Karachi court rejected a plea to extend a stay order regarding the Admin Society building case. *[ARY](https://arynews.tv/karachi-court-rejects-plea-to-extend-stay-order-in-admin-society-building-case)*
+- PM Shehbaz Sharif directed the establishment of international-standard laboratories and modernized training to boost Pakistan's gemstone exports. *[Business Recorder](https://www.brecorder.com/news/40450872-pm-shehbaz-seeks-international-standard-labs-training-to-boost-pakistans-gemstone-exports)*
+- PIA has restored its UK flight operations using its own **Boeing 777** aircraft after its wet-lease partner, Norse Atlantic Airways, suspended services. *[Business Recorder](https://www.brecorder.com/news/40450864-pia-restores-uk-flight-operations-after-wet-lease-partner-suspends-services)*
+- An official holiday has been announced in Islamabad. *[ARY](https://arynews.tv/holiday-announced-in-islamabad)*
+- Significant traffic jams have been reported on major roads throughout Karachi. *[ARY](https://arynews.tv/karachi-traffic-update-26-november)*
 
 ### International
-- The tallest skyscraper in Riyadh, which houses the Saudi Public Investment Fund (PIF) headquarters, was hit by an unspecified projectile for the second time in less than a week. *[Business Recorder](https://www.brecorder.com/news/40450530/tallest-skyscraper-in-riyadh-hit-second-time-in-less-than-a-week-witnesses)*
-- Pay protests by garment workers in Bangladesh have led to clashes with police and the suspension of operations at dozens of factories. *[Business Recorder](https://www.brecorder.com/news/40450527/bangladesh-garment-workers-clash-with-police-as-pay-protests-shut-factories)*
-- Iran's currency has plummeted on the black market following US Treasury sanctions against more than two dozen exchange houses and front companies. *[Business Recorder](https://www.brecorder.com/news/40450522/iran-currency-plunges-after-fresh-us-sanctions)*
+- The Israeli defense minister has threatened to displace **1 million Gazans** if Hamas does not disarm. *[ARY](https://arynews.tv/israel-defence-minister-threatens-to-displace-1-million-gazans-if-hamas-wont-disarm)*
+- In a prisoner and body exchange, Ukraine received **250 bodies** from Russia, while Moscow received **22 bodies** in return. *[Business Recorder](https://www.brecorder.com/news/40450876-ukraine-says-received-250-bodies-in-swap-with-russia)*
+- At least **four people** were injured in Kuwait after Iranian drones targeting a vital facility were intercepted. *[Business Recorder](https://www.brecorder.com/news/40450875-kuwait-says-four-injured-after-iranian-drones-intercepted)*
+- Israeli airstrikes in Gaza killed **nine Palestinians**, including Khaled Abu Nada, the Hamas-appointed deputy minister of education. *[Business Recorder](https://www.brecorder.com/news/40450867-israel-kills-nine-in-gaza-including-a-hamas-appointed-minister-officials-say)*
+- India's Congress party is suing Meta and the Modi government, alleging social media censorship. *[Business Recorder](https://www.brecorder.com/news/40450873-indias-main-opposition-party-sues-meta-alleging-censorship)*
+- Iran's Revolutionary Guards reported that **two oil tankers**, including one supertanker carrying over **2 million barrels** of crude, caught fire after hitting sea mines near Oman’s Khasab port. *[Business Recorder](https://www.brecorder.com/news/40450865-irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab)*
 
 ### Sports
-- 15-year-old Vaibhav Sooryavanshi set List A cricket records by scoring 204 runs off just 53 balls for India A against the UAE, including 28 sixes. *[Business Recorder](https://www.brecorder.com/news/40450529/records-tumble-as-teen-sooryavanshi-smashes-53-ball-204)*
+- Rana Irfan has won the Snooker World Cup title. *[ARY](https://arynews.tv/rana-irfan-clinches-snooker-world-cup-title)*
+- Mehran Khan, a civil servant from Peshawar, gained international fame after taking a one-handed cricket catch while riding a moving motorbike. *[Business Recorder](https://www.brecorder.com/news/40450871-unbelievable-catch-pakistan-motorbike-passenger-becomes-cricket-sensation)*
+- Ireland’s men’s cricket team will tour Pakistan in **January**, playing **three ODIs** and three matches against Pakistan’s second-string team. *[Business Recorder](https://www.brecorder.com/news/40450869-ireland-to-tour-pakistan-for-first-odi-series-in-january)*
+
+### Health
+- PM Shehbaz Sharif launched the **Mehfooz Dawa** application to allow citizens to verify the authenticity, availability, and pricing of medicines. *[Business Recorder](https://www.brecorder.com/news/40450861-pm-shehbaz-launches-mehfooz-dawa-app-to-verify-medicine-authenticity-prices)*
 
